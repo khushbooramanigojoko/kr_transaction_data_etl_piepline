@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Haley Bell",
+        "age": 51,
+        "gender": "female",
+        "address": "95549 Torres Valleys Apt. 528, Aliciaberg, WY 49136",
+        "phone": "(829)932-0443",
+        "email": "mboyd@example.org",
+        "account": {
+            "account_number": "c5545cd7-c2a6-4632-ac19-fbb57ce59484",
+            "balance": -3409.09,
+            "transactions": [
+                {
+                    "date": "2024-08-23",
+                    "description": "Deposit",
+                    "amount": -2469.0,
+                    "transaction_id": 46343049
+                },
+                {
+                    "date": "2024-01-02",
+                    "description": "Deposit",
+                    "amount": 4804.42,
+                    "transaction_id": 68616079
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Interest",
+                    "amount": -4120.3,
+                    "transaction_id": 52235066
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Withdrawal",
+                    "amount": -4859.7,
+                    "transaction_id": 4926709
+                }
+            ]
+        }
+    }
+}

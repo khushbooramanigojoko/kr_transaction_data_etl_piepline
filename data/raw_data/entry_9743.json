@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "James Bonilla",
+        "age": 57,
+        "gender": "female",
+        "address": "Unit 0296 Box 6226, DPO AE 32028",
+        "phone": "217.425.5702x57454",
+        "email": "tylercox@example.com",
+        "account": {
+            "account_number": "84c6017b-d122-4a04-ac5a-1c2b27142e38",
+            "balance": -16219.88,
+            "transactions": [
+                {
+                    "date": "2023-10-22",
+                    "description": "Interest",
+                    "amount": -4753.83,
+                    "transaction_id": 101694734
+                }
+            ]
+        }
+    }
+}

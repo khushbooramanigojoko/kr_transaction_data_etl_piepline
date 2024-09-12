@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Stacy Mcdonald",
+        "age": 80,
+        "gender": "male",
+        "address": "USS Martinez, FPO AP 19592",
+        "phone": "+1-455-796-2256",
+        "email": "daniel16@example.com",
+        "account": {
+            "account_number": "2a45b1e3-8759-4d6c-ba31-a20ca1e9756b",
+            "balance": 45508.46,
+            "transactions": [
+                {
+                    "date": "2023-06-12",
+                    "description": "Interest",
+                    "amount": 34867.78,
+                    "transaction_id": 57849145
+                },
+                {
+                    "date": "2023-07-04",
+                    "description": "Deposit",
+                    "amount": 36974.63,
+                    "transaction_id": 57602533
+                },
+                {
+                    "date": "2023-10-24",
+                    "description": "Withdrawal",
+                    "amount": 15928.13,
+                    "transaction_id": 71802025
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Withdrawal",
+                    "amount": 47402.24,
+                    "transaction_id": 42098975
+                },
+                {
+                    "date": "2024-07-16",
+                    "description": "Interest",
+                    "amount": 31169.47,
+                    "transaction_id": 65257805
+                }
+            ]
+        }
+    }
+}

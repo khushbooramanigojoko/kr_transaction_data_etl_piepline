@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Cameron Medina",
+        "age": 35,
+        "gender": "female",
+        "address": "PSC 4655, Box 2603, APO AP 60240",
+        "phone": "001-366-906-2379x3219",
+        "email": "woodvanessa@example.org",
+        "account": {
+            "account_number": "0eb3da48-c319-4de9-8cf9-ea46a38c9189",
+            "balance": 1312.79,
+            "transactions": [
+                {
+                    "date": "2023-10-11",
+                    "description": "Deposit",
+                    "amount": 40336.93,
+                    "transaction_id": 105430455
+                },
+                {
+                    "date": "2024-05-30",
+                    "description": "Interest",
+                    "amount": 17705.9,
+                    "transaction_id": 26817946
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Interest",
+                    "amount": 36329.75,
+                    "transaction_id": 63582413
+                }
+            ]
+        }
+    }
+}

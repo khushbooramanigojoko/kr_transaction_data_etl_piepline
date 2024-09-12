@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joyce Simmons",
+        "age": 55,
+        "gender": "female",
+        "address": "252 Gray Brook, East Brandonville, MS 28534",
+        "phone": "622-552-6598x94513",
+        "email": "marroyo@example.org",
+        "account": {
+            "account_number": "27c529c9-d7d7-4c86-a968-84c61786849d",
+            "balance": 31444.8,
+            "transactions": [
+                {
+                    "date": "2023-11-03",
+                    "description": "Withdrawal",
+                    "amount": 17646.34,
+                    "transaction_id": 119304966
+                }
+            ]
+        }
+    }
+}

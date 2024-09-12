@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Debra Martin",
+        "age": 91,
+        "gender": "female",
+        "address": "43316 Jerry Dam Suite 477, West Michellefort, IN 55285",
+        "phone": "(248)680-7633x0471",
+        "email": "sawyerhunter@example.org",
+        "account": {
+            "account_number": "2765bfee-faf5-47f4-bf0c-87d98864129b",
+            "balance": -18565.5,
+            "transactions": [
+                {
+                    "date": "2024-06-19",
+                    "description": "Interest",
+                    "amount": -3124.45,
+                    "transaction_id": 77703941
+                }
+            ]
+        }
+    }
+}

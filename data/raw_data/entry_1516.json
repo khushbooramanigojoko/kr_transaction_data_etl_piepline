@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tyler Rodriguez",
+        "age": 55,
+        "gender": "female",
+        "address": "03360 Medina Vista Apt. 698, Lake Andrew, IA 33012",
+        "phone": "+1-707-224-7473x9301",
+        "email": "rrush@example.com",
+        "account": {
+            "account_number": "3d085ab9-694c-4526-9b88-75f2358c3b78",
+            "balance": 30440.87,
+            "transactions": [
+                {
+                    "date": "2022-12-27",
+                    "description": "Withdrawal",
+                    "amount": 32542.72,
+                    "transaction_id": 75001758
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Deposit",
+                    "amount": 19809.48,
+                    "transaction_id": 111422723
+                },
+                {
+                    "date": "2022-10-13",
+                    "description": "Interest",
+                    "amount": 14405.16,
+                    "transaction_id": 1558159
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Interest",
+                    "amount": 29768.33,
+                    "transaction_id": 26306396
+                }
+            ]
+        }
+    }
+}

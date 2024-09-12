@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Steven Donaldson",
+        "age": 42,
+        "gender": "female",
+        "address": "07023 Contreras Plains Suite 469, Port Daniel, IL 08084",
+        "phone": "+1-882-223-8992x686",
+        "email": "billy08@example.com",
+        "account": {
+            "account_number": "197848e2-70c7-4ee4-830e-d4d53e7eb5f7",
+            "balance": 11135.35,
+            "transactions": [
+                {
+                    "date": "2023-06-27",
+                    "description": "Deposit",
+                    "amount": 14196.03,
+                    "transaction_id": 105150173
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 44,
+        "gender": "female",
+        "address": "32728 Villegas Mountain Suite 410, Anthonyfurt, PW 31066",
+        "phone": "(358)417-9493x40099",
+        "email": "joshuafarmer@example.net",
+        "account": {
+            "account_number": "61cc8a3f-201c-401b-af62-3d8da2e4d41f",
+            "balance": 6360.14,
+            "transactions": [
+                {
+                    "date": "2024-04-03",
+                    "description": "Interest",
+                    "amount": -1985.74,
+                    "transaction_id": 5899810
+                },
+                {
+                    "date": "2024-04-01",
+                    "description": "Deposit",
+                    "amount": 963.16,
+                    "transaction_id": 21976373
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Interest",
+                    "amount": 616.56,
+                    "transaction_id": 1894329
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Withdrawal",
+                    "amount": -4100.7,
+                    "transaction_id": 107357656
+                }
+            ]
+        }
+    }
+}

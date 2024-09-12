@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Lisa Prince",
+        "age": 60,
+        "gender": "male",
+        "address": "436 Mora Burg, Port Cathy, MA 11452",
+        "phone": "356-430-3053",
+        "email": "juarezscott@example.org",
+        "account": {
+            "account_number": "39eb6622-af6a-4e4a-812f-2a41c14ecbfa",
+            "balance": 26876.93,
+            "transactions": [
+                {
+                    "date": "2024-06-11",
+                    "description": "Interest",
+                    "amount": 45385.22,
+                    "transaction_id": 78229116
+                },
+                {
+                    "date": "2023-04-30",
+                    "description": "Withdrawal",
+                    "amount": 45988.24,
+                    "transaction_id": 103543642
+                },
+                {
+                    "date": "2023-10-11",
+                    "description": "Interest",
+                    "amount": 40621.36,
+                    "transaction_id": 100366730
+                },
+                {
+                    "date": "2023-06-08",
+                    "description": "Deposit",
+                    "amount": 15799.34,
+                    "transaction_id": 112681590
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Interest",
+                    "amount": 30565.87,
+                    "transaction_id": 84286514
+                }
+            ]
+        }
+    }
+}

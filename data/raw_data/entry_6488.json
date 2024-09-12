@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joyce Martin",
+        "age": 37,
+        "gender": "female",
+        "address": "5133 Ian Via, New Louis, VT 21045",
+        "phone": "+1-634-982-3803x4959",
+        "email": "darrennewton@example.com",
+        "account": {
+            "account_number": "7e095759-c6c7-4c31-9436-ee47c487115f",
+            "balance": 12570.17,
+            "transactions": [
+                {
+                    "date": "2024-03-08",
+                    "description": "Deposit",
+                    "amount": 48354.33,
+                    "transaction_id": 100616161
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Interest",
+                    "amount": 28911.86,
+                    "transaction_id": 80632197
+                }
+            ]
+        }
+    }
+}

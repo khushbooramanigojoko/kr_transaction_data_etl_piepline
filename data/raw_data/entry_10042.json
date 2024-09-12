@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Courtney Brown",
+        "age": 23,
+        "gender": "female",
+        "address": "5704 William Ville, Port Caseyshire, PW 94647",
+        "phone": "(988)551-4642x5643",
+        "email": "heatherreese@example.org",
+        "account": {
+            "account_number": "44c4d56e-6236-44c6-ac7a-c1f2d87f52a5",
+            "balance": -2209.61,
+            "transactions": [
+                {
+                    "date": "2023-03-21",
+                    "description": "Interest",
+                    "amount": 3503.89,
+                    "transaction_id": 119404275
+                }
+            ]
+        }
+    }
+}

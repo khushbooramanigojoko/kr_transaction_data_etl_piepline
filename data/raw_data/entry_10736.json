@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jeff Sanders",
+        "age": 64,
+        "gender": "female",
+        "address": "5193 Alexis Roads, South Jessica, LA 69628",
+        "phone": "653-584-6215x18079",
+        "email": "amason@example.org",
+        "account": {
+            "account_number": "df006218-439c-4723-8d6a-d81fde5982ba",
+            "balance": -11985.92,
+            "transactions": [
+                {
+                    "date": "2023-12-16",
+                    "description": "Withdrawal",
+                    "amount": 1502.12,
+                    "transaction_id": 98522728
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Withdrawal",
+                    "amount": 4590.36,
+                    "transaction_id": 94173727
+                }
+            ]
+        }
+    }
+}

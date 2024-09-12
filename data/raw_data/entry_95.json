@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Hailey Walker",
+        "age": 75,
+        "gender": "female",
+        "address": "9518 Jackson Lights, Whitneyberg, MA 65836",
+        "phone": "7265533383",
+        "email": "deckerjames@example.net",
+        "account": {
+            "account_number": "bbc330fd-8098-48d9-bae5-a61a4f818177",
+            "balance": 10764.71,
+            "transactions": [
+                {
+                    "date": "2023-12-26",
+                    "description": "Interest",
+                    "amount": 16552.65,
+                    "transaction_id": 59714892
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Interest",
+                    "amount": 18756.82,
+                    "transaction_id": 90286775
+                }
+            ]
+        }
+    }
+}

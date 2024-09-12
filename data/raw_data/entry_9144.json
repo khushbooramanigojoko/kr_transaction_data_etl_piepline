@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Nicholas Manning",
+        "age": 68,
+        "gender": "female",
+        "address": "2936 Nicholas Stravenue, Lake Taylor, MO 21614",
+        "phone": "952-986-8805",
+        "email": "johnstonamy@example.com",
+        "account": {
+            "account_number": "af649b1f-f31c-4a03-bf46-dbb1b52965cc",
+            "balance": -7533.58,
+            "transactions": [
+                {
+                    "date": "2024-06-19",
+                    "description": "Interest",
+                    "amount": -654.36,
+                    "transaction_id": 7162805
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Deposit",
+                    "amount": 3928.53,
+                    "transaction_id": 29170765
+                }
+            ]
+        }
+    }
+}

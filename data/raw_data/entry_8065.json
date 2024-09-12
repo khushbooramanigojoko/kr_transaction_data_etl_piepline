@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jessica Key",
+        "age": 66,
+        "gender": "female",
+        "address": "86041 Lisa Stream Suite 892, North Justinburgh, ID 56255",
+        "phone": "978-440-3097x9959",
+        "email": "flowerswilliam@example.net",
+        "account": {
+            "account_number": "8121852d-0540-4bab-96c1-37a76b0f23ea",
+            "balance": 12554.2,
+            "transactions": [
+                {
+                    "date": "2024-08-01",
+                    "description": "Deposit",
+                    "amount": 40995.15,
+                    "transaction_id": 13186601
+                },
+                {
+                    "date": "2023-06-10",
+                    "description": "Interest",
+                    "amount": 24103.92,
+                    "transaction_id": 22663877
+                },
+                {
+                    "date": "2024-02-20",
+                    "description": "Interest",
+                    "amount": 46123.24,
+                    "transaction_id": 2019520
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Interest",
+                    "amount": 252.3,
+                    "transaction_id": 111531451
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Withdrawal",
+                    "amount": 49148.87,
+                    "transaction_id": 67841570
+                }
+            ]
+        }
+    }
+}

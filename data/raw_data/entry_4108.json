@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "April Henson",
+        "age": 25,
+        "gender": "male",
+        "address": "6958 Savannah Prairie, West Gregoryfort, OR 25873",
+        "phone": "(902)637-0577x374",
+        "email": "gonzalesjessica@example.com",
+        "account": {
+            "account_number": "f478d6a4-c3f2-40d0-909a-9d84f9124b37",
+            "balance": 4521.19,
+            "transactions": [
+                {
+                    "date": "2023-02-28",
+                    "description": "Withdrawal",
+                    "amount": 14438.02,
+                    "transaction_id": 113135245
+                },
+                {
+                    "date": "2023-10-24",
+                    "description": "Deposit",
+                    "amount": 8427.49,
+                    "transaction_id": 71762878
+                }
+            ]
+        }
+    }
+}

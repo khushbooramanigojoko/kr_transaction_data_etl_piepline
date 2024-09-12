@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Geoffrey Chambers",
+        "age": 82,
+        "gender": "male",
+        "address": "160 Reginald Trail Suite 630, Carlosland, FL 67019",
+        "phone": "001-403-201-2686",
+        "email": "tommy97@example.org",
+        "account": {
+            "account_number": "99364227-b6a8-49a2-8898-4b0f41110643",
+            "balance": 26930.4,
+            "transactions": [
+                {
+                    "date": "2024-04-02",
+                    "description": "Deposit",
+                    "amount": 38170.09,
+                    "transaction_id": 118835869
+                }
+            ]
+        }
+    }
+}

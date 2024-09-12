@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Elizabeth Goodwin",
+        "age": 46,
+        "gender": "female",
+        "address": "2636 Sherry Mountain, Meyermouth, NJ 40959",
+        "phone": "461.528.3025",
+        "email": "yfisher@example.com",
+        "account": {
+            "account_number": "aeb2a737-fed9-4396-91dc-f2341b412fa1",
+            "balance": 4769.24,
+            "transactions": [
+                {
+                    "date": "2022-12-06",
+                    "description": "Deposit",
+                    "amount": 32161.05,
+                    "transaction_id": 117332511
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Interest",
+                    "amount": 38596.12,
+                    "transaction_id": 6994234
+                },
+                {
+                    "date": "2024-07-23",
+                    "description": "Withdrawal",
+                    "amount": 34468.48,
+                    "transaction_id": 67367165
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Deposit",
+                    "amount": 9798.84,
+                    "transaction_id": 32445637
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Withdrawal",
+                    "amount": 17165.16,
+                    "transaction_id": 30107788
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Victoria Middleton",
+        "age": 65,
+        "gender": "female",
+        "address": "9256 Jeffrey Spur, West Wendyton, FL 82478",
+        "phone": "(422)447-0582x49570",
+        "email": "tbaker@example.org",
+        "account": {
+            "account_number": "3c183ac1-3605-46cb-8aa8-3c4015a914f5",
+            "balance": 25683.09,
+            "transactions": [
+                {
+                    "date": "2023-11-16",
+                    "description": "Interest",
+                    "amount": 46393.17,
+                    "transaction_id": 106015363
+                },
+                {
+                    "date": "2023-11-27",
+                    "description": "Interest",
+                    "amount": 19361.43,
+                    "transaction_id": 75100232
+                },
+                {
+                    "date": "2022-10-21",
+                    "description": "Withdrawal",
+                    "amount": 9244.7,
+                    "transaction_id": 113412253
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Deposit",
+                    "amount": 44254.07,
+                    "transaction_id": 23318003
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Deposit",
+                    "amount": 14207.78,
+                    "transaction_id": 89689946
+                }
+            ]
+        }
+    }
+}

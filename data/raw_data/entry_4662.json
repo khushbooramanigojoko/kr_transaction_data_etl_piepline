@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Larry Brown",
+        "age": 95,
+        "gender": "male",
+        "address": "278 Matthew Well, Kyleport, KY 91756",
+        "phone": "(545)746-8933",
+        "email": "maxwelleric@example.net",
+        "account": {
+            "account_number": "4bf275dd-c5f6-4a5b-bf9e-53d82e83e6a9",
+            "balance": 6708.9,
+            "transactions": [
+                {
+                    "date": "2023-11-30",
+                    "description": "Interest",
+                    "amount": 20539.51,
+                    "transaction_id": 51847253
+                }
+            ]
+        }
+    }
+}

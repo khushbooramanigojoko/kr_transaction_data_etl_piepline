@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amanda Myers",
+        "age": 58,
+        "gender": "male",
+        "address": "Unit 8880 Box 6394, DPO AE 82646",
+        "phone": "001-992-258-9910",
+        "email": "umorris@example.net",
+        "account": {
+            "account_number": "222e7765-d88f-46b5-aac6-b089f9ef4da6",
+            "balance": -14407.49,
+            "transactions": [
+                {
+                    "date": "2023-04-27",
+                    "description": "Deposit",
+                    "amount": -4253.72,
+                    "transaction_id": 50878490
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Withdrawal",
+                    "amount": 1009.92,
+                    "transaction_id": 38534268
+                },
+                {
+                    "date": "2023-07-26",
+                    "description": "Deposit",
+                    "amount": 306.38,
+                    "transaction_id": 57262410
+                },
+                {
+                    "date": "2023-04-24",
+                    "description": "Deposit",
+                    "amount": 4401.52,
+                    "transaction_id": 21423703
+                }
+            ]
+        }
+    }
+}

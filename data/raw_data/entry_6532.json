@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brian Green",
+        "age": 94,
+        "gender": "male",
+        "address": "330 Bridget Lane Apt. 334, Aguilarfort, MN 88644",
+        "phone": "(945)575-4058",
+        "email": "angeldougherty@example.net",
+        "account": {
+            "account_number": "c27b6497-d7e7-4f9e-9192-9ca5ca93cf61",
+            "balance": 31919.78,
+            "transactions": [
+                {
+                    "date": "2023-12-17",
+                    "description": "Deposit",
+                    "amount": 43021.47,
+                    "transaction_id": 21679729
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Deposit",
+                    "amount": 21228.51,
+                    "transaction_id": 18102234
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Deposit",
+                    "amount": 17834.98,
+                    "transaction_id": 27577106
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Withdrawal",
+                    "amount": 5053.68,
+                    "transaction_id": 18016060
+                },
+                {
+                    "date": "2022-12-20",
+                    "description": "Withdrawal",
+                    "amount": 47881.51,
+                    "transaction_id": 92406933
+                }
+            ]
+        }
+    }
+}

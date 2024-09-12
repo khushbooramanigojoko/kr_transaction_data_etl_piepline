@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ryan Anderson",
+        "age": 80,
+        "gender": "male",
+        "address": "61319 Susan Mission Apt. 421, Jenningstown, MN 56577",
+        "phone": "+1-827-516-8111x0346",
+        "email": "williamsjim@example.net",
+        "account": {
+            "account_number": "1c066fe6-94d8-4862-a6d9-8c3f6e3a389c",
+            "balance": 29018.58,
+            "transactions": [
+                {
+                    "date": "2022-12-19",
+                    "description": "Deposit",
+                    "amount": 15231.86,
+                    "transaction_id": 104644584
+                }
+            ]
+        }
+    }
+}

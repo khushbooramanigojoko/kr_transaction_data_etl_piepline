@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 22,
+        "gender": "female",
+        "address": "USNV Fletcher, FPO AA 58368",
+        "phone": "477-297-1753",
+        "email": "eric39@example.com",
+        "account": {
+            "account_number": "a98f6b27-2b1e-4f73-bd36-eb4e793af89d",
+            "balance": 18153.74,
+            "transactions": [
+                {
+                    "date": "2023-05-02",
+                    "description": "Interest",
+                    "amount": 4275.03,
+                    "transaction_id": 25373609
+                }
+            ]
+        }
+    }
+}

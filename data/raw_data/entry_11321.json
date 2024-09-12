@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 98,
+        "gender": "female",
+        "address": "86112 Janice Forge, North Austin, PA 59143",
+        "phone": "789-304-5640",
+        "email": "jacqueline47@example.com",
+        "account": {
+            "account_number": "e8ed97d3-d78c-43e7-b077-83c7115ae4a6",
+            "balance": 10965.98,
+            "transactions": [
+                {
+                    "date": "2023-01-10",
+                    "description": "Interest",
+                    "amount": 4265.47,
+                    "transaction_id": 88432939
+                },
+                {
+                    "date": "2023-02-25",
+                    "description": "Deposit",
+                    "amount": -4603.54,
+                    "transaction_id": 59610395
+                },
+                {
+                    "date": "2023-01-10",
+                    "description": "Interest",
+                    "amount": -386.77,
+                    "transaction_id": 28984391
+                },
+                {
+                    "date": "2024-07-27",
+                    "description": "Deposit",
+                    "amount": 4637.95,
+                    "transaction_id": 35737215
+                }
+            ]
+        }
+    }
+}

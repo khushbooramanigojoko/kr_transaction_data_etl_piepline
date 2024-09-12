@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "David Carter",
+        "age": 36,
+        "gender": "male",
+        "address": "031 Diana Isle Suite 196, New Nathan, MP 91407",
+        "phone": "297-302-4089",
+        "email": "uadams@example.net",
+        "account": {
+            "account_number": "c369b9f7-8cf2-4199-a29c-60f76ce05525",
+            "balance": -28330.52,
+            "transactions": [
+                {
+                    "date": "2023-11-06",
+                    "description": "Deposit",
+                    "amount": 4786.03,
+                    "transaction_id": 115024331
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Deposit",
+                    "amount": 1914.16,
+                    "transaction_id": 118685439
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Withdrawal",
+                    "amount": -1691.29,
+                    "transaction_id": 104336584
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Interest",
+                    "amount": 504.58,
+                    "transaction_id": 47093948
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Interest",
+                    "amount": 1471.78,
+                    "transaction_id": 81088272
+                }
+            ]
+        }
+    }
+}

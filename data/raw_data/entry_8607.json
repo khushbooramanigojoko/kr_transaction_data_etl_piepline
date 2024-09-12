@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kimberly Davis",
+        "age": 75,
+        "gender": "female",
+        "address": "85554 Sherry Place, Brownshire, UT 37555",
+        "phone": "8635629944",
+        "email": "christopher18@example.org",
+        "account": {
+            "account_number": "f6f24463-f31a-4f15-9e55-f4dc0dacc9f4",
+            "balance": 8499.63,
+            "transactions": [
+                {
+                    "date": "2024-08-06",
+                    "description": "Withdrawal",
+                    "amount": 21755.79,
+                    "transaction_id": 42617172
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Withdrawal",
+                    "amount": 3036.47,
+                    "transaction_id": 3122084
+                },
+                {
+                    "date": "2024-05-25",
+                    "description": "Interest",
+                    "amount": 40582.07,
+                    "transaction_id": 87887087
+                },
+                {
+                    "date": "2023-02-21",
+                    "description": "Interest",
+                    "amount": 42966.8,
+                    "transaction_id": 21230920
+                },
+                {
+                    "date": "2022-09-30",
+                    "description": "Withdrawal",
+                    "amount": 36351.21,
+                    "transaction_id": 59590282
+                }
+            ]
+        }
+    }
+}

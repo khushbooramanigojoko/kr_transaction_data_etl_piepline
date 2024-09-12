@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Anthony Jackson",
+        "age": 85,
+        "gender": "male",
+        "address": "185 John Isle Suite 731, Port Scottfort, MN 94629",
+        "phone": "001-303-500-0366",
+        "email": "tracy56@example.com",
+        "account": {
+            "account_number": "b1a97809-1750-4c2c-959a-8c13c84dbb8c",
+            "balance": 20066.37,
+            "transactions": [
+                {
+                    "date": "2024-08-29",
+                    "description": "Deposit",
+                    "amount": 31791.95,
+                    "transaction_id": 14602870
+                },
+                {
+                    "date": "2023-01-21",
+                    "description": "Withdrawal",
+                    "amount": 7372.03,
+                    "transaction_id": 68584404
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Deposit",
+                    "amount": 23742.81,
+                    "transaction_id": 85786720
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Interest",
+                    "amount": 34932.29,
+                    "transaction_id": 117804075
+                }
+            ]
+        }
+    }
+}

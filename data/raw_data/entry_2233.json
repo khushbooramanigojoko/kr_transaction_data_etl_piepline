@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Amber Armstrong",
+        "age": 36,
+        "gender": "male",
+        "address": "81982 Heather Isle Apt. 556, South Jonathan, TX 42282",
+        "phone": "482.311.3793x306",
+        "email": "kylecrane@example.net",
+        "account": {
+            "account_number": "1b6029b8-82d9-411c-a7dc-18c78d1b8ebe",
+            "balance": 31072.24,
+            "transactions": [
+                {
+                    "date": "2022-12-19",
+                    "description": "Interest",
+                    "amount": 24151.29,
+                    "transaction_id": 25965609
+                },
+                {
+                    "date": "2023-01-11",
+                    "description": "Deposit",
+                    "amount": 48906.36,
+                    "transaction_id": 57334853
+                },
+                {
+                    "date": "2024-03-29",
+                    "description": "Interest",
+                    "amount": 42213.56,
+                    "transaction_id": 103129606
+                }
+            ]
+        }
+    }
+}

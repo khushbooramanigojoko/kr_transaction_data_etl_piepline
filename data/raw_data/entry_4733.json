@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Thomas Taylor",
+        "age": 90,
+        "gender": "male",
+        "address": "8023 Nathan Drive, Barrychester, HI 21341",
+        "phone": "+1-376-511-8706x70191",
+        "email": "qjacobs@example.org",
+        "account": {
+            "account_number": "f3f63585-d75e-4244-b725-370895970ce4",
+            "balance": 35294.14,
+            "transactions": [
+                {
+                    "date": "2024-07-17",
+                    "description": "Interest",
+                    "amount": 24136.83,
+                    "transaction_id": 57452944
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Withdrawal",
+                    "amount": 9640.19,
+                    "transaction_id": 11195523
+                }
+            ]
+        }
+    }
+}

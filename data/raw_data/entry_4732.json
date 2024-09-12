@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Juan Cox",
+        "age": 59,
+        "gender": "male",
+        "address": "0552 Martinez Corner Suite 925, North Zacharymouth, VT 08810",
+        "phone": "710-735-7689",
+        "email": "ebony32@example.org",
+        "account": {
+            "account_number": "8f04b36f-7dca-4856-a1ce-655c55c5f0a5",
+            "balance": 17520.08,
+            "transactions": [
+                {
+                    "date": "2024-02-04",
+                    "description": "Withdrawal",
+                    "amount": 13284.99,
+                    "transaction_id": 74606667
+                },
+                {
+                    "date": "2023-01-26",
+                    "description": "Interest",
+                    "amount": 24933.98,
+                    "transaction_id": 34087299
+                },
+                {
+                    "date": "2024-03-31",
+                    "description": "Withdrawal",
+                    "amount": 5034.28,
+                    "transaction_id": 37868410
+                },
+                {
+                    "date": "2024-07-29",
+                    "description": "Deposit",
+                    "amount": 30378.94,
+                    "transaction_id": 11374568
+                },
+                {
+                    "date": "2024-07-21",
+                    "description": "Interest",
+                    "amount": 45284.86,
+                    "transaction_id": 98126918
+                }
+            ]
+        }
+    }
+}

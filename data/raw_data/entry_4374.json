@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Terry Frost",
+        "age": 83,
+        "gender": "female",
+        "address": "9893 John Divide, New Penny, PR 94699",
+        "phone": "001-960-431-7728x4988",
+        "email": "rortiz@example.com",
+        "account": {
+            "account_number": "3be5f971-5a0f-4d96-a2e3-098b132f00fd",
+            "balance": 21202.4,
+            "transactions": [
+                {
+                    "date": "2023-02-14",
+                    "description": "Deposit",
+                    "amount": 16149.56,
+                    "transaction_id": 54627693
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Interest",
+                    "amount": 25965.55,
+                    "transaction_id": 60472741
+                }
+            ]
+        }
+    }
+}

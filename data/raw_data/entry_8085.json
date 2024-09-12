@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mr. Ryan Pearson",
+        "age": 47,
+        "gender": "female",
+        "address": "458 Beverly Plaza Apt. 367, Kingchester, IL 35823",
+        "phone": "(801)741-0036x0202",
+        "email": "qhoover@example.net",
+        "account": {
+            "account_number": "0c0b832e-4b2d-4b95-be56-9204ba160478",
+            "balance": 5570.59,
+            "transactions": [
+                {
+                    "date": "2024-05-19",
+                    "description": "Interest",
+                    "amount": 1028.94,
+                    "transaction_id": 85183656
+                }
+            ]
+        }
+    }
+}

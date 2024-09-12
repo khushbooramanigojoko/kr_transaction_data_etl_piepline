@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Richard Kelly",
+        "age": 97,
+        "gender": "male",
+        "address": "841 Walton Fort Suite 538, Crystalville, MA 56884",
+        "phone": "4526372011",
+        "email": "kimberly92@example.com",
+        "account": {
+            "account_number": "85fee3ad-aa63-4177-8abf-1a44abd7de04",
+            "balance": 42608.14,
+            "transactions": [
+                {
+                    "date": "2024-06-24",
+                    "description": "Deposit",
+                    "amount": 13691.21,
+                    "transaction_id": 98229497
+                },
+                {
+                    "date": "2023-01-27",
+                    "description": "Withdrawal",
+                    "amount": 4065.77,
+                    "transaction_id": 41649863
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Withdrawal",
+                    "amount": 46557.62,
+                    "transaction_id": 87078965
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Withdrawal",
+                    "amount": 25588.58,
+                    "transaction_id": 57455615
+                },
+                {
+                    "date": "2023-04-29",
+                    "description": "Withdrawal",
+                    "amount": 44927.1,
+                    "transaction_id": 106613612
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Carter",
+        "age": 61,
+        "gender": "male",
+        "address": "3761 Stephanie Trail, Davisview, MT 04638",
+        "phone": "934-475-8096",
+        "email": "rossjason@example.com",
+        "account": {
+            "account_number": "326cd142-2cda-4700-a391-d3546b982a23",
+            "balance": 20536.8,
+            "transactions": [
+                {
+                    "date": "2023-07-29",
+                    "description": "Interest",
+                    "amount": 17099.19,
+                    "transaction_id": 89828852
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Interest",
+                    "amount": 49445.96,
+                    "transaction_id": 56272371
+                }
+            ]
+        }
+    }
+}

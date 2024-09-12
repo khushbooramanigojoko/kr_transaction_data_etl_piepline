@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mr. Jeffrey Levine",
+        "age": 93,
+        "gender": "female",
+        "address": "541 Frank Ports Suite 326, Mckinneyland, GA 85354",
+        "phone": "+1-446-774-8450x145",
+        "email": "doris64@example.org",
+        "account": {
+            "account_number": "44ba9d6c-44ff-4de9-82a5-b7ab69a28fb6",
+            "balance": 43890.12,
+            "transactions": [
+                {
+                    "date": "2023-06-23",
+                    "description": "Withdrawal",
+                    "amount": 8169.6,
+                    "transaction_id": 35881402
+                }
+            ]
+        }
+    }
+}

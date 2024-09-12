@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Alexander Wilson Jr.",
+        "age": 41,
+        "gender": "male",
+        "address": "4518 Diane Track, Larsonton, IL 54807",
+        "phone": "(394)368-0804x5720",
+        "email": "stephaniemccall@example.org",
+        "account": {
+            "account_number": "19416753-a70f-4072-8f07-f31fab2768c9",
+            "balance": 24840.49,
+            "transactions": [
+                {
+                    "date": "2024-03-04",
+                    "description": "Interest",
+                    "amount": 31762.11,
+                    "transaction_id": 59503124
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Deposit",
+                    "amount": 5787.21,
+                    "transaction_id": 81565430
+                }
+            ]
+        }
+    }
+}

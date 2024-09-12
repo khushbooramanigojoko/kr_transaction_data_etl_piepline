@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Shannon Hill",
+        "age": 67,
+        "gender": "female",
+        "address": "2864 Proctor Stravenue, Garciabury, IL 19820",
+        "phone": "(218)624-5241x1710",
+        "email": "mgonzalez@example.org",
+        "account": {
+            "account_number": "b4de987c-2acd-4dd6-bb93-3265b4564ff7",
+            "balance": 1432.22,
+            "transactions": [
+                {
+                    "date": "2023-07-25",
+                    "description": "Withdrawal",
+                    "amount": 41370.82,
+                    "transaction_id": 102336601
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Interest",
+                    "amount": 29969.27,
+                    "transaction_id": 33328849
+                }
+            ]
+        }
+    }
+}

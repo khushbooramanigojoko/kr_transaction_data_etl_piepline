@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Rachel Thomas",
+        "age": 69,
+        "gender": "female",
+        "address": "369 Brett Street Suite 461, Hesterbury, AR 02940",
+        "phone": "+1-963-448-6569",
+        "email": "millerroberto@example.org",
+        "account": {
+            "account_number": "325c9494-e60f-4bfa-bd36-1ee6a95a8ee7",
+            "balance": 5439.84,
+            "transactions": [
+                {
+                    "date": "2024-03-07",
+                    "description": "Withdrawal",
+                    "amount": 13880.94,
+                    "transaction_id": 51272309
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Deposit",
+                    "amount": 27972.18,
+                    "transaction_id": 93693376
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Interest",
+                    "amount": 48167.59,
+                    "transaction_id": 68895174
+                },
+                {
+                    "date": "2023-08-13",
+                    "description": "Deposit",
+                    "amount": 12139.45,
+                    "transaction_id": 18413183
+                }
+            ]
+        }
+    }
+}

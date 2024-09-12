@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 63,
+        "gender": "female",
+        "address": "20002 Misty Lane, East Edwin, NE 02338",
+        "phone": "3507168607",
+        "email": "halljessica@example.com",
+        "account": {
+            "account_number": "02dc348e-40db-4897-a5df-c0788379a51f",
+            "balance": 1162.44,
+            "transactions": [
+                {
+                    "date": "2023-12-30",
+                    "description": "Interest",
+                    "amount": -2957.02,
+                    "transaction_id": 96132796
+                },
+                {
+                    "date": "2024-01-11",
+                    "description": "Interest",
+                    "amount": 1891.44,
+                    "transaction_id": 80813442
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Interest",
+                    "amount": 738.25,
+                    "transaction_id": 88398710
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Deposit",
+                    "amount": -147.45,
+                    "transaction_id": 113252343
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Aaron Davis",
+        "age": 89,
+        "gender": "female",
+        "address": "05559 Eric Turnpike, New Cynthiamouth, SD 97980",
+        "phone": "802-809-9627",
+        "email": "matthewfarley@example.net",
+        "account": {
+            "account_number": "31b44ff3-6b66-4846-899a-49d26979c9f8",
+            "balance": 46804.46,
+            "transactions": [
+                {
+                    "date": "2024-05-15",
+                    "description": "Deposit",
+                    "amount": 15178.15,
+                    "transaction_id": 1285324
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Interest",
+                    "amount": 10488.71,
+                    "transaction_id": 96288341
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kimberly Wise",
+        "age": 72,
+        "gender": "female",
+        "address": "909 Stephanie Knolls Suite 560, New Brettburgh, GA 45150",
+        "phone": "6587709504",
+        "email": "salexander@example.org",
+        "account": {
+            "account_number": "36725d47-d24b-4b79-b423-0d7683344b52",
+            "balance": 36002.89,
+            "transactions": [
+                {
+                    "date": "2024-05-31",
+                    "description": "Interest",
+                    "amount": 16404.2,
+                    "transaction_id": 37895127
+                },
+                {
+                    "date": "2024-06-05",
+                    "description": "Interest",
+                    "amount": 3379.44,
+                    "transaction_id": 8919310
+                }
+            ]
+        }
+    }
+}

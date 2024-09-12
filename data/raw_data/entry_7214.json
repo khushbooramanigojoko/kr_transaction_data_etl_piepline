@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Valerie Brown",
+        "age": 57,
+        "gender": "female",
+        "address": "717 Melissa Fall, Carmenchester, AZ 95020",
+        "phone": "+1-799-315-9264",
+        "email": "michael30@example.com",
+        "account": {
+            "account_number": "8abe7f16-a77a-4edb-b4b2-fba37480aae7",
+            "balance": 43302.86,
+            "transactions": [
+                {
+                    "date": "2023-08-08",
+                    "description": "Interest",
+                    "amount": 24213.52,
+                    "transaction_id": 10131819
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Withdrawal",
+                    "amount": 47808.42,
+                    "transaction_id": 67065118
+                },
+                {
+                    "date": "2022-09-09",
+                    "description": "Interest",
+                    "amount": 15207.03,
+                    "transaction_id": 41900604
+                },
+                {
+                    "date": "2023-07-13",
+                    "description": "Deposit",
+                    "amount": 18700.81,
+                    "transaction_id": 10324529
+                },
+                {
+                    "date": "2023-02-13",
+                    "description": "Withdrawal",
+                    "amount": 47286.78,
+                    "transaction_id": 18271222
+                }
+            ]
+        }
+    }
+}

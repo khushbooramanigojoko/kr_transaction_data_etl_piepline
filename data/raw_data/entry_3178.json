@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Bradley Olsen",
+        "age": 20,
+        "gender": "male",
+        "address": "4327 Boyer Springs Apt. 312, North Georgetown, ME 94190",
+        "phone": "402-533-7928x8703",
+        "email": "samuelcox@example.net",
+        "account": {
+            "account_number": "7de885d2-4dd5-4219-81f9-091976efdabc",
+            "balance": 46421.97,
+            "transactions": [
+                {
+                    "date": "2023-05-22",
+                    "description": "Withdrawal",
+                    "amount": 37600.36,
+                    "transaction_id": 59310288
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Deposit",
+                    "amount": 3555.2,
+                    "transaction_id": 21794602
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Deposit",
+                    "amount": 47299.74,
+                    "transaction_id": 44784377
+                },
+                {
+                    "date": "2023-01-15",
+                    "description": "Interest",
+                    "amount": 23908.46,
+                    "transaction_id": 91152944
+                }
+            ]
+        }
+    }
+}

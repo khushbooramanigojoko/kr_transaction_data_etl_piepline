@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kevin Villegas",
+        "age": 84,
+        "gender": "female",
+        "address": "693 Melinda Spurs, North Wayneburgh, RI 85941",
+        "phone": "323.941.3013x9271",
+        "email": "adriananderson@example.org",
+        "account": {
+            "account_number": "1fc4c6fa-cbdc-4c34-88ab-c3818f13f43b",
+            "balance": 19818.1,
+            "transactions": [
+                {
+                    "date": "2023-03-27",
+                    "description": "Interest",
+                    "amount": 1875.58,
+                    "transaction_id": 48601067
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Deposit",
+                    "amount": 32426.77,
+                    "transaction_id": 116585238
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Withdrawal",
+                    "amount": 26340.34,
+                    "transaction_id": 91161267
+                },
+                {
+                    "date": "2023-08-06",
+                    "description": "Deposit",
+                    "amount": 35776.13,
+                    "transaction_id": 44784544
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Interest",
+                    "amount": 161.07,
+                    "transaction_id": 94998813
+                }
+            ]
+        }
+    }
+}

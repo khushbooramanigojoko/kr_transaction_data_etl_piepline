@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Olivia Preston",
+        "age": 41,
+        "gender": "female",
+        "address": "Unit 9355 Box 9624, DPO AE 17840",
+        "phone": "001-555-744-1891x8773",
+        "email": "edwardsolivia@example.net",
+        "account": {
+            "account_number": "c80ff5d6-c647-4952-ae16-9b171bbdf7a4",
+            "balance": -47429.33,
+            "transactions": [
+                {
+                    "date": "2023-11-25",
+                    "description": "Withdrawal",
+                    "amount": 126.96,
+                    "transaction_id": 83430914
+                },
+                {
+                    "date": "2023-07-20",
+                    "description": "Interest",
+                    "amount": 3658.89,
+                    "transaction_id": 80699612
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Interest",
+                    "amount": 3617.93,
+                    "transaction_id": 58512765
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Interest",
+                    "amount": -4409.15,
+                    "transaction_id": 61270575
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Deposit",
+                    "amount": -4093.08,
+                    "transaction_id": 65553302
+                }
+            ]
+        }
+    }
+}

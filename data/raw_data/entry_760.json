@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Benjamin Keller",
+        "age": 73,
+        "gender": "female",
+        "address": "810 Glover Meadows Suite 800, Martinstad, TX 71725",
+        "phone": "399.743.4165",
+        "email": "kerryscott@example.org",
+        "account": {
+            "account_number": "b88dcc8d-9b7e-46c9-a042-5e76fed1b7fc",
+            "balance": 41581.16,
+            "transactions": [
+                {
+                    "date": "2023-10-31",
+                    "description": "Withdrawal",
+                    "amount": 45796.14,
+                    "transaction_id": 76085491
+                },
+                {
+                    "date": "2023-07-26",
+                    "description": "Deposit",
+                    "amount": 31286.96,
+                    "transaction_id": 110306405
+                }
+            ]
+        }
+    }
+}

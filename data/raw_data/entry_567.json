@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kaitlyn Holt",
+        "age": 86,
+        "gender": "female",
+        "address": "PSC 1319, Box 4965, APO AE 35216",
+        "phone": "(599)274-7515",
+        "email": "frederick74@example.org",
+        "account": {
+            "account_number": "34170713-7188-43dc-a782-b2ae90ef3a4e",
+            "balance": 31392.85,
+            "transactions": [
+                {
+                    "date": "2024-05-05",
+                    "description": "Withdrawal",
+                    "amount": 29522.83,
+                    "transaction_id": 28747304
+                },
+                {
+                    "date": "2024-03-19",
+                    "description": "Deposit",
+                    "amount": 15435.19,
+                    "transaction_id": 92905907
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Interest",
+                    "amount": 30845.21,
+                    "transaction_id": 39860905
+                },
+                {
+                    "date": "2024-01-09",
+                    "description": "Interest",
+                    "amount": 39383.6,
+                    "transaction_id": 118839279
+                }
+            ]
+        }
+    }
+}

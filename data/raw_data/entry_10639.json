@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 18,
+        "gender": "female",
+        "address": "044 Elizabeth Lights Apt. 063, Martinezport, WI 29210",
+        "phone": "719-951-4852",
+        "email": "lclark@example.net",
+        "account": {
+            "account_number": "1a548dfe-c7eb-4746-a999-999daac832bc",
+            "balance": 32028.94,
+            "transactions": [
+                {
+                    "date": "2024-03-12",
+                    "description": "Withdrawal",
+                    "amount": -2382.28,
+                    "transaction_id": 24340688
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Interest",
+                    "amount": -4348.71,
+                    "transaction_id": 5115618
+                },
+                {
+                    "date": "2023-08-24",
+                    "description": "Interest",
+                    "amount": -1134.6,
+                    "transaction_id": 96185976
+                },
+                {
+                    "date": "2023-11-09",
+                    "description": "Deposit",
+                    "amount": 257.55,
+                    "transaction_id": 108746329
+                },
+                {
+                    "date": "2024-08-30",
+                    "description": "Withdrawal",
+                    "amount": 3802.58,
+                    "transaction_id": 87093369
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Anna Mason",
+        "age": 94,
+        "gender": "male",
+        "address": "641 Patterson Viaduct, East Brianshire, HI 22821",
+        "phone": "880-745-8539x345",
+        "email": "mcdowelltyler@example.org",
+        "account": {
+            "account_number": "7d5832fc-b9b2-4d0d-abb1-427f176c4aef",
+            "balance": 47330.05,
+            "transactions": [
+                {
+                    "date": "2023-01-04",
+                    "description": "Withdrawal",
+                    "amount": 39259.44,
+                    "transaction_id": 91720322
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Interest",
+                    "amount": 45254.2,
+                    "transaction_id": 11205527
+                },
+                {
+                    "date": "2024-05-04",
+                    "description": "Withdrawal",
+                    "amount": 28409.78,
+                    "transaction_id": 46803121
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Interest",
+                    "amount": 5155.71,
+                    "transaction_id": 38569510
+                }
+            ]
+        }
+    }
+}

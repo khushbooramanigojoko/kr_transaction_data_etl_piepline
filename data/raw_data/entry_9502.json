@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 40,
+        "gender": "female",
+        "address": "4988 Lori Street Suite 211, North Connie, MH 14893",
+        "phone": "+1-866-493-5046x50466",
+        "email": "travisdickerson@example.org",
+        "account": {
+            "account_number": "e0a9d28d-72c9-4e78-93d3-c947f687fa1b",
+            "balance": 17461.41,
+            "transactions": [
+                {
+                    "date": "2022-09-03",
+                    "description": "Withdrawal",
+                    "amount": 935.1,
+                    "transaction_id": 83133197
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Interest",
+                    "amount": 2527.47,
+                    "transaction_id": 70823315
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Deposit",
+                    "amount": 320.67,
+                    "transaction_id": 75203663
+                },
+                {
+                    "date": "2024-07-07",
+                    "description": "Interest",
+                    "amount": -1569.73,
+                    "transaction_id": 77996859
+                },
+                {
+                    "date": "2023-09-09",
+                    "description": "Withdrawal",
+                    "amount": 1563.91,
+                    "transaction_id": 21141880
+                }
+            ]
+        }
+    }
+}

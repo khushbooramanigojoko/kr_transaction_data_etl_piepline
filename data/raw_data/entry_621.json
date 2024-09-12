@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Terry Delgado",
+        "age": 97,
+        "gender": "female",
+        "address": "3513 Larsen Streets Suite 685, Port Johnathanshire, CT 32358",
+        "phone": "8272834865",
+        "email": "mbenson@example.org",
+        "account": {
+            "account_number": "0587453b-1141-4d32-a3bf-db0c3ed9d73d",
+            "balance": 7615.43,
+            "transactions": [
+                {
+                    "date": "2024-01-11",
+                    "description": "Deposit",
+                    "amount": 27882.03,
+                    "transaction_id": 63592482
+                }
+            ]
+        }
+    }
+}

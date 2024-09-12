@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Blake Williams",
+        "age": 85,
+        "gender": "male",
+        "address": "436 Weeks River, Ericberg, MS 63709",
+        "phone": "290-654-6494x63807",
+        "email": "mathewsbrittany@example.org",
+        "account": {
+            "account_number": "5497b52a-949c-4bc2-9b53-0062fdfc38f2",
+            "balance": 6027.83,
+            "transactions": [
+                {
+                    "date": "2022-11-24",
+                    "description": "Deposit",
+                    "amount": 35120.36,
+                    "transaction_id": 108573780
+                }
+            ]
+        }
+    }
+}

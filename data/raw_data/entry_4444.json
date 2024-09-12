@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "David Edwards",
+        "age": 53,
+        "gender": "male",
+        "address": "5508 Lyons Pine Suite 251, Parkborough, CO 21816",
+        "phone": "924.991.1535x2067",
+        "email": "alexanderchris@example.net",
+        "account": {
+            "account_number": "f62d6411-d934-4b84-8c1e-8f2c36b6d1ad",
+            "balance": 2545.45,
+            "transactions": [
+                {
+                    "date": "2024-06-15",
+                    "description": "Withdrawal",
+                    "amount": 32231.89,
+                    "transaction_id": 83572986
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Interest",
+                    "amount": 10026.43,
+                    "transaction_id": 38692156
+                }
+            ]
+        }
+    }
+}

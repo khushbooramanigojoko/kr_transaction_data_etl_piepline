@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Miranda Farmer",
+        "age": 99,
+        "gender": "female",
+        "address": "52107 Johnson Tunnel Apt. 359, East Susanhaven, MD 26159",
+        "phone": "+1-923-770-8986x17109",
+        "email": "lchandler@example.net",
+        "account": {
+            "account_number": "a725380b-ae8b-4c76-8a5f-6f7858eb7692",
+            "balance": 24748.67,
+            "transactions": [
+                {
+                    "date": "2024-02-12",
+                    "description": "Deposit",
+                    "amount": 22365.69,
+                    "transaction_id": 16367213
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Withdrawal",
+                    "amount": 39494.07,
+                    "transaction_id": 43183528
+                },
+                {
+                    "date": "2022-11-16",
+                    "description": "Withdrawal",
+                    "amount": 20539.88,
+                    "transaction_id": 6825081
+                },
+                {
+                    "date": "2024-02-10",
+                    "description": "Interest",
+                    "amount": 34456.4,
+                    "transaction_id": 65368049
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Interest",
+                    "amount": 32234.91,
+                    "transaction_id": 97008843
+                }
+            ]
+        }
+    }
+}

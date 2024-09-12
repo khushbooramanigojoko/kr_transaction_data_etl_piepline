@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brandon Hunt",
+        "age": 87,
+        "gender": "male",
+        "address": "PSC 0148, Box 1513, APO AE 44209",
+        "phone": "+1-304-366-4540",
+        "email": "nmason@example.com",
+        "account": {
+            "account_number": "711701e4-d742-48d9-8038-53c54fd85fe3",
+            "balance": 36294.67,
+            "transactions": [
+                {
+                    "date": "2024-03-11",
+                    "description": "Deposit",
+                    "amount": 34056.23,
+                    "transaction_id": 54320221
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Interest",
+                    "amount": 13580.56,
+                    "transaction_id": 37034346
+                }
+            ]
+        }
+    }
+}

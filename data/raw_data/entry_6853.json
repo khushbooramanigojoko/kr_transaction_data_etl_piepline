@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Claudia Johnson",
+        "age": 29,
+        "gender": "female",
+        "address": "4765 Lamb Parkway, Port Barbara, ME 73939",
+        "phone": "001-528-408-7521x9941",
+        "email": "judithwalker@example.net",
+        "account": {
+            "account_number": "38e33059-4d51-40f6-aa5c-cfcebd605da7",
+            "balance": 32729.94,
+            "transactions": [
+                {
+                    "date": "2022-11-27",
+                    "description": "Withdrawal",
+                    "amount": 8717.11,
+                    "transaction_id": 57082930
+                },
+                {
+                    "date": "2023-06-30",
+                    "description": "Deposit",
+                    "amount": 13856.88,
+                    "transaction_id": 69566194
+                },
+                {
+                    "date": "2024-07-29",
+                    "description": "Deposit",
+                    "amount": 28797.89,
+                    "transaction_id": 59337308
+                }
+            ]
+        }
+    }
+}

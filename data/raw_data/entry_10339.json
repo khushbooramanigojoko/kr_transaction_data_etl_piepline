@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Blake Schmitt",
+        "age": 82,
+        "gender": "male",
+        "address": "USNV Jones, FPO AP 62177",
+        "phone": "001-219-226-8118x643",
+        "email": "davidsondenise@example.net",
+        "account": {
+            "account_number": "f705eac6-9931-46fa-bdde-cbf1265df90c",
+            "balance": -28296.94,
+            "transactions": [
+                {
+                    "date": "2022-12-10",
+                    "description": "Deposit",
+                    "amount": 2681.42,
+                    "transaction_id": 80238260
+                }
+            ]
+        }
+    }
+}

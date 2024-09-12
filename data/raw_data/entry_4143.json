@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Richard Lewis",
+        "age": 31,
+        "gender": "female",
+        "address": "1672 Brenda Knolls, Port Margaret, AL 70819",
+        "phone": "(394)980-3957x121",
+        "email": "edwinbarrera@example.net",
+        "account": {
+            "account_number": "6f9df37d-5dcd-4aa5-ba8c-233ed37208d8",
+            "balance": 46918.12,
+            "transactions": [
+                {
+                    "date": "2024-05-12",
+                    "description": "Deposit",
+                    "amount": 2911.76,
+                    "transaction_id": 11986986
+                },
+                {
+                    "date": "2023-02-25",
+                    "description": "Withdrawal",
+                    "amount": 48447.02,
+                    "transaction_id": 23290364
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Withdrawal",
+                    "amount": 39924.2,
+                    "transaction_id": 115749712
+                },
+                {
+                    "date": "2024-01-29",
+                    "description": "Interest",
+                    "amount": 22682.53,
+                    "transaction_id": 43795377
+                }
+            ]
+        }
+    }
+}

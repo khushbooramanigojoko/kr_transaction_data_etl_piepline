@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brianna Simmons",
+        "age": 67,
+        "gender": "male",
+        "address": "203 Oconnor Locks Suite 163, Rubenville, OH 98596",
+        "phone": "621.479.4814",
+        "email": "lellison@example.org",
+        "account": {
+            "account_number": "a2fc7f37-5a39-4f3b-92c2-063baa51a460",
+            "balance": -29457.66,
+            "transactions": [
+                {
+                    "date": "2024-05-20",
+                    "description": "Withdrawal",
+                    "amount": -95.34,
+                    "transaction_id": 19980690
+                }
+            ]
+        }
+    }
+}

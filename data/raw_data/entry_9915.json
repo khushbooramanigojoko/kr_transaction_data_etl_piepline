@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 26,
+        "gender": "male",
+        "address": "51248 Graham Forest Suite 838, Jaredville, CO 64508",
+        "phone": "+1-761-779-7720x387",
+        "email": "jade04@example.com",
+        "account": {
+            "account_number": "97a7f877-fcad-4efc-b63b-7ef959a59e2f",
+            "balance": 12406.15,
+            "transactions": [
+                {
+                    "date": "2024-07-05",
+                    "description": "Interest",
+                    "amount": -2332.31,
+                    "transaction_id": 84629050
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michael Reyes",
+        "age": 87,
+        "gender": "female",
+        "address": "1096 Robbins Underpass, Danielport, WI 93809",
+        "phone": "912.483.8312x42830",
+        "email": "harveyabigail@example.net",
+        "account": {
+            "account_number": "bd6c8c33-f313-43fb-9431-63ce103beed1",
+            "balance": -44325.95,
+            "transactions": [
+                {
+                    "date": "2024-04-19",
+                    "description": "Interest",
+                    "amount": 775.38,
+                    "transaction_id": 77906887
+                }
+            ]
+        }
+    }
+}

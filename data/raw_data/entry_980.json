@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dale Valdez",
+        "age": 91,
+        "gender": "male",
+        "address": "43368 Acevedo Mill Suite 779, Port Kimberly, SD 03469",
+        "phone": "001-730-781-9876x36744",
+        "email": "lambscott@example.net",
+        "account": {
+            "account_number": "d0fc0e52-174b-4735-b6db-0dca306a1ff3",
+            "balance": 41079.94,
+            "transactions": [
+                {
+                    "date": "2024-01-21",
+                    "description": "Deposit",
+                    "amount": 4027.61,
+                    "transaction_id": 10352390
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Deposit",
+                    "amount": 29052.74,
+                    "transaction_id": 50437620
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Interest",
+                    "amount": 28651.83,
+                    "transaction_id": 77765014
+                },
+                {
+                    "date": "2024-05-21",
+                    "description": "Withdrawal",
+                    "amount": 2484.78,
+                    "transaction_id": 7427365
+                }
+            ]
+        }
+    }
+}

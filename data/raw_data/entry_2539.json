@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Stephen Dean",
+        "age": 79,
+        "gender": "female",
+        "address": "405 Lisa Fort, North Ricardoport, TN 90295",
+        "phone": "377-833-2077",
+        "email": "ichambers@example.net",
+        "account": {
+            "account_number": "164a7e57-0331-4f73-9301-756dce158a53",
+            "balance": 22496.81,
+            "transactions": [
+                {
+                    "date": "2024-03-14",
+                    "description": "Interest",
+                    "amount": 30040.08,
+                    "transaction_id": 30357143
+                },
+                {
+                    "date": "2023-07-25",
+                    "description": "Interest",
+                    "amount": 25417.99,
+                    "transaction_id": 118712456
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Interest",
+                    "amount": 23309.72,
+                    "transaction_id": 59163073
+                }
+            ]
+        }
+    }
+}

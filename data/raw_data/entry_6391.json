@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jill Blankenship",
+        "age": 49,
+        "gender": "female",
+        "address": "Unit 8162 Box 9207, DPO AP 55578",
+        "phone": "(349)658-3738",
+        "email": "austinbarber@example.org",
+        "account": {
+            "account_number": "108b096b-43b0-4253-804e-22c175dfa9af",
+            "balance": 47574.37,
+            "transactions": [
+                {
+                    "date": "2023-12-07",
+                    "description": "Withdrawal",
+                    "amount": 38919.28,
+                    "transaction_id": 81783807
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Withdrawal",
+                    "amount": 38094.07,
+                    "transaction_id": 117061886
+                },
+                {
+                    "date": "2024-05-08",
+                    "description": "Withdrawal",
+                    "amount": 34895.97,
+                    "transaction_id": 26864801
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Withdrawal",
+                    "amount": 32505.75,
+                    "transaction_id": 17526039
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Interest",
+                    "amount": 41340.68,
+                    "transaction_id": 96106090
+                }
+            ]
+        }
+    }
+}

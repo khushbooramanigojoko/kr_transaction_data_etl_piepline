@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brian Jimenez",
+        "age": 97,
+        "gender": "female",
+        "address": "537 Gonzalez Ways Apt. 157, Lake Kevin, CT 40787",
+        "phone": "448-505-3674x94899",
+        "email": "ljenkins@example.net",
+        "account": {
+            "account_number": "41075698-6a26-4bab-a537-7e8aeb9872a3",
+            "balance": 34056.73,
+            "transactions": [
+                {
+                    "date": "2023-05-27",
+                    "description": "Interest",
+                    "amount": 808.12,
+                    "transaction_id": 79180974
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": 39966.65,
+                    "transaction_id": 111946694
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Withdrawal",
+                    "amount": 34091.37,
+                    "transaction_id": 61051017
+                },
+                {
+                    "date": "2023-01-27",
+                    "description": "Interest",
+                    "amount": 39202.04,
+                    "transaction_id": 84390737
+                }
+            ]
+        }
+    }
+}

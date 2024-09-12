@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 94,
+        "gender": "female",
+        "address": "9123 Jose Gardens Apt. 500, West Anthonyburgh, NE 62824",
+        "phone": "918-307-2873x954",
+        "email": "ftaylor@example.com",
+        "account": {
+            "account_number": "0c7f46a2-c3b0-4793-a31e-856bb49adad4",
+            "balance": 23671.56,
+            "transactions": [
+                {
+                    "date": "2024-06-12",
+                    "description": "Deposit",
+                    "amount": -1378.22,
+                    "transaction_id": 112368439
+                },
+                {
+                    "date": "2024-07-13",
+                    "description": "Interest",
+                    "amount": -3441.96,
+                    "transaction_id": 55386454
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Withdrawal",
+                    "amount": 2740.33,
+                    "transaction_id": 53377148
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Deposit",
+                    "amount": 265.22,
+                    "transaction_id": 28695287
+                },
+                {
+                    "date": "2023-03-26",
+                    "description": "Withdrawal",
+                    "amount": -4278.91,
+                    "transaction_id": 41596277
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Elizabeth Banks",
+        "age": 44,
+        "gender": "female",
+        "address": "4797 Boyle Manor, Butlerview, DE 59090",
+        "phone": "(291)566-2867x3911",
+        "email": "pbrown@example.com",
+        "account": {
+            "account_number": "257f7c30-5aa3-4247-b9b3-f98a8ab7b215",
+            "balance": 47861.52,
+            "transactions": [
+                {
+                    "date": "2023-09-07",
+                    "description": "Interest",
+                    "amount": 22941.08,
+                    "transaction_id": 64320704
+                },
+                {
+                    "date": "2024-01-06",
+                    "description": "Deposit",
+                    "amount": 25069.15,
+                    "transaction_id": 18603929
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Withdrawal",
+                    "amount": 15962.38,
+                    "transaction_id": 114198221
+                }
+            ]
+        }
+    }
+}

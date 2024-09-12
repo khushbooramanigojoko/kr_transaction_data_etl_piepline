@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Marvin Carson",
+        "age": 22,
+        "gender": "male",
+        "address": "337 Oliver Knoll, Angelfort, MD 19802",
+        "phone": "001-655-632-6326x43852",
+        "email": "james30@example.com",
+        "account": {
+            "account_number": "ff14d11c-47af-40de-b262-30f2b5e98a1c",
+            "balance": 13239.77,
+            "transactions": [
+                {
+                    "date": "2023-04-08",
+                    "description": "Deposit",
+                    "amount": 33795.54,
+                    "transaction_id": 35808105
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Withdrawal",
+                    "amount": 46619.69,
+                    "transaction_id": 17330097
+                },
+                {
+                    "date": "2023-01-24",
+                    "description": "Interest",
+                    "amount": 48713.16,
+                    "transaction_id": 23162664
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Deposit",
+                    "amount": 987.25,
+                    "transaction_id": 31254199
+                }
+            ]
+        }
+    }
+}

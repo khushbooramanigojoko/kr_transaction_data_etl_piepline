@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Murphy",
+        "age": 20,
+        "gender": "female",
+        "address": "Unit 4128 Box 7757, DPO AA 14269",
+        "phone": "001-333-749-8038x98218",
+        "email": "ryan28@example.com",
+        "account": {
+            "account_number": "b5abb651-228d-4937-85f8-1dd59c8b2ccc",
+            "balance": 17416.47,
+            "transactions": [
+                {
+                    "date": "2024-05-01",
+                    "description": "Interest",
+                    "amount": 41370.43,
+                    "transaction_id": 105185509
+                },
+                {
+                    "date": "2023-06-04",
+                    "description": "Withdrawal",
+                    "amount": 34513.1,
+                    "transaction_id": 59796395
+                }
+            ]
+        }
+    }
+}

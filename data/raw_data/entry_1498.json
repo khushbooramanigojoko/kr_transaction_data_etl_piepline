@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tammie Hooper",
+        "age": 35,
+        "gender": "female",
+        "address": "83249 Henson Pass Apt. 024, North Annaview, MT 74731",
+        "phone": "001-366-428-9479x884",
+        "email": "apace@example.org",
+        "account": {
+            "account_number": "a447b34b-281a-44f0-917e-b2437a87fc7b",
+            "balance": 6997.21,
+            "transactions": [
+                {
+                    "date": "2023-11-22",
+                    "description": "Interest",
+                    "amount": 9771.33,
+                    "transaction_id": 20119388
+                },
+                {
+                    "date": "2024-01-31",
+                    "description": "Withdrawal",
+                    "amount": 28793.16,
+                    "transaction_id": 101298669
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Interest",
+                    "amount": 35079.47,
+                    "transaction_id": 116776212
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Withdrawal",
+                    "amount": 16515.89,
+                    "transaction_id": 101054312
+                }
+            ]
+        }
+    }
+}

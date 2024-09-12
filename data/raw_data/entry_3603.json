@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kristin Maxwell",
+        "age": 22,
+        "gender": "male",
+        "address": "8221 Sherry Views Suite 775, Lake Jessica, DC 31942",
+        "phone": "(553)635-1174x8797",
+        "email": "lthompson@example.org",
+        "account": {
+            "account_number": "53611a34-1af2-4680-87e4-0274b8e8afc1",
+            "balance": 8994.4,
+            "transactions": [
+                {
+                    "date": "2023-02-01",
+                    "description": "Deposit",
+                    "amount": 45131.2,
+                    "transaction_id": 95958809
+                }
+            ]
+        }
+    }
+}

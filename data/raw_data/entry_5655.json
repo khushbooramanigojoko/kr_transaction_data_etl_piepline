@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "William Ferguson",
+        "age": 20,
+        "gender": "male",
+        "address": "549 Frederick Islands, Murphyview, MN 95599",
+        "phone": "579.872.9053",
+        "email": "hguzman@example.org",
+        "account": {
+            "account_number": "fe684eef-3bfe-43fb-ac17-25252d6cb927",
+            "balance": 36531.05,
+            "transactions": [
+                {
+                    "date": "2022-12-30",
+                    "description": "Interest",
+                    "amount": 23620.22,
+                    "transaction_id": 114032315
+                }
+            ]
+        }
+    }
+}

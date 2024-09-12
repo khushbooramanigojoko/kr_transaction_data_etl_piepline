@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Grant Keith",
+        "age": 88,
+        "gender": "male",
+        "address": "18378 Stephanie Greens Apt. 673, Josephville, WA 35903",
+        "phone": "(635)222-1916x22841",
+        "email": "mark30@example.org",
+        "account": {
+            "account_number": "16a14c82-b2f0-48fd-bf51-51d4474849a8",
+            "balance": 49768.93,
+            "transactions": [
+                {
+                    "date": "2024-01-10",
+                    "description": "Withdrawal",
+                    "amount": 12311.9,
+                    "transaction_id": 94967168
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Interest",
+                    "amount": 35724.41,
+                    "transaction_id": 112955924
+                }
+            ]
+        }
+    }
+}

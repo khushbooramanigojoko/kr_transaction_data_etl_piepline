@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "John Hughes",
+        "age": 50,
+        "gender": "female",
+        "address": "USNS Gonzales, FPO AE 22354",
+        "phone": "+1-493-802-3171",
+        "email": "christina31@example.org",
+        "account": {
+            "account_number": "b1e8823e-ec25-4318-9fb5-7b769190dfd6",
+            "balance": 36457.0,
+            "transactions": [
+                {
+                    "date": "2023-05-08",
+                    "description": "Interest",
+                    "amount": 20720.98,
+                    "transaction_id": 69955378
+                },
+                {
+                    "date": "2022-12-02",
+                    "description": "Withdrawal",
+                    "amount": 6685.35,
+                    "transaction_id": 53503546
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jacob Roth",
+        "age": 32,
+        "gender": "male",
+        "address": "36392 Wendy Highway Suite 974, Torresberg, ME 14509",
+        "phone": "267-430-4332x904",
+        "email": "rcollins@example.org",
+        "account": {
+            "account_number": "142f3067-7136-4319-8a15-5d186d707088",
+            "balance": 18849.48,
+            "transactions": [
+                {
+                    "date": "2023-07-30",
+                    "description": "Interest",
+                    "amount": 43472.77,
+                    "transaction_id": 31378421
+                }
+            ]
+        }
+    }
+}

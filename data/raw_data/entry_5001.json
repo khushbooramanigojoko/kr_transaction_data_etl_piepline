@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Matthew Lawrence",
+        "age": 19,
+        "gender": "female",
+        "address": "92125 Timothy Canyon Suite 634, Port Lisa, CA 90736",
+        "phone": "630.263.6412x82212",
+        "email": "michael75@example.org",
+        "account": {
+            "account_number": "fa46504e-943f-45ae-ac0a-327a0c489a93",
+            "balance": 11460.39,
+            "transactions": [
+                {
+                    "date": "2023-05-12",
+                    "description": "Interest",
+                    "amount": 17811.77,
+                    "transaction_id": 28556014
+                },
+                {
+                    "date": "2023-12-21",
+                    "description": "Interest",
+                    "amount": 27332.83,
+                    "transaction_id": 12371885
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Interest",
+                    "amount": 26126.75,
+                    "transaction_id": 52180212
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Deposit",
+                    "amount": 23114.07,
+                    "transaction_id": 44900207
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Deposit",
+                    "amount": 46962.78,
+                    "transaction_id": 99498974
+                }
+            ]
+        }
+    }
+}

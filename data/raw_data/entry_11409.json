@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Donald Bauer",
+        "age": 62,
+        "gender": "female",
+        "address": "3307 Roberts Spring Apt. 396, Thompsonhaven, OH 74823",
+        "phone": "633.385.7366x4137",
+        "email": "katelyn53@example.com",
+        "account": {
+            "account_number": "d98c7c65-6455-4778-81ec-986e072410b1",
+            "balance": -8834.17,
+            "transactions": [
+                {
+                    "date": "2024-07-13",
+                    "description": "Interest",
+                    "amount": -3444.18,
+                    "transaction_id": 106004786
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Withdrawal",
+                    "amount": 3059.35,
+                    "transaction_id": 78047199
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Withdrawal",
+                    "amount": 3208.96,
+                    "transaction_id": 59645182
+                },
+                {
+                    "date": "2024-05-09",
+                    "description": "Interest",
+                    "amount": -598.61,
+                    "transaction_id": 92536225
+                }
+            ]
+        }
+    }
+}

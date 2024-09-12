@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "James Shaw",
+        "age": 92,
+        "gender": "female",
+        "address": "209 Bryant Inlet Suite 985, North Abigail, MT 83577",
+        "phone": "827-984-3534x91608",
+        "email": "kathleenwood@example.net",
+        "account": {
+            "account_number": "05353271-3ba5-4f99-9af5-812a51957fbd",
+            "balance": 42547.24,
+            "transactions": [
+                {
+                    "date": "2023-01-26",
+                    "description": "Interest",
+                    "amount": 28884.26,
+                    "transaction_id": 80041526
+                },
+                {
+                    "date": "2024-08-08",
+                    "description": "Interest",
+                    "amount": 11746.21,
+                    "transaction_id": 53573549
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Deposit",
+                    "amount": 31182.26,
+                    "transaction_id": 8260776
+                }
+            ]
+        }
+    }
+}

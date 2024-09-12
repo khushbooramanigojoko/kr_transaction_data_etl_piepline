@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Heather Roth",
+        "age": 74,
+        "gender": "male",
+        "address": "58482 Jessica Harbors Suite 255, Danielport, MS 06407",
+        "phone": "488.611.3473",
+        "email": "rstephens@example.org",
+        "account": {
+            "account_number": "d56879a9-1657-4d16-b7a1-717d63e6d585",
+            "balance": -17869.93,
+            "transactions": [
+                {
+                    "date": "2024-04-16",
+                    "description": "Withdrawal",
+                    "amount": -89.76,
+                    "transaction_id": 37236305
+                },
+                {
+                    "date": "2024-06-02",
+                    "description": "Deposit",
+                    "amount": 3797.64,
+                    "transaction_id": 7290637
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Withdrawal",
+                    "amount": 4576.04,
+                    "transaction_id": 69693448
+                },
+                {
+                    "date": "2024-07-29",
+                    "description": "Interest",
+                    "amount": 3370.69,
+                    "transaction_id": 75621338
+                },
+                {
+                    "date": "2023-10-22",
+                    "description": "Interest",
+                    "amount": -521.48,
+                    "transaction_id": 92232560
+                }
+            ]
+        }
+    }
+}

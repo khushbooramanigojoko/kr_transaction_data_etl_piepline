@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 47,
+        "gender": "male",
+        "address": "494 Lee Stream, Rileyside, OH 06922",
+        "phone": "+1-945-701-7329x39947",
+        "email": "maurice28@example.net",
+        "account": {
+            "account_number": "98b23624-2ccc-4ceb-a9e0-c71799f610cd",
+            "balance": 2009.24,
+            "transactions": [
+                {
+                    "date": "2024-08-12",
+                    "description": "Interest",
+                    "amount": 3335.64,
+                    "transaction_id": 93989206
+                },
+                {
+                    "date": "2023-06-09",
+                    "description": "Interest",
+                    "amount": 1204.0,
+                    "transaction_id": 73703904
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Erica Sherman",
+        "age": 37,
+        "gender": "male",
+        "address": "PSC 8509, Box 5088, APO AP 29088",
+        "phone": "505-203-6059x08698",
+        "email": "kevinwells@example.net",
+        "account": {
+            "account_number": "c328c079-a06b-47c5-86f0-27198bc695ad",
+            "balance": 42394.15,
+            "transactions": [
+                {
+                    "date": "2023-03-11",
+                    "description": "Withdrawal",
+                    "amount": 35404.16,
+                    "transaction_id": 56053023
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Deposit",
+                    "amount": 6865.2,
+                    "transaction_id": 115398746
+                },
+                {
+                    "date": "2023-08-29",
+                    "description": "Interest",
+                    "amount": 11052.38,
+                    "transaction_id": 111433540
+                },
+                {
+                    "date": "2023-09-20",
+                    "description": "Interest",
+                    "amount": 14369.12,
+                    "transaction_id": 10069645
+                }
+            ]
+        }
+    }
+}

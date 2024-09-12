@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 19,
+        "gender": "female",
+        "address": "604 Cohen Knolls, South Amy, KS 11353",
+        "phone": "783.788.3871",
+        "email": "ncaldwell@example.net",
+        "account": {
+            "account_number": "722c64e0-577e-49ce-a0df-451d8f33a122",
+            "balance": 36316.49,
+            "transactions": [
+                {
+                    "date": "2023-06-13",
+                    "description": "Interest",
+                    "amount": -4188.24,
+                    "transaction_id": 106938087
+                }
+            ]
+        }
+    }
+}

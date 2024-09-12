@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ana Mcdaniel",
+        "age": 31,
+        "gender": "male",
+        "address": "696 Meghan Parkways Apt. 313, Rodriguezmouth, NH 13924",
+        "phone": "646-207-4038x1855",
+        "email": "basstammy@example.org",
+        "account": {
+            "account_number": "06ba2d34-3822-4e20-a920-e20177abd49b",
+            "balance": 23820.64,
+            "transactions": [
+                {
+                    "date": "2023-12-15",
+                    "description": "Deposit",
+                    "amount": 32534.85,
+                    "transaction_id": 83401009
+                }
+            ]
+        }
+    }
+}

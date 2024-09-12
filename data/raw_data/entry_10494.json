@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 55,
+        "gender": "female",
+        "address": "Unit 1129 Box 9224, DPO AP 81142",
+        "phone": "001-448-657-4267",
+        "email": "lmay@example.net",
+        "account": {
+            "account_number": "02a8655e-63fb-46aa-8466-fb8810983f4c",
+            "balance": 28926.41,
+            "transactions": [
+                {
+                    "date": "2024-05-27",
+                    "description": "Deposit",
+                    "amount": -3147.65,
+                    "transaction_id": 12432453
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Withdrawal",
+                    "amount": 1618.98,
+                    "transaction_id": 34911861
+                },
+                {
+                    "date": "2023-04-09",
+                    "description": "Withdrawal",
+                    "amount": 1418.3,
+                    "transaction_id": 18846786
+                }
+            ]
+        }
+    }
+}

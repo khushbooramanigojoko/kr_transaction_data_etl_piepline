@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Maurice Johnson",
+        "age": 20,
+        "gender": "male",
+        "address": "132 Karen Landing, Johnstonview, WY 33120",
+        "phone": "+1-450-401-3401",
+        "email": "bethmacias@example.com",
+        "account": {
+            "account_number": "e3c3d780-b87c-45cc-bf2d-d38111783bb7",
+            "balance": -49449.86,
+            "transactions": [
+                {
+                    "date": "2023-07-28",
+                    "description": "Withdrawal",
+                    "amount": -1636.75,
+                    "transaction_id": 6137527
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Withdrawal",
+                    "amount": 610.89,
+                    "transaction_id": 57372949
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Interest",
+                    "amount": -2389.18,
+                    "transaction_id": 89041437
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Interest",
+                    "amount": -2542.91,
+                    "transaction_id": 20437501
+                },
+                {
+                    "date": "2023-07-08",
+                    "description": "Withdrawal",
+                    "amount": -4813.44,
+                    "transaction_id": 52317415
+                }
+            ]
+        }
+    }
+}

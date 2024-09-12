@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Henry Stephens",
+        "age": 50,
+        "gender": "female",
+        "address": "PSC 5158, Box 5743, APO AA 37817",
+        "phone": "341-272-2009x9079",
+        "email": "mark62@example.com",
+        "account": {
+            "account_number": "d2de31d9-b437-4419-a405-cb78e8d752e0",
+            "balance": 37644.87,
+            "transactions": [
+                {
+                    "date": "2022-09-28",
+                    "description": "Deposit",
+                    "amount": 9430.46,
+                    "transaction_id": 100892780
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Withdrawal",
+                    "amount": 31860.76,
+                    "transaction_id": 45183516
+                },
+                {
+                    "date": "2023-08-26",
+                    "description": "Interest",
+                    "amount": 11724.29,
+                    "transaction_id": 39414489
+                }
+            ]
+        }
+    }
+}

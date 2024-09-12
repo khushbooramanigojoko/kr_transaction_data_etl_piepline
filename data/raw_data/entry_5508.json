@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Stephen Velazquez",
+        "age": 89,
+        "gender": "female",
+        "address": "76589 Desiree Turnpike, North Cherylton, IA 46846",
+        "phone": "001-518-400-1445x22436",
+        "email": "williamburke@example.com",
+        "account": {
+            "account_number": "9a917fde-8ec9-475e-b3f5-f072a0707d0c",
+            "balance": 10225.61,
+            "transactions": [
+                {
+                    "date": "2024-01-15",
+                    "description": "Interest",
+                    "amount": 3743.62,
+                    "transaction_id": 69841080
+                },
+                {
+                    "date": "2023-11-16",
+                    "description": "Withdrawal",
+                    "amount": 5097.91,
+                    "transaction_id": 59882158
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Withdrawal",
+                    "amount": 18319.28,
+                    "transaction_id": 95558983
+                },
+                {
+                    "date": "2023-01-13",
+                    "description": "Withdrawal",
+                    "amount": 43048.52,
+                    "transaction_id": 57978631
+                },
+                {
+                    "date": "2023-03-05",
+                    "description": "Deposit",
+                    "amount": 6075.62,
+                    "transaction_id": 48348472
+                }
+            ]
+        }
+    }
+}

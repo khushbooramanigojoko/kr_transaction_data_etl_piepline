@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Susan Beck",
+        "age": 65,
+        "gender": "male",
+        "address": "70740 Elizabeth Vista Apt. 898, Nancybury, DE 43012",
+        "phone": "001-856-541-5487x312",
+        "email": "brianmeyer@example.org",
+        "account": {
+            "account_number": "809b9eda-5af3-4871-9d8c-b1fd741578ec",
+            "balance": -12503.92,
+            "transactions": [
+                {
+                    "date": "2023-10-19",
+                    "description": "Withdrawal",
+                    "amount": 1156.19,
+                    "transaction_id": 2550514
+                }
+            ]
+        }
+    }
+}

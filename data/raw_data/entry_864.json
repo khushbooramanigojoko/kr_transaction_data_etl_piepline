@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joseph Hunt",
+        "age": 26,
+        "gender": "male",
+        "address": "569 Bender Heights Suite 169, North Jacob, PW 79382",
+        "phone": "+1-312-880-7422x862",
+        "email": "foxmaria@example.com",
+        "account": {
+            "account_number": "76208cf3-4180-4e43-9fcc-120cb4ce822e",
+            "balance": 1601.66,
+            "transactions": [
+                {
+                    "date": "2023-11-06",
+                    "description": "Interest",
+                    "amount": 37169.84,
+                    "transaction_id": 59735098
+                }
+            ]
+        }
+    }
+}

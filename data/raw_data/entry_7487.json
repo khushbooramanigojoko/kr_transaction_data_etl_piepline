@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Max Cooper",
+        "age": 23,
+        "gender": "male",
+        "address": "USS Hunter, FPO AP 53914",
+        "phone": "001-560-305-4791x785",
+        "email": "micheal81@example.org",
+        "account": {
+            "account_number": "82385d2d-fe73-44c7-9c94-a3ab924b75fb",
+            "balance": 17685.95,
+            "transactions": [
+                {
+                    "date": "2023-05-11",
+                    "description": "Withdrawal",
+                    "amount": 859.98,
+                    "transaction_id": 38441481
+                },
+                {
+                    "date": "2024-04-09",
+                    "description": "Deposit",
+                    "amount": 40316.38,
+                    "transaction_id": 75527127
+                }
+            ]
+        }
+    }
+}

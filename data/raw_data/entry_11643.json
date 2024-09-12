@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Andrea Coleman",
+        "age": 93,
+        "gender": "male",
+        "address": "16656 Daniel Station, Bradmouth, SC 46789",
+        "phone": "001-614-718-8629",
+        "email": "stewartdevin@example.com",
+        "account": {
+            "account_number": "d82cccd8-0ba1-454b-a42b-ff3e2021c159",
+            "balance": -47171.96,
+            "transactions": [
+                {
+                    "date": "2024-05-21",
+                    "description": "Withdrawal",
+                    "amount": 2992.57,
+                    "transaction_id": 51651486
+                }
+            ]
+        }
+    }
+}

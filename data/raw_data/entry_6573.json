@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kristen Thomas",
+        "age": 82,
+        "gender": "female",
+        "address": "787 Michael Terrace, Flemingside, WY 44301",
+        "phone": "+1-316-861-5363",
+        "email": "welchjanice@example.org",
+        "account": {
+            "account_number": "7a5b10d7-9287-401b-a504-e4ce9ffa3965",
+            "balance": 20213.85,
+            "transactions": [
+                {
+                    "date": "2024-04-14",
+                    "description": "Interest",
+                    "amount": 45751.95,
+                    "transaction_id": 75681150
+                },
+                {
+                    "date": "2023-09-18",
+                    "description": "Withdrawal",
+                    "amount": 21767.43,
+                    "transaction_id": 78550548
+                }
+            ]
+        }
+    }
+}

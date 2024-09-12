@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Alan Dixon",
+        "age": 91,
+        "gender": "female",
+        "address": "4504 Julia Junction Apt. 640, New Tyler, MT 70285",
+        "phone": "(449)692-0170x053",
+        "email": "michele49@example.org",
+        "account": {
+            "account_number": "8550f270-d488-48c2-b7c4-58d788e802ab",
+            "balance": 40607.68,
+            "transactions": [
+                {
+                    "date": "2024-04-05",
+                    "description": "Interest",
+                    "amount": 9818.39,
+                    "transaction_id": 70872575
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Withdrawal",
+                    "amount": 8765.64,
+                    "transaction_id": 26801026
+                },
+                {
+                    "date": "2024-01-18",
+                    "description": "Withdrawal",
+                    "amount": 47896.89,
+                    "transaction_id": 55270581
+                }
+            ]
+        }
+    }
+}

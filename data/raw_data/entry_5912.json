@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Logan Norton",
+        "age": 55,
+        "gender": "male",
+        "address": "3173 Angel View, Hamiltonview, GU 89125",
+        "phone": "(582)344-6006x354",
+        "email": "wileymatthew@example.org",
+        "account": {
+            "account_number": "3f080ce7-2440-4829-bde0-a136e4f2ca3b",
+            "balance": 41422.96,
+            "transactions": [
+                {
+                    "date": "2022-09-18",
+                    "description": "Interest",
+                    "amount": 18729.2,
+                    "transaction_id": 90842273
+                },
+                {
+                    "date": "2023-03-06",
+                    "description": "Withdrawal",
+                    "amount": 18823.36,
+                    "transaction_id": 116289823
+                },
+                {
+                    "date": "2023-11-12",
+                    "description": "Withdrawal",
+                    "amount": 13254.05,
+                    "transaction_id": 45582829
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Deposit",
+                    "amount": 46462.08,
+                    "transaction_id": 68644248
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Interest",
+                    "amount": 32987.33,
+                    "transaction_id": 117889320
+                }
+            ]
+        }
+    }
+}

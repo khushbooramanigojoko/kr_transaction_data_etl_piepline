@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sara Ibarra",
+        "age": 45,
+        "gender": "female",
+        "address": "931 Sonya Overpass, North Tara, ME 49325",
+        "phone": "(482)760-9480x67544",
+        "email": "frodriguez@example.com",
+        "account": {
+            "account_number": "93dc6f86-d2ea-404d-9def-6419b2e40da6",
+            "balance": 40205.82,
+            "transactions": [
+                {
+                    "date": "2023-07-10",
+                    "description": "Withdrawal",
+                    "amount": 26613.71,
+                    "transaction_id": 99124626
+                },
+                {
+                    "date": "2024-04-17",
+                    "description": "Deposit",
+                    "amount": 25725.79,
+                    "transaction_id": 14026273
+                },
+                {
+                    "date": "2024-02-03",
+                    "description": "Withdrawal",
+                    "amount": 35420.18,
+                    "transaction_id": 97865454
+                },
+                {
+                    "date": "2024-06-20",
+                    "description": "Withdrawal",
+                    "amount": 34386.92,
+                    "transaction_id": 9809691
+                }
+            ]
+        }
+    }
+}

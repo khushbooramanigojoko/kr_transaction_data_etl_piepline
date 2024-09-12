@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christine Holland",
+        "age": 44,
+        "gender": "male",
+        "address": "PSC 8118, Box 8367, APO AA 26072",
+        "phone": "(277)562-6847",
+        "email": "butlerscott@example.net",
+        "account": {
+            "account_number": "dd11b49c-77f5-400a-8d3f-8d72422f000e",
+            "balance": 46499.15,
+            "transactions": [
+                {
+                    "date": "2022-12-09",
+                    "description": "Interest",
+                    "amount": 36163.91,
+                    "transaction_id": 78053065
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Interest",
+                    "amount": 46167.96,
+                    "transaction_id": 86292230
+                },
+                {
+                    "date": "2023-11-03",
+                    "description": "Deposit",
+                    "amount": 862.3,
+                    "transaction_id": 10286223
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Interest",
+                    "amount": 41296.76,
+                    "transaction_id": 103640602
+                }
+            ]
+        }
+    }
+}

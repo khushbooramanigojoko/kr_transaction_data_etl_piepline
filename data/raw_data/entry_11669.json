@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 65,
+        "gender": "female",
+        "address": "PSC 6577, Box 3425, APO AE 61713",
+        "phone": "(310)489-8430",
+        "email": "rhondafry@example.org",
+        "account": {
+            "account_number": "c804055b-e5f6-40e4-b21e-aa54cb276bd5",
+            "balance": 32085.4,
+            "transactions": [
+                {
+                    "date": "2024-04-07",
+                    "description": "Withdrawal",
+                    "amount": -3630.86,
+                    "transaction_id": 34281013
+                },
+                {
+                    "date": "2023-07-15",
+                    "description": "Interest",
+                    "amount": -771.73,
+                    "transaction_id": 43532936
+                },
+                {
+                    "date": "2022-11-04",
+                    "description": "Withdrawal",
+                    "amount": -2383.13,
+                    "transaction_id": 118034780
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Deposit",
+                    "amount": -1324.54,
+                    "transaction_id": 22824894
+                }
+            ]
+        }
+    }
+}

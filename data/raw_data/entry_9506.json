@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joshua Johnson",
+        "age": 59,
+        "gender": "male",
+        "address": "304 Nicholas Walks, Gonzalezside, MO 63245",
+        "phone": "242.395.0128x659",
+        "email": "tonipena@example.org",
+        "account": {
+            "account_number": "fc35a0da-6526-4664-b00c-a27fabd2c2c8",
+            "balance": -49588.84,
+            "transactions": [
+                {
+                    "date": "2023-09-26",
+                    "description": "Interest",
+                    "amount": -3782.35,
+                    "transaction_id": 33923397
+                }
+            ]
+        }
+    }
+}

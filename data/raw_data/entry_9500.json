@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 20,
+        "gender": "female",
+        "address": "Unit 0704 Box 5215, DPO AA 89968",
+        "phone": "2157401340",
+        "email": "rebeccawilson@example.com",
+        "account": {
+            "account_number": "cb2e47db-fe2a-4685-ab34-8f62a163c164",
+            "balance": 39877.69,
+            "transactions": [
+                {
+                    "date": "2023-08-30",
+                    "description": "Withdrawal",
+                    "amount": 2565.67,
+                    "transaction_id": 68053808
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Interest",
+                    "amount": -2635.41,
+                    "transaction_id": 74443828
+                },
+                {
+                    "date": "2023-03-19",
+                    "description": "Interest",
+                    "amount": -4283.76,
+                    "transaction_id": 45798425
+                }
+            ]
+        }
+    }
+}

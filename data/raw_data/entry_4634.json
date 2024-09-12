@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Troy Wagner",
+        "age": 93,
+        "gender": "female",
+        "address": "3390 Zuniga Mountains, Fischerville, UT 65576",
+        "phone": "(687)933-4893x523",
+        "email": "austin66@example.com",
+        "account": {
+            "account_number": "423646bd-7f34-4310-9012-a93e917d1827",
+            "balance": 33224.42,
+            "transactions": [
+                {
+                    "date": "2024-04-22",
+                    "description": "Interest",
+                    "amount": 45945.47,
+                    "transaction_id": 82808497
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Deposit",
+                    "amount": 40763.93,
+                    "transaction_id": 80443810
+                },
+                {
+                    "date": "2023-07-13",
+                    "description": "Deposit",
+                    "amount": 13886.76,
+                    "transaction_id": 67642028
+                },
+                {
+                    "date": "2022-09-16",
+                    "description": "Interest",
+                    "amount": 28449.43,
+                    "transaction_id": 93096538
+                },
+                {
+                    "date": "2023-06-06",
+                    "description": "Deposit",
+                    "amount": 24569.36,
+                    "transaction_id": 98754194
+                }
+            ]
+        }
+    }
+}

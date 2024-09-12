@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Keith Miller DDS",
+        "age": 37,
+        "gender": "female",
+        "address": "2452 Carol Cove, Rileyview, KY 22819",
+        "phone": "683.547.0576x2519",
+        "email": "rbeltran@example.com",
+        "account": {
+            "account_number": "4cecd2b5-f8bd-4114-8789-a2553a47f1a0",
+            "balance": 7603.4,
+            "transactions": [
+                {
+                    "date": "2024-04-11",
+                    "description": "Interest",
+                    "amount": 9167.75,
+                    "transaction_id": 66898436
+                },
+                {
+                    "date": "2023-02-09",
+                    "description": "Interest",
+                    "amount": 12504.41,
+                    "transaction_id": 103778615
+                },
+                {
+                    "date": "2023-08-25",
+                    "description": "Interest",
+                    "amount": 47122.99,
+                    "transaction_id": 99455650
+                },
+                {
+                    "date": "2023-12-23",
+                    "description": "Interest",
+                    "amount": 40845.33,
+                    "transaction_id": 89879499
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Deposit",
+                    "amount": 21858.86,
+                    "transaction_id": 48370889
+                }
+            ]
+        }
+    }
+}

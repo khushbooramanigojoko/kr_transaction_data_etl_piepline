@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Cameron Williams",
+        "age": 19,
+        "gender": "female",
+        "address": "701 Smith Coves, Nicolefurt, GA 91552",
+        "phone": "001-203-799-2738x836",
+        "email": "transhari@example.com",
+        "account": {
+            "account_number": "b5f011f5-5c86-4ec9-bc16-66f7dd3d0a21",
+            "balance": 47961.06,
+            "transactions": [
+                {
+                    "date": "2024-05-17",
+                    "description": "Withdrawal",
+                    "amount": 46255.9,
+                    "transaction_id": 88145797
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Interest",
+                    "amount": 46991.34,
+                    "transaction_id": 81112424
+                }
+            ]
+        }
+    }
+}

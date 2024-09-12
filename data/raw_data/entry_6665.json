@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Walter Mcneil",
+        "age": 37,
+        "gender": "female",
+        "address": "4092 Isaiah Throughway, Hinesville, AR 88596",
+        "phone": "001-668-606-1709x663",
+        "email": "obrooks@example.net",
+        "account": {
+            "account_number": "da251663-65f4-47bd-a778-67d38d84c6e1",
+            "balance": 3019.73,
+            "transactions": [
+                {
+                    "date": "2022-09-25",
+                    "description": "Deposit",
+                    "amount": 30576.52,
+                    "transaction_id": 23417881
+                },
+                {
+                    "date": "2023-08-05",
+                    "description": "Interest",
+                    "amount": 49979.02,
+                    "transaction_id": 11051440
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Deposit",
+                    "amount": 14128.37,
+                    "transaction_id": 74977694
+                },
+                {
+                    "date": "2024-08-22",
+                    "description": "Withdrawal",
+                    "amount": 39818.51,
+                    "transaction_id": 43684002
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kimberly Hayes",
+        "age": 73,
+        "gender": "male",
+        "address": "4661 Warren Motorway, Staffordside, NJ 21521",
+        "phone": "341.408.5334x865",
+        "email": "wesley87@example.org",
+        "account": {
+            "account_number": "b006e643-33a7-4cdb-9cfb-25a35af99a9c",
+            "balance": 32341.96,
+            "transactions": [
+                {
+                    "date": "2024-07-20",
+                    "description": "Withdrawal",
+                    "amount": 21062.36,
+                    "transaction_id": 4477028
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Interest",
+                    "amount": 15261.62,
+                    "transaction_id": 58547825
+                }
+            ]
+        }
+    }
+}

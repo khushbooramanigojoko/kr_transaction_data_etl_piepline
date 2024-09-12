@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Richard Velazquez",
+        "age": 90,
+        "gender": "male",
+        "address": "45512 Roman Heights Apt. 345, West Tiffany, NC 67845",
+        "phone": "(791)454-6441",
+        "email": "nicholas38@example.org",
+        "account": {
+            "account_number": "192b73fd-c8e9-4cfe-ba26-e36197622a4d",
+            "balance": 25986.11,
+            "transactions": [
+                {
+                    "date": "2022-10-28",
+                    "description": "Withdrawal",
+                    "amount": 27492.63,
+                    "transaction_id": 109882788
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Deposit",
+                    "amount": 40000.62,
+                    "transaction_id": 117038415
+                },
+                {
+                    "date": "2024-04-04",
+                    "description": "Withdrawal",
+                    "amount": 30115.84,
+                    "transaction_id": 6891703
+                },
+                {
+                    "date": "2024-02-21",
+                    "description": "Deposit",
+                    "amount": 21002.37,
+                    "transaction_id": 23544735
+                }
+            ]
+        }
+    }
+}

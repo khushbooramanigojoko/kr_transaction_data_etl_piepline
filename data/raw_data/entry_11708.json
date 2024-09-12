@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 32,
+        "gender": "male",
+        "address": "71285 Mark Ridges Apt. 399, New Amy, MT 77525",
+        "phone": "(309)285-4866x8975",
+        "email": "alyssasanders@example.org",
+        "account": {
+            "account_number": "eec00839-fcc5-40b6-af50-c8f8e6f08e3d",
+            "balance": 42763.16,
+            "transactions": [
+                {
+                    "date": "2024-08-11",
+                    "description": "Deposit",
+                    "amount": 3023.58,
+                    "transaction_id": 7557525
+                },
+                {
+                    "date": "2024-05-26",
+                    "description": "Withdrawal",
+                    "amount": 4364.71,
+                    "transaction_id": 18854043
+                },
+                {
+                    "date": "2023-07-31",
+                    "description": "Deposit",
+                    "amount": -3278.56,
+                    "transaction_id": 17870174
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Interest",
+                    "amount": 4303.36,
+                    "transaction_id": 85839759
+                }
+            ]
+        }
+    }
+}

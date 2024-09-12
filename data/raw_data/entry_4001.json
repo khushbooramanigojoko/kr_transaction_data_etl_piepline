@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lynn White",
+        "age": 49,
+        "gender": "male",
+        "address": "PSC 1594, Box 3176, APO AP 18373",
+        "phone": "611.219.1757x03034",
+        "email": "staceybailey@example.org",
+        "account": {
+            "account_number": "2a5bcac8-2a8e-446e-a2c3-f83055bb93d7",
+            "balance": 14600.02,
+            "transactions": [
+                {
+                    "date": "2024-01-22",
+                    "description": "Interest",
+                    "amount": 33205.77,
+                    "transaction_id": 106242989
+                },
+                {
+                    "date": "2023-02-27",
+                    "description": "Withdrawal",
+                    "amount": 3526.94,
+                    "transaction_id": 75670934
+                },
+                {
+                    "date": "2024-02-23",
+                    "description": "Deposit",
+                    "amount": 41118.65,
+                    "transaction_id": 75791111
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Deposit",
+                    "amount": 34394.58,
+                    "transaction_id": 6860248
+                }
+            ]
+        }
+    }
+}

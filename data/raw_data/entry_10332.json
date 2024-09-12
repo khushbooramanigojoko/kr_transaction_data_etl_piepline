@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 44,
+        "gender": "male",
+        "address": "7884 Jackson Trafficway Suite 877, Lake Lydiafort, PR 10477",
+        "phone": "300-495-4766",
+        "email": "prodriguez@example.org",
+        "account": {
+            "account_number": "df85d0f8-d41b-4c73-a511-323039d8bd4d",
+            "balance": 38601.27,
+            "transactions": [
+                {
+                    "date": "2024-03-18",
+                    "description": "Withdrawal",
+                    "amount": 3842.46,
+                    "transaction_id": 23077433
+                },
+                {
+                    "date": "2024-06-08",
+                    "description": "Interest",
+                    "amount": -4886.8,
+                    "transaction_id": 119292740
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Interest",
+                    "amount": 3678.07,
+                    "transaction_id": 60623894
+                },
+                {
+                    "date": "2024-02-19",
+                    "description": "Deposit",
+                    "amount": -3601.65,
+                    "transaction_id": 102229432
+                }
+            ]
+        }
+    }
+}

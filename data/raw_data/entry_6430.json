@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Samantha Coleman",
+        "age": 90,
+        "gender": "male",
+        "address": "6316 Gonzales River, Arnoldborough, IA 49803",
+        "phone": "001-809-364-3745",
+        "email": "dawn13@example.org",
+        "account": {
+            "account_number": "257849df-96b8-44ae-9d20-a9ec1f79cb0c",
+            "balance": 7373.64,
+            "transactions": [
+                {
+                    "date": "2024-07-06",
+                    "description": "Deposit",
+                    "amount": 46468.09,
+                    "transaction_id": 11701792
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Withdrawal",
+                    "amount": 21857.66,
+                    "transaction_id": 5340720
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Interest",
+                    "amount": 19414.41,
+                    "transaction_id": 45617933
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 63,
+        "gender": "female",
+        "address": "788 Myers Stream Apt. 872, Marshchester, SC 33671",
+        "phone": "7636460975",
+        "email": "navarrokevin@example.net",
+        "account": {
+            "account_number": "5e4de418-eebb-4e07-8aec-2818b2894b80",
+            "balance": 40694.52,
+            "transactions": [
+                {
+                    "date": "2023-11-17",
+                    "description": "Withdrawal",
+                    "amount": 4289.69,
+                    "transaction_id": 21571798
+                },
+                {
+                    "date": "2023-12-11",
+                    "description": "Interest",
+                    "amount": -1157.34,
+                    "transaction_id": 71699867
+                }
+            ]
+        }
+    }
+}

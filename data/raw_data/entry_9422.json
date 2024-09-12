@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Patrick Taylor",
+        "age": 71,
+        "gender": "male",
+        "address": "199 Laurie Club, Perezchester, DE 21631",
+        "phone": "+1-587-717-7385x31232",
+        "email": "victorhickman@example.org",
+        "account": {
+            "account_number": "ab4651e4-3927-4e25-9615-681175a13445",
+            "balance": -48726.05,
+            "transactions": [
+                {
+                    "date": "2023-11-26",
+                    "description": "Deposit",
+                    "amount": -266.92,
+                    "transaction_id": 12637179
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Interest",
+                    "amount": 3179.66,
+                    "transaction_id": 25941148
+                }
+            ]
+        }
+    }
+}

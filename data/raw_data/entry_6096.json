@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jason Gomez",
+        "age": 32,
+        "gender": "female",
+        "address": "41852 William Track, West Mitchellchester, MS 50595",
+        "phone": "(983)203-9792x1047",
+        "email": "hoffmanmartin@example.com",
+        "account": {
+            "account_number": "5daba6ec-8768-4d81-86d8-5eb16a21297d",
+            "balance": 1683.13,
+            "transactions": [
+                {
+                    "date": "2022-11-03",
+                    "description": "Deposit",
+                    "amount": 10699.59,
+                    "transaction_id": 32179084
+                }
+            ]
+        }
+    }
+}

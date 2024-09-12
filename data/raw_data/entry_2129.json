@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Susan Allison",
+        "age": 84,
+        "gender": "male",
+        "address": "944 Vanessa Crossroad, Dawnstad, GU 59222",
+        "phone": "(291)773-4842",
+        "email": "christina24@example.com",
+        "account": {
+            "account_number": "8432f123-ca2b-4293-b036-aebb72c68af5",
+            "balance": 30637.32,
+            "transactions": [
+                {
+                    "date": "2023-02-26",
+                    "description": "Deposit",
+                    "amount": 34164.04,
+                    "transaction_id": 67604062
+                }
+            ]
+        }
+    }
+}

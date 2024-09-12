@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Amanda Gregory",
+        "age": 60,
+        "gender": "male",
+        "address": "4018 Emily Circle, North John, MP 59146",
+        "phone": "287-705-8188x0033",
+        "email": "jenniferadams@example.net",
+        "account": {
+            "account_number": "2d22ed7d-55eb-41b2-a613-08eee9c3215d",
+            "balance": 46502.46,
+            "transactions": [
+                {
+                    "date": "2023-04-04",
+                    "description": "Interest",
+                    "amount": 34288.85,
+                    "transaction_id": 57152652
+                },
+                {
+                    "date": "2023-11-27",
+                    "description": "Withdrawal",
+                    "amount": 15430.88,
+                    "transaction_id": 75406208
+                },
+                {
+                    "date": "2022-12-28",
+                    "description": "Interest",
+                    "amount": 24693.19,
+                    "transaction_id": 34174625
+                }
+            ]
+        }
+    }
+}

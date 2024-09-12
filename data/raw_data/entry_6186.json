@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Randy Newman",
+        "age": 63,
+        "gender": "female",
+        "address": "USNS Morales, FPO AE 56203",
+        "phone": "+1-627-286-0245x15299",
+        "email": "jesse00@example.com",
+        "account": {
+            "account_number": "82e4e822-ebb3-4a8e-bb12-2ead9bdcb38d",
+            "balance": 21311.09,
+            "transactions": [
+                {
+                    "date": "2023-03-08",
+                    "description": "Interest",
+                    "amount": 29227.33,
+                    "transaction_id": 110682620
+                },
+                {
+                    "date": "2024-08-17",
+                    "description": "Deposit",
+                    "amount": 9246.17,
+                    "transaction_id": 14648091
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Deposit",
+                    "amount": 18350.4,
+                    "transaction_id": 20714703
+                },
+                {
+                    "date": "2024-04-15",
+                    "description": "Interest",
+                    "amount": 25784.07,
+                    "transaction_id": 58432403
+                }
+            ]
+        }
+    }
+}

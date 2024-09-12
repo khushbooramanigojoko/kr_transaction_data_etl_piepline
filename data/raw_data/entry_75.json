@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jeffrey Bauer",
+        "age": 22,
+        "gender": "male",
+        "address": "8313 Chambers Trafficway, Moralesside, RI 85954",
+        "phone": "(893)206-1042x12948",
+        "email": "llee@example.net",
+        "account": {
+            "account_number": "57dcea85-6de5-4f9b-bb80-79233e5b38f6",
+            "balance": 14723.47,
+            "transactions": [
+                {
+                    "date": "2023-01-12",
+                    "description": "Interest",
+                    "amount": 38069.07,
+                    "transaction_id": 34528485
+                }
+            ]
+        }
+    }
+}

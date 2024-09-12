@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lynn Murphy",
+        "age": 38,
+        "gender": "male",
+        "address": "7933 Dean Square Apt. 534, Hollandmouth, NM 71830",
+        "phone": "610.262.3637",
+        "email": "lopezjordan@example.net",
+        "account": {
+            "account_number": "7c390027-1f4e-4189-ae6c-252bb280f0e3",
+            "balance": 47607.79,
+            "transactions": [
+                {
+                    "date": "2022-12-04",
+                    "description": "Deposit",
+                    "amount": 38713.11,
+                    "transaction_id": 37677298
+                }
+            ]
+        }
+    }
+}

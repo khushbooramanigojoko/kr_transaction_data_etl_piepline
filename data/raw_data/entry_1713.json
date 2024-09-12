@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Julie Wilson",
+        "age": 71,
+        "gender": "female",
+        "address": "02366 Wolfe Brook, New Suzannetown, TN 15837",
+        "phone": "(299)377-7043",
+        "email": "ingrammegan@example.org",
+        "account": {
+            "account_number": "19945fde-4db7-4d22-8e08-663ae272e5e2",
+            "balance": 42528.2,
+            "transactions": [
+                {
+                    "date": "2024-01-19",
+                    "description": "Deposit",
+                    "amount": 24651.97,
+                    "transaction_id": 80585546
+                },
+                {
+                    "date": "2023-08-03",
+                    "description": "Deposit",
+                    "amount": 23060.57,
+                    "transaction_id": 77678540
+                },
+                {
+                    "date": "2024-05-27",
+                    "description": "Deposit",
+                    "amount": 5813.28,
+                    "transaction_id": 91853587
+                },
+                {
+                    "date": "2022-10-27",
+                    "description": "Withdrawal",
+                    "amount": 42031.75,
+                    "transaction_id": 107002935
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Deposit",
+                    "amount": 39244.04,
+                    "transaction_id": 62333598
+                }
+            ]
+        }
+    }
+}

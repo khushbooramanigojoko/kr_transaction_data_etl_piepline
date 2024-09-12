@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Randy Hendrix",
+        "age": 63,
+        "gender": "female",
+        "address": "9134 Brandt Square, Lake Seth, NH 38838",
+        "phone": "281-875-8450x467",
+        "email": "josephbell@example.com",
+        "account": {
+            "account_number": "027ced9b-81a4-4bac-846e-e4a76574686a",
+            "balance": -39529.43,
+            "transactions": [
+                {
+                    "date": "2024-07-14",
+                    "description": "Deposit",
+                    "amount": 4213.03,
+                    "transaction_id": 53055919
+                }
+            ]
+        }
+    }
+}

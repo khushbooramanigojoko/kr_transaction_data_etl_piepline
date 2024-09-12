@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 25,
+        "gender": "male",
+        "address": "308 Sharon Drives, New Keithtown, VI 73904",
+        "phone": "671-726-8702",
+        "email": "rogersrachel@example.net",
+        "account": {
+            "account_number": "0c459e24-00cd-4c13-a9d7-6b72e25ab6ee",
+            "balance": 45662.21,
+            "transactions": [
+                {
+                    "date": "2023-08-18",
+                    "description": "Deposit",
+                    "amount": -4074.83,
+                    "transaction_id": 101496565
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Deposit",
+                    "amount": 2786.68,
+                    "transaction_id": 98321982
+                },
+                {
+                    "date": "2022-09-17",
+                    "description": "Deposit",
+                    "amount": -3156.4,
+                    "transaction_id": 24557903
+                }
+            ]
+        }
+    }
+}

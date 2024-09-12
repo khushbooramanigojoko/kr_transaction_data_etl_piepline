@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kevin Evans",
+        "age": 59,
+        "gender": "female",
+        "address": "39780 Nicholas Cape, North Katrinaside, FL 04220",
+        "phone": "959.371.9705x57109",
+        "email": "ryan97@example.net",
+        "account": {
+            "account_number": "f94e2439-a244-4c90-8a92-db0834b46ddb",
+            "balance": 15317.27,
+            "transactions": [
+                {
+                    "date": "2023-09-12",
+                    "description": "Withdrawal",
+                    "amount": 3103.32,
+                    "transaction_id": 110536777
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Deposit",
+                    "amount": 8709.73,
+                    "transaction_id": 72854409
+                }
+            ]
+        }
+    }
+}

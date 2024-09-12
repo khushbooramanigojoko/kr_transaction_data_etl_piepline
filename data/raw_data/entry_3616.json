@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Peter Ramirez",
+        "age": 93,
+        "gender": "female",
+        "address": "3393 Mccarthy Isle, North Grant, GU 40516",
+        "phone": "+1-351-275-2922x8957",
+        "email": "kimberlymeyer@example.org",
+        "account": {
+            "account_number": "d0bc0530-988d-4e4f-bf16-d2abb3d6232b",
+            "balance": 17793.02,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Interest",
+                    "amount": 8843.1,
+                    "transaction_id": 92693834
+                }
+            ]
+        }
+    }
+}

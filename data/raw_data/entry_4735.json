@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michelle Graham",
+        "age": 49,
+        "gender": "male",
+        "address": "PSC 3077, Box 1298, APO AA 29903",
+        "phone": "971-867-9109",
+        "email": "michelleforbes@example.org",
+        "account": {
+            "account_number": "4ace44ea-16ed-473d-8828-394a585f2b16",
+            "balance": 46123.18,
+            "transactions": [
+                {
+                    "date": "2023-10-25",
+                    "description": "Interest",
+                    "amount": 46444.85,
+                    "transaction_id": 6836714
+                },
+                {
+                    "date": "2022-11-14",
+                    "description": "Withdrawal",
+                    "amount": 40001.83,
+                    "transaction_id": 86322778
+                },
+                {
+                    "date": "2024-06-03",
+                    "description": "Withdrawal",
+                    "amount": 13933.63,
+                    "transaction_id": 19884307
+                }
+            ]
+        }
+    }
+}

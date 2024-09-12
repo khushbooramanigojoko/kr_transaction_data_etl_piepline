@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "William Rosales",
+        "age": 95,
+        "gender": "female",
+        "address": "6218 Hodges Glen, Port Jamieburgh, PW 48407",
+        "phone": "544.731.0208x756",
+        "email": "finleyleslie@example.org",
+        "account": {
+            "account_number": "b3818b26-2b9f-4d6d-9fe5-ff25ab79d592",
+            "balance": 32196.7,
+            "transactions": [
+                {
+                    "date": "2024-07-24",
+                    "description": "Deposit",
+                    "amount": 32209.49,
+                    "transaction_id": 42570727
+                },
+                {
+                    "date": "2024-05-05",
+                    "description": "Deposit",
+                    "amount": 23507.45,
+                    "transaction_id": 83575499
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Interest",
+                    "amount": 38013.19,
+                    "transaction_id": 73457268
+                },
+                {
+                    "date": "2023-01-29",
+                    "description": "Interest",
+                    "amount": 17980.78,
+                    "transaction_id": 109082994
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Withdrawal",
+                    "amount": 35913.91,
+                    "transaction_id": 68534201
+                }
+            ]
+        }
+    }
+}

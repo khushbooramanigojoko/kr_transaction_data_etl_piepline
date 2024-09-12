@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jeremy Ali",
+        "age": 23,
+        "gender": "male",
+        "address": "4008 Dominique Radial Suite 979, South Sarahaven, MI 39098",
+        "phone": "001-701-247-9585x027",
+        "email": "davidsonlarry@example.org",
+        "account": {
+            "account_number": "2144ae7a-2e4f-4afa-bc83-413c7a7a9c33",
+            "balance": 7622.8,
+            "transactions": [
+                {
+                    "date": "2023-12-17",
+                    "description": "Withdrawal",
+                    "amount": 4480.95,
+                    "transaction_id": 77732256
+                }
+            ]
+        }
+    }
+}

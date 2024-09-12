@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Garrett",
+        "age": 63,
+        "gender": "female",
+        "address": "143 Amanda Valley, Sanfordberg, TN 93762",
+        "phone": "609.977.5486x92520",
+        "email": "nashchristopher@example.org",
+        "account": {
+            "account_number": "77787e1a-1125-4650-86a9-196a8671208f",
+            "balance": -10974.99,
+            "transactions": [
+                {
+                    "date": "2022-10-21",
+                    "description": "Withdrawal",
+                    "amount": 4367.7,
+                    "transaction_id": 80694622
+                },
+                {
+                    "date": "2022-11-17",
+                    "description": "Deposit",
+                    "amount": 781.19,
+                    "transaction_id": 112555768
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Withdrawal",
+                    "amount": -433.65,
+                    "transaction_id": 5300679
+                },
+                {
+                    "date": "2023-08-13",
+                    "description": "Withdrawal",
+                    "amount": -3224.41,
+                    "transaction_id": 81146376
+                }
+            ]
+        }
+    }
+}

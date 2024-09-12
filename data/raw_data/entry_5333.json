@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Christina Walters",
+        "age": 46,
+        "gender": "female",
+        "address": "4027 Graves Keys Suite 927, New Bettyland, CT 80442",
+        "phone": "(417)909-6911",
+        "email": "paigestevens@example.net",
+        "account": {
+            "account_number": "584e857c-f6f5-4938-bad4-041bf45f39f8",
+            "balance": 27824.52,
+            "transactions": [
+                {
+                    "date": "2024-08-06",
+                    "description": "Withdrawal",
+                    "amount": 40591.95,
+                    "transaction_id": 11403052
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Withdrawal",
+                    "amount": 135.89,
+                    "transaction_id": 15342454
+                },
+                {
+                    "date": "2023-03-24",
+                    "description": "Deposit",
+                    "amount": 45220.52,
+                    "transaction_id": 4426434
+                }
+            ]
+        }
+    }
+}

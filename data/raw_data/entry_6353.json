@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Misty Deleon",
+        "age": 65,
+        "gender": "male",
+        "address": "0713 Mitchell Drive Apt. 861, Jonesmouth, KY 08954",
+        "phone": "(993)281-1847x61806",
+        "email": "derrick93@example.net",
+        "account": {
+            "account_number": "9d92d0af-424d-4856-82a5-51c5684f9051",
+            "balance": 20852.38,
+            "transactions": [
+                {
+                    "date": "2023-03-10",
+                    "description": "Interest",
+                    "amount": 23497.74,
+                    "transaction_id": 93314930
+                },
+                {
+                    "date": "2023-04-29",
+                    "description": "Deposit",
+                    "amount": 19743.59,
+                    "transaction_id": 92940703
+                }
+            ]
+        }
+    }
+}

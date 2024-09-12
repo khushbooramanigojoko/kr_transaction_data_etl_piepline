@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sonia Cortez",
+        "age": 71,
+        "gender": "female",
+        "address": "63969 Hayes Court, Matthewville, TX 05187",
+        "phone": "209-319-5055",
+        "email": "michael16@example.net",
+        "account": {
+            "account_number": "cf3da11c-6d6a-4c4b-bd07-de2f21557be6",
+            "balance": 14466.01,
+            "transactions": [
+                {
+                    "date": "2022-12-01",
+                    "description": "Withdrawal",
+                    "amount": 7197.26,
+                    "transaction_id": 101242766
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Withdrawal",
+                    "amount": 4545.36,
+                    "transaction_id": 36137690
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Interest",
+                    "amount": 48270.28,
+                    "transaction_id": 114009463
+                },
+                {
+                    "date": "2024-01-16",
+                    "description": "Withdrawal",
+                    "amount": 49189.53,
+                    "transaction_id": 35854543
+                },
+                {
+                    "date": "2023-01-24",
+                    "description": "Withdrawal",
+                    "amount": 48378.4,
+                    "transaction_id": 16700602
+                }
+            ]
+        }
+    }
+}

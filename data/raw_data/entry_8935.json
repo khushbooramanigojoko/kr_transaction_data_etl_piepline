@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jonathan Wong",
+        "age": 79,
+        "gender": "female",
+        "address": "361 Valdez Stream Suite 886, Port Janiceshire, DE 64682",
+        "phone": "480.260.7088x611",
+        "email": "lynnbrown@example.net",
+        "account": {
+            "account_number": "5e3b5278-d3f8-44c4-b055-9b8b3e46fc18",
+            "balance": -31413.11,
+            "transactions": [
+                {
+                    "date": "2023-04-29",
+                    "description": "Interest",
+                    "amount": 4017.83,
+                    "transaction_id": 10845074
+                }
+            ]
+        }
+    }
+}

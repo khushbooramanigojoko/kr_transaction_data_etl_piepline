@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 90,
+        "gender": "female",
+        "address": "077 Stephens Station Apt. 368, South Jamesstad, AZ 60227",
+        "phone": "790.886.7779",
+        "email": "katelyn34@example.org",
+        "account": {
+            "account_number": "97b7fa24-2092-4cc7-bb51-dd6728d18fe5",
+            "balance": 25021.98,
+            "transactions": [
+                {
+                    "date": "2024-06-03",
+                    "description": "Deposit",
+                    "amount": -458.77,
+                    "transaction_id": 35968637
+                },
+                {
+                    "date": "2024-04-06",
+                    "description": "Interest",
+                    "amount": 2284.03,
+                    "transaction_id": 64347840
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Deposit",
+                    "amount": -3086.55,
+                    "transaction_id": 79341738
+                }
+            ]
+        }
+    }
+}

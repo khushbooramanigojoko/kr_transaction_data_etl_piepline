@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michelle Jones",
+        "age": 56,
+        "gender": "female",
+        "address": "Unit 1030 Box 0555, DPO AA 35168",
+        "phone": "515-487-6776x890",
+        "email": "kellyward@example.net",
+        "account": {
+            "account_number": "88167b17-2ac4-469a-be1f-403228aa10c1",
+            "balance": 21265.36,
+            "transactions": [
+                {
+                    "date": "2024-08-26",
+                    "description": "Withdrawal",
+                    "amount": 5229.84,
+                    "transaction_id": 35656737
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Deposit",
+                    "amount": 6156.41,
+                    "transaction_id": 76717346
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Interest",
+                    "amount": 31065.97,
+                    "transaction_id": 102780344
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Deposit",
+                    "amount": 1837.13,
+                    "transaction_id": 75401074
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Withdrawal",
+                    "amount": 49971.14,
+                    "transaction_id": 13162198
+                }
+            ]
+        }
+    }
+}

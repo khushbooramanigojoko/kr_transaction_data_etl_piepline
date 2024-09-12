@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jessica Payne",
+        "age": 19,
+        "gender": "female",
+        "address": "3662 Chelsea Views Apt. 621, East Christopher, IN 53392",
+        "phone": "+1-351-201-1230x882",
+        "email": "samuel45@example.org",
+        "account": {
+            "account_number": "d396509f-dc1d-4843-85e1-4e08826a635e",
+            "balance": 13049.2,
+            "transactions": [
+                {
+                    "date": "2024-01-09",
+                    "description": "Interest",
+                    "amount": 18598.55,
+                    "transaction_id": 45459419
+                },
+                {
+                    "date": "2023-10-21",
+                    "description": "Interest",
+                    "amount": 2874.21,
+                    "transaction_id": 3169787
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Deposit",
+                    "amount": 31193.82,
+                    "transaction_id": 108130634
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Interest",
+                    "amount": 43918.52,
+                    "transaction_id": 103001220
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Miguel Mckinney",
+        "age": 23,
+        "gender": "female",
+        "address": "72160 Marquez Falls, New Abigail, GU 51426",
+        "phone": "311.510.3121x02921",
+        "email": "tracieholt@example.com",
+        "account": {
+            "account_number": "4f17a317-1769-41c9-8699-16864d824b45",
+            "balance": 38536.29,
+            "transactions": [
+                {
+                    "date": "2023-06-30",
+                    "description": "Deposit",
+                    "amount": 41218.97,
+                    "transaction_id": 97161002
+                }
+            ]
+        }
+    }
+}

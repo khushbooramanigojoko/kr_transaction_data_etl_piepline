@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ronald Stanley",
+        "age": 26,
+        "gender": "male",
+        "address": "754 Corey Spurs, East Steven, MO 83716",
+        "phone": "001-340-446-5963x1585",
+        "email": "coltongibson@example.com",
+        "account": {
+            "account_number": "7b7352c4-81cb-4884-b393-dbc38a83ed98",
+            "balance": 37425.08,
+            "transactions": [
+                {
+                    "date": "2023-11-26",
+                    "description": "Deposit",
+                    "amount": 17508.57,
+                    "transaction_id": 80152093
+                }
+            ]
+        }
+    }
+}

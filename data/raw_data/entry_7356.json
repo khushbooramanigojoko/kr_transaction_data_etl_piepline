@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Madeline Patterson",
+        "age": 93,
+        "gender": "male",
+        "address": "40252 Lynn Mountains Apt. 568, Robertbury, UT 39719",
+        "phone": "(367)705-6346",
+        "email": "hollyreese@example.org",
+        "account": {
+            "account_number": "68084cc9-860a-411f-a7e7-23b3dafbfaa4",
+            "balance": 1603.87,
+            "transactions": [
+                {
+                    "date": "2023-11-25",
+                    "description": "Withdrawal",
+                    "amount": 7509.55,
+                    "transaction_id": 79285021
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Withdrawal",
+                    "amount": 25510.03,
+                    "transaction_id": 53342535
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rebecca Curtis",
+        "age": 46,
+        "gender": "female",
+        "address": "3899 Hahn Plaza, New Kristie, OR 88575",
+        "phone": "(475)765-1683x6845",
+        "email": "hkim@example.com",
+        "account": {
+            "account_number": "ef6c7cda-36c0-4239-88e6-fd3256ec8d92",
+            "balance": 15002.17,
+            "transactions": [
+                {
+                    "date": "2023-10-27",
+                    "description": "Interest",
+                    "amount": 7986.67,
+                    "transaction_id": 70834338
+                }
+            ]
+        }
+    }
+}

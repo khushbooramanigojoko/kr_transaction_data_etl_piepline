@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 89,
+        "gender": "male",
+        "address": "0651 Adrian Via Suite 684, South Charles, SD 11576",
+        "phone": "(588)437-0242x249",
+        "email": "steven03@example.org",
+        "account": {
+            "account_number": "f402588a-98d0-41b1-bc2d-91b94dd648a3",
+            "balance": 10856.29,
+            "transactions": [
+                {
+                    "date": "2023-07-07",
+                    "description": "Withdrawal",
+                    "amount": -411.39,
+                    "transaction_id": 53081369
+                },
+                {
+                    "date": "2024-06-29",
+                    "description": "Deposit",
+                    "amount": 4904.22,
+                    "transaction_id": 30068344
+                }
+            ]
+        }
+    }
+}

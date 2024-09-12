@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jimmy Saunders",
+        "age": 44,
+        "gender": "male",
+        "address": "88159 Crystal Garden Suite 380, Shellystad, UT 13124",
+        "phone": "+1-690-842-7254x02334",
+        "email": "michaelhester@example.net",
+        "account": {
+            "account_number": "88b4826a-0d20-4b26-8d7b-418c9b863f37",
+            "balance": 42920.7,
+            "transactions": [
+                {
+                    "date": "2024-08-22",
+                    "description": "Interest",
+                    "amount": 8934.28,
+                    "transaction_id": 19640435
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Deposit",
+                    "amount": 17234.73,
+                    "transaction_id": 90952535
+                }
+            ]
+        }
+    }
+}

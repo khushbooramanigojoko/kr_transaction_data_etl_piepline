@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Gary Adams",
+        "age": 79,
+        "gender": "male",
+        "address": "87711 Alvarado Haven Suite 017, New Andrew, WA 43940",
+        "phone": "723.438.4242",
+        "email": "boydterry@example.net",
+        "account": {
+            "account_number": "1feb928d-da14-47c1-af68-99836b27838e",
+            "balance": -32862.63,
+            "transactions": [
+                {
+                    "date": "2024-04-04",
+                    "description": "Interest",
+                    "amount": 2782.23,
+                    "transaction_id": 117901732
+                },
+                {
+                    "date": "2023-04-18",
+                    "description": "Deposit",
+                    "amount": -1803.08,
+                    "transaction_id": 112089883
+                },
+                {
+                    "date": "2022-09-16",
+                    "description": "Interest",
+                    "amount": -4666.31,
+                    "transaction_id": 40998404
+                }
+            ]
+        }
+    }
+}

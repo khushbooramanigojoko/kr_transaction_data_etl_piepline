@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Stewart",
+        "age": 68,
+        "gender": "female",
+        "address": "44872 Sheryl Park, Burnettbury, NJ 48179",
+        "phone": "976-306-5802",
+        "email": "fernandezdonald@example.com",
+        "account": {
+            "account_number": "8048ef57-64da-4350-ba32-31f2f3b82b4b",
+            "balance": 38300.73,
+            "transactions": [
+                {
+                    "date": "2023-06-09",
+                    "description": "Withdrawal",
+                    "amount": 21654.87,
+                    "transaction_id": 50275851
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Withdrawal",
+                    "amount": 40439.87,
+                    "transaction_id": 1570419
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Deposit",
+                    "amount": 47055.81,
+                    "transaction_id": 1052917
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Deposit",
+                    "amount": 47056.11,
+                    "transaction_id": 2878613
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Priscilla Taylor",
+        "age": 28,
+        "gender": "female",
+        "address": "510 Ray Burg Apt. 286, New Kelsey, MO 27742",
+        "phone": "450-417-1839x69589",
+        "email": "timothy13@example.org",
+        "account": {
+            "account_number": "c17417ac-ad33-4784-a926-e2a397e63db7",
+            "balance": 36726.62,
+            "transactions": [
+                {
+                    "date": "2023-07-11",
+                    "description": "Interest",
+                    "amount": 38826.5,
+                    "transaction_id": 85832083
+                },
+                {
+                    "date": "2023-11-14",
+                    "description": "Deposit",
+                    "amount": 43012.83,
+                    "transaction_id": 17488608
+                },
+                {
+                    "date": "2022-12-29",
+                    "description": "Withdrawal",
+                    "amount": 42898.77,
+                    "transaction_id": 87068363
+                },
+                {
+                    "date": "2024-05-27",
+                    "description": "Interest",
+                    "amount": 30323.28,
+                    "transaction_id": 119806838
+                }
+            ]
+        }
+    }
+}

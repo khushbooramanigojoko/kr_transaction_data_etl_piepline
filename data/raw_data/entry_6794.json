@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ann Buchanan",
+        "age": 63,
+        "gender": "female",
+        "address": "2050 Walker Crossroad Suite 840, North Dakota, AK 11266",
+        "phone": "237-932-1983",
+        "email": "brian92@example.net",
+        "account": {
+            "account_number": "bd6f8b0d-2327-425f-95c0-c651ba8099df",
+            "balance": 35859.06,
+            "transactions": [
+                {
+                    "date": "2023-09-22",
+                    "description": "Withdrawal",
+                    "amount": 9854.48,
+                    "transaction_id": 59269592
+                },
+                {
+                    "date": "2023-11-08",
+                    "description": "Withdrawal",
+                    "amount": 2296.14,
+                    "transaction_id": 51062527
+                }
+            ]
+        }
+    }
+}

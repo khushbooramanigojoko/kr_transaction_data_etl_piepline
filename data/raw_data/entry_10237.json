@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 47,
+        "gender": "male",
+        "address": "3264 Novak Cliffs, New Taylorland, NE 97953",
+        "phone": "3979824878",
+        "email": "tsmith@example.org",
+        "account": {
+            "account_number": "608bd82c-1798-45e5-bdad-49d542325f34",
+            "balance": 21187.54,
+            "transactions": [
+                {
+                    "date": "2024-01-04",
+                    "description": "Deposit",
+                    "amount": -620.67,
+                    "transaction_id": 6504859
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Deposit",
+                    "amount": -3398.9,
+                    "transaction_id": 11398656
+                },
+                {
+                    "date": "2023-04-04",
+                    "description": "Withdrawal",
+                    "amount": -4968.43,
+                    "transaction_id": 45218591
+                },
+                {
+                    "date": "2024-08-08",
+                    "description": "Deposit",
+                    "amount": -4261.98,
+                    "transaction_id": 1389329
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Deposit",
+                    "amount": -3104.01,
+                    "transaction_id": 113647765
+                }
+            ]
+        }
+    }
+}

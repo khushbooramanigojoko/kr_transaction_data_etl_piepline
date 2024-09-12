@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Justin Mathis",
+        "age": 42,
+        "gender": "male",
+        "address": "277 Bradley Villages, New Rodney, WV 36638",
+        "phone": "684-355-4982",
+        "email": "angela97@example.org",
+        "account": {
+            "account_number": "e2216073-60a6-4ae9-bffa-7e61568efced",
+            "balance": 16038.93,
+            "transactions": [
+                {
+                    "date": "2022-10-19",
+                    "description": "Interest",
+                    "amount": 5759.44,
+                    "transaction_id": 2275083
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Interest",
+                    "amount": 40919.47,
+                    "transaction_id": 17429459
+                },
+                {
+                    "date": "2023-10-02",
+                    "description": "Withdrawal",
+                    "amount": 37449.52,
+                    "transaction_id": 103212110
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Withdrawal",
+                    "amount": 19040.67,
+                    "transaction_id": 81659918
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Interest",
+                    "amount": 397.42,
+                    "transaction_id": 65397714
+                }
+            ]
+        }
+    }
+}

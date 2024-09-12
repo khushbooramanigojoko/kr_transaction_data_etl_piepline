@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tina Schneider",
+        "age": 64,
+        "gender": "male",
+        "address": "63524 Ray Manor, New Kevin, WV 41887",
+        "phone": "+1-359-593-0389x056",
+        "email": "charlescunningham@example.org",
+        "account": {
+            "account_number": "ee2ee8d6-ea22-44f5-8885-5b9084ef0444",
+            "balance": -25656.95,
+            "transactions": [
+                {
+                    "date": "2024-07-15",
+                    "description": "Deposit",
+                    "amount": -1885.83,
+                    "transaction_id": 66721166
+                },
+                {
+                    "date": "2024-05-21",
+                    "description": "Withdrawal",
+                    "amount": 287.34,
+                    "transaction_id": 33376725
+                },
+                {
+                    "date": "2024-06-02",
+                    "description": "Deposit",
+                    "amount": -4737.32,
+                    "transaction_id": 53034238
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tiffany Colon",
+        "age": 38,
+        "gender": "female",
+        "address": "PSC 6378, Box 8017, APO AE 96491",
+        "phone": "656.216.6275x64326",
+        "email": "zmorales@example.com",
+        "account": {
+            "account_number": "78a5e596-3828-4df3-adc1-903ac2cfc900",
+            "balance": 38064.12,
+            "transactions": [
+                {
+                    "date": "2023-03-25",
+                    "description": "Interest",
+                    "amount": 22775.46,
+                    "transaction_id": 98408084
+                },
+                {
+                    "date": "2023-01-07",
+                    "description": "Interest",
+                    "amount": 26328.5,
+                    "transaction_id": 6680712
+                }
+            ]
+        }
+    }
+}

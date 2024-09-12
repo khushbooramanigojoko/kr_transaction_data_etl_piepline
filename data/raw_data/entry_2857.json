@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Margaret Oneal",
+        "age": 32,
+        "gender": "female",
+        "address": "Unit 6237 Box 0816, DPO AE 11007",
+        "phone": "531-704-5480x5157",
+        "email": "vstephens@example.net",
+        "account": {
+            "account_number": "cd59eabc-6f9e-44b4-a9bd-cd41e537c4f8",
+            "balance": 44885.55,
+            "transactions": [
+                {
+                    "date": "2023-10-18",
+                    "description": "Interest",
+                    "amount": 45393.88,
+                    "transaction_id": 99455494
+                },
+                {
+                    "date": "2023-02-03",
+                    "description": "Withdrawal",
+                    "amount": 47829.32,
+                    "transaction_id": 71417755
+                }
+            ]
+        }
+    }
+}

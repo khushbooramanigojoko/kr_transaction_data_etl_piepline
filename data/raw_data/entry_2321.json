@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kayla Taylor",
+        "age": 64,
+        "gender": "female",
+        "address": "04938 Maria Glens Apt. 384, Justinfort, FM 53280",
+        "phone": "522.544.7731",
+        "email": "vargaszachary@example.com",
+        "account": {
+            "account_number": "c1402709-6394-40df-93ac-4343a9971f89",
+            "balance": 5712.18,
+            "transactions": [
+                {
+                    "date": "2023-09-17",
+                    "description": "Withdrawal",
+                    "amount": 5857.08,
+                    "transaction_id": 105036727
+                },
+                {
+                    "date": "2023-03-24",
+                    "description": "Withdrawal",
+                    "amount": 10583.95,
+                    "transaction_id": 31132258
+                }
+            ]
+        }
+    }
+}

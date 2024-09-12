@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dale Thomas",
+        "age": 52,
+        "gender": "male",
+        "address": "71216 Mckenzie Flat Apt. 774, Lake Heathermouth, MH 77010",
+        "phone": "725.336.9354",
+        "email": "morriswayne@example.net",
+        "account": {
+            "account_number": "8d7d4231-0a08-4e2f-9b32-10213d751894",
+            "balance": 4167.57,
+            "transactions": [
+                {
+                    "date": "2024-06-29",
+                    "description": "Interest",
+                    "amount": 5758.99,
+                    "transaction_id": 84254864
+                },
+                {
+                    "date": "2023-12-13",
+                    "description": "Withdrawal",
+                    "amount": 39437.07,
+                    "transaction_id": 95793076
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Interest",
+                    "amount": 10106.55,
+                    "transaction_id": 91475241
+                },
+                {
+                    "date": "2024-04-23",
+                    "description": "Deposit",
+                    "amount": 49546.2,
+                    "transaction_id": 43998203
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Deposit",
+                    "amount": 33857.05,
+                    "transaction_id": 73322411
+                }
+            ]
+        }
+    }
+}

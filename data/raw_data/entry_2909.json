@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Becker",
+        "age": 65,
+        "gender": "male",
+        "address": "04026 Sue Squares, North Patrickside, TX 25801",
+        "phone": "6392963236",
+        "email": "michaelwilliamson@example.net",
+        "account": {
+            "account_number": "43b47644-8067-4752-9345-de85fe3ee197",
+            "balance": 31473.96,
+            "transactions": [
+                {
+                    "date": "2023-10-03",
+                    "description": "Withdrawal",
+                    "amount": 13059.75,
+                    "transaction_id": 57598715
+                },
+                {
+                    "date": "2023-09-11",
+                    "description": "Interest",
+                    "amount": 8567.7,
+                    "transaction_id": 119254543
+                },
+                {
+                    "date": "2023-05-16",
+                    "description": "Deposit",
+                    "amount": 21185.9,
+                    "transaction_id": 56016963
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Interest",
+                    "amount": 22602.53,
+                    "transaction_id": 50518585
+                },
+                {
+                    "date": "2024-03-31",
+                    "description": "Interest",
+                    "amount": 32316.93,
+                    "transaction_id": 60524594
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Caitlyn Flores",
+        "age": 41,
+        "gender": "male",
+        "address": "21400 Burke Via Suite 925, Colemanmouth, IN 51335",
+        "phone": "575-942-8455x3150",
+        "email": "oestes@example.com",
+        "account": {
+            "account_number": "748a4f41-85cd-428f-a7a8-4d53b1586670",
+            "balance": 4102.04,
+            "transactions": [
+                {
+                    "date": "2022-10-01",
+                    "description": "Deposit",
+                    "amount": 35391.66,
+                    "transaction_id": 33018368
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Interest",
+                    "amount": 10899.27,
+                    "transaction_id": 58314757
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Deposit",
+                    "amount": 41384.95,
+                    "transaction_id": 90322238
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Interest",
+                    "amount": 39899.62,
+                    "transaction_id": 85195590
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Deposit",
+                    "amount": 17596.37,
+                    "transaction_id": 117779170
+                }
+            ]
+        }
+    }
+}

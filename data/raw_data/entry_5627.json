@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Berry",
+        "age": 40,
+        "gender": "female",
+        "address": "5917 Alison Plains Apt. 457, New Luisport, TN 98566",
+        "phone": "669.570.7071",
+        "email": "nicholasanderson@example.com",
+        "account": {
+            "account_number": "6bf0f59f-d07c-4d01-83c7-9d3bdace4ff7",
+            "balance": 4643.47,
+            "transactions": [
+                {
+                    "date": "2023-11-18",
+                    "description": "Deposit",
+                    "amount": 2915.42,
+                    "transaction_id": 92518429
+                },
+                {
+                    "date": "2023-10-29",
+                    "description": "Interest",
+                    "amount": 37472.06,
+                    "transaction_id": 34052389
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Deposit",
+                    "amount": 36499.11,
+                    "transaction_id": 19735668
+                },
+                {
+                    "date": "2024-07-03",
+                    "description": "Interest",
+                    "amount": 18392.1,
+                    "transaction_id": 25646353
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Withdrawal",
+                    "amount": 4952.15,
+                    "transaction_id": 49348189
+                }
+            ]
+        }
+    }
+}

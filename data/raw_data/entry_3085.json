@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jeffrey Ashley",
+        "age": 44,
+        "gender": "female",
+        "address": "045 Robinson Radial, Sandraview, MI 11515",
+        "phone": "898-974-9823",
+        "email": "bbecker@example.com",
+        "account": {
+            "account_number": "a25d6b7b-ec1c-4833-a2e1-34aabce24a53",
+            "balance": 19143.15,
+            "transactions": [
+                {
+                    "date": "2024-01-17",
+                    "description": "Interest",
+                    "amount": 24632.85,
+                    "transaction_id": 75555197
+                },
+                {
+                    "date": "2024-08-04",
+                    "description": "Withdrawal",
+                    "amount": 44948.17,
+                    "transaction_id": 72505682
+                },
+                {
+                    "date": "2023-05-10",
+                    "description": "Interest",
+                    "amount": 8861.11,
+                    "transaction_id": 48782067
+                }
+            ]
+        }
+    }
+}

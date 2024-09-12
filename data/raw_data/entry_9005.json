@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 73,
+        "gender": "male",
+        "address": "64995 Gonzalez Brooks, Nolanhaven, NV 54501",
+        "phone": "+1-384-359-6224x200",
+        "email": "vcruz@example.net",
+        "account": {
+            "account_number": "db5aff6f-d314-44e9-a098-7ba80561dda7",
+            "balance": 42929.09,
+            "transactions": [
+                {
+                    "date": "2024-07-21",
+                    "description": "Interest",
+                    "amount": 770.66,
+                    "transaction_id": 116335461
+                },
+                {
+                    "date": "2024-02-06",
+                    "description": "Deposit",
+                    "amount": 1902.78,
+                    "transaction_id": 82855998
+                }
+            ]
+        }
+    }
+}

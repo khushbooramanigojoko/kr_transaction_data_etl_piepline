@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 79,
+        "gender": "male",
+        "address": "7607 Crawford Corners, Shelleyville, VT 78411",
+        "phone": "683.397.5791",
+        "email": "novakscott@example.com",
+        "account": {
+            "account_number": "bb3ae068-19f3-4194-bf6a-5c03e7977bba",
+            "balance": 36316.78,
+            "transactions": [
+                {
+                    "date": "2023-10-24",
+                    "description": "Deposit",
+                    "amount": -3331.63,
+                    "transaction_id": 84784611
+                }
+            ]
+        }
+    }
+}

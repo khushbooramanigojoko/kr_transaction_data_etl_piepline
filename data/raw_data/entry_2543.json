@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Angela Dalton",
+        "age": 41,
+        "gender": "male",
+        "address": "269 Harper Parkways, Lake Markmouth, PA 89823",
+        "phone": "398-876-1756",
+        "email": "schwartzlynn@example.com",
+        "account": {
+            "account_number": "b83e1635-1ef8-495b-80e2-37edefd8ceda",
+            "balance": 29663.71,
+            "transactions": [
+                {
+                    "date": "2023-01-13",
+                    "description": "Interest",
+                    "amount": 49232.79,
+                    "transaction_id": 60708155
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Randall Guzman",
+        "age": 35,
+        "gender": "male",
+        "address": "0537 Sean Square Apt. 318, Leslieton, NY 75141",
+        "phone": "+1-638-726-6142x40724",
+        "email": "tmcintyre@example.org",
+        "account": {
+            "account_number": "0bba9570-2455-4410-b26b-830eebbace39",
+            "balance": 31201.74,
+            "transactions": [
+                {
+                    "date": "2022-11-15",
+                    "description": "Deposit",
+                    "amount": 1175.26,
+                    "transaction_id": 91825703
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Withdrawal",
+                    "amount": 28090.43,
+                    "transaction_id": 6109609
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Withdrawal",
+                    "amount": 35955.64,
+                    "transaction_id": 66760451
+                }
+            ]
+        }
+    }
+}

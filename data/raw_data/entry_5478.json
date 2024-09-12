@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Andrew Walker",
+        "age": 20,
+        "gender": "female",
+        "address": "84242 Christensen Fort, Hensleyhaven, FL 34989",
+        "phone": "649.699.4441x1934",
+        "email": "ralvarado@example.com",
+        "account": {
+            "account_number": "360524bb-b1db-4e03-88df-8d20a496803e",
+            "balance": 20641.56,
+            "transactions": [
+                {
+                    "date": "2023-06-18",
+                    "description": "Deposit",
+                    "amount": 44318.02,
+                    "transaction_id": 28465911
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Interest",
+                    "amount": 19454.12,
+                    "transaction_id": 36936380
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Deposit",
+                    "amount": 910.49,
+                    "transaction_id": 2299569
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Withdrawal",
+                    "amount": 22371.39,
+                    "transaction_id": 60727782
+                }
+            ]
+        }
+    }
+}

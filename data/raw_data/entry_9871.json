@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brittney Jones",
+        "age": 68,
+        "gender": "female",
+        "address": "8814 Felicia Lodge, Freychester, MD 51629",
+        "phone": "001-495-304-7351x9660",
+        "email": "morenokyle@example.com",
+        "account": {
+            "account_number": "485e0946-cc0f-42e5-b228-1771a987e612",
+            "balance": -23775.74,
+            "transactions": [
+                {
+                    "date": "2022-11-22",
+                    "description": "Deposit",
+                    "amount": 3216.03,
+                    "transaction_id": 23652435
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Deposit",
+                    "amount": 4818.51,
+                    "transaction_id": 50517166
+                }
+            ]
+        }
+    }
+}

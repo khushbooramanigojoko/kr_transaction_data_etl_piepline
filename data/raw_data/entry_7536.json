@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Maria Harris",
+        "age": 44,
+        "gender": "female",
+        "address": "566 Rachel Street Apt. 158, North Kelly, AZ 28224",
+        "phone": "001-852-511-2600x6666",
+        "email": "natalie80@example.net",
+        "account": {
+            "account_number": "b5d0e5ee-dc53-4ac5-9b78-6f1931ff1bee",
+            "balance": 9021.77,
+            "transactions": [
+                {
+                    "date": "2024-06-02",
+                    "description": "Withdrawal",
+                    "amount": 28760.3,
+                    "transaction_id": 88647487
+                },
+                {
+                    "date": "2023-05-15",
+                    "description": "Withdrawal",
+                    "amount": 18674.93,
+                    "transaction_id": 40854584
+                },
+                {
+                    "date": "2022-12-13",
+                    "description": "Deposit",
+                    "amount": 49811.37,
+                    "transaction_id": 63613245
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Deposit",
+                    "amount": 44262.54,
+                    "transaction_id": 35158942
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Deposit",
+                    "amount": 25229.72,
+                    "transaction_id": 28391535
+                }
+            ]
+        }
+    }
+}

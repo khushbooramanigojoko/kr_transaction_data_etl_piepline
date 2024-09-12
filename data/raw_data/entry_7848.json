@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mrs. Stephanie Fletcher",
+        "age": 54,
+        "gender": "male",
+        "address": "12268 Jessica Club, Cookfurt, TN 52351",
+        "phone": "833-858-9399x58875",
+        "email": "timothygutierrez@example.org",
+        "account": {
+            "account_number": "7093336e-b504-46c4-a60e-a348323000a6",
+            "balance": 2273.75,
+            "transactions": [
+                {
+                    "date": "2024-06-18",
+                    "description": "Deposit",
+                    "amount": 10137.9,
+                    "transaction_id": 45498647
+                },
+                {
+                    "date": "2024-03-21",
+                    "description": "Deposit",
+                    "amount": 22205.87,
+                    "transaction_id": 78358505
+                }
+            ]
+        }
+    }
+}

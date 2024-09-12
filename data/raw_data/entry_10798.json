@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Albert Wood",
+        "age": 39,
+        "gender": "male",
+        "address": "Unit 0857 Box 5459, DPO AA 77302",
+        "phone": "001-334-778-4564",
+        "email": "mcdowellholly@example.com",
+        "account": {
+            "account_number": "c2bbeee0-f6a7-49e3-bdb1-d3f015d55622",
+            "balance": -46975.15,
+            "transactions": [
+                {
+                    "date": "2024-01-25",
+                    "description": "Withdrawal",
+                    "amount": 3836.83,
+                    "transaction_id": 81364052
+                }
+            ]
+        }
+    }
+}

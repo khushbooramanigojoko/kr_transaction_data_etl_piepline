@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jacqueline Ho",
+        "age": 45,
+        "gender": "female",
+        "address": "1276 Jason Harbors, Craigland, NV 58762",
+        "phone": "897-539-9661x03825",
+        "email": "cnguyen@example.net",
+        "account": {
+            "account_number": "a315697d-f509-40a8-9a24-32968be135bc",
+            "balance": 14198.78,
+            "transactions": [
+                {
+                    "date": "2023-05-15",
+                    "description": "Interest",
+                    "amount": 30763.69,
+                    "transaction_id": 112912813
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Withdrawal",
+                    "amount": 31825.16,
+                    "transaction_id": 31151895
+                },
+                {
+                    "date": "2024-08-25",
+                    "description": "Interest",
+                    "amount": 23098.25,
+                    "transaction_id": 56006279
+                }
+            ]
+        }
+    }
+}

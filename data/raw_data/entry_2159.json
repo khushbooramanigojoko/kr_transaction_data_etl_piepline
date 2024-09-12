@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jimmy Wells",
+        "age": 30,
+        "gender": "male",
+        "address": "2051 Barnes Haven Apt. 286, New Anthony, LA 06401",
+        "phone": "3656484393",
+        "email": "kathleen64@example.net",
+        "account": {
+            "account_number": "707a80d7-0c84-4917-800d-ad3cd9044936",
+            "balance": 36171.22,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Withdrawal",
+                    "amount": 38431.94,
+                    "transaction_id": 105511004
+                }
+            ]
+        }
+    }
+}

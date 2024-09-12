@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Vanessa Dickson",
+        "age": 97,
+        "gender": "female",
+        "address": "138 Walter Ports Apt. 329, Simmonschester, UT 25087",
+        "phone": "001-488-541-2033x0827",
+        "email": "kelly68@example.org",
+        "account": {
+            "account_number": "fe198c73-9aa7-4a41-adc1-9a3a739d4011",
+            "balance": 22379.0,
+            "transactions": [
+                {
+                    "date": "2024-02-12",
+                    "description": "Deposit",
+                    "amount": 48200.68,
+                    "transaction_id": 118033426
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Interest",
+                    "amount": 29988.32,
+                    "transaction_id": 67225401
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Deposit",
+                    "amount": 33989.93,
+                    "transaction_id": 95363328
+                }
+            ]
+        }
+    }
+}

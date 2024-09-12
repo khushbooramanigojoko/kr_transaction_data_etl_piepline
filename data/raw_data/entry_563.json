@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ricardo Hood",
+        "age": 95,
+        "gender": "male",
+        "address": "USNS Hart, FPO AP 05405",
+        "phone": "+1-775-738-9537x69234",
+        "email": "kimberlyturner@example.com",
+        "account": {
+            "account_number": "b8ee1ce9-ee8e-44a0-98cb-19b575d4158a",
+            "balance": 45862.08,
+            "transactions": [
+                {
+                    "date": "2024-05-03",
+                    "description": "Deposit",
+                    "amount": 16955.83,
+                    "transaction_id": 3922073
+                }
+            ]
+        }
+    }
+}

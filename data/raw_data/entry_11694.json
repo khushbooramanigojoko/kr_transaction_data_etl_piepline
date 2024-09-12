@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 98,
+        "gender": "female",
+        "address": "1972 Troy Causeway, Port Deborahbury, OH 09918",
+        "phone": "001-347-282-9151x258",
+        "email": "pamelafowler@example.net",
+        "account": {
+            "account_number": "617b4345-9b7c-48dc-9859-a90eb1564fff",
+            "balance": 4779.61,
+            "transactions": [
+                {
+                    "date": "2024-01-20",
+                    "description": "Deposit",
+                    "amount": -793.35,
+                    "transaction_id": 11817408
+                }
+            ]
+        }
+    }
+}

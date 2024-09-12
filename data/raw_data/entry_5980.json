@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Aaron Walker",
+        "age": 66,
+        "gender": "male",
+        "address": "82127 Rebecca Park Apt. 302, Kyliemouth, PW 57842",
+        "phone": "+1-782-745-5228",
+        "email": "thompsonjeff@example.org",
+        "account": {
+            "account_number": "5e8b44d1-805c-4f3c-ba1e-2cb3a0fdefc8",
+            "balance": 12847.18,
+            "transactions": [
+                {
+                    "date": "2024-07-17",
+                    "description": "Interest",
+                    "amount": 39233.33,
+                    "transaction_id": 77275158
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Deposit",
+                    "amount": 27727.27,
+                    "transaction_id": 27184262
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Withdrawal",
+                    "amount": 30625.63,
+                    "transaction_id": 9965955
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Withdrawal",
+                    "amount": 18548.44,
+                    "transaction_id": 59696935
+                },
+                {
+                    "date": "2023-03-08",
+                    "description": "Withdrawal",
+                    "amount": 39535.04,
+                    "transaction_id": 47832936
+                }
+            ]
+        }
+    }
+}

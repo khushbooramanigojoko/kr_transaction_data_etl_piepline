@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Maria Preston",
+        "age": 93,
+        "gender": "female",
+        "address": "45453 Karen Burg, Simmonsport, MS 53320",
+        "phone": "001-649-232-7450x090",
+        "email": "ljohnson@example.org",
+        "account": {
+            "account_number": "d6975c9f-137b-406d-a14e-ba66c0c01bc4",
+            "balance": 39049.22,
+            "transactions": [
+                {
+                    "date": "2023-06-15",
+                    "description": "Withdrawal",
+                    "amount": 39469.04,
+                    "transaction_id": 38025760
+                },
+                {
+                    "date": "2023-05-03",
+                    "description": "Withdrawal",
+                    "amount": 25476.07,
+                    "transaction_id": 35303812
+                },
+                {
+                    "date": "2023-03-30",
+                    "description": "Deposit",
+                    "amount": 8284.02,
+                    "transaction_id": 42079565
+                },
+                {
+                    "date": "2023-12-31",
+                    "description": "Deposit",
+                    "amount": 14582.07,
+                    "transaction_id": 54723899
+                }
+            ]
+        }
+    }
+}

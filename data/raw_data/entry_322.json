@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Duane Lutz",
+        "age": 36,
+        "gender": "female",
+        "address": "4200 Katherine Canyon Suite 675, Millerton, CA 19276",
+        "phone": "518-787-4151",
+        "email": "clarkmichael@example.com",
+        "account": {
+            "account_number": "9417fb6e-6df7-47e1-b981-fd7d57ae07ee",
+            "balance": 30115.26,
+            "transactions": [
+                {
+                    "date": "2023-10-13",
+                    "description": "Deposit",
+                    "amount": 47525.01,
+                    "transaction_id": 113951175
+                },
+                {
+                    "date": "2024-06-25",
+                    "description": "Deposit",
+                    "amount": 5069.22,
+                    "transaction_id": 33388750
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Withdrawal",
+                    "amount": 14968.49,
+                    "transaction_id": 41001774
+                },
+                {
+                    "date": "2023-09-15",
+                    "description": "Withdrawal",
+                    "amount": 18778.12,
+                    "transaction_id": 21346577
+                },
+                {
+                    "date": "2023-08-12",
+                    "description": "Interest",
+                    "amount": 42960.77,
+                    "transaction_id": 10900473
+                }
+            ]
+        }
+    }
+}

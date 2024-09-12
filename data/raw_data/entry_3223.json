@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Young",
+        "age": 76,
+        "gender": "female",
+        "address": "47411 Moreno Cliffs, New Ginamouth, OK 74172",
+        "phone": "(647)401-8728x6304",
+        "email": "parkerbrandon@example.com",
+        "account": {
+            "account_number": "b69058cb-edcc-4a81-98d4-864bf85352c0",
+            "balance": 33783.88,
+            "transactions": [
+                {
+                    "date": "2023-06-17",
+                    "description": "Interest",
+                    "amount": 10856.0,
+                    "transaction_id": 43423818
+                },
+                {
+                    "date": "2024-03-31",
+                    "description": "Interest",
+                    "amount": 21954.54,
+                    "transaction_id": 68340471
+                }
+            ]
+        }
+    }
+}

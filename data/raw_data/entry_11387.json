@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Christina Roberts",
+        "age": 25,
+        "gender": "female",
+        "address": "4356 Smith Harbors, Maryview, DC 46609",
+        "phone": "274.645.2155x84638",
+        "email": "melissa61@example.org",
+        "account": {
+            "account_number": "c894ec6e-a18a-4e83-aea2-5bd883b52924",
+            "balance": -37321.99,
+            "transactions": [
+                {
+                    "date": "2024-08-28",
+                    "description": "Deposit",
+                    "amount": 4282.0,
+                    "transaction_id": 9873298
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Interest",
+                    "amount": -436.69,
+                    "transaction_id": 5311383
+                },
+                {
+                    "date": "2022-09-14",
+                    "description": "Deposit",
+                    "amount": -3483.67,
+                    "transaction_id": 103247428
+                }
+            ]
+        }
+    }
+}

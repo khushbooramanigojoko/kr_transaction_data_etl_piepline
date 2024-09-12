@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Roberts",
+        "age": 23,
+        "gender": "male",
+        "address": "54060 Molly Mountains, Ericbury, DE 41740",
+        "phone": "001-575-738-8530x339",
+        "email": "walvarez@example.net",
+        "account": {
+            "account_number": "ad0a6920-fa42-4b2c-9ea4-4f30eb475118",
+            "balance": 10348.24,
+            "transactions": [
+                {
+                    "date": "2024-02-15",
+                    "description": "Withdrawal",
+                    "amount": 22370.55,
+                    "transaction_id": 92715269
+                },
+                {
+                    "date": "2023-07-03",
+                    "description": "Withdrawal",
+                    "amount": 12448.41,
+                    "transaction_id": 109970505
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Withdrawal",
+                    "amount": 48980.84,
+                    "transaction_id": 92898557
+                }
+            ]
+        }
+    }
+}

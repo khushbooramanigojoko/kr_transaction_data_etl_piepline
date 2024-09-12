@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 27,
+        "gender": "male",
+        "address": "62123 Garcia Pike, West Stephen, FL 78496",
+        "phone": "717-626-0150",
+        "email": "gking@example.net",
+        "account": {
+            "account_number": "d034b84e-c52d-4bec-bb7e-22cb71f6fd4d",
+            "balance": 9254.26,
+            "transactions": [
+                {
+                    "date": "2024-02-13",
+                    "description": "Interest",
+                    "amount": 2243.33,
+                    "transaction_id": 64537949
+                }
+            ]
+        }
+    }
+}

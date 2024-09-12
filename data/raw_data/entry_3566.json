@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Stephanie Gilbert",
+        "age": 86,
+        "gender": "male",
+        "address": "2109 Bell Bypass, Lake Matthewberg, PW 15195",
+        "phone": "001-427-222-8477x4144",
+        "email": "wagnershane@example.com",
+        "account": {
+            "account_number": "3c229375-616c-4799-a860-9f6b9291ea35",
+            "balance": 33837.63,
+            "transactions": [
+                {
+                    "date": "2023-10-16",
+                    "description": "Interest",
+                    "amount": 16455.4,
+                    "transaction_id": 59649376
+                },
+                {
+                    "date": "2023-05-04",
+                    "description": "Interest",
+                    "amount": 19663.67,
+                    "transaction_id": 48834609
+                }
+            ]
+        }
+    }
+}

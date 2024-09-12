@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ebony Lozano",
+        "age": 21,
+        "gender": "female",
+        "address": "787 Patrick Circle Apt. 700, New Jennifer, WI 55931",
+        "phone": "718-229-4840x785",
+        "email": "kschaefer@example.com",
+        "account": {
+            "account_number": "298f2ce1-5b60-47ee-bdff-795eccb6d3db",
+            "balance": 16295.63,
+            "transactions": [
+                {
+                    "date": "2024-02-25",
+                    "description": "Interest",
+                    "amount": 11899.96,
+                    "transaction_id": 116774999
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Interest",
+                    "amount": 4807.89,
+                    "transaction_id": 14827422
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Interest",
+                    "amount": 41371.41,
+                    "transaction_id": 26826152
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Deposit",
+                    "amount": 31831.51,
+                    "transaction_id": 12544460
+                },
+                {
+                    "date": "2023-10-30",
+                    "description": "Interest",
+                    "amount": 48065.59,
+                    "transaction_id": 5439491
+                }
+            ]
+        }
+    }
+}

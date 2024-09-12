@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Karen Garcia",
+        "age": 93,
+        "gender": "male",
+        "address": "PSC 5511, Box 0008, APO AP 87902",
+        "phone": "(575)957-1292x911",
+        "email": "thaynes@example.net",
+        "account": {
+            "account_number": "d2edf021-7526-4781-ae21-81c3cd57752b",
+            "balance": 37451.82,
+            "transactions": [
+                {
+                    "date": "2023-11-18",
+                    "description": "Interest",
+                    "amount": 42604.88,
+                    "transaction_id": 2056936
+                },
+                {
+                    "date": "2023-05-04",
+                    "description": "Deposit",
+                    "amount": 43406.21,
+                    "transaction_id": 63409630
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Withdrawal",
+                    "amount": 45440.1,
+                    "transaction_id": 87743512
+                },
+                {
+                    "date": "2023-11-04",
+                    "description": "Withdrawal",
+                    "amount": 11580.17,
+                    "transaction_id": 99871319
+                }
+            ]
+        }
+    }
+}

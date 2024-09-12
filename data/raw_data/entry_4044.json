@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dr. Paula Ray",
+        "age": 92,
+        "gender": "male",
+        "address": "4190 Melanie Mews Apt. 322, Port Wendyfort, ND 54501",
+        "phone": "706.937.8454",
+        "email": "moorecynthia@example.org",
+        "account": {
+            "account_number": "62751ac8-43a4-4c35-afbf-25ef469c219d",
+            "balance": 30986.89,
+            "transactions": [
+                {
+                    "date": "2023-10-12",
+                    "description": "Deposit",
+                    "amount": 21337.62,
+                    "transaction_id": 26242432
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Deposit",
+                    "amount": 45981.58,
+                    "transaction_id": 97721699
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Deposit",
+                    "amount": 34878.57,
+                    "transaction_id": 45478821
+                },
+                {
+                    "date": "2023-10-29",
+                    "description": "Deposit",
+                    "amount": 45828.4,
+                    "transaction_id": 115768326
+                }
+            ]
+        }
+    }
+}

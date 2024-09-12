@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 35,
+        "gender": "female",
+        "address": "136 Katie View Apt. 123, Carlsonmouth, DE 93406",
+        "phone": "+1-741-521-7635",
+        "email": "zgraves@example.com",
+        "account": {
+            "account_number": "88e203e6-5bcf-4bd5-8242-223dbbb99f54",
+            "balance": 47900.09,
+            "transactions": [
+                {
+                    "date": "2024-02-22",
+                    "description": "Withdrawal",
+                    "amount": -223.82,
+                    "transaction_id": 15804891
+                },
+                {
+                    "date": "2023-06-27",
+                    "description": "Interest",
+                    "amount": -926.57,
+                    "transaction_id": 62412927
+                },
+                {
+                    "date": "2024-02-25",
+                    "description": "Withdrawal",
+                    "amount": -4500.7,
+                    "transaction_id": 50058533
+                },
+                {
+                    "date": "2024-02-03",
+                    "description": "Deposit",
+                    "amount": -42.54,
+                    "transaction_id": 87049363
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Heather Owens",
+        "age": 26,
+        "gender": "male",
+        "address": "69983 Patterson Square, Lawsonfort, MS 09279",
+        "phone": "935.601.8020x36574",
+        "email": "gonzalezeric@example.net",
+        "account": {
+            "account_number": "40a2ba5c-4497-46c5-a359-fb9eb4032c2d",
+            "balance": 14046.26,
+            "transactions": [
+                {
+                    "date": "2023-08-21",
+                    "description": "Interest",
+                    "amount": 27391.73,
+                    "transaction_id": 97040710
+                }
+            ]
+        }
+    }
+}

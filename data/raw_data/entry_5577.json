@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Donna Lewis",
+        "age": 35,
+        "gender": "female",
+        "address": "71849 Lauren Brooks Suite 321, Booneshire, OH 91644",
+        "phone": "237.641.9780x235",
+        "email": "collierraymond@example.org",
+        "account": {
+            "account_number": "d041412b-4ba4-4b15-b864-895580a7d486",
+            "balance": 16380.12,
+            "transactions": [
+                {
+                    "date": "2023-05-11",
+                    "description": "Deposit",
+                    "amount": 36892.45,
+                    "transaction_id": 98052870
+                },
+                {
+                    "date": "2024-03-01",
+                    "description": "Withdrawal",
+                    "amount": 48669.73,
+                    "transaction_id": 37177103
+                },
+                {
+                    "date": "2023-02-01",
+                    "description": "Withdrawal",
+                    "amount": 31221.41,
+                    "transaction_id": 68473629
+                }
+            ]
+        }
+    }
+}

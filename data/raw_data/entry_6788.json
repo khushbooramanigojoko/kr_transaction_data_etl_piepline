@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Madison Brown",
+        "age": 54,
+        "gender": "male",
+        "address": "65994 Brad Divide Suite 794, Hernandeztown, MO 49792",
+        "phone": "+1-362-869-6689x282",
+        "email": "jessicabates@example.net",
+        "account": {
+            "account_number": "256c9dde-f649-46e9-a095-7fec4cfd5d4c",
+            "balance": 9218.3,
+            "transactions": [
+                {
+                    "date": "2024-03-04",
+                    "description": "Deposit",
+                    "amount": 16498.91,
+                    "transaction_id": 103351428
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Deposit",
+                    "amount": 21711.24,
+                    "transaction_id": 8492326
+                },
+                {
+                    "date": "2024-04-21",
+                    "description": "Interest",
+                    "amount": 7643.57,
+                    "transaction_id": 34182669
+                }
+            ]
+        }
+    }
+}

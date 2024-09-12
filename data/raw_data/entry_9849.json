@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 86,
+        "gender": "female",
+        "address": "90414 Phelps Orchard Apt. 690, North Patrick, LA 17208",
+        "phone": "001-835-869-1321x535",
+        "email": "christopherandrade@example.com",
+        "account": {
+            "account_number": "214e04ab-4803-42cf-ba5d-f3fa4e3a5f5c",
+            "balance": 8064.33,
+            "transactions": [
+                {
+                    "date": "2024-01-01",
+                    "description": "Deposit",
+                    "amount": 1862.76,
+                    "transaction_id": 62765594
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Deposit",
+                    "amount": 502.22,
+                    "transaction_id": 55791588
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Withdrawal",
+                    "amount": -3097.43,
+                    "transaction_id": 38879707
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Withdrawal",
+                    "amount": -2521.85,
+                    "transaction_id": 95377182
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Interest",
+                    "amount": 2297.79,
+                    "transaction_id": 77890091
+                }
+            ]
+        }
+    }
+}

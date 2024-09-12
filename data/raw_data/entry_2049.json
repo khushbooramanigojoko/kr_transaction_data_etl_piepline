@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jonathan Young",
+        "age": 78,
+        "gender": "male",
+        "address": "95897 Rodgers Mills, West Anthonyland, MH 23836",
+        "phone": "9656212816",
+        "email": "antoniohall@example.net",
+        "account": {
+            "account_number": "9084e638-ac12-416d-8110-f8c002a09395",
+            "balance": 35294.96,
+            "transactions": [
+                {
+                    "date": "2024-05-18",
+                    "description": "Interest",
+                    "amount": 3338.13,
+                    "transaction_id": 62115752
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Deposit",
+                    "amount": 29212.79,
+                    "transaction_id": 32800372
+                }
+            ]
+        }
+    }
+}

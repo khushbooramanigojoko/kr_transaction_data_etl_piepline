@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Pamela Adams",
+        "age": 52,
+        "gender": "female",
+        "address": "363 Kristin Ridges, Kennethbury, DE 95224",
+        "phone": "+1-556-471-5139x983",
+        "email": "sarajones@example.org",
+        "account": {
+            "account_number": "29f92ffa-ed69-4e72-a38a-1b4b7357c935",
+            "balance": 37185.07,
+            "transactions": [
+                {
+                    "date": "2024-02-20",
+                    "description": "Deposit",
+                    "amount": 3568.42,
+                    "transaction_id": 70915787
+                },
+                {
+                    "date": "2022-09-29",
+                    "description": "Deposit",
+                    "amount": 6323.28,
+                    "transaction_id": 89770364
+                }
+            ]
+        }
+    }
+}

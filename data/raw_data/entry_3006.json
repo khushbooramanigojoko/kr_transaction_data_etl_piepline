@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kevin Padilla",
+        "age": 42,
+        "gender": "male",
+        "address": "1750 Mosley Throughway, Burchborough, NC 12075",
+        "phone": "(875)611-4351",
+        "email": "garciajennifer@example.com",
+        "account": {
+            "account_number": "664aa21c-2a0b-4527-8e9e-20d1808993e1",
+            "balance": 33109.03,
+            "transactions": [
+                {
+                    "date": "2024-08-06",
+                    "description": "Interest",
+                    "amount": 46292.56,
+                    "transaction_id": 111901761
+                }
+            ]
+        }
+    }
+}

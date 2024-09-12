@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Timothy Duke",
+        "age": 68,
+        "gender": "male",
+        "address": "36744 Swanson Plaza, Lawsonton, WA 21442",
+        "phone": "688-992-9760x27685",
+        "email": "ymitchell@example.net",
+        "account": {
+            "account_number": "7a0772d6-7530-46f5-8464-a9860391b811",
+            "balance": 39073.29,
+            "transactions": [
+                {
+                    "date": "2024-07-03",
+                    "description": "Deposit",
+                    "amount": 29723.45,
+                    "transaction_id": 1715298
+                },
+                {
+                    "date": "2023-01-13",
+                    "description": "Interest",
+                    "amount": 18331.75,
+                    "transaction_id": 44492648
+                },
+                {
+                    "date": "2023-07-30",
+                    "description": "Withdrawal",
+                    "amount": 8734.23,
+                    "transaction_id": 91962817
+                }
+            ]
+        }
+    }
+}

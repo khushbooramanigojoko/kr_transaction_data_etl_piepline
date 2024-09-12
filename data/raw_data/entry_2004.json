@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Paul Conner",
+        "age": 62,
+        "gender": "male",
+        "address": "64711 Davis Shore, Lake Michellemouth, CO 73912",
+        "phone": "370.665.9971",
+        "email": "deborahfrancis@example.com",
+        "account": {
+            "account_number": "d97feac4-0c41-4c28-b0d8-d4a1330073a3",
+            "balance": 42508.35,
+            "transactions": [
+                {
+                    "date": "2024-01-21",
+                    "description": "Interest",
+                    "amount": 32930.97,
+                    "transaction_id": 2667544
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Withdrawal",
+                    "amount": 38387.8,
+                    "transaction_id": 20261733
+                },
+                {
+                    "date": "2023-07-14",
+                    "description": "Interest",
+                    "amount": 3813.88,
+                    "transaction_id": 68285722
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Withdrawal",
+                    "amount": 7134.37,
+                    "transaction_id": 75458953
+                }
+            ]
+        }
+    }
+}

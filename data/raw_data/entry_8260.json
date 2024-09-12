@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Travis York",
+        "age": 43,
+        "gender": "female",
+        "address": "508 Edward River, Adamport, AZ 07413",
+        "phone": "+1-702-243-6861x189",
+        "email": "raymond49@example.com",
+        "account": {
+            "account_number": "e17d0284-88c0-4866-b0ec-3d6e8ed84d72",
+            "balance": 42758.33,
+            "transactions": [
+                {
+                    "date": "2023-04-15",
+                    "description": "Withdrawal",
+                    "amount": 8861.16,
+                    "transaction_id": 105685667
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Withdrawal",
+                    "amount": 24300.85,
+                    "transaction_id": 24930694
+                },
+                {
+                    "date": "2023-03-04",
+                    "description": "Deposit",
+                    "amount": 8832.68,
+                    "transaction_id": 60177853
+                }
+            ]
+        }
+    }
+}

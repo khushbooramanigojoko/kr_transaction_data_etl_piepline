@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Susan Hebert",
+        "age": 56,
+        "gender": "female",
+        "address": "PSC 5728, Box 0838, APO AA 40411",
+        "phone": "654.682.9277x05398",
+        "email": "loveanthony@example.com",
+        "account": {
+            "account_number": "55f801db-37d1-43d5-9386-c35d1b98c55b",
+            "balance": 11032.37,
+            "transactions": [
+                {
+                    "date": "2023-08-06",
+                    "description": "Interest",
+                    "amount": 6838.64,
+                    "transaction_id": 33077040
+                },
+                {
+                    "date": "2023-10-01",
+                    "description": "Interest",
+                    "amount": 3131.74,
+                    "transaction_id": 115527048
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Deposit",
+                    "amount": 15474.57,
+                    "transaction_id": 13502455
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Withdrawal",
+                    "amount": 49258.18,
+                    "transaction_id": 39238515
+                }
+            ]
+        }
+    }
+}

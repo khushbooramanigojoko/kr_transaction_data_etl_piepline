@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Nicole Austin",
+        "age": 80,
+        "gender": "female",
+        "address": "02729 Pamela Key Suite 584, New Mark, NC 66265",
+        "phone": "+1-457-620-1882x2600",
+        "email": "joshuadickerson@example.net",
+        "account": {
+            "account_number": "616c244a-acb6-4680-8b46-201e4b7d3ffd",
+            "balance": 42796.91,
+            "transactions": [
+                {
+                    "date": "2024-08-04",
+                    "description": "Interest",
+                    "amount": 32549.11,
+                    "transaction_id": 50225085
+                }
+            ]
+        }
+    }
+}

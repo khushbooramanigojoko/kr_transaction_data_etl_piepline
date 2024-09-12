@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mrs. Kimberly Mcdowell",
+        "age": 24,
+        "gender": "female",
+        "address": "190 Russell Point, Stevenfurt, OK 38239",
+        "phone": "001-628-580-3347",
+        "email": "lopezbethany@example.com",
+        "account": {
+            "account_number": "526efdeb-d19c-4370-badb-e800006c27f1",
+            "balance": -31490.48,
+            "transactions": [
+                {
+                    "date": "2022-09-08",
+                    "description": "Withdrawal",
+                    "amount": -3356.43,
+                    "transaction_id": 84415455
+                },
+                {
+                    "date": "2023-12-30",
+                    "description": "Deposit",
+                    "amount": 4778.51,
+                    "transaction_id": 18024650
+                }
+            ]
+        }
+    }
+}

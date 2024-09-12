@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Monique Robinson",
+        "age": 57,
+        "gender": "female",
+        "address": "92208 Harrison Ways Suite 737, North Kristen, VI 68611",
+        "phone": "481-991-5858",
+        "email": "kenneth24@example.com",
+        "account": {
+            "account_number": "4052e39d-613c-4325-b0a1-27de6ef2f4de",
+            "balance": 32344.31,
+            "transactions": [
+                {
+                    "date": "2024-08-08",
+                    "description": "Interest",
+                    "amount": 43791.09,
+                    "transaction_id": 46876264
+                },
+                {
+                    "date": "2023-04-01",
+                    "description": "Withdrawal",
+                    "amount": 22765.7,
+                    "transaction_id": 112223428
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Deposit",
+                    "amount": 42683.17,
+                    "transaction_id": 33328601
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Deposit",
+                    "amount": 14485.8,
+                    "transaction_id": 80561832
+                }
+            ]
+        }
+    }
+}

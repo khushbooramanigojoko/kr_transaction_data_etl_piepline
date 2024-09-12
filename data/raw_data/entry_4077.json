@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Baker",
+        "age": 62,
+        "gender": "female",
+        "address": "06345 Jesse Grove, Dianestad, IA 72166",
+        "phone": "(873)661-0659",
+        "email": "ijames@example.net",
+        "account": {
+            "account_number": "17923cf3-cf6e-4dba-820a-48d46df4be91",
+            "balance": 23723.86,
+            "transactions": [
+                {
+                    "date": "2023-08-11",
+                    "description": "Withdrawal",
+                    "amount": 38712.22,
+                    "transaction_id": 41834652
+                },
+                {
+                    "date": "2024-02-13",
+                    "description": "Deposit",
+                    "amount": 22879.79,
+                    "transaction_id": 28821244
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Deposit",
+                    "amount": 48246.93,
+                    "transaction_id": 5897919
+                },
+                {
+                    "date": "2023-11-08",
+                    "description": "Withdrawal",
+                    "amount": 20735.13,
+                    "transaction_id": 111071151
+                }
+            ]
+        }
+    }
+}

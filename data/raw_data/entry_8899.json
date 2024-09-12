@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 37,
+        "gender": "female",
+        "address": "8204 Townsend Avenue Suite 060, Lake James, ND 02004",
+        "phone": "+1-617-378-8217x52816",
+        "email": "aperez@example.net",
+        "account": {
+            "account_number": "6f98c69f-5730-447f-bd83-dc01ec08db86",
+            "balance": 11896.2,
+            "transactions": [
+                {
+                    "date": "2024-02-16",
+                    "description": "Deposit",
+                    "amount": -606.78,
+                    "transaction_id": 46052594
+                },
+                {
+                    "date": "2023-10-31",
+                    "description": "Withdrawal",
+                    "amount": -511.36,
+                    "transaction_id": 106473510
+                },
+                {
+                    "date": "2024-03-05",
+                    "description": "Deposit",
+                    "amount": 1354.4,
+                    "transaction_id": 83368330
+                },
+                {
+                    "date": "2023-12-06",
+                    "description": "Deposit",
+                    "amount": -1230.0,
+                    "transaction_id": 95895092
+                }
+            ]
+        }
+    }
+}

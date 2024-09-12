@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Courtney Clark",
+        "age": 21,
+        "gender": "male",
+        "address": "Unit 8154 Box 4859, DPO AE 79734",
+        "phone": "(948)432-4244x0957",
+        "email": "kelleyjames@example.org",
+        "account": {
+            "account_number": "2fa57679-0a76-4c48-b563-8c3528ee9df8",
+            "balance": 36856.8,
+            "transactions": [
+                {
+                    "date": "2023-08-31",
+                    "description": "Deposit",
+                    "amount": 28500.26,
+                    "transaction_id": 24142218
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Withdrawal",
+                    "amount": 20653.01,
+                    "transaction_id": 50508024
+                }
+            ]
+        }
+    }
+}

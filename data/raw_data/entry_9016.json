@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 97,
+        "gender": "male",
+        "address": "49815 Contreras Walk Suite 974, West Charleschester, IN 94888",
+        "phone": "(589)383-5051x9739",
+        "email": "brandteric@example.net",
+        "account": {
+            "account_number": "31bc97f9-2ce1-4fe6-8299-974344cd3c9a",
+            "balance": 25379.54,
+            "transactions": [
+                {
+                    "date": "2022-09-20",
+                    "description": "Withdrawal",
+                    "amount": 3353.68,
+                    "transaction_id": 103919623
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Deposit",
+                    "amount": 604.01,
+                    "transaction_id": 98468991
+                },
+                {
+                    "date": "2023-08-23",
+                    "description": "Interest",
+                    "amount": -2394.49,
+                    "transaction_id": 29835800
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Withdrawal",
+                    "amount": -4018.59,
+                    "transaction_id": 105294703
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "William Taylor",
+        "age": 27,
+        "gender": "female",
+        "address": "96057 Mccarty Plains, Ericberg, IA 54919",
+        "phone": "563-522-3033",
+        "email": "natasharobinson@example.com",
+        "account": {
+            "account_number": "3fdbeebe-400d-4d47-8158-39cbb15c73cc",
+            "balance": 42491.13,
+            "transactions": [
+                {
+                    "date": "2022-12-10",
+                    "description": "Interest",
+                    "amount": 46418.49,
+                    "transaction_id": 9704191
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Withdrawal",
+                    "amount": 3212.51,
+                    "transaction_id": 73223081
+                }
+            ]
+        }
+    }
+}

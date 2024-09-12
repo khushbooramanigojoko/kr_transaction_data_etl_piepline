@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jasmine Johnson",
+        "age": 63,
+        "gender": "male",
+        "address": "53863 Sutton Rue Suite 030, East Luisfort, PW 64863",
+        "phone": "(591)282-8614",
+        "email": "rosedaniel@example.net",
+        "account": {
+            "account_number": "f1d5e2b0-de41-4523-90ee-6b6cf300d887",
+            "balance": 23778.58,
+            "transactions": [
+                {
+                    "date": "2023-07-09",
+                    "description": "Withdrawal",
+                    "amount": 9060.67,
+                    "transaction_id": 1752957
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Interest",
+                    "amount": 49222.25,
+                    "transaction_id": 66570300
+                },
+                {
+                    "date": "2022-11-04",
+                    "description": "Withdrawal",
+                    "amount": 37958.51,
+                    "transaction_id": 6339237
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Deposit",
+                    "amount": 33515.92,
+                    "transaction_id": 115545535
+                }
+            ]
+        }
+    }
+}

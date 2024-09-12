@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jeffrey Lang",
+        "age": 91,
+        "gender": "male",
+        "address": "79913 Michael Parks Suite 807, New Norma, IL 80297",
+        "phone": "496-578-6615",
+        "email": "blankenshiptracey@example.net",
+        "account": {
+            "account_number": "2420489c-62c5-46b7-9c5e-0c6148b1baf7",
+            "balance": 1063.21,
+            "transactions": [
+                {
+                    "date": "2022-10-02",
+                    "description": "Interest",
+                    "amount": 42785.92,
+                    "transaction_id": 97788396
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Interest",
+                    "amount": 6080.79,
+                    "transaction_id": 21572810
+                },
+                {
+                    "date": "2024-06-13",
+                    "description": "Withdrawal",
+                    "amount": 18454.98,
+                    "transaction_id": 68219493
+                },
+                {
+                    "date": "2023-09-18",
+                    "description": "Withdrawal",
+                    "amount": 40554.71,
+                    "transaction_id": 14056475
+                }
+            ]
+        }
+    }
+}

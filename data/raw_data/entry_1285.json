@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brian Castro",
+        "age": 38,
+        "gender": "female",
+        "address": "147 Robinson Plains, Shelbymouth, AR 20107",
+        "phone": "457-266-1815",
+        "email": "markhunter@example.net",
+        "account": {
+            "account_number": "7cfc764a-e2a4-4d0a-b9f7-ab174290549a",
+            "balance": 13846.96,
+            "transactions": [
+                {
+                    "date": "2023-02-28",
+                    "description": "Deposit",
+                    "amount": 1992.36,
+                    "transaction_id": 18668865
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Interest",
+                    "amount": 17519.97,
+                    "transaction_id": 41185066
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Deposit",
+                    "amount": 41207.34,
+                    "transaction_id": 69578839
+                },
+                {
+                    "date": "2024-02-13",
+                    "description": "Withdrawal",
+                    "amount": 31377.66,
+                    "transaction_id": 101406938
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Interest",
+                    "amount": 37076.2,
+                    "transaction_id": 101513681
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Wendy Rivera",
+        "age": 22,
+        "gender": "male",
+        "address": "35266 Lisa Plains, Travisfurt, TN 67090",
+        "phone": "(721)354-0131",
+        "email": "bross@example.org",
+        "account": {
+            "account_number": "ea95c81e-82fd-4202-aae4-a190c035ef18",
+            "balance": 46286.59,
+            "transactions": [
+                {
+                    "date": "2024-03-26",
+                    "description": "Interest",
+                    "amount": 17032.7,
+                    "transaction_id": 60109883
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Interest",
+                    "amount": 34870.71,
+                    "transaction_id": 5580641
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Interest",
+                    "amount": 5045.81,
+                    "transaction_id": 73332758
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brenda Rush",
+        "age": 22,
+        "gender": "male",
+        "address": "681 Mcdowell Shoal, Masseyside, NY 16213",
+        "phone": "(302)247-0545x53317",
+        "email": "cberry@example.org",
+        "account": {
+            "account_number": "9c05c742-0523-4e14-b8be-1a7fba8d7a05",
+            "balance": 16126.58,
+            "transactions": [
+                {
+                    "date": "2022-12-18",
+                    "description": "Deposit",
+                    "amount": 6197.95,
+                    "transaction_id": 63750131
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ann Maddox",
+        "age": 98,
+        "gender": "female",
+        "address": "62405 Aguilar Mountains, New Stevenmouth, GU 99683",
+        "phone": "001-396-911-3967x953",
+        "email": "christine68@example.com",
+        "account": {
+            "account_number": "5477c0ef-6d58-47e4-9ba2-651d4dbf9ebb",
+            "balance": 26113.12,
+            "transactions": [
+                {
+                    "date": "2023-12-25",
+                    "description": "Deposit",
+                    "amount": 20138.97,
+                    "transaction_id": 44665120
+                },
+                {
+                    "date": "2022-09-23",
+                    "description": "Deposit",
+                    "amount": 33803.26,
+                    "transaction_id": 42604617
+                },
+                {
+                    "date": "2022-12-19",
+                    "description": "Deposit",
+                    "amount": 17618.29,
+                    "transaction_id": 83817060
+                }
+            ]
+        }
+    }
+}

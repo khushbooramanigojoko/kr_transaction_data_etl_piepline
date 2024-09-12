@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kenneth Robertson",
+        "age": 43,
+        "gender": "female",
+        "address": "69248 Elizabeth Stream Apt. 296, Amyport, NV 81180",
+        "phone": "842-715-5702x33069",
+        "email": "floresbilly@example.net",
+        "account": {
+            "account_number": "048db549-e215-466a-8377-c12c51b582e7",
+            "balance": -32820.53,
+            "transactions": [
+                {
+                    "date": "2023-01-01",
+                    "description": "Interest",
+                    "amount": 3846.45,
+                    "transaction_id": 101367606
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Interest",
+                    "amount": -2055.03,
+                    "transaction_id": 111965886
+                }
+            ]
+        }
+    }
+}

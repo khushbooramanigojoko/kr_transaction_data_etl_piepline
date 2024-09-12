@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Elizabeth Hicks",
+        "age": 69,
+        "gender": "male",
+        "address": "97918 Joyce Streets, Ralphshire, SC 87463",
+        "phone": "+1-699-914-7639x19692",
+        "email": "ovelez@example.com",
+        "account": {
+            "account_number": "87a1c1fd-a770-463c-bc2f-603772261269",
+            "balance": 1405.65,
+            "transactions": [
+                {
+                    "date": "2023-02-09",
+                    "description": "Interest",
+                    "amount": 26208.87,
+                    "transaction_id": 16431376
+                }
+            ]
+        }
+    }
+}

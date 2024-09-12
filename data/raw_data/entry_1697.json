@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jasmine Strickland",
+        "age": 39,
+        "gender": "female",
+        "address": "270 April Points, Copelandborough, AR 10036",
+        "phone": "793.301.1390x293",
+        "email": "robert08@example.com",
+        "account": {
+            "account_number": "30d6dbee-31db-4e27-bc08-ad3aaf8b39ef",
+            "balance": 11553.4,
+            "transactions": [
+                {
+                    "date": "2023-02-18",
+                    "description": "Deposit",
+                    "amount": 14115.49,
+                    "transaction_id": 99291727
+                },
+                {
+                    "date": "2023-04-30",
+                    "description": "Deposit",
+                    "amount": 26699.48,
+                    "transaction_id": 90512198
+                }
+            ]
+        }
+    }
+}

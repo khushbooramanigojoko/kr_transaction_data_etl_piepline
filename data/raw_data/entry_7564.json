@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Henry Taylor",
+        "age": 64,
+        "gender": "male",
+        "address": "77945 George Crest, Hallmouth, HI 43918",
+        "phone": "+1-522-216-2870",
+        "email": "wilsonwayne@example.com",
+        "account": {
+            "account_number": "fc729a81-531e-4079-aa33-14e639914123",
+            "balance": 45085.16,
+            "transactions": [
+                {
+                    "date": "2024-04-29",
+                    "description": "Deposit",
+                    "amount": 1400.79,
+                    "transaction_id": 61105317
+                },
+                {
+                    "date": "2022-11-01",
+                    "description": "Interest",
+                    "amount": 25221.55,
+                    "transaction_id": 3388671
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Eric Smith",
+        "age": 64,
+        "gender": "female",
+        "address": "87170 Thomas Hollow Apt. 643, South Justin, PA 32786",
+        "phone": "+1-318-643-4936x839",
+        "email": "loristein@example.org",
+        "account": {
+            "account_number": "fd6253b4-11ae-4f5e-a661-68a8bf98c5c0",
+            "balance": 31775.53,
+            "transactions": [
+                {
+                    "date": "2023-01-09",
+                    "description": "Withdrawal",
+                    "amount": 31386.65,
+                    "transaction_id": 110689014
+                },
+                {
+                    "date": "2023-12-13",
+                    "description": "Withdrawal",
+                    "amount": 45701.85,
+                    "transaction_id": 20814340
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Withdrawal",
+                    "amount": 29968.9,
+                    "transaction_id": 38619259
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Deposit",
+                    "amount": 16395.85,
+                    "transaction_id": 58450754
+                }
+            ]
+        }
+    }
+}

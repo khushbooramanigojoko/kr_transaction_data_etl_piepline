@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Hunter Herring",
+        "age": 65,
+        "gender": "male",
+        "address": "561 Hughes Track Apt. 427, South Sandra, WY 12611",
+        "phone": "001-293-330-4899x8664",
+        "email": "rcoffey@example.net",
+        "account": {
+            "account_number": "dafb7ab4-5c9f-4520-97b6-c0fd389699c9",
+            "balance": 40597.47,
+            "transactions": [
+                {
+                    "date": "2024-02-19",
+                    "description": "Deposit",
+                    "amount": 6494.26,
+                    "transaction_id": 39209853
+                },
+                {
+                    "date": "2024-04-15",
+                    "description": "Deposit",
+                    "amount": 19703.87,
+                    "transaction_id": 80006931
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Interest",
+                    "amount": 19164.65,
+                    "transaction_id": 80117735
+                }
+            ]
+        }
+    }
+}

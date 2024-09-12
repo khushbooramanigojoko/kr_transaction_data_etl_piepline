@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Isaiah Buckley",
+        "age": 53,
+        "gender": "male",
+        "address": "7424 Martin Drives, Janetfort, OH 61401",
+        "phone": "001-257-866-5828x785",
+        "email": "ashleyperez@example.net",
+        "account": {
+            "account_number": "d75c6b65-51fd-43a5-ad93-bb791a058d32",
+            "balance": -21510.6,
+            "transactions": [
+                {
+                    "date": "2024-02-13",
+                    "description": "Withdrawal",
+                    "amount": 3320.44,
+                    "transaction_id": 35074422
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Deposit",
+                    "amount": 1523.06,
+                    "transaction_id": 76722119
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Withdrawal",
+                    "amount": -3114.38,
+                    "transaction_id": 42800767
+                },
+                {
+                    "date": "2023-04-29",
+                    "description": "Deposit",
+                    "amount": -3662.43,
+                    "transaction_id": 55882922
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Interest",
+                    "amount": 1860.68,
+                    "transaction_id": 38686031
+                }
+            ]
+        }
+    }
+}

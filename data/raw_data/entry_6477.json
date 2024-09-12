@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Anthony Sanders",
+        "age": 19,
+        "gender": "female",
+        "address": "79146 Karen Locks Suite 245, South Brandon, AS 04818",
+        "phone": "001-309-361-1120x4474",
+        "email": "berryerin@example.com",
+        "account": {
+            "account_number": "74768cf5-1b26-449d-b43b-33d6ad68a9e1",
+            "balance": 45903.46,
+            "transactions": [
+                {
+                    "date": "2024-06-04",
+                    "description": "Withdrawal",
+                    "amount": 12793.86,
+                    "transaction_id": 93836344
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Interest",
+                    "amount": 46981.71,
+                    "transaction_id": 34179812
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Withdrawal",
+                    "amount": 16932.53,
+                    "transaction_id": 114755755
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Interest",
+                    "amount": 29018.26,
+                    "transaction_id": 48127613
+                }
+            ]
+        }
+    }
+}

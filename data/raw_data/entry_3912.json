@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michelle Ortiz",
+        "age": 64,
+        "gender": "male",
+        "address": "01453 Abigail Route, East Lauren, ME 49362",
+        "phone": "001-631-312-1335x2335",
+        "email": "oevans@example.net",
+        "account": {
+            "account_number": "fd380e2a-041d-49e0-805c-cd47eb106e5f",
+            "balance": 13153.55,
+            "transactions": [
+                {
+                    "date": "2023-11-22",
+                    "description": "Interest",
+                    "amount": 31599.59,
+                    "transaction_id": 109567559
+                },
+                {
+                    "date": "2024-06-10",
+                    "description": "Withdrawal",
+                    "amount": 35141.53,
+                    "transaction_id": 75399035
+                },
+                {
+                    "date": "2024-03-09",
+                    "description": "Interest",
+                    "amount": 43130.4,
+                    "transaction_id": 27352619
+                },
+                {
+                    "date": "2022-11-16",
+                    "description": "Deposit",
+                    "amount": 4313.8,
+                    "transaction_id": 75742980
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Deposit",
+                    "amount": 27235.65,
+                    "transaction_id": 78642443
+                }
+            ]
+        }
+    }
+}

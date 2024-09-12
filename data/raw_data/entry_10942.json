@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Andrew Bryan",
+        "age": 33,
+        "gender": "female",
+        "address": "9852 Travis Corner, South Michaelstad, WY 59754",
+        "phone": "001-995-876-9184x66826",
+        "email": "charles55@example.net",
+        "account": {
+            "account_number": "fc6094eb-dca6-4504-8605-a97df9b004d3",
+            "balance": -33247.43,
+            "transactions": [
+                {
+                    "date": "2023-12-31",
+                    "description": "Withdrawal",
+                    "amount": 1759.78,
+                    "transaction_id": 117654163
+                },
+                {
+                    "date": "2023-06-05",
+                    "description": "Deposit",
+                    "amount": 4554.43,
+                    "transaction_id": 55089887
+                },
+                {
+                    "date": "2023-09-04",
+                    "description": "Deposit",
+                    "amount": -4712.02,
+                    "transaction_id": 108065141
+                },
+                {
+                    "date": "2023-10-11",
+                    "description": "Withdrawal",
+                    "amount": -324.51,
+                    "transaction_id": 16076649
+                },
+                {
+                    "date": "2023-06-26",
+                    "description": "Withdrawal",
+                    "amount": 4551.85,
+                    "transaction_id": 11074622
+                }
+            ]
+        }
+    }
+}

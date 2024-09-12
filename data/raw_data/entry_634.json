@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jason Good",
+        "age": 58,
+        "gender": "male",
+        "address": "8106 Olivia Extension, Ericastad, IA 14701",
+        "phone": "6486764243",
+        "email": "hrogers@example.com",
+        "account": {
+            "account_number": "5f0bfe35-f218-420d-8d44-2f3cc7098afc",
+            "balance": 38550.17,
+            "transactions": [
+                {
+                    "date": "2024-08-20",
+                    "description": "Withdrawal",
+                    "amount": 7641.56,
+                    "transaction_id": 5545326
+                },
+                {
+                    "date": "2022-09-30",
+                    "description": "Deposit",
+                    "amount": 6583.06,
+                    "transaction_id": 81517169
+                }
+            ]
+        }
+    }
+}

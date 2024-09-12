@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joshua Bradley",
+        "age": 48,
+        "gender": "female",
+        "address": "542 Marks Path Suite 394, Christopherville, UT 91720",
+        "phone": "(974)541-4935",
+        "email": "pamela65@example.com",
+        "account": {
+            "account_number": "573635fd-6df3-4f59-ab9b-779a3ae895ce",
+            "balance": 16553.18,
+            "transactions": [
+                {
+                    "date": "2022-10-08",
+                    "description": "Deposit",
+                    "amount": 49601.85,
+                    "transaction_id": 97429315
+                },
+                {
+                    "date": "2024-07-29",
+                    "description": "Withdrawal",
+                    "amount": 12000.75,
+                    "transaction_id": 113802658
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Interest",
+                    "amount": 28867.91,
+                    "transaction_id": 42090299
+                }
+            ]
+        }
+    }
+}

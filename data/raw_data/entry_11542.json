@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 67,
+        "gender": "female",
+        "address": "664 Barbara Road Suite 041, Wilsonton, IA 23020",
+        "phone": "(688)547-9671x641",
+        "email": "jessica77@example.org",
+        "account": {
+            "account_number": "0ddf8355-51df-44e6-9984-938b30b9178d",
+            "balance": 24163.04,
+            "transactions": [
+                {
+                    "date": "2024-01-14",
+                    "description": "Deposit",
+                    "amount": -3527.17,
+                    "transaction_id": 87259261
+                }
+            ]
+        }
+    }
+}

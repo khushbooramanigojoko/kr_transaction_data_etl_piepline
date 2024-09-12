@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tracy Johnson",
+        "age": 31,
+        "gender": "female",
+        "address": "14089 Kerr Cliff Apt. 605, Cameronberg, IA 73349",
+        "phone": "(991)238-8497",
+        "email": "emilyrobinson@example.net",
+        "account": {
+            "account_number": "707489e0-aa2a-404c-8085-87faa88af505",
+            "balance": 30411.17,
+            "transactions": [
+                {
+                    "date": "2022-11-15",
+                    "description": "Interest",
+                    "amount": 42356.12,
+                    "transaction_id": 109804274
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Deposit",
+                    "amount": 11121.14,
+                    "transaction_id": 64989443
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Withdrawal",
+                    "amount": 17468.74,
+                    "transaction_id": 3694741
+                },
+                {
+                    "date": "2023-04-19",
+                    "description": "Interest",
+                    "amount": 40706.24,
+                    "transaction_id": 28849762
+                },
+                {
+                    "date": "2023-04-04",
+                    "description": "Deposit",
+                    "amount": 41636.65,
+                    "transaction_id": 94585030
+                }
+            ]
+        }
+    }
+}

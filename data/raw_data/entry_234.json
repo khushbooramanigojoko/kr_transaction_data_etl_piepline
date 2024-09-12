@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Sanders",
+        "age": 27,
+        "gender": "male",
+        "address": "68428 Samuel Crest Apt. 922, North Monicaport, NM 31178",
+        "phone": "615.670.9151x227",
+        "email": "hallerin@example.net",
+        "account": {
+            "account_number": "8de698c6-23c1-4b46-a521-857a76509209",
+            "balance": 7623.9,
+            "transactions": [
+                {
+                    "date": "2022-12-12",
+                    "description": "Deposit",
+                    "amount": 7072.35,
+                    "transaction_id": 68429434
+                },
+                {
+                    "date": "2024-01-31",
+                    "description": "Withdrawal",
+                    "amount": 27236.77,
+                    "transaction_id": 19220817
+                },
+                {
+                    "date": "2024-08-20",
+                    "description": "Interest",
+                    "amount": 20909.35,
+                    "transaction_id": 70765116
+                },
+                {
+                    "date": "2023-08-12",
+                    "description": "Withdrawal",
+                    "amount": 41780.24,
+                    "transaction_id": 67400343
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Chase Thompson",
+        "age": 32,
+        "gender": "female",
+        "address": "6141 Brown Isle Apt. 136, Arianafort, CA 66291",
+        "phone": "001-651-807-6649x46699",
+        "email": "jacevedo@example.net",
+        "account": {
+            "account_number": "9f4260e8-32ab-425f-9fed-e19dca938cee",
+            "balance": 9759.39,
+            "transactions": [
+                {
+                    "date": "2023-10-07",
+                    "description": "Interest",
+                    "amount": 47398.06,
+                    "transaction_id": 26108042
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Deposit",
+                    "amount": 4837.2,
+                    "transaction_id": 72046583
+                },
+                {
+                    "date": "2023-09-20",
+                    "description": "Deposit",
+                    "amount": 46022.33,
+                    "transaction_id": 109008407
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Withdrawal",
+                    "amount": 36522.53,
+                    "transaction_id": 118496273
+                }
+            ]
+        }
+    }
+}

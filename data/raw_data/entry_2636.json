@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph Weber",
+        "age": 22,
+        "gender": "male",
+        "address": "81486 Allison Ferry Apt. 553, Lake Seth, VT 22571",
+        "phone": "(241)936-6954",
+        "email": "claudia30@example.org",
+        "account": {
+            "account_number": "e3247f3b-9bdd-4d75-80dd-fb8a8bf8f580",
+            "balance": 31705.31,
+            "transactions": [
+                {
+                    "date": "2023-04-19",
+                    "description": "Interest",
+                    "amount": 40439.31,
+                    "transaction_id": 23135575
+                },
+                {
+                    "date": "2024-07-09",
+                    "description": "Deposit",
+                    "amount": 32187.78,
+                    "transaction_id": 114627063
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Withdrawal",
+                    "amount": 19436.18,
+                    "transaction_id": 102194011
+                },
+                {
+                    "date": "2023-05-17",
+                    "description": "Interest",
+                    "amount": 10331.24,
+                    "transaction_id": 40626188
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amy Ortiz",
+        "age": 44,
+        "gender": "female",
+        "address": "466 Dawn Skyway, Gabrielland, TX 71232",
+        "phone": "(989)773-5552",
+        "email": "simpsondaniel@example.net",
+        "account": {
+            "account_number": "25833d58-4c26-4d69-84a2-4decd72d56f0",
+            "balance": -12700.65,
+            "transactions": [
+                {
+                    "date": "2022-09-11",
+                    "description": "Deposit",
+                    "amount": -771.17,
+                    "transaction_id": 33413211
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Deposit",
+                    "amount": -2683.58,
+                    "transaction_id": 72194124
+                }
+            ]
+        }
+    }
+}

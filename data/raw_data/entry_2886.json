@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tony Romero",
+        "age": 76,
+        "gender": "male",
+        "address": "0560 Sheena Summit Suite 922, Johnsonfurt, MS 68356",
+        "phone": "(266)963-4120",
+        "email": "alvarezjason@example.org",
+        "account": {
+            "account_number": "06bd296d-4a67-4009-9866-5f8c6ad18366",
+            "balance": 13006.48,
+            "transactions": [
+                {
+                    "date": "2023-01-18",
+                    "description": "Deposit",
+                    "amount": 47414.67,
+                    "transaction_id": 75573880
+                },
+                {
+                    "date": "2023-02-01",
+                    "description": "Withdrawal",
+                    "amount": 40172.57,
+                    "transaction_id": 88751682
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kristin Gill",
+        "age": 37,
+        "gender": "male",
+        "address": "2315 Julia Fords, Singhhaven, WY 91918",
+        "phone": "(751)889-7889x57365",
+        "email": "roberthays@example.org",
+        "account": {
+            "account_number": "e56de03c-78b8-4bf8-a63c-20bf93924850",
+            "balance": 30500.09,
+            "transactions": [
+                {
+                    "date": "2023-08-25",
+                    "description": "Deposit",
+                    "amount": 12374.66,
+                    "transaction_id": 73820358
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Interest",
+                    "amount": 47008.42,
+                    "transaction_id": 44714043
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Interest",
+                    "amount": 13856.31,
+                    "transaction_id": 56126827
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Casey Burch",
+        "age": 64,
+        "gender": "female",
+        "address": "53692 Barbara Viaduct, Leefurt, IN 87957",
+        "phone": "(645)934-3879",
+        "email": "jordannathan@example.org",
+        "account": {
+            "account_number": "122af291-877b-4609-a6b7-2e1ba1dabb5e",
+            "balance": 1017.81,
+            "transactions": [
+                {
+                    "date": "2022-11-13",
+                    "description": "Interest",
+                    "amount": 28545.74,
+                    "transaction_id": 82131708
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Gary Kramer",
+        "age": 52,
+        "gender": "female",
+        "address": "5597 Cristian Walk, Lake James, LA 51319",
+        "phone": "001-886-812-0241x7960",
+        "email": "perezashley@example.org",
+        "account": {
+            "account_number": "fb5d8e35-47fa-46c1-b74f-1d9da5fcdaa4",
+            "balance": 3013.9,
+            "transactions": [
+                {
+                    "date": "2024-07-16",
+                    "description": "Deposit",
+                    "amount": 9837.65,
+                    "transaction_id": 22265189
+                },
+                {
+                    "date": "2024-05-24",
+                    "description": "Interest",
+                    "amount": 25711.65,
+                    "transaction_id": 94829873
+                }
+            ]
+        }
+    }
+}

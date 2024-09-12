@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Marcus Baker",
+        "age": 68,
+        "gender": "male",
+        "address": "992 Baker Mountain, Shortberg, LA 00602",
+        "phone": "+1-608-629-8223x5844",
+        "email": "bryan08@example.net",
+        "account": {
+            "account_number": "37268735-40cf-4f30-9f31-1076f36f6e32",
+            "balance": 27014.96,
+            "transactions": [
+                {
+                    "date": "2023-05-28",
+                    "description": "Interest",
+                    "amount": 5260.02,
+                    "transaction_id": 29560743
+                }
+            ]
+        }
+    }
+}

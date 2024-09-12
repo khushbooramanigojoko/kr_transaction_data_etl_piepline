@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joan Smith",
+        "age": 19,
+        "gender": "male",
+        "address": "6438 Ali Place Apt. 595, Lake Peterside, MS 41403",
+        "phone": "001-543-235-1088x074",
+        "email": "pnicholson@example.org",
+        "account": {
+            "account_number": "8dd3a121-6b7f-4c78-a2b9-0884126d9373",
+            "balance": 1002.95,
+            "transactions": [
+                {
+                    "date": "2024-01-21",
+                    "description": "Withdrawal",
+                    "amount": 34542.88,
+                    "transaction_id": 16053211
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Withdrawal",
+                    "amount": 16312.76,
+                    "transaction_id": 33524219
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Withdrawal",
+                    "amount": 13255.96,
+                    "transaction_id": 101876090
+                },
+                {
+                    "date": "2023-08-21",
+                    "description": "Withdrawal",
+                    "amount": 4295.42,
+                    "transaction_id": 87698540
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Deposit",
+                    "amount": 11543.17,
+                    "transaction_id": 91000379
+                }
+            ]
+        }
+    }
+}

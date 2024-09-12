@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joel Miller",
+        "age": 47,
+        "gender": "male",
+        "address": "50421 Brown Summit Apt. 605, North Roberttown, CT 19351",
+        "phone": "488-303-7467x090",
+        "email": "tsanchez@example.com",
+        "account": {
+            "account_number": "2ba74552-a6fd-4ca5-a769-adc0921a83b5",
+            "balance": 14182.97,
+            "transactions": [
+                {
+                    "date": "2023-06-28",
+                    "description": "Deposit",
+                    "amount": 23840.81,
+                    "transaction_id": 27516866
+                },
+                {
+                    "date": "2023-01-15",
+                    "description": "Interest",
+                    "amount": 41578.07,
+                    "transaction_id": 93147443
+                }
+            ]
+        }
+    }
+}

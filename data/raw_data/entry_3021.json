@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Shawna Russell",
+        "age": 95,
+        "gender": "male",
+        "address": "44195 Sylvia Glens Suite 589, Port Dan, ME 41648",
+        "phone": "253-863-1598x9459",
+        "email": "colediana@example.com",
+        "account": {
+            "account_number": "ea29ee37-e3d5-4db6-a629-9a733bfbec40",
+            "balance": 14326.13,
+            "transactions": [
+                {
+                    "date": "2024-03-05",
+                    "description": "Withdrawal",
+                    "amount": 47854.68,
+                    "transaction_id": 35078461
+                },
+                {
+                    "date": "2024-06-25",
+                    "description": "Interest",
+                    "amount": 18084.85,
+                    "transaction_id": 67515575
+                },
+                {
+                    "date": "2023-06-07",
+                    "description": "Deposit",
+                    "amount": 31045.2,
+                    "transaction_id": 108860408
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Interest",
+                    "amount": 4445.77,
+                    "transaction_id": 117550523
+                },
+                {
+                    "date": "2023-02-18",
+                    "description": "Interest",
+                    "amount": 21686.0,
+                    "transaction_id": 115950764
+                }
+            ]
+        }
+    }
+}

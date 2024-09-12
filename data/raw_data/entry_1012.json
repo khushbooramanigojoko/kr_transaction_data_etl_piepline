@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jennifer Christensen",
+        "age": 19,
+        "gender": "female",
+        "address": "2206 Spencer Stream, New Tonya, CA 38264",
+        "phone": "+1-780-636-4437x995",
+        "email": "vhunt@example.net",
+        "account": {
+            "account_number": "7a6369cd-42c3-4963-b771-9ab06bc4db8f",
+            "balance": 12515.74,
+            "transactions": [
+                {
+                    "date": "2023-01-04",
+                    "description": "Interest",
+                    "amount": 19484.11,
+                    "transaction_id": 39166236
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Deposit",
+                    "amount": 31935.62,
+                    "transaction_id": 80603167
+                }
+            ]
+        }
+    }
+}

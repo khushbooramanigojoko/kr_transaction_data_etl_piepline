@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Rush",
+        "age": 86,
+        "gender": "female",
+        "address": "6584 Perry Lane, Port Joann, MP 46662",
+        "phone": "001-647-844-0184x7885",
+        "email": "david31@example.com",
+        "account": {
+            "account_number": "51f5997d-e849-4968-9ffc-15fcf6efc5f1",
+            "balance": 19464.21,
+            "transactions": [
+                {
+                    "date": "2024-01-14",
+                    "description": "Deposit",
+                    "amount": 40981.67,
+                    "transaction_id": 71298441
+                },
+                {
+                    "date": "2024-01-08",
+                    "description": "Deposit",
+                    "amount": 598.2,
+                    "transaction_id": 109832248
+                },
+                {
+                    "date": "2024-07-07",
+                    "description": "Interest",
+                    "amount": 36256.33,
+                    "transaction_id": 65967615
+                },
+                {
+                    "date": "2023-11-27",
+                    "description": "Withdrawal",
+                    "amount": 39540.34,
+                    "transaction_id": 6507877
+                },
+                {
+                    "date": "2023-05-15",
+                    "description": "Deposit",
+                    "amount": 41026.29,
+                    "transaction_id": 61359262
+                }
+            ]
+        }
+    }
+}

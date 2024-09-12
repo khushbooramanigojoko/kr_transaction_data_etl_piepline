@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Margaret White",
+        "age": 23,
+        "gender": "female",
+        "address": "PSC 2220, Box 0238, APO AE 08663",
+        "phone": "929-670-7793",
+        "email": "saustin@example.net",
+        "account": {
+            "account_number": "9b989e52-6957-4845-bed7-554db11e9bf7",
+            "balance": 40530.78,
+            "transactions": [
+                {
+                    "date": "2023-10-02",
+                    "description": "Interest",
+                    "amount": 10879.26,
+                    "transaction_id": 106516251
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Deposit",
+                    "amount": 22632.19,
+                    "transaction_id": 84092210
+                }
+            ]
+        }
+    }
+}

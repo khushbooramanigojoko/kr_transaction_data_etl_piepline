@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Travis Baker",
+        "age": 44,
+        "gender": "female",
+        "address": "USCGC Woods, FPO AA 17127",
+        "phone": "756-381-1216x7644",
+        "email": "nblankenship@example.com",
+        "account": {
+            "account_number": "9c0c7139-9036-4f32-91d9-15675024bcbd",
+            "balance": 40822.53,
+            "transactions": [
+                {
+                    "date": "2022-11-04",
+                    "description": "Interest",
+                    "amount": 7702.1,
+                    "transaction_id": 47865818
+                },
+                {
+                    "date": "2022-09-14",
+                    "description": "Deposit",
+                    "amount": 42356.99,
+                    "transaction_id": 104923953
+                }
+            ]
+        }
+    }
+}

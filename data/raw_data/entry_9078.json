@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 98,
+        "gender": "female",
+        "address": "84205 Kelly Mountains, Allenfort, UT 13606",
+        "phone": "+1-282-589-0340",
+        "email": "alee@example.net",
+        "account": {
+            "account_number": "d2950a48-e9bf-433f-8123-c395f245d006",
+            "balance": 31310.57,
+            "transactions": [
+                {
+                    "date": "2022-09-20",
+                    "description": "Interest",
+                    "amount": 1779.86,
+                    "transaction_id": 114747535
+                }
+            ]
+        }
+    }
+}

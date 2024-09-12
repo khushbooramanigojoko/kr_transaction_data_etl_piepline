@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Johnathan Weber",
+        "age": 44,
+        "gender": "male",
+        "address": "USNS Walker, FPO AA 46291",
+        "phone": "(640)972-4672x5349",
+        "email": "malonedavid@example.org",
+        "account": {
+            "account_number": "51dbf248-935d-465a-ad53-a06084f7fa04",
+            "balance": 10572.23,
+            "transactions": [
+                {
+                    "date": "2023-01-14",
+                    "description": "Deposit",
+                    "amount": 48879.93,
+                    "transaction_id": 34949015
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Withdrawal",
+                    "amount": 39946.3,
+                    "transaction_id": 59954916
+                }
+            ]
+        }
+    }
+}

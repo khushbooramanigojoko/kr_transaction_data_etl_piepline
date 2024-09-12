@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kristin Adams",
+        "age": 88,
+        "gender": "female",
+        "address": "34734 Linda Village, North Jenniferfurt, OR 66092",
+        "phone": "523.768.9753x8133",
+        "email": "lori08@example.org",
+        "account": {
+            "account_number": "2f8d34ae-ca69-4462-acf3-f1abe03ec5ae",
+            "balance": -48276.71,
+            "transactions": [
+                {
+                    "date": "2023-06-29",
+                    "description": "Interest",
+                    "amount": -4952.57,
+                    "transaction_id": 92522152
+                },
+                {
+                    "date": "2024-01-08",
+                    "description": "Withdrawal",
+                    "amount": 1733.14,
+                    "transaction_id": 103699014
+                },
+                {
+                    "date": "2023-07-15",
+                    "description": "Deposit",
+                    "amount": -4081.57,
+                    "transaction_id": 43315321
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Interest",
+                    "amount": -3617.03,
+                    "transaction_id": 101749996
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Deposit",
+                    "amount": -3369.41,
+                    "transaction_id": 104950863
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Carlos Anderson",
+        "age": 96,
+        "gender": "male",
+        "address": "3502 Rebecca River Suite 184, Reneeview, AS 41633",
+        "phone": "(994)698-2773x01164",
+        "email": "kbrown@example.com",
+        "account": {
+            "account_number": "6d288ac0-aff2-40aa-87b8-3f0bfd7a37d5",
+            "balance": -14015.31,
+            "transactions": [
+                {
+                    "date": "2024-04-23",
+                    "description": "Interest",
+                    "amount": -201.87,
+                    "transaction_id": 82071858
+                },
+                {
+                    "date": "2023-08-24",
+                    "description": "Deposit",
+                    "amount": -3101.98,
+                    "transaction_id": 93047314
+                }
+            ]
+        }
+    }
+}

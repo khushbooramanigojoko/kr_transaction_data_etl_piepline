@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "George Reed",
+        "age": 86,
+        "gender": "female",
+        "address": "6922 Holly Harbor Apt. 045, New Aprilhaven, MO 27845",
+        "phone": "001-860-775-4047",
+        "email": "thompsonjessica@example.org",
+        "account": {
+            "account_number": "b8e32228-23af-43df-a679-d69772979497",
+            "balance": -2543.52,
+            "transactions": [
+                {
+                    "date": "2024-08-06",
+                    "description": "Withdrawal",
+                    "amount": -2317.44,
+                    "transaction_id": 109880339
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Withdrawal",
+                    "amount": 2977.86,
+                    "transaction_id": 26151525
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Deposit",
+                    "amount": 3891.67,
+                    "transaction_id": 60909280
+                }
+            ]
+        }
+    }
+}

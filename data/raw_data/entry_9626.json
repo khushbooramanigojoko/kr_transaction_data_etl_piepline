@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jason Baker",
+        "age": 76,
+        "gender": "female",
+        "address": "8603 Daniel Extensions Apt. 671, East Jordanberg, MS 80894",
+        "phone": "225-306-0684x15806",
+        "email": "jonesjames@example.net",
+        "account": {
+            "account_number": "819d6653-463f-4043-b6a9-9a5d8722b9cf",
+            "balance": -14162.96,
+            "transactions": [
+                {
+                    "date": "2024-03-30",
+                    "description": "Deposit",
+                    "amount": -1332.17,
+                    "transaction_id": 76025715
+                }
+            ]
+        }
+    }
+}

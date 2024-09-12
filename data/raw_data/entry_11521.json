@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 63,
+        "gender": "female",
+        "address": "460 Foster Stream, Roberthaven, GA 21747",
+        "phone": "001-229-360-2050x3108",
+        "email": "pjoseph@example.org",
+        "account": {
+            "account_number": "2290fa07-1f24-4bdb-9b46-180425cabf43",
+            "balance": 4272.48,
+            "transactions": [
+                {
+                    "date": "2023-04-28",
+                    "description": "Interest",
+                    "amount": 1129.56,
+                    "transaction_id": 110194137
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Deposit",
+                    "amount": -1395.1,
+                    "transaction_id": 104596363
+                },
+                {
+                    "date": "2022-10-18",
+                    "description": "Interest",
+                    "amount": -1392.5,
+                    "transaction_id": 3511695
+                },
+                {
+                    "date": "2024-08-23",
+                    "description": "Deposit",
+                    "amount": 4037.93,
+                    "transaction_id": 68744245
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Deposit",
+                    "amount": -3865.62,
+                    "transaction_id": 37816292
+                }
+            ]
+        }
+    }
+}

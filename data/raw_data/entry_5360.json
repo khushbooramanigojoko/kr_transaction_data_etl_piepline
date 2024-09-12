@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "James Ruiz",
+        "age": 99,
+        "gender": "female",
+        "address": "125 Mccoy Summit Apt. 846, Englishhaven, GU 44154",
+        "phone": "5028423801",
+        "email": "kristin15@example.net",
+        "account": {
+            "account_number": "0755a4e8-5672-4034-b16b-9557235d6754",
+            "balance": 21447.7,
+            "transactions": [
+                {
+                    "date": "2024-02-26",
+                    "description": "Withdrawal",
+                    "amount": 29657.75,
+                    "transaction_id": 80337108
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Withdrawal",
+                    "amount": 48132.64,
+                    "transaction_id": 84268594
+                }
+            ]
+        }
+    }
+}

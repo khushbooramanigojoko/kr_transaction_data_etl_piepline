@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Walters",
+        "age": 78,
+        "gender": "female",
+        "address": "975 Boyd Roads, Saraview, MD 61423",
+        "phone": "458.359.6415x210",
+        "email": "johnsonlawrence@example.net",
+        "account": {
+            "account_number": "47bb8cca-c683-47fa-89da-90cde866812c",
+            "balance": 40157.75,
+            "transactions": [
+                {
+                    "date": "2023-03-22",
+                    "description": "Withdrawal",
+                    "amount": 19561.91,
+                    "transaction_id": 19034640
+                },
+                {
+                    "date": "2023-04-22",
+                    "description": "Interest",
+                    "amount": 13765.61,
+                    "transaction_id": 90144469
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Interest",
+                    "amount": 4970.13,
+                    "transaction_id": 15146419
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Interest",
+                    "amount": 22010.87,
+                    "transaction_id": 72987686
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Interest",
+                    "amount": 26594.05,
+                    "transaction_id": 73979867
+                }
+            ]
+        }
+    }
+}

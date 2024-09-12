@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mr. Dylan Rojas",
+        "age": 28,
+        "gender": "female",
+        "address": "5382 Elizabeth Views Suite 981, Andersonville, TN 27992",
+        "phone": "(501)516-9224",
+        "email": "catherinerichardson@example.net",
+        "account": {
+            "account_number": "6275bbe9-a81d-4026-adc2-efbbce3eddf2",
+            "balance": 6244.42,
+            "transactions": [
+                {
+                    "date": "2023-02-09",
+                    "description": "Interest",
+                    "amount": 28676.34,
+                    "transaction_id": 37068193
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Withdrawal",
+                    "amount": 19495.99,
+                    "transaction_id": 43463175
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Interest",
+                    "amount": 228.77,
+                    "transaction_id": 57912051
+                },
+                {
+                    "date": "2024-08-24",
+                    "description": "Withdrawal",
+                    "amount": 12069.59,
+                    "transaction_id": 6825278
+                }
+            ]
+        }
+    }
+}

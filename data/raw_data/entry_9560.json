@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 32,
+        "gender": "male",
+        "address": "10295 Misty Roads Apt. 911, East Robertchester, GU 53322",
+        "phone": "(654)800-3886",
+        "email": "rachel92@example.org",
+        "account": {
+            "account_number": "08c5115a-ed1a-4dfb-a8f6-68f61d926d49",
+            "balance": 22404.29,
+            "transactions": [
+                {
+                    "date": "2023-06-28",
+                    "description": "Interest",
+                    "amount": -390.52,
+                    "transaction_id": 65190507
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Withdrawal",
+                    "amount": -4365.81,
+                    "transaction_id": 108978420
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Interest",
+                    "amount": 2797.47,
+                    "transaction_id": 118801376
+                },
+                {
+                    "date": "2024-01-10",
+                    "description": "Withdrawal",
+                    "amount": -3.99,
+                    "transaction_id": 74910208
+                },
+                {
+                    "date": "2023-03-06",
+                    "description": "Deposit",
+                    "amount": -3124.66,
+                    "transaction_id": 2284507
+                }
+            ]
+        }
+    }
+}

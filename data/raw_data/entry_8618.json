@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ashley Robinson",
+        "age": 94,
+        "gender": "female",
+        "address": "PSC 7006, Box 9273, APO AP 55050",
+        "phone": "965.209.0097x818",
+        "email": "cthomas@example.org",
+        "account": {
+            "account_number": "3cf68b79-6538-4d9f-83d0-ef0a55bc19b1",
+            "balance": 16185.76,
+            "transactions": [
+                {
+                    "date": "2023-01-06",
+                    "description": "Deposit",
+                    "amount": 40414.05,
+                    "transaction_id": 73081140
+                },
+                {
+                    "date": "2022-11-27",
+                    "description": "Withdrawal",
+                    "amount": 33935.71,
+                    "transaction_id": 84859649
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Withdrawal",
+                    "amount": 20108.11,
+                    "transaction_id": 85118284
+                },
+                {
+                    "date": "2024-05-13",
+                    "description": "Withdrawal",
+                    "amount": 558.19,
+                    "transaction_id": 32501255
+                },
+                {
+                    "date": "2022-10-27",
+                    "description": "Deposit",
+                    "amount": 9348.4,
+                    "transaction_id": 91830085
+                }
+            ]
+        }
+    }
+}

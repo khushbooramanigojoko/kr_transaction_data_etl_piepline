@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dennis Johnson",
+        "age": 86,
+        "gender": "male",
+        "address": "Unit 4129 Box 3307, DPO AA 51818",
+        "phone": "688-838-7679",
+        "email": "reyesdavid@example.org",
+        "account": {
+            "account_number": "00ace0e0-dee0-4d23-abc1-56b5f4a8615b",
+            "balance": 24955.08,
+            "transactions": [
+                {
+                    "date": "2023-03-14",
+                    "description": "Withdrawal",
+                    "amount": 49907.98,
+                    "transaction_id": 24917963
+                },
+                {
+                    "date": "2023-05-23",
+                    "description": "Deposit",
+                    "amount": 42853.75,
+                    "transaction_id": 73979645
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Deposit",
+                    "amount": 19385.49,
+                    "transaction_id": 37226074
+                },
+                {
+                    "date": "2023-06-29",
+                    "description": "Withdrawal",
+                    "amount": 1933.29,
+                    "transaction_id": 35635316
+                }
+            ]
+        }
+    }
+}

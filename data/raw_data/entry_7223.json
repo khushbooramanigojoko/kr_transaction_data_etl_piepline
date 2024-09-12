@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brandon Macdonald",
+        "age": 47,
+        "gender": "male",
+        "address": "8312 Gail Mission, Meghanbury, MI 87362",
+        "phone": "(660)806-4257x90446",
+        "email": "longshannon@example.net",
+        "account": {
+            "account_number": "d57903c2-3734-490d-8253-6f726059778f",
+            "balance": 31441.82,
+            "transactions": [
+                {
+                    "date": "2024-07-02",
+                    "description": "Withdrawal",
+                    "amount": 13448.52,
+                    "transaction_id": 116548326
+                },
+                {
+                    "date": "2024-06-10",
+                    "description": "Interest",
+                    "amount": 41369.12,
+                    "transaction_id": 80028809
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Interest",
+                    "amount": 4197.36,
+                    "transaction_id": 20032341
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Deposit",
+                    "amount": 40242.76,
+                    "transaction_id": 74898206
+                },
+                {
+                    "date": "2023-04-09",
+                    "description": "Interest",
+                    "amount": 10454.88,
+                    "transaction_id": 117161642
+                }
+            ]
+        }
+    }
+}

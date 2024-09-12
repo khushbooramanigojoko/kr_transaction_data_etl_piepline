@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Daniel Brown",
+        "age": 40,
+        "gender": "male",
+        "address": "44148 Lewis Fork, Rodriguezburgh, NY 75000",
+        "phone": "961.650.5265x16362",
+        "email": "dawn39@example.net",
+        "account": {
+            "account_number": "8de7fba2-b6ae-4724-a807-921a4d3129b9",
+            "balance": 12503.7,
+            "transactions": [
+                {
+                    "date": "2023-10-10",
+                    "description": "Deposit",
+                    "amount": 43636.26,
+                    "transaction_id": 79331704
+                }
+            ]
+        }
+    }
+}

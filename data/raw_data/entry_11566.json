@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dr. Alicia Wright DDS",
+        "age": 35,
+        "gender": "female",
+        "address": "0897 Alicia Mountain, Port Michelle, AZ 25988",
+        "phone": "001-874-356-6329x706",
+        "email": "gbaker@example.org",
+        "account": {
+            "account_number": "9f5134fb-b4e2-4e6c-aa79-a2137f49d14b",
+            "balance": -19854.9,
+            "transactions": [
+                {
+                    "date": "2023-12-27",
+                    "description": "Withdrawal",
+                    "amount": 849.47,
+                    "transaction_id": 6798168
+                }
+            ]
+        }
+    }
+}

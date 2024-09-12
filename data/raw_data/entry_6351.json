@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Chelsea Black",
+        "age": 99,
+        "gender": "male",
+        "address": "307 Michael Grove, North Sierra, MT 47175",
+        "phone": "(978)812-4980x934",
+        "email": "ortizryan@example.net",
+        "account": {
+            "account_number": "a75a2a49-9f71-49dc-b9d2-b3e5fa4a099b",
+            "balance": 29663.88,
+            "transactions": [
+                {
+                    "date": "2023-09-26",
+                    "description": "Withdrawal",
+                    "amount": 26041.28,
+                    "transaction_id": 100428410
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Withdrawal",
+                    "amount": 11776.52,
+                    "transaction_id": 19856960
+                },
+                {
+                    "date": "2024-05-30",
+                    "description": "Withdrawal",
+                    "amount": 27177.0,
+                    "transaction_id": 64056063
+                },
+                {
+                    "date": "2023-11-16",
+                    "description": "Withdrawal",
+                    "amount": 12976.06,
+                    "transaction_id": 65348056
+                }
+            ]
+        }
+    }
+}

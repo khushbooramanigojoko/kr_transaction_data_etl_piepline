@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Elizabeth Rodriguez",
+        "age": 65,
+        "gender": "female",
+        "address": "0873 Alison Harbor Apt. 341, West Jordan, FL 93487",
+        "phone": "001-466-233-7283",
+        "email": "prestoncole@example.org",
+        "account": {
+            "account_number": "9a79f21f-6b8d-4b6a-988b-2702c1f107e1",
+            "balance": 6355.27,
+            "transactions": [
+                {
+                    "date": "2023-03-16",
+                    "description": "Interest",
+                    "amount": 27973.64,
+                    "transaction_id": 48403923
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Interest",
+                    "amount": 10473.99,
+                    "transaction_id": 39706055
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Withdrawal",
+                    "amount": 43049.69,
+                    "transaction_id": 87138152
+                },
+                {
+                    "date": "2023-09-24",
+                    "description": "Interest",
+                    "amount": 38785.84,
+                    "transaction_id": 91542130
+                },
+                {
+                    "date": "2024-01-16",
+                    "description": "Withdrawal",
+                    "amount": 15574.69,
+                    "transaction_id": 91243522
+                }
+            ]
+        }
+    }
+}

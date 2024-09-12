@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 49,
+        "gender": "male",
+        "address": "0122 Raymond Stream Suite 774, Pamelaland, GU 49279",
+        "phone": "435.905.6646x96700",
+        "email": "brandon88@example.com",
+        "account": {
+            "account_number": "21393ef6-4c2b-4d54-adcc-ed378843922e",
+            "balance": 43155.29,
+            "transactions": [
+                {
+                    "date": "2023-09-17",
+                    "description": "Deposit",
+                    "amount": -111.4,
+                    "transaction_id": 106019413
+                }
+            ]
+        }
+    }
+}

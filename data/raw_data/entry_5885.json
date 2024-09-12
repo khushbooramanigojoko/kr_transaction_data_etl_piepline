@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jamie Glass",
+        "age": 18,
+        "gender": "male",
+        "address": "0942 Anderson Estate, New Timothyport, ND 71563",
+        "phone": "(993)435-6920",
+        "email": "jmartinez@example.net",
+        "account": {
+            "account_number": "63497e20-1976-481c-bab0-20fae913f49c",
+            "balance": 27017.15,
+            "transactions": [
+                {
+                    "date": "2023-08-13",
+                    "description": "Deposit",
+                    "amount": 31859.91,
+                    "transaction_id": 46706773
+                },
+                {
+                    "date": "2023-12-23",
+                    "description": "Withdrawal",
+                    "amount": 30099.61,
+                    "transaction_id": 56777857
+                }
+            ]
+        }
+    }
+}

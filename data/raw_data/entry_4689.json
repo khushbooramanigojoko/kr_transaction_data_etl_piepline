@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dawn Winters",
+        "age": 67,
+        "gender": "female",
+        "address": "65789 Billy Drives, Louisshire, NV 81460",
+        "phone": "816.533.8489x39393",
+        "email": "nathaniel38@example.net",
+        "account": {
+            "account_number": "4d7a2a48-9c55-4d83-9931-d3139227c6fe",
+            "balance": 20949.14,
+            "transactions": [
+                {
+                    "date": "2024-04-08",
+                    "description": "Deposit",
+                    "amount": 9498.23,
+                    "transaction_id": 47070651
+                },
+                {
+                    "date": "2022-11-24",
+                    "description": "Deposit",
+                    "amount": 33322.47,
+                    "transaction_id": 71081635
+                },
+                {
+                    "date": "2024-06-08",
+                    "description": "Withdrawal",
+                    "amount": 47058.83,
+                    "transaction_id": 92409969
+                },
+                {
+                    "date": "2024-04-01",
+                    "description": "Interest",
+                    "amount": 41379.09,
+                    "transaction_id": 115875075
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Withdrawal",
+                    "amount": 7996.7,
+                    "transaction_id": 21428517
+                }
+            ]
+        }
+    }
+}

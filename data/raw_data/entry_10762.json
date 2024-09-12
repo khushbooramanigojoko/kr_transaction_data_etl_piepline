@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 82,
+        "gender": "female",
+        "address": "985 Kyle Union, Hansenbury, NV 04425",
+        "phone": "467.290.2320x489",
+        "email": "byrdsteven@example.net",
+        "account": {
+            "account_number": "ab5ed644-5ee0-41bd-8a83-0ea94d78de5d",
+            "balance": 47849.79,
+            "transactions": [
+                {
+                    "date": "2024-04-12",
+                    "description": "Deposit",
+                    "amount": 3816.51,
+                    "transaction_id": 77894904
+                },
+                {
+                    "date": "2024-06-07",
+                    "description": "Interest",
+                    "amount": 2116.53,
+                    "transaction_id": 109277269
+                },
+                {
+                    "date": "2022-11-17",
+                    "description": "Deposit",
+                    "amount": 1433.6,
+                    "transaction_id": 62298597
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Withdrawal",
+                    "amount": -3755.75,
+                    "transaction_id": 18857517
+                }
+            ]
+        }
+    }
+}

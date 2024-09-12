@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jared Franco",
+        "age": 44,
+        "gender": "female",
+        "address": "465 Donna Rue, Daltonland, NJ 68465",
+        "phone": "+1-418-455-0500x161",
+        "email": "kevinramirez@example.org",
+        "account": {
+            "account_number": "a37ab8ce-c69f-4f75-9039-c7453c26b008",
+            "balance": 38759.13,
+            "transactions": [
+                {
+                    "date": "2023-09-26",
+                    "description": "Interest",
+                    "amount": 45334.0,
+                    "transaction_id": 21840556
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Deposit",
+                    "amount": 19435.63,
+                    "transaction_id": 19845770
+                },
+                {
+                    "date": "2024-08-10",
+                    "description": "Withdrawal",
+                    "amount": 22971.51,
+                    "transaction_id": 10526088
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Deposit",
+                    "amount": 19387.42,
+                    "transaction_id": 37331217
+                },
+                {
+                    "date": "2022-12-03",
+                    "description": "Interest",
+                    "amount": 22238.22,
+                    "transaction_id": 56433448
+                }
+            ]
+        }
+    }
+}

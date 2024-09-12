@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michael Chambers",
+        "age": 84,
+        "gender": "female",
+        "address": "273 Eaton Lights Apt. 715, Ashleyton, CA 83528",
+        "phone": "358.813.6173x32858",
+        "email": "jenniferwilliams@example.org",
+        "account": {
+            "account_number": "84e2106b-58d0-4126-90fc-7274c3612d04",
+            "balance": 49337.11,
+            "transactions": [
+                {
+                    "date": "2023-03-09",
+                    "description": "Interest",
+                    "amount": 39907.46,
+                    "transaction_id": 102264780
+                }
+            ]
+        }
+    }
+}

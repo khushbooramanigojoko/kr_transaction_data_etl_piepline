@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jeffery Richardson",
+        "age": 39,
+        "gender": "male",
+        "address": "22005 Humphrey Trace, New Joelmouth, ND 96700",
+        "phone": "7909270301",
+        "email": "krausecourtney@example.net",
+        "account": {
+            "account_number": "2c72bbc9-5ec2-4985-98d2-8fe50d48f9aa",
+            "balance": 41118.98,
+            "transactions": [
+                {
+                    "date": "2023-10-11",
+                    "description": "Interest",
+                    "amount": 32229.34,
+                    "transaction_id": 4668145
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Deposit",
+                    "amount": 8958.12,
+                    "transaction_id": 89803892
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Withdrawal",
+                    "amount": 47385.22,
+                    "transaction_id": 12907995
+                }
+            ]
+        }
+    }
+}

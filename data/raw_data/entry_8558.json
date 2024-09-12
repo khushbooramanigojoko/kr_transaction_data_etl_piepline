@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Bryan Kane",
+        "age": 86,
+        "gender": "female",
+        "address": "231 Steven Mills Suite 826, East Ruthshire, WA 88156",
+        "phone": "5125662846",
+        "email": "nbrewer@example.com",
+        "account": {
+            "account_number": "2f948281-8576-4bb1-a40f-002b40c9f5c0",
+            "balance": 1951.82,
+            "transactions": [
+                {
+                    "date": "2023-03-02",
+                    "description": "Deposit",
+                    "amount": 20954.33,
+                    "transaction_id": 76677906
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Withdrawal",
+                    "amount": 19625.04,
+                    "transaction_id": 103766664
+                }
+            ]
+        }
+    }
+}

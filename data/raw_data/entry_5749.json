@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kelly Reese",
+        "age": 56,
+        "gender": "male",
+        "address": "890 Diamond Meadows, Marissaville, OH 56972",
+        "phone": "(246)922-2498x260",
+        "email": "spencer80@example.net",
+        "account": {
+            "account_number": "8904555a-714c-4c1c-81ad-0100f920528c",
+            "balance": 37915.37,
+            "transactions": [
+                {
+                    "date": "2022-12-22",
+                    "description": "Interest",
+                    "amount": 48748.01,
+                    "transaction_id": 48035600
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Interest",
+                    "amount": 12061.64,
+                    "transaction_id": 18361140
+                },
+                {
+                    "date": "2023-10-16",
+                    "description": "Withdrawal",
+                    "amount": 24753.61,
+                    "transaction_id": 58591966
+                },
+                {
+                    "date": "2024-02-02",
+                    "description": "Deposit",
+                    "amount": 42913.53,
+                    "transaction_id": 113358240
+                }
+            ]
+        }
+    }
+}

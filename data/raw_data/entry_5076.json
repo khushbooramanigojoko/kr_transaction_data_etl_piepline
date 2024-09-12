@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Shannon Rice",
+        "age": 40,
+        "gender": "male",
+        "address": "021 Thomas Mountains Apt. 121, New Valerie, MI 76971",
+        "phone": "+1-952-260-3726",
+        "email": "dustinrussell@example.net",
+        "account": {
+            "account_number": "9586e1d2-0d45-4171-8a65-0b267a1b58c2",
+            "balance": 39123.33,
+            "transactions": [
+                {
+                    "date": "2023-04-14",
+                    "description": "Withdrawal",
+                    "amount": 290.74,
+                    "transaction_id": 5715794
+                }
+            ]
+        }
+    }
+}

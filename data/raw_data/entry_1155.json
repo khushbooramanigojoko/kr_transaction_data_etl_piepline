@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Timothy Hall",
+        "age": 66,
+        "gender": "male",
+        "address": "532 Kimberly Shoals, New Lauraview, NJ 37273",
+        "phone": "2635378312",
+        "email": "wgallagher@example.com",
+        "account": {
+            "account_number": "cb37b6b5-ccfc-49fc-9ebd-291b208e7042",
+            "balance": 37012.84,
+            "transactions": [
+                {
+                    "date": "2023-11-03",
+                    "description": "Deposit",
+                    "amount": 30825.42,
+                    "transaction_id": 74040777
+                }
+            ]
+        }
+    }
+}

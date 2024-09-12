@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brittany Young",
+        "age": 67,
+        "gender": "male",
+        "address": "701 Olivia Underpass, East Adrienneview, OR 60840",
+        "phone": "(850)280-4235x96458",
+        "email": "jeremiah74@example.net",
+        "account": {
+            "account_number": "436a4c3c-98f5-4a32-b3fe-41d556d0b9f5",
+            "balance": 23080.99,
+            "transactions": [
+                {
+                    "date": "2024-05-06",
+                    "description": "Deposit",
+                    "amount": 32620.99,
+                    "transaction_id": 77229731
+                },
+                {
+                    "date": "2024-07-23",
+                    "description": "Interest",
+                    "amount": 39286.41,
+                    "transaction_id": 110419238
+                }
+            ]
+        }
+    }
+}

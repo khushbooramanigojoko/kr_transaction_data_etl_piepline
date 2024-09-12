@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Erica Olson",
+        "age": 56,
+        "gender": "male",
+        "address": "983 Lee Drives Suite 579, East John, AS 24310",
+        "phone": "503.877.7645x30337",
+        "email": "jameswebster@example.org",
+        "account": {
+            "account_number": "4bcfd8f1-baf2-4fb3-b359-fdea6a5a0363",
+            "balance": 5453.93,
+            "transactions": [
+                {
+                    "date": "2024-04-08",
+                    "description": "Withdrawal",
+                    "amount": 44445.66,
+                    "transaction_id": 26384021
+                },
+                {
+                    "date": "2024-03-20",
+                    "description": "Interest",
+                    "amount": 14869.49,
+                    "transaction_id": 112577636
+                }
+            ]
+        }
+    }
+}

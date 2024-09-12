@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 25,
+        "gender": "female",
+        "address": "PSC 0473, Box 9545, APO AA 80719",
+        "phone": "2732141437",
+        "email": "joseph24@example.org",
+        "account": {
+            "account_number": "a00f694f-bf3d-404d-ae1b-4e4af68ea2fb",
+            "balance": 39432.95,
+            "transactions": [
+                {
+                    "date": "2023-05-14",
+                    "description": "Deposit",
+                    "amount": 677.01,
+                    "transaction_id": 36652869
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Deposit",
+                    "amount": 38.11,
+                    "transaction_id": 114649012
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Interest",
+                    "amount": 458.6,
+                    "transaction_id": 18365868
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Withdrawal",
+                    "amount": -374.78,
+                    "transaction_id": 64416465
+                }
+            ]
+        }
+    }
+}

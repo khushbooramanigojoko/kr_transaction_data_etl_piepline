@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Donald Stone",
+        "age": 54,
+        "gender": "female",
+        "address": "5737 Melissa Center, Larryland, ME 87704",
+        "phone": "272-212-0502",
+        "email": "jperez@example.org",
+        "account": {
+            "account_number": "bba1c2d1-b187-421e-bafe-830133a645b8",
+            "balance": 29853.7,
+            "transactions": [
+                {
+                    "date": "2023-02-16",
+                    "description": "Deposit",
+                    "amount": 12788.02,
+                    "transaction_id": 95667597
+                }
+            ]
+        }
+    }
+}

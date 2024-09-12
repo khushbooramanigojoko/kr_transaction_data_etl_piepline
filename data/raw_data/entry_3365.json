@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Burnett",
+        "age": 57,
+        "gender": "female",
+        "address": "8058 Gregory Ridges, Burnettshire, WA 64362",
+        "phone": "285.817.5521",
+        "email": "nicolas96@example.org",
+        "account": {
+            "account_number": "94a3bb98-d306-4e85-aedc-24712f350a34",
+            "balance": 19423.93,
+            "transactions": [
+                {
+                    "date": "2023-07-24",
+                    "description": "Interest",
+                    "amount": 37223.92,
+                    "transaction_id": 102653316
+                },
+                {
+                    "date": "2023-03-06",
+                    "description": "Interest",
+                    "amount": 3194.08,
+                    "transaction_id": 45477819
+                },
+                {
+                    "date": "2023-10-05",
+                    "description": "Deposit",
+                    "amount": 38496.06,
+                    "transaction_id": 3863964
+                }
+            ]
+        }
+    }
+}

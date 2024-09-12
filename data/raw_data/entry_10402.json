@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Roberta Rivers",
+        "age": 31,
+        "gender": "male",
+        "address": "030 Mitchell Way, Carolland, NC 99457",
+        "phone": "+1-304-489-3583",
+        "email": "troypatton@example.com",
+        "account": {
+            "account_number": "f544dbda-b061-4981-8738-0166ca38f64a",
+            "balance": -49771.07,
+            "transactions": [
+                {
+                    "date": "2024-03-01",
+                    "description": "Withdrawal",
+                    "amount": -4892.28,
+                    "transaction_id": 47953092
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Interest",
+                    "amount": 3996.8,
+                    "transaction_id": 73227389
+                }
+            ]
+        }
+    }
+}

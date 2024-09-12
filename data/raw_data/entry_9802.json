@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Gina Randolph",
+        "age": 30,
+        "gender": "male",
+        "address": "6954 Boyd Walks Apt. 039, South Amberland, KY 38623",
+        "phone": "892.520.6965",
+        "email": "kandersen@example.net",
+        "account": {
+            "account_number": "a76dd8a7-eb06-4462-83dd-e6f5101f9254",
+            "balance": -42850.97,
+            "transactions": [
+                {
+                    "date": "2023-04-16",
+                    "description": "Deposit",
+                    "amount": 2083.39,
+                    "transaction_id": 94337821
+                },
+                {
+                    "date": "2022-09-04",
+                    "description": "Interest",
+                    "amount": -4233.83,
+                    "transaction_id": 58416884
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Withdrawal",
+                    "amount": 1323.25,
+                    "transaction_id": 9492168
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Withdrawal",
+                    "amount": 3668.63,
+                    "transaction_id": 63299555
+                }
+            ]
+        }
+    }
+}

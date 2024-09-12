@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Louis Nguyen",
+        "age": 91,
+        "gender": "male",
+        "address": "2869 Morris Skyway, Kristenton, OR 59842",
+        "phone": "001-511-637-4540",
+        "email": "christinaanderson@example.net",
+        "account": {
+            "account_number": "9fa4d9b5-88cf-4348-9974-8eccdeb1c438",
+            "balance": 17651.33,
+            "transactions": [
+                {
+                    "date": "2022-09-14",
+                    "description": "Interest",
+                    "amount": 35440.15,
+                    "transaction_id": 117558193
+                },
+                {
+                    "date": "2023-10-11",
+                    "description": "Withdrawal",
+                    "amount": 10288.58,
+                    "transaction_id": 119764638
+                },
+                {
+                    "date": "2024-01-16",
+                    "description": "Interest",
+                    "amount": 26743.38,
+                    "transaction_id": 117395474
+                },
+                {
+                    "date": "2023-07-12",
+                    "description": "Interest",
+                    "amount": 26882.91,
+                    "transaction_id": 86794799
+                },
+                {
+                    "date": "2023-05-21",
+                    "description": "Withdrawal",
+                    "amount": 10767.08,
+                    "transaction_id": 88079420
+                }
+            ]
+        }
+    }
+}

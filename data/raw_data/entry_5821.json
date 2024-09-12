@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Scott Shaffer",
+        "age": 51,
+        "gender": "female",
+        "address": "06110 Marie Mews, New Marilynstad, KS 79004",
+        "phone": "807.263.1638",
+        "email": "brownemily@example.com",
+        "account": {
+            "account_number": "70beecc7-8b53-449a-be7d-cce59a17164d",
+            "balance": 42950.11,
+            "transactions": [
+                {
+                    "date": "2024-05-20",
+                    "description": "Interest",
+                    "amount": 49512.12,
+                    "transaction_id": 115572915
+                },
+                {
+                    "date": "2024-05-08",
+                    "description": "Withdrawal",
+                    "amount": 44241.88,
+                    "transaction_id": 104215578
+                }
+            ]
+        }
+    }
+}

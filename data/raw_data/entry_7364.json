@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kelly Moore",
+        "age": 35,
+        "gender": "female",
+        "address": "69098 Brown Plaza Suite 536, North Christine, OR 28060",
+        "phone": "589-201-3610x45257",
+        "email": "laurenmartinez@example.net",
+        "account": {
+            "account_number": "b1c0cca3-73ca-4a85-8ec7-2429b63d3be4",
+            "balance": 41452.78,
+            "transactions": [
+                {
+                    "date": "2024-05-14",
+                    "description": "Deposit",
+                    "amount": 43698.76,
+                    "transaction_id": 71416713
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Deposit",
+                    "amount": 8782.19,
+                    "transaction_id": 119580142
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Withdrawal",
+                    "amount": 27067.57,
+                    "transaction_id": 90621495
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Interest",
+                    "amount": 6119.92,
+                    "transaction_id": 75133103
+                },
+                {
+                    "date": "2024-06-02",
+                    "description": "Withdrawal",
+                    "amount": 4139.56,
+                    "transaction_id": 31264069
+                }
+            ]
+        }
+    }
+}

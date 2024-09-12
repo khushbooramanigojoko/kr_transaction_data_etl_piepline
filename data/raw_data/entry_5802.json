@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Renee Hart",
+        "age": 95,
+        "gender": "male",
+        "address": "5975 Dunn Mission, Scottland, AZ 20770",
+        "phone": "(845)200-5170x38058",
+        "email": "swashington@example.com",
+        "account": {
+            "account_number": "c214986e-f1e1-47d1-8f8d-3bc01c1e0e27",
+            "balance": 13819.41,
+            "transactions": [
+                {
+                    "date": "2022-09-28",
+                    "description": "Withdrawal",
+                    "amount": 49255.24,
+                    "transaction_id": 110726667
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Withdrawal",
+                    "amount": 43443.8,
+                    "transaction_id": 89616062
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Interest",
+                    "amount": 28817.82,
+                    "transaction_id": 97589797
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Withdrawal",
+                    "amount": 33354.78,
+                    "transaction_id": 100759146
+                }
+            ]
+        }
+    }
+}

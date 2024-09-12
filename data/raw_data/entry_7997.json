@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nicole Arnold",
+        "age": 58,
+        "gender": "male",
+        "address": "7806 Moore Plains, Johntown, PA 25738",
+        "phone": "490-805-4528x450",
+        "email": "williamsmatthew@example.net",
+        "account": {
+            "account_number": "4577585e-b45e-4c62-9bbb-8ca4ee644ed0",
+            "balance": 17959.27,
+            "transactions": [
+                {
+                    "date": "2023-05-05",
+                    "description": "Deposit",
+                    "amount": 28346.98,
+                    "transaction_id": 27946551
+                },
+                {
+                    "date": "2024-03-08",
+                    "description": "Deposit",
+                    "amount": 9611.81,
+                    "transaction_id": 40301175
+                },
+                {
+                    "date": "2023-09-11",
+                    "description": "Withdrawal",
+                    "amount": 49758.87,
+                    "transaction_id": 117517171
+                },
+                {
+                    "date": "2022-09-27",
+                    "description": "Interest",
+                    "amount": 36714.69,
+                    "transaction_id": 13927738
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Cardenas",
+        "age": 61,
+        "gender": "female",
+        "address": "5761 Melissa Hills Apt. 204, Deborahside, DE 49321",
+        "phone": "(623)410-8230x13332",
+        "email": "figueroajennifer@example.org",
+        "account": {
+            "account_number": "3c566e28-912a-4ad4-8a98-f3457dc45c0c",
+            "balance": -39803.39,
+            "transactions": [
+                {
+                    "date": "2024-08-26",
+                    "description": "Withdrawal",
+                    "amount": 4214.53,
+                    "transaction_id": 19069037
+                }
+            ]
+        }
+    }
+}

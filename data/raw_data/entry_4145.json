@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ronald Thomas",
+        "age": 22,
+        "gender": "male",
+        "address": "USCGC Henson, FPO AP 30223",
+        "phone": "996-415-2348",
+        "email": "matthewruiz@example.org",
+        "account": {
+            "account_number": "b56160c0-08af-4ab5-8168-c08c5b1cf0d0",
+            "balance": 43519.04,
+            "transactions": [
+                {
+                    "date": "2023-03-01",
+                    "description": "Interest",
+                    "amount": 25557.57,
+                    "transaction_id": 26650543
+                },
+                {
+                    "date": "2022-09-07",
+                    "description": "Withdrawal",
+                    "amount": 42121.62,
+                    "transaction_id": 107778799
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Anna Daniels",
+        "age": 60,
+        "gender": "male",
+        "address": "669 Tara Summit, Lake Natalie, PR 06672",
+        "phone": "+1-958-728-6296x7172",
+        "email": "steven79@example.net",
+        "account": {
+            "account_number": "3e9d1749-8dee-4a9f-9250-e9bae5a9ae11",
+            "balance": 26042.58,
+            "transactions": [
+                {
+                    "date": "2024-06-26",
+                    "description": "Withdrawal",
+                    "amount": 36329.53,
+                    "transaction_id": 107437584
+                },
+                {
+                    "date": "2022-11-14",
+                    "description": "Withdrawal",
+                    "amount": 23463.51,
+                    "transaction_id": 119798827
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Interest",
+                    "amount": 40686.54,
+                    "transaction_id": 5823709
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Interest",
+                    "amount": 1624.96,
+                    "transaction_id": 80943386
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Interest",
+                    "amount": 43365.14,
+                    "transaction_id": 53312358
+                }
+            ]
+        }
+    }
+}

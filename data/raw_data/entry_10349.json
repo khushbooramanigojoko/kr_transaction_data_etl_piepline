@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 56,
+        "gender": "female",
+        "address": "Unit 5478 Box 4976, DPO AE 34933",
+        "phone": "(950)345-5256x4214",
+        "email": "christinacampbell@example.com",
+        "account": {
+            "account_number": "f2bba4a6-c6e2-4e75-853d-4614347cee0c",
+            "balance": 18662.16,
+            "transactions": [
+                {
+                    "date": "2022-12-24",
+                    "description": "Withdrawal",
+                    "amount": 1383.49,
+                    "transaction_id": 13841635
+                },
+                {
+                    "date": "2023-11-07",
+                    "description": "Deposit",
+                    "amount": -2335.39,
+                    "transaction_id": 61796912
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Interest",
+                    "amount": 4142.6,
+                    "transaction_id": 24910921
+                },
+                {
+                    "date": "2022-11-19",
+                    "description": "Deposit",
+                    "amount": -496.15,
+                    "transaction_id": 84642436
+                }
+            ]
+        }
+    }
+}

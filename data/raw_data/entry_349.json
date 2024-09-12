@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Walter Hull",
+        "age": 97,
+        "gender": "female",
+        "address": "0561 Tracy Gardens Apt. 767, Weaverhaven, NM 47168",
+        "phone": "(851)957-5361x1047",
+        "email": "jessica50@example.com",
+        "account": {
+            "account_number": "ebc72bb2-490d-484f-9b23-aabc150c8a9f",
+            "balance": 12215.51,
+            "transactions": [
+                {
+                    "date": "2024-04-05",
+                    "description": "Withdrawal",
+                    "amount": 37621.25,
+                    "transaction_id": 74789455
+                },
+                {
+                    "date": "2022-09-09",
+                    "description": "Deposit",
+                    "amount": 14476.27,
+                    "transaction_id": 116887336
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Interest",
+                    "amount": 21946.05,
+                    "transaction_id": 69431043
+                }
+            ]
+        }
+    }
+}

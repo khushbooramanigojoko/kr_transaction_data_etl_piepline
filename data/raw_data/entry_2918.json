@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Johnathan Gardner",
+        "age": 27,
+        "gender": "male",
+        "address": "0394 Angela Alley, Port Brandonview, MT 05417",
+        "phone": "508.816.6285x2714",
+        "email": "carmen25@example.net",
+        "account": {
+            "account_number": "80db62f3-554f-492e-b5c4-86e2ce898483",
+            "balance": 48520.08,
+            "transactions": [
+                {
+                    "date": "2024-02-08",
+                    "description": "Deposit",
+                    "amount": 30932.31,
+                    "transaction_id": 74076668
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Interest",
+                    "amount": 32882.53,
+                    "transaction_id": 100617242
+                },
+                {
+                    "date": "2023-06-06",
+                    "description": "Withdrawal",
+                    "amount": 1641.99,
+                    "transaction_id": 84860483
+                },
+                {
+                    "date": "2023-10-01",
+                    "description": "Deposit",
+                    "amount": 44305.91,
+                    "transaction_id": 92414234
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Deposit",
+                    "amount": 12671.45,
+                    "transaction_id": 58681288
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Charles Nunez",
+        "age": 70,
+        "gender": "female",
+        "address": "1199 Castillo Courts Suite 432, North Emmaport, MA 53442",
+        "phone": "720.571.2831x141",
+        "email": "crystal71@example.org",
+        "account": {
+            "account_number": "ca466490-303d-411a-b817-b1d0531d4e31",
+            "balance": 40522.53,
+            "transactions": [
+                {
+                    "date": "2023-11-03",
+                    "description": "Withdrawal",
+                    "amount": 1885.57,
+                    "transaction_id": 77400245
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Interest",
+                    "amount": 48696.05,
+                    "transaction_id": 71467936
+                }
+            ]
+        }
+    }
+}

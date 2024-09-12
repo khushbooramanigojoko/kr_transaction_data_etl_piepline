@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Juan Miller",
+        "age": 37,
+        "gender": "male",
+        "address": "886 Collier Course, Woodville, AK 75706",
+        "phone": "310-928-3410x9476",
+        "email": "choisandra@example.net",
+        "account": {
+            "account_number": "ce6cb63c-9328-4320-a84b-94d913a243c2",
+            "balance": 49730.67,
+            "transactions": [
+                {
+                    "date": "2024-05-06",
+                    "description": "Deposit",
+                    "amount": 8433.32,
+                    "transaction_id": 57483079
+                },
+                {
+                    "date": "2022-12-19",
+                    "description": "Withdrawal",
+                    "amount": 44280.02,
+                    "transaction_id": 54677288
+                }
+            ]
+        }
+    }
+}

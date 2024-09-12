@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Amy Edwards",
+        "age": 23,
+        "gender": "male",
+        "address": "06148 Nash Cliffs, Ayersville, KY 55237",
+        "phone": "(963)218-2774",
+        "email": "dschultz@example.net",
+        "account": {
+            "account_number": "fcf79ec0-fede-4ad5-b56c-be91a535b72d",
+            "balance": 32565.01,
+            "transactions": [
+                {
+                    "date": "2024-06-11",
+                    "description": "Deposit",
+                    "amount": 4557.99,
+                    "transaction_id": 103952311
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Interest",
+                    "amount": 31549.32,
+                    "transaction_id": 96213972
+                },
+                {
+                    "date": "2023-07-14",
+                    "description": "Interest",
+                    "amount": 4214.24,
+                    "transaction_id": 101080298
+                }
+            ]
+        }
+    }
+}

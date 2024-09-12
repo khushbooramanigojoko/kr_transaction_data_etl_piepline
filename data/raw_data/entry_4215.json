@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kimberly Griffin",
+        "age": 69,
+        "gender": "female",
+        "address": "7681 Black Vista Suite 685, Lake Nancyfort, HI 20998",
+        "phone": "568-810-7419x4281",
+        "email": "johnsonvanessa@example.com",
+        "account": {
+            "account_number": "198a65c4-8339-414a-ada7-7014309bc69f",
+            "balance": 47951.76,
+            "transactions": [
+                {
+                    "date": "2022-11-26",
+                    "description": "Withdrawal",
+                    "amount": 45093.91,
+                    "transaction_id": 111415115
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Withdrawal",
+                    "amount": 2378.64,
+                    "transaction_id": 106486582
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Withdrawal",
+                    "amount": 12689.03,
+                    "transaction_id": 25741987
+                },
+                {
+                    "date": "2023-01-09",
+                    "description": "Withdrawal",
+                    "amount": 46261.29,
+                    "transaction_id": 116318074
+                }
+            ]
+        }
+    }
+}

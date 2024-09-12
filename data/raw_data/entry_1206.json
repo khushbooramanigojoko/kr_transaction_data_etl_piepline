@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stephen Woods",
+        "age": 57,
+        "gender": "female",
+        "address": "USNS Pittman, FPO AA 22308",
+        "phone": "(697)940-6973x37843",
+        "email": "brianmunoz@example.com",
+        "account": {
+            "account_number": "9d91f3bc-96e7-404d-9929-8773abaf0087",
+            "balance": 29618.49,
+            "transactions": [
+                {
+                    "date": "2023-04-19",
+                    "description": "Interest",
+                    "amount": 24663.74,
+                    "transaction_id": 114581074
+                },
+                {
+                    "date": "2023-12-30",
+                    "description": "Interest",
+                    "amount": 22558.1,
+                    "transaction_id": 35623420
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Withdrawal",
+                    "amount": 39934.65,
+                    "transaction_id": 5728467
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": 32875.07,
+                    "transaction_id": 46605561
+                }
+            ]
+        }
+    }
+}

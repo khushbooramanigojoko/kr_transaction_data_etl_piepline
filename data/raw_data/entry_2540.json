@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Andrea Townsend",
+        "age": 42,
+        "gender": "male",
+        "address": "332 Calderon Parks Suite 863, Ayalaburgh, AZ 37173",
+        "phone": "+1-235-648-8845x44652",
+        "email": "catherine45@example.net",
+        "account": {
+            "account_number": "80ef6431-76d4-40ff-93ab-d3b904024f8a",
+            "balance": 44315.8,
+            "transactions": [
+                {
+                    "date": "2023-05-24",
+                    "description": "Withdrawal",
+                    "amount": 38118.84,
+                    "transaction_id": 96192707
+                },
+                {
+                    "date": "2024-01-21",
+                    "description": "Withdrawal",
+                    "amount": 37176.48,
+                    "transaction_id": 116601330
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Deposit",
+                    "amount": 2524.91,
+                    "transaction_id": 49257761
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Withdrawal",
+                    "amount": 30378.35,
+                    "transaction_id": 8769939
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Interest",
+                    "amount": 35094.44,
+                    "transaction_id": 57383424
+                }
+            ]
+        }
+    }
+}

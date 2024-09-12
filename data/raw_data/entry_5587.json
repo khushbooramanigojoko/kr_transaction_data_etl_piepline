@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jamie Hill",
+        "age": 91,
+        "gender": "female",
+        "address": "56158 Carlson Club, Lake Sean, NH 59497",
+        "phone": "621-299-0071x6396",
+        "email": "angela93@example.org",
+        "account": {
+            "account_number": "454ff29a-5999-45c0-ae8f-49c45745a343",
+            "balance": 10018.88,
+            "transactions": [
+                {
+                    "date": "2023-07-14",
+                    "description": "Withdrawal",
+                    "amount": 31079.25,
+                    "transaction_id": 96304710
+                },
+                {
+                    "date": "2024-07-04",
+                    "description": "Deposit",
+                    "amount": 33587.65,
+                    "transaction_id": 75576501
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Withdrawal",
+                    "amount": 15300.62,
+                    "transaction_id": 51918447
+                },
+                {
+                    "date": "2023-05-06",
+                    "description": "Withdrawal",
+                    "amount": 34665.63,
+                    "transaction_id": 18595033
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Withdrawal",
+                    "amount": 8030.1,
+                    "transaction_id": 98133982
+                }
+            ]
+        }
+    }
+}

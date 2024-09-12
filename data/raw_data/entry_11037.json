@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Timothy Butler",
+        "age": 95,
+        "gender": "female",
+        "address": "94467 Erika Islands, East Christinaberg, OK 51635",
+        "phone": "001-965-327-2748x192",
+        "email": "deborah23@example.org",
+        "account": {
+            "account_number": "028289f6-ec31-415b-a589-a875cc35abf2",
+            "balance": -7060.94,
+            "transactions": [
+                {
+                    "date": "2023-07-08",
+                    "description": "Withdrawal",
+                    "amount": 3398.51,
+                    "transaction_id": 51233105
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Interest",
+                    "amount": 1239.95,
+                    "transaction_id": 15505114
+                },
+                {
+                    "date": "2023-10-19",
+                    "description": "Withdrawal",
+                    "amount": 3233.11,
+                    "transaction_id": 37282578
+                },
+                {
+                    "date": "2023-07-15",
+                    "description": "Interest",
+                    "amount": -2140.94,
+                    "transaction_id": 7983656
+                }
+            ]
+        }
+    }
+}

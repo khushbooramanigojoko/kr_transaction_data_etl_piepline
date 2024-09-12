@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Connie Lawson",
+        "age": 70,
+        "gender": "male",
+        "address": "600 James Flat, Joshuaberg, LA 22414",
+        "phone": "(578)459-2963",
+        "email": "breanna69@example.net",
+        "account": {
+            "account_number": "ca64eb71-c236-4a0a-a512-15ad8d9d22cd",
+            "balance": 39003.09,
+            "transactions": [
+                {
+                    "date": "2023-12-07",
+                    "description": "Interest",
+                    "amount": 19158.39,
+                    "transaction_id": 56076623
+                },
+                {
+                    "date": "2024-02-03",
+                    "description": "Deposit",
+                    "amount": 14482.97,
+                    "transaction_id": 32260881
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Deposit",
+                    "amount": 13909.0,
+                    "transaction_id": 118894827
+                },
+                {
+                    "date": "2024-07-13",
+                    "description": "Deposit",
+                    "amount": 9298.1,
+                    "transaction_id": 86981299
+                }
+            ]
+        }
+    }
+}

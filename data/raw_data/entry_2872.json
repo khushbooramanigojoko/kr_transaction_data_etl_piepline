@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Marcus Wood",
+        "age": 80,
+        "gender": "female",
+        "address": "2973 Lauren Road Apt. 519, Petersonmouth, VI 92511",
+        "phone": "(337)413-4973x9875",
+        "email": "yramirez@example.org",
+        "account": {
+            "account_number": "40268534-8589-4282-8205-39135886b875",
+            "balance": 8382.72,
+            "transactions": [
+                {
+                    "date": "2022-09-06",
+                    "description": "Withdrawal",
+                    "amount": 22978.82,
+                    "transaction_id": 6208111
+                },
+                {
+                    "date": "2024-02-20",
+                    "description": "Deposit",
+                    "amount": 47614.17,
+                    "transaction_id": 89555571
+                },
+                {
+                    "date": "2024-05-20",
+                    "description": "Withdrawal",
+                    "amount": 22985.99,
+                    "transaction_id": 90540808
+                },
+                {
+                    "date": "2024-02-14",
+                    "description": "Withdrawal",
+                    "amount": 24052.08,
+                    "transaction_id": 31372023
+                }
+            ]
+        }
+    }
+}

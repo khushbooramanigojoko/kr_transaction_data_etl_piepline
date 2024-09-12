@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Rodney Reynolds",
+        "age": 94,
+        "gender": "male",
+        "address": "0091 Timothy Crest Apt. 578, New Joshuabury, FM 33892",
+        "phone": "+1-233-838-4538x98992",
+        "email": "meredith62@example.org",
+        "account": {
+            "account_number": "0793fe3a-b32b-4475-b57b-2fcec14c7d3c",
+            "balance": -7881.75,
+            "transactions": [
+                {
+                    "date": "2023-11-27",
+                    "description": "Deposit",
+                    "amount": 3116.43,
+                    "transaction_id": 3490914
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Deposit",
+                    "amount": 3239.28,
+                    "transaction_id": 99324217
+                },
+                {
+                    "date": "2023-04-14",
+                    "description": "Interest",
+                    "amount": 912.07,
+                    "transaction_id": 40930983
+                }
+            ]
+        }
+    }
+}

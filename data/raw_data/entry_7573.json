@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Richard Mercado",
+        "age": 45,
+        "gender": "male",
+        "address": "7665 Jenkins Trafficway Apt. 507, Matthewsborough, IN 03887",
+        "phone": "587.720.1365x0655",
+        "email": "crystal45@example.com",
+        "account": {
+            "account_number": "7c891032-2857-4b2e-88f9-a235c013e90e",
+            "balance": 18206.13,
+            "transactions": [
+                {
+                    "date": "2023-03-26",
+                    "description": "Withdrawal",
+                    "amount": 30731.69,
+                    "transaction_id": 48580132
+                }
+            ]
+        }
+    }
+}

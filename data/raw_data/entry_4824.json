@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kevin Brown",
+        "age": 47,
+        "gender": "female",
+        "address": "6287 Benjamin Common Suite 083, West Elizabeth, KS 42178",
+        "phone": "001-699-525-9654x60817",
+        "email": "rothmadison@example.org",
+        "account": {
+            "account_number": "20fa00ca-09fe-4564-80c8-4630b283ba25",
+            "balance": 40898.19,
+            "transactions": [
+                {
+                    "date": "2023-01-29",
+                    "description": "Interest",
+                    "amount": 22922.71,
+                    "transaction_id": 51020221
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Interest",
+                    "amount": 17855.93,
+                    "transaction_id": 117567446
+                },
+                {
+                    "date": "2023-08-06",
+                    "description": "Interest",
+                    "amount": 31811.29,
+                    "transaction_id": 30299903
+                }
+            ]
+        }
+    }
+}

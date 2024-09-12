@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tony White",
+        "age": 95,
+        "gender": "male",
+        "address": "PSC 2706, Box 1684, APO AE 88501",
+        "phone": "4305550839",
+        "email": "karlbrady@example.net",
+        "account": {
+            "account_number": "1473fd52-8f90-4bc0-9ea7-b3ef5d2baa20",
+            "balance": 42118.27,
+            "transactions": [
+                {
+                    "date": "2023-03-10",
+                    "description": "Interest",
+                    "amount": 39232.29,
+                    "transaction_id": 110081108
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Withdrawal",
+                    "amount": 21171.67,
+                    "transaction_id": 21425970
+                },
+                {
+                    "date": "2024-05-12",
+                    "description": "Interest",
+                    "amount": 49903.87,
+                    "transaction_id": 6775306
+                },
+                {
+                    "date": "2023-06-20",
+                    "description": "Interest",
+                    "amount": 42304.25,
+                    "transaction_id": 57131745
+                }
+            ]
+        }
+    }
+}

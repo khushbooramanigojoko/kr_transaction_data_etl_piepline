@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Cody Delacruz",
+        "age": 77,
+        "gender": "male",
+        "address": "54545 Kathleen Inlet Apt. 330, Browntown, NH 44143",
+        "phone": "001-803-402-3599x095",
+        "email": "ghall@example.com",
+        "account": {
+            "account_number": "f53ea0ef-18d6-4dea-9699-b501d3e1952b",
+            "balance": -36178.0,
+            "transactions": [
+                {
+                    "date": "2023-09-16",
+                    "description": "Deposit",
+                    "amount": -1205.38,
+                    "transaction_id": 21809501
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Interest",
+                    "amount": 13.95,
+                    "transaction_id": 47719475
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Interest",
+                    "amount": 3198.06,
+                    "transaction_id": 62346938
+                }
+            ]
+        }
+    }
+}

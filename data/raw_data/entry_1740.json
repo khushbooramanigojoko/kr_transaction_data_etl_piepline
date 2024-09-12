@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christopher Rodgers",
+        "age": 92,
+        "gender": "female",
+        "address": "49790 Gary Park Apt. 495, Port Jerry, KS 39469",
+        "phone": "929.336.9242",
+        "email": "brooksvanessa@example.com",
+        "account": {
+            "account_number": "02cd6649-6b99-45a4-ac4f-5fc99f78c3f8",
+            "balance": 14139.44,
+            "transactions": [
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": 20413.26,
+                    "transaction_id": 3567556
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Interest",
+                    "amount": 3326.16,
+                    "transaction_id": 47139135
+                }
+            ]
+        }
+    }
+}

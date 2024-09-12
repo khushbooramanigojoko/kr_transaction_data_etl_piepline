@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 66,
+        "gender": "female",
+        "address": "22588 Chandler Expressway Suite 174, Cherylside, MA 22841",
+        "phone": "(441)671-4465",
+        "email": "chrisblake@example.org",
+        "account": {
+            "account_number": "79085330-243d-499e-ad34-37661b8e87a9",
+            "balance": 6580.84,
+            "transactions": [
+                {
+                    "date": "2024-08-17",
+                    "description": "Withdrawal",
+                    "amount": 1448.31,
+                    "transaction_id": 64636797
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Deposit",
+                    "amount": -972.12,
+                    "transaction_id": 93262631
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Interest",
+                    "amount": 2665.55,
+                    "transaction_id": 86967377
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Withdrawal",
+                    "amount": 3806.66,
+                    "transaction_id": 18306116
+                },
+                {
+                    "date": "2023-10-31",
+                    "description": "Interest",
+                    "amount": -3747.15,
+                    "transaction_id": 67200921
+                }
+            ]
+        }
+    }
+}

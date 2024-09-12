@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Angela Jarvis",
+        "age": 54,
+        "gender": "female",
+        "address": "80665 Hall Extension, Port Justin, OK 80914",
+        "phone": "(221)392-5670x308",
+        "email": "balvarado@example.org",
+        "account": {
+            "account_number": "a8e3854d-fe7c-4e7a-9ce8-d5c99c20f1e0",
+            "balance": 12890.53,
+            "transactions": [
+                {
+                    "date": "2022-12-31",
+                    "description": "Withdrawal",
+                    "amount": 39963.77,
+                    "transaction_id": 12415727
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Withdrawal",
+                    "amount": 2639.55,
+                    "transaction_id": 73036810
+                },
+                {
+                    "date": "2023-08-28",
+                    "description": "Interest",
+                    "amount": 17002.07,
+                    "transaction_id": 46180569
+                }
+            ]
+        }
+    }
+}

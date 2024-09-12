@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Brenda Rogers",
+        "age": 42,
+        "gender": "male",
+        "address": "4745 Phelps Vista, Lake Samantha, GU 23032",
+        "phone": "523.249.6972",
+        "email": "jenniferpark@example.org",
+        "account": {
+            "account_number": "d68cb7d9-cfa9-49ff-b2f1-8969d81c6de5",
+            "balance": -16456.97,
+            "transactions": [
+                {
+                    "date": "2024-05-01",
+                    "description": "Withdrawal",
+                    "amount": -1069.47,
+                    "transaction_id": 19442305
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Interest",
+                    "amount": 2827.32,
+                    "transaction_id": 15575688
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Interest",
+                    "amount": -3308.34,
+                    "transaction_id": 119170787
+                }
+            ]
+        }
+    }
+}

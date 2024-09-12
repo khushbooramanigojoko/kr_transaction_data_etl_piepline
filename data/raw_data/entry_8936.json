@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 58,
+        "gender": "male",
+        "address": "09697 Johnson Fields Apt. 493, Port Haydenmouth, MS 65877",
+        "phone": "802-951-8105",
+        "email": "brenda77@example.org",
+        "account": {
+            "account_number": "dea6af54-fc80-4ef4-98f0-8213e3fbfe76",
+            "balance": 33565.37,
+            "transactions": [
+                {
+                    "date": "2024-07-15",
+                    "description": "Withdrawal",
+                    "amount": 2964.49,
+                    "transaction_id": 106134445
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Interest",
+                    "amount": 4326.6,
+                    "transaction_id": 92328484
+                },
+                {
+                    "date": "2022-11-27",
+                    "description": "Interest",
+                    "amount": 461.74,
+                    "transaction_id": 38384755
+                },
+                {
+                    "date": "2023-07-21",
+                    "description": "Withdrawal",
+                    "amount": -4504.39,
+                    "transaction_id": 15656674
+                }
+            ]
+        }
+    }
+}

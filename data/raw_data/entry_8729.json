@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Denise Webb",
+        "age": 45,
+        "gender": "female",
+        "address": "116 Michael Circle Suite 025, Lake Julia, WA 33847",
+        "phone": "+1-905-223-7238x534",
+        "email": "catherinereynolds@example.net",
+        "account": {
+            "account_number": "0a948e46-9453-4ede-88b7-a1ac29c0ac35",
+            "balance": -29036.02,
+            "transactions": [
+                {
+                    "date": "2024-07-17",
+                    "description": "Deposit",
+                    "amount": 341.79,
+                    "transaction_id": 7402222
+                }
+            ]
+        }
+    }
+}

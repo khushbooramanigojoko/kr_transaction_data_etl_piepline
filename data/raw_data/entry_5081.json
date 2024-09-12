@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nicole Ramirez",
+        "age": 71,
+        "gender": "female",
+        "address": "671 Megan Dale, East Gavin, MN 06857",
+        "phone": "(258)547-5668x38946",
+        "email": "chaneymelissa@example.org",
+        "account": {
+            "account_number": "a0b5a38b-12a0-4d71-befb-cf00a307ede0",
+            "balance": 21653.79,
+            "transactions": [
+                {
+                    "date": "2023-09-17",
+                    "description": "Withdrawal",
+                    "amount": 45204.69,
+                    "transaction_id": 101617021
+                },
+                {
+                    "date": "2022-11-23",
+                    "description": "Interest",
+                    "amount": 47512.39,
+                    "transaction_id": 25307668
+                },
+                {
+                    "date": "2024-04-07",
+                    "description": "Deposit",
+                    "amount": 26667.74,
+                    "transaction_id": 91334907
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Interest",
+                    "amount": 32590.36,
+                    "transaction_id": 14301129
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Withdrawal",
+                    "amount": 14299.08,
+                    "transaction_id": 16031840
+                }
+            ]
+        }
+    }
+}

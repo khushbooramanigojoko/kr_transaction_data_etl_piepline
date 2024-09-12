@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christie Miller",
+        "age": 49,
+        "gender": "female",
+        "address": "9865 Ramirez Corner, Bridgesville, AS 79182",
+        "phone": "6598769057",
+        "email": "mjohnson@example.com",
+        "account": {
+            "account_number": "f4263b90-69eb-4c23-ba48-41aef6896282",
+            "balance": 43286.63,
+            "transactions": [
+                {
+                    "date": "2023-12-09",
+                    "description": "Interest",
+                    "amount": 35893.72,
+                    "transaction_id": 80731931
+                },
+                {
+                    "date": "2022-09-05",
+                    "description": "Interest",
+                    "amount": 40279.77,
+                    "transaction_id": 3188394
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Withdrawal",
+                    "amount": 15060.97,
+                    "transaction_id": 118392257
+                },
+                {
+                    "date": "2024-06-27",
+                    "description": "Interest",
+                    "amount": 40659.65,
+                    "transaction_id": 22002735
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Interest",
+                    "amount": 2184.05,
+                    "transaction_id": 96164316
+                }
+            ]
+        }
+    }
+}

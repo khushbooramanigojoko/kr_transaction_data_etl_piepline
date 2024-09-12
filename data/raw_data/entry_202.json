@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Sullivan",
+        "age": 63,
+        "gender": "female",
+        "address": "431 Mcintyre Wall, East Ryanmouth, NV 88703",
+        "phone": "5036073965",
+        "email": "jacquelinejohnson@example.com",
+        "account": {
+            "account_number": "d721385f-cb93-4927-9e16-ec33126664db",
+            "balance": 12520.41,
+            "transactions": [
+                {
+                    "date": "2023-05-23",
+                    "description": "Interest",
+                    "amount": 46886.68,
+                    "transaction_id": 115831873
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Withdrawal",
+                    "amount": 19874.32,
+                    "transaction_id": 16764908
+                },
+                {
+                    "date": "2023-06-06",
+                    "description": "Interest",
+                    "amount": 35833.51,
+                    "transaction_id": 53475448
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Withdrawal",
+                    "amount": 10527.49,
+                    "transaction_id": 45750472
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Withdrawal",
+                    "amount": 42650.67,
+                    "transaction_id": 33107294
+                }
+            ]
+        }
+    }
+}

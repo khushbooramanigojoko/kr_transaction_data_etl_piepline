@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Willie Whitehead",
+        "age": 50,
+        "gender": "female",
+        "address": "41848 Guy Estate Apt. 943, Millerfurt, AS 60093",
+        "phone": "+1-329-317-4740",
+        "email": "michael83@example.org",
+        "account": {
+            "account_number": "90c5cd99-2b88-4066-8357-62efc167d293",
+            "balance": 22017.11,
+            "transactions": [
+                {
+                    "date": "2024-08-27",
+                    "description": "Deposit",
+                    "amount": 22964.46,
+                    "transaction_id": 18281665
+                },
+                {
+                    "date": "2023-03-30",
+                    "description": "Deposit",
+                    "amount": 40720.21,
+                    "transaction_id": 105599357
+                }
+            ]
+        }
+    }
+}

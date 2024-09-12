@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Annette Pena",
+        "age": 69,
+        "gender": "female",
+        "address": "31757 Steven Alley Apt. 388, East Robertview, RI 73554",
+        "phone": "001-812-287-2765x6282",
+        "email": "bramirez@example.org",
+        "account": {
+            "account_number": "692167cc-fe46-474a-a2d5-334f0a428ce9",
+            "balance": 33880.35,
+            "transactions": [
+                {
+                    "date": "2023-04-18",
+                    "description": "Interest",
+                    "amount": 22985.86,
+                    "transaction_id": 56433660
+                }
+            ]
+        }
+    }
+}

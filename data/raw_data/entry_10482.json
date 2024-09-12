@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 81,
+        "gender": "female",
+        "address": "69884 Michael Trail, Lake Michelletown, HI 10743",
+        "phone": "(959)452-0826",
+        "email": "bwells@example.com",
+        "account": {
+            "account_number": "c966f420-686a-4119-8cb4-251d9cceb3bc",
+            "balance": 9034.2,
+            "transactions": [
+                {
+                    "date": "2023-01-09",
+                    "description": "Deposit",
+                    "amount": 2896.25,
+                    "transaction_id": 113625561
+                },
+                {
+                    "date": "2022-11-11",
+                    "description": "Interest",
+                    "amount": -4852.3,
+                    "transaction_id": 103156636
+                },
+                {
+                    "date": "2022-12-22",
+                    "description": "Interest",
+                    "amount": 1871.64,
+                    "transaction_id": 39169550
+                }
+            ]
+        }
+    }
+}

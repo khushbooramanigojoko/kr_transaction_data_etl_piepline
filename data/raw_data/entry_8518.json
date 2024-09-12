@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ralph Nelson",
+        "age": 20,
+        "gender": "male",
+        "address": "3318 George Street, Shaunland, VA 80286",
+        "phone": "7736930448",
+        "email": "chandlerbrandon@example.net",
+        "account": {
+            "account_number": "527e769a-14e4-470c-a565-9d71c8e7ae53",
+            "balance": 23588.03,
+            "transactions": [
+                {
+                    "date": "2023-04-30",
+                    "description": "Deposit",
+                    "amount": 9528.58,
+                    "transaction_id": 38414729
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Deposit",
+                    "amount": 10528.85,
+                    "transaction_id": 92062662
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Interest",
+                    "amount": 23136.23,
+                    "transaction_id": 100490976
+                },
+                {
+                    "date": "2024-05-21",
+                    "description": "Deposit",
+                    "amount": 23247.48,
+                    "transaction_id": 65408585
+                },
+                {
+                    "date": "2023-07-02",
+                    "description": "Withdrawal",
+                    "amount": 22060.4,
+                    "transaction_id": 99335067
+                }
+            ]
+        }
+    }
+}

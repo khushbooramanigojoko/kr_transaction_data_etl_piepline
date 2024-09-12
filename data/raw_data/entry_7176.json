@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Angela Willis",
+        "age": 97,
+        "gender": "male",
+        "address": "19044 Victoria Grove, Port Katrinabury, NH 21791",
+        "phone": "967.525.2491",
+        "email": "samantha80@example.com",
+        "account": {
+            "account_number": "280a0457-e16d-412a-b0f9-5654784c2b52",
+            "balance": 27728.84,
+            "transactions": [
+                {
+                    "date": "2023-12-23",
+                    "description": "Interest",
+                    "amount": 46787.58,
+                    "transaction_id": 77429328
+                },
+                {
+                    "date": "2023-04-06",
+                    "description": "Withdrawal",
+                    "amount": 46608.29,
+                    "transaction_id": 78326435
+                },
+                {
+                    "date": "2024-07-21",
+                    "description": "Interest",
+                    "amount": 28190.97,
+                    "transaction_id": 91262994
+                }
+            ]
+        }
+    }
+}

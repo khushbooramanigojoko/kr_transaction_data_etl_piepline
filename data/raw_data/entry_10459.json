@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Richard Walker",
+        "age": 59,
+        "gender": "female",
+        "address": "9158 Cox Plains Suite 079, Port Charlesmouth, FM 41003",
+        "phone": "319-880-3514x061",
+        "email": "shaneramirez@example.org",
+        "account": {
+            "account_number": "8164a154-1aaf-40e8-bca6-de9727483da4",
+            "balance": -49585.63,
+            "transactions": [
+                {
+                    "date": "2023-03-18",
+                    "description": "Interest",
+                    "amount": -521.21,
+                    "transaction_id": 81960571
+                },
+                {
+                    "date": "2023-12-31",
+                    "description": "Interest",
+                    "amount": -3417.77,
+                    "transaction_id": 63354612
+                },
+                {
+                    "date": "2024-08-03",
+                    "description": "Withdrawal",
+                    "amount": 3461.49,
+                    "transaction_id": 43290750
+                },
+                {
+                    "date": "2024-09-01",
+                    "description": "Deposit",
+                    "amount": -1670.09,
+                    "transaction_id": 93594415
+                },
+                {
+                    "date": "2023-12-10",
+                    "description": "Deposit",
+                    "amount": -342.44,
+                    "transaction_id": 28463598
+                }
+            ]
+        }
+    }
+}

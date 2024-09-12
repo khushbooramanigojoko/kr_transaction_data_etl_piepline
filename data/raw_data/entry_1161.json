@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Samantha Ewing",
+        "age": 92,
+        "gender": "female",
+        "address": "44994 Bolton Via Apt. 738, Paulhaven, MO 41576",
+        "phone": "(879)628-6534x801",
+        "email": "stephenphillips@example.com",
+        "account": {
+            "account_number": "ad164344-3d03-43ba-b73e-ea0c52e84855",
+            "balance": 3890.39,
+            "transactions": [
+                {
+                    "date": "2023-11-03",
+                    "description": "Withdrawal",
+                    "amount": 29379.81,
+                    "transaction_id": 54877894
+                }
+            ]
+        }
+    }
+}

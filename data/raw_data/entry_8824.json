@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 39,
+        "gender": "male",
+        "address": "64419 Philip Roads Apt. 475, East Patricialand, IA 12494",
+        "phone": "(650)909-2305x3356",
+        "email": "elizabethfoster@example.org",
+        "account": {
+            "account_number": "96814f9f-5f63-48aa-aa67-843d52ed5fcf",
+            "balance": 36136.34,
+            "transactions": [
+                {
+                    "date": "2023-05-22",
+                    "description": "Withdrawal",
+                    "amount": -4196.95,
+                    "transaction_id": 21213074
+                },
+                {
+                    "date": "2023-10-08",
+                    "description": "Deposit",
+                    "amount": -4739.66,
+                    "transaction_id": 64703597
+                }
+            ]
+        }
+    }
+}

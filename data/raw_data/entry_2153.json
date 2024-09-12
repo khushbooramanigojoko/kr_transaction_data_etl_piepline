@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Jimenez",
+        "age": 62,
+        "gender": "female",
+        "address": "Unit 5879 Box 3280, DPO AP 34585",
+        "phone": "318.434.9085",
+        "email": "mrichardson@example.com",
+        "account": {
+            "account_number": "ab5ab5cf-b502-4f24-8bd5-5cb5e1f3c516",
+            "balance": 14762.28,
+            "transactions": [
+                {
+                    "date": "2024-06-06",
+                    "description": "Interest",
+                    "amount": 32288.41,
+                    "transaction_id": 77088086
+                },
+                {
+                    "date": "2024-04-21",
+                    "description": "Interest",
+                    "amount": 29836.37,
+                    "transaction_id": 93601885
+                }
+            ]
+        }
+    }
+}

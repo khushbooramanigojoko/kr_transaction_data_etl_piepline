@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Daniel Goodman",
+        "age": 42,
+        "gender": "male",
+        "address": "780 Mitchell Courts, Port Scott, ME 62354",
+        "phone": "001-475-664-6849",
+        "email": "shannonmccann@example.org",
+        "account": {
+            "account_number": "92274c84-1ba5-49f4-9b23-c9e3ce234023",
+            "balance": 24043.84,
+            "transactions": [
+                {
+                    "date": "2023-05-22",
+                    "description": "Interest",
+                    "amount": 38087.88,
+                    "transaction_id": 44083934
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Withdrawal",
+                    "amount": 38334.29,
+                    "transaction_id": 92748653
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Withdrawal",
+                    "amount": 15972.43,
+                    "transaction_id": 15255478
+                }
+            ]
+        }
+    }
+}

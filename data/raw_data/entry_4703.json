@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stacey Perry",
+        "age": 71,
+        "gender": "male",
+        "address": "4129 Charles Fort Apt. 799, South Sarah, CT 88445",
+        "phone": "622-896-7059x3018",
+        "email": "msolis@example.net",
+        "account": {
+            "account_number": "657cb041-ae32-40f4-a4de-c9b8a00b8de0",
+            "balance": 11181.46,
+            "transactions": [
+                {
+                    "date": "2024-02-17",
+                    "description": "Interest",
+                    "amount": 35678.49,
+                    "transaction_id": 14802940
+                }
+            ]
+        }
+    }
+}

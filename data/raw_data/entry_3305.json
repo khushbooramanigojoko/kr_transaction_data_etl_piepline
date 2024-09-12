@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mr. Eric Mcguire III",
+        "age": 45,
+        "gender": "male",
+        "address": "18638 Dawson Lake Apt. 844, Timothytown, MD 08279",
+        "phone": "+1-859-608-0461x77250",
+        "email": "nicholas10@example.com",
+        "account": {
+            "account_number": "08cb633b-46ce-4ca2-bd90-6fd5e9e63a80",
+            "balance": 43864.88,
+            "transactions": [
+                {
+                    "date": "2023-08-23",
+                    "description": "Interest",
+                    "amount": 9796.57,
+                    "transaction_id": 78698173
+                },
+                {
+                    "date": "2023-08-17",
+                    "description": "Withdrawal",
+                    "amount": 8574.59,
+                    "transaction_id": 82829268
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Interest",
+                    "amount": 38395.56,
+                    "transaction_id": 37772392
+                }
+            ]
+        }
+    }
+}

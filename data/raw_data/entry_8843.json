@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Wendy Perez",
+        "age": 71,
+        "gender": "female",
+        "address": "02252 Jenna Lake Apt. 360, Oscarmouth, CO 40795",
+        "phone": "+1-368-515-9156x557",
+        "email": "yabbott@example.com",
+        "account": {
+            "account_number": "113c6158-1c53-4994-b6fd-99d4606c4d2b",
+            "balance": -22210.44,
+            "transactions": [
+                {
+                    "date": "2023-02-16",
+                    "description": "Withdrawal",
+                    "amount": -3586.47,
+                    "transaction_id": 22457346
+                },
+                {
+                    "date": "2024-05-12",
+                    "description": "Withdrawal",
+                    "amount": -1736.77,
+                    "transaction_id": 10493652
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Deposit",
+                    "amount": 4935.17,
+                    "transaction_id": 6726616
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Interest",
+                    "amount": 4914.39,
+                    "transaction_id": 38869041
+                }
+            ]
+        }
+    }
+}

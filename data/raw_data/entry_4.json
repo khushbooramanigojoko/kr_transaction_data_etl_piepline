@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Laura Calderon",
+        "age": 53,
+        "gender": "female",
+        "address": "658 Love Radial Apt. 867, Salazarview, FM 11018",
+        "phone": "(919)803-0307x483",
+        "email": "ypatton@example.org",
+        "account": {
+            "account_number": "38fb538c-6ad7-42df-a6d1-e85c0a44ff63",
+            "balance": 3135.35,
+            "transactions": [
+                {
+                    "date": "2023-09-04",
+                    "description": "Withdrawal",
+                    "amount": 42687.92,
+                    "transaction_id": 40763749
+                },
+                {
+                    "date": "2023-07-08",
+                    "description": "Deposit",
+                    "amount": 30476.09,
+                    "transaction_id": 70107104
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Deposit",
+                    "amount": 9476.97,
+                    "transaction_id": 2737178
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Deposit",
+                    "amount": 49371.99,
+                    "transaction_id": 116455064
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Deposit",
+                    "amount": 38429.53,
+                    "transaction_id": 74650695
+                }
+            ]
+        }
+    }
+}

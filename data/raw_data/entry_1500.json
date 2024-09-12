@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Cole Walter",
+        "age": 65,
+        "gender": "female",
+        "address": "6401 Dunn Mission, Tylerport, NV 26126",
+        "phone": "(832)593-2536x299",
+        "email": "isaac97@example.net",
+        "account": {
+            "account_number": "6da271a4-a4a6-49fc-800b-34a28ce4372a",
+            "balance": 18966.98,
+            "transactions": [
+                {
+                    "date": "2023-01-09",
+                    "description": "Interest",
+                    "amount": 1994.06,
+                    "transaction_id": 9287910
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Withdrawal",
+                    "amount": 35601.08,
+                    "transaction_id": 71188934
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Laura Thompson",
+        "age": 61,
+        "gender": "male",
+        "address": "29013 Kari Groves, Port Johnville, MT 33790",
+        "phone": "(378)632-1034x80656",
+        "email": "rachel16@example.com",
+        "account": {
+            "account_number": "8dd2d57d-3552-4d1d-9510-34fd53a56f61",
+            "balance": 23683.68,
+            "transactions": [
+                {
+                    "date": "2023-04-28",
+                    "description": "Withdrawal",
+                    "amount": 37610.18,
+                    "transaction_id": 25544054
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Interest",
+                    "amount": 23538.9,
+                    "transaction_id": 41761763
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Interest",
+                    "amount": 3228.02,
+                    "transaction_id": 7380745
+                }
+            ]
+        }
+    }
+}

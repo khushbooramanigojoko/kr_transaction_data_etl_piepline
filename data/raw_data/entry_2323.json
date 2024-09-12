@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Chad Willis",
+        "age": 20,
+        "gender": "male",
+        "address": "8806 Davis Key Apt. 618, Markton, WA 72936",
+        "phone": "+1-813-935-6971",
+        "email": "aaron27@example.com",
+        "account": {
+            "account_number": "66814e70-541f-494c-ba00-85e321a3d5b7",
+            "balance": 36811.58,
+            "transactions": [
+                {
+                    "date": "2023-11-16",
+                    "description": "Withdrawal",
+                    "amount": 43553.51,
+                    "transaction_id": 53637701
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Withdrawal",
+                    "amount": 31224.24,
+                    "transaction_id": 33577856
+                },
+                {
+                    "date": "2024-04-19",
+                    "description": "Deposit",
+                    "amount": 22743.85,
+                    "transaction_id": 108881436
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Withdrawal",
+                    "amount": 3809.08,
+                    "transaction_id": 110678761
+                }
+            ]
+        }
+    }
+}

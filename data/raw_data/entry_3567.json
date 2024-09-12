@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Matthew Huang",
+        "age": 68,
+        "gender": "female",
+        "address": "019 Kelly Extensions, Lake Brandonport, NM 68869",
+        "phone": "9292620615",
+        "email": "brendajohns@example.com",
+        "account": {
+            "account_number": "c47bf89c-1b3a-4235-a864-a6815d2e22b2",
+            "balance": 2154.59,
+            "transactions": [
+                {
+                    "date": "2024-03-03",
+                    "description": "Withdrawal",
+                    "amount": 416.08,
+                    "transaction_id": 68062232
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Deposit",
+                    "amount": 37780.71,
+                    "transaction_id": 61876579
+                },
+                {
+                    "date": "2024-08-04",
+                    "description": "Withdrawal",
+                    "amount": 13357.45,
+                    "transaction_id": 69064641
+                },
+                {
+                    "date": "2024-06-28",
+                    "description": "Interest",
+                    "amount": 24089.02,
+                    "transaction_id": 34237558
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Withdrawal",
+                    "amount": 34566.19,
+                    "transaction_id": 1307992
+                }
+            ]
+        }
+    }
+}

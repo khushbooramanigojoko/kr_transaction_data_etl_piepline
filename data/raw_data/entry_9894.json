@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 32,
+        "gender": "female",
+        "address": "682 Sarah Burg Apt. 878, Holmestown, NH 34169",
+        "phone": "001-332-548-0325x56397",
+        "email": "james97@example.org",
+        "account": {
+            "account_number": "641679cc-b67d-4849-ae54-97adda4cf6d3",
+            "balance": 18772.65,
+            "transactions": [
+                {
+                    "date": "2023-01-02",
+                    "description": "Deposit",
+                    "amount": 956.16,
+                    "transaction_id": 78157757
+                },
+                {
+                    "date": "2024-05-06",
+                    "description": "Interest",
+                    "amount": 2807.0,
+                    "transaction_id": 16662363
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Deposit",
+                    "amount": 3898.98,
+                    "transaction_id": 93800450
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Deposit",
+                    "amount": -3333.8,
+                    "transaction_id": 113232168
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Interest",
+                    "amount": 4020.79,
+                    "transaction_id": 60123048
+                }
+            ]
+        }
+    }
+}

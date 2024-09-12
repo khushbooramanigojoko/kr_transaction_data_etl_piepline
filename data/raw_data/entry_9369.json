@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Aaron Sheppard",
+        "age": 30,
+        "gender": "male",
+        "address": "92003 Alvarez Mews Suite 957, Johnsonland, IA 73425",
+        "phone": "001-812-373-8279",
+        "email": "johnvalencia@example.org",
+        "account": {
+            "account_number": "39f5cbde-c3bc-454a-82ca-509417db1889",
+            "balance": -48127.28,
+            "transactions": [
+                {
+                    "date": "2024-07-22",
+                    "description": "Interest",
+                    "amount": -2125.82,
+                    "transaction_id": 103205203
+                },
+                {
+                    "date": "2023-05-16",
+                    "description": "Interest",
+                    "amount": -3977.01,
+                    "transaction_id": 84820640
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Interest",
+                    "amount": 713.81,
+                    "transaction_id": 95035411
+                }
+            ]
+        }
+    }
+}

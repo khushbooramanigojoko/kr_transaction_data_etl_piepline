@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Emily Gilbert",
+        "age": 23,
+        "gender": "male",
+        "address": "552 Gray Well, Lake Shane, NE 29485",
+        "phone": "(787)418-6020x52454",
+        "email": "laura71@example.org",
+        "account": {
+            "account_number": "ff447b8d-0ec1-4d0e-9c82-24971db23868",
+            "balance": -31602.07,
+            "transactions": [
+                {
+                    "date": "2024-07-28",
+                    "description": "Interest",
+                    "amount": 2453.47,
+                    "transaction_id": 49921371
+                }
+            ]
+        }
+    }
+}

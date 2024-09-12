@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kelly Hale",
+        "age": 65,
+        "gender": "male",
+        "address": "3578 Nicholas Centers, Port Linda, CO 87588",
+        "phone": "(438)464-2149x1386",
+        "email": "tammymccarthy@example.net",
+        "account": {
+            "account_number": "c1467ce7-98e4-4b2d-b9ae-bc78e62a4a48",
+            "balance": -24333.43,
+            "transactions": [
+                {
+                    "date": "2023-10-21",
+                    "description": "Interest",
+                    "amount": 2010.86,
+                    "transaction_id": 63936012
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Interest",
+                    "amount": 2847.0,
+                    "transaction_id": 70388863
+                }
+            ]
+        }
+    }
+}

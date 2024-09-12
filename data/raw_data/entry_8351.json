@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Matthew Turner",
+        "age": 71,
+        "gender": "male",
+        "address": "532 Mccormick Point, Carlosport, WV 10160",
+        "phone": "+1-328-599-0144x5953",
+        "email": "evan22@example.org",
+        "account": {
+            "account_number": "846e86b9-c422-428c-ab50-3370927775b3",
+            "balance": 41395.71,
+            "transactions": [
+                {
+                    "date": "2024-07-28",
+                    "description": "Withdrawal",
+                    "amount": 29264.51,
+                    "transaction_id": 30167903
+                },
+                {
+                    "date": "2023-02-18",
+                    "description": "Withdrawal",
+                    "amount": 4461.08,
+                    "transaction_id": 100401868
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Interest",
+                    "amount": 47385.4,
+                    "transaction_id": 92338471
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Deposit",
+                    "amount": 24150.13,
+                    "transaction_id": 10696275
+                }
+            ]
+        }
+    }
+}

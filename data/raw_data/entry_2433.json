@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Roger Velez",
+        "age": 21,
+        "gender": "female",
+        "address": "32796 Timothy Mountain, New Bernardfort, GU 95449",
+        "phone": "+1-232-989-2281x22655",
+        "email": "curtisharris@example.com",
+        "account": {
+            "account_number": "68c40528-1522-4b51-905c-f04de971a14d",
+            "balance": 32060.28,
+            "transactions": [
+                {
+                    "date": "2022-12-09",
+                    "description": "Interest",
+                    "amount": 8083.94,
+                    "transaction_id": 33888371
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Deposit",
+                    "amount": 30807.42,
+                    "transaction_id": 119880544
+                },
+                {
+                    "date": "2023-04-22",
+                    "description": "Interest",
+                    "amount": 35355.51,
+                    "transaction_id": 43810621
+                },
+                {
+                    "date": "2023-09-02",
+                    "description": "Deposit",
+                    "amount": 27257.28,
+                    "transaction_id": 26536928
+                }
+            ]
+        }
+    }
+}

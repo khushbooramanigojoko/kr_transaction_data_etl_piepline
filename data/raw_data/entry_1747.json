@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Richard Bryan",
+        "age": 62,
+        "gender": "female",
+        "address": "509 Johnson Field, Lake Mauricebury, LA 59484",
+        "phone": "(661)939-8956x198",
+        "email": "brandi57@example.com",
+        "account": {
+            "account_number": "33eea10b-c2dd-4819-8298-6e4352e0262c",
+            "balance": 39004.74,
+            "transactions": [
+                {
+                    "date": "2022-11-24",
+                    "description": "Withdrawal",
+                    "amount": 40336.24,
+                    "transaction_id": 96295828
+                },
+                {
+                    "date": "2023-07-25",
+                    "description": "Withdrawal",
+                    "amount": 31706.35,
+                    "transaction_id": 40466439
+                },
+                {
+                    "date": "2023-03-23",
+                    "description": "Withdrawal",
+                    "amount": 35528.37,
+                    "transaction_id": 62331475
+                },
+                {
+                    "date": "2023-05-06",
+                    "description": "Withdrawal",
+                    "amount": 40189.18,
+                    "transaction_id": 12071584
+                }
+            ]
+        }
+    }
+}

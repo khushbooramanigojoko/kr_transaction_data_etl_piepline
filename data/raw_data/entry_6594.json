@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brittany Robinson",
+        "age": 57,
+        "gender": "female",
+        "address": "82626 Chad Cove, Lake Kathleen, GA 31618",
+        "phone": "711-906-5147x0637",
+        "email": "susanchristensen@example.org",
+        "account": {
+            "account_number": "a79c3c86-1278-4636-831e-a69bf6f12f10",
+            "balance": 43279.27,
+            "transactions": [
+                {
+                    "date": "2024-01-23",
+                    "description": "Withdrawal",
+                    "amount": 24116.7,
+                    "transaction_id": 10760807
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Deposit",
+                    "amount": 47535.41,
+                    "transaction_id": 11192390
+                },
+                {
+                    "date": "2023-12-20",
+                    "description": "Withdrawal",
+                    "amount": 6817.66,
+                    "transaction_id": 70452726
+                },
+                {
+                    "date": "2023-02-23",
+                    "description": "Withdrawal",
+                    "amount": 37313.46,
+                    "transaction_id": 32417338
+                }
+            ]
+        }
+    }
+}

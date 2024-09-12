@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 20,
+        "gender": "male",
+        "address": "485 Snyder Port Apt. 128, East Andrea, ND 18910",
+        "phone": "541-835-5761",
+        "email": "conleykimberly@example.net",
+        "account": {
+            "account_number": "e82d8e2b-bcbc-4266-b715-ebdb2820f432",
+            "balance": 41214.07,
+            "transactions": [
+                {
+                    "date": "2023-05-08",
+                    "description": "Withdrawal",
+                    "amount": 2374.11,
+                    "transaction_id": 105457193
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Deposit",
+                    "amount": 3426.21,
+                    "transaction_id": 14130385
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Withdrawal",
+                    "amount": 1433.89,
+                    "transaction_id": 117988517
+                },
+                {
+                    "date": "2024-07-26",
+                    "description": "Withdrawal",
+                    "amount": -1746.58,
+                    "transaction_id": 21958004
+                }
+            ]
+        }
+    }
+}

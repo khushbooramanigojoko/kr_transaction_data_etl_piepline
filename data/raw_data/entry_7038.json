@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Daniel Patrick",
+        "age": 98,
+        "gender": "female",
+        "address": "059 Monica Prairie, Benjaminbury, AR 88405",
+        "phone": "+1-503-562-6050x5822",
+        "email": "wanderson@example.org",
+        "account": {
+            "account_number": "bda3abb7-522b-4e44-8595-cb752205b78b",
+            "balance": 23262.49,
+            "transactions": [
+                {
+                    "date": "2024-07-26",
+                    "description": "Interest",
+                    "amount": 37021.49,
+                    "transaction_id": 107073344
+                },
+                {
+                    "date": "2022-11-24",
+                    "description": "Deposit",
+                    "amount": 5503.94,
+                    "transaction_id": 5998453
+                }
+            ]
+        }
+    }
+}

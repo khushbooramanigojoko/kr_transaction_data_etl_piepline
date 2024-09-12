@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Carrie Christensen",
+        "age": 90,
+        "gender": "female",
+        "address": "Unit 7559 Box 5951, DPO AP 83685",
+        "phone": "+1-606-905-4412x6131",
+        "email": "stacey31@example.com",
+        "account": {
+            "account_number": "e908af01-c6ae-4eba-856b-fce9386ae223",
+            "balance": 32509.22,
+            "transactions": [
+                {
+                    "date": "2023-08-18",
+                    "description": "Interest",
+                    "amount": 47284.78,
+                    "transaction_id": 9931217
+                }
+            ]
+        }
+    }
+}

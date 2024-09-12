@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 91,
+        "gender": "male",
+        "address": "27797 Derrick Mountain, West Nicoleberg, IN 15437",
+        "phone": "001-571-316-5510x6335",
+        "email": "ocoleman@example.net",
+        "account": {
+            "account_number": "b33b6273-3d1d-419d-8daf-540d7851c559",
+            "balance": 13540.95,
+            "transactions": [
+                {
+                    "date": "2024-04-22",
+                    "description": "Interest",
+                    "amount": -3473.32,
+                    "transaction_id": 47961060
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Withdrawal",
+                    "amount": -2047.89,
+                    "transaction_id": 25298142
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Withdrawal",
+                    "amount": 659.41,
+                    "transaction_id": 69750328
+                },
+                {
+                    "date": "2023-03-20",
+                    "description": "Deposit",
+                    "amount": -2571.59,
+                    "transaction_id": 110661423
+                }
+            ]
+        }
+    }
+}

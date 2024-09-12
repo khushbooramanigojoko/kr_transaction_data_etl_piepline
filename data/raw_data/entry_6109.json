@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jacqueline Newton",
+        "age": 40,
+        "gender": "female",
+        "address": "9131 Justin Turnpike, New Nancyview, MS 59124",
+        "phone": "+1-332-562-7596x04105",
+        "email": "courtney76@example.org",
+        "account": {
+            "account_number": "a58996c9-78d3-4103-9e8c-e28e3f1bc915",
+            "balance": 33202.9,
+            "transactions": [
+                {
+                    "date": "2022-11-17",
+                    "description": "Interest",
+                    "amount": 45200.1,
+                    "transaction_id": 108347649
+                }
+            ]
+        }
+    }
+}

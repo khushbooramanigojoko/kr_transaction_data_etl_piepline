@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jeremy Terry",
+        "age": 66,
+        "gender": "male",
+        "address": "249 Curry Brooks, Juliefurt, IA 14915",
+        "phone": "+1-700-422-0007",
+        "email": "kristinadalton@example.org",
+        "account": {
+            "account_number": "2b669524-c3e3-43da-a334-eb71ff8ce7bf",
+            "balance": 40332.11,
+            "transactions": [
+                {
+                    "date": "2024-07-13",
+                    "description": "Deposit",
+                    "amount": 17326.62,
+                    "transaction_id": 27396628
+                },
+                {
+                    "date": "2023-08-06",
+                    "description": "Withdrawal",
+                    "amount": 44247.15,
+                    "transaction_id": 13515039
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Withdrawal",
+                    "amount": 29115.01,
+                    "transaction_id": 16895027
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Withdrawal",
+                    "amount": 30934.71,
+                    "transaction_id": 93647732
+                }
+            ]
+        }
+    }
+}

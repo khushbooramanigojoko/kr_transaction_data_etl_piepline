@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sara Taylor",
+        "age": 82,
+        "gender": "male",
+        "address": "895 Rodriguez Rest Suite 648, Chambersport, NH 66286",
+        "phone": "5924264703",
+        "email": "antonio24@example.net",
+        "account": {
+            "account_number": "80e72341-3066-4be8-9428-ae652bf48bb3",
+            "balance": 8922.1,
+            "transactions": [
+                {
+                    "date": "2024-05-23",
+                    "description": "Withdrawal",
+                    "amount": 29899.01,
+                    "transaction_id": 110046000
+                },
+                {
+                    "date": "2022-09-28",
+                    "description": "Withdrawal",
+                    "amount": 23818.62,
+                    "transaction_id": 19509727
+                }
+            ]
+        }
+    }
+}

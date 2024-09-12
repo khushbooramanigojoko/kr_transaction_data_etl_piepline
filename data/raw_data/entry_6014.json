@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jason Valdez",
+        "age": 37,
+        "gender": "male",
+        "address": "06274 Ayala Summit, Nicholasbury, PW 53804",
+        "phone": "+1-641-995-7990",
+        "email": "jarvisdaniel@example.org",
+        "account": {
+            "account_number": "caed46eb-4b4b-49d7-a08c-2c1eece65682",
+            "balance": 42582.65,
+            "transactions": [
+                {
+                    "date": "2022-10-21",
+                    "description": "Withdrawal",
+                    "amount": 2936.21,
+                    "transaction_id": 78825863
+                },
+                {
+                    "date": "2024-08-24",
+                    "description": "Withdrawal",
+                    "amount": 14633.62,
+                    "transaction_id": 83701464
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Withdrawal",
+                    "amount": 33983.82,
+                    "transaction_id": 44312065
+                },
+                {
+                    "date": "2023-11-05",
+                    "description": "Interest",
+                    "amount": 47179.56,
+                    "transaction_id": 73617363
+                }
+            ]
+        }
+    }
+}

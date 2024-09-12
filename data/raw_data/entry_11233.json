@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alice Obrien",
+        "age": 82,
+        "gender": "female",
+        "address": "0988 Hartman Crest Apt. 491, North Jesse, NY 84252",
+        "phone": "561.367.7373x90211",
+        "email": "zgonzales@example.com",
+        "account": {
+            "account_number": "e0a3fd6c-b61f-4ad6-a27c-695651282664",
+            "balance": -2722.92,
+            "transactions": [
+                {
+                    "date": "2024-08-13",
+                    "description": "Deposit",
+                    "amount": -1856.95,
+                    "transaction_id": 111996420
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Interest",
+                    "amount": -114.08,
+                    "transaction_id": 36937693
+                },
+                {
+                    "date": "2024-05-08",
+                    "description": "Interest",
+                    "amount": -4341.03,
+                    "transaction_id": 38988234
+                },
+                {
+                    "date": "2023-01-14",
+                    "description": "Interest",
+                    "amount": -319.54,
+                    "transaction_id": 44566518
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kimberly Barnett",
+        "age": 47,
+        "gender": "female",
+        "address": "913 Riddle Spur Suite 037, Vazquezburgh, WA 15275",
+        "phone": "(950)227-1605x144",
+        "email": "flee@example.org",
+        "account": {
+            "account_number": "128b2bf2-48e7-4e99-8385-c04d774084f6",
+            "balance": 38692.45,
+            "transactions": [
+                {
+                    "date": "2023-10-20",
+                    "description": "Interest",
+                    "amount": 22641.88,
+                    "transaction_id": 70273197
+                }
+            ]
+        }
+    }
+}

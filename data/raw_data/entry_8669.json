@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Thomas Estrada",
+        "age": 18,
+        "gender": "male",
+        "address": "80666 Williams Springs Apt. 058, Ryantown, IA 27601",
+        "phone": "872.765.2929x8494",
+        "email": "kimberlybrown@example.net",
+        "account": {
+            "account_number": "4f6af948-51ce-4132-9228-09fe4c7583b5",
+            "balance": 41820.92,
+            "transactions": [
+                {
+                    "date": "2022-09-24",
+                    "description": "Interest",
+                    "amount": 24955.14,
+                    "transaction_id": 49767440
+                },
+                {
+                    "date": "2023-09-18",
+                    "description": "Interest",
+                    "amount": 34564.84,
+                    "transaction_id": 81870515
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Christina Hickman",
+        "age": 99,
+        "gender": "male",
+        "address": "USNS Smith, FPO AP 60373",
+        "phone": "444-603-4167x065",
+        "email": "thomascynthia@example.org",
+        "account": {
+            "account_number": "666f565e-99bf-40c8-8fad-8c40baf05649",
+            "balance": 33177.48,
+            "transactions": [
+                {
+                    "date": "2022-10-01",
+                    "description": "Interest",
+                    "amount": 10398.05,
+                    "transaction_id": 61285376
+                },
+                {
+                    "date": "2023-01-13",
+                    "description": "Interest",
+                    "amount": 3793.4,
+                    "transaction_id": 7961266
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Withdrawal",
+                    "amount": 4279.95,
+                    "transaction_id": 98250685
+                }
+            ]
+        }
+    }
+}

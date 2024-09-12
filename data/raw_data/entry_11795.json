@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Claudia Chen",
+        "age": 66,
+        "gender": "female",
+        "address": "01077 Karen Alley Suite 220, Darrylbury, VI 25705",
+        "phone": "+1-361-530-3170",
+        "email": "wturner@example.com",
+        "account": {
+            "account_number": "dbc2f948-8909-4374-ae8d-284a6fbe8450",
+            "balance": -46345.03,
+            "transactions": [
+                {
+                    "date": "2023-04-30",
+                    "description": "Interest",
+                    "amount": 3397.68,
+                    "transaction_id": 26200680
+                },
+                {
+                    "date": "2024-07-23",
+                    "description": "Interest",
+                    "amount": 2401.24,
+                    "transaction_id": 109198450
+                },
+                {
+                    "date": "2023-09-08",
+                    "description": "Deposit",
+                    "amount": -1145.11,
+                    "transaction_id": 70243330
+                }
+            ]
+        }
+    }
+}

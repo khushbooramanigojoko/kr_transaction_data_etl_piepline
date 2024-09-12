@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Connie Lewis",
+        "age": 34,
+        "gender": "female",
+        "address": "7181 Linda Club Apt. 329, Port Anthonybury, MO 98167",
+        "phone": "318-715-8529",
+        "email": "mackashley@example.com",
+        "account": {
+            "account_number": "9156d0fb-05e1-4d8d-bc9c-25eb7fc2acdc",
+            "balance": 48576.74,
+            "transactions": [
+                {
+                    "date": "2023-08-21",
+                    "description": "Withdrawal",
+                    "amount": 47084.7,
+                    "transaction_id": 23929113
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Withdrawal",
+                    "amount": 43456.12,
+                    "transaction_id": 57680390
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Interest",
+                    "amount": 883.95,
+                    "transaction_id": 98916076
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Interest",
+                    "amount": 4374.6,
+                    "transaction_id": 53180428
+                }
+            ]
+        }
+    }
+}

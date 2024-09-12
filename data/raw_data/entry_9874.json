@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Angela Weber",
+        "age": 94,
+        "gender": "female",
+        "address": "196 Jorge Flats Apt. 402, East Shaneport, KY 88808",
+        "phone": "+1-484-273-9615x7613",
+        "email": "sarah58@example.org",
+        "account": {
+            "account_number": "26b797eb-08bd-49c5-9f8e-133ec73dd2f1",
+            "balance": -13538.92,
+            "transactions": [
+                {
+                    "date": "2024-01-09",
+                    "description": "Deposit",
+                    "amount": 891.73,
+                    "transaction_id": 98242384
+                },
+                {
+                    "date": "2024-04-19",
+                    "description": "Withdrawal",
+                    "amount": -4144.66,
+                    "transaction_id": 35045910
+                }
+            ]
+        }
+    }
+}

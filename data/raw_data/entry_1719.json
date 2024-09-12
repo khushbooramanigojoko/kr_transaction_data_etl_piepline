@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mary Smith",
+        "age": 56,
+        "gender": "male",
+        "address": "11457 Salas Mills Suite 436, Brianside, RI 65638",
+        "phone": "288.348.2582",
+        "email": "anthonybrittany@example.net",
+        "account": {
+            "account_number": "c21689c9-8200-4135-b099-e2875857594a",
+            "balance": 18033.6,
+            "transactions": [
+                {
+                    "date": "2024-01-09",
+                    "description": "Interest",
+                    "amount": 1640.05,
+                    "transaction_id": 28251629
+                }
+            ]
+        }
+    }
+}

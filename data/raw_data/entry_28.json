@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sara Holland",
+        "age": 50,
+        "gender": "female",
+        "address": "8318 Eric Ford Apt. 785, Saraberg, NJ 80594",
+        "phone": "636-950-0601",
+        "email": "montoyamichael@example.org",
+        "account": {
+            "account_number": "d280d7f4-453e-418d-9220-08d104f7787e",
+            "balance": 16167.54,
+            "transactions": [
+                {
+                    "date": "2023-01-08",
+                    "description": "Interest",
+                    "amount": 47478.89,
+                    "transaction_id": 32882860
+                }
+            ]
+        }
+    }
+}

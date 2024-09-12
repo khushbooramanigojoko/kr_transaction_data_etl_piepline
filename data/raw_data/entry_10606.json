@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Robert Sanders",
+        "age": 75,
+        "gender": "female",
+        "address": "3054 Whitney Falls Apt. 304, West Emily, TX 49108",
+        "phone": "296.509.4750x0811",
+        "email": "lisa39@example.com",
+        "account": {
+            "account_number": "e1bb5cb4-aab5-4e35-805f-36a223e77ca0",
+            "balance": -29036.31,
+            "transactions": [
+                {
+                    "date": "2024-05-30",
+                    "description": "Deposit",
+                    "amount": -3080.28,
+                    "transaction_id": 42814889
+                }
+            ]
+        }
+    }
+}

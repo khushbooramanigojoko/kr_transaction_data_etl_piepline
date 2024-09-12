@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Richard Lopez",
+        "age": 75,
+        "gender": "male",
+        "address": "16901 Leah Plains Suite 362, New Jonathanstad, UT 05756",
+        "phone": "+1-785-688-7131",
+        "email": "vanessa89@example.com",
+        "account": {
+            "account_number": "5afabffc-cf2c-4a3a-a5ec-eff95761b895",
+            "balance": 39218.29,
+            "transactions": [
+                {
+                    "date": "2024-01-16",
+                    "description": "Withdrawal",
+                    "amount": 29298.26,
+                    "transaction_id": 77745034
+                },
+                {
+                    "date": "2024-04-06",
+                    "description": "Deposit",
+                    "amount": 27497.44,
+                    "transaction_id": 35519247
+                }
+            ]
+        }
+    }
+}

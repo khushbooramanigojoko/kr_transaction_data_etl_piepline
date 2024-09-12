@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Rachel Johnson",
+        "age": 26,
+        "gender": "female",
+        "address": "88167 Jones Trail Apt. 370, Michaelbury, VA 03975",
+        "phone": "001-681-624-6067x988",
+        "email": "grayamy@example.net",
+        "account": {
+            "account_number": "71d765ca-5885-4aaf-b8fe-992650746391",
+            "balance": 26407.59,
+            "transactions": [
+                {
+                    "date": "2023-09-22",
+                    "description": "Withdrawal",
+                    "amount": 42234.79,
+                    "transaction_id": 119339642
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Withdrawal",
+                    "amount": 37575.89,
+                    "transaction_id": 79525306
+                },
+                {
+                    "date": "2023-06-04",
+                    "description": "Deposit",
+                    "amount": 40004.76,
+                    "transaction_id": 93039882
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Interest",
+                    "amount": 14849.35,
+                    "transaction_id": 27639560
+                },
+                {
+                    "date": "2023-02-03",
+                    "description": "Withdrawal",
+                    "amount": 15178.91,
+                    "transaction_id": 77559398
+                }
+            ]
+        }
+    }
+}

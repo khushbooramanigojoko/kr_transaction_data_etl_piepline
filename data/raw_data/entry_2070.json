@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christian Williams",
+        "age": 30,
+        "gender": "male",
+        "address": "849 Elizabeth Park Apt. 438, Morrisonhaven, VI 37679",
+        "phone": "998.707.2009x963",
+        "email": "huffchristopher@example.org",
+        "account": {
+            "account_number": "20b94d61-1e2c-45df-a516-0a1e53e1b7c2",
+            "balance": 28000.57,
+            "transactions": [
+                {
+                    "date": "2024-08-01",
+                    "description": "Interest",
+                    "amount": 41816.86,
+                    "transaction_id": 22019424
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Withdrawal",
+                    "amount": 37936.23,
+                    "transaction_id": 69964814
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "female",
+        "address": "421 Zachary Village Apt. 262, East Joshuatown, OH 64877",
+        "phone": "454.808.4558",
+        "email": "deborahjones@example.net",
+        "account": {
+            "account_number": "3ce6d131-01dc-4dd3-bdf2-a430827cc2fd",
+            "balance": 13220.25,
+            "transactions": [
+                {
+                    "date": "2024-07-10",
+                    "description": "Withdrawal",
+                    "amount": 199.81,
+                    "transaction_id": 82051068
+                },
+                {
+                    "date": "2024-06-21",
+                    "description": "Interest",
+                    "amount": 4405.4,
+                    "transaction_id": 42386655
+                },
+                {
+                    "date": "2022-09-17",
+                    "description": "Deposit",
+                    "amount": -2286.07,
+                    "transaction_id": 54193765
+                }
+            ]
+        }
+    }
+}

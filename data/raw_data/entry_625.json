@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michael Spencer",
+        "age": 81,
+        "gender": "female",
+        "address": "35402 Booth Mission Apt. 748, Amandafurt, NV 77470",
+        "phone": "5716010664",
+        "email": "nosborne@example.org",
+        "account": {
+            "account_number": "d3365a63-d8cb-4c4d-8155-722ee90567fa",
+            "balance": 40437.42,
+            "transactions": [
+                {
+                    "date": "2023-10-01",
+                    "description": "Withdrawal",
+                    "amount": 35286.02,
+                    "transaction_id": 110112149
+                }
+            ]
+        }
+    }
+}

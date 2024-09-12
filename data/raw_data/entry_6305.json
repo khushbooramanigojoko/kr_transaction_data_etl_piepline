@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amanda Bradley",
+        "age": 45,
+        "gender": "female",
+        "address": "2332 Michelle Extensions Suite 175, South Nicoleborough, PW 29881",
+        "phone": "5205701966",
+        "email": "perkinsjeremy@example.org",
+        "account": {
+            "account_number": "a3fe90c2-701a-47fd-be62-852ec8571dc8",
+            "balance": 44268.0,
+            "transactions": [
+                {
+                    "date": "2024-08-02",
+                    "description": "Interest",
+                    "amount": 3110.97,
+                    "transaction_id": 79687046
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Interest",
+                    "amount": 18280.12,
+                    "transaction_id": 28700885
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 35,
+        "gender": "male",
+        "address": "92300 Gibbs Mountains, Port Christopherview, MS 55643",
+        "phone": "+1-658-560-9211x00849",
+        "email": "kelly87@example.com",
+        "account": {
+            "account_number": "0c3ec34f-94fa-4c7d-9226-d6216fafa868",
+            "balance": 27508.29,
+            "transactions": [
+                {
+                    "date": "2023-07-18",
+                    "description": "Deposit",
+                    "amount": -4796.22,
+                    "transaction_id": 73515070
+                },
+                {
+                    "date": "2022-10-30",
+                    "description": "Deposit",
+                    "amount": -830.54,
+                    "transaction_id": 14879100
+                },
+                {
+                    "date": "2024-08-29",
+                    "description": "Withdrawal",
+                    "amount": 4316.31,
+                    "transaction_id": 99133762
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Withdrawal",
+                    "amount": -72.26,
+                    "transaction_id": 119036429
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Interest",
+                    "amount": -4110.53,
+                    "transaction_id": 99364883
+                }
+            ]
+        }
+    }
+}

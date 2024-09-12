@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 59,
+        "gender": "male",
+        "address": "5698 Tanner Run Suite 194, Watsonfurt, WY 32734",
+        "phone": "8034320249",
+        "email": "meyerlarry@example.net",
+        "account": {
+            "account_number": "3519e6e9-720a-42b6-a4c0-78287420cd5a",
+            "balance": 26021.71,
+            "transactions": [
+                {
+                    "date": "2024-04-01",
+                    "description": "Deposit",
+                    "amount": -3044.65,
+                    "transaction_id": 64912793
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Withdrawal",
+                    "amount": 30.28,
+                    "transaction_id": 4393735
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Withdrawal",
+                    "amount": -2634.87,
+                    "transaction_id": 91887881
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Withdrawal",
+                    "amount": -2763.67,
+                    "transaction_id": 12741674
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Withdrawal",
+                    "amount": -2210.04,
+                    "transaction_id": 81926853
+                }
+            ]
+        }
+    }
+}

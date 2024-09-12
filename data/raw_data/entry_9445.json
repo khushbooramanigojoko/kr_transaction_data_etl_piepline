@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Samuel Weber",
+        "age": 68,
+        "gender": "female",
+        "address": "2274 Rodriguez Parkway Suite 034, South Ericview, WA 95497",
+        "phone": "750-419-3193x7923",
+        "email": "colemanjulia@example.net",
+        "account": {
+            "account_number": "fb84bdf1-4fc6-4869-bfa4-7723825e1d03",
+            "balance": -10165.68,
+            "transactions": [
+                {
+                    "date": "2022-11-18",
+                    "description": "Withdrawal",
+                    "amount": 1843.79,
+                    "transaction_id": 73557068
+                },
+                {
+                    "date": "2023-11-11",
+                    "description": "Interest",
+                    "amount": -602.03,
+                    "transaction_id": 101863837
+                }
+            ]
+        }
+    }
+}

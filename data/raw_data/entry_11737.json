@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 63,
+        "gender": "male",
+        "address": "PSC 7911, Box 4449, APO AA 58819",
+        "phone": "975-794-9953",
+        "email": "amyflores@example.net",
+        "account": {
+            "account_number": "c22eccf7-5d5b-49bf-a16c-c09d01196049",
+            "balance": 32148.81,
+            "transactions": [
+                {
+                    "date": "2023-09-28",
+                    "description": "Interest",
+                    "amount": -1113.31,
+                    "transaction_id": 39073914
+                }
+            ]
+        }
+    }
+}

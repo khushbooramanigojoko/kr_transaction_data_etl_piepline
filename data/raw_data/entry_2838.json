@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Hailey Smith",
+        "age": 36,
+        "gender": "male",
+        "address": "841 Hancock Drives, West Barbarafort, RI 81728",
+        "phone": "(793)736-8030",
+        "email": "kelly05@example.com",
+        "account": {
+            "account_number": "1011eec9-3992-4e99-aa81-6e7865f0111c",
+            "balance": 2988.28,
+            "transactions": [
+                {
+                    "date": "2024-07-20",
+                    "description": "Deposit",
+                    "amount": 16811.56,
+                    "transaction_id": 20226923
+                },
+                {
+                    "date": "2024-04-06",
+                    "description": "Withdrawal",
+                    "amount": 41209.89,
+                    "transaction_id": 94495785
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Interest",
+                    "amount": 28865.89,
+                    "transaction_id": 108688213
+                },
+                {
+                    "date": "2023-08-03",
+                    "description": "Deposit",
+                    "amount": 47848.88,
+                    "transaction_id": 33484830
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Interest",
+                    "amount": 30005.86,
+                    "transaction_id": 118812396
+                }
+            ]
+        }
+    }
+}

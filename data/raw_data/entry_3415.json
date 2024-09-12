@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sandra Jones",
+        "age": 66,
+        "gender": "male",
+        "address": "5240 Kevin Locks, West Jaclyn, MA 62672",
+        "phone": "216.962.8799",
+        "email": "uayala@example.com",
+        "account": {
+            "account_number": "cdd81d89-ce5f-43b7-9fc9-f285a25cce1e",
+            "balance": 48905.13,
+            "transactions": [
+                {
+                    "date": "2023-01-08",
+                    "description": "Withdrawal",
+                    "amount": 22356.45,
+                    "transaction_id": 70730288
+                },
+                {
+                    "date": "2022-09-30",
+                    "description": "Deposit",
+                    "amount": 9556.39,
+                    "transaction_id": 52283468
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Interest",
+                    "amount": 4862.49,
+                    "transaction_id": 78516539
+                }
+            ]
+        }
+    }
+}

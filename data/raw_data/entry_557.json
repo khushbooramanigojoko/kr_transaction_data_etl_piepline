@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Shannon Stevens",
+        "age": 86,
+        "gender": "male",
+        "address": "934 Wagner Cape Suite 200, West Pamela, MT 10317",
+        "phone": "+1-945-919-1403x62932",
+        "email": "zunigadavid@example.net",
+        "account": {
+            "account_number": "70850a50-861f-4f81-9c11-f6c389c83087",
+            "balance": 16356.12,
+            "transactions": [
+                {
+                    "date": "2023-05-07",
+                    "description": "Interest",
+                    "amount": 34084.68,
+                    "transaction_id": 57135000
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Interest",
+                    "amount": 39393.06,
+                    "transaction_id": 45142875
+                }
+            ]
+        }
+    }
+}

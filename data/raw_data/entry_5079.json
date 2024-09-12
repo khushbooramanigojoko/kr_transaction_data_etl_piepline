@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sean Schmidt",
+        "age": 46,
+        "gender": "female",
+        "address": "820 Heather Ports, Claytonbury, LA 34136",
+        "phone": "5297018383",
+        "email": "shannonmatthew@example.org",
+        "account": {
+            "account_number": "5eadf221-9f56-4e5b-ae98-26b4423e4283",
+            "balance": 30784.64,
+            "transactions": [
+                {
+                    "date": "2024-03-06",
+                    "description": "Withdrawal",
+                    "amount": 20494.87,
+                    "transaction_id": 47837126
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Withdrawal",
+                    "amount": 5964.61,
+                    "transaction_id": 4244334
+                }
+            ]
+        }
+    }
+}

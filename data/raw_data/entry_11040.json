@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 60,
+        "gender": "male",
+        "address": "Unit 3191 Box 4788, DPO AA 15789",
+        "phone": "7608481809",
+        "email": "nicoledecker@example.net",
+        "account": {
+            "account_number": "a95ccfbe-389a-46de-86a3-40b63a2bba1d",
+            "balance": 36530.55,
+            "transactions": [
+                {
+                    "date": "2023-02-22",
+                    "description": "Interest",
+                    "amount": -560.8,
+                    "transaction_id": 88205613
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 65,
+        "gender": "female",
+        "address": "320 Curtis Falls Apt. 519, Lake Linda, SC 01822",
+        "phone": "591.508.4584",
+        "email": "michelleevans@example.net",
+        "account": {
+            "account_number": "68794525-f1dc-442e-88df-71f5606eadb4",
+            "balance": 48740.96,
+            "transactions": [
+                {
+                    "date": "2024-05-15",
+                    "description": "Deposit",
+                    "amount": -841.11,
+                    "transaction_id": 45926299
+                }
+            ]
+        }
+    }
+}

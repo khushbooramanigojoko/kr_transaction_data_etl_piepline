@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Nixon",
+        "age": 56,
+        "gender": "female",
+        "address": "632 Shari Circles, Brendaside, OK 11487",
+        "phone": "215.461.7715x93129",
+        "email": "carriemartinez@example.com",
+        "account": {
+            "account_number": "7e03082d-db57-4a22-8323-60f8875948f0",
+            "balance": 11548.99,
+            "transactions": [
+                {
+                    "date": "2023-09-06",
+                    "description": "Withdrawal",
+                    "amount": 4682.24,
+                    "transaction_id": 109566081
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Withdrawal",
+                    "amount": 35230.11,
+                    "transaction_id": 56204384
+                },
+                {
+                    "date": "2022-12-25",
+                    "description": "Withdrawal",
+                    "amount": 37203.47,
+                    "transaction_id": 50455350
+                },
+                {
+                    "date": "2022-09-29",
+                    "description": "Withdrawal",
+                    "amount": 49827.35,
+                    "transaction_id": 34781963
+                },
+                {
+                    "date": "2022-10-11",
+                    "description": "Deposit",
+                    "amount": 12834.42,
+                    "transaction_id": 86552978
+                }
+            ]
+        }
+    }
+}

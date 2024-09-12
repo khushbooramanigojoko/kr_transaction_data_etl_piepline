@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jennifer Young",
+        "age": 27,
+        "gender": "male",
+        "address": "46022 Jacob Spring, Linshire, MO 05111",
+        "phone": "001-818-392-9720x8795",
+        "email": "hcastro@example.net",
+        "account": {
+            "account_number": "67f4ecf1-bfd6-4b6f-9aa3-9cbc898ac3c9",
+            "balance": 4718.27,
+            "transactions": [
+                {
+                    "date": "2023-11-16",
+                    "description": "Deposit",
+                    "amount": 34786.44,
+                    "transaction_id": 2578329
+                },
+                {
+                    "date": "2023-08-28",
+                    "description": "Withdrawal",
+                    "amount": 16402.19,
+                    "transaction_id": 79339126
+                },
+                {
+                    "date": "2023-07-03",
+                    "description": "Withdrawal",
+                    "amount": 47479.91,
+                    "transaction_id": 70425757
+                }
+            ]
+        }
+    }
+}

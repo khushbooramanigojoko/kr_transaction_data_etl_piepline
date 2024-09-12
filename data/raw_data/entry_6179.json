@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Crystal Ortiz",
+        "age": 89,
+        "gender": "female",
+        "address": "Unit 0037 Box 2644, DPO AP 30088",
+        "phone": "325-682-9291x1157",
+        "email": "christopherflowers@example.com",
+        "account": {
+            "account_number": "50af9410-4a66-4b3e-bfce-f56540ed0595",
+            "balance": 36030.07,
+            "transactions": [
+                {
+                    "date": "2023-12-07",
+                    "description": "Withdrawal",
+                    "amount": 19009.1,
+                    "transaction_id": 60916288
+                },
+                {
+                    "date": "2024-04-23",
+                    "description": "Deposit",
+                    "amount": 29799.61,
+                    "transaction_id": 83481162
+                }
+            ]
+        }
+    }
+}

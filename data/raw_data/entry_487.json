@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dawn Moore",
+        "age": 83,
+        "gender": "male",
+        "address": "462 Thompson Terrace Apt. 958, Jasonmouth, SD 73475",
+        "phone": "933.875.3943x619",
+        "email": "tranthomas@example.com",
+        "account": {
+            "account_number": "699a0a38-3596-4b16-860b-7c1f98c7fe3a",
+            "balance": 46638.17,
+            "transactions": [
+                {
+                    "date": "2023-06-24",
+                    "description": "Deposit",
+                    "amount": 12023.53,
+                    "transaction_id": 71339152
+                }
+            ]
+        }
+    }
+}

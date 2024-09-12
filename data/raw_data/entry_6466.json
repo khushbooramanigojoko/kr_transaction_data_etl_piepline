@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tammy Thompson",
+        "age": 30,
+        "gender": "female",
+        "address": "Unit 5120 Box 7172, DPO AP 69808",
+        "phone": "237-881-5261x8560",
+        "email": "tammy52@example.com",
+        "account": {
+            "account_number": "7b417315-8bc6-431d-863a-dc488d62f632",
+            "balance": 34847.97,
+            "transactions": [
+                {
+                    "date": "2024-03-20",
+                    "description": "Withdrawal",
+                    "amount": 32141.85,
+                    "transaction_id": 117841427
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Deposit",
+                    "amount": 2205.6,
+                    "transaction_id": 110767936
+                },
+                {
+                    "date": "2022-09-19",
+                    "description": "Deposit",
+                    "amount": 45052.83,
+                    "transaction_id": 49520064
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Withdrawal",
+                    "amount": 26054.71,
+                    "transaction_id": 43401505
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Interest",
+                    "amount": 35248.05,
+                    "transaction_id": 117145333
+                }
+            ]
+        }
+    }
+}

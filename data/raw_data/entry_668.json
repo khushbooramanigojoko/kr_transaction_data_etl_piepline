@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Samuel Rhodes",
+        "age": 26,
+        "gender": "male",
+        "address": "Unit 9199 Box 5156, DPO AA 90315",
+        "phone": "001-492-885-2438x962",
+        "email": "michael80@example.net",
+        "account": {
+            "account_number": "65141d55-5dd8-467f-8a36-9719c2868f22",
+            "balance": 41853.01,
+            "transactions": [
+                {
+                    "date": "2023-07-18",
+                    "description": "Interest",
+                    "amount": 3855.25,
+                    "transaction_id": 83907846
+                },
+                {
+                    "date": "2024-02-25",
+                    "description": "Deposit",
+                    "amount": 410.33,
+                    "transaction_id": 18334231
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Interest",
+                    "amount": 14661.62,
+                    "transaction_id": 97755535
+                },
+                {
+                    "date": "2023-09-10",
+                    "description": "Withdrawal",
+                    "amount": 26708.23,
+                    "transaction_id": 56363645
+                }
+            ]
+        }
+    }
+}

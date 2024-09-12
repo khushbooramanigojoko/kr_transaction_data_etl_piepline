@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 48,
+        "gender": "female",
+        "address": "USNS Tyler, FPO AP 60752",
+        "phone": "+1-716-392-1067x423",
+        "email": "robert52@example.net",
+        "account": {
+            "account_number": "6b157a87-bdf0-409c-bf40-0ff134adcdf9",
+            "balance": 34656.9,
+            "transactions": [
+                {
+                    "date": "2024-07-29",
+                    "description": "Interest",
+                    "amount": -2028.06,
+                    "transaction_id": 65492474
+                }
+            ]
+        }
+    }
+}

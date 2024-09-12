@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jennifer Sandoval",
+        "age": 49,
+        "gender": "female",
+        "address": "9801 David Landing, Port Fred, AS 60766",
+        "phone": "941.748.0675x8989",
+        "email": "kenneth39@example.org",
+        "account": {
+            "account_number": "47a29487-ed27-4e7f-bbe6-8e9e757ecd17",
+            "balance": 47696.02,
+            "transactions": [
+                {
+                    "date": "2024-04-22",
+                    "description": "Interest",
+                    "amount": 2036.41,
+                    "transaction_id": 40837250
+                }
+            ]
+        }
+    }
+}

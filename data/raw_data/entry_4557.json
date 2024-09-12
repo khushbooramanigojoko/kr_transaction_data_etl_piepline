@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Steven Tucker",
+        "age": 73,
+        "gender": "female",
+        "address": "218 Daniel Stream Apt. 684, Normanchester, MD 48843",
+        "phone": "2839123522",
+        "email": "stevenscharles@example.net",
+        "account": {
+            "account_number": "33eb51b9-b53b-4121-ae68-e9c553b82d11",
+            "balance": 46563.4,
+            "transactions": [
+                {
+                    "date": "2022-11-14",
+                    "description": "Withdrawal",
+                    "amount": 10007.47,
+                    "transaction_id": 29984189
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Interest",
+                    "amount": 24917.56,
+                    "transaction_id": 69918814
+                },
+                {
+                    "date": "2024-02-21",
+                    "description": "Withdrawal",
+                    "amount": 46654.47,
+                    "transaction_id": 100831790
+                },
+                {
+                    "date": "2024-04-04",
+                    "description": "Withdrawal",
+                    "amount": 41707.07,
+                    "transaction_id": 65763921
+                },
+                {
+                    "date": "2023-11-05",
+                    "description": "Interest",
+                    "amount": 18298.25,
+                    "transaction_id": 29384670
+                }
+            ]
+        }
+    }
+}

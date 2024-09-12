@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Laura Mullins",
+        "age": 93,
+        "gender": "female",
+        "address": "302 Alexis Views Suite 215, Lake Daniellebury, MA 98084",
+        "phone": "7057655830",
+        "email": "heathashley@example.org",
+        "account": {
+            "account_number": "14b4ec0e-d8bd-451d-ad08-fe3766ddfc78",
+            "balance": 13427.2,
+            "transactions": [
+                {
+                    "date": "2022-09-21",
+                    "description": "Interest",
+                    "amount": 47235.98,
+                    "transaction_id": 65352254
+                },
+                {
+                    "date": "2023-11-28",
+                    "description": "Deposit",
+                    "amount": 7759.42,
+                    "transaction_id": 24371603
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "George Baxter",
+        "age": 41,
+        "gender": "male",
+        "address": "19787 Contreras Dam, Lauraland, SC 62511",
+        "phone": "(286)947-4830x17611",
+        "email": "xcalderon@example.com",
+        "account": {
+            "account_number": "b03bc099-d248-480b-b43e-7ee7c45cb506",
+            "balance": 33691.59,
+            "transactions": [
+                {
+                    "date": "2023-05-30",
+                    "description": "Interest",
+                    "amount": 16949.95,
+                    "transaction_id": 49611662
+                },
+                {
+                    "date": "2023-02-05",
+                    "description": "Withdrawal",
+                    "amount": 42985.13,
+                    "transaction_id": 70716853
+                },
+                {
+                    "date": "2024-04-24",
+                    "description": "Deposit",
+                    "amount": 18285.7,
+                    "transaction_id": 65087864
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Withdrawal",
+                    "amount": 38192.88,
+                    "transaction_id": 60148121
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Interest",
+                    "amount": 44401.42,
+                    "transaction_id": 68084273
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rachel Edwards",
+        "age": 57,
+        "gender": "female",
+        "address": "5502 Abigail Street Suite 685, Campbellstad, MN 66781",
+        "phone": "5058842914",
+        "email": "matthew17@example.org",
+        "account": {
+            "account_number": "7f6f6c59-74fc-4455-8166-f6db63508d91",
+            "balance": -33223.07,
+            "transactions": [
+                {
+                    "date": "2023-02-06",
+                    "description": "Interest",
+                    "amount": -900.99,
+                    "transaction_id": 109349722
+                }
+            ]
+        }
+    }
+}

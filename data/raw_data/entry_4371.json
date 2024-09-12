@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amanda Jones",
+        "age": 95,
+        "gender": "female",
+        "address": "7203 Oliver Gateway, East Johnton, MO 07810",
+        "phone": "862.376.6216",
+        "email": "heather12@example.net",
+        "account": {
+            "account_number": "2181c822-553d-4670-a477-dc4a788ea2ca",
+            "balance": 15860.69,
+            "transactions": [
+                {
+                    "date": "2022-12-03",
+                    "description": "Interest",
+                    "amount": 4999.61,
+                    "transaction_id": 69882610
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Deposit",
+                    "amount": 23703.75,
+                    "transaction_id": 104126165
+                }
+            ]
+        }
+    }
+}

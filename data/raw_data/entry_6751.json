@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kristin Harris",
+        "age": 48,
+        "gender": "male",
+        "address": "960 Harmon Spring Suite 293, Cathymouth, MS 15847",
+        "phone": "001-941-758-7876x8165",
+        "email": "scottnicholas@example.net",
+        "account": {
+            "account_number": "ba46849e-30cb-4ce0-8b94-747193fd189e",
+            "balance": 36351.97,
+            "transactions": [
+                {
+                    "date": "2024-08-07",
+                    "description": "Deposit",
+                    "amount": 25383.75,
+                    "transaction_id": 63024895
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Withdrawal",
+                    "amount": 38553.1,
+                    "transaction_id": 32160130
+                },
+                {
+                    "date": "2023-06-04",
+                    "description": "Withdrawal",
+                    "amount": 39925.12,
+                    "transaction_id": 94813219
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Interest",
+                    "amount": 7846.41,
+                    "transaction_id": 30467576
+                }
+            ]
+        }
+    }
+}

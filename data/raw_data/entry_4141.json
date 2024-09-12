@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Dr. Duane Morales PhD",
+        "age": 43,
+        "gender": "female",
+        "address": "1534 John Ville Apt. 322, North Anthonyport, PR 62432",
+        "phone": "001-315-910-6803",
+        "email": "fhamilton@example.org",
+        "account": {
+            "account_number": "c80aee96-92ff-4055-8110-b8f3747bfebb",
+            "balance": 21146.95,
+            "transactions": [
+                {
+                    "date": "2023-02-28",
+                    "description": "Interest",
+                    "amount": 26808.75,
+                    "transaction_id": 51622759
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Deposit",
+                    "amount": 5699.35,
+                    "transaction_id": 83453218
+                }
+            ]
+        }
+    }
+}

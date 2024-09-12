@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Robin Abbott",
+        "age": 27,
+        "gender": "male",
+        "address": "08661 Lloyd Gardens, Fletcherborough, HI 83798",
+        "phone": "(900)575-3747",
+        "email": "galvanjanice@example.net",
+        "account": {
+            "account_number": "ec7ed0f1-1c5a-4103-8d05-d630f040fa72",
+            "balance": 42639.43,
+            "transactions": [
+                {
+                    "date": "2023-04-07",
+                    "description": "Deposit",
+                    "amount": 30615.59,
+                    "transaction_id": 20808326
+                },
+                {
+                    "date": "2024-08-23",
+                    "description": "Deposit",
+                    "amount": 36692.02,
+                    "transaction_id": 72854097
+                }
+            ]
+        }
+    }
+}

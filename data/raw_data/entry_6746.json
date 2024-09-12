@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brandon Moon",
+        "age": 40,
+        "gender": "female",
+        "address": "525 Kevin Road, Saraport, MO 72721",
+        "phone": "518.718.0613",
+        "email": "johnsalazar@example.net",
+        "account": {
+            "account_number": "51450457-4f38-4aa0-904f-3bd1c47dd68e",
+            "balance": 16838.83,
+            "transactions": [
+                {
+                    "date": "2022-12-20",
+                    "description": "Withdrawal",
+                    "amount": 7674.83,
+                    "transaction_id": 9358453
+                },
+                {
+                    "date": "2022-11-05",
+                    "description": "Deposit",
+                    "amount": 24659.35,
+                    "transaction_id": 75565944
+                },
+                {
+                    "date": "2024-08-20",
+                    "description": "Deposit",
+                    "amount": 48235.99,
+                    "transaction_id": 110544165
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Withdrawal",
+                    "amount": 19862.94,
+                    "transaction_id": 33870024
+                }
+            ]
+        }
+    }
+}

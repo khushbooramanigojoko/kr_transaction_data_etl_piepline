@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joshua Leblanc",
+        "age": 20,
+        "gender": "male",
+        "address": "4218 Samantha Stream, Andrewchester, CA 66863",
+        "phone": "(336)589-5276",
+        "email": "keith80@example.org",
+        "account": {
+            "account_number": "92aedf57-6ddc-47b5-beb4-19bc1a17323a",
+            "balance": 32508.31,
+            "transactions": [
+                {
+                    "date": "2024-02-03",
+                    "description": "Deposit",
+                    "amount": 49437.78,
+                    "transaction_id": 32084683
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Interest",
+                    "amount": 8737.65,
+                    "transaction_id": 35575873
+                }
+            ]
+        }
+    }
+}

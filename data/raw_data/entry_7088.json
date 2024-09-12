@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Laura Sellers",
+        "age": 52,
+        "gender": "male",
+        "address": "3447 Micheal Falls, South Gregoryview, CA 80703",
+        "phone": "(915)749-9296x56575",
+        "email": "sjackson@example.com",
+        "account": {
+            "account_number": "675ae5a7-60a2-44a9-a9d5-80a24d2920c3",
+            "balance": 38957.98,
+            "transactions": [
+                {
+                    "date": "2024-04-07",
+                    "description": "Deposit",
+                    "amount": 48717.98,
+                    "transaction_id": 29256029
+                },
+                {
+                    "date": "2023-09-24",
+                    "description": "Interest",
+                    "amount": 49821.51,
+                    "transaction_id": 41229633
+                },
+                {
+                    "date": "2023-10-05",
+                    "description": "Withdrawal",
+                    "amount": 730.59,
+                    "transaction_id": 34040717
+                }
+            ]
+        }
+    }
+}

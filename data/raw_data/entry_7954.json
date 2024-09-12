@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Connie Jenkins",
+        "age": 58,
+        "gender": "female",
+        "address": "04362 Webb Plaza, Nathanielborough, AK 33635",
+        "phone": "5226708031",
+        "email": "warrenlisa@example.net",
+        "account": {
+            "account_number": "017b7b5d-0ab7-4d61-83de-3133e83938a0",
+            "balance": 38957.92,
+            "transactions": [
+                {
+                    "date": "2024-01-29",
+                    "description": "Interest",
+                    "amount": 7538.74,
+                    "transaction_id": 20452128
+                },
+                {
+                    "date": "2023-01-26",
+                    "description": "Deposit",
+                    "amount": 42401.26,
+                    "transaction_id": 13312679
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Withdrawal",
+                    "amount": 34378.84,
+                    "transaction_id": 110494378
+                },
+                {
+                    "date": "2024-08-17",
+                    "description": "Interest",
+                    "amount": 10862.92,
+                    "transaction_id": 107752493
+                }
+            ]
+        }
+    }
+}

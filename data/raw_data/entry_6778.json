@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jessica Benjamin",
+        "age": 19,
+        "gender": "female",
+        "address": "72384 Melvin Cliffs Suite 724, East Holly, NJ 28202",
+        "phone": "(577)738-4497",
+        "email": "veronicagarcia@example.com",
+        "account": {
+            "account_number": "eb83ee11-b699-4d03-91db-e326ad47f8f0",
+            "balance": 40980.83,
+            "transactions": [
+                {
+                    "date": "2023-02-25",
+                    "description": "Interest",
+                    "amount": 43175.9,
+                    "transaction_id": 27851643
+                }
+            ]
+        }
+    }
+}

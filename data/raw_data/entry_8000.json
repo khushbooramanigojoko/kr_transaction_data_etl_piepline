@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Adam Oconnor",
+        "age": 18,
+        "gender": "female",
+        "address": "1074 Marissa Dam Apt. 735, East Michael, NY 54614",
+        "phone": "732.688.5197x5606",
+        "email": "james34@example.org",
+        "account": {
+            "account_number": "72f55dc9-8bc7-48aa-81ea-1544755332d6",
+            "balance": 38468.18,
+            "transactions": [
+                {
+                    "date": "2022-09-29",
+                    "description": "Deposit",
+                    "amount": 11289.16,
+                    "transaction_id": 53037890
+                },
+                {
+                    "date": "2023-05-21",
+                    "description": "Withdrawal",
+                    "amount": 35140.99,
+                    "transaction_id": 90742519
+                },
+                {
+                    "date": "2023-10-21",
+                    "description": "Withdrawal",
+                    "amount": 15936.64,
+                    "transaction_id": 105719638
+                },
+                {
+                    "date": "2024-07-24",
+                    "description": "Interest",
+                    "amount": 45196.91,
+                    "transaction_id": 114636574
+                }
+            ]
+        }
+    }
+}

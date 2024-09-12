@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Steven White",
+        "age": 59,
+        "gender": "male",
+        "address": "4496 Craig Oval, Lopezchester, NH 78692",
+        "phone": "001-465-336-7819x7153",
+        "email": "nmonroe@example.com",
+        "account": {
+            "account_number": "58a32984-31ca-4bfd-a170-46091473d0d8",
+            "balance": -34794.25,
+            "transactions": [
+                {
+                    "date": "2023-12-08",
+                    "description": "Withdrawal",
+                    "amount": 4329.58,
+                    "transaction_id": 4525624
+                },
+                {
+                    "date": "2024-01-08",
+                    "description": "Interest",
+                    "amount": -1319.05,
+                    "transaction_id": 105526644
+                }
+            ]
+        }
+    }
+}

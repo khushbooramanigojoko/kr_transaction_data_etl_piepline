@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Adam Carr",
+        "age": 80,
+        "gender": "male",
+        "address": "0421 Haney Squares, Port Michaeltown, TX 43461",
+        "phone": "(764)720-5996x900",
+        "email": "madeline79@example.net",
+        "account": {
+            "account_number": "b0e19abd-558b-45a3-8bfd-d02bd547b9f0",
+            "balance": 17242.09,
+            "transactions": [
+                {
+                    "date": "2024-08-19",
+                    "description": "Withdrawal",
+                    "amount": 14994.32,
+                    "transaction_id": 40514957
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Benjamin Rubio",
+        "age": 78,
+        "gender": "female",
+        "address": "672 Brittany Parks, Lake Jeff, PR 19661",
+        "phone": "+1-876-997-3041x63747",
+        "email": "wharris@example.org",
+        "account": {
+            "account_number": "676916e9-9514-4bd0-85c2-f6d97e10701b",
+            "balance": 17054.02,
+            "transactions": [
+                {
+                    "date": "2024-05-19",
+                    "description": "Interest",
+                    "amount": 48616.91,
+                    "transaction_id": 27684003
+                },
+                {
+                    "date": "2023-05-10",
+                    "description": "Deposit",
+                    "amount": 20028.84,
+                    "transaction_id": 100660471
+                },
+                {
+                    "date": "2022-10-12",
+                    "description": "Deposit",
+                    "amount": 28485.69,
+                    "transaction_id": 87389192
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Interest",
+                    "amount": 46275.04,
+                    "transaction_id": 8471304
+                },
+                {
+                    "date": "2023-03-23",
+                    "description": "Withdrawal",
+                    "amount": 40455.91,
+                    "transaction_id": 63619369
+                }
+            ]
+        }
+    }
+}

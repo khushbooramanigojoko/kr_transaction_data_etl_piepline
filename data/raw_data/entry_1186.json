@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amanda Zimmerman",
+        "age": 95,
+        "gender": "male",
+        "address": "3843 Riddle View Apt. 453, Andersonville, OK 92017",
+        "phone": "001-263-620-2326x23820",
+        "email": "browncynthia@example.org",
+        "account": {
+            "account_number": "f7c1ea6f-b57b-4fea-980a-e0cfed6427fa",
+            "balance": 8885.25,
+            "transactions": [
+                {
+                    "date": "2023-03-04",
+                    "description": "Withdrawal",
+                    "amount": 20699.23,
+                    "transaction_id": 61710012
+                },
+                {
+                    "date": "2024-03-30",
+                    "description": "Deposit",
+                    "amount": 10004.19,
+                    "transaction_id": 4443090
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Withdrawal",
+                    "amount": 8287.32,
+                    "transaction_id": 38740940
+                },
+                {
+                    "date": "2023-08-24",
+                    "description": "Withdrawal",
+                    "amount": 10461.76,
+                    "transaction_id": 86867394
+                }
+            ]
+        }
+    }
+}

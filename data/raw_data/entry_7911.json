@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sarah Lewis",
+        "age": 76,
+        "gender": "male",
+        "address": "69141 Torres Hollow, Christopherchester, NM 31049",
+        "phone": "(515)972-7008x651",
+        "email": "johnjefferson@example.org",
+        "account": {
+            "account_number": "7405035b-07df-4e75-8086-2c7502527c17",
+            "balance": 21595.78,
+            "transactions": [
+                {
+                    "date": "2023-03-02",
+                    "description": "Deposit",
+                    "amount": 28978.08,
+                    "transaction_id": 65220325
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Interest",
+                    "amount": 33109.74,
+                    "transaction_id": 101823915
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Interest",
+                    "amount": 49653.73,
+                    "transaction_id": 50258589
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Deposit",
+                    "amount": 49523.14,
+                    "transaction_id": 33206712
+                },
+                {
+                    "date": "2024-02-25",
+                    "description": "Deposit",
+                    "amount": 6114.65,
+                    "transaction_id": 48471684
+                }
+            ]
+        }
+    }
+}

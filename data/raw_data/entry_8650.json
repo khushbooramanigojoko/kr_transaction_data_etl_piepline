@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Amanda Solis",
+        "age": 65,
+        "gender": "female",
+        "address": "9408 Combs Wall, Trevormouth, MH 42834",
+        "phone": "(232)370-8156x0915",
+        "email": "marshlaurie@example.org",
+        "account": {
+            "account_number": "14264394-e87d-43bb-bfaa-f7f06711b6d2",
+            "balance": 15858.87,
+            "transactions": [
+                {
+                    "date": "2022-11-23",
+                    "description": "Deposit",
+                    "amount": 17647.54,
+                    "transaction_id": 12040032
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Withdrawal",
+                    "amount": 41477.59,
+                    "transaction_id": 119762829
+                },
+                {
+                    "date": "2023-01-06",
+                    "description": "Withdrawal",
+                    "amount": 35521.33,
+                    "transaction_id": 93959791
+                }
+            ]
+        }
+    }
+}

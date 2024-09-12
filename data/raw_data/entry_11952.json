@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Morgan Campbell DDS",
+        "age": 50,
+        "gender": "female",
+        "address": "741 Stevens Dale, Ronaldport, MI 74746",
+        "phone": "264.677.9018x38593",
+        "email": "kbowers@example.net",
+        "account": {
+            "account_number": "baa26782-a258-46c4-8b0b-19ade54ea75a",
+            "balance": 34616.9,
+            "transactions": [
+                {
+                    "date": "2023-08-29",
+                    "description": "Deposit",
+                    "amount": 28396.76,
+                    "transaction_id": 84759847
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Interest",
+                    "amount": 12805.64,
+                    "transaction_id": 45933513
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Withdrawal",
+                    "amount": 35873.09,
+                    "transaction_id": 18049115
+                }
+            ]
+        }
+    }
+}

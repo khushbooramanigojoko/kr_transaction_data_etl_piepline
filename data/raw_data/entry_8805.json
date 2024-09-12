@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Karen Ortiz",
+        "age": 93,
+        "gender": "female",
+        "address": "72120 Harris Plains, North Nicholas, FM 85408",
+        "phone": "508.692.8349x267",
+        "email": "rwhite@example.org",
+        "account": {
+            "account_number": "7ea8e2d2-076a-4181-9592-7d18c651323a",
+            "balance": -47169.44,
+            "transactions": [
+                {
+                    "date": "2023-02-17",
+                    "description": "Withdrawal",
+                    "amount": 2414.43,
+                    "transaction_id": 77947993
+                },
+                {
+                    "date": "2024-07-21",
+                    "description": "Deposit",
+                    "amount": -2203.42,
+                    "transaction_id": 20612223
+                },
+                {
+                    "date": "2023-07-21",
+                    "description": "Deposit",
+                    "amount": -355.8,
+                    "transaction_id": 75470016
+                },
+                {
+                    "date": "2023-06-25",
+                    "description": "Withdrawal",
+                    "amount": 1583.09,
+                    "transaction_id": 42145776
+                },
+                {
+                    "date": "2022-09-14",
+                    "description": "Deposit",
+                    "amount": -735.31,
+                    "transaction_id": 68846057
+                }
+            ]
+        }
+    }
+}

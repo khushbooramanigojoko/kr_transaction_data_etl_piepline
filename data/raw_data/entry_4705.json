@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Harry Costa",
+        "age": 19,
+        "gender": "male",
+        "address": "457 Harrison Squares Apt. 942, North Summerport, NM 99346",
+        "phone": "808-477-5705",
+        "email": "garydavis@example.net",
+        "account": {
+            "account_number": "806e3647-8077-4ccd-a39a-251bfe7fc3ef",
+            "balance": 27488.56,
+            "transactions": [
+                {
+                    "date": "2022-10-13",
+                    "description": "Withdrawal",
+                    "amount": 34962.99,
+                    "transaction_id": 71344420
+                }
+            ]
+        }
+    }
+}

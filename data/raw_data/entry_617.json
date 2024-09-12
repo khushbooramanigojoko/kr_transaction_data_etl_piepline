@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joseph Nichols",
+        "age": 63,
+        "gender": "male",
+        "address": "86451 Charlene Field Suite 084, Rebeccaberg, NY 53592",
+        "phone": "7009894049",
+        "email": "rita15@example.org",
+        "account": {
+            "account_number": "f87e24f0-e90d-436e-b6cb-f99fa5122d6f",
+            "balance": 36038.51,
+            "transactions": [
+                {
+                    "date": "2023-06-04",
+                    "description": "Withdrawal",
+                    "amount": 35416.41,
+                    "transaction_id": 103239771
+                },
+                {
+                    "date": "2024-08-22",
+                    "description": "Deposit",
+                    "amount": 36617.52,
+                    "transaction_id": 7960017
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Deposit",
+                    "amount": 11855.64,
+                    "transaction_id": 60496834
+                }
+            ]
+        }
+    }
+}

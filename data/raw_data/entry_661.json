@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Melissa Adams",
+        "age": 31,
+        "gender": "female",
+        "address": "USNV Jimenez, FPO AP 88675",
+        "phone": "328-201-9675",
+        "email": "jamiehernandez@example.org",
+        "account": {
+            "account_number": "29011b49-9b3a-4dbf-8377-adaae2ccbea3",
+            "balance": 44558.08,
+            "transactions": [
+                {
+                    "date": "2022-10-10",
+                    "description": "Deposit",
+                    "amount": 36524.01,
+                    "transaction_id": 87063132
+                }
+            ]
+        }
+    }
+}

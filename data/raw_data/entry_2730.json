@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Matthew Holder",
+        "age": 64,
+        "gender": "female",
+        "address": "04187 Eric Camp Apt. 534, Josephmouth, WY 71090",
+        "phone": "849-741-1515x20396",
+        "email": "rmurphy@example.com",
+        "account": {
+            "account_number": "be50933c-57d4-4993-b950-c32de2acbc92",
+            "balance": 24883.41,
+            "transactions": [
+                {
+                    "date": "2023-07-10",
+                    "description": "Deposit",
+                    "amount": 16669.94,
+                    "transaction_id": 79835334
+                }
+            ]
+        }
+    }
+}

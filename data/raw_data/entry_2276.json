@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dawn Malone",
+        "age": 77,
+        "gender": "female",
+        "address": "167 Michelle Lane Apt. 189, Campbellberg, CA 46876",
+        "phone": "379.524.8154x266",
+        "email": "vmorales@example.org",
+        "account": {
+            "account_number": "459c0f5d-964f-4b59-8e15-b9e906e1831b",
+            "balance": 46512.13,
+            "transactions": [
+                {
+                    "date": "2024-02-26",
+                    "description": "Interest",
+                    "amount": 19303.75,
+                    "transaction_id": 32304046
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Deposit",
+                    "amount": 20113.52,
+                    "transaction_id": 38977269
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Interest",
+                    "amount": 27555.57,
+                    "transaction_id": 106323904
+                },
+                {
+                    "date": "2023-02-13",
+                    "description": "Withdrawal",
+                    "amount": 28986.24,
+                    "transaction_id": 84977935
+                },
+                {
+                    "date": "2024-03-09",
+                    "description": "Deposit",
+                    "amount": 47151.25,
+                    "transaction_id": 12181596
+                }
+            ]
+        }
+    }
+}

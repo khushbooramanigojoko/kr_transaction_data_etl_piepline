@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Robert Garcia",
+        "age": 63,
+        "gender": "male",
+        "address": "67658 Michael Stream Apt. 276, Lake Dustinmouth, VA 95587",
+        "phone": "+1-386-566-3439x905",
+        "email": "umcmahon@example.net",
+        "account": {
+            "account_number": "f7352ea5-2dfe-46a3-ab29-fc22de12533f",
+            "balance": 12879.41,
+            "transactions": [
+                {
+                    "date": "2022-09-06",
+                    "description": "Interest",
+                    "amount": 38201.32,
+                    "transaction_id": 20320561
+                }
+            ]
+        }
+    }
+}

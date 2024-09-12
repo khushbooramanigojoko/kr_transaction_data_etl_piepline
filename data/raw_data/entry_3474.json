@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christine Bell",
+        "age": 93,
+        "gender": "female",
+        "address": "30630 Michael Parkway Apt. 146, Johnsonstad, MT 86715",
+        "phone": "(533)692-7088",
+        "email": "jamesburnett@example.net",
+        "account": {
+            "account_number": "b4c4a132-4504-409b-9052-1e6162832f4d",
+            "balance": 26483.92,
+            "transactions": [
+                {
+                    "date": "2024-02-14",
+                    "description": "Interest",
+                    "amount": 14458.3,
+                    "transaction_id": 3212604
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ashley Brock MD",
+        "age": 93,
+        "gender": "female",
+        "address": "0309 Bowman Estate Apt. 545, North Mackenziestad, SC 86595",
+        "phone": "991-683-2128x14558",
+        "email": "iwilson@example.org",
+        "account": {
+            "account_number": "6200bbc1-1206-477c-9a31-533734e5218e",
+            "balance": 16472.22,
+            "transactions": [
+                {
+                    "date": "2023-12-27",
+                    "description": "Interest",
+                    "amount": 11487.03,
+                    "transaction_id": 45995138
+                }
+            ]
+        }
+    }
+}

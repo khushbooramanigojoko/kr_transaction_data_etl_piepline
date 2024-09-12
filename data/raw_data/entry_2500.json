@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Casey Hudson",
+        "age": 27,
+        "gender": "female",
+        "address": "8647 Eric Stravenue, South Craig, MI 08339",
+        "phone": "001-373-240-2383",
+        "email": "nrodriguez@example.org",
+        "account": {
+            "account_number": "1a57d83f-1dd7-44c4-8ff0-ddac25a17205",
+            "balance": 13902.73,
+            "transactions": [
+                {
+                    "date": "2023-08-10",
+                    "description": "Withdrawal",
+                    "amount": 8770.93,
+                    "transaction_id": 112335967
+                },
+                {
+                    "date": "2024-05-19",
+                    "description": "Interest",
+                    "amount": 37934.04,
+                    "transaction_id": 107592445
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Deposit",
+                    "amount": 22285.16,
+                    "transaction_id": 28613486
+                }
+            ]
+        }
+    }
+}

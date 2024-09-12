@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "John Villarreal",
+        "age": 79,
+        "gender": "female",
+        "address": "82614 Gray Grove Suite 999, Christopherberg, RI 83246",
+        "phone": "+1-562-861-9912x4174",
+        "email": "davidrowe@example.org",
+        "account": {
+            "account_number": "e2c30324-4941-4829-b654-837455f20333",
+            "balance": 37711.12,
+            "transactions": [
+                {
+                    "date": "2024-07-23",
+                    "description": "Deposit",
+                    "amount": 1805.86,
+                    "transaction_id": 90861104
+                }
+            ]
+        }
+    }
+}

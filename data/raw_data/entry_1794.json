@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mark Hamilton",
+        "age": 18,
+        "gender": "female",
+        "address": "746 Jim Turnpike, Douglasport, AK 72279",
+        "phone": "001-742-685-0983x384",
+        "email": "ashleygeorge@example.net",
+        "account": {
+            "account_number": "69a66283-8e58-472f-aa22-0c80f66a5173",
+            "balance": 49853.71,
+            "transactions": [
+                {
+                    "date": "2023-10-25",
+                    "description": "Withdrawal",
+                    "amount": 18085.53,
+                    "transaction_id": 27403448
+                },
+                {
+                    "date": "2024-01-19",
+                    "description": "Interest",
+                    "amount": 22948.78,
+                    "transaction_id": 27600421
+                },
+                {
+                    "date": "2023-01-07",
+                    "description": "Interest",
+                    "amount": 21119.43,
+                    "transaction_id": 30139357
+                }
+            ]
+        }
+    }
+}

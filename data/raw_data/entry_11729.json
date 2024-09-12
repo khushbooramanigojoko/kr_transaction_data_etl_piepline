@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "female",
+        "address": "323 Lacey Glen, Jenniferville, MT 01844",
+        "phone": "873-586-9244",
+        "email": "katie59@example.com",
+        "account": {
+            "account_number": "258ea909-7793-4d9d-9adc-2c3891a0eb35",
+            "balance": 38592.5,
+            "transactions": [
+                {
+                    "date": "2024-03-14",
+                    "description": "Withdrawal",
+                    "amount": 1258.95,
+                    "transaction_id": 30168345
+                }
+            ]
+        }
+    }
+}

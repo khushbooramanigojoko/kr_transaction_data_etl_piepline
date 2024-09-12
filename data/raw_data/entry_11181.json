@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kendra Martinez",
+        "age": 86,
+        "gender": "male",
+        "address": "218 James Parkways, Bruceville, IA 34703",
+        "phone": "(660)713-0047x469",
+        "email": "jpearson@example.org",
+        "account": {
+            "account_number": "71a09b7c-b903-43f2-b07d-e05e4e4be33d",
+            "balance": -22562.18,
+            "transactions": [
+                {
+                    "date": "2024-04-14",
+                    "description": "Withdrawal",
+                    "amount": -3603.61,
+                    "transaction_id": 19359761
+                }
+            ]
+        }
+    }
+}

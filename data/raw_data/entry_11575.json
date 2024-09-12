@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 56,
+        "gender": "female",
+        "address": "5291 Martin Bridge Suite 188, Jerryburgh, MI 62185",
+        "phone": "001-963-870-5148x8345",
+        "email": "tterry@example.org",
+        "account": {
+            "account_number": "561564ec-80f6-4378-a9bb-2b2826eaba34",
+            "balance": 33390.81,
+            "transactions": [
+                {
+                    "date": "2024-01-30",
+                    "description": "Withdrawal",
+                    "amount": 2360.11,
+                    "transaction_id": 115712421
+                },
+                {
+                    "date": "2023-05-27",
+                    "description": "Withdrawal",
+                    "amount": -2224.67,
+                    "transaction_id": 5989968
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Withdrawal",
+                    "amount": 3533.95,
+                    "transaction_id": 94676019
+                }
+            ]
+        }
+    }
+}

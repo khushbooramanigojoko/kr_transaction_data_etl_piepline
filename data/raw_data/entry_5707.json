@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Daniel Barron",
+        "age": 51,
+        "gender": "female",
+        "address": "54208 Mays Streets Apt. 118, Chavezmouth, ND 78942",
+        "phone": "(385)809-7973",
+        "email": "allisonmiles@example.net",
+        "account": {
+            "account_number": "07e29537-e483-41bf-a143-36923f43f8b4",
+            "balance": 15183.44,
+            "transactions": [
+                {
+                    "date": "2024-03-12",
+                    "description": "Withdrawal",
+                    "amount": 21621.22,
+                    "transaction_id": 14834948
+                }
+            ]
+        }
+    }
+}

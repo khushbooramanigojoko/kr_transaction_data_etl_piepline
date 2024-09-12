@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Hicks",
+        "age": 72,
+        "gender": "female",
+        "address": "42864 Holland Manor Suite 998, South Thomashaven, SC 78421",
+        "phone": "497-928-5035x0602",
+        "email": "kaitlynscott@example.net",
+        "account": {
+            "account_number": "eaf2b9d3-8c72-4384-89c3-251651c529bb",
+            "balance": -23656.78,
+            "transactions": [
+                {
+                    "date": "2023-02-17",
+                    "description": "Withdrawal",
+                    "amount": -2908.06,
+                    "transaction_id": 7769399
+                },
+                {
+                    "date": "2024-02-18",
+                    "description": "Interest",
+                    "amount": 4364.63,
+                    "transaction_id": 14527032
+                },
+                {
+                    "date": "2024-05-27",
+                    "description": "Interest",
+                    "amount": -12.91,
+                    "transaction_id": 5218262
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Interest",
+                    "amount": 4196.74,
+                    "transaction_id": 67372369
+                }
+            ]
+        }
+    }
+}

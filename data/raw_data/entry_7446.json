@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Natasha Salazar DDS",
+        "age": 87,
+        "gender": "male",
+        "address": "Unit 4262 Box 2370, DPO AE 64330",
+        "phone": "5159258861",
+        "email": "stonekevin@example.com",
+        "account": {
+            "account_number": "70f7a5de-c3da-4c54-b914-6894f07f1f19",
+            "balance": 3641.36,
+            "transactions": [
+                {
+                    "date": "2024-01-20",
+                    "description": "Withdrawal",
+                    "amount": 21660.76,
+                    "transaction_id": 35264290
+                }
+            ]
+        }
+    }
+}

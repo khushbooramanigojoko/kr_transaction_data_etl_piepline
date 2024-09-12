@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Zachary Perkins",
+        "age": 68,
+        "gender": "female",
+        "address": "834 Anderson Extension Apt. 255, East Lisa, MA 90886",
+        "phone": "001-316-797-1062x44393",
+        "email": "ortizcharles@example.com",
+        "account": {
+            "account_number": "a32f4c99-6548-4e5b-82a8-b40d1d028ac0",
+            "balance": 40161.28,
+            "transactions": [
+                {
+                    "date": "2023-11-11",
+                    "description": "Interest",
+                    "amount": 47171.16,
+                    "transaction_id": 74483408
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kevin Carey",
+        "age": 98,
+        "gender": "female",
+        "address": "8448 Parker Street Suite 634, East Catherine, PR 49204",
+        "phone": "(519)772-3096x591",
+        "email": "gbaker@example.net",
+        "account": {
+            "account_number": "5e3e981f-d068-41d8-bceb-8e9d79e9636d",
+            "balance": 44685.73,
+            "transactions": [
+                {
+                    "date": "2022-09-26",
+                    "description": "Interest",
+                    "amount": 2107.9,
+                    "transaction_id": 107327254
+                },
+                {
+                    "date": "2023-07-25",
+                    "description": "Withdrawal",
+                    "amount": 38353.06,
+                    "transaction_id": 49135178
+                },
+                {
+                    "date": "2022-11-21",
+                    "description": "Deposit",
+                    "amount": 6500.54,
+                    "transaction_id": 19797896
+                }
+            ]
+        }
+    }
+}

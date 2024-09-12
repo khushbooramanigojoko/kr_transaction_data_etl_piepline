@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Zachary Galvan",
+        "age": 35,
+        "gender": "male",
+        "address": "72482 Soto Plain Apt. 396, Port Elizabeth, MD 93663",
+        "phone": "001-778-793-6691x2691",
+        "email": "hartmansarah@example.com",
+        "account": {
+            "account_number": "b3ccabef-b528-4733-a21c-25f289cfdb9b",
+            "balance": -197.21,
+            "transactions": [
+                {
+                    "date": "2023-04-12",
+                    "description": "Deposit",
+                    "amount": 4528.81,
+                    "transaction_id": 88843175
+                },
+                {
+                    "date": "2023-12-11",
+                    "description": "Interest",
+                    "amount": -130.3,
+                    "transaction_id": 91928639
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jennifer Wright",
+        "age": 65,
+        "gender": "female",
+        "address": "543 Cassandra Forge, Rebeccahaven, GU 82123",
+        "phone": "(728)292-2117x38064",
+        "email": "eddiesmith@example.com",
+        "account": {
+            "account_number": "dc0b0c2c-3de9-4b1b-8af0-2b503a22def9",
+            "balance": 46601.47,
+            "transactions": [
+                {
+                    "date": "2023-03-22",
+                    "description": "Withdrawal",
+                    "amount": 7489.79,
+                    "transaction_id": 36346154
+                },
+                {
+                    "date": "2023-07-26",
+                    "description": "Withdrawal",
+                    "amount": 15691.25,
+                    "transaction_id": 49510493
+                },
+                {
+                    "date": "2023-05-21",
+                    "description": "Withdrawal",
+                    "amount": 44340.18,
+                    "transaction_id": 87808673
+                },
+                {
+                    "date": "2023-01-23",
+                    "description": "Interest",
+                    "amount": 40310.66,
+                    "transaction_id": 98775134
+                }
+            ]
+        }
+    }
+}

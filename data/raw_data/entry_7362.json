@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jose Harris",
+        "age": 82,
+        "gender": "male",
+        "address": "6212 Lang Knolls, Lake Andrew, NY 03863",
+        "phone": "851-547-8928x6126",
+        "email": "darren80@example.net",
+        "account": {
+            "account_number": "6055c3ee-3019-4739-bda5-fed92d8358e5",
+            "balance": 32849.25,
+            "transactions": [
+                {
+                    "date": "2024-01-06",
+                    "description": "Withdrawal",
+                    "amount": 17068.85,
+                    "transaction_id": 4819872
+                },
+                {
+                    "date": "2023-03-24",
+                    "description": "Withdrawal",
+                    "amount": 3816.04,
+                    "transaction_id": 74502835
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Interest",
+                    "amount": 25668.65,
+                    "transaction_id": 83813014
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Interest",
+                    "amount": 33005.31,
+                    "transaction_id": 104247746
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Deposit",
+                    "amount": 47641.7,
+                    "transaction_id": 116830771
+                }
+            ]
+        }
+    }
+}

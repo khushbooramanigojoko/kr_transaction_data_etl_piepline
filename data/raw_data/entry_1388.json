@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Bullock",
+        "age": 38,
+        "gender": "male",
+        "address": "734 Margaret Village, Lake Kenneth, IL 89916",
+        "phone": "001-772-407-7513x55147",
+        "email": "robertstephens@example.com",
+        "account": {
+            "account_number": "bfebc27d-7ef7-4600-993f-4a65c92515d3",
+            "balance": 1851.46,
+            "transactions": [
+                {
+                    "date": "2024-02-03",
+                    "description": "Deposit",
+                    "amount": 7194.83,
+                    "transaction_id": 1875547
+                },
+                {
+                    "date": "2023-08-07",
+                    "description": "Deposit",
+                    "amount": 10822.25,
+                    "transaction_id": 54738621
+                },
+                {
+                    "date": "2024-06-14",
+                    "description": "Deposit",
+                    "amount": 9094.9,
+                    "transaction_id": 86677455
+                },
+                {
+                    "date": "2023-02-18",
+                    "description": "Interest",
+                    "amount": 20905.74,
+                    "transaction_id": 105198906
+                },
+                {
+                    "date": "2023-03-27",
+                    "description": "Interest",
+                    "amount": 45781.92,
+                    "transaction_id": 102657381
+                }
+            ]
+        }
+    }
+}

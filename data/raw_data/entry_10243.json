@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 88,
+        "gender": "male",
+        "address": "758 Joseph Spring Suite 752, West Angelashire, RI 06320",
+        "phone": "001-395-525-1994x2172",
+        "email": "david51@example.org",
+        "account": {
+            "account_number": "f49d04d2-d327-4e75-ad7b-30c856671d66",
+            "balance": 23140.31,
+            "transactions": [
+                {
+                    "date": "2023-01-01",
+                    "description": "Interest",
+                    "amount": -693.04,
+                    "transaction_id": 97073331
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Withdrawal",
+                    "amount": 4286.62,
+                    "transaction_id": 106118721
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Deposit",
+                    "amount": -354.08,
+                    "transaction_id": 28198467
+                }
+            ]
+        }
+    }
+}

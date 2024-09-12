@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Aaron Sanchez",
+        "age": 99,
+        "gender": "female",
+        "address": "21486 Scott View Suite 722, Danielsport, KS 55656",
+        "phone": "+1-650-605-1594x097",
+        "email": "hensonbrian@example.com",
+        "account": {
+            "account_number": "f0c23dd9-a6ab-4632-9187-3032ca5137a4",
+            "balance": 16118.2,
+            "transactions": [
+                {
+                    "date": "2024-04-11",
+                    "description": "Withdrawal",
+                    "amount": 26661.85,
+                    "transaction_id": 102872002
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Withdrawal",
+                    "amount": 7536.15,
+                    "transaction_id": 10078347
+                },
+                {
+                    "date": "2024-04-14",
+                    "description": "Interest",
+                    "amount": 15885.69,
+                    "transaction_id": 80702478
+                },
+                {
+                    "date": "2023-04-30",
+                    "description": "Deposit",
+                    "amount": 38821.56,
+                    "transaction_id": 43377528
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Withdrawal",
+                    "amount": 43802.34,
+                    "transaction_id": 118188963
+                }
+            ]
+        }
+    }
+}

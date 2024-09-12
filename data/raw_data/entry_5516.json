@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Heather Monroe",
+        "age": 53,
+        "gender": "male",
+        "address": "357 Melissa Rapid, Port Brucetown, TN 68207",
+        "phone": "679-307-5038x585",
+        "email": "thowell@example.org",
+        "account": {
+            "account_number": "354b5130-0395-40c7-b454-a73853b3f249",
+            "balance": 47417.14,
+            "transactions": [
+                {
+                    "date": "2022-09-14",
+                    "description": "Interest",
+                    "amount": 6422.47,
+                    "transaction_id": 86642669
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Deposit",
+                    "amount": 1696.14,
+                    "transaction_id": 69025815
+                },
+                {
+                    "date": "2023-06-05",
+                    "description": "Withdrawal",
+                    "amount": 32293.12,
+                    "transaction_id": 37197879
+                },
+                {
+                    "date": "2023-03-26",
+                    "description": "Deposit",
+                    "amount": 45382.12,
+                    "transaction_id": 58612306
+                },
+                {
+                    "date": "2024-03-01",
+                    "description": "Withdrawal",
+                    "amount": 20467.09,
+                    "transaction_id": 49380840
+                }
+            ]
+        }
+    }
+}

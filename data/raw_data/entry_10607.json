@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Scott Wright",
+        "age": 93,
+        "gender": "female",
+        "address": "48247 Stephen Trafficway, South Rhondamouth, GU 91751",
+        "phone": "001-357-716-2570",
+        "email": "marcus84@example.com",
+        "account": {
+            "account_number": "6f709263-c6dc-4c61-a22a-16e7c0a727d8",
+            "balance": -14250.6,
+            "transactions": [
+                {
+                    "date": "2024-07-01",
+                    "description": "Deposit",
+                    "amount": 3010.8,
+                    "transaction_id": 37499956
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Withdrawal",
+                    "amount": 1109.46,
+                    "transaction_id": 59154920
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Withdrawal",
+                    "amount": 357.75,
+                    "transaction_id": 56885194
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Withdrawal",
+                    "amount": -3940.58,
+                    "transaction_id": 71079818
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Withdrawal",
+                    "amount": 2835.74,
+                    "transaction_id": 44983268
+                }
+            ]
+        }
+    }
+}

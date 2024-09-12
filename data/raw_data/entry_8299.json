@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Denise Anderson",
+        "age": 46,
+        "gender": "female",
+        "address": "770 Crane Forges, Collierside, NY 65218",
+        "phone": "5504157135",
+        "email": "whitetina@example.com",
+        "account": {
+            "account_number": "11d8f9bc-51e8-43a9-af44-16bb601f6b0b",
+            "balance": 25047.07,
+            "transactions": [
+                {
+                    "date": "2024-02-05",
+                    "description": "Interest",
+                    "amount": 46624.87,
+                    "transaction_id": 59269709
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Deposit",
+                    "amount": 5461.68,
+                    "transaction_id": 66319042
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Interest",
+                    "amount": 15195.41,
+                    "transaction_id": 60917527
+                },
+                {
+                    "date": "2023-08-18",
+                    "description": "Deposit",
+                    "amount": 12445.56,
+                    "transaction_id": 21864603
+                }
+            ]
+        }
+    }
+}

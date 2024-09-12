@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Zachary Kennedy",
+        "age": 59,
+        "gender": "female",
+        "address": "725 Archer Roads, Angiehaven, PA 34606",
+        "phone": "749-551-7010x9082",
+        "email": "josephgonzales@example.net",
+        "account": {
+            "account_number": "a1d3a8c8-65e7-4a47-aac3-7967a5161b08",
+            "balance": 3420.0,
+            "transactions": [
+                {
+                    "date": "2024-03-17",
+                    "description": "Interest",
+                    "amount": 42716.82,
+                    "transaction_id": 106088205
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Deposit",
+                    "amount": 9765.2,
+                    "transaction_id": 86223025
+                },
+                {
+                    "date": "2023-10-19",
+                    "description": "Deposit",
+                    "amount": 30607.1,
+                    "transaction_id": 77002483
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Interest",
+                    "amount": 11867.05,
+                    "transaction_id": 105929231
+                }
+            ]
+        }
+    }
+}

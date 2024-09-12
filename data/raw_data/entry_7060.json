@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michelle Bennett DVM",
+        "age": 29,
+        "gender": "female",
+        "address": "463 Jeffrey Fork Suite 049, Kiaraberg, DC 10538",
+        "phone": "001-984-461-1508",
+        "email": "sarah32@example.org",
+        "account": {
+            "account_number": "1a5d0ce9-3bdf-4571-a155-bd3dcbf236b1",
+            "balance": 48056.01,
+            "transactions": [
+                {
+                    "date": "2024-01-25",
+                    "description": "Deposit",
+                    "amount": 12290.53,
+                    "transaction_id": 110941743
+                },
+                {
+                    "date": "2023-06-05",
+                    "description": "Deposit",
+                    "amount": 37434.73,
+                    "transaction_id": 6111166
+                },
+                {
+                    "date": "2023-09-21",
+                    "description": "Deposit",
+                    "amount": 11928.34,
+                    "transaction_id": 53021959
+                },
+                {
+                    "date": "2022-11-11",
+                    "description": "Deposit",
+                    "amount": 11991.73,
+                    "transaction_id": 71140417
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Shawn Sawyer",
+        "age": 72,
+        "gender": "female",
+        "address": "599 Amber Divide, New Richardmouth, GA 42107",
+        "phone": "(543)986-7459x8216",
+        "email": "colleencole@example.net",
+        "account": {
+            "account_number": "95af1916-c1f3-44d7-ad09-a39185301ebd",
+            "balance": 49431.04,
+            "transactions": [
+                {
+                    "date": "2024-08-07",
+                    "description": "Deposit",
+                    "amount": 40759.12,
+                    "transaction_id": 18366841
+                }
+            ]
+        }
+    }
+}

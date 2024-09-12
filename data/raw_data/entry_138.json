@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amy Jenkins",
+        "age": 24,
+        "gender": "female",
+        "address": "384 Lawrence Cliffs, Zacharystad, AL 38658",
+        "phone": "3825259244",
+        "email": "leedanny@example.com",
+        "account": {
+            "account_number": "ab01a3ed-6cb5-4efa-8c58-091f57fc832b",
+            "balance": 8026.38,
+            "transactions": [
+                {
+                    "date": "2023-10-05",
+                    "description": "Withdrawal",
+                    "amount": 32916.44,
+                    "transaction_id": 9221765
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Deposit",
+                    "amount": 44383.17,
+                    "transaction_id": 78753519
+                }
+            ]
+        }
+    }
+}

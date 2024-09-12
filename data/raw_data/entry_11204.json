@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lori Hernandez",
+        "age": 76,
+        "gender": "male",
+        "address": "9129 Pamela Crossroad Suite 984, West Derekmouth, SC 38725",
+        "phone": "(992)368-4090x249",
+        "email": "stefaniethomas@example.net",
+        "account": {
+            "account_number": "756e0956-cc38-426e-9a30-37578f7e7ece",
+            "balance": -20477.15,
+            "transactions": [
+                {
+                    "date": "2023-06-11",
+                    "description": "Interest",
+                    "amount": 2245.58,
+                    "transaction_id": 71121386
+                },
+                {
+                    "date": "2023-12-23",
+                    "description": "Withdrawal",
+                    "amount": 3833.28,
+                    "transaction_id": 63756825
+                }
+            ]
+        }
+    }
+}

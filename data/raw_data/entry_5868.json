@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kathy Miller",
+        "age": 81,
+        "gender": "female",
+        "address": "PSC 3137, Box 2332, APO AE 02953",
+        "phone": "+1-531-385-5408x8258",
+        "email": "stephanie44@example.com",
+        "account": {
+            "account_number": "809e20de-918a-458c-b072-b2de15d68f06",
+            "balance": 45327.56,
+            "transactions": [
+                {
+                    "date": "2023-09-09",
+                    "description": "Deposit",
+                    "amount": 37358.83,
+                    "transaction_id": 63398058
+                },
+                {
+                    "date": "2022-09-30",
+                    "description": "Withdrawal",
+                    "amount": 40168.63,
+                    "transaction_id": 32116465
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Deposit",
+                    "amount": 3603.94,
+                    "transaction_id": 111054302
+                },
+                {
+                    "date": "2023-06-29",
+                    "description": "Interest",
+                    "amount": 39991.55,
+                    "transaction_id": 3467898
+                }
+            ]
+        }
+    }
+}

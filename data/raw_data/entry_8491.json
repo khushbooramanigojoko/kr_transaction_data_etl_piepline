@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tracy Robertson",
+        "age": 91,
+        "gender": "male",
+        "address": "26889 Moore Prairie, Davilaland, SC 17031",
+        "phone": "(397)654-0497x9887",
+        "email": "georgejohn@example.org",
+        "account": {
+            "account_number": "c69d40c9-75c6-41d9-b0e4-94fe7ba82af9",
+            "balance": 43759.0,
+            "transactions": [
+                {
+                    "date": "2024-02-14",
+                    "description": "Interest",
+                    "amount": 1124.13,
+                    "transaction_id": 112062354
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Deposit",
+                    "amount": 29048.34,
+                    "transaction_id": 37791635
+                },
+                {
+                    "date": "2023-05-05",
+                    "description": "Withdrawal",
+                    "amount": 34146.78,
+                    "transaction_id": 82347511
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Withdrawal",
+                    "amount": 15158.96,
+                    "transaction_id": 64789282
+                },
+                {
+                    "date": "2023-03-24",
+                    "description": "Withdrawal",
+                    "amount": 37044.82,
+                    "transaction_id": 75558962
+                }
+            ]
+        }
+    }
+}

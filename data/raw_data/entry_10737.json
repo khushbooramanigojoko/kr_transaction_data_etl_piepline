@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Juan Thompson",
+        "age": 89,
+        "gender": "female",
+        "address": "7120 Cindy Lake Suite 657, Lake Crystalhaven, MO 83927",
+        "phone": "+1-973-839-4896x5341",
+        "email": "gregory38@example.org",
+        "account": {
+            "account_number": "cf9b23aa-83d3-4572-b082-d8e9e2b3973d",
+            "balance": -36530.5,
+            "transactions": [
+                {
+                    "date": "2023-06-20",
+                    "description": "Deposit",
+                    "amount": 2883.57,
+                    "transaction_id": 9670334
+                },
+                {
+                    "date": "2023-11-04",
+                    "description": "Deposit",
+                    "amount": 4808.47,
+                    "transaction_id": 73406545
+                }
+            ]
+        }
+    }
+}

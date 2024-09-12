@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Erica Rogers",
+        "age": 99,
+        "gender": "male",
+        "address": "17442 Blackburn Stream Apt. 868, Heidiborough, FM 61780",
+        "phone": "617.371.1030",
+        "email": "psmith@example.com",
+        "account": {
+            "account_number": "d84c99cb-df80-43da-971d-36bc62289bc6",
+            "balance": -28643.83,
+            "transactions": [
+                {
+                    "date": "2023-07-04",
+                    "description": "Interest",
+                    "amount": -4624.5,
+                    "transaction_id": 18166310
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Deposit",
+                    "amount": -2364.3,
+                    "transaction_id": 74163703
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Withdrawal",
+                    "amount": 2179.38,
+                    "transaction_id": 80436643
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Deposit",
+                    "amount": 1897.02,
+                    "transaction_id": 65998238
+                },
+                {
+                    "date": "2023-08-28",
+                    "description": "Interest",
+                    "amount": -2147.31,
+                    "transaction_id": 34500520
+                }
+            ]
+        }
+    }
+}

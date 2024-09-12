@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Morgan DVM",
+        "age": 80,
+        "gender": "male",
+        "address": "48434 Joshua Rapids Suite 882, West Timmouth, VI 04966",
+        "phone": "702-704-0246x8790",
+        "email": "savageronald@example.com",
+        "account": {
+            "account_number": "5dddfc6b-6012-4720-9e0e-5c11d168c248",
+            "balance": 32826.5,
+            "transactions": [
+                {
+                    "date": "2024-03-08",
+                    "description": "Deposit",
+                    "amount": 10408.5,
+                    "transaction_id": 48809598
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Deposit",
+                    "amount": 25376.18,
+                    "transaction_id": 42849527
+                }
+            ]
+        }
+    }
+}

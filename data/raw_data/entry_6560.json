@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Shane Elliott",
+        "age": 34,
+        "gender": "male",
+        "address": "USNS Herrera, FPO AP 46919",
+        "phone": "(317)660-3817x65676",
+        "email": "johnstephens@example.net",
+        "account": {
+            "account_number": "12cc74cc-bbdb-4566-b820-080eaed8e202",
+            "balance": 3447.97,
+            "transactions": [
+                {
+                    "date": "2023-10-10",
+                    "description": "Interest",
+                    "amount": 124.27,
+                    "transaction_id": 36268693
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Withdrawal",
+                    "amount": 14229.75,
+                    "transaction_id": 86633490
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Deposit",
+                    "amount": 2760.58,
+                    "transaction_id": 95547728
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Withdrawal",
+                    "amount": 31921.46,
+                    "transaction_id": 44298638
+                },
+                {
+                    "date": "2023-11-23",
+                    "description": "Deposit",
+                    "amount": 8949.78,
+                    "transaction_id": 73338076
+                }
+            ]
+        }
+    }
+}

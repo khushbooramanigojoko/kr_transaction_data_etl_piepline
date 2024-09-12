@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jonathan Ramirez",
+        "age": 33,
+        "gender": "female",
+        "address": "8571 Buck Ville Suite 899, West Matthewfort, MA 65976",
+        "phone": "7145250349",
+        "email": "wsheppard@example.com",
+        "account": {
+            "account_number": "40fad4f3-d405-45db-b7dd-3bdd62a055e2",
+            "balance": 12557.31,
+            "transactions": [
+                {
+                    "date": "2023-03-26",
+                    "description": "Withdrawal",
+                    "amount": 19990.41,
+                    "transaction_id": 43536835
+                }
+            ]
+        }
+    }
+}

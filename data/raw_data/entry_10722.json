@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kimberly Knight",
+        "age": 22,
+        "gender": "male",
+        "address": "9690 Michael Centers, Staceyhaven, IL 46047",
+        "phone": "(524)407-3774x607",
+        "email": "kevin05@example.com",
+        "account": {
+            "account_number": "976b8fc2-c323-4251-b429-3496ea6ca96c",
+            "balance": -30782.62,
+            "transactions": [
+                {
+                    "date": "2024-05-02",
+                    "description": "Withdrawal",
+                    "amount": -4736.64,
+                    "transaction_id": 73116604
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Interest",
+                    "amount": -4850.63,
+                    "transaction_id": 81046507
+                },
+                {
+                    "date": "2023-05-17",
+                    "description": "Deposit",
+                    "amount": -3359.99,
+                    "transaction_id": 109048383
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Deposit",
+                    "amount": 1650.42,
+                    "transaction_id": 33375026
+                },
+                {
+                    "date": "2023-07-06",
+                    "description": "Withdrawal",
+                    "amount": 2030.73,
+                    "transaction_id": 35742916
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Crystal Campbell",
+        "age": 88,
+        "gender": "female",
+        "address": "648 Candice Mountains Apt. 044, North Jason, TN 77420",
+        "phone": "281.239.8512x7485",
+        "email": "ocastillo@example.net",
+        "account": {
+            "account_number": "147e03a7-62f2-4fd1-935d-e022c857d392",
+            "balance": 35227.72,
+            "transactions": [
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": 36259.55,
+                    "transaction_id": 46037891
+                }
+            ]
+        }
+    }
+}

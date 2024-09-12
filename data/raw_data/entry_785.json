@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Miller",
+        "age": 75,
+        "gender": "male",
+        "address": "41084 Jon Spurs Suite 701, Wadeland, MH 06350",
+        "phone": "869-364-5702x26561",
+        "email": "aaron51@example.org",
+        "account": {
+            "account_number": "f2ec3ee9-c05c-4a6e-8c12-37415a02005a",
+            "balance": 41728.94,
+            "transactions": [
+                {
+                    "date": "2024-01-13",
+                    "description": "Interest",
+                    "amount": 2912.85,
+                    "transaction_id": 36451494
+                },
+                {
+                    "date": "2024-06-01",
+                    "description": "Interest",
+                    "amount": 40266.15,
+                    "transaction_id": 20323355
+                },
+                {
+                    "date": "2024-08-24",
+                    "description": "Deposit",
+                    "amount": 25562.77,
+                    "transaction_id": 59688602
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Withdrawal",
+                    "amount": 47254.4,
+                    "transaction_id": 45145509
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Deposit",
+                    "amount": 38058.66,
+                    "transaction_id": 32331407
+                }
+            ]
+        }
+    }
+}

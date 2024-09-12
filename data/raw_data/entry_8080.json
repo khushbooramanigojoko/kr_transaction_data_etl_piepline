@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Allen Sanchez",
+        "age": 28,
+        "gender": "male",
+        "address": "5067 Chen Pike Suite 588, Barryburgh, ID 11036",
+        "phone": "001-742-246-3018",
+        "email": "heatherlawson@example.com",
+        "account": {
+            "account_number": "79c17daf-273c-4704-885b-c9b6a6141105",
+            "balance": 13232.66,
+            "transactions": [
+                {
+                    "date": "2023-02-17",
+                    "description": "Interest",
+                    "amount": 7156.99,
+                    "transaction_id": 46007247
+                }
+            ]
+        }
+    }
+}

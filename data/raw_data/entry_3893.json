@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Anthony Benson",
+        "age": 48,
+        "gender": "female",
+        "address": "5235 Lewis Lane, Wilsonborough, NY 90547",
+        "phone": "425-859-8712x006",
+        "email": "chernandez@example.net",
+        "account": {
+            "account_number": "c3b95904-b34f-4c38-a0aa-90373f4fe082",
+            "balance": 30735.11,
+            "transactions": [
+                {
+                    "date": "2023-02-03",
+                    "description": "Deposit",
+                    "amount": 43284.97,
+                    "transaction_id": 15865044
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 31,
+        "gender": "female",
+        "address": "17616 Stephens Branch Apt. 859, East Katherine, UT 96230",
+        "phone": "693-496-3752",
+        "email": "umartin@example.org",
+        "account": {
+            "account_number": "83b81d5c-bf39-4b4b-83ca-9443bc24f9d6",
+            "balance": 46451.85,
+            "transactions": [
+                {
+                    "date": "2023-11-16",
+                    "description": "Deposit",
+                    "amount": 1644.87,
+                    "transaction_id": 80426430
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Withdrawal",
+                    "amount": -2528.8,
+                    "transaction_id": 106011690
+                }
+            ]
+        }
+    }
+}

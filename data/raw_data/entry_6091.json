@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Barrett",
+        "age": 58,
+        "gender": "female",
+        "address": "0227 Cochran Glen Apt. 074, Joshuaton, GA 62003",
+        "phone": "296-674-5029x5178",
+        "email": "gfisher@example.org",
+        "account": {
+            "account_number": "b04718d9-4feb-4f7d-ada9-9763da1541fc",
+            "balance": 45928.12,
+            "transactions": [
+                {
+                    "date": "2023-12-03",
+                    "description": "Deposit",
+                    "amount": 45674.02,
+                    "transaction_id": 90338632
+                },
+                {
+                    "date": "2023-07-22",
+                    "description": "Withdrawal",
+                    "amount": 38475.83,
+                    "transaction_id": 50100177
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Deposit",
+                    "amount": 41343.19,
+                    "transaction_id": 22362220
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Deposit",
+                    "amount": 39308.87,
+                    "transaction_id": 52536906
+                }
+            ]
+        }
+    }
+}

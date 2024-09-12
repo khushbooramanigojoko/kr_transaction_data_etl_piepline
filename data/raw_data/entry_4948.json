@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Patricia Foster",
+        "age": 75,
+        "gender": "male",
+        "address": "20315 Schneider Run, Hannahbury, AS 47582",
+        "phone": "553.673.5090",
+        "email": "jamessmith@example.net",
+        "account": {
+            "account_number": "a616dc33-8614-47ee-8a42-79dae35248e3",
+            "balance": 10531.17,
+            "transactions": [
+                {
+                    "date": "2023-09-21",
+                    "description": "Deposit",
+                    "amount": 41443.39,
+                    "transaction_id": 98205638
+                }
+            ]
+        }
+    }
+}

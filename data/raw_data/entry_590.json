@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Daisy Camacho",
+        "age": 19,
+        "gender": "male",
+        "address": "747 Jessica Valley Apt. 385, West Danielchester, FL 52016",
+        "phone": "(963)842-2643",
+        "email": "vasquezsarah@example.org",
+        "account": {
+            "account_number": "5040fe1d-53b9-488b-a94e-dfbc28909376",
+            "balance": 45185.91,
+            "transactions": [
+                {
+                    "date": "2024-04-28",
+                    "description": "Withdrawal",
+                    "amount": 12201.4,
+                    "transaction_id": 6020775
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Deposit",
+                    "amount": 25922.77,
+                    "transaction_id": 109854806
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Deposit",
+                    "amount": 28699.55,
+                    "transaction_id": 59173550
+                },
+                {
+                    "date": "2023-06-09",
+                    "description": "Interest",
+                    "amount": 31057.7,
+                    "transaction_id": 43402840
+                }
+            ]
+        }
+    }
+}

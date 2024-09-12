@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Julie Hughes",
+        "age": 99,
+        "gender": "male",
+        "address": "8718 Destiny Route, Port Deanna, TN 68601",
+        "phone": "7527375809",
+        "email": "staceyrobbins@example.org",
+        "account": {
+            "account_number": "e54370c1-5c99-4ffa-94be-0af81b23597f",
+            "balance": -24801.51,
+            "transactions": [
+                {
+                    "date": "2023-03-13",
+                    "description": "Deposit",
+                    "amount": 2723.83,
+                    "transaction_id": 86437349
+                },
+                {
+                    "date": "2022-11-11",
+                    "description": "Interest",
+                    "amount": 712.97,
+                    "transaction_id": 107548323
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Withdrawal",
+                    "amount": 1037.81,
+                    "transaction_id": 23172431
+                },
+                {
+                    "date": "2023-06-03",
+                    "description": "Deposit",
+                    "amount": -1928.08,
+                    "transaction_id": 73678415
+                }
+            ]
+        }
+    }
+}

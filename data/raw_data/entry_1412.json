@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lauren Sims",
+        "age": 39,
+        "gender": "female",
+        "address": "0996 Smith Road, Johnshire, MD 20348",
+        "phone": "001-439-212-7948x28718",
+        "email": "mitchellandre@example.net",
+        "account": {
+            "account_number": "39a3b2c2-7232-4f68-a0dc-41e88bfb1b16",
+            "balance": 48445.63,
+            "transactions": [
+                {
+                    "date": "2023-01-06",
+                    "description": "Deposit",
+                    "amount": 8037.39,
+                    "transaction_id": 1553395
+                },
+                {
+                    "date": "2022-11-08",
+                    "description": "Interest",
+                    "amount": 47787.26,
+                    "transaction_id": 93184338
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 74,
+        "gender": "female",
+        "address": "4549 White Drives, Port Amy, SD 91476",
+        "phone": "+1-481-895-4391x039",
+        "email": "john53@example.org",
+        "account": {
+            "account_number": "242b0c7a-aef4-4fae-8e62-bcafdf8d2cd2",
+            "balance": 19934.79,
+            "transactions": [
+                {
+                    "date": "2024-06-30",
+                    "description": "Interest",
+                    "amount": 958.72,
+                    "transaction_id": 12356250
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Withdrawal",
+                    "amount": -576.68,
+                    "transaction_id": 85977273
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Interest",
+                    "amount": -2171.49,
+                    "transaction_id": 115104335
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Forbes",
+        "age": 31,
+        "gender": "female",
+        "address": "161 Danielle Creek, Chenport, WY 21379",
+        "phone": "940-345-2631",
+        "email": "susanmaxwell@example.net",
+        "account": {
+            "account_number": "00bfe76b-3fef-4d3b-846b-a39c791c8902",
+            "balance": -38267.44,
+            "transactions": [
+                {
+                    "date": "2023-03-18",
+                    "description": "Interest",
+                    "amount": -887.66,
+                    "transaction_id": 53643743
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Withdrawal",
+                    "amount": 4743.96,
+                    "transaction_id": 104153551
+                },
+                {
+                    "date": "2022-12-16",
+                    "description": "Deposit",
+                    "amount": 3290.04,
+                    "transaction_id": 62766921
+                },
+                {
+                    "date": "2024-04-09",
+                    "description": "Withdrawal",
+                    "amount": 2293.46,
+                    "transaction_id": 97275942
+                },
+                {
+                    "date": "2023-04-22",
+                    "description": "Withdrawal",
+                    "amount": 4092.16,
+                    "transaction_id": 93650047
+                }
+            ]
+        }
+    }
+}

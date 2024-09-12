@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Robert Ward",
+        "age": 85,
+        "gender": "male",
+        "address": "651 David Lodge, Josephbury, WV 65082",
+        "phone": "(258)344-9103",
+        "email": "syang@example.net",
+        "account": {
+            "account_number": "27aed0ef-1d49-4740-8abe-0215d0268cef",
+            "balance": 49408.09,
+            "transactions": [
+                {
+                    "date": "2023-10-23",
+                    "description": "Interest",
+                    "amount": 45563.66,
+                    "transaction_id": 58947189
+                },
+                {
+                    "date": "2022-09-22",
+                    "description": "Deposit",
+                    "amount": 28665.56,
+                    "transaction_id": 109530507
+                }
+            ]
+        }
+    }
+}

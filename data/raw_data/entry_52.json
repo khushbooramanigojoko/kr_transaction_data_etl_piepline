@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Angela Moore",
+        "age": 26,
+        "gender": "female",
+        "address": "6816 Jose Cliff Apt. 474, New Renee, GA 46286",
+        "phone": "(852)575-0759",
+        "email": "jeremy33@example.com",
+        "account": {
+            "account_number": "13ab544b-b218-42bc-8c97-48961652847e",
+            "balance": 5184.67,
+            "transactions": [
+                {
+                    "date": "2024-01-18",
+                    "description": "Withdrawal",
+                    "amount": 7481.26,
+                    "transaction_id": 48822079
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Withdrawal",
+                    "amount": 24568.52,
+                    "transaction_id": 27005287
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Interest",
+                    "amount": 44026.34,
+                    "transaction_id": 108161611
+                },
+                {
+                    "date": "2024-08-20",
+                    "description": "Interest",
+                    "amount": 16703.3,
+                    "transaction_id": 90912524
+                },
+                {
+                    "date": "2024-07-04",
+                    "description": "Withdrawal",
+                    "amount": 8117.39,
+                    "transaction_id": 30871549
+                }
+            ]
+        }
+    }
+}

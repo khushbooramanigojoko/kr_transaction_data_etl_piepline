@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Victoria Hart",
+        "age": 51,
+        "gender": "male",
+        "address": "12086 Danielle Harbor Apt. 475, Hillshire, OR 84723",
+        "phone": "347.265.3514x24894",
+        "email": "michelle15@example.net",
+        "account": {
+            "account_number": "99840459-0b5d-407a-81c1-ff6a37dddd4e",
+            "balance": 1451.31,
+            "transactions": [
+                {
+                    "date": "2022-12-07",
+                    "description": "Deposit",
+                    "amount": 3494.47,
+                    "transaction_id": 16360562
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Interest",
+                    "amount": 21080.72,
+                    "transaction_id": 34574646
+                },
+                {
+                    "date": "2024-03-23",
+                    "description": "Interest",
+                    "amount": 12136.71,
+                    "transaction_id": 97648501
+                }
+            ]
+        }
+    }
+}

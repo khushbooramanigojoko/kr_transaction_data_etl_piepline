@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Linda Bates",
+        "age": 62,
+        "gender": "male",
+        "address": "73179 Wade Wall, Jenniferland, WY 74032",
+        "phone": "614-885-8469",
+        "email": "johnsonamy@example.com",
+        "account": {
+            "account_number": "3840bafa-a99f-46c3-9e73-587b72cecb35",
+            "balance": 12191.09,
+            "transactions": [
+                {
+                    "date": "2024-04-29",
+                    "description": "Deposit",
+                    "amount": 17707.7,
+                    "transaction_id": 114927056
+                },
+                {
+                    "date": "2024-01-24",
+                    "description": "Withdrawal",
+                    "amount": 22840.16,
+                    "transaction_id": 112688797
+                }
+            ]
+        }
+    }
+}

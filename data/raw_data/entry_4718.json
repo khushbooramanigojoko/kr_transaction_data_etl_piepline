@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "George Jackson",
+        "age": 43,
+        "gender": "female",
+        "address": "99164 Diane Avenue Apt. 058, Port Tammy, NM 50677",
+        "phone": "001-584-484-3239",
+        "email": "richard24@example.org",
+        "account": {
+            "account_number": "3893dc8c-a128-4a10-9560-24d13a72c27b",
+            "balance": 24745.46,
+            "transactions": [
+                {
+                    "date": "2024-03-24",
+                    "description": "Deposit",
+                    "amount": 21707.72,
+                    "transaction_id": 115291490
+                },
+                {
+                    "date": "2024-02-13",
+                    "description": "Withdrawal",
+                    "amount": 49431.88,
+                    "transaction_id": 102433385
+                },
+                {
+                    "date": "2024-06-20",
+                    "description": "Interest",
+                    "amount": 31661.25,
+                    "transaction_id": 18093250
+                }
+            ]
+        }
+    }
+}

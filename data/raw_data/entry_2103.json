@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Danielle Davies",
+        "age": 95,
+        "gender": "male",
+        "address": "6378 Cannon Road Suite 555, Port Douglaston, AL 49157",
+        "phone": "+1-528-397-1489x3771",
+        "email": "kathleendavis@example.net",
+        "account": {
+            "account_number": "3050a404-2e94-4dcd-b2ad-3c1b4aa9e220",
+            "balance": 48245.42,
+            "transactions": [
+                {
+                    "date": "2024-02-17",
+                    "description": "Deposit",
+                    "amount": 26112.89,
+                    "transaction_id": 90590957
+                },
+                {
+                    "date": "2024-08-12",
+                    "description": "Interest",
+                    "amount": 19779.37,
+                    "transaction_id": 17412354
+                }
+            ]
+        }
+    }
+}

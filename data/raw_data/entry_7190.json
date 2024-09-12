@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Peter Miranda",
+        "age": 79,
+        "gender": "female",
+        "address": "72259 Marcus Centers, Escobarburgh, TN 01697",
+        "phone": "001-633-929-1061x95996",
+        "email": "brianmccullough@example.com",
+        "account": {
+            "account_number": "8d411647-be13-400a-b1db-562bc6f5466f",
+            "balance": 10854.05,
+            "transactions": [
+                {
+                    "date": "2024-02-17",
+                    "description": "Withdrawal",
+                    "amount": 3490.53,
+                    "transaction_id": 71830704
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Deposit",
+                    "amount": 30598.22,
+                    "transaction_id": 97579057
+                }
+            ]
+        }
+    }
+}

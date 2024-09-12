@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kyle Wood",
+        "age": 41,
+        "gender": "male",
+        "address": "886 Nelson Drives, Bruceberg, WA 74878",
+        "phone": "251.284.4187",
+        "email": "roger50@example.com",
+        "account": {
+            "account_number": "cf748f7e-2fb3-4993-8a79-979b17b0ab0f",
+            "balance": -23792.92,
+            "transactions": [
+                {
+                    "date": "2023-10-16",
+                    "description": "Deposit",
+                    "amount": -4297.19,
+                    "transaction_id": 25351068
+                },
+                {
+                    "date": "2024-08-06",
+                    "description": "Interest",
+                    "amount": 4984.93,
+                    "transaction_id": 63124389
+                },
+                {
+                    "date": "2022-09-04",
+                    "description": "Deposit",
+                    "amount": -4339.33,
+                    "transaction_id": 56836980
+                },
+                {
+                    "date": "2023-03-18",
+                    "description": "Deposit",
+                    "amount": -444.59,
+                    "transaction_id": 115231529
+                }
+            ]
+        }
+    }
+}

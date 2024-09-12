@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sylvia White",
+        "age": 53,
+        "gender": "male",
+        "address": "Unit 8103 Box 3148, DPO AE 50984",
+        "phone": "+1-793-893-5617x4961",
+        "email": "holly41@example.net",
+        "account": {
+            "account_number": "1045a5fb-e6fc-4792-9a37-601d19748b3f",
+            "balance": 17430.16,
+            "transactions": [
+                {
+                    "date": "2024-02-23",
+                    "description": "Deposit",
+                    "amount": 30721.01,
+                    "transaction_id": 35948098
+                }
+            ]
+        }
+    }
+}

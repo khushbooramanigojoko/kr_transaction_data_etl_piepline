@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Margaret Alexander",
+        "age": 44,
+        "gender": "male",
+        "address": "98600 David Glens, Bakerberg, MD 67960",
+        "phone": "001-443-986-5537x453",
+        "email": "molly05@example.net",
+        "account": {
+            "account_number": "c4380505-5d43-4379-95c0-563d81c26a8b",
+            "balance": 3140.77,
+            "transactions": [
+                {
+                    "date": "2024-07-13",
+                    "description": "Deposit",
+                    "amount": 24609.24,
+                    "transaction_id": 37168961
+                }
+            ]
+        }
+    }
+}

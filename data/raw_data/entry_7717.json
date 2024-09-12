@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jonathan Castillo",
+        "age": 53,
+        "gender": "male",
+        "address": "36379 Deborah Heights Suite 762, Moyerside, FL 16296",
+        "phone": "(878)289-0019",
+        "email": "kathryn24@example.net",
+        "account": {
+            "account_number": "ddecf72e-64ff-4e7e-9a08-7013eebdbdec",
+            "balance": 14534.43,
+            "transactions": [
+                {
+                    "date": "2024-02-15",
+                    "description": "Deposit",
+                    "amount": 34857.29,
+                    "transaction_id": 36197762
+                },
+                {
+                    "date": "2023-10-16",
+                    "description": "Deposit",
+                    "amount": 49875.93,
+                    "transaction_id": 95523284
+                }
+            ]
+        }
+    }
+}

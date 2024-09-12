@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nina Craig",
+        "age": 64,
+        "gender": "female",
+        "address": "31936 Glenn Valley, Mooretown, MS 23449",
+        "phone": "001-875-865-9809",
+        "email": "ashley88@example.com",
+        "account": {
+            "account_number": "c852ec73-b568-44c9-9bf0-e72637d55342",
+            "balance": 46178.79,
+            "transactions": [
+                {
+                    "date": "2023-04-04",
+                    "description": "Deposit",
+                    "amount": 28462.95,
+                    "transaction_id": 15724409
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Deposit",
+                    "amount": 40645.12,
+                    "transaction_id": 77235968
+                },
+                {
+                    "date": "2023-05-15",
+                    "description": "Withdrawal",
+                    "amount": 35676.06,
+                    "transaction_id": 64197658
+                },
+                {
+                    "date": "2024-05-06",
+                    "description": "Deposit",
+                    "amount": 1348.01,
+                    "transaction_id": 1090484
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Deposit",
+                    "amount": 23942.87,
+                    "transaction_id": 104351889
+                }
+            ]
+        }
+    }
+}

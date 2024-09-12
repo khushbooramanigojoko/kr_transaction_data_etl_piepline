@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jacob Gomez",
+        "age": 37,
+        "gender": "male",
+        "address": "62844 Williams Lakes, Port Jared, OH 30908",
+        "phone": "(766)296-5938x718",
+        "email": "alyssaanderson@example.org",
+        "account": {
+            "account_number": "24c5b435-6cd6-45a4-9651-c1d5662a259e",
+            "balance": 19406.3,
+            "transactions": [
+                {
+                    "date": "2023-12-25",
+                    "description": "Withdrawal",
+                    "amount": 40704.64,
+                    "transaction_id": 87978113
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Deposit",
+                    "amount": 36142.37,
+                    "transaction_id": 43960084
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Deposit",
+                    "amount": 12516.52,
+                    "transaction_id": 103701498
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Withdrawal",
+                    "amount": 16033.44,
+                    "transaction_id": 108163160
+                },
+                {
+                    "date": "2022-11-22",
+                    "description": "Withdrawal",
+                    "amount": 30792.31,
+                    "transaction_id": 6207538
+                }
+            ]
+        }
+    }
+}

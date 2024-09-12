@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Margaret Camacho",
+        "age": 50,
+        "gender": "male",
+        "address": "7890 Williams Passage, Claudiamouth, MH 45826",
+        "phone": "209.883.1339x8421",
+        "email": "sanchezhayley@example.com",
+        "account": {
+            "account_number": "26859bfa-9ac5-4a3f-8a0f-a7571f7edd11",
+            "balance": 7851.86,
+            "transactions": [
+                {
+                    "date": "2023-05-06",
+                    "description": "Withdrawal",
+                    "amount": 33521.83,
+                    "transaction_id": 46540086
+                },
+                {
+                    "date": "2023-05-07",
+                    "description": "Deposit",
+                    "amount": 23269.46,
+                    "transaction_id": 59558471
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Withdrawal",
+                    "amount": 40611.08,
+                    "transaction_id": 49534960
+                },
+                {
+                    "date": "2022-10-18",
+                    "description": "Interest",
+                    "amount": 45585.38,
+                    "transaction_id": 53291177
+                }
+            ]
+        }
+    }
+}

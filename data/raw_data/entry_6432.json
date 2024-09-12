@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Taylor Ramirez",
+        "age": 45,
+        "gender": "male",
+        "address": "457 Delgado Glens, Blaketown, WA 97324",
+        "phone": "+1-867-692-9613x899",
+        "email": "wendymorrow@example.org",
+        "account": {
+            "account_number": "21278e78-b5b4-4e38-9c33-14041a5a94b4",
+            "balance": 13112.03,
+            "transactions": [
+                {
+                    "date": "2023-10-17",
+                    "description": "Interest",
+                    "amount": 524.69,
+                    "transaction_id": 7608569
+                },
+                {
+                    "date": "2024-06-08",
+                    "description": "Withdrawal",
+                    "amount": 6447.45,
+                    "transaction_id": 93233550
+                },
+                {
+                    "date": "2024-01-29",
+                    "description": "Deposit",
+                    "amount": 29991.86,
+                    "transaction_id": 88408802
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Withdrawal",
+                    "amount": 44248.51,
+                    "transaction_id": 113196374
+                }
+            ]
+        }
+    }
+}

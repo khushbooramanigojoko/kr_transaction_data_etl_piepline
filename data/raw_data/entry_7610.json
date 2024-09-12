@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Lopez",
+        "age": 23,
+        "gender": "female",
+        "address": "047 Michael Place Suite 378, Lake Jared, NM 83601",
+        "phone": "616-899-2532",
+        "email": "vickieobrien@example.org",
+        "account": {
+            "account_number": "ea2aeee4-82cc-451e-9526-7ebcc94788e0",
+            "balance": 25796.94,
+            "transactions": [
+                {
+                    "date": "2024-01-08",
+                    "description": "Deposit",
+                    "amount": 37606.48,
+                    "transaction_id": 70247361
+                }
+            ]
+        }
+    }
+}

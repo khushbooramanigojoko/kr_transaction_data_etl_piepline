@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tammy Hall",
+        "age": 60,
+        "gender": "male",
+        "address": "615 Joanna Extension Apt. 571, Hessmouth, FL 29289",
+        "phone": "(442)990-6880",
+        "email": "jamesbell@example.net",
+        "account": {
+            "account_number": "f138cb71-81c1-4986-8136-c4a938242779",
+            "balance": 46247.56,
+            "transactions": [
+                {
+                    "date": "2023-07-03",
+                    "description": "Withdrawal",
+                    "amount": 36537.11,
+                    "transaction_id": 116124455
+                },
+                {
+                    "date": "2022-09-17",
+                    "description": "Withdrawal",
+                    "amount": 14719.18,
+                    "transaction_id": 46926645
+                },
+                {
+                    "date": "2023-08-22",
+                    "description": "Deposit",
+                    "amount": 38274.16,
+                    "transaction_id": 3150340
+                },
+                {
+                    "date": "2024-08-30",
+                    "description": "Deposit",
+                    "amount": 22551.28,
+                    "transaction_id": 106332250
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Deposit",
+                    "amount": 29803.49,
+                    "transaction_id": 28649243
+                }
+            ]
+        }
+    }
+}

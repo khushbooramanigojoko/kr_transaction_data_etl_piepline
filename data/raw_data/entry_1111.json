@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tim Smith",
+        "age": 50,
+        "gender": "male",
+        "address": "3432 Jackie Walks, Melissastad, CO 22659",
+        "phone": "001-736-376-8329x5330",
+        "email": "joshuawolfe@example.org",
+        "account": {
+            "account_number": "2368d043-9077-4818-ae62-ddb45ccc0338",
+            "balance": 44074.7,
+            "transactions": [
+                {
+                    "date": "2023-06-08",
+                    "description": "Deposit",
+                    "amount": 47656.86,
+                    "transaction_id": 88738505
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Interest",
+                    "amount": 22220.38,
+                    "transaction_id": 65209673
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Withdrawal",
+                    "amount": 27487.68,
+                    "transaction_id": 100614660
+                },
+                {
+                    "date": "2023-09-30",
+                    "description": "Deposit",
+                    "amount": 13426.95,
+                    "transaction_id": 45709834
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Deposit",
+                    "amount": 33691.23,
+                    "transaction_id": 51617136
+                }
+            ]
+        }
+    }
+}

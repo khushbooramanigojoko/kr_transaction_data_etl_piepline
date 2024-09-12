@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sara Carter",
+        "age": 64,
+        "gender": "male",
+        "address": "4692 Daniel Mountain Apt. 558, Walshmouth, MP 51938",
+        "phone": "+1-216-380-5737x62925",
+        "email": "david10@example.com",
+        "account": {
+            "account_number": "5904a729-a7ee-48c4-a0e7-d33c628f4430",
+            "balance": 34004.45,
+            "transactions": [
+                {
+                    "date": "2023-01-31",
+                    "description": "Withdrawal",
+                    "amount": 42404.83,
+                    "transaction_id": 108958330
+                },
+                {
+                    "date": "2024-08-15",
+                    "description": "Interest",
+                    "amount": 32010.06,
+                    "transaction_id": 19824008
+                }
+            ]
+        }
+    }
+}

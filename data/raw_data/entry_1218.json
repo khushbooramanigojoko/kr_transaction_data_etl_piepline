@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph York",
+        "age": 22,
+        "gender": "female",
+        "address": "923 Maddox Oval Suite 214, Lake Amanda, PA 76598",
+        "phone": "001-369-693-5340x387",
+        "email": "kimjimenez@example.org",
+        "account": {
+            "account_number": "c2a77a6d-dfda-42df-a948-39d73ee6abfa",
+            "balance": 15144.19,
+            "transactions": [
+                {
+                    "date": "2024-07-09",
+                    "description": "Interest",
+                    "amount": 8560.31,
+                    "transaction_id": 66689459
+                },
+                {
+                    "date": "2023-12-27",
+                    "description": "Withdrawal",
+                    "amount": 5321.52,
+                    "transaction_id": 86419365
+                },
+                {
+                    "date": "2024-08-09",
+                    "description": "Deposit",
+                    "amount": 1853.89,
+                    "transaction_id": 116980711
+                },
+                {
+                    "date": "2023-03-10",
+                    "description": "Withdrawal",
+                    "amount": 12762.83,
+                    "transaction_id": 94223413
+                }
+            ]
+        }
+    }
+}

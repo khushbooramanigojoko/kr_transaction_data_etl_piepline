@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Teresa Vasquez",
+        "age": 56,
+        "gender": "female",
+        "address": "USCGC Alvarez, FPO AA 72040",
+        "phone": "(753)775-7964x3320",
+        "email": "debbie37@example.com",
+        "account": {
+            "account_number": "d8678649-3c6f-414a-8fb4-5bf2759874c7",
+            "balance": 5700.99,
+            "transactions": [
+                {
+                    "date": "2023-08-27",
+                    "description": "Interest",
+                    "amount": 1023.72,
+                    "transaction_id": 5785411
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Interest",
+                    "amount": 12376.19,
+                    "transaction_id": 110241806
+                },
+                {
+                    "date": "2022-12-02",
+                    "description": "Withdrawal",
+                    "amount": 15705.81,
+                    "transaction_id": 1218198
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Interest",
+                    "amount": 19191.75,
+                    "transaction_id": 82046128
+                }
+            ]
+        }
+    }
+}

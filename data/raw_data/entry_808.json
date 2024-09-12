@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Madison Brennan",
+        "age": 76,
+        "gender": "female",
+        "address": "460 Brian Courts Apt. 025, East Stephanie, KY 42670",
+        "phone": "+1-786-508-9843x92247",
+        "email": "hendersonamanda@example.net",
+        "account": {
+            "account_number": "d34f9e7d-9def-4164-9c21-d8d201741fdd",
+            "balance": 26579.45,
+            "transactions": [
+                {
+                    "date": "2023-04-03",
+                    "description": "Deposit",
+                    "amount": 21058.29,
+                    "transaction_id": 55208933
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Withdrawal",
+                    "amount": 6835.68,
+                    "transaction_id": 113311525
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Deposit",
+                    "amount": 6216.39,
+                    "transaction_id": 60270715
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Withdrawal",
+                    "amount": 1870.11,
+                    "transaction_id": 32841154
+                },
+                {
+                    "date": "2023-11-28",
+                    "description": "Interest",
+                    "amount": 14801.09,
+                    "transaction_id": 43316418
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jennifer Carter",
+        "age": 69,
+        "gender": "male",
+        "address": "011 Jason Greens Apt. 661, Lake Robertmouth, AR 68554",
+        "phone": "+1-252-507-9373x7903",
+        "email": "christopher82@example.org",
+        "account": {
+            "account_number": "a0d46936-2194-4358-945e-9e82fd5f216d",
+            "balance": 18930.41,
+            "transactions": [
+                {
+                    "date": "2024-04-01",
+                    "description": "Interest",
+                    "amount": 883.16,
+                    "transaction_id": 49938112
+                },
+                {
+                    "date": "2022-09-19",
+                    "description": "Deposit",
+                    "amount": 5316.83,
+                    "transaction_id": 88465955
+                },
+                {
+                    "date": "2023-06-20",
+                    "description": "Interest",
+                    "amount": 16665.49,
+                    "transaction_id": 31926742
+                },
+                {
+                    "date": "2024-03-15",
+                    "description": "Deposit",
+                    "amount": 14680.19,
+                    "transaction_id": 102571576
+                }
+            ]
+        }
+    }
+}

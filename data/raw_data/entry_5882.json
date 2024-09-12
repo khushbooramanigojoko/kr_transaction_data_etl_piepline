@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brenda Garcia",
+        "age": 53,
+        "gender": "female",
+        "address": "Unit 9456 Box 0476, DPO AP 34920",
+        "phone": "743-416-2593x20279",
+        "email": "millermegan@example.com",
+        "account": {
+            "account_number": "31c97773-e174-4f37-84ab-c06bf7a5db5e",
+            "balance": 6229.01,
+            "transactions": [
+                {
+                    "date": "2023-10-12",
+                    "description": "Deposit",
+                    "amount": 37636.36,
+                    "transaction_id": 39611689
+                }
+            ]
+        }
+    }
+}

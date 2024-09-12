@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Washington",
+        "age": 36,
+        "gender": "female",
+        "address": "8898 Alison Curve, South Ashleyland, FL 15840",
+        "phone": "985-740-4269",
+        "email": "nathandavenport@example.org",
+        "account": {
+            "account_number": "fe216cd7-71f6-48ad-be8a-824b738a44ef",
+            "balance": 19848.25,
+            "transactions": [
+                {
+                    "date": "2024-08-28",
+                    "description": "Withdrawal",
+                    "amount": 46611.37,
+                    "transaction_id": 27544385
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Withdrawal",
+                    "amount": 5799.56,
+                    "transaction_id": 25548290
+                },
+                {
+                    "date": "2023-07-19",
+                    "description": "Deposit",
+                    "amount": 40506.69,
+                    "transaction_id": 113933646
+                },
+                {
+                    "date": "2024-02-26",
+                    "description": "Withdrawal",
+                    "amount": 35390.57,
+                    "transaction_id": 86038232
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Interest",
+                    "amount": 32075.71,
+                    "transaction_id": 76709563
+                }
+            ]
+        }
+    }
+}

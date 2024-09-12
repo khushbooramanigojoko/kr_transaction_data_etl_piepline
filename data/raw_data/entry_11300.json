@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 30,
+        "gender": "female",
+        "address": "64647 Cheyenne Expressway, Port Bradley, GA 79000",
+        "phone": "(944)470-6930",
+        "email": "melissaaustin@example.com",
+        "account": {
+            "account_number": "aeff01d8-2745-441c-a237-0727a1b214ac",
+            "balance": 45806.75,
+            "transactions": [
+                {
+                    "date": "2023-12-02",
+                    "description": "Interest",
+                    "amount": 925.07,
+                    "transaction_id": 85119192
+                },
+                {
+                    "date": "2024-08-10",
+                    "description": "Withdrawal",
+                    "amount": 2883.36,
+                    "transaction_id": 103627523
+                }
+            ]
+        }
+    }
+}

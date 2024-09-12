@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Nichole Peters",
+        "age": 40,
+        "gender": "male",
+        "address": "385 Donald Lodge, Richardsonberg, MI 11266",
+        "phone": "(589)512-5584",
+        "email": "jameschloe@example.org",
+        "account": {
+            "account_number": "a7e7b150-f1b4-4eaa-bd0d-f1b8d46cb58c",
+            "balance": 33543.42,
+            "transactions": [
+                {
+                    "date": "2022-12-12",
+                    "description": "Withdrawal",
+                    "amount": 42512.91,
+                    "transaction_id": 87749300
+                },
+                {
+                    "date": "2023-07-30",
+                    "description": "Withdrawal",
+                    "amount": 45270.95,
+                    "transaction_id": 110552622
+                }
+            ]
+        }
+    }
+}

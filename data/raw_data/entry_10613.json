@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 98,
+        "gender": "female",
+        "address": "87151 Arthur Track, Fostertown, TX 05678",
+        "phone": "825.212.2489",
+        "email": "michael82@example.net",
+        "account": {
+            "account_number": "85839e17-8d09-4972-9c42-f6400584b83e",
+            "balance": 49990.69,
+            "transactions": [
+                {
+                    "date": "2023-06-01",
+                    "description": "Withdrawal",
+                    "amount": -4712.77,
+                    "transaction_id": 104555512
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Deposit",
+                    "amount": 4649.95,
+                    "transaction_id": 28084681
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Withdrawal",
+                    "amount": -625.66,
+                    "transaction_id": 43777585
+                },
+                {
+                    "date": "2023-06-10",
+                    "description": "Withdrawal",
+                    "amount": -4052.76,
+                    "transaction_id": 119833507
+                },
+                {
+                    "date": "2023-05-19",
+                    "description": "Interest",
+                    "amount": 1235.32,
+                    "transaction_id": 32022712
+                }
+            ]
+        }
+    }
+}

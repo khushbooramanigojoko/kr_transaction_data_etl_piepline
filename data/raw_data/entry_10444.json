@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kathryn Turner",
+        "age": 26,
+        "gender": "male",
+        "address": "2716 Hailey Station Apt. 740, Port Mitchellton, SD 12552",
+        "phone": "4545766443",
+        "email": "wardtheodore@example.net",
+        "account": {
+            "account_number": "65585472-3542-45e8-86fe-6ff6bf81620b",
+            "balance": -20670.26,
+            "transactions": [
+                {
+                    "date": "2024-05-28",
+                    "description": "Withdrawal",
+                    "amount": -4799.09,
+                    "transaction_id": 111357448
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Deposit",
+                    "amount": 2899.34,
+                    "transaction_id": 30462530
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Deposit",
+                    "amount": -779.09,
+                    "transaction_id": 45059189
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Deposit",
+                    "amount": 751.02,
+                    "transaction_id": 2553746
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Interest",
+                    "amount": -1384.56,
+                    "transaction_id": 4695753
+                }
+            ]
+        }
+    }
+}

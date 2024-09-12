@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Barry Gibson",
+        "age": 27,
+        "gender": "male",
+        "address": "305 Linda Mountain Apt. 919, Smithburgh, RI 90346",
+        "phone": "(347)512-3038",
+        "email": "carmenjones@example.org",
+        "account": {
+            "account_number": "3390b45b-9228-4e46-ad8d-9af7107c049a",
+            "balance": 10363.53,
+            "transactions": [
+                {
+                    "date": "2024-03-24",
+                    "description": "Deposit",
+                    "amount": 22350.61,
+                    "transaction_id": 87033002
+                },
+                {
+                    "date": "2023-01-14",
+                    "description": "Interest",
+                    "amount": 35809.3,
+                    "transaction_id": 74677546
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Withdrawal",
+                    "amount": 37335.42,
+                    "transaction_id": 13887561
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Withdrawal",
+                    "amount": 20633.26,
+                    "transaction_id": 73525188
+                },
+                {
+                    "date": "2023-03-19",
+                    "description": "Interest",
+                    "amount": 3289.62,
+                    "transaction_id": 20350437
+                }
+            ]
+        }
+    }
+}

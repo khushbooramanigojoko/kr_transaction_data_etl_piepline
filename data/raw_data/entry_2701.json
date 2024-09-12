@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Donald Ramirez",
+        "age": 22,
+        "gender": "female",
+        "address": "76467 Sarah Fork Suite 110, East Jennifer, MH 92957",
+        "phone": "+1-240-626-6855",
+        "email": "tylermurray@example.net",
+        "account": {
+            "account_number": "4cc266ab-5f12-4090-85ae-aedff8ee9eb1",
+            "balance": 40595.99,
+            "transactions": [
+                {
+                    "date": "2024-01-03",
+                    "description": "Withdrawal",
+                    "amount": 27734.16,
+                    "transaction_id": 79661985
+                },
+                {
+                    "date": "2023-02-08",
+                    "description": "Interest",
+                    "amount": 24936.7,
+                    "transaction_id": 18946276
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Deposit",
+                    "amount": 9613.55,
+                    "transaction_id": 17325466
+                }
+            ]
+        }
+    }
+}

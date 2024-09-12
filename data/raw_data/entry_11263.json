@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 68,
+        "gender": "female",
+        "address": "0943 Booth Mountains Suite 507, Port Carol, WV 47494",
+        "phone": "896-508-6089x550",
+        "email": "bauerscott@example.com",
+        "account": {
+            "account_number": "0d4c9f72-7409-470a-9a46-92c318c842d7",
+            "balance": 14854.4,
+            "transactions": [
+                {
+                    "date": "2022-11-17",
+                    "description": "Withdrawal",
+                    "amount": 2610.23,
+                    "transaction_id": 18816122
+                },
+                {
+                    "date": "2023-06-25",
+                    "description": "Interest",
+                    "amount": -193.42,
+                    "transaction_id": 5067577
+                },
+                {
+                    "date": "2022-12-26",
+                    "description": "Withdrawal",
+                    "amount": -2654.18,
+                    "transaction_id": 33191566
+                }
+            ]
+        }
+    }
+}

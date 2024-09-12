@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lawrence Delgado",
+        "age": 90,
+        "gender": "female",
+        "address": "236 Julie Plains, Lake Kyle, AS 69397",
+        "phone": "231.732.5303x49926",
+        "email": "woodjonathan@example.net",
+        "account": {
+            "account_number": "3fe9f2c5-72c5-4c83-82e2-ac7aee5a7c0f",
+            "balance": 47163.72,
+            "transactions": [
+                {
+                    "date": "2022-11-30",
+                    "description": "Interest",
+                    "amount": 28984.11,
+                    "transaction_id": 107247547
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Deposit",
+                    "amount": 27952.19,
+                    "transaction_id": 5820720
+                }
+            ]
+        }
+    }
+}

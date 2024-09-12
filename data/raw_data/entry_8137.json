@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Shannon Adams",
+        "age": 20,
+        "gender": "male",
+        "address": "4128 Sosa Passage Suite 032, Kleinstad, VI 64507",
+        "phone": "610-339-3202x86636",
+        "email": "bradshawphilip@example.org",
+        "account": {
+            "account_number": "9f1b7118-8e75-41b2-bfd3-9cbe58666dc5",
+            "balance": 24812.64,
+            "transactions": [
+                {
+                    "date": "2024-01-02",
+                    "description": "Deposit",
+                    "amount": 26058.15,
+                    "transaction_id": 28548063
+                },
+                {
+                    "date": "2024-03-09",
+                    "description": "Withdrawal",
+                    "amount": 41675.0,
+                    "transaction_id": 25743292
+                },
+                {
+                    "date": "2022-09-20",
+                    "description": "Withdrawal",
+                    "amount": 33141.52,
+                    "transaction_id": 19787617
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Interest",
+                    "amount": 38482.9,
+                    "transaction_id": 67545996
+                }
+            ]
+        }
+    }
+}

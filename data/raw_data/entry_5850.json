@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Daniel Tyler",
+        "age": 25,
+        "gender": "female",
+        "address": "20538 Vanessa Hills, Andrewbury, CT 73026",
+        "phone": "001-751-712-7782x90051",
+        "email": "matthewnelson@example.net",
+        "account": {
+            "account_number": "9f3936dd-5887-4ed0-8fcf-c88e90d0612c",
+            "balance": 11332.92,
+            "transactions": [
+                {
+                    "date": "2024-03-25",
+                    "description": "Deposit",
+                    "amount": 32107.6,
+                    "transaction_id": 104117668
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Withdrawal",
+                    "amount": 10328.75,
+                    "transaction_id": 102194732
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Interest",
+                    "amount": 19520.84,
+                    "transaction_id": 86953418
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Interest",
+                    "amount": 49792.53,
+                    "transaction_id": 49909264
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Withdrawal",
+                    "amount": 8330.47,
+                    "transaction_id": 8620434
+                }
+            ]
+        }
+    }
+}

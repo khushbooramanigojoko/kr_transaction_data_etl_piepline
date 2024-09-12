@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 62,
+        "gender": "male",
+        "address": "8461 Wood Hill Apt. 827, West Edwardborough, MN 20002",
+        "phone": "231-540-7056x398",
+        "email": "toni67@example.org",
+        "account": {
+            "account_number": "18d2bdc9-534e-45f1-9ba9-44c96c9ce8d5",
+            "balance": 5864.45,
+            "transactions": [
+                {
+                    "date": "2024-02-10",
+                    "description": "Deposit",
+                    "amount": -4206.44,
+                    "transaction_id": 19526826
+                },
+                {
+                    "date": "2023-11-03",
+                    "description": "Deposit",
+                    "amount": -1236.84,
+                    "transaction_id": 71026239
+                }
+            ]
+        }
+    }
+}

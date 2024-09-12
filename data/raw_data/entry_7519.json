@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jesus Shaw",
+        "age": 84,
+        "gender": "male",
+        "address": "Unit 1917 Box 9690, DPO AA 83003",
+        "phone": "001-315-378-8025",
+        "email": "mary12@example.com",
+        "account": {
+            "account_number": "a353b533-9015-4f53-be28-6aa176f0a1fe",
+            "balance": 2982.2,
+            "transactions": [
+                {
+                    "date": "2023-01-02",
+                    "description": "Withdrawal",
+                    "amount": 5040.76,
+                    "transaction_id": 109414679
+                },
+                {
+                    "date": "2024-06-11",
+                    "description": "Withdrawal",
+                    "amount": 16817.54,
+                    "transaction_id": 40501863
+                },
+                {
+                    "date": "2024-02-13",
+                    "description": "Interest",
+                    "amount": 36360.1,
+                    "transaction_id": 41832030
+                },
+                {
+                    "date": "2023-08-25",
+                    "description": "Withdrawal",
+                    "amount": 11821.49,
+                    "transaction_id": 109212033
+                },
+                {
+                    "date": "2022-09-19",
+                    "description": "Interest",
+                    "amount": 26356.38,
+                    "transaction_id": 107523666
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Vanessa Schmidt",
+        "age": 91,
+        "gender": "female",
+        "address": "21445 Lori Circles Apt. 091, Samuelfurt, MS 87402",
+        "phone": "001-293-672-3166x06883",
+        "email": "deanlaura@example.net",
+        "account": {
+            "account_number": "cca32fd0-2e16-4afc-ab84-4d1815320cff",
+            "balance": -32357.78,
+            "transactions": [
+                {
+                    "date": "2022-10-10",
+                    "description": "Interest",
+                    "amount": -1950.05,
+                    "transaction_id": 53586560
+                },
+                {
+                    "date": "2022-12-21",
+                    "description": "Interest",
+                    "amount": 962.03,
+                    "transaction_id": 29115009
+                }
+            ]
+        }
+    }
+}

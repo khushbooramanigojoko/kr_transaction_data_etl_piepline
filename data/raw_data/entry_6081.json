@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Duane Patterson",
+        "age": 91,
+        "gender": "female",
+        "address": "63281 Patricia Turnpike, Adamborough, NH 23913",
+        "phone": "001-852-807-4517x643",
+        "email": "tylerlee@example.com",
+        "account": {
+            "account_number": "3431fe28-1940-4be5-8c4a-76afacd78079",
+            "balance": 26185.55,
+            "transactions": [
+                {
+                    "date": "2023-03-21",
+                    "description": "Withdrawal",
+                    "amount": 43594.2,
+                    "transaction_id": 114062907
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Withdrawal",
+                    "amount": 104.97,
+                    "transaction_id": 25984440
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Withdrawal",
+                    "amount": 8394.1,
+                    "transaction_id": 104287328
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Thomas Valentine",
+        "age": 88,
+        "gender": "female",
+        "address": "Unit 7915 Box 3148, DPO AE 65263",
+        "phone": "001-986-868-9706x71580",
+        "email": "bobbybutler@example.net",
+        "account": {
+            "account_number": "08bc8047-5107-4d8c-b77a-d81acbd280c3",
+            "balance": 42911.87,
+            "transactions": [
+                {
+                    "date": "2023-05-14",
+                    "description": "Interest",
+                    "amount": 17738.03,
+                    "transaction_id": 6648338
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Withdrawal",
+                    "amount": 28653.77,
+                    "transaction_id": 96266438
+                }
+            ]
+        }
+    }
+}

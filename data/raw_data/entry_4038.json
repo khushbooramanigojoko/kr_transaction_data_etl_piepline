@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brent Brady",
+        "age": 65,
+        "gender": "male",
+        "address": "PSC 5477, Box 4741, APO AE 96325",
+        "phone": "575.727.9277x7187",
+        "email": "adam02@example.org",
+        "account": {
+            "account_number": "999c7fe9-cd0e-4d2f-809d-9a546e7417de",
+            "balance": 4470.89,
+            "transactions": [
+                {
+                    "date": "2022-12-13",
+                    "description": "Interest",
+                    "amount": 1388.21,
+                    "transaction_id": 53803018
+                },
+                {
+                    "date": "2022-10-25",
+                    "description": "Withdrawal",
+                    "amount": 14290.01,
+                    "transaction_id": 108977910
+                }
+            ]
+        }
+    }
+}

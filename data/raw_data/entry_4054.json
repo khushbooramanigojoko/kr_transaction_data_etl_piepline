@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Melissa Maxwell",
+        "age": 83,
+        "gender": "male",
+        "address": "373 Jose Hills Suite 602, Michaelmouth, IA 22120",
+        "phone": "001-807-591-4590",
+        "email": "luis34@example.org",
+        "account": {
+            "account_number": "86404910-9c60-400b-b3ce-61c7892b15e1",
+            "balance": 42545.87,
+            "transactions": [
+                {
+                    "date": "2024-01-25",
+                    "description": "Interest",
+                    "amount": 6115.46,
+                    "transaction_id": 94788160
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Withdrawal",
+                    "amount": 31574.42,
+                    "transaction_id": 83826197
+                },
+                {
+                    "date": "2023-09-04",
+                    "description": "Deposit",
+                    "amount": 7464.29,
+                    "transaction_id": 118147707
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Deposit",
+                    "amount": 16086.51,
+                    "transaction_id": 38649791
+                }
+            ]
+        }
+    }
+}

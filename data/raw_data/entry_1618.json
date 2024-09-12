@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Karen Wright",
+        "age": 90,
+        "gender": "female",
+        "address": "0697 Brittany Circles, Donaldstad, NM 02426",
+        "phone": "895.748.2241",
+        "email": "cgonzales@example.net",
+        "account": {
+            "account_number": "c1367364-97d8-4518-a090-cb7a8927ed0a",
+            "balance": 7946.61,
+            "transactions": [
+                {
+                    "date": "2024-06-28",
+                    "description": "Deposit",
+                    "amount": 43495.48,
+                    "transaction_id": 60502660
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Deposit",
+                    "amount": 43470.03,
+                    "transaction_id": 54507446
+                },
+                {
+                    "date": "2023-12-19",
+                    "description": "Interest",
+                    "amount": 1982.31,
+                    "transaction_id": 16696061
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Withdrawal",
+                    "amount": 14624.13,
+                    "transaction_id": 114644523
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Withdrawal",
+                    "amount": 12720.66,
+                    "transaction_id": 8672934
+                }
+            ]
+        }
+    }
+}

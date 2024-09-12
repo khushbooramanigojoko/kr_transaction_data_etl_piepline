@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tyler Cameron",
+        "age": 31,
+        "gender": "female",
+        "address": "94002 Perez Pine, Teresabury, NC 40245",
+        "phone": "001-224-733-2590x835",
+        "email": "brandonburton@example.org",
+        "account": {
+            "account_number": "f41a10c5-d18f-41e0-9048-8d936adf21fa",
+            "balance": -31185.45,
+            "transactions": [
+                {
+                    "date": "2023-02-14",
+                    "description": "Withdrawal",
+                    "amount": -4145.61,
+                    "transaction_id": 72545803
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Interest",
+                    "amount": 4369.29,
+                    "transaction_id": 105671853
+                },
+                {
+                    "date": "2023-12-27",
+                    "description": "Deposit",
+                    "amount": -3508.06,
+                    "transaction_id": 76661995
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Interest",
+                    "amount": 4272.56,
+                    "transaction_id": 83100885
+                }
+            ]
+        }
+    }
+}

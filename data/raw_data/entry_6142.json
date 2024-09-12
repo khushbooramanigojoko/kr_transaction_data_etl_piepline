@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Morgan Hudson",
+        "age": 50,
+        "gender": "female",
+        "address": "1758 Kathy Creek Suite 525, North Hollyton, MH 15940",
+        "phone": "001-573-454-7405",
+        "email": "johnsonrebecca@example.com",
+        "account": {
+            "account_number": "dccc1d81-ed77-43e9-8cd7-baa235e67f02",
+            "balance": 1484.28,
+            "transactions": [
+                {
+                    "date": "2024-07-18",
+                    "description": "Interest",
+                    "amount": 17963.04,
+                    "transaction_id": 50568317
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Deposit",
+                    "amount": 25574.22,
+                    "transaction_id": 11329753
+                }
+            ]
+        }
+    }
+}

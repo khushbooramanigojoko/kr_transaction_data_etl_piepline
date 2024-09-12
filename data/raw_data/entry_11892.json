@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Anthony Mata",
+        "age": 75,
+        "gender": "female",
+        "address": "24360 Garcia Lock Suite 259, West Kristenfort, VI 14310",
+        "phone": "(496)805-1220x555",
+        "email": "stephanie41@example.org",
+        "account": {
+            "account_number": "3f9f92a7-64d8-43a8-aaf9-25d8c801b103",
+            "balance": -6099.66,
+            "transactions": [
+                {
+                    "date": "2022-12-08",
+                    "description": "Interest",
+                    "amount": 4716.5,
+                    "transaction_id": 8242883
+                },
+                {
+                    "date": "2023-12-12",
+                    "description": "Withdrawal",
+                    "amount": 4429.79,
+                    "transaction_id": 46766160
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "male",
+        "address": "34344 Stephen Forge, Kennethport, PA 25251",
+        "phone": "953.372.8698x05876",
+        "email": "ortizeric@example.org",
+        "account": {
+            "account_number": "6af9fe0d-2cc4-47c2-8f89-608769b2f12f",
+            "balance": 39859.42,
+            "transactions": [
+                {
+                    "date": "2024-01-21",
+                    "description": "Withdrawal",
+                    "amount": -2587.78,
+                    "transaction_id": 80004960
+                },
+                {
+                    "date": "2022-09-14",
+                    "description": "Interest",
+                    "amount": 2513.99,
+                    "transaction_id": 106251516
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Interest",
+                    "amount": 1121.68,
+                    "transaction_id": 88757817
+                }
+            ]
+        }
+    }
+}

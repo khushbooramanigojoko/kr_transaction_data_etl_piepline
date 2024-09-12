@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dominique Fowler",
+        "age": 47,
+        "gender": "female",
+        "address": "Unit 1113 Box 3634, DPO AE 78771",
+        "phone": "001-445-941-8546x088",
+        "email": "jennifer76@example.com",
+        "account": {
+            "account_number": "942e8a73-8f69-46f0-8be9-ed26a09bc8cf",
+            "balance": 9372.58,
+            "transactions": [
+                {
+                    "date": "2023-06-12",
+                    "description": "Interest",
+                    "amount": 48472.14,
+                    "transaction_id": 47044766
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Interest",
+                    "amount": 9964.38,
+                    "transaction_id": 63550851
+                },
+                {
+                    "date": "2024-06-20",
+                    "description": "Withdrawal",
+                    "amount": 9110.42,
+                    "transaction_id": 19334294
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Interest",
+                    "amount": 1654.79,
+                    "transaction_id": 111481774
+                }
+            ]
+        }
+    }
+}

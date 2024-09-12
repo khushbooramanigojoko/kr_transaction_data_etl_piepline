@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christopher Sexton",
+        "age": 24,
+        "gender": "male",
+        "address": "739 Leonard Courts, Williamview, IL 70661",
+        "phone": "001-489-915-7904x31630",
+        "email": "nathanmartinez@example.net",
+        "account": {
+            "account_number": "f298ee5a-59bc-4e6c-94e0-68b23c94f781",
+            "balance": 28352.98,
+            "transactions": [
+                {
+                    "date": "2023-09-07",
+                    "description": "Withdrawal",
+                    "amount": 26730.8,
+                    "transaction_id": 40499273
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Withdrawal",
+                    "amount": 37678.34,
+                    "transaction_id": 36359439
+                }
+            ]
+        }
+    }
+}

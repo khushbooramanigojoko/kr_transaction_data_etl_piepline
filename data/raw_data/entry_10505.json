@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Hannah Owens",
+        "age": 23,
+        "gender": "female",
+        "address": "Unit 1977 Box 3571, DPO AE 92354",
+        "phone": "435-324-2530x006",
+        "email": "omelendez@example.net",
+        "account": {
+            "account_number": "9492ac84-4bc3-408b-8e2f-201421a354cb",
+            "balance": -1993.71,
+            "transactions": [
+                {
+                    "date": "2022-12-01",
+                    "description": "Withdrawal",
+                    "amount": -2765.29,
+                    "transaction_id": 6713007
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Interest",
+                    "amount": 2634.8,
+                    "transaction_id": 4052624
+                },
+                {
+                    "date": "2022-09-05",
+                    "description": "Interest",
+                    "amount": 4977.92,
+                    "transaction_id": 10838927
+                },
+                {
+                    "date": "2022-09-17",
+                    "description": "Deposit",
+                    "amount": -354.05,
+                    "transaction_id": 22054277
+                }
+            ]
+        }
+    }
+}

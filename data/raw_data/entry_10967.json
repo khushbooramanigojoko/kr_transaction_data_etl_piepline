@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 82,
+        "gender": "male",
+        "address": "1034 Welch Courts Suite 635, Richardsonhaven, NH 75930",
+        "phone": "+1-657-911-3873x87464",
+        "email": "chapmanlori@example.org",
+        "account": {
+            "account_number": "3a5010ed-c8e6-4df9-9f58-23cc37d82805",
+            "balance": 20989.3,
+            "transactions": [
+                {
+                    "date": "2023-08-23",
+                    "description": "Deposit",
+                    "amount": 4903.48,
+                    "transaction_id": 70503125
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Withdrawal",
+                    "amount": -4636.67,
+                    "transaction_id": 19956855
+                },
+                {
+                    "date": "2023-10-21",
+                    "description": "Withdrawal",
+                    "amount": -2843.62,
+                    "transaction_id": 100376658
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Withdrawal",
+                    "amount": 3086.2,
+                    "transaction_id": 6352356
+                }
+            ]
+        }
+    }
+}

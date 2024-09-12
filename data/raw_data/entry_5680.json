@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "David Jordan",
+        "age": 76,
+        "gender": "female",
+        "address": "2187 Tanya Green, Brewerbury, MD 43137",
+        "phone": "+1-316-919-1984x99889",
+        "email": "carolinelove@example.com",
+        "account": {
+            "account_number": "f61183fe-b1d3-49d0-b7b6-d186a50619e5",
+            "balance": 47318.86,
+            "transactions": [
+                {
+                    "date": "2024-05-17",
+                    "description": "Withdrawal",
+                    "amount": 16168.25,
+                    "transaction_id": 25751911
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Withdrawal",
+                    "amount": 7381.13,
+                    "transaction_id": 89370930
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Deposit",
+                    "amount": 28849.0,
+                    "transaction_id": 44839887
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Deposit",
+                    "amount": 30565.35,
+                    "transaction_id": 30312845
+                },
+                {
+                    "date": "2023-08-29",
+                    "description": "Withdrawal",
+                    "amount": 2769.4,
+                    "transaction_id": 62718833
+                }
+            ]
+        }
+    }
+}

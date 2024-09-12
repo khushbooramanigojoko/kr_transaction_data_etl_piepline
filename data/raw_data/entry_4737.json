@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Deanna Mcdonald",
+        "age": 20,
+        "gender": "female",
+        "address": "29163 Lindsey Stravenue, South Nathantown, NC 72801",
+        "phone": "(237)500-2286x3774",
+        "email": "dmcdonald@example.net",
+        "account": {
+            "account_number": "ac25c2a6-63e8-48e4-9a52-a98e462a4e33",
+            "balance": 40332.16,
+            "transactions": [
+                {
+                    "date": "2024-02-28",
+                    "description": "Interest",
+                    "amount": 37326.43,
+                    "transaction_id": 106152328
+                },
+                {
+                    "date": "2022-11-19",
+                    "description": "Interest",
+                    "amount": 27036.07,
+                    "transaction_id": 81430043
+                },
+                {
+                    "date": "2023-08-01",
+                    "description": "Withdrawal",
+                    "amount": 2034.73,
+                    "transaction_id": 93607776
+                },
+                {
+                    "date": "2024-07-18",
+                    "description": "Deposit",
+                    "amount": 13304.41,
+                    "transaction_id": 93092049
+                },
+                {
+                    "date": "2023-11-12",
+                    "description": "Deposit",
+                    "amount": 29451.36,
+                    "transaction_id": 87133163
+                }
+            ]
+        }
+    }
+}

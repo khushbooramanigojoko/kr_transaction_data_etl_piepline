@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Noah Ward",
+        "age": 58,
+        "gender": "male",
+        "address": "78846 David Stravenue, Gardnerton, HI 95117",
+        "phone": "587.410.2252x226",
+        "email": "jedwards@example.net",
+        "account": {
+            "account_number": "7bdb1607-bc50-442b-bc10-c02f20f2cde5",
+            "balance": -25873.96,
+            "transactions": [
+                {
+                    "date": "2022-09-11",
+                    "description": "Deposit",
+                    "amount": -1874.85,
+                    "transaction_id": 81379535
+                }
+            ]
+        }
+    }
+}

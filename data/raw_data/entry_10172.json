@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Gabriella White",
+        "age": 81,
+        "gender": "female",
+        "address": "5975 Sanchez Loaf, Jenniferland, DC 33396",
+        "phone": "824-329-8226x85295",
+        "email": "shelleywright@example.net",
+        "account": {
+            "account_number": "c09d4e0c-807f-4e65-b350-c90bdb196335",
+            "balance": -45494.72,
+            "transactions": [
+                {
+                    "date": "2024-01-16",
+                    "description": "Deposit",
+                    "amount": -4652.99,
+                    "transaction_id": 56098286
+                },
+                {
+                    "date": "2023-04-16",
+                    "description": "Deposit",
+                    "amount": 4945.31,
+                    "transaction_id": 30931685
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Deposit",
+                    "amount": 1591.1,
+                    "transaction_id": 11057395
+                },
+                {
+                    "date": "2023-09-08",
+                    "description": "Deposit",
+                    "amount": 2420.49,
+                    "transaction_id": 111287398
+                }
+            ]
+        }
+    }
+}

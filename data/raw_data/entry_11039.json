@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "female",
+        "address": "018 Jennifer Heights Suite 974, North Steven, MS 88757",
+        "phone": "7809310830",
+        "email": "briana30@example.org",
+        "account": {
+            "account_number": "b3d71b6b-84de-4d6a-bcb8-9c5a0791d3d9",
+            "balance": 46690.95,
+            "transactions": [
+                {
+                    "date": "2024-08-28",
+                    "description": "Deposit",
+                    "amount": 3872.9,
+                    "transaction_id": 88451584
+                }
+            ]
+        }
+    }
+}

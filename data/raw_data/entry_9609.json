@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 35,
+        "gender": "female",
+        "address": "5418 Tate Avenue, South Nicole, MA 30011",
+        "phone": "601.736.0715x5301",
+        "email": "wpowers@example.net",
+        "account": {
+            "account_number": "24169fd0-61db-448b-aa8e-aea6cf0dcdb4",
+            "balance": 39073.34,
+            "transactions": [
+                {
+                    "date": "2023-08-08",
+                    "description": "Withdrawal",
+                    "amount": -3058.21,
+                    "transaction_id": 88107711
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Deposit",
+                    "amount": -4847.92,
+                    "transaction_id": 117042257
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Withdrawal",
+                    "amount": -4500.46,
+                    "transaction_id": 3050567
+                },
+                {
+                    "date": "2023-07-21",
+                    "description": "Withdrawal",
+                    "amount": 3733.33,
+                    "transaction_id": 98903561
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Withdrawal",
+                    "amount": -3382.78,
+                    "transaction_id": 11610821
+                }
+            ]
+        }
+    }
+}

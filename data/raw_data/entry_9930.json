@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 91,
+        "gender": "male",
+        "address": "56579 John Ranch Suite 389, Thomasmouth, PA 08927",
+        "phone": "+1-665-225-5552x5610",
+        "email": "jwells@example.com",
+        "account": {
+            "account_number": "5d75aebc-30ec-4e61-a4b6-a2eb560a9997",
+            "balance": 11892.2,
+            "transactions": [
+                {
+                    "date": "2024-08-12",
+                    "description": "Withdrawal",
+                    "amount": -2040.1,
+                    "transaction_id": 44314737
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Withdrawal",
+                    "amount": 3971.71,
+                    "transaction_id": 29406406
+                }
+            ]
+        }
+    }
+}

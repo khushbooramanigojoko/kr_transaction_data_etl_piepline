@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kelly Hernandez",
+        "age": 44,
+        "gender": "female",
+        "address": "86044 Stone Street Suite 430, Heidiberg, MD 85565",
+        "phone": "294-358-9629",
+        "email": "kristinawalters@example.net",
+        "account": {
+            "account_number": "fd0a6c5b-ef70-46dc-a692-7bc6e88522f8",
+            "balance": 5385.45,
+            "transactions": [
+                {
+                    "date": "2022-10-03",
+                    "description": "Deposit",
+                    "amount": 30350.97,
+                    "transaction_id": 88282798
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 99,
+        "gender": "male",
+        "address": "2964 Bonnie Trail Suite 529, Beckside, HI 81224",
+        "phone": "+1-563-853-8154",
+        "email": "thomas19@example.net",
+        "account": {
+            "account_number": "0229a513-6e67-455a-84c1-599743df37f0",
+            "balance": 22551.5,
+            "transactions": [
+                {
+                    "date": "2024-01-19",
+                    "description": "Withdrawal",
+                    "amount": -1949.75,
+                    "transaction_id": 96223609
+                },
+                {
+                    "date": "2024-02-08",
+                    "description": "Interest",
+                    "amount": 70.5,
+                    "transaction_id": 93056038
+                },
+                {
+                    "date": "2023-08-13",
+                    "description": "Withdrawal",
+                    "amount": -3930.0,
+                    "transaction_id": 100362112
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stephen Fields",
+        "age": 67,
+        "gender": "female",
+        "address": "5266 Stout Courts, Alanview, MA 89055",
+        "phone": "8077636620",
+        "email": "jordan28@example.com",
+        "account": {
+            "account_number": "226ac701-b5fb-4e99-b9b7-1d5a583ee20d",
+            "balance": 35167.35,
+            "transactions": [
+                {
+                    "date": "2023-04-02",
+                    "description": "Interest",
+                    "amount": 48946.68,
+                    "transaction_id": 2628695
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Withdrawal",
+                    "amount": 32453.06,
+                    "transaction_id": 24343712
+                },
+                {
+                    "date": "2024-04-06",
+                    "description": "Withdrawal",
+                    "amount": 11796.57,
+                    "transaction_id": 105840041
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Interest",
+                    "amount": 1973.84,
+                    "transaction_id": 77800107
+                }
+            ]
+        }
+    }
+}

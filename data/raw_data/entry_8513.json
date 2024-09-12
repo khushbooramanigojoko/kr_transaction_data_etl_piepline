@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sarah Morris",
+        "age": 44,
+        "gender": "female",
+        "address": "329 Benton Key, Carolfurt, OH 04005",
+        "phone": "245.909.5991x509",
+        "email": "harperlisa@example.com",
+        "account": {
+            "account_number": "a02dacf0-0cb6-46fe-86bc-ce8934e88533",
+            "balance": 12726.5,
+            "transactions": [
+                {
+                    "date": "2022-09-18",
+                    "description": "Deposit",
+                    "amount": 32074.68,
+                    "transaction_id": 66861148
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Deposit",
+                    "amount": 48064.79,
+                    "transaction_id": 46314563
+                }
+            ]
+        }
+    }
+}

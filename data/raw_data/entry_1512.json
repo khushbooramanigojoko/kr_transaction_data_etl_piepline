@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Levi Banks",
+        "age": 39,
+        "gender": "male",
+        "address": "362 Ellis Well, North Dianafort, AR 63306",
+        "phone": "804.534.9966",
+        "email": "elizabeth93@example.com",
+        "account": {
+            "account_number": "cbeaaac7-e03b-45e6-9f37-f8e501fa6924",
+            "balance": 44162.02,
+            "transactions": [
+                {
+                    "date": "2023-05-05",
+                    "description": "Withdrawal",
+                    "amount": 31705.01,
+                    "transaction_id": 41717324
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Deposit",
+                    "amount": 12161.65,
+                    "transaction_id": 5834627
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Interest",
+                    "amount": 40755.86,
+                    "transaction_id": 44460111
+                },
+                {
+                    "date": "2023-04-16",
+                    "description": "Deposit",
+                    "amount": 21946.94,
+                    "transaction_id": 45483492
+                }
+            ]
+        }
+    }
+}

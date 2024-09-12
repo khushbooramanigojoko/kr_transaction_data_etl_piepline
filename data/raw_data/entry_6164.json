@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kevin Bowman",
+        "age": 18,
+        "gender": "female",
+        "address": "62832 Lisa Run, Mitchellton, GA 64799",
+        "phone": "001-916-767-3788",
+        "email": "toddapril@example.com",
+        "account": {
+            "account_number": "a90726c3-fea5-4b33-a134-939a7c73bc59",
+            "balance": 27354.99,
+            "transactions": [
+                {
+                    "date": "2023-07-03",
+                    "description": "Withdrawal",
+                    "amount": 36112.91,
+                    "transaction_id": 92375040
+                },
+                {
+                    "date": "2023-09-04",
+                    "description": "Withdrawal",
+                    "amount": 20135.08,
+                    "transaction_id": 106099123
+                }
+            ]
+        }
+    }
+}

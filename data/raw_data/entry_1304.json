@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jose Novak",
+        "age": 85,
+        "gender": "male",
+        "address": "997 Amy Isle, Huntland, NM 71771",
+        "phone": "+1-267-975-9419",
+        "email": "griffinsusan@example.org",
+        "account": {
+            "account_number": "623f9a46-d1ca-4c4b-9a71-022c27ecb66c",
+            "balance": 31489.0,
+            "transactions": [
+                {
+                    "date": "2023-03-05",
+                    "description": "Deposit",
+                    "amount": 45883.38,
+                    "transaction_id": 83047240
+                },
+                {
+                    "date": "2023-03-18",
+                    "description": "Interest",
+                    "amount": 7397.65,
+                    "transaction_id": 32579577
+                }
+            ]
+        }
+    }
+}

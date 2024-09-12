@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ian Ray",
+        "age": 19,
+        "gender": "female",
+        "address": "1248 Watkins Valleys Apt. 570, North Jayfurt, DE 90572",
+        "phone": "835-678-7191x9347",
+        "email": "jhardy@example.org",
+        "account": {
+            "account_number": "e71d5e99-5f7e-4a6f-9b22-0d2a0ab1d0e1",
+            "balance": 19497.04,
+            "transactions": [
+                {
+                    "date": "2023-04-10",
+                    "description": "Deposit",
+                    "amount": 18017.07,
+                    "transaction_id": 11356014
+                },
+                {
+                    "date": "2023-12-27",
+                    "description": "Withdrawal",
+                    "amount": 6997.82,
+                    "transaction_id": 40617231
+                },
+                {
+                    "date": "2024-02-13",
+                    "description": "Deposit",
+                    "amount": 45199.08,
+                    "transaction_id": 78906992
+                }
+            ]
+        }
+    }
+}

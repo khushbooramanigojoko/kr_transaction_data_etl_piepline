@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kimberly Boone",
+        "age": 41,
+        "gender": "male",
+        "address": "0839 Thompson Mountains, Chenfurt, FM 91793",
+        "phone": "964-405-8530x328",
+        "email": "marissajohnson@example.org",
+        "account": {
+            "account_number": "dc21ca75-2b82-475a-ad0a-296301140c3e",
+            "balance": 44064.03,
+            "transactions": [
+                {
+                    "date": "2023-01-16",
+                    "description": "Interest",
+                    "amount": 10808.05,
+                    "transaction_id": 95141392
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Deposit",
+                    "amount": 7566.25,
+                    "transaction_id": 24489523
+                }
+            ]
+        }
+    }
+}

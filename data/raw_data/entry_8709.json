@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tamara Nelson",
+        "age": 92,
+        "gender": "female",
+        "address": "Unit 7608 Box 3912, DPO AE 22399",
+        "phone": "(942)693-1070x49155",
+        "email": "jennifer97@example.com",
+        "account": {
+            "account_number": "d7176f99-8c3c-4506-805a-4dd492f7b9fb",
+            "balance": 38262.38,
+            "transactions": [
+                {
+                    "date": "2024-04-07",
+                    "description": "Withdrawal",
+                    "amount": 20826.9,
+                    "transaction_id": 85031428
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Withdrawal",
+                    "amount": 33742.05,
+                    "transaction_id": 117487560
+                },
+                {
+                    "date": "2023-03-19",
+                    "description": "Interest",
+                    "amount": 32705.94,
+                    "transaction_id": 46474806
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Deposit",
+                    "amount": 3189.14,
+                    "transaction_id": 62174122
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Withdrawal",
+                    "amount": 17859.59,
+                    "transaction_id": 44108741
+                }
+            ]
+        }
+    }
+}

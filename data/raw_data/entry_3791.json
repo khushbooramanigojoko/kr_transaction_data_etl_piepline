@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Seth Montgomery",
+        "age": 74,
+        "gender": "female",
+        "address": "800 Vargas Drives, Marioberg, PR 43320",
+        "phone": "(352)216-1617x886",
+        "email": "kathleen42@example.net",
+        "account": {
+            "account_number": "805690d6-29b7-45f7-95b1-162cf417f2b5",
+            "balance": 20470.52,
+            "transactions": [
+                {
+                    "date": "2024-07-13",
+                    "description": "Deposit",
+                    "amount": 10723.32,
+                    "transaction_id": 99268319
+                },
+                {
+                    "date": "2022-09-30",
+                    "description": "Interest",
+                    "amount": 33731.17,
+                    "transaction_id": 92988589
+                },
+                {
+                    "date": "2024-01-19",
+                    "description": "Interest",
+                    "amount": 37061.25,
+                    "transaction_id": 86797312
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Withdrawal",
+                    "amount": 43600.48,
+                    "transaction_id": 89076629
+                }
+            ]
+        }
+    }
+}

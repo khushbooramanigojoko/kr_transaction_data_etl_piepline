@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Teresa Riley",
+        "age": 54,
+        "gender": "male",
+        "address": "2243 Miguel Keys, North Greg, CO 63008",
+        "phone": "524.738.6130",
+        "email": "pittmanbrittany@example.com",
+        "account": {
+            "account_number": "554245a5-2a8e-4b1c-80ee-ad87a1075c72",
+            "balance": 48999.93,
+            "transactions": [
+                {
+                    "date": "2022-11-19",
+                    "description": "Interest",
+                    "amount": 30399.28,
+                    "transaction_id": 90715120
+                }
+            ]
+        }
+    }
+}

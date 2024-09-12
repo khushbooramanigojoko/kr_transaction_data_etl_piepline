@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jennifer Robinson",
+        "age": 48,
+        "gender": "female",
+        "address": "89187 Ashley Mews Suite 682, East Frank, LA 90907",
+        "phone": "972.976.1925",
+        "email": "nwatkins@example.com",
+        "account": {
+            "account_number": "f364c204-fa8e-43b3-bf9f-a524a56e628b",
+            "balance": 35099.85,
+            "transactions": [
+                {
+                    "date": "2023-02-17",
+                    "description": "Interest",
+                    "amount": 43189.03,
+                    "transaction_id": 52498717
+                }
+            ]
+        }
+    }
+}

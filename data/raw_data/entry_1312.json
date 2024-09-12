@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Stanton",
+        "age": 58,
+        "gender": "male",
+        "address": "8995 Mendoza Roads, West Eric, SD 80138",
+        "phone": "(675)685-0653x66794",
+        "email": "nconley@example.org",
+        "account": {
+            "account_number": "15819352-29fc-4b8b-aabd-43782a16226d",
+            "balance": 35137.31,
+            "transactions": [
+                {
+                    "date": "2022-11-23",
+                    "description": "Deposit",
+                    "amount": 45075.93,
+                    "transaction_id": 89945618
+                }
+            ]
+        }
+    }
+}

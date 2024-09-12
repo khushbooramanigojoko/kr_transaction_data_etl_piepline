@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jay Day Jr.",
+        "age": 60,
+        "gender": "female",
+        "address": "73222 Richardson Shoals Suite 083, Shortshire, UT 43431",
+        "phone": "304.747.4438x1976",
+        "email": "barnettjohn@example.net",
+        "account": {
+            "account_number": "b83d1bb6-b7da-45c1-bd39-79a6266cc42e",
+            "balance": 34373.23,
+            "transactions": [
+                {
+                    "date": "2022-10-11",
+                    "description": "Withdrawal",
+                    "amount": 16401.57,
+                    "transaction_id": 51196282
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Interest",
+                    "amount": 21318.97,
+                    "transaction_id": 91742965
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Interest",
+                    "amount": 16688.8,
+                    "transaction_id": 53160761
+                },
+                {
+                    "date": "2024-01-02",
+                    "description": "Withdrawal",
+                    "amount": 15448.92,
+                    "transaction_id": 18773289
+                },
+                {
+                    "date": "2023-12-29",
+                    "description": "Withdrawal",
+                    "amount": 43657.2,
+                    "transaction_id": 92173156
+                }
+            ]
+        }
+    }
+}

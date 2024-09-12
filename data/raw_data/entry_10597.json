@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 78,
+        "gender": "female",
+        "address": "565 Campbell Squares, Wisefort, TX 08569",
+        "phone": "569.825.9893x33057",
+        "email": "sarah94@example.org",
+        "account": {
+            "account_number": "956eda33-02ec-4a9d-8610-2f3c2fab33f4",
+            "balance": 31749.72,
+            "transactions": [
+                {
+                    "date": "2023-10-01",
+                    "description": "Deposit",
+                    "amount": 4277.05,
+                    "transaction_id": 62340530
+                },
+                {
+                    "date": "2024-05-24",
+                    "description": "Withdrawal",
+                    "amount": 1998.21,
+                    "transaction_id": 117162038
+                }
+            ]
+        }
+    }
+}

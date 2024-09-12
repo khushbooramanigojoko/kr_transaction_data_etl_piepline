@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Ingram",
+        "age": 38,
+        "gender": "female",
+        "address": "8992 Davis Light, Wilsonfort, OK 44393",
+        "phone": "001-868-728-6293x41349",
+        "email": "shanemiller@example.net",
+        "account": {
+            "account_number": "f5981bcf-90b2-4887-b795-798611856529",
+            "balance": 3236.05,
+            "transactions": [
+                {
+                    "date": "2023-06-23",
+                    "description": "Withdrawal",
+                    "amount": 13981.06,
+                    "transaction_id": 82700247
+                },
+                {
+                    "date": "2023-09-09",
+                    "description": "Withdrawal",
+                    "amount": 25591.02,
+                    "transaction_id": 71782919
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Withdrawal",
+                    "amount": 1316.33,
+                    "transaction_id": 42545781
+                },
+                {
+                    "date": "2023-10-19",
+                    "description": "Interest",
+                    "amount": 21080.67,
+                    "transaction_id": 93856238
+                }
+            ]
+        }
+    }
+}

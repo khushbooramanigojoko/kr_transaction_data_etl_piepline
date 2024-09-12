@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tami Benson",
+        "age": 77,
+        "gender": "male",
+        "address": "36917 Russell Rest Apt. 863, Lake Shawn, KS 98538",
+        "phone": "001-317-664-4424",
+        "email": "deleonstacy@example.com",
+        "account": {
+            "account_number": "93365fcb-63b6-4722-80b5-089d2a813ae9",
+            "balance": 29205.23,
+            "transactions": [
+                {
+                    "date": "2024-07-07",
+                    "description": "Deposit",
+                    "amount": 28175.34,
+                    "transaction_id": 45080109
+                },
+                {
+                    "date": "2023-08-13",
+                    "description": "Deposit",
+                    "amount": 38927.64,
+                    "transaction_id": 38861247
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Deposit",
+                    "amount": 38119.33,
+                    "transaction_id": 108224216
+                },
+                {
+                    "date": "2023-07-30",
+                    "description": "Deposit",
+                    "amount": 32475.13,
+                    "transaction_id": 19576769
+                },
+                {
+                    "date": "2024-06-26",
+                    "description": "Withdrawal",
+                    "amount": 9942.77,
+                    "transaction_id": 82598746
+                }
+            ]
+        }
+    }
+}

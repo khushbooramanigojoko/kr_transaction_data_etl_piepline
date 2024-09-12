@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Anna Mitchell",
+        "age": 19,
+        "gender": "female",
+        "address": "502 Garcia Gateway, Lake Christopher, NC 60152",
+        "phone": "001-308-846-6628x11191",
+        "email": "garciaryan@example.org",
+        "account": {
+            "account_number": "582748b1-3e79-4f39-b573-19414437b125",
+            "balance": 34482.13,
+            "transactions": [
+                {
+                    "date": "2023-07-03",
+                    "description": "Withdrawal",
+                    "amount": 9029.24,
+                    "transaction_id": 52719884
+                }
+            ]
+        }
+    }
+}

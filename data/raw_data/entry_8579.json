@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Shirley Bennett",
+        "age": 32,
+        "gender": "male",
+        "address": "559 Kelly Run, Underwoodmouth, FM 39951",
+        "phone": "+1-747-461-3652x845",
+        "email": "kathleen38@example.net",
+        "account": {
+            "account_number": "f416dd56-3969-46f9-85fc-5f85d3f1a8ee",
+            "balance": 24553.59,
+            "transactions": [
+                {
+                    "date": "2024-05-30",
+                    "description": "Deposit",
+                    "amount": 36108.71,
+                    "transaction_id": 115983739
+                },
+                {
+                    "date": "2023-12-13",
+                    "description": "Withdrawal",
+                    "amount": 10630.58,
+                    "transaction_id": 13938170
+                },
+                {
+                    "date": "2023-03-11",
+                    "description": "Withdrawal",
+                    "amount": 4548.12,
+                    "transaction_id": 92576448
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Interest",
+                    "amount": 45894.75,
+                    "transaction_id": 49526405
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Interest",
+                    "amount": 49721.29,
+                    "transaction_id": 28126083
+                }
+            ]
+        }
+    }
+}

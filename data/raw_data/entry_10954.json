@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Gary Stevens",
+        "age": 43,
+        "gender": "male",
+        "address": "USNV Parrish, FPO AP 21353",
+        "phone": "298-699-6493x82083",
+        "email": "patrickjohnson@example.com",
+        "account": {
+            "account_number": "8672bd11-ca10-4dd9-943e-33e4f6d0f008",
+            "balance": -27453.13,
+            "transactions": [
+                {
+                    "date": "2023-09-06",
+                    "description": "Deposit",
+                    "amount": 2743.85,
+                    "transaction_id": 54727872
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "David Payne",
+        "age": 40,
+        "gender": "female",
+        "address": "699 Kyle Circles, East Lisafort, MP 43826",
+        "phone": "(698)887-9768x8982",
+        "email": "hwilson@example.org",
+        "account": {
+            "account_number": "5013c881-cc9a-455e-998c-4e4fb3da916e",
+            "balance": 14026.74,
+            "transactions": [
+                {
+                    "date": "2023-04-07",
+                    "description": "Withdrawal",
+                    "amount": 39410.91,
+                    "transaction_id": 6181806
+                },
+                {
+                    "date": "2023-08-30",
+                    "description": "Withdrawal",
+                    "amount": 27170.45,
+                    "transaction_id": 105054630
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Withdrawal",
+                    "amount": 3651.78,
+                    "transaction_id": 117316504
+                }
+            ]
+        }
+    }
+}

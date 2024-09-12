@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Courtney Nguyen",
+        "age": 36,
+        "gender": "female",
+        "address": "9029 Phyllis Highway Apt. 514, Lake Curtisland, IL 85608",
+        "phone": "001-236-880-0001x627",
+        "email": "jordanwilliams@example.com",
+        "account": {
+            "account_number": "50d5cd2d-713c-412d-840e-20aea550bcbd",
+            "balance": 4645.79,
+            "transactions": [
+                {
+                    "date": "2022-10-19",
+                    "description": "Deposit",
+                    "amount": 43665.04,
+                    "transaction_id": 52762876
+                },
+                {
+                    "date": "2024-06-01",
+                    "description": "Withdrawal",
+                    "amount": 41157.9,
+                    "transaction_id": 74944704
+                },
+                {
+                    "date": "2024-07-09",
+                    "description": "Deposit",
+                    "amount": 9804.19,
+                    "transaction_id": 117058944
+                }
+            ]
+        }
+    }
+}

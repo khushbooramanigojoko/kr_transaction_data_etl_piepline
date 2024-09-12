@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Jackson",
+        "age": 66,
+        "gender": "male",
+        "address": "89794 Joseph Terrace Suite 431, New Jamiefort, IA 15283",
+        "phone": "7976782640",
+        "email": "mccartymichelle@example.com",
+        "account": {
+            "account_number": "83c559ca-adf3-415a-8334-c8b57d37fdf5",
+            "balance": 33699.48,
+            "transactions": [
+                {
+                    "date": "2023-08-10",
+                    "description": "Deposit",
+                    "amount": 4959.44,
+                    "transaction_id": 62608529
+                },
+                {
+                    "date": "2023-11-03",
+                    "description": "Withdrawal",
+                    "amount": 24813.36,
+                    "transaction_id": 110719699
+                },
+                {
+                    "date": "2024-09-01",
+                    "description": "Interest",
+                    "amount": 42691.35,
+                    "transaction_id": 48272355
+                },
+                {
+                    "date": "2022-11-14",
+                    "description": "Deposit",
+                    "amount": 15612.55,
+                    "transaction_id": 115838272
+                }
+            ]
+        }
+    }
+}

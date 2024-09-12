@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Megan Lowe",
+        "age": 76,
+        "gender": "male",
+        "address": "29141 Paul Lock, Wisebury, GU 61491",
+        "phone": "(643)347-2124x28812",
+        "email": "gerald73@example.org",
+        "account": {
+            "account_number": "3820b832-d60c-462b-94a8-1d879cb0921d",
+            "balance": 21936.23,
+            "transactions": [
+                {
+                    "date": "2023-12-14",
+                    "description": "Interest",
+                    "amount": 40834.91,
+                    "transaction_id": 114101536
+                },
+                {
+                    "date": "2024-06-11",
+                    "description": "Withdrawal",
+                    "amount": 28029.52,
+                    "transaction_id": 113761998
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": 44609.04,
+                    "transaction_id": 88992713
+                }
+            ]
+        }
+    }
+}

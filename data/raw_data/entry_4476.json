@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kathy Wallace",
+        "age": 33,
+        "gender": "male",
+        "address": "457 Bailey Crossroad Apt. 430, South Jessicaview, MP 08650",
+        "phone": "001-873-628-1902",
+        "email": "benjamincole@example.org",
+        "account": {
+            "account_number": "6fd032e1-253d-4135-bc73-d2b7cba1b29d",
+            "balance": 4467.27,
+            "transactions": [
+                {
+                    "date": "2023-01-10",
+                    "description": "Withdrawal",
+                    "amount": 7292.36,
+                    "transaction_id": 98888665
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Withdrawal",
+                    "amount": 48599.36,
+                    "transaction_id": 105868740
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Deposit",
+                    "amount": 26081.02,
+                    "transaction_id": 30397362
+                },
+                {
+                    "date": "2023-07-01",
+                    "description": "Interest",
+                    "amount": 20762.53,
+                    "transaction_id": 105885955
+                }
+            ]
+        }
+    }
+}

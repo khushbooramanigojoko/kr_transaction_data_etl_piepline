@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ronald Williams",
+        "age": 18,
+        "gender": "male",
+        "address": "8780 Ross Divide, South Douglas, NV 34582",
+        "phone": "001-726-742-3935x24703",
+        "email": "wwalter@example.com",
+        "account": {
+            "account_number": "5bf96c24-2610-43b2-aa23-60358e8c8bf1",
+            "balance": 45109.79,
+            "transactions": [
+                {
+                    "date": "2023-12-14",
+                    "description": "Interest",
+                    "amount": 1261.78,
+                    "transaction_id": 58984389
+                },
+                {
+                    "date": "2024-04-11",
+                    "description": "Interest",
+                    "amount": 23004.05,
+                    "transaction_id": 94686306
+                },
+                {
+                    "date": "2024-08-16",
+                    "description": "Withdrawal",
+                    "amount": 14574.97,
+                    "transaction_id": 59700922
+                },
+                {
+                    "date": "2023-10-16",
+                    "description": "Withdrawal",
+                    "amount": 46916.65,
+                    "transaction_id": 74161091
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Withdrawal",
+                    "amount": 11305.56,
+                    "transaction_id": 59758417
+                }
+            ]
+        }
+    }
+}

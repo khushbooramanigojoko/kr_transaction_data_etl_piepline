@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tasha Gardner",
+        "age": 22,
+        "gender": "female",
+        "address": "34987 Medina Ramp Apt. 420, Hannahton, CO 81060",
+        "phone": "542-417-6700x3020",
+        "email": "baldwinrobert@example.com",
+        "account": {
+            "account_number": "22534227-3982-4e5c-8225-07a33ee00b11",
+            "balance": 44628.81,
+            "transactions": [
+                {
+                    "date": "2024-05-10",
+                    "description": "Withdrawal",
+                    "amount": 48056.12,
+                    "transaction_id": 69117879
+                }
+            ]
+        }
+    }
+}

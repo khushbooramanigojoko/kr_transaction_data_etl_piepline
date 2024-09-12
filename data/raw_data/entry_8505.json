@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Edward Hawkins",
+        "age": 95,
+        "gender": "female",
+        "address": "121 Dave Shore Apt. 151, Greerbury, TN 89047",
+        "phone": "340-312-0322x229",
+        "email": "ginahudson@example.org",
+        "account": {
+            "account_number": "9a48a653-c989-48ec-b43c-fa1dd4e96548",
+            "balance": 30232.69,
+            "transactions": [
+                {
+                    "date": "2024-01-18",
+                    "description": "Deposit",
+                    "amount": 28512.63,
+                    "transaction_id": 49715479
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Withdrawal",
+                    "amount": 33792.7,
+                    "transaction_id": 28753646
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Deposit",
+                    "amount": 10729.78,
+                    "transaction_id": 6957844
+                },
+                {
+                    "date": "2022-09-09",
+                    "description": "Withdrawal",
+                    "amount": 18974.9,
+                    "transaction_id": 6679376
+                },
+                {
+                    "date": "2023-03-02",
+                    "description": "Deposit",
+                    "amount": 46074.33,
+                    "transaction_id": 77249071
+                }
+            ]
+        }
+    }
+}

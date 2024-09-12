@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Roger French",
+        "age": 40,
+        "gender": "male",
+        "address": "189 Alexander Throughway, East Mark, NJ 14495",
+        "phone": "(287)895-1823x599",
+        "email": "kjohnson@example.com",
+        "account": {
+            "account_number": "228ccba9-7314-4b31-a97c-6ec795c06565",
+            "balance": 31861.97,
+            "transactions": [
+                {
+                    "date": "2024-08-03",
+                    "description": "Deposit",
+                    "amount": 14768.95,
+                    "transaction_id": 20111314
+                },
+                {
+                    "date": "2023-10-19",
+                    "description": "Deposit",
+                    "amount": 15400.59,
+                    "transaction_id": 63706654
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Withdrawal",
+                    "amount": 20401.19,
+                    "transaction_id": 90599785
+                }
+            ]
+        }
+    }
+}

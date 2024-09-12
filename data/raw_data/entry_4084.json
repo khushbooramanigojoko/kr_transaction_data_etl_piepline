@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ann Lee",
+        "age": 95,
+        "gender": "male",
+        "address": "20251 Jones Brooks, East Kristinville, AK 86916",
+        "phone": "+1-624-730-8156x3425",
+        "email": "kevin91@example.org",
+        "account": {
+            "account_number": "a6f2772d-6e07-444c-ab98-4c5fb8acbdda",
+            "balance": 28288.48,
+            "transactions": [
+                {
+                    "date": "2023-11-21",
+                    "description": "Interest",
+                    "amount": 36886.48,
+                    "transaction_id": 63835553
+                },
+                {
+                    "date": "2023-01-01",
+                    "description": "Deposit",
+                    "amount": 40520.51,
+                    "transaction_id": 17650327
+                },
+                {
+                    "date": "2022-11-22",
+                    "description": "Interest",
+                    "amount": 18559.76,
+                    "transaction_id": 78825720
+                },
+                {
+                    "date": "2022-11-29",
+                    "description": "Interest",
+                    "amount": 43964.59,
+                    "transaction_id": 10632641
+                }
+            ]
+        }
+    }
+}

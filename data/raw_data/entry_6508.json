@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michelle Cox",
+        "age": 21,
+        "gender": "female",
+        "address": "25845 Anderson Underpass Suite 604, Timothyview, LA 15175",
+        "phone": "434-906-0738",
+        "email": "wedwards@example.net",
+        "account": {
+            "account_number": "c2b434f8-55d7-45cb-81f5-5b32525b8da7",
+            "balance": 39831.91,
+            "transactions": [
+                {
+                    "date": "2023-03-23",
+                    "description": "Interest",
+                    "amount": 2892.09,
+                    "transaction_id": 112398229
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Deposit",
+                    "amount": 2505.18,
+                    "transaction_id": 106227984
+                },
+                {
+                    "date": "2022-12-07",
+                    "description": "Interest",
+                    "amount": 27293.3,
+                    "transaction_id": 69926539
+                },
+                {
+                    "date": "2023-06-25",
+                    "description": "Withdrawal",
+                    "amount": 8218.4,
+                    "transaction_id": 116206292
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Withdrawal",
+                    "amount": 1297.97,
+                    "transaction_id": 25646744
+                }
+            ]
+        }
+    }
+}

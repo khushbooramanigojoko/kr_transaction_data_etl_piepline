@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Denise Harris",
+        "age": 33,
+        "gender": "female",
+        "address": "PSC 4319, Box 6942, APO AP 70427",
+        "phone": "400.320.5281",
+        "email": "bradleyterry@example.org",
+        "account": {
+            "account_number": "a9617185-1b75-4e45-8a3f-7bedaaab43ee",
+            "balance": 26569.4,
+            "transactions": [
+                {
+                    "date": "2024-01-26",
+                    "description": "Interest",
+                    "amount": 47126.6,
+                    "transaction_id": 90299768
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Interest",
+                    "amount": 27091.39,
+                    "transaction_id": 54908158
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Deposit",
+                    "amount": 20541.51,
+                    "transaction_id": 40539705
+                },
+                {
+                    "date": "2022-12-04",
+                    "description": "Withdrawal",
+                    "amount": 7685.38,
+                    "transaction_id": 97963963
+                },
+                {
+                    "date": "2023-01-08",
+                    "description": "Withdrawal",
+                    "amount": 1365.17,
+                    "transaction_id": 56076910
+                }
+            ]
+        }
+    }
+}

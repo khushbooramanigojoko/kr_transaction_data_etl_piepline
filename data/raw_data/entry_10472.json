@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dawn Mendez",
+        "age": 69,
+        "gender": "female",
+        "address": "353 Miller Wells Suite 480, West Andrea, KY 95420",
+        "phone": "+1-768-366-2927x443",
+        "email": "henry56@example.org",
+        "account": {
+            "account_number": "5100d35a-86a2-423b-a67e-e87f0730ba72",
+            "balance": -4914.53,
+            "transactions": [
+                {
+                    "date": "2023-04-05",
+                    "description": "Interest",
+                    "amount": -2136.66,
+                    "transaction_id": 11202618
+                },
+                {
+                    "date": "2024-03-15",
+                    "description": "Interest",
+                    "amount": 1290.56,
+                    "transaction_id": 43971445
+                },
+                {
+                    "date": "2024-08-11",
+                    "description": "Withdrawal",
+                    "amount": -1348.96,
+                    "transaction_id": 81946205
+                },
+                {
+                    "date": "2023-10-22",
+                    "description": "Deposit",
+                    "amount": -786.24,
+                    "transaction_id": 83494861
+                }
+            ]
+        }
+    }
+}

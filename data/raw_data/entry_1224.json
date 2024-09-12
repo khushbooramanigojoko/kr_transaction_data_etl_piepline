@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Barry Parker",
+        "age": 46,
+        "gender": "female",
+        "address": "32124 Kaiser Oval Suite 400, East Cherylborough, HI 53277",
+        "phone": "(274)599-2638",
+        "email": "paul01@example.org",
+        "account": {
+            "account_number": "0586b466-20eb-4a16-85bc-6dd345a9f84f",
+            "balance": 30271.8,
+            "transactions": [
+                {
+                    "date": "2022-12-26",
+                    "description": "Deposit",
+                    "amount": 10769.63,
+                    "transaction_id": 98572647
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Interest",
+                    "amount": 26799.0,
+                    "transaction_id": 89588289
+                }
+            ]
+        }
+    }
+}

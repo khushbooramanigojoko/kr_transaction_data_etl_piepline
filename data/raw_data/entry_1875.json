@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Andre Chambers",
+        "age": 30,
+        "gender": "male",
+        "address": "73093 Robert Estate, South Emily, FL 10718",
+        "phone": "274.278.7605x85103",
+        "email": "curtisjacob@example.org",
+        "account": {
+            "account_number": "0792e61f-6f47-45ce-9c9e-f6a990f52025",
+            "balance": 34340.36,
+            "transactions": [
+                {
+                    "date": "2024-04-20",
+                    "description": "Interest",
+                    "amount": 5030.17,
+                    "transaction_id": 90478650
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Interest",
+                    "amount": 19764.98,
+                    "transaction_id": 110855580
+                }
+            ]
+        }
+    }
+}

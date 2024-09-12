@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kirsten Frost",
+        "age": 68,
+        "gender": "female",
+        "address": "019 Krause Common Apt. 008, Port Amymouth, ID 92418",
+        "phone": "001-709-222-6764x34243",
+        "email": "huertaalexander@example.org",
+        "account": {
+            "account_number": "6f6cdbf8-7caf-4cdb-8792-c6ed8df52a66",
+            "balance": 33169.08,
+            "transactions": [
+                {
+                    "date": "2023-12-15",
+                    "description": "Interest",
+                    "amount": 23124.87,
+                    "transaction_id": 109780020
+                }
+            ]
+        }
+    }
+}

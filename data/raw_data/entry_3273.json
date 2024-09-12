@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sandra Fuentes",
+        "age": 69,
+        "gender": "female",
+        "address": "2660 Billy Stravenue Suite 953, New Ericbury, NJ 15013",
+        "phone": "632.548.3804",
+        "email": "tom67@example.org",
+        "account": {
+            "account_number": "f50575a8-b053-4bba-8fd4-5e96cae0f39d",
+            "balance": 29444.88,
+            "transactions": [
+                {
+                    "date": "2024-01-09",
+                    "description": "Interest",
+                    "amount": 8784.54,
+                    "transaction_id": 2121948
+                },
+                {
+                    "date": "2024-06-28",
+                    "description": "Interest",
+                    "amount": 49636.73,
+                    "transaction_id": 64978825
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Interest",
+                    "amount": 36558.91,
+                    "transaction_id": 34192032
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Deposit",
+                    "amount": 5767.13,
+                    "transaction_id": 103260936
+                },
+                {
+                    "date": "2023-07-03",
+                    "description": "Interest",
+                    "amount": 43075.19,
+                    "transaction_id": 79456897
+                }
+            ]
+        }
+    }
+}

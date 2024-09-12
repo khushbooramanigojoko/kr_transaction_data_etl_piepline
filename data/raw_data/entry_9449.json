@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brent Lee",
+        "age": 32,
+        "gender": "male",
+        "address": "PSC 9018, Box 6422, APO AE 11785",
+        "phone": "601-689-4663x307",
+        "email": "keyrussell@example.com",
+        "account": {
+            "account_number": "948de2ca-eec0-43b8-825a-ebfb8db0084b",
+            "balance": -33916.55,
+            "transactions": [
+                {
+                    "date": "2023-09-05",
+                    "description": "Deposit",
+                    "amount": 1999.81,
+                    "transaction_id": 95075168
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Deposit",
+                    "amount": 4277.23,
+                    "transaction_id": 108134057
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Interest",
+                    "amount": 3598.83,
+                    "transaction_id": 25230763
+                },
+                {
+                    "date": "2024-05-25",
+                    "description": "Deposit",
+                    "amount": 3521.56,
+                    "transaction_id": 51591975
+                }
+            ]
+        }
+    }
+}

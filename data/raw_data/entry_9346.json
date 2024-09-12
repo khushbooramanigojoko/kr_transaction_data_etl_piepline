@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Courtney Morrison",
+        "age": 96,
+        "gender": "female",
+        "address": "24219 Nicole Fords Suite 860, East Edward, AK 14495",
+        "phone": "(552)735-3967",
+        "email": "sethclarke@example.net",
+        "account": {
+            "account_number": "8b35eae2-0fae-4609-a174-432118f8992b",
+            "balance": -19750.88,
+            "transactions": [
+                {
+                    "date": "2022-09-05",
+                    "description": "Deposit",
+                    "amount": 1290.1,
+                    "transaction_id": 45797199
+                },
+                {
+                    "date": "2022-11-07",
+                    "description": "Withdrawal",
+                    "amount": -4015.27,
+                    "transaction_id": 34948998
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Withdrawal",
+                    "amount": 4050.99,
+                    "transaction_id": 79239017
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Deposit",
+                    "amount": -3461.7,
+                    "transaction_id": 61440904
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Withdrawal",
+                    "amount": 3214.42,
+                    "transaction_id": 108513003
+                }
+            ]
+        }
+    }
+}

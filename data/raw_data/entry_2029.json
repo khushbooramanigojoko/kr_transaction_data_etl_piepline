@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joshua Alvarado",
+        "age": 60,
+        "gender": "male",
+        "address": "1379 Johnson Mount Apt. 695, Lake Marthaville, OK 45474",
+        "phone": "735.864.7745x96278",
+        "email": "yrivera@example.org",
+        "account": {
+            "account_number": "85289dff-afbf-4db0-8ca4-0ed336166d91",
+            "balance": 28791.86,
+            "transactions": [
+                {
+                    "date": "2023-09-11",
+                    "description": "Deposit",
+                    "amount": 9015.71,
+                    "transaction_id": 82499266
+                },
+                {
+                    "date": "2023-03-23",
+                    "description": "Withdrawal",
+                    "amount": 49156.57,
+                    "transaction_id": 56791154
+                }
+            ]
+        }
+    }
+}

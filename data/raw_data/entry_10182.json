@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 95,
+        "gender": "male",
+        "address": "19118 Lauren Causeway Suite 401, East Annatown, RI 69473",
+        "phone": "001-763-745-7261x801",
+        "email": "anthony75@example.net",
+        "account": {
+            "account_number": "9dddb1b0-4416-456e-a597-60dc89afe91a",
+            "balance": 45200.23,
+            "transactions": [
+                {
+                    "date": "2024-01-18",
+                    "description": "Withdrawal",
+                    "amount": 2914.98,
+                    "transaction_id": 53754912
+                },
+                {
+                    "date": "2024-06-05",
+                    "description": "Interest",
+                    "amount": 4095.45,
+                    "transaction_id": 57370589
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Withdrawal",
+                    "amount": -868.64,
+                    "transaction_id": 101637514
+                },
+                {
+                    "date": "2023-08-24",
+                    "description": "Interest",
+                    "amount": -4105.51,
+                    "transaction_id": 65192029
+                },
+                {
+                    "date": "2024-02-28",
+                    "description": "Withdrawal",
+                    "amount": -2691.7,
+                    "transaction_id": 72686224
+                }
+            ]
+        }
+    }
+}

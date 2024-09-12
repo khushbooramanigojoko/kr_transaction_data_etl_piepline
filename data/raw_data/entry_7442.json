@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Diana Hicks",
+        "age": 56,
+        "gender": "male",
+        "address": "60334 Rodriguez Expressway Apt. 256, New Tiffany, LA 76134",
+        "phone": "(600)211-2546",
+        "email": "millertodd@example.org",
+        "account": {
+            "account_number": "a43f2614-ac2b-41e8-9787-21724c1626db",
+            "balance": 36218.31,
+            "transactions": [
+                {
+                    "date": "2023-10-24",
+                    "description": "Withdrawal",
+                    "amount": 45880.87,
+                    "transaction_id": 5522544
+                }
+            ]
+        }
+    }
+}

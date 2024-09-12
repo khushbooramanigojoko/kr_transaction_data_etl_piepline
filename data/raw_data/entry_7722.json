@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Nicholas Turner",
+        "age": 42,
+        "gender": "female",
+        "address": "79012 Alison Rapids, Sanchezland, IN 46823",
+        "phone": "287.611.7204x0933",
+        "email": "harrisonpatricia@example.org",
+        "account": {
+            "account_number": "cf162aa5-3375-42a2-b4ba-3441d595811d",
+            "balance": 2724.61,
+            "transactions": [
+                {
+                    "date": "2023-04-14",
+                    "description": "Withdrawal",
+                    "amount": 47468.37,
+                    "transaction_id": 91756309
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Interest",
+                    "amount": 26615.01,
+                    "transaction_id": 116496047
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Withdrawal",
+                    "amount": 36657.8,
+                    "transaction_id": 64881936
+                }
+            ]
+        }
+    }
+}

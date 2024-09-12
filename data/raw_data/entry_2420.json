@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Karen Booker",
+        "age": 65,
+        "gender": "female",
+        "address": "PSC 2463, Box 8808, APO AP 23939",
+        "phone": "(310)595-0136x388",
+        "email": "afreeman@example.org",
+        "account": {
+            "account_number": "18a9f087-75ae-4362-8aff-fe7203084a42",
+            "balance": 22123.29,
+            "transactions": [
+                {
+                    "date": "2024-02-13",
+                    "description": "Interest",
+                    "amount": 39633.51,
+                    "transaction_id": 118194334
+                },
+                {
+                    "date": "2024-04-04",
+                    "description": "Interest",
+                    "amount": 7651.48,
+                    "transaction_id": 115164460
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Interest",
+                    "amount": 3200.15,
+                    "transaction_id": 13202653
+                }
+            ]
+        }
+    }
+}

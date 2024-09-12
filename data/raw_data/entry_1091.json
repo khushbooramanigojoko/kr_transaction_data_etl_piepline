@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Terri Dickerson",
+        "age": 31,
+        "gender": "male",
+        "address": "Unit 7663 Box 0387, DPO AP 24059",
+        "phone": "(816)983-7176",
+        "email": "rachel71@example.com",
+        "account": {
+            "account_number": "2119bbf5-387a-4304-9b1e-3b895c7a2aef",
+            "balance": 49232.8,
+            "transactions": [
+                {
+                    "date": "2023-03-25",
+                    "description": "Deposit",
+                    "amount": 2960.38,
+                    "transaction_id": 10066884
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Withdrawal",
+                    "amount": 20817.67,
+                    "transaction_id": 67497636
+                }
+            ]
+        }
+    }
+}

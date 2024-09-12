@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kelly Cantrell",
+        "age": 66,
+        "gender": "male",
+        "address": "527 Johnson Meadow Suite 670, Donnafort, AS 13934",
+        "phone": "863-813-0824",
+        "email": "cherylboyer@example.net",
+        "account": {
+            "account_number": "e8549fb0-e508-40dd-b033-b807e45174a0",
+            "balance": 45550.85,
+            "transactions": [
+                {
+                    "date": "2024-08-27",
+                    "description": "Deposit",
+                    "amount": 23507.89,
+                    "transaction_id": 14514263
+                },
+                {
+                    "date": "2023-01-13",
+                    "description": "Deposit",
+                    "amount": 44731.36,
+                    "transaction_id": 28241845
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Interest",
+                    "amount": 2276.71,
+                    "transaction_id": 20447568
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "George Miller",
+        "age": 58,
+        "gender": "male",
+        "address": "0502 George Glen, Johnsonchester, AS 46795",
+        "phone": "+1-862-310-7468",
+        "email": "elaineharris@example.org",
+        "account": {
+            "account_number": "16dab9d8-20e0-4ed5-a52d-baa6438257d4",
+            "balance": 19692.16,
+            "transactions": [
+                {
+                    "date": "2023-09-27",
+                    "description": "Deposit",
+                    "amount": 20442.1,
+                    "transaction_id": 24824863
+                },
+                {
+                    "date": "2023-11-11",
+                    "description": "Deposit",
+                    "amount": 18027.36,
+                    "transaction_id": 44576647
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Deposit",
+                    "amount": 47176.99,
+                    "transaction_id": 61089118
+                },
+                {
+                    "date": "2023-04-19",
+                    "description": "Interest",
+                    "amount": 21371.91,
+                    "transaction_id": 60691146
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Deposit",
+                    "amount": 20009.53,
+                    "transaction_id": 12078050
+                }
+            ]
+        }
+    }
+}

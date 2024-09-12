@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 33,
+        "gender": "female",
+        "address": "857 Tapia Greens, Jamesmouth, MD 54204",
+        "phone": "391.520.4104",
+        "email": "parkeranna@example.net",
+        "account": {
+            "account_number": "7584a7b5-c63d-41f9-8779-d42aa2e63a27",
+            "balance": 13873.44,
+            "transactions": [
+                {
+                    "date": "2023-06-05",
+                    "description": "Deposit",
+                    "amount": -774.92,
+                    "transaction_id": 26775999
+                }
+            ]
+        }
+    }
+}

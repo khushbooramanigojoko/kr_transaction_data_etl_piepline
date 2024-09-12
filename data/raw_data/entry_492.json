@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Stephen Raymond",
+        "age": 62,
+        "gender": "female",
+        "address": "PSC 6767, Box 4939, APO AE 86052",
+        "phone": "+1-705-714-8879x56669",
+        "email": "joshua77@example.org",
+        "account": {
+            "account_number": "ed2c0358-bd75-422b-b882-4390c1042526",
+            "balance": 38174.63,
+            "transactions": [
+                {
+                    "date": "2022-11-01",
+                    "description": "Deposit",
+                    "amount": 24470.03,
+                    "transaction_id": 60559773
+                },
+                {
+                    "date": "2024-01-10",
+                    "description": "Deposit",
+                    "amount": 47207.42,
+                    "transaction_id": 76686838
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Withdrawal",
+                    "amount": 15641.73,
+                    "transaction_id": 80062894
+                }
+            ]
+        }
+    }
+}

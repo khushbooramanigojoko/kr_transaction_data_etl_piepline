@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Judith Harper",
+        "age": 72,
+        "gender": "male",
+        "address": "168 Hill Gateway, Robertshire, HI 83176",
+        "phone": "862-710-0196x41870",
+        "email": "michaeldunlap@example.com",
+        "account": {
+            "account_number": "072553bb-1fc4-46f2-a939-ccd737b9c6c9",
+            "balance": 4030.57,
+            "transactions": [
+                {
+                    "date": "2024-04-02",
+                    "description": "Withdrawal",
+                    "amount": 9818.92,
+                    "transaction_id": 33958396
+                },
+                {
+                    "date": "2024-07-14",
+                    "description": "Withdrawal",
+                    "amount": 28654.93,
+                    "transaction_id": 102054494
+                },
+                {
+                    "date": "2024-04-24",
+                    "description": "Withdrawal",
+                    "amount": 47815.42,
+                    "transaction_id": 35358154
+                }
+            ]
+        }
+    }
+}

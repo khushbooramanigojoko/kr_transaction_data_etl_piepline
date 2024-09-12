@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Allen Kane",
+        "age": 54,
+        "gender": "female",
+        "address": "26230 Klein Burgs, South Sarahtown, OK 03909",
+        "phone": "001-478-319-7115x4805",
+        "email": "phillipsjohn@example.net",
+        "account": {
+            "account_number": "2ed82506-adc9-451b-89dd-f6e88700fa09",
+            "balance": 43546.9,
+            "transactions": [
+                {
+                    "date": "2024-05-31",
+                    "description": "Interest",
+                    "amount": 43835.32,
+                    "transaction_id": 4818134
+                },
+                {
+                    "date": "2023-01-10",
+                    "description": "Interest",
+                    "amount": 23432.46,
+                    "transaction_id": 86705511
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Withdrawal",
+                    "amount": 33798.71,
+                    "transaction_id": 22623749
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Matthew Benson",
+        "age": 34,
+        "gender": "female",
+        "address": "97668 Christian Parkways, Lake Victoriaburgh, PW 22354",
+        "phone": "5786231881",
+        "email": "murillochristopher@example.org",
+        "account": {
+            "account_number": "47755647-e359-4516-b777-8bc14e7e5bab",
+            "balance": 3526.47,
+            "transactions": [
+                {
+                    "date": "2024-08-22",
+                    "description": "Deposit",
+                    "amount": 44099.99,
+                    "transaction_id": 115847046
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Interest",
+                    "amount": 32634.96,
+                    "transaction_id": 54398678
+                }
+            ]
+        }
+    }
+}

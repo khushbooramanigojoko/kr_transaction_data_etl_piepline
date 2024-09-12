@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Adam Boyd",
+        "age": 42,
+        "gender": "male",
+        "address": "0701 Gregory Well Apt. 763, Port Monica, PR 97082",
+        "phone": "399-678-4849x5738",
+        "email": "jeremyrivera@example.net",
+        "account": {
+            "account_number": "178494b9-97d3-46b2-bcd1-7b9e2105d5b8",
+            "balance": 27974.15,
+            "transactions": [
+                {
+                    "date": "2023-03-07",
+                    "description": "Withdrawal",
+                    "amount": 47543.07,
+                    "transaction_id": 102413726
+                }
+            ]
+        }
+    }
+}

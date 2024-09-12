@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Susan Carrillo",
+        "age": 61,
+        "gender": "male",
+        "address": "14732 Garcia Bridge, West Sarah, NH 05592",
+        "phone": "(821)761-8079x88801",
+        "email": "xsteele@example.net",
+        "account": {
+            "account_number": "39abf609-e9ea-42d4-b52c-aa572b3adb50",
+            "balance": 48731.74,
+            "transactions": [
+                {
+                    "date": "2023-08-29",
+                    "description": "Deposit",
+                    "amount": 32585.8,
+                    "transaction_id": 16473310
+                },
+                {
+                    "date": "2023-06-30",
+                    "description": "Withdrawal",
+                    "amount": 31672.25,
+                    "transaction_id": 17920167
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Deposit",
+                    "amount": 49842.06,
+                    "transaction_id": 41683748
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Deposit",
+                    "amount": 2462.68,
+                    "transaction_id": 85395131
+                },
+                {
+                    "date": "2023-09-07",
+                    "description": "Interest",
+                    "amount": 22416.54,
+                    "transaction_id": 22679998
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sarah Johnson",
+        "age": 42,
+        "gender": "male",
+        "address": "PSC 7424, Box 3065, APO AA 49153",
+        "phone": "7208711086",
+        "email": "rodriguezjoshua@example.com",
+        "account": {
+            "account_number": "78dc1486-7345-4895-b08a-1e70e88e9689",
+            "balance": 30014.33,
+            "transactions": [
+                {
+                    "date": "2024-04-02",
+                    "description": "Withdrawal",
+                    "amount": 28778.65,
+                    "transaction_id": 70728268
+                },
+                {
+                    "date": "2024-07-26",
+                    "description": "Interest",
+                    "amount": 23049.29,
+                    "transaction_id": 40932568
+                },
+                {
+                    "date": "2024-05-29",
+                    "description": "Interest",
+                    "amount": 24222.21,
+                    "transaction_id": 78825408
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Interest",
+                    "amount": 12602.95,
+                    "transaction_id": 90841016
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Deposit",
+                    "amount": 8975.85,
+                    "transaction_id": 30546161
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sandra Moss",
+        "age": 31,
+        "gender": "female",
+        "address": "499 Miller Crest Apt. 396, East Jessica, MA 73718",
+        "phone": "001-437-701-2805",
+        "email": "dianaherrera@example.net",
+        "account": {
+            "account_number": "c93980a1-c9aa-400b-9f87-4dbb5fedf4db",
+            "balance": 10397.29,
+            "transactions": [
+                {
+                    "date": "2023-06-18",
+                    "description": "Deposit",
+                    "amount": 8268.84,
+                    "transaction_id": 32782521
+                },
+                {
+                    "date": "2023-02-26",
+                    "description": "Withdrawal",
+                    "amount": 20896.3,
+                    "transaction_id": 95360364
+                },
+                {
+                    "date": "2024-01-24",
+                    "description": "Interest",
+                    "amount": 21557.53,
+                    "transaction_id": 115106395
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Deposit",
+                    "amount": 3816.69,
+                    "transaction_id": 19829168
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Deposit",
+                    "amount": 47271.6,
+                    "transaction_id": 52066743
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brittany Howard",
+        "age": 48,
+        "gender": "male",
+        "address": "853 Michael Forks, East Kathybury, CO 61423",
+        "phone": "001-247-521-3341x3341",
+        "email": "nguyenjohn@example.net",
+        "account": {
+            "account_number": "7b01c4e8-4296-4737-b527-b9e8abe1bf5e",
+            "balance": -28947.99,
+            "transactions": [
+                {
+                    "date": "2023-09-29",
+                    "description": "Withdrawal",
+                    "amount": -525.17,
+                    "transaction_id": 70414403
+                }
+            ]
+        }
+    }
+}

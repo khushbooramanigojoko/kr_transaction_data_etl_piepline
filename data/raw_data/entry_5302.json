@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Heather Flynn",
+        "age": 26,
+        "gender": "female",
+        "address": "USCGC Haney, FPO AP 34670",
+        "phone": "001-842-458-4496x28005",
+        "email": "jessedavis@example.com",
+        "account": {
+            "account_number": "ed9b0b66-8254-4d50-881a-8310b632bfaa",
+            "balance": 25653.17,
+            "transactions": [
+                {
+                    "date": "2023-09-13",
+                    "description": "Withdrawal",
+                    "amount": 12032.97,
+                    "transaction_id": 81921191
+                }
+            ]
+        }
+    }
+}

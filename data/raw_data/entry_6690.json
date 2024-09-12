@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Leslie Doyle",
+        "age": 52,
+        "gender": "female",
+        "address": "70467 Daisy Turnpike Suite 533, Davismouth, IL 01784",
+        "phone": "(346)614-0826",
+        "email": "wendy27@example.net",
+        "account": {
+            "account_number": "ee35a92c-4dcb-44fb-a2e5-6d3f91fc200a",
+            "balance": 38653.31,
+            "transactions": [
+                {
+                    "date": "2024-07-09",
+                    "description": "Deposit",
+                    "amount": 13041.1,
+                    "transaction_id": 50946658
+                },
+                {
+                    "date": "2023-01-03",
+                    "description": "Interest",
+                    "amount": 3215.1,
+                    "transaction_id": 16811169
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mariah Gilmore",
+        "age": 70,
+        "gender": "female",
+        "address": "3130 Salinas Station, Livingstonview, KY 35154",
+        "phone": "001-323-694-7479",
+        "email": "kingkrista@example.org",
+        "account": {
+            "account_number": "0fa6f626-ee73-4e51-a1f7-8386791e06d5",
+            "balance": 40437.58,
+            "transactions": [
+                {
+                    "date": "2024-01-09",
+                    "description": "Interest",
+                    "amount": 49613.06,
+                    "transaction_id": 71834496
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Interest",
+                    "amount": 32729.22,
+                    "transaction_id": 70992639
+                },
+                {
+                    "date": "2023-04-05",
+                    "description": "Interest",
+                    "amount": 36928.73,
+                    "transaction_id": 91261660
+                }
+            ]
+        }
+    }
+}

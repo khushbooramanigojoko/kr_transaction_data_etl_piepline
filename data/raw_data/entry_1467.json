@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jaclyn Thomas",
+        "age": 91,
+        "gender": "male",
+        "address": "5610 Wood Cliffs, Duffyport, MD 38568",
+        "phone": "(412)224-8760x84312",
+        "email": "jamesbutler@example.org",
+        "account": {
+            "account_number": "45cbd7d7-5517-44ca-a98c-817b227744d7",
+            "balance": 40073.74,
+            "transactions": [
+                {
+                    "date": "2023-09-13",
+                    "description": "Interest",
+                    "amount": 39578.51,
+                    "transaction_id": 40834257
+                },
+                {
+                    "date": "2023-08-09",
+                    "description": "Deposit",
+                    "amount": 37438.68,
+                    "transaction_id": 27268947
+                },
+                {
+                    "date": "2024-01-02",
+                    "description": "Deposit",
+                    "amount": 10063.35,
+                    "transaction_id": 112624461
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Deposit",
+                    "amount": 5021.11,
+                    "transaction_id": 55326929
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Withdrawal",
+                    "amount": 27909.14,
+                    "transaction_id": 99947234
+                }
+            ]
+        }
+    }
+}

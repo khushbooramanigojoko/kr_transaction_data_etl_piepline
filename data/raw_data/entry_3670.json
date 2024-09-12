@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mary Vance",
+        "age": 29,
+        "gender": "female",
+        "address": "93016 Matthews Mission, East Bryce, ME 60532",
+        "phone": "(869)913-5175",
+        "email": "flawrence@example.org",
+        "account": {
+            "account_number": "44cd7b8b-0331-4eb0-b58c-4969ccc90c29",
+            "balance": 26250.83,
+            "transactions": [
+                {
+                    "date": "2023-04-05",
+                    "description": "Withdrawal",
+                    "amount": 36953.75,
+                    "transaction_id": 109680324
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Withdrawal",
+                    "amount": 7822.29,
+                    "transaction_id": 61842851
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Interest",
+                    "amount": 7788.91,
+                    "transaction_id": 6489589
+                },
+                {
+                    "date": "2023-05-04",
+                    "description": "Deposit",
+                    "amount": 45218.33,
+                    "transaction_id": 69320549
+                },
+                {
+                    "date": "2023-11-07",
+                    "description": "Interest",
+                    "amount": 6656.89,
+                    "transaction_id": 1161960
+                }
+            ]
+        }
+    }
+}

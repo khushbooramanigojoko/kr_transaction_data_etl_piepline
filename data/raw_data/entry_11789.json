@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 99,
+        "gender": "female",
+        "address": "72725 Adams Groves, Lake Karenfurt, CT 76220",
+        "phone": "595.635.2300x758",
+        "email": "lmiller@example.org",
+        "account": {
+            "account_number": "9b52b3cc-33be-49ba-9260-1b8969cd7af0",
+            "balance": 20087.02,
+            "transactions": [
+                {
+                    "date": "2023-05-08",
+                    "description": "Deposit",
+                    "amount": 3634.36,
+                    "transaction_id": 23422438
+                }
+            ]
+        }
+    }
+}

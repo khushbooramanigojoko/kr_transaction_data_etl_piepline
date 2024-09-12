@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 87,
+        "gender": "male",
+        "address": "183 Woods Field Suite 020, North Bryanmouth, IL 40493",
+        "phone": "861-484-8294",
+        "email": "huntjoshua@example.org",
+        "account": {
+            "account_number": "c055b90f-be67-4a5f-b463-a1c53701c0bc",
+            "balance": 31488.11,
+            "transactions": [
+                {
+                    "date": "2023-11-19",
+                    "description": "Withdrawal",
+                    "amount": -1454.04,
+                    "transaction_id": 48689106
+                },
+                {
+                    "date": "2023-05-07",
+                    "description": "Interest",
+                    "amount": -2252.02,
+                    "transaction_id": 15556601
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Nicholas Crawford",
+        "age": 54,
+        "gender": "female",
+        "address": "486 Lewis Lock Apt. 092, South Jeffreychester, RI 01746",
+        "phone": "+1-291-870-1488x0233",
+        "email": "fchavez@example.net",
+        "account": {
+            "account_number": "434166ed-b1d2-4424-b7a1-3c5be06b7c72",
+            "balance": -41348.81,
+            "transactions": [
+                {
+                    "date": "2024-04-10",
+                    "description": "Interest",
+                    "amount": 739.78,
+                    "transaction_id": 58095194
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Zachary Foster",
+        "age": 72,
+        "gender": "female",
+        "address": "30927 Linda Ways, North Christopherfurt, GA 14179",
+        "phone": "+1-419-580-2273x237",
+        "email": "ggardner@example.com",
+        "account": {
+            "account_number": "a6a7585a-5674-49a8-b839-2a3ba9af97a3",
+            "balance": 43867.58,
+            "transactions": [
+                {
+                    "date": "2024-05-24",
+                    "description": "Deposit",
+                    "amount": 5847.06,
+                    "transaction_id": 77566865
+                },
+                {
+                    "date": "2023-01-09",
+                    "description": "Interest",
+                    "amount": 9538.84,
+                    "transaction_id": 30499397
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Interest",
+                    "amount": 32253.01,
+                    "transaction_id": 43300613
+                },
+                {
+                    "date": "2023-06-18",
+                    "description": "Withdrawal",
+                    "amount": 14818.99,
+                    "transaction_id": 49393442
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Withdrawal",
+                    "amount": 28677.73,
+                    "transaction_id": 93732881
+                }
+            ]
+        }
+    }
+}

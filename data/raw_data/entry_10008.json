@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 49,
+        "gender": "female",
+        "address": "86045 Chang Grove, New Darryl, KY 14122",
+        "phone": "+1-784-309-9373x68527",
+        "email": "daviswilliam@example.com",
+        "account": {
+            "account_number": "e20000c4-b3b0-4577-a60a-8e8d5236e6fd",
+            "balance": 28537.06,
+            "transactions": [
+                {
+                    "date": "2022-12-18",
+                    "description": "Deposit",
+                    "amount": 1520.93,
+                    "transaction_id": 50742275
+                },
+                {
+                    "date": "2022-10-13",
+                    "description": "Deposit",
+                    "amount": 4682.13,
+                    "transaction_id": 62715022
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Withdrawal",
+                    "amount": 648.57,
+                    "transaction_id": 7207611
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Withdrawal",
+                    "amount": -495.33,
+                    "transaction_id": 18713780
+                },
+                {
+                    "date": "2024-05-20",
+                    "description": "Withdrawal",
+                    "amount": -2515.95,
+                    "transaction_id": 27403168
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mrs. Christina Anderson",
+        "age": 45,
+        "gender": "female",
+        "address": "6451 Salazar Pike Suite 852, New Cynthia, KY 33380",
+        "phone": "680-769-2721x0059",
+        "email": "mercadoaaron@example.org",
+        "account": {
+            "account_number": "a6f9a400-db6d-4da1-93b3-553aeb8d6089",
+            "balance": 45498.83,
+            "transactions": [
+                {
+                    "date": "2024-06-30",
+                    "description": "Withdrawal",
+                    "amount": 7014.18,
+                    "transaction_id": 51640244
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Interest",
+                    "amount": 6064.76,
+                    "transaction_id": 51443379
+                }
+            ]
+        }
+    }
+}

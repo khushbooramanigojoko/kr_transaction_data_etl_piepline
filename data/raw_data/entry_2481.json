@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Reginald Gonzalez",
+        "age": 44,
+        "gender": "female",
+        "address": "PSC 4909, Box 1509, APO AE 20433",
+        "phone": "869.740.1131x558",
+        "email": "hallrichard@example.org",
+        "account": {
+            "account_number": "a0a1db9e-e20e-4333-ad63-174518e6edcb",
+            "balance": 29074.73,
+            "transactions": [
+                {
+                    "date": "2023-11-03",
+                    "description": "Withdrawal",
+                    "amount": 34546.53,
+                    "transaction_id": 105211146
+                },
+                {
+                    "date": "2023-05-05",
+                    "description": "Interest",
+                    "amount": 17135.55,
+                    "transaction_id": 57442749
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Deposit",
+                    "amount": 1360.21,
+                    "transaction_id": 44883330
+                },
+                {
+                    "date": "2024-07-04",
+                    "description": "Deposit",
+                    "amount": 4423.83,
+                    "transaction_id": 70324050
+                }
+            ]
+        }
+    }
+}

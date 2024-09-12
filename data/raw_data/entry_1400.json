@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brandon Adams",
+        "age": 69,
+        "gender": "male",
+        "address": "9240 Cortez Shoal, Johnchester, ME 15245",
+        "phone": "272.274.5156x5855",
+        "email": "tyler93@example.com",
+        "account": {
+            "account_number": "4ce65e32-c952-46f4-8b53-5cd544ecb2b6",
+            "balance": 48241.75,
+            "transactions": [
+                {
+                    "date": "2023-11-21",
+                    "description": "Interest",
+                    "amount": 30194.1,
+                    "transaction_id": 20353843
+                },
+                {
+                    "date": "2023-09-30",
+                    "description": "Interest",
+                    "amount": 43931.4,
+                    "transaction_id": 65676661
+                }
+            ]
+        }
+    }
+}

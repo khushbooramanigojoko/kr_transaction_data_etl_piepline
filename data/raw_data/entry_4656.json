@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Heather Moreno",
+        "age": 24,
+        "gender": "female",
+        "address": "78581 Brown Place Apt. 160, Whitetown, OR 05559",
+        "phone": "977-982-9300x069",
+        "email": "ryanterry@example.com",
+        "account": {
+            "account_number": "dc6f25c7-5d53-4e2a-9e28-81550bb32036",
+            "balance": 48860.39,
+            "transactions": [
+                {
+                    "date": "2022-11-27",
+                    "description": "Interest",
+                    "amount": 40530.86,
+                    "transaction_id": 48598035
+                },
+                {
+                    "date": "2024-05-29",
+                    "description": "Withdrawal",
+                    "amount": 40029.59,
+                    "transaction_id": 32730214
+                }
+            ]
+        }
+    }
+}

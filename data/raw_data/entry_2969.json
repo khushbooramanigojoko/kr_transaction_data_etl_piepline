@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Elizabeth Chan",
+        "age": 34,
+        "gender": "female",
+        "address": "562 Taylor Fords, West Jacob, FM 32524",
+        "phone": "437.782.2187x7366",
+        "email": "crystal45@example.org",
+        "account": {
+            "account_number": "d4d3060a-2f01-43e9-8fd2-56423f868a9d",
+            "balance": 20333.93,
+            "transactions": [
+                {
+                    "date": "2024-03-26",
+                    "description": "Withdrawal",
+                    "amount": 47805.96,
+                    "transaction_id": 47882755
+                },
+                {
+                    "date": "2023-06-23",
+                    "description": "Interest",
+                    "amount": 11586.31,
+                    "transaction_id": 79965501
+                }
+            ]
+        }
+    }
+}

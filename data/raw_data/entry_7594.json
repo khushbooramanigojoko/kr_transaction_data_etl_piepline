@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christopher Mcclain",
+        "age": 63,
+        "gender": "female",
+        "address": "2948 Kevin Forge Apt. 152, South Melissaville, MO 70966",
+        "phone": "9936681104",
+        "email": "kellyadriana@example.net",
+        "account": {
+            "account_number": "50e1cafd-2022-4243-aa9e-30babb784078",
+            "balance": 47737.67,
+            "transactions": [
+                {
+                    "date": "2023-06-16",
+                    "description": "Withdrawal",
+                    "amount": 31554.98,
+                    "transaction_id": 72745189
+                },
+                {
+                    "date": "2024-05-03",
+                    "description": "Interest",
+                    "amount": 33857.23,
+                    "transaction_id": 58508481
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Interest",
+                    "amount": 18617.33,
+                    "transaction_id": 64820819
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Interest",
+                    "amount": 19595.3,
+                    "transaction_id": 41101502
+                }
+            ]
+        }
+    }
+}

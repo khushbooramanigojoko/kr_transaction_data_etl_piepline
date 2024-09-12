@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Hannah Wang",
+        "age": 50,
+        "gender": "male",
+        "address": "0614 Bradley Dam, Port Kennethfurt, DC 80009",
+        "phone": "353-277-3839x741",
+        "email": "deborah91@example.com",
+        "account": {
+            "account_number": "9dbeef43-bb66-4caf-aade-5e2c956209be",
+            "balance": -31869.94,
+            "transactions": [
+                {
+                    "date": "2022-09-02",
+                    "description": "Interest",
+                    "amount": 248.13,
+                    "transaction_id": 14941863
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Withdrawal",
+                    "amount": 3849.76,
+                    "transaction_id": 114381529
+                },
+                {
+                    "date": "2023-04-01",
+                    "description": "Interest",
+                    "amount": 120.25,
+                    "transaction_id": 96129134
+                },
+                {
+                    "date": "2024-06-12",
+                    "description": "Withdrawal",
+                    "amount": 2987.4,
+                    "transaction_id": 25192510
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Withdrawal",
+                    "amount": 4933.39,
+                    "transaction_id": 119445835
+                }
+            ]
+        }
+    }
+}

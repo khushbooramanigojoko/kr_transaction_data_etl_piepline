@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Madison Mckenzie",
+        "age": 38,
+        "gender": "male",
+        "address": "61326 Russell Track, Steventown, TX 01876",
+        "phone": "001-652-878-7368x281",
+        "email": "anthony25@example.com",
+        "account": {
+            "account_number": "f24f7511-b8a7-4a2b-b40b-86fb03d39378",
+            "balance": 38150.29,
+            "transactions": [
+                {
+                    "date": "2024-07-22",
+                    "description": "Withdrawal",
+                    "amount": 2480.5,
+                    "transaction_id": 9363064
+                },
+                {
+                    "date": "2024-04-19",
+                    "description": "Deposit",
+                    "amount": 31832.06,
+                    "transaction_id": 2386198
+                }
+            ]
+        }
+    }
+}

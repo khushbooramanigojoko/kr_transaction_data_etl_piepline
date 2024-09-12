@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Donna Hartman",
+        "age": 79,
+        "gender": "female",
+        "address": "5600 Reeves Manors, Lake Jamesland, SC 19431",
+        "phone": "(540)824-4327x3389",
+        "email": "ihuang@example.net",
+        "account": {
+            "account_number": "2e92e57f-31ff-44a1-bd75-9564a712a7bc",
+            "balance": 36073.66,
+            "transactions": [
+                {
+                    "date": "2024-04-04",
+                    "description": "Withdrawal",
+                    "amount": 9342.6,
+                    "transaction_id": 29555858
+                },
+                {
+                    "date": "2023-04-01",
+                    "description": "Interest",
+                    "amount": 49369.17,
+                    "transaction_id": 16119008
+                }
+            ]
+        }
+    }
+}

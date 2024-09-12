@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Julia Powers",
+        "age": 63,
+        "gender": "female",
+        "address": "3168 Brittany Rest Apt. 799, Kimburgh, FM 61797",
+        "phone": "300-511-0496",
+        "email": "kim20@example.net",
+        "account": {
+            "account_number": "245e8d0a-351f-457f-a106-d2d950ad6a9f",
+            "balance": 3105.39,
+            "transactions": [
+                {
+                    "date": "2024-07-05",
+                    "description": "Withdrawal",
+                    "amount": 17185.77,
+                    "transaction_id": 93055990
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Deposit",
+                    "amount": 1226.79,
+                    "transaction_id": 115876312
+                }
+            ]
+        }
+    }
+}

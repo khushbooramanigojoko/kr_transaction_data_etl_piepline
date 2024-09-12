@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 95,
+        "gender": "male",
+        "address": "87384 Stanley Plaza Apt. 796, Tammyborough, PW 81256",
+        "phone": "+1-810-888-6586x6990",
+        "email": "wsmith@example.net",
+        "account": {
+            "account_number": "9ff8951b-f15c-47e1-a9b2-e5ef8fddc81a",
+            "balance": 35236.57,
+            "transactions": [
+                {
+                    "date": "2023-04-11",
+                    "description": "Interest",
+                    "amount": 1409.88,
+                    "transaction_id": 4195082
+                }
+            ]
+        }
+    }
+}

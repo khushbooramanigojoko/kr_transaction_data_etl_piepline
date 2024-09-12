@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 88,
+        "gender": "female",
+        "address": "252 Robert Walk Suite 164, Josephside, WA 35390",
+        "phone": "(868)933-7480",
+        "email": "bakermorgan@example.org",
+        "account": {
+            "account_number": "8c6ecc74-1285-4abc-9aca-bb93f50d26cc",
+            "balance": 36279.54,
+            "transactions": [
+                {
+                    "date": "2023-08-27",
+                    "description": "Withdrawal",
+                    "amount": -703.41,
+                    "transaction_id": 42721149
+                }
+            ]
+        }
+    }
+}

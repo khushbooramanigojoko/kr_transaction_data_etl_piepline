@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kenneth Miller",
+        "age": 81,
+        "gender": "male",
+        "address": "5989 Long Islands Apt. 456, Kevinfurt, ID 39116",
+        "phone": "001-532-301-5323x487",
+        "email": "fostermichelle@example.net",
+        "account": {
+            "account_number": "70a6e1ad-3918-4ee9-884b-6f0a3c073b43",
+            "balance": 27268.92,
+            "transactions": [
+                {
+                    "date": "2023-01-14",
+                    "description": "Withdrawal",
+                    "amount": 2362.49,
+                    "transaction_id": 111390052
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Interest",
+                    "amount": 26031.04,
+                    "transaction_id": 19873192
+                },
+                {
+                    "date": "2023-08-24",
+                    "description": "Deposit",
+                    "amount": 13710.35,
+                    "transaction_id": 107384731
+                }
+            ]
+        }
+    }
+}

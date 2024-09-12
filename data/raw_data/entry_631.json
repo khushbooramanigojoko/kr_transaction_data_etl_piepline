@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Glenn Rodriguez",
+        "age": 73,
+        "gender": "female",
+        "address": "464 Scott Road, West Jeanne, SD 27531",
+        "phone": "+1-490-576-9731x22765",
+        "email": "ambersanders@example.net",
+        "account": {
+            "account_number": "a1fafa15-08e9-456a-be41-3b8cbad2c653",
+            "balance": 16872.65,
+            "transactions": [
+                {
+                    "date": "2024-05-18",
+                    "description": "Withdrawal",
+                    "amount": 1823.02,
+                    "transaction_id": 71248671
+                },
+                {
+                    "date": "2024-01-20",
+                    "description": "Interest",
+                    "amount": 49100.92,
+                    "transaction_id": 44721393
+                }
+            ]
+        }
+    }
+}

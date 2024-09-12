@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tommy Clark",
+        "age": 23,
+        "gender": "female",
+        "address": "18183 Richard Knolls Apt. 426, East Jeremyland, UT 15034",
+        "phone": "601-772-0259",
+        "email": "crosssavannah@example.com",
+        "account": {
+            "account_number": "173bcbb6-0005-4f19-945d-4de9d5026f23",
+            "balance": 33529.54,
+            "transactions": [
+                {
+                    "date": "2024-07-25",
+                    "description": "Withdrawal",
+                    "amount": 49172.43,
+                    "transaction_id": 117480812
+                }
+            ]
+        }
+    }
+}

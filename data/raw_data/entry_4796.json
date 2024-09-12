@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Karen Wilkins",
+        "age": 87,
+        "gender": "male",
+        "address": "Unit 0974 Box 6323, DPO AP 32572",
+        "phone": "616.944.7455x71602",
+        "email": "raymond53@example.net",
+        "account": {
+            "account_number": "daf4f9b3-c136-4cbf-9504-3f39798004e1",
+            "balance": 6046.64,
+            "transactions": [
+                {
+                    "date": "2023-06-21",
+                    "description": "Interest",
+                    "amount": 48514.48,
+                    "transaction_id": 90590153
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Withdrawal",
+                    "amount": 15117.19,
+                    "transaction_id": 4413478
+                },
+                {
+                    "date": "2023-12-10",
+                    "description": "Deposit",
+                    "amount": 6120.18,
+                    "transaction_id": 33367108
+                },
+                {
+                    "date": "2023-08-09",
+                    "description": "Interest",
+                    "amount": 47376.17,
+                    "transaction_id": 76396480
+                }
+            ]
+        }
+    }
+}

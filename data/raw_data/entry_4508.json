@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jacob Castillo",
+        "age": 38,
+        "gender": "male",
+        "address": "32052 Sanders Forks, New Victoriaborough, CT 61518",
+        "phone": "001-495-910-7274",
+        "email": "nicholascastro@example.org",
+        "account": {
+            "account_number": "0f1aeeb9-8f11-4558-a48a-3020e4f537e7",
+            "balance": 35229.2,
+            "transactions": [
+                {
+                    "date": "2023-08-12",
+                    "description": "Deposit",
+                    "amount": 26817.18,
+                    "transaction_id": 89638956
+                },
+                {
+                    "date": "2022-11-14",
+                    "description": "Withdrawal",
+                    "amount": 37383.7,
+                    "transaction_id": 42261501
+                },
+                {
+                    "date": "2024-03-28",
+                    "description": "Withdrawal",
+                    "amount": 43308.49,
+                    "transaction_id": 99661903
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Interest",
+                    "amount": 3151.15,
+                    "transaction_id": 10679364
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Withdrawal",
+                    "amount": 21969.22,
+                    "transaction_id": 84777186
+                }
+            ]
+        }
+    }
+}

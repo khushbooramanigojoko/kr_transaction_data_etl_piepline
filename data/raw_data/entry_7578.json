@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "David Stephens",
+        "age": 47,
+        "gender": "female",
+        "address": "57082 Erica Points, Jacobston, CT 13686",
+        "phone": "001-788-948-0794x68953",
+        "email": "michael18@example.com",
+        "account": {
+            "account_number": "a825a81a-4a6a-43e4-8bc0-3fd4bfca2e82",
+            "balance": 22588.37,
+            "transactions": [
+                {
+                    "date": "2024-08-29",
+                    "description": "Withdrawal",
+                    "amount": 34906.68,
+                    "transaction_id": 83767182
+                },
+                {
+                    "date": "2024-06-03",
+                    "description": "Deposit",
+                    "amount": 33940.58,
+                    "transaction_id": 76448397
+                },
+                {
+                    "date": "2022-09-06",
+                    "description": "Interest",
+                    "amount": 4128.96,
+                    "transaction_id": 86502550
+                }
+            ]
+        }
+    }
+}

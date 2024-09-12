@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Carter",
+        "age": 79,
+        "gender": "female",
+        "address": "51539 Austin Summit Suite 307, East Robertmouth, IA 09687",
+        "phone": "001-846-668-6679x3444",
+        "email": "pellis@example.net",
+        "account": {
+            "account_number": "ec9a05f3-a305-4199-8502-8b48478430e1",
+            "balance": -28135.9,
+            "transactions": [
+                {
+                    "date": "2022-12-07",
+                    "description": "Interest",
+                    "amount": -2838.11,
+                    "transaction_id": 85946506
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Withdrawal",
+                    "amount": -4065.28,
+                    "transaction_id": 108213638
+                },
+                {
+                    "date": "2023-04-12",
+                    "description": "Deposit",
+                    "amount": -1067.47,
+                    "transaction_id": 66620692
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Deposit",
+                    "amount": -590.68,
+                    "transaction_id": 5234144
+                },
+                {
+                    "date": "2023-08-03",
+                    "description": "Withdrawal",
+                    "amount": 2713.17,
+                    "transaction_id": 83453589
+                }
+            ]
+        }
+    }
+}

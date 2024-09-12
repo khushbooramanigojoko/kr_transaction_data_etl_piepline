@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lisa Gonzalez",
+        "age": 46,
+        "gender": "female",
+        "address": "210 Dawn Haven Suite 200, Richardview, GA 14335",
+        "phone": "556-318-5098",
+        "email": "francismathew@example.net",
+        "account": {
+            "account_number": "0841bbff-efcc-48ee-a973-e443f7a29f07",
+            "balance": 39086.31,
+            "transactions": [
+                {
+                    "date": "2022-10-19",
+                    "description": "Deposit",
+                    "amount": 42202.69,
+                    "transaction_id": 24309834
+                },
+                {
+                    "date": "2023-07-24",
+                    "description": "Withdrawal",
+                    "amount": 467.77,
+                    "transaction_id": 71418727
+                }
+            ]
+        }
+    }
+}

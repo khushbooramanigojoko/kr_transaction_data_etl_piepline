@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Taylor Garza",
+        "age": 66,
+        "gender": "male",
+        "address": "3233 Tammy Cliff, Ericamouth, VA 44082",
+        "phone": "(755)925-4206",
+        "email": "diazsusan@example.net",
+        "account": {
+            "account_number": "bb062ce7-501e-4a8d-b26f-a037bed22c29",
+            "balance": 37114.66,
+            "transactions": [
+                {
+                    "date": "2024-02-12",
+                    "description": "Deposit",
+                    "amount": 23457.76,
+                    "transaction_id": 32259485
+                },
+                {
+                    "date": "2023-04-04",
+                    "description": "Deposit",
+                    "amount": 33129.7,
+                    "transaction_id": 102007480
+                },
+                {
+                    "date": "2023-04-26",
+                    "description": "Withdrawal",
+                    "amount": 13722.07,
+                    "transaction_id": 41333022
+                },
+                {
+                    "date": "2023-11-28",
+                    "description": "Interest",
+                    "amount": 17879.92,
+                    "transaction_id": 4309300
+                },
+                {
+                    "date": "2024-04-10",
+                    "description": "Withdrawal",
+                    "amount": 19089.3,
+                    "transaction_id": 18515381
+                }
+            ]
+        }
+    }
+}

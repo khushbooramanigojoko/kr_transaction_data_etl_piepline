@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 26,
+        "gender": "female",
+        "address": "3115 Hayes Ranch, North Robert, VT 36642",
+        "phone": "(642)782-1039",
+        "email": "kwilliams@example.org",
+        "account": {
+            "account_number": "d4998d85-3cda-482c-8230-64e742d64d29",
+            "balance": 5990.94,
+            "transactions": [
+                {
+                    "date": "2023-01-29",
+                    "description": "Withdrawal",
+                    "amount": -4260.33,
+                    "transaction_id": 46660109
+                },
+                {
+                    "date": "2024-07-13",
+                    "description": "Interest",
+                    "amount": 3952.07,
+                    "transaction_id": 106143364
+                },
+                {
+                    "date": "2024-04-07",
+                    "description": "Withdrawal",
+                    "amount": 332.96,
+                    "transaction_id": 62792234
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Interest",
+                    "amount": -4780.92,
+                    "transaction_id": 96724606
+                },
+                {
+                    "date": "2022-10-30",
+                    "description": "Deposit",
+                    "amount": 425.4,
+                    "transaction_id": 27858925
+                }
+            ]
+        }
+    }
+}

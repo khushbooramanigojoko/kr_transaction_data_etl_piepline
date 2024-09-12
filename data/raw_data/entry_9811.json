@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 37,
+        "gender": "male",
+        "address": "205 Weber Corners, Lake Taylorview, SC 81768",
+        "phone": "383-957-2124x5418",
+        "email": "diana43@example.org",
+        "account": {
+            "account_number": "a8de5e63-696a-4c78-b43e-35d332e115be",
+            "balance": 28272.53,
+            "transactions": [
+                {
+                    "date": "2022-09-03",
+                    "description": "Withdrawal",
+                    "amount": -4278.73,
+                    "transaction_id": 39177014
+                }
+            ]
+        }
+    }
+}

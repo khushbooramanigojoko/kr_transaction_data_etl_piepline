@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Pamela Hill",
+        "age": 69,
+        "gender": "male",
+        "address": "73478 Andrea Drive, Michaelhaven, PW 49195",
+        "phone": "001-773-709-1867x987",
+        "email": "colemelissa@example.org",
+        "account": {
+            "account_number": "45c029f3-ee17-4ce5-8a4a-b80fc382f61e",
+            "balance": 49737.97,
+            "transactions": [
+                {
+                    "date": "2024-05-12",
+                    "description": "Deposit",
+                    "amount": 30897.82,
+                    "transaction_id": 77466704
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Interest",
+                    "amount": 16940.35,
+                    "transaction_id": 20103616
+                },
+                {
+                    "date": "2024-07-27",
+                    "description": "Deposit",
+                    "amount": 12093.38,
+                    "transaction_id": 96012960
+                },
+                {
+                    "date": "2024-02-10",
+                    "description": "Withdrawal",
+                    "amount": 24647.55,
+                    "transaction_id": 59160201
+                }
+            ]
+        }
+    }
+}

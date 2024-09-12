@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mary Doyle",
+        "age": 82,
+        "gender": "male",
+        "address": "Unit 4435 Box 8660, DPO AE 52908",
+        "phone": "918.288.8271x9103",
+        "email": "rebeccamorales@example.net",
+        "account": {
+            "account_number": "d787f12f-3492-485f-8980-c7e6e990c2aa",
+            "balance": 41894.81,
+            "transactions": [
+                {
+                    "date": "2023-11-15",
+                    "description": "Withdrawal",
+                    "amount": 13470.69,
+                    "transaction_id": 68028968
+                }
+            ]
+        }
+    }
+}

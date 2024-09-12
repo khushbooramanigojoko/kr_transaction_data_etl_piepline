@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Steven Higgins",
+        "age": 87,
+        "gender": "female",
+        "address": "38109 Smith Track, North Bethany, IN 05870",
+        "phone": "+1-776-678-6018",
+        "email": "cking@example.com",
+        "account": {
+            "account_number": "478b91c0-8675-40d5-a9dd-da4a5a8814d0",
+            "balance": 30313.87,
+            "transactions": [
+                {
+                    "date": "2024-02-14",
+                    "description": "Withdrawal",
+                    "amount": 38174.23,
+                    "transaction_id": 28111114
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Withdrawal",
+                    "amount": 3436.77,
+                    "transaction_id": 36819497
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Interest",
+                    "amount": 29601.1,
+                    "transaction_id": 45936232
+                },
+                {
+                    "date": "2023-03-10",
+                    "description": "Withdrawal",
+                    "amount": 12538.81,
+                    "transaction_id": 4506440
+                },
+                {
+                    "date": "2024-08-25",
+                    "description": "Withdrawal",
+                    "amount": 1699.38,
+                    "transaction_id": 111711421
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mr. Matthew Davenport",
+        "age": 69,
+        "gender": "female",
+        "address": "392 Morgan Plaza Suite 896, Tanyamouth, CT 93128",
+        "phone": "001-551-703-8627x1533",
+        "email": "michael54@example.net",
+        "account": {
+            "account_number": "6162474c-61a8-40f6-bece-1d304a62d679",
+            "balance": -42421.35,
+            "transactions": [
+                {
+                    "date": "2023-05-29",
+                    "description": "Interest",
+                    "amount": -4820.4,
+                    "transaction_id": 99516134
+                },
+                {
+                    "date": "2023-10-16",
+                    "description": "Deposit",
+                    "amount": 2090.1,
+                    "transaction_id": 29934882
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Withdrawal",
+                    "amount": 4606.55,
+                    "transaction_id": 60470608
+                }
+            ]
+        }
+    }
+}

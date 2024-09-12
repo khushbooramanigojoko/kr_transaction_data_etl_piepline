@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Felicia Jimenez",
+        "age": 85,
+        "gender": "female",
+        "address": "1254 Jason Common Apt. 088, Jamiemouth, AR 97842",
+        "phone": "(349)624-7331",
+        "email": "eholmes@example.com",
+        "account": {
+            "account_number": "996c1c8b-c5de-425a-9320-0384fa6f0568",
+            "balance": 48912.08,
+            "transactions": [
+                {
+                    "date": "2023-10-29",
+                    "description": "Interest",
+                    "amount": 14824.8,
+                    "transaction_id": 7273973
+                },
+                {
+                    "date": "2024-02-10",
+                    "description": "Deposit",
+                    "amount": 29028.89,
+                    "transaction_id": 20423728
+                },
+                {
+                    "date": "2024-07-23",
+                    "description": "Withdrawal",
+                    "amount": 28854.64,
+                    "transaction_id": 118992048
+                }
+            ]
+        }
+    }
+}

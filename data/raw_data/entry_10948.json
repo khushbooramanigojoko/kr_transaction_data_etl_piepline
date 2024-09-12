@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kathy Santana",
+        "age": 81,
+        "gender": "male",
+        "address": "980 Ronnie Crest Apt. 864, New Nicholas, MS 55713",
+        "phone": "+1-443-360-1741x44452",
+        "email": "uglass@example.net",
+        "account": {
+            "account_number": "d18f3153-91b6-48cf-9c78-940abd7fb389",
+            "balance": -34086.87,
+            "transactions": [
+                {
+                    "date": "2022-10-08",
+                    "description": "Withdrawal",
+                    "amount": 3500.14,
+                    "transaction_id": 51010722
+                },
+                {
+                    "date": "2023-03-26",
+                    "description": "Withdrawal",
+                    "amount": -787.58,
+                    "transaction_id": 55276662
+                },
+                {
+                    "date": "2024-06-27",
+                    "description": "Deposit",
+                    "amount": 3794.16,
+                    "transaction_id": 93860430
+                }
+            ]
+        }
+    }
+}

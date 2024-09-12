@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 49,
+        "gender": "male",
+        "address": "956 Mcdaniel Falls, East Summerchester, OK 81423",
+        "phone": "873-885-5063x94787",
+        "email": "clarkjessica@example.net",
+        "account": {
+            "account_number": "9ecd0740-66b3-448b-85c0-e6b53e630d73",
+            "balance": 48855.67,
+            "transactions": [
+                {
+                    "date": "2023-05-03",
+                    "description": "Interest",
+                    "amount": -4133.29,
+                    "transaction_id": 63336577
+                }
+            ]
+        }
+    }
+}

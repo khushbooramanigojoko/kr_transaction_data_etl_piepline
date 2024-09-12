@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 57,
+        "gender": "male",
+        "address": "086 Mark Loop Suite 718, East Tanyashire, ND 26501",
+        "phone": "(306)897-3604x10173",
+        "email": "xnewman@example.org",
+        "account": {
+            "account_number": "559c16df-80fe-438e-9b6b-dfb529962a32",
+            "balance": 36046.97,
+            "transactions": [
+                {
+                    "date": "2023-01-24",
+                    "description": "Withdrawal",
+                    "amount": -2111.99,
+                    "transaction_id": 64897071
+                }
+            ]
+        }
+    }
+}

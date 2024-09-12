@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "David Saunders",
+        "age": 30,
+        "gender": "male",
+        "address": "087 Holly Radial Suite 891, West Ianmouth, CT 93626",
+        "phone": "5853230759",
+        "email": "adam57@example.com",
+        "account": {
+            "account_number": "aa27d956-6fb9-463c-8c6c-9597f73ff289",
+            "balance": 24589.8,
+            "transactions": [
+                {
+                    "date": "2022-09-13",
+                    "description": "Withdrawal",
+                    "amount": 28921.83,
+                    "transaction_id": 17560740
+                },
+                {
+                    "date": "2024-05-24",
+                    "description": "Deposit",
+                    "amount": 5746.61,
+                    "transaction_id": 7186360
+                },
+                {
+                    "date": "2024-02-21",
+                    "description": "Deposit",
+                    "amount": 48382.3,
+                    "transaction_id": 72915786
+                },
+                {
+                    "date": "2023-08-31",
+                    "description": "Interest",
+                    "amount": 9127.2,
+                    "transaction_id": 116163702
+                },
+                {
+                    "date": "2024-06-26",
+                    "description": "Withdrawal",
+                    "amount": 24058.31,
+                    "transaction_id": 102772475
+                }
+            ]
+        }
+    }
+}

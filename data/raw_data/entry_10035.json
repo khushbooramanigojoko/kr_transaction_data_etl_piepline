@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 23,
+        "gender": "female",
+        "address": "1791 Shepherd Mills, Hannahberg, ME 20082",
+        "phone": "+1-880-309-4571x1924",
+        "email": "mary47@example.net",
+        "account": {
+            "account_number": "a3871a45-a273-454b-af5f-aada04ad9c42",
+            "balance": 14964.23,
+            "transactions": [
+                {
+                    "date": "2022-09-21",
+                    "description": "Deposit",
+                    "amount": -4476.37,
+                    "transaction_id": 81412875
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jennifer Rogers",
+        "age": 29,
+        "gender": "female",
+        "address": "42659 Johnson Summit Apt. 874, New Natasha, IL 14503",
+        "phone": "(832)761-5258x5837",
+        "email": "emilyprince@example.org",
+        "account": {
+            "account_number": "81c92692-0656-4b61-b654-10bbbe53989d",
+            "balance": 6734.29,
+            "transactions": [
+                {
+                    "date": "2024-04-10",
+                    "description": "Withdrawal",
+                    "amount": 17609.86,
+                    "transaction_id": 90620301
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Craig Turner",
+        "age": 65,
+        "gender": "male",
+        "address": "3285 Barbara Fork, Clarkview, NE 02553",
+        "phone": "874.825.0404x5289",
+        "email": "danielcoleman@example.net",
+        "account": {
+            "account_number": "efccf7a6-fe46-45fb-b368-255a613d8920",
+            "balance": 31281.65,
+            "transactions": [
+                {
+                    "date": "2024-07-18",
+                    "description": "Withdrawal",
+                    "amount": 21297.0,
+                    "transaction_id": 113074089
+                },
+                {
+                    "date": "2024-03-24",
+                    "description": "Interest",
+                    "amount": 33937.39,
+                    "transaction_id": 39845540
+                }
+            ]
+        }
+    }
+}

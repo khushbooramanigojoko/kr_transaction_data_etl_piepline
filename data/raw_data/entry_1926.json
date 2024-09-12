@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michael Little",
+        "age": 24,
+        "gender": "female",
+        "address": "80402 John Avenue, Angelaburgh, MH 57925",
+        "phone": "+1-790-330-9149x7769",
+        "email": "jgonzalez@example.com",
+        "account": {
+            "account_number": "d186ea13-6a52-415e-904f-bb5f26395035",
+            "balance": 42984.0,
+            "transactions": [
+                {
+                    "date": "2024-07-18",
+                    "description": "Interest",
+                    "amount": 7436.76,
+                    "transaction_id": 13682024
+                }
+            ]
+        }
+    }
+}

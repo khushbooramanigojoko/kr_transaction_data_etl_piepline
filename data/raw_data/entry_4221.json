@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ronald Spears",
+        "age": 65,
+        "gender": "female",
+        "address": "8881 Evans Lakes, New Beth, AS 73539",
+        "phone": "001-404-756-4455x6151",
+        "email": "ronaldwright@example.org",
+        "account": {
+            "account_number": "b76db81e-44ba-4570-9d86-58146b1e5899",
+            "balance": 4533.0,
+            "transactions": [
+                {
+                    "date": "2024-05-20",
+                    "description": "Withdrawal",
+                    "amount": 13800.29,
+                    "transaction_id": 108959291
+                },
+                {
+                    "date": "2023-09-09",
+                    "description": "Deposit",
+                    "amount": 5758.57,
+                    "transaction_id": 24212703
+                },
+                {
+                    "date": "2024-04-09",
+                    "description": "Withdrawal",
+                    "amount": 42091.99,
+                    "transaction_id": 17651611
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Interest",
+                    "amount": 49208.63,
+                    "transaction_id": 97013119
+                },
+                {
+                    "date": "2023-01-09",
+                    "description": "Withdrawal",
+                    "amount": 28716.98,
+                    "transaction_id": 99259303
+                }
+            ]
+        }
+    }
+}

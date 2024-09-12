@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Angela Sparks",
+        "age": 83,
+        "gender": "male",
+        "address": "10475 Koch Views Apt. 285, Jasonstad, OR 99059",
+        "phone": "955.275.2333x987",
+        "email": "tuckeralexis@example.net",
+        "account": {
+            "account_number": "f6f0b8ae-38e5-4ae4-9a75-198a08dca802",
+            "balance": 8349.18,
+            "transactions": [
+                {
+                    "date": "2022-10-28",
+                    "description": "Interest",
+                    "amount": 35927.74,
+                    "transaction_id": 93222464
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Deposit",
+                    "amount": 2911.0,
+                    "transaction_id": 20322697
+                }
+            ]
+        }
+    }
+}

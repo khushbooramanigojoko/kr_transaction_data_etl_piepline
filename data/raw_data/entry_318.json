@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Elizabeth Dalton",
+        "age": 46,
+        "gender": "female",
+        "address": "2672 Sanders Curve Apt. 177, Perezborough, MP 92734",
+        "phone": "+1-462-836-7493x1508",
+        "email": "josephbyrd@example.com",
+        "account": {
+            "account_number": "3064be2e-5852-4035-a1f5-8ae236c94906",
+            "balance": 37183.26,
+            "transactions": [
+                {
+                    "date": "2023-09-07",
+                    "description": "Interest",
+                    "amount": 48250.49,
+                    "transaction_id": 53580525
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Interest",
+                    "amount": 47855.32,
+                    "transaction_id": 33156434
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Withdrawal",
+                    "amount": 28143.26,
+                    "transaction_id": 74669836
+                }
+            ]
+        }
+    }
+}

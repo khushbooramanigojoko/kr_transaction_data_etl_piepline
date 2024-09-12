@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Jenkins",
+        "age": 38,
+        "gender": "female",
+        "address": "34410 Edwards Islands, North Heidibury, PA 85251",
+        "phone": "8396705714",
+        "email": "carrollandrew@example.org",
+        "account": {
+            "account_number": "ada772a5-c65a-420a-aaaa-124a05f64116",
+            "balance": 31088.43,
+            "transactions": [
+                {
+                    "date": "2024-05-02",
+                    "description": "Deposit",
+                    "amount": 41820.55,
+                    "transaction_id": 105220802
+                },
+                {
+                    "date": "2022-11-12",
+                    "description": "Interest",
+                    "amount": 19605.07,
+                    "transaction_id": 107236757
+                },
+                {
+                    "date": "2024-07-09",
+                    "description": "Deposit",
+                    "amount": 10331.68,
+                    "transaction_id": 2812756
+                },
+                {
+                    "date": "2023-10-24",
+                    "description": "Withdrawal",
+                    "amount": 45848.45,
+                    "transaction_id": 5104635
+                }
+            ]
+        }
+    }
+}

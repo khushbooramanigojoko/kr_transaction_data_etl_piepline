@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joseph Abbott",
+        "age": 28,
+        "gender": "male",
+        "address": "068 Rios Fork Apt. 420, East Mathewchester, IN 61078",
+        "phone": "(814)695-0253",
+        "email": "kimamanda@example.com",
+        "account": {
+            "account_number": "9d9f18a0-814a-42fa-b5a2-1bda85790178",
+            "balance": 9739.65,
+            "transactions": [
+                {
+                    "date": "2023-10-08",
+                    "description": "Deposit",
+                    "amount": 8405.78,
+                    "transaction_id": 64637075
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Withdrawal",
+                    "amount": 20974.55,
+                    "transaction_id": 68767641
+                },
+                {
+                    "date": "2024-08-11",
+                    "description": "Deposit",
+                    "amount": 40820.48,
+                    "transaction_id": 41121526
+                }
+            ]
+        }
+    }
+}

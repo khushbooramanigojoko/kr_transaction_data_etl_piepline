@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Austin Chandler",
+        "age": 32,
+        "gender": "female",
+        "address": "725 Kathleen Circle Apt. 302, Vasquezbury, RI 02082",
+        "phone": "+1-679-478-0175",
+        "email": "turnerjamie@example.com",
+        "account": {
+            "account_number": "c366caa7-9bf8-4718-bb63-1954097246c3",
+            "balance": -40080.59,
+            "transactions": [
+                {
+                    "date": "2024-07-17",
+                    "description": "Deposit",
+                    "amount": -206.88,
+                    "transaction_id": 80722805
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Interest",
+                    "amount": -1829.14,
+                    "transaction_id": 33425688
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jamie Powers",
+        "age": 85,
+        "gender": "female",
+        "address": "7486 Guerra Lane, West Evelyntown, MP 74553",
+        "phone": "(389)542-2182x659",
+        "email": "gina93@example.com",
+        "account": {
+            "account_number": "53124806-f219-450a-b627-abe671db9e9e",
+            "balance": 42009.83,
+            "transactions": [
+                {
+                    "date": "2023-08-08",
+                    "description": "Withdrawal",
+                    "amount": 40142.8,
+                    "transaction_id": 113613511
+                }
+            ]
+        }
+    }
+}

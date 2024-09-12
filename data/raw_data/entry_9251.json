@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brittany Lawson",
+        "age": 32,
+        "gender": "male",
+        "address": "9881 Linda Burgs Apt. 871, Port Blaketon, IA 40503",
+        "phone": "001-221-700-7057x5223",
+        "email": "williamsashley@example.com",
+        "account": {
+            "account_number": "1c736584-21ba-4823-b459-a0e13d92eda8",
+            "balance": -41691.22,
+            "transactions": [
+                {
+                    "date": "2024-02-02",
+                    "description": "Withdrawal",
+                    "amount": 984.96,
+                    "transaction_id": 72905427
+                },
+                {
+                    "date": "2023-09-09",
+                    "description": "Deposit",
+                    "amount": 2827.81,
+                    "transaction_id": 57302728
+                },
+                {
+                    "date": "2024-04-11",
+                    "description": "Deposit",
+                    "amount": 603.97,
+                    "transaction_id": 27164136
+                },
+                {
+                    "date": "2022-11-29",
+                    "description": "Interest",
+                    "amount": 79.38,
+                    "transaction_id": 22471965
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael West",
+        "age": 57,
+        "gender": "male",
+        "address": "7405 Walter Islands Apt. 952, Port Joe, SD 15228",
+        "phone": "(971)267-9824x1158",
+        "email": "danielle14@example.com",
+        "account": {
+            "account_number": "67aa007b-ab4c-492c-97a4-f06910f01327",
+            "balance": -30583.54,
+            "transactions": [
+                {
+                    "date": "2024-02-10",
+                    "description": "Withdrawal",
+                    "amount": 1303.82,
+                    "transaction_id": 17223378
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Interest",
+                    "amount": -1187.15,
+                    "transaction_id": 83125049
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Interest",
+                    "amount": -2279.47,
+                    "transaction_id": 27860688
+                },
+                {
+                    "date": "2023-04-15",
+                    "description": "Withdrawal",
+                    "amount": 838.43,
+                    "transaction_id": 96955807
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Withdrawal",
+                    "amount": -2713.12,
+                    "transaction_id": 15620786
+                }
+            ]
+        }
+    }
+}

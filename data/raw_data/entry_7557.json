@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Holly Evans DDS",
+        "age": 21,
+        "gender": "female",
+        "address": "864 Mack Cove, Mckinneyfurt, PW 10188",
+        "phone": "(730)693-2146",
+        "email": "erikbrown@example.org",
+        "account": {
+            "account_number": "4d8f05ce-078e-4119-862c-338629dada95",
+            "balance": 4880.07,
+            "transactions": [
+                {
+                    "date": "2024-01-10",
+                    "description": "Withdrawal",
+                    "amount": 18994.09,
+                    "transaction_id": 95575426
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Interest",
+                    "amount": 47779.42,
+                    "transaction_id": 23728514
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Interest",
+                    "amount": 19677.27,
+                    "transaction_id": 108343903
+                }
+            ]
+        }
+    }
+}

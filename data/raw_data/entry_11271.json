@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 51,
+        "gender": "male",
+        "address": "7110 Brown Burg Suite 323, East Judytown, UT 60466",
+        "phone": "(307)596-5878",
+        "email": "wongjoshua@example.com",
+        "account": {
+            "account_number": "f4fbd109-a383-4935-81b2-691a9054999d",
+            "balance": 36831.64,
+            "transactions": [
+                {
+                    "date": "2023-01-01",
+                    "description": "Withdrawal",
+                    "amount": -2764.08,
+                    "transaction_id": 14838936
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Deposit",
+                    "amount": -4123.25,
+                    "transaction_id": 27302233
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Interest",
+                    "amount": 4601.74,
+                    "transaction_id": 2494545
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Interest",
+                    "amount": 1161.86,
+                    "transaction_id": 55164956
+                }
+            ]
+        }
+    }
+}

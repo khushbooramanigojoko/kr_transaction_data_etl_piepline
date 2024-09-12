@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Devin Avila",
+        "age": 52,
+        "gender": "male",
+        "address": "46926 Barbara Plaza Apt. 229, Dannyfurt, TX 76255",
+        "phone": "+1-286-407-8169x784",
+        "email": "andrewzimmerman@example.org",
+        "account": {
+            "account_number": "b3472d77-8259-48ef-bbaa-af462ba0d7a0",
+            "balance": 21052.47,
+            "transactions": [
+                {
+                    "date": "2023-04-26",
+                    "description": "Deposit",
+                    "amount": 44953.7,
+                    "transaction_id": 66633387
+                },
+                {
+                    "date": "2023-06-05",
+                    "description": "Withdrawal",
+                    "amount": 7258.71,
+                    "transaction_id": 28958977
+                }
+            ]
+        }
+    }
+}

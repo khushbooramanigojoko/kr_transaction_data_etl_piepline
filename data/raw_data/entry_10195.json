@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Danielle Jimenez",
+        "age": 87,
+        "gender": "male",
+        "address": "316 Jacob Crescent, Baileyview, KS 36606",
+        "phone": "001-690-874-1972x28527",
+        "email": "clarkjasmine@example.org",
+        "account": {
+            "account_number": "1d21e41e-8dd0-4397-9f86-160f7b776545",
+            "balance": -4443.54,
+            "transactions": [
+                {
+                    "date": "2024-03-31",
+                    "description": "Deposit",
+                    "amount": 1684.98,
+                    "transaction_id": 110888044
+                }
+            ]
+        }
+    }
+}

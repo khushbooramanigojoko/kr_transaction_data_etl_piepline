@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 45,
+        "gender": "female",
+        "address": "USCGC Delgado, FPO AE 89680",
+        "phone": "+1-742-570-1255x98812",
+        "email": "larabrian@example.net",
+        "account": {
+            "account_number": "251a597a-bd35-4866-9bf9-bdb210607107",
+            "balance": 24570.14,
+            "transactions": [
+                {
+                    "date": "2023-10-24",
+                    "description": "Deposit",
+                    "amount": -1231.5,
+                    "transaction_id": 86144472
+                }
+            ]
+        }
+    }
+}

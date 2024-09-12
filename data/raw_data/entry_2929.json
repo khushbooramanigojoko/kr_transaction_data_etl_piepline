@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Samuel Davis",
+        "age": 36,
+        "gender": "female",
+        "address": "366 Martin Tunnel Suite 976, New Sarah, KY 64355",
+        "phone": "001-724-646-3394x4745",
+        "email": "zachary82@example.com",
+        "account": {
+            "account_number": "e4fabeff-666f-475c-85c7-6a3a82e7f38b",
+            "balance": 41272.51,
+            "transactions": [
+                {
+                    "date": "2024-05-26",
+                    "description": "Interest",
+                    "amount": 35905.63,
+                    "transaction_id": 95729854
+                }
+            ]
+        }
+    }
+}

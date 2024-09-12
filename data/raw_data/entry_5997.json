@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Johnny Torres",
+        "age": 76,
+        "gender": "male",
+        "address": "8834 Woods Branch, Linmouth, WA 75309",
+        "phone": "+1-599-237-0485x988",
+        "email": "ywagner@example.org",
+        "account": {
+            "account_number": "2343c8b0-1d7b-4e33-9115-647cef605f89",
+            "balance": 26337.08,
+            "transactions": [
+                {
+                    "date": "2024-06-09",
+                    "description": "Interest",
+                    "amount": 36112.38,
+                    "transaction_id": 111191874
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Withdrawal",
+                    "amount": 1761.26,
+                    "transaction_id": 5035554
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Withdrawal",
+                    "amount": 45281.68,
+                    "transaction_id": 37595555
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Deposit",
+                    "amount": 34409.03,
+                    "transaction_id": 115926222
+                }
+            ]
+        }
+    }
+}

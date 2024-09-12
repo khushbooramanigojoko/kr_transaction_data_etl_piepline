@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jonathan Chang",
+        "age": 95,
+        "gender": "male",
+        "address": "464 Crawford Walks Apt. 468, Michaelville, AZ 07054",
+        "phone": "206-661-2631x26301",
+        "email": "marcusstewart@example.org",
+        "account": {
+            "account_number": "92bebda1-be5a-4faf-83b3-fc29f0a2bbcd",
+            "balance": 39406.43,
+            "transactions": [
+                {
+                    "date": "2024-03-19",
+                    "description": "Interest",
+                    "amount": 42798.06,
+                    "transaction_id": 16714570
+                },
+                {
+                    "date": "2024-03-07",
+                    "description": "Interest",
+                    "amount": 46196.86,
+                    "transaction_id": 99030901
+                },
+                {
+                    "date": "2022-10-13",
+                    "description": "Interest",
+                    "amount": 49765.25,
+                    "transaction_id": 86459500
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Interest",
+                    "amount": 41462.7,
+                    "transaction_id": 68305072
+                }
+            ]
+        }
+    }
+}

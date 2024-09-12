@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Melinda Baker",
+        "age": 38,
+        "gender": "male",
+        "address": "07974 Peterson Lights, Gutierrezville, NE 00624",
+        "phone": "393.876.5163x7858",
+        "email": "jessicabrown@example.org",
+        "account": {
+            "account_number": "dbf33226-35c9-4865-9c6c-07332975e040",
+            "balance": 35382.13,
+            "transactions": [
+                {
+                    "date": "2023-10-14",
+                    "description": "Withdrawal",
+                    "amount": 37069.91,
+                    "transaction_id": 90676309
+                },
+                {
+                    "date": "2023-11-14",
+                    "description": "Deposit",
+                    "amount": 19702.73,
+                    "transaction_id": 62165576
+                },
+                {
+                    "date": "2023-03-05",
+                    "description": "Withdrawal",
+                    "amount": 23163.96,
+                    "transaction_id": 59919571
+                }
+            ]
+        }
+    }
+}

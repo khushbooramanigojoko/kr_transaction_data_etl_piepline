@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jennifer Bridges",
+        "age": 88,
+        "gender": "male",
+        "address": "159 Monica Mountains Suite 899, Lawrenceville, NV 36889",
+        "phone": "(536)284-5798",
+        "email": "hamiltonbrian@example.org",
+        "account": {
+            "account_number": "f3cadc3b-0874-43f1-af88-0e64056587e8",
+            "balance": 24463.45,
+            "transactions": [
+                {
+                    "date": "2023-04-17",
+                    "description": "Deposit",
+                    "amount": 31906.6,
+                    "transaction_id": 45848250
+                }
+            ]
+        }
+    }
+}

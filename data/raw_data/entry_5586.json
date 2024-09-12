@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Justin Jackson",
+        "age": 98,
+        "gender": "female",
+        "address": "Unit 5985 Box 2636, DPO AP 80950",
+        "phone": "234-848-7077",
+        "email": "johnsonlisa@example.org",
+        "account": {
+            "account_number": "361cc1fa-b353-4563-89bb-a5094b73248d",
+            "balance": 19994.88,
+            "transactions": [
+                {
+                    "date": "2023-12-17",
+                    "description": "Deposit",
+                    "amount": 33306.8,
+                    "transaction_id": 111576495
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Interest",
+                    "amount": 16118.23,
+                    "transaction_id": 12552375
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Deposit",
+                    "amount": 16156.58,
+                    "transaction_id": 50352436
+                }
+            ]
+        }
+    }
+}

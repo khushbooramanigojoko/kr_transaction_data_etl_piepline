@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Anthony Cook",
+        "age": 79,
+        "gender": "female",
+        "address": "23845 White Glen, East Amandachester, SD 67470",
+        "phone": "823.865.7569",
+        "email": "alleneric@example.com",
+        "account": {
+            "account_number": "7421e68a-6833-4fbc-be71-79df3d8a46b7",
+            "balance": -16293.61,
+            "transactions": [
+                {
+                    "date": "2024-03-02",
+                    "description": "Deposit",
+                    "amount": 2903.95,
+                    "transaction_id": 41606577
+                },
+                {
+                    "date": "2023-05-03",
+                    "description": "Deposit",
+                    "amount": 3689.59,
+                    "transaction_id": 29461077
+                },
+                {
+                    "date": "2023-11-18",
+                    "description": "Deposit",
+                    "amount": 3582.56,
+                    "transaction_id": 49198749
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Interest",
+                    "amount": -4561.96,
+                    "transaction_id": 4342547
+                },
+                {
+                    "date": "2023-10-14",
+                    "description": "Withdrawal",
+                    "amount": 3610.76,
+                    "transaction_id": 113779859
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Devin Young",
+        "age": 32,
+        "gender": "female",
+        "address": "757 Riley Viaduct Apt. 461, Christinastad, WI 71284",
+        "phone": "001-669-331-4908",
+        "email": "martinezanthony@example.com",
+        "account": {
+            "account_number": "5a5f166c-33b1-4bf5-9305-f70ae63f8faa",
+            "balance": 1823.75,
+            "transactions": [
+                {
+                    "date": "2024-04-11",
+                    "description": "Interest",
+                    "amount": 31140.05,
+                    "transaction_id": 21027304
+                },
+                {
+                    "date": "2024-08-29",
+                    "description": "Interest",
+                    "amount": 15504.97,
+                    "transaction_id": 2517319
+                },
+                {
+                    "date": "2023-06-18",
+                    "description": "Deposit",
+                    "amount": 23599.67,
+                    "transaction_id": 39740633
+                },
+                {
+                    "date": "2024-07-24",
+                    "description": "Interest",
+                    "amount": 35648.87,
+                    "transaction_id": 71753941
+                }
+            ]
+        }
+    }
+}

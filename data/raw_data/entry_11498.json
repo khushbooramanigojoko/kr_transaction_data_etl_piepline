@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 62,
+        "gender": "female",
+        "address": "66574 Campbell Lakes Suite 938, South Susan, MT 98178",
+        "phone": "+1-606-815-3936x751",
+        "email": "xthomas@example.org",
+        "account": {
+            "account_number": "34b05cc5-49c5-45c1-89d3-7b7fde550780",
+            "balance": 1459.08,
+            "transactions": [
+                {
+                    "date": "2022-12-01",
+                    "description": "Withdrawal",
+                    "amount": 326.81,
+                    "transaction_id": 93164062
+                }
+            ]
+        }
+    }
+}

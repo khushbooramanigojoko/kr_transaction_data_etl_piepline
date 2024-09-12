@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Katherine Mitchell",
+        "age": 99,
+        "gender": "female",
+        "address": "80197 Bush Mews, New Michaelport, AR 81475",
+        "phone": "429.711.4579x35087",
+        "email": "ilandry@example.net",
+        "account": {
+            "account_number": "c7e827a4-4546-4645-84a3-1750ab0cb9e2",
+            "balance": 42763.37,
+            "transactions": [
+                {
+                    "date": "2024-07-31",
+                    "description": "Withdrawal",
+                    "amount": 5874.38,
+                    "transaction_id": 27369606
+                },
+                {
+                    "date": "2024-07-23",
+                    "description": "Deposit",
+                    "amount": 17312.23,
+                    "transaction_id": 44045360
+                }
+            ]
+        }
+    }
+}

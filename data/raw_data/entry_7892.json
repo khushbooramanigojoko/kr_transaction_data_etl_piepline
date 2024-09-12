@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Payne",
+        "age": 52,
+        "gender": "female",
+        "address": "222 Jason Lodge, North Amy, OH 55271",
+        "phone": "(359)919-4316x88991",
+        "email": "johnpayne@example.net",
+        "account": {
+            "account_number": "4725e668-818b-4b05-af62-ec25a641dd83",
+            "balance": 25652.17,
+            "transactions": [
+                {
+                    "date": "2022-09-25",
+                    "description": "Interest",
+                    "amount": 38156.11,
+                    "transaction_id": 2899498
+                }
+            ]
+        }
+    }
+}

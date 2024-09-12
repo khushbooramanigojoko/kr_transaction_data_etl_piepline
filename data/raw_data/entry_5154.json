@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Molly Hoffman",
+        "age": 89,
+        "gender": "male",
+        "address": "27019 Murphy Mission, Davidport, KY 52953",
+        "phone": "225.301.6273x9939",
+        "email": "bpowers@example.com",
+        "account": {
+            "account_number": "67fd27f3-4ce9-48dc-a496-bbe46fd45c5c",
+            "balance": 43061.91,
+            "transactions": [
+                {
+                    "date": "2024-07-04",
+                    "description": "Interest",
+                    "amount": 49725.08,
+                    "transaction_id": 85705230
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Interest",
+                    "amount": 48787.22,
+                    "transaction_id": 119086851
+                },
+                {
+                    "date": "2022-12-29",
+                    "description": "Deposit",
+                    "amount": 36764.47,
+                    "transaction_id": 11974024
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Withdrawal",
+                    "amount": 1826.94,
+                    "transaction_id": 73442666
+                },
+                {
+                    "date": "2022-12-25",
+                    "description": "Withdrawal",
+                    "amount": 38185.14,
+                    "transaction_id": 10247943
+                }
+            ]
+        }
+    }
+}

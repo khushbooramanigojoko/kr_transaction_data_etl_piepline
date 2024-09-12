@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Bradley Anderson",
+        "age": 24,
+        "gender": "female",
+        "address": "7108 Wright Court Suite 121, Lake Jamieside, MT 18092",
+        "phone": "+1-911-992-3261x345",
+        "email": "zrichards@example.net",
+        "account": {
+            "account_number": "f495ee60-3a0f-4ff2-b27d-f05f70e56bdd",
+            "balance": 41573.28,
+            "transactions": [
+                {
+                    "date": "2023-07-09",
+                    "description": "Deposit",
+                    "amount": 24177.75,
+                    "transaction_id": 87114702
+                }
+            ]
+        }
+    }
+}

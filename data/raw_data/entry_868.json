@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kim Russell",
+        "age": 30,
+        "gender": "male",
+        "address": "40904 Hill Highway, Jeffborough, PW 26102",
+        "phone": "2917805030",
+        "email": "johnsondavid@example.net",
+        "account": {
+            "account_number": "aa544d4c-ca2d-49fb-9fd0-b4f3e05067f3",
+            "balance": 24811.34,
+            "transactions": [
+                {
+                    "date": "2024-06-12",
+                    "description": "Withdrawal",
+                    "amount": 14420.58,
+                    "transaction_id": 53169000
+                },
+                {
+                    "date": "2024-08-17",
+                    "description": "Deposit",
+                    "amount": 31146.42,
+                    "transaction_id": 98884589
+                }
+            ]
+        }
+    }
+}

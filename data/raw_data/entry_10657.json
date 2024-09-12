@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Rhonda Cook",
+        "age": 21,
+        "gender": "male",
+        "address": "3615 Manning Vista, Meganside, KY 34456",
+        "phone": "(672)395-4122",
+        "email": "jwarner@example.org",
+        "account": {
+            "account_number": "28966960-5641-489b-954f-214d6dd2a24f",
+            "balance": -4213.66,
+            "transactions": [
+                {
+                    "date": "2023-10-27",
+                    "description": "Withdrawal",
+                    "amount": 2631.98,
+                    "transaction_id": 14950225
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Deposit",
+                    "amount": 1556.65,
+                    "transaction_id": 81949290
+                },
+                {
+                    "date": "2023-11-28",
+                    "description": "Interest",
+                    "amount": -3351.8,
+                    "transaction_id": 40911984
+                },
+                {
+                    "date": "2024-05-07",
+                    "description": "Withdrawal",
+                    "amount": 1258.39,
+                    "transaction_id": 108715654
+                }
+            ]
+        }
+    }
+}

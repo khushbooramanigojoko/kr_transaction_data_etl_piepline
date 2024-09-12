@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Matthew Smith",
+        "age": 93,
+        "gender": "female",
+        "address": "PSC 0323, Box 4569, APO AP 16454",
+        "phone": "(748)809-5242x77375",
+        "email": "utucker@example.com",
+        "account": {
+            "account_number": "4154a657-0460-4ab0-aeca-52f9b09298d0",
+            "balance": 44939.04,
+            "transactions": [
+                {
+                    "date": "2023-02-22",
+                    "description": "Interest",
+                    "amount": 21949.07,
+                    "transaction_id": 32829504
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 59,
+        "gender": "male",
+        "address": "949 Garcia Knolls Suite 034, Charlesfort, SD 16843",
+        "phone": "001-508-515-2395",
+        "email": "belinda17@example.org",
+        "account": {
+            "account_number": "63c77b47-3356-477f-9959-d24c4591daec",
+            "balance": 8889.7,
+            "transactions": [
+                {
+                    "date": "2023-08-20",
+                    "description": "Interest",
+                    "amount": 2866.81,
+                    "transaction_id": 99865468
+                },
+                {
+                    "date": "2022-12-16",
+                    "description": "Withdrawal",
+                    "amount": 3497.22,
+                    "transaction_id": 68094755
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Interest",
+                    "amount": 3348.22,
+                    "transaction_id": 30681834
+                },
+                {
+                    "date": "2024-02-08",
+                    "description": "Withdrawal",
+                    "amount": -1356.67,
+                    "transaction_id": 4095126
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Interest",
+                    "amount": -1515.65,
+                    "transaction_id": 98507574
+                }
+            ]
+        }
+    }
+}

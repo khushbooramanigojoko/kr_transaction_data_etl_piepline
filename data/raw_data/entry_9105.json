@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 93,
+        "gender": "male",
+        "address": "856 Chung Mountains, Popeland, CT 63221",
+        "phone": "200-275-6523",
+        "email": "jamessoto@example.com",
+        "account": {
+            "account_number": "d01b22ef-1af7-45bf-8e7c-18f4f08ce69b",
+            "balance": 12450.47,
+            "transactions": [
+                {
+                    "date": "2023-12-02",
+                    "description": "Deposit",
+                    "amount": -641.22,
+                    "transaction_id": 97595048
+                }
+            ]
+        }
+    }
+}

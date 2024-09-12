@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Rose DDS",
+        "age": 61,
+        "gender": "male",
+        "address": "Unit 3897 Box 9292, DPO AA 20399",
+        "phone": "747.946.7885x430",
+        "email": "jtravis@example.net",
+        "account": {
+            "account_number": "270155f4-30f0-4ecd-94ac-b8eda45dae9d",
+            "balance": -20538.74,
+            "transactions": [
+                {
+                    "date": "2023-04-21",
+                    "description": "Deposit",
+                    "amount": -893.37,
+                    "transaction_id": 56799276
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Interest",
+                    "amount": 26.36,
+                    "transaction_id": 53686671
+                },
+                {
+                    "date": "2023-07-13",
+                    "description": "Deposit",
+                    "amount": 4705.07,
+                    "transaction_id": 53858946
+                }
+            ]
+        }
+    }
+}

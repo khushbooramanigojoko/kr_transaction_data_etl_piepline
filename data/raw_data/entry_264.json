@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Johnny French",
+        "age": 28,
+        "gender": "female",
+        "address": "7093 Ronald Coves Suite 137, Pittston, VT 63746",
+        "phone": "578-591-1997x3065",
+        "email": "scott37@example.com",
+        "account": {
+            "account_number": "531210fe-2d58-465e-a6c6-477359381015",
+            "balance": 49667.38,
+            "transactions": [
+                {
+                    "date": "2023-12-26",
+                    "description": "Withdrawal",
+                    "amount": 29235.52,
+                    "transaction_id": 9623058
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Interest",
+                    "amount": 44133.51,
+                    "transaction_id": 65366628
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Deposit",
+                    "amount": 16110.09,
+                    "transaction_id": 115747287
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Interest",
+                    "amount": 40126.57,
+                    "transaction_id": 111824223
+                }
+            ]
+        }
+    }
+}

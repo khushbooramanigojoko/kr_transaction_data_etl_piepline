@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jose Vincent",
+        "age": 18,
+        "gender": "female",
+        "address": "0707 Ferguson Extensions Suite 670, Joshuamouth, ID 85558",
+        "phone": "(968)368-4873",
+        "email": "ryanprice@example.net",
+        "account": {
+            "account_number": "eef0d299-d917-48f4-8dff-a13b327aa251",
+            "balance": -231.67,
+            "transactions": [
+                {
+                    "date": "2024-08-30",
+                    "description": "Deposit",
+                    "amount": -3408.66,
+                    "transaction_id": 5547400
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Deposit",
+                    "amount": -3795.89,
+                    "transaction_id": 11214107
+                },
+                {
+                    "date": "2022-12-21",
+                    "description": "Deposit",
+                    "amount": 3352.99,
+                    "transaction_id": 38064943
+                }
+            ]
+        }
+    }
+}

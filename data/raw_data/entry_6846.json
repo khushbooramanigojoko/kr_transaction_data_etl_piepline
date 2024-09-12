@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Julie Graham",
+        "age": 32,
+        "gender": "female",
+        "address": "145 Amy Shores Apt. 536, North Elizabeth, AZ 78267",
+        "phone": "001-802-671-4071x4588",
+        "email": "jacksoncraig@example.com",
+        "account": {
+            "account_number": "8d3cd935-638e-49ed-9bda-cdbf908e4b48",
+            "balance": 49256.1,
+            "transactions": [
+                {
+                    "date": "2024-06-24",
+                    "description": "Interest",
+                    "amount": 22687.55,
+                    "transaction_id": 86971013
+                },
+                {
+                    "date": "2023-06-03",
+                    "description": "Interest",
+                    "amount": 33966.29,
+                    "transaction_id": 44846663
+                },
+                {
+                    "date": "2022-12-25",
+                    "description": "Deposit",
+                    "amount": 7421.98,
+                    "transaction_id": 3296478
+                }
+            ]
+        }
+    }
+}

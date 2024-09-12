@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Roberts",
+        "age": 96,
+        "gender": "male",
+        "address": "USNV Barton, FPO AE 77281",
+        "phone": "988-812-4843x67610",
+        "email": "nmcdaniel@example.com",
+        "account": {
+            "account_number": "84acf393-39d1-4e43-b507-fc902558cc62",
+            "balance": 6975.98,
+            "transactions": [
+                {
+                    "date": "2022-11-15",
+                    "description": "Withdrawal",
+                    "amount": 42857.04,
+                    "transaction_id": 74098719
+                }
+            ]
+        }
+    }
+}

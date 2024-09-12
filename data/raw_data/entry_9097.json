@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Cory Baker",
+        "age": 88,
+        "gender": "male",
+        "address": "94987 Joanna Divide, South Nicholas, ID 25522",
+        "phone": "+1-872-392-4609x5243",
+        "email": "jenniferrogers@example.net",
+        "account": {
+            "account_number": "59a8729e-8475-481d-95dc-76f8c91d9bdc",
+            "balance": -44700.09,
+            "transactions": [
+                {
+                    "date": "2024-01-30",
+                    "description": "Withdrawal",
+                    "amount": 3377.99,
+                    "transaction_id": 67439594
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Interest",
+                    "amount": 3706.48,
+                    "transaction_id": 37283105
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Deposit",
+                    "amount": 3750.7,
+                    "transaction_id": 119067137
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Withdrawal",
+                    "amount": 4590.62,
+                    "transaction_id": 2614696
+                }
+            ]
+        }
+    }
+}

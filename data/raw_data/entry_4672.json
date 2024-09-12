@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mark Collier",
+        "age": 22,
+        "gender": "male",
+        "address": "7388 Robinson View, East Jonathan, VI 45572",
+        "phone": "625.707.9494x622",
+        "email": "wallacemichael@example.org",
+        "account": {
+            "account_number": "2439c0fd-5bc2-496a-b6f4-58bdc2a3f3fa",
+            "balance": 25093.8,
+            "transactions": [
+                {
+                    "date": "2022-12-21",
+                    "description": "Deposit",
+                    "amount": 49546.82,
+                    "transaction_id": 60502917
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Deposit",
+                    "amount": 19698.8,
+                    "transaction_id": 116792298
+                },
+                {
+                    "date": "2022-09-07",
+                    "description": "Deposit",
+                    "amount": 14038.58,
+                    "transaction_id": 33091326
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Interest",
+                    "amount": 21516.13,
+                    "transaction_id": 84098849
+                },
+                {
+                    "date": "2023-12-10",
+                    "description": "Deposit",
+                    "amount": 14472.33,
+                    "transaction_id": 14940464
+                }
+            ]
+        }
+    }
+}

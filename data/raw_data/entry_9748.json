@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Gregory Espinoza",
+        "age": 64,
+        "gender": "male",
+        "address": "15239 Weaver Station Suite 697, Paulberg, AZ 53441",
+        "phone": "001-209-650-8918",
+        "email": "brewerkristi@example.net",
+        "account": {
+            "account_number": "3f46d869-b14c-4f8f-9af0-40f643d09382",
+            "balance": -20522.47,
+            "transactions": [
+                {
+                    "date": "2023-08-10",
+                    "description": "Withdrawal",
+                    "amount": 1651.19,
+                    "transaction_id": 59723454
+                },
+                {
+                    "date": "2023-03-05",
+                    "description": "Interest",
+                    "amount": -454.01,
+                    "transaction_id": 103396748
+                },
+                {
+                    "date": "2023-12-19",
+                    "description": "Deposit",
+                    "amount": 3285.17,
+                    "transaction_id": 29350319
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Deposit",
+                    "amount": 4313.0,
+                    "transaction_id": 70284859
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 89,
+        "gender": "female",
+        "address": "7610 Luke Extension, Lake Patrick, SD 86753",
+        "phone": "001-383-757-4689x326",
+        "email": "usmith@example.com",
+        "account": {
+            "account_number": "97bb01d5-196c-4c32-8732-b458ceb238be",
+            "balance": 31920.24,
+            "transactions": [
+                {
+                    "date": "2024-06-16",
+                    "description": "Deposit",
+                    "amount": -2546.01,
+                    "transaction_id": 109624049
+                },
+                {
+                    "date": "2023-09-07",
+                    "description": "Interest",
+                    "amount": 248.55,
+                    "transaction_id": 68620273
+                },
+                {
+                    "date": "2024-02-28",
+                    "description": "Interest",
+                    "amount": -473.17,
+                    "transaction_id": 23990921
+                },
+                {
+                    "date": "2023-11-18",
+                    "description": "Withdrawal",
+                    "amount": -3129.78,
+                    "transaction_id": 23462509
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Interest",
+                    "amount": 3814.53,
+                    "transaction_id": 29719639
+                }
+            ]
+        }
+    }
+}

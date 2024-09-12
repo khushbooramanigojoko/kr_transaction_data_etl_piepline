@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 64,
+        "gender": "female",
+        "address": "PSC 4972, Box 7083, APO AA 91035",
+        "phone": "274.815.3241x511",
+        "email": "sandrajensen@example.net",
+        "account": {
+            "account_number": "8d04da27-67d8-40bd-a5ef-bf7c38d0f97d",
+            "balance": 5901.22,
+            "transactions": [
+                {
+                    "date": "2023-07-10",
+                    "description": "Interest",
+                    "amount": -3480.22,
+                    "transaction_id": 36799153
+                },
+                {
+                    "date": "2023-01-16",
+                    "description": "Withdrawal",
+                    "amount": 4427.86,
+                    "transaction_id": 108098186
+                }
+            ]
+        }
+    }
+}

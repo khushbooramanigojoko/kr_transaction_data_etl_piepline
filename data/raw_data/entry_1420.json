@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Katelyn Herring",
+        "age": 46,
+        "gender": "female",
+        "address": "60883 Obrien Lock Apt. 020, West Adrienneburgh, OK 95340",
+        "phone": "+1-528-441-2677x9444",
+        "email": "mooretammy@example.com",
+        "account": {
+            "account_number": "0a6f845f-3ceb-4f68-b99a-ec5962c7873d",
+            "balance": 14943.23,
+            "transactions": [
+                {
+                    "date": "2024-01-31",
+                    "description": "Deposit",
+                    "amount": 40810.98,
+                    "transaction_id": 112464048
+                },
+                {
+                    "date": "2022-09-30",
+                    "description": "Deposit",
+                    "amount": 29643.3,
+                    "transaction_id": 7129731
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Dr. Kyle Coleman MD",
+        "age": 89,
+        "gender": "male",
+        "address": "010 Mary Orchard Apt. 719, North Johnstad, GA 71167",
+        "phone": "252-316-2144",
+        "email": "pramirez@example.net",
+        "account": {
+            "account_number": "cf196307-585a-48e8-9989-d472f74432fb",
+            "balance": 33513.84,
+            "transactions": [
+                {
+                    "date": "2024-05-17",
+                    "description": "Deposit",
+                    "amount": 11208.52,
+                    "transaction_id": 82763841
+                },
+                {
+                    "date": "2024-06-30",
+                    "description": "Interest",
+                    "amount": 45091.43,
+                    "transaction_id": 118831863
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Withdrawal",
+                    "amount": 21077.38,
+                    "transaction_id": 41525301
+                }
+            ]
+        }
+    }
+}

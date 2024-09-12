@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Paul Torres",
+        "age": 74,
+        "gender": "male",
+        "address": "88119 Sandra Lakes Suite 885, South Janeshire, KY 92995",
+        "phone": "426.297.6658x66937",
+        "email": "destiny67@example.org",
+        "account": {
+            "account_number": "0271606e-5310-493a-9c4a-9ee878caa461",
+            "balance": 28611.54,
+            "transactions": [
+                {
+                    "date": "2024-08-12",
+                    "description": "Deposit",
+                    "amount": 27272.36,
+                    "transaction_id": 87078312
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Deposit",
+                    "amount": 12533.09,
+                    "transaction_id": 65949071
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Interest",
+                    "amount": 4856.94,
+                    "transaction_id": 10630240
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Withdrawal",
+                    "amount": 38134.65,
+                    "transaction_id": 113420439
+                },
+                {
+                    "date": "2023-05-23",
+                    "description": "Withdrawal",
+                    "amount": 5849.51,
+                    "transaction_id": 71332673
+                }
+            ]
+        }
+    }
+}

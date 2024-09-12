@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Riley Russell",
+        "age": 73,
+        "gender": "female",
+        "address": "56055 Snyder Meadows, Jamieberg, KY 81260",
+        "phone": "379.376.0220x98941",
+        "email": "emilytorres@example.net",
+        "account": {
+            "account_number": "0c52c357-a476-4c03-821b-aa1340fcd8b4",
+            "balance": 2381.12,
+            "transactions": [
+                {
+                    "date": "2022-09-06",
+                    "description": "Deposit",
+                    "amount": 22000.2,
+                    "transaction_id": 4905972
+                }
+            ]
+        }
+    }
+}

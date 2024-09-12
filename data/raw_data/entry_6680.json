@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Javier Sparks",
+        "age": 18,
+        "gender": "female",
+        "address": "137 Carmen Parkways, North Brandon, NE 28508",
+        "phone": "920.565.3856",
+        "email": "michael17@example.com",
+        "account": {
+            "account_number": "af7b1171-13e2-403c-a307-6011c77664f8",
+            "balance": 45348.36,
+            "transactions": [
+                {
+                    "date": "2024-03-05",
+                    "description": "Withdrawal",
+                    "amount": 45394.71,
+                    "transaction_id": 79259618
+                },
+                {
+                    "date": "2023-09-19",
+                    "description": "Interest",
+                    "amount": 17322.88,
+                    "transaction_id": 106721528
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Deposit",
+                    "amount": 5941.1,
+                    "transaction_id": 117621571
+                },
+                {
+                    "date": "2023-04-05",
+                    "description": "Withdrawal",
+                    "amount": 10947.23,
+                    "transaction_id": 13429781
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Deposit",
+                    "amount": 24008.82,
+                    "transaction_id": 28861441
+                }
+            ]
+        }
+    }
+}

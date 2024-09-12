@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Heather Wu",
+        "age": 65,
+        "gender": "female",
+        "address": "0968 Kelsey Walk Apt. 390, Brandyfurt, SC 32246",
+        "phone": "394.663.3342x034",
+        "email": "kevinjohnston@example.net",
+        "account": {
+            "account_number": "c76718e8-4e84-4c6b-a913-a13372ed4d33",
+            "balance": -29716.92,
+            "transactions": [
+                {
+                    "date": "2022-11-17",
+                    "description": "Deposit",
+                    "amount": -2488.9,
+                    "transaction_id": 32692154
+                },
+                {
+                    "date": "2024-01-09",
+                    "description": "Interest",
+                    "amount": 4047.56,
+                    "transaction_id": 30303633
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Withdrawal",
+                    "amount": 845.77,
+                    "transaction_id": 117456323
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Deposit",
+                    "amount": 876.27,
+                    "transaction_id": 89593999
+                }
+            ]
+        }
+    }
+}

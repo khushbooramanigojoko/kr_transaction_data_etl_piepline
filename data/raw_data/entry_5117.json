@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dawn Navarro",
+        "age": 39,
+        "gender": "male",
+        "address": "USNV Mitchell, FPO AE 94087",
+        "phone": "729.983.6131x377",
+        "email": "angelahayden@example.net",
+        "account": {
+            "account_number": "68fab25b-3a48-40d3-8a0d-92b9518a4387",
+            "balance": 40401.61,
+            "transactions": [
+                {
+                    "date": "2023-01-09",
+                    "description": "Interest",
+                    "amount": 14803.32,
+                    "transaction_id": 60843998
+                },
+                {
+                    "date": "2023-05-29",
+                    "description": "Withdrawal",
+                    "amount": 38332.93,
+                    "transaction_id": 29078179
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Deposit",
+                    "amount": 33651.47,
+                    "transaction_id": 54766977
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Withdrawal",
+                    "amount": 39134.28,
+                    "transaction_id": 27234299
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Withdrawal",
+                    "amount": 18598.11,
+                    "transaction_id": 11791991
+                }
+            ]
+        }
+    }
+}

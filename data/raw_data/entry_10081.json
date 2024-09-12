@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Erica Jenkins",
+        "age": 99,
+        "gender": "female",
+        "address": "815 Reynolds Inlet Suite 040, Steeleshire, MS 94720",
+        "phone": "303-793-1880x033",
+        "email": "baileymcdaniel@example.net",
+        "account": {
+            "account_number": "fd6a91e4-3fde-4f2c-913b-dcbfd60bd257",
+            "balance": -35787.98,
+            "transactions": [
+                {
+                    "date": "2023-11-04",
+                    "description": "Withdrawal",
+                    "amount": -4578.7,
+                    "transaction_id": 107985579
+                }
+            ]
+        }
+    }
+}

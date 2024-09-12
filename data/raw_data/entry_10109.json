@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 79,
+        "gender": "male",
+        "address": "122 Garrett Isle Suite 632, Port Stacy, VT 28132",
+        "phone": "587-554-6151",
+        "email": "aharper@example.com",
+        "account": {
+            "account_number": "6e191178-31fa-4ac3-9113-b0447541e367",
+            "balance": 33154.16,
+            "transactions": [
+                {
+                    "date": "2023-02-12",
+                    "description": "Withdrawal",
+                    "amount": 1168.49,
+                    "transaction_id": 37498225
+                },
+                {
+                    "date": "2024-02-25",
+                    "description": "Interest",
+                    "amount": 814.9,
+                    "transaction_id": 116643244
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Withdrawal",
+                    "amount": -1879.66,
+                    "transaction_id": 32960191
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Withdrawal",
+                    "amount": -3605.08,
+                    "transaction_id": 101717196
+                }
+            ]
+        }
+    }
+}

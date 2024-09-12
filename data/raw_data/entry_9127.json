@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 63,
+        "gender": "male",
+        "address": "8962 Taylor Junction Apt. 716, Garciabury, TX 16198",
+        "phone": "001-724-444-2012x3661",
+        "email": "brett14@example.net",
+        "account": {
+            "account_number": "e1875d65-068d-4de7-b208-0bd579a7f486",
+            "balance": 6729.97,
+            "transactions": [
+                {
+                    "date": "2023-06-26",
+                    "description": "Deposit",
+                    "amount": 3272.74,
+                    "transaction_id": 72091156
+                },
+                {
+                    "date": "2023-03-11",
+                    "description": "Deposit",
+                    "amount": -520.34,
+                    "transaction_id": 24562636
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Withdrawal",
+                    "amount": 1756.43,
+                    "transaction_id": 78341606
+                }
+            ]
+        }
+    }
+}

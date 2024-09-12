@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Adam Williams",
+        "age": 68,
+        "gender": "male",
+        "address": "52750 Hutchinson Ports Apt. 480, Port Keith, AL 33786",
+        "phone": "(876)646-9622x856",
+        "email": "awheeler@example.net",
+        "account": {
+            "account_number": "7edb7275-5a69-4782-bea1-af4fcd5bb7e5",
+            "balance": 5242.45,
+            "transactions": [
+                {
+                    "date": "2024-07-26",
+                    "description": "Interest",
+                    "amount": 11010.27,
+                    "transaction_id": 12639276
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Interest",
+                    "amount": 24364.53,
+                    "transaction_id": 109505313
+                },
+                {
+                    "date": "2023-11-23",
+                    "description": "Withdrawal",
+                    "amount": 19690.87,
+                    "transaction_id": 35109184
+                },
+                {
+                    "date": "2023-03-26",
+                    "description": "Deposit",
+                    "amount": 35497.0,
+                    "transaction_id": 65372908
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Withdrawal",
+                    "amount": 43925.79,
+                    "transaction_id": 5074240
+                }
+            ]
+        }
+    }
+}

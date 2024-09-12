@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "James Paul",
+        "age": 58,
+        "gender": "female",
+        "address": "77135 Miguel Crossing Suite 741, Hermanmouth, MP 27172",
+        "phone": "+1-609-693-6236",
+        "email": "jburnett@example.com",
+        "account": {
+            "account_number": "3d8405a7-64ea-43c6-b674-7c9063e1ef3e",
+            "balance": 35701.7,
+            "transactions": [
+                {
+                    "date": "2023-12-16",
+                    "description": "Interest",
+                    "amount": 21272.3,
+                    "transaction_id": 62820828
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Withdrawal",
+                    "amount": 31309.88,
+                    "transaction_id": 91884177
+                }
+            ]
+        }
+    }
+}

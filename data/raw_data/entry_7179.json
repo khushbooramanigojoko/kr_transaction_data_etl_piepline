@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lynn Mcgrath",
+        "age": 83,
+        "gender": "male",
+        "address": "0610 Katherine Passage Apt. 143, South Kristi, MT 48329",
+        "phone": "509.400.1017x045",
+        "email": "qhenderson@example.com",
+        "account": {
+            "account_number": "5cdd4870-ac33-4848-8207-b877880bb504",
+            "balance": 18816.57,
+            "transactions": [
+                {
+                    "date": "2024-04-16",
+                    "description": "Deposit",
+                    "amount": 32772.22,
+                    "transaction_id": 30438737
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Interest",
+                    "amount": 40548.95,
+                    "transaction_id": 49257584
+                },
+                {
+                    "date": "2022-09-23",
+                    "description": "Deposit",
+                    "amount": 42801.68,
+                    "transaction_id": 40710289
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Deposit",
+                    "amount": 28268.03,
+                    "transaction_id": 99703161
+                }
+            ]
+        }
+    }
+}

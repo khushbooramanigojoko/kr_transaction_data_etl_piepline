@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ronald Hunter",
+        "age": 71,
+        "gender": "male",
+        "address": "08417 Moore Hill Suite 673, Evansview, AK 83771",
+        "phone": "417-330-7182x2680",
+        "email": "tracy42@example.com",
+        "account": {
+            "account_number": "202798e0-018a-47f2-97ea-35d7508caabc",
+            "balance": -27256.95,
+            "transactions": [
+                {
+                    "date": "2023-05-08",
+                    "description": "Withdrawal",
+                    "amount": 2308.67,
+                    "transaction_id": 73469886
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Withdrawal",
+                    "amount": -4146.28,
+                    "transaction_id": 93932480
+                },
+                {
+                    "date": "2022-09-27",
+                    "description": "Interest",
+                    "amount": 3833.31,
+                    "transaction_id": 114458702
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Deposit",
+                    "amount": -4160.68,
+                    "transaction_id": 32323882
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Megan Reid",
+        "age": 89,
+        "gender": "female",
+        "address": "29491 Scott Walks Apt. 742, Port Kelsey, KS 38412",
+        "phone": "269-232-9390x3074",
+        "email": "cory26@example.com",
+        "account": {
+            "account_number": "b01b788c-d4bd-4ed7-8bd0-0feb115b94b6",
+            "balance": 17793.56,
+            "transactions": [
+                {
+                    "date": "2024-07-06",
+                    "description": "Interest",
+                    "amount": 23384.72,
+                    "transaction_id": 104378410
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Withdrawal",
+                    "amount": 38404.0,
+                    "transaction_id": 21964687
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Interest",
+                    "amount": 40720.08,
+                    "transaction_id": 71351372
+                }
+            ]
+        }
+    }
+}

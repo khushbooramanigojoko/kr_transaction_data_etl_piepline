@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tracy Gibson",
+        "age": 49,
+        "gender": "female",
+        "address": "USCGC Dunn, FPO AA 86244",
+        "phone": "001-635-521-3484x2109",
+        "email": "uwalker@example.com",
+        "account": {
+            "account_number": "1bf57e6c-0123-4b99-ba22-54140750423b",
+            "balance": -31091.98,
+            "transactions": [
+                {
+                    "date": "2022-09-26",
+                    "description": "Interest",
+                    "amount": 1019.71,
+                    "transaction_id": 49674139
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Deposit",
+                    "amount": 1417.65,
+                    "transaction_id": 88154479
+                },
+                {
+                    "date": "2024-01-11",
+                    "description": "Deposit",
+                    "amount": -1967.1,
+                    "transaction_id": 37373514
+                }
+            ]
+        }
+    }
+}

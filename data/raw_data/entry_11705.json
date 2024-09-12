@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 25,
+        "gender": "male",
+        "address": "29056 Roberts Isle, Port Kelly, WI 70769",
+        "phone": "(706)450-8707x61289",
+        "email": "mendezmartin@example.net",
+        "account": {
+            "account_number": "99a30b4f-196f-40e1-8765-a8af6ff0d57c",
+            "balance": 15681.44,
+            "transactions": [
+                {
+                    "date": "2023-06-24",
+                    "description": "Interest",
+                    "amount": 1171.99,
+                    "transaction_id": 66671569
+                },
+                {
+                    "date": "2023-11-04",
+                    "description": "Interest",
+                    "amount": 3600.1,
+                    "transaction_id": 41649359
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lance Fowler",
+        "age": 18,
+        "gender": "female",
+        "address": "18228 Williams Village Suite 978, Port Christopher, MT 41380",
+        "phone": "955-292-4624x623",
+        "email": "davidcampbell@example.net",
+        "account": {
+            "account_number": "d1440b55-2a21-4fed-9dc6-5d3d62cc1eb5",
+            "balance": 26692.1,
+            "transactions": [
+                {
+                    "date": "2024-01-07",
+                    "description": "Interest",
+                    "amount": 21181.68,
+                    "transaction_id": 113608411
+                },
+                {
+                    "date": "2024-08-11",
+                    "description": "Withdrawal",
+                    "amount": 2512.52,
+                    "transaction_id": 4116565
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Deposit",
+                    "amount": 26905.88,
+                    "transaction_id": 35547934
+                },
+                {
+                    "date": "2022-11-18",
+                    "description": "Interest",
+                    "amount": 4271.01,
+                    "transaction_id": 42821708
+                }
+            ]
+        }
+    }
+}

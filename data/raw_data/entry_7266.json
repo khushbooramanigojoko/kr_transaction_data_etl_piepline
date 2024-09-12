@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jay Cole",
+        "age": 95,
+        "gender": "female",
+        "address": "80128 Latasha Roads, Ibarrafort, PW 38066",
+        "phone": "830.479.6791x5931",
+        "email": "udecker@example.com",
+        "account": {
+            "account_number": "642e6b5b-5626-4918-b80e-86fdf05eb29e",
+            "balance": 7184.17,
+            "transactions": [
+                {
+                    "date": "2024-07-01",
+                    "description": "Withdrawal",
+                    "amount": 11667.23,
+                    "transaction_id": 7139744
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Deposit",
+                    "amount": 35601.22,
+                    "transaction_id": 1484180
+                },
+                {
+                    "date": "2022-11-07",
+                    "description": "Deposit",
+                    "amount": 31279.17,
+                    "transaction_id": 54069102
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Interest",
+                    "amount": 9840.86,
+                    "transaction_id": 15085648
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Interest",
+                    "amount": 22494.76,
+                    "transaction_id": 8982311
+                }
+            ]
+        }
+    }
+}

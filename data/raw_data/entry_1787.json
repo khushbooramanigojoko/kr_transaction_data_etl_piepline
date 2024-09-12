@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Carol Stevenson",
+        "age": 83,
+        "gender": "female",
+        "address": "09782 Michael River, Bonnieshire, WA 12498",
+        "phone": "+1-758-816-3596x864",
+        "email": "kelleyandrew@example.net",
+        "account": {
+            "account_number": "4b5771f9-d4e5-495c-99e2-176b5a0a8712",
+            "balance": 25775.12,
+            "transactions": [
+                {
+                    "date": "2023-12-06",
+                    "description": "Deposit",
+                    "amount": 12617.94,
+                    "transaction_id": 28503695
+                }
+            ]
+        }
+    }
+}

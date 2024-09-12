@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "John Maynard",
+        "age": 30,
+        "gender": "male",
+        "address": "727 Thompson Route Apt. 296, Lake Lawrenceview, AL 47938",
+        "phone": "001-813-594-8038x54827",
+        "email": "robbinswendy@example.org",
+        "account": {
+            "account_number": "fd3b7684-d92a-4bc1-8df1-241cdb5d6b5b",
+            "balance": 7103.03,
+            "transactions": [
+                {
+                    "date": "2024-06-03",
+                    "description": "Interest",
+                    "amount": 42435.02,
+                    "transaction_id": 99322667
+                }
+            ]
+        }
+    }
+}

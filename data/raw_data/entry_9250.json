@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 91,
+        "gender": "female",
+        "address": "54054 May Knoll, Karenchester, ND 76012",
+        "phone": "295-572-3035x15701",
+        "email": "crystalcopeland@example.net",
+        "account": {
+            "account_number": "68731ea9-e59d-4fef-8469-e7b2146b7add",
+            "balance": 1467.66,
+            "transactions": [
+                {
+                    "date": "2024-07-13",
+                    "description": "Withdrawal",
+                    "amount": -3664.66,
+                    "transaction_id": 11159490
+                }
+            ]
+        }
+    }
+}

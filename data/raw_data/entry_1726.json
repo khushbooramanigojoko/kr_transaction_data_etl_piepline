@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joseph Rich",
+        "age": 91,
+        "gender": "female",
+        "address": "02217 Kevin Landing Apt. 799, Erikaton, WA 17677",
+        "phone": "453.613.0986x54873",
+        "email": "zroberts@example.com",
+        "account": {
+            "account_number": "3ab10d2e-5d73-4338-b008-e26939580ed1",
+            "balance": 14205.46,
+            "transactions": [
+                {
+                    "date": "2023-09-20",
+                    "description": "Withdrawal",
+                    "amount": 33537.19,
+                    "transaction_id": 89490744
+                },
+                {
+                    "date": "2023-06-25",
+                    "description": "Withdrawal",
+                    "amount": 33591.12,
+                    "transaction_id": 39532095
+                }
+            ]
+        }
+    }
+}

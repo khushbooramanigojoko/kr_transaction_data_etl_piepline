@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Gerald Simpson",
+        "age": 43,
+        "gender": "female",
+        "address": "5295 Murphy Center Suite 490, East Andrewview, MD 57228",
+        "phone": "+1-369-400-7949x029",
+        "email": "benjaminlee@example.org",
+        "account": {
+            "account_number": "7a392abd-7dc8-4490-b098-3d15411a4071",
+            "balance": 44852.35,
+            "transactions": [
+                {
+                    "date": "2024-08-05",
+                    "description": "Deposit",
+                    "amount": 20698.43,
+                    "transaction_id": 72717642
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Deposit",
+                    "amount": 33430.56,
+                    "transaction_id": 25770288
+                }
+            ]
+        }
+    }
+}

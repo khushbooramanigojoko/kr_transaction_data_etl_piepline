@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Heather Jones",
+        "age": 23,
+        "gender": "female",
+        "address": "433 Christine Wall Suite 041, Lukefort, MI 88499",
+        "phone": "838.399.4081x942",
+        "email": "scottbailey@example.com",
+        "account": {
+            "account_number": "0c655bd8-40b0-461d-874b-889d13ade812",
+            "balance": 44734.79,
+            "transactions": [
+                {
+                    "date": "2023-09-01",
+                    "description": "Withdrawal",
+                    "amount": 8333.38,
+                    "transaction_id": 90148625
+                },
+                {
+                    "date": "2023-05-05",
+                    "description": "Interest",
+                    "amount": 48076.99,
+                    "transaction_id": 115881708
+                },
+                {
+                    "date": "2024-05-20",
+                    "description": "Withdrawal",
+                    "amount": 41092.34,
+                    "transaction_id": 11639137
+                }
+            ]
+        }
+    }
+}

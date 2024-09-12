@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 64,
+        "gender": "male",
+        "address": "35739 Hodge Walk, Lake Sheilaburgh, ND 29797",
+        "phone": "958-505-4094",
+        "email": "vgates@example.org",
+        "account": {
+            "account_number": "73dbfd61-ffc2-43c7-90b4-2297be58f0d4",
+            "balance": 10138.67,
+            "transactions": [
+                {
+                    "date": "2024-01-22",
+                    "description": "Deposit",
+                    "amount": 82.69,
+                    "transaction_id": 35611365
+                }
+            ]
+        }
+    }
+}

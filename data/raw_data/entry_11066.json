@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 67,
+        "gender": "female",
+        "address": "Unit 9936 Box 5150, DPO AE 00948",
+        "phone": "(624)785-7722",
+        "email": "megan02@example.net",
+        "account": {
+            "account_number": "cebc0739-1ad6-452d-b712-d50a17dd0ce9",
+            "balance": 5041.62,
+            "transactions": [
+                {
+                    "date": "2024-08-28",
+                    "description": "Interest",
+                    "amount": 2397.93,
+                    "transaction_id": 108385943
+                },
+                {
+                    "date": "2023-02-08",
+                    "description": "Deposit",
+                    "amount": 4385.21,
+                    "transaction_id": 46333480
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Interest",
+                    "amount": -3142.07,
+                    "transaction_id": 24313314
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Withdrawal",
+                    "amount": -1370.75,
+                    "transaction_id": 26800147
+                },
+                {
+                    "date": "2024-01-21",
+                    "description": "Interest",
+                    "amount": 784.54,
+                    "transaction_id": 54215374
+                }
+            ]
+        }
+    }
+}

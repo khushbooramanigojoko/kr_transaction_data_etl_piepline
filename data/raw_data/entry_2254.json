@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tara Webb",
+        "age": 54,
+        "gender": "female",
+        "address": "7397 Andrews Mountain, Lauratown, MT 85930",
+        "phone": "980-455-6516x300",
+        "email": "robert65@example.net",
+        "account": {
+            "account_number": "5e5edb75-39ab-492a-8f3b-51f07fbea3c4",
+            "balance": 42216.93,
+            "transactions": [
+                {
+                    "date": "2023-07-01",
+                    "description": "Deposit",
+                    "amount": 32123.58,
+                    "transaction_id": 62606427
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kathryn Mclean",
+        "age": 42,
+        "gender": "male",
+        "address": "36714 Lopez Harbors, Lake Erika, MO 90163",
+        "phone": "609.217.2183x64160",
+        "email": "cordovathomas@example.org",
+        "account": {
+            "account_number": "9dcbed4b-a491-43ba-ac68-67ff2c8af8ef",
+            "balance": 47551.25,
+            "transactions": [
+                {
+                    "date": "2023-09-07",
+                    "description": "Interest",
+                    "amount": 32327.77,
+                    "transaction_id": 52491438
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Interest",
+                    "amount": 31358.17,
+                    "transaction_id": 35346339
+                },
+                {
+                    "date": "2024-02-06",
+                    "description": "Deposit",
+                    "amount": 7865.85,
+                    "transaction_id": 19674650
+                },
+                {
+                    "date": "2024-08-08",
+                    "description": "Deposit",
+                    "amount": 10022.25,
+                    "transaction_id": 105507530
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Interest",
+                    "amount": 30703.89,
+                    "transaction_id": 48905315
+                }
+            ]
+        }
+    }
+}

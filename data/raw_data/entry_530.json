@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Oscar Casey",
+        "age": 96,
+        "gender": "female",
+        "address": "84595 Perez Grove, Lake Charles, ME 95520",
+        "phone": "(408)739-7649x301",
+        "email": "ypowell@example.com",
+        "account": {
+            "account_number": "27b4bc7c-7f1b-4fb9-962d-3ff10fd6528b",
+            "balance": 7538.33,
+            "transactions": [
+                {
+                    "date": "2024-05-29",
+                    "description": "Withdrawal",
+                    "amount": 48130.1,
+                    "transaction_id": 78192800
+                },
+                {
+                    "date": "2023-06-23",
+                    "description": "Deposit",
+                    "amount": 35765.2,
+                    "transaction_id": 39866691
+                },
+                {
+                    "date": "2023-04-24",
+                    "description": "Deposit",
+                    "amount": 17847.6,
+                    "transaction_id": 64494112
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Deposit",
+                    "amount": 20177.97,
+                    "transaction_id": 81439058
+                }
+            ]
+        }
+    }
+}

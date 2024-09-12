@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Gina Garcia",
+        "age": 40,
+        "gender": "female",
+        "address": "6317 Smith Dam, Mataport, KY 09053",
+        "phone": "+1-319-635-3285x80519",
+        "email": "brianwood@example.net",
+        "account": {
+            "account_number": "8ec41696-625f-4653-b5cb-872336d1cd7f",
+            "balance": 42553.11,
+            "transactions": [
+                {
+                    "date": "2024-03-06",
+                    "description": "Interest",
+                    "amount": 12071.39,
+                    "transaction_id": 117456831
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Withdrawal",
+                    "amount": 29823.52,
+                    "transaction_id": 118776337
+                },
+                {
+                    "date": "2024-08-03",
+                    "description": "Deposit",
+                    "amount": 38848.79,
+                    "transaction_id": 98474905
+                },
+                {
+                    "date": "2024-04-24",
+                    "description": "Interest",
+                    "amount": 734.0,
+                    "transaction_id": 36999937
+                },
+                {
+                    "date": "2024-02-21",
+                    "description": "Deposit",
+                    "amount": 31104.09,
+                    "transaction_id": 107899190
+                }
+            ]
+        }
+    }
+}

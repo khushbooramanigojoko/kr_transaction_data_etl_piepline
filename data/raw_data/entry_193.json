@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Rebecca Woods",
+        "age": 42,
+        "gender": "female",
+        "address": "2484 Philip Shores, Dakotatown, DE 43633",
+        "phone": "+1-275-938-1662x533",
+        "email": "stonebruce@example.org",
+        "account": {
+            "account_number": "a053d0c6-e238-42d6-b841-39b03cc55260",
+            "balance": 38168.71,
+            "transactions": [
+                {
+                    "date": "2024-08-04",
+                    "description": "Interest",
+                    "amount": 44356.71,
+                    "transaction_id": 90322767
+                },
+                {
+                    "date": "2022-11-07",
+                    "description": "Deposit",
+                    "amount": 44434.05,
+                    "transaction_id": 72285897
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Deposit",
+                    "amount": 47170.16,
+                    "transaction_id": 33587165
+                }
+            ]
+        }
+    }
+}

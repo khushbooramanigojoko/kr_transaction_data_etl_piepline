@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sabrina Carpenter",
+        "age": 36,
+        "gender": "female",
+        "address": "88727 Jonathan Spur, Jonesfurt, AR 56267",
+        "phone": "(672)982-8167",
+        "email": "leslie74@example.org",
+        "account": {
+            "account_number": "79f382a1-b5e7-4a4e-9278-758ed8f28a6a",
+            "balance": 35646.03,
+            "transactions": [
+                {
+                    "date": "2024-06-28",
+                    "description": "Interest",
+                    "amount": 425.77,
+                    "transaction_id": 45619592
+                },
+                {
+                    "date": "2023-07-26",
+                    "description": "Interest",
+                    "amount": 6535.06,
+                    "transaction_id": 45619824
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Deposit",
+                    "amount": 17074.57,
+                    "transaction_id": 53785684
+                },
+                {
+                    "date": "2024-01-02",
+                    "description": "Deposit",
+                    "amount": 4477.61,
+                    "transaction_id": 109068263
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Benjamin Scott",
+        "age": 20,
+        "gender": "female",
+        "address": "9760 Robles Mission, East Danielport, MA 69298",
+        "phone": "(960)599-7590",
+        "email": "sarahhamilton@example.org",
+        "account": {
+            "account_number": "b3083c04-14b2-4f2a-86b4-fb78a17ce60d",
+            "balance": -42029.35,
+            "transactions": [
+                {
+                    "date": "2023-06-12",
+                    "description": "Withdrawal",
+                    "amount": 3509.95,
+                    "transaction_id": 29174575
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Withdrawal",
+                    "amount": -110.06,
+                    "transaction_id": 35141466
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Withdrawal",
+                    "amount": -882.9,
+                    "transaction_id": 109584803
+                },
+                {
+                    "date": "2023-04-23",
+                    "description": "Interest",
+                    "amount": -382.2,
+                    "transaction_id": 13362748
+                }
+            ]
+        }
+    }
+}

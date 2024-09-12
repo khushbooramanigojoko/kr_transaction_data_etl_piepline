@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Robert Reilly",
+        "age": 41,
+        "gender": "male",
+        "address": "728 Paige Lodge, Aguilarborough, IA 39401",
+        "phone": "688-505-6809",
+        "email": "ginabarry@example.org",
+        "account": {
+            "account_number": "5b1a4507-82ab-4a9e-a312-5b8bf5325f72",
+            "balance": 22646.32,
+            "transactions": [
+                {
+                    "date": "2023-04-27",
+                    "description": "Withdrawal",
+                    "amount": 10920.5,
+                    "transaction_id": 102228192
+                },
+                {
+                    "date": "2024-04-17",
+                    "description": "Deposit",
+                    "amount": 20020.61,
+                    "transaction_id": 10896448
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Withdrawal",
+                    "amount": 46861.27,
+                    "transaction_id": 99924983
+                },
+                {
+                    "date": "2022-09-27",
+                    "description": "Deposit",
+                    "amount": 36780.62,
+                    "transaction_id": 114734870
+                }
+            ]
+        }
+    }
+}

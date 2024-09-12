@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alyssa Harper",
+        "age": 89,
+        "gender": "female",
+        "address": "8605 Sutton Hills, East Robertberg, TX 87870",
+        "phone": "001-328-396-4304x391",
+        "email": "philliprodriguez@example.com",
+        "account": {
+            "account_number": "d5c5fe93-e1b8-4f00-8c60-c642d01c5968",
+            "balance": 1085.96,
+            "transactions": [
+                {
+                    "date": "2023-11-11",
+                    "description": "Withdrawal",
+                    "amount": 31455.07,
+                    "transaction_id": 58473334
+                },
+                {
+                    "date": "2022-11-23",
+                    "description": "Deposit",
+                    "amount": 8061.14,
+                    "transaction_id": 47585654
+                },
+                {
+                    "date": "2024-08-24",
+                    "description": "Deposit",
+                    "amount": 15051.42,
+                    "transaction_id": 67806950
+                },
+                {
+                    "date": "2023-04-24",
+                    "description": "Deposit",
+                    "amount": 13285.54,
+                    "transaction_id": 15154280
+                }
+            ]
+        }
+    }
+}

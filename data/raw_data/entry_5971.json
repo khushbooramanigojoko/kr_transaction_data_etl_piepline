@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sheila Baxter",
+        "age": 19,
+        "gender": "female",
+        "address": "6767 Nicole Tunnel Apt. 133, Mckinneychester, RI 03062",
+        "phone": "778-629-1033",
+        "email": "dcastillo@example.org",
+        "account": {
+            "account_number": "1d65ef02-b2dd-4ef3-a8e4-5f05ff781e0e",
+            "balance": 2393.18,
+            "transactions": [
+                {
+                    "date": "2024-02-06",
+                    "description": "Interest",
+                    "amount": 34786.21,
+                    "transaction_id": 71606281
+                }
+            ]
+        }
+    }
+}

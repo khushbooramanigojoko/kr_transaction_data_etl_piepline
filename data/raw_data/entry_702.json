@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Benjamin Perry",
+        "age": 25,
+        "gender": "female",
+        "address": "25796 Donna Estates Apt. 184, Karenton, FL 17930",
+        "phone": "661-454-8311",
+        "email": "allisonvargas@example.com",
+        "account": {
+            "account_number": "bfbeb1e5-87a6-4c5b-8a1a-d693f111676d",
+            "balance": 38234.83,
+            "transactions": [
+                {
+                    "date": "2024-01-28",
+                    "description": "Withdrawal",
+                    "amount": 1837.27,
+                    "transaction_id": 75134818
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Interest",
+                    "amount": 31796.02,
+                    "transaction_id": 105608030
+                },
+                {
+                    "date": "2022-09-11",
+                    "description": "Withdrawal",
+                    "amount": 29086.87,
+                    "transaction_id": 53885700
+                },
+                {
+                    "date": "2023-01-27",
+                    "description": "Withdrawal",
+                    "amount": 5240.37,
+                    "transaction_id": 21878163
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Withdrawal",
+                    "amount": 35226.85,
+                    "transaction_id": 44314696
+                }
+            ]
+        }
+    }
+}

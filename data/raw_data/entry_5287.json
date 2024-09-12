@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jodi Elliott",
+        "age": 72,
+        "gender": "female",
+        "address": "551 Stephanie Key Apt. 071, Gallowaybury, HI 31151",
+        "phone": "670.881.4144x7258",
+        "email": "newmankatelyn@example.org",
+        "account": {
+            "account_number": "334de25a-8ba2-4f30-8f66-70d43720f0e4",
+            "balance": 23892.64,
+            "transactions": [
+                {
+                    "date": "2023-04-25",
+                    "description": "Withdrawal",
+                    "amount": 17346.3,
+                    "transaction_id": 117461881
+                }
+            ]
+        }
+    }
+}

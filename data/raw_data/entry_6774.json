@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "David Buck",
+        "age": 55,
+        "gender": "female",
+        "address": "373 Schultz Mission, North Michael, IN 11440",
+        "phone": "(286)493-7719",
+        "email": "michael71@example.net",
+        "account": {
+            "account_number": "903b22b1-ce83-42be-9d47-f38381b69e8a",
+            "balance": 29107.63,
+            "transactions": [
+                {
+                    "date": "2024-04-19",
+                    "description": "Withdrawal",
+                    "amount": 36788.52,
+                    "transaction_id": 6980781
+                },
+                {
+                    "date": "2024-01-19",
+                    "description": "Deposit",
+                    "amount": 10472.4,
+                    "transaction_id": 13536692
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Norma Kennedy",
+        "age": 65,
+        "gender": "female",
+        "address": "840 Karen Turnpike Suite 312, East Yesenia, VT 43066",
+        "phone": "(973)973-3193",
+        "email": "austin19@example.com",
+        "account": {
+            "account_number": "cb0cbf5b-5e1a-40f8-89f0-b2ffc0aeb949",
+            "balance": 23138.15,
+            "transactions": [
+                {
+                    "date": "2023-01-15",
+                    "description": "Interest",
+                    "amount": 28953.92,
+                    "transaction_id": 35091669
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Interest",
+                    "amount": 44376.94,
+                    "transaction_id": 85798407
+                }
+            ]
+        }
+    }
+}

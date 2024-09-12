@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Deborah Brown",
+        "age": 98,
+        "gender": "male",
+        "address": "791 Ruiz Loaf, North Julie, PW 61266",
+        "phone": "710-768-4935x73796",
+        "email": "todd41@example.org",
+        "account": {
+            "account_number": "7bf9f7cc-7c0d-4775-8a98-cb9f1b90a0e0",
+            "balance": 17575.91,
+            "transactions": [
+                {
+                    "date": "2023-09-05",
+                    "description": "Interest",
+                    "amount": 47214.09,
+                    "transaction_id": 31461393
+                },
+                {
+                    "date": "2022-12-25",
+                    "description": "Interest",
+                    "amount": 38467.78,
+                    "transaction_id": 87946941
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Interest",
+                    "amount": 35515.33,
+                    "transaction_id": 13651799
+                },
+                {
+                    "date": "2023-05-15",
+                    "description": "Interest",
+                    "amount": 35603.5,
+                    "transaction_id": 23365523
+                }
+            ]
+        }
+    }
+}

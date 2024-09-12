@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Wendy Sims",
+        "age": 48,
+        "gender": "female",
+        "address": "USNS Gibson, FPO AA 68656",
+        "phone": "527-979-4682x46712",
+        "email": "gmartin@example.net",
+        "account": {
+            "account_number": "02171a9e-65c5-499b-a2d0-b720998c1596",
+            "balance": 30509.8,
+            "transactions": [
+                {
+                    "date": "2023-12-25",
+                    "description": "Deposit",
+                    "amount": 30228.07,
+                    "transaction_id": 44582304
+                },
+                {
+                    "date": "2024-05-19",
+                    "description": "Interest",
+                    "amount": 6379.95,
+                    "transaction_id": 59190765
+                },
+                {
+                    "date": "2024-02-23",
+                    "description": "Withdrawal",
+                    "amount": 28062.92,
+                    "transaction_id": 50136849
+                },
+                {
+                    "date": "2023-04-11",
+                    "description": "Deposit",
+                    "amount": 17451.41,
+                    "transaction_id": 5138534
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rebecca Weeks",
+        "age": 89,
+        "gender": "male",
+        "address": "Unit 8899 Box 1832, DPO AA 55963",
+        "phone": "+1-705-838-5597",
+        "email": "rebeccahall@example.org",
+        "account": {
+            "account_number": "8cb4dc92-6052-4c4e-88d5-0aee9ff1a103",
+            "balance": 17110.3,
+            "transactions": [
+                {
+                    "date": "2024-02-21",
+                    "description": "Interest",
+                    "amount": 38110.65,
+                    "transaction_id": 65699450
+                }
+            ]
+        }
+    }
+}

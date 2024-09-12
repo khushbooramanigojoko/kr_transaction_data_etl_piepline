@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Gregory Villa",
+        "age": 56,
+        "gender": "male",
+        "address": "8057 Bridges Spur, Nicolebury, VA 24370",
+        "phone": "(676)898-2807x00175",
+        "email": "angela36@example.com",
+        "account": {
+            "account_number": "f8839341-41ac-4478-a772-f99eca3c50e4",
+            "balance": 6434.58,
+            "transactions": [
+                {
+                    "date": "2023-04-20",
+                    "description": "Interest",
+                    "amount": 9481.19,
+                    "transaction_id": 94211997
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Interest",
+                    "amount": 48970.02,
+                    "transaction_id": 19951594
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Deborah Martin",
+        "age": 39,
+        "gender": "female",
+        "address": "3905 Higgins Haven Suite 013, East Anthonyview, NH 81663",
+        "phone": "548-832-2640x2477",
+        "email": "stonedaniel@example.net",
+        "account": {
+            "account_number": "bfe8ae0f-4e94-409c-955a-184513f4afc0",
+            "balance": 36710.28,
+            "transactions": [
+                {
+                    "date": "2024-06-17",
+                    "description": "Withdrawal",
+                    "amount": 22784.07,
+                    "transaction_id": 29947914
+                }
+            ]
+        }
+    }
+}

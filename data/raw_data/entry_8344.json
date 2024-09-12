@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "James Williams",
+        "age": 40,
+        "gender": "female",
+        "address": "909 Julie Points Apt. 819, New Randytown, PW 28748",
+        "phone": "267.518.3305x849",
+        "email": "flam@example.org",
+        "account": {
+            "account_number": "384a7802-65f6-4c1f-966b-903d387c2b1f",
+            "balance": 1078.52,
+            "transactions": [
+                {
+                    "date": "2023-09-25",
+                    "description": "Deposit",
+                    "amount": 20502.53,
+                    "transaction_id": 100461420
+                }
+            ]
+        }
+    }
+}

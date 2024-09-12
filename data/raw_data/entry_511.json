@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mr. Paul Mays DVM",
+        "age": 58,
+        "gender": "male",
+        "address": "61392 Morton Wall Apt. 514, New Theresamouth, FM 35645",
+        "phone": "+1-387-498-0282x393",
+        "email": "lhouse@example.com",
+        "account": {
+            "account_number": "1dceb6cc-3e1a-4298-a0b0-f0d25bdcf365",
+            "balance": 12154.86,
+            "transactions": [
+                {
+                    "date": "2023-10-29",
+                    "description": "Interest",
+                    "amount": 32959.23,
+                    "transaction_id": 116166515
+                }
+            ]
+        }
+    }
+}

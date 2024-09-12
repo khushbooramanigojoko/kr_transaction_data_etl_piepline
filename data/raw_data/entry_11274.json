@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 81,
+        "gender": "male",
+        "address": "737 Mccarthy Grove, Lake Angela, AL 97944",
+        "phone": "(251)290-8276x120",
+        "email": "victoria59@example.net",
+        "account": {
+            "account_number": "6d75d7cb-7867-419a-b42a-852d925e716e",
+            "balance": 8755.44,
+            "transactions": [
+                {
+                    "date": "2024-02-20",
+                    "description": "Withdrawal",
+                    "amount": -1371.62,
+                    "transaction_id": 24507818
+                }
+            ]
+        }
+    }
+}

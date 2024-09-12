@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 22,
+        "gender": "female",
+        "address": "417 David Islands, Valeriefort, ID 65228",
+        "phone": "661.306.7422x0024",
+        "email": "curtisamanda@example.net",
+        "account": {
+            "account_number": "557b05a0-fc6a-4b0b-bc80-0f45cadd7393",
+            "balance": 20566.05,
+            "transactions": [
+                {
+                    "date": "2024-05-25",
+                    "description": "Deposit",
+                    "amount": -331.79,
+                    "transaction_id": 37816740
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Withdrawal",
+                    "amount": -4971.37,
+                    "transaction_id": 117119162
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Withdrawal",
+                    "amount": 4521.26,
+                    "transaction_id": 101131033
+                }
+            ]
+        }
+    }
+}

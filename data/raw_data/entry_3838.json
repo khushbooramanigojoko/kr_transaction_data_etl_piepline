@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lori Marshall",
+        "age": 80,
+        "gender": "male",
+        "address": "USNS Moore, FPO AP 34709",
+        "phone": "+1-735-306-5420x015",
+        "email": "raymondbrian@example.com",
+        "account": {
+            "account_number": "1e022dae-6f86-4983-8576-b5a3d7bbc36a",
+            "balance": 16075.04,
+            "transactions": [
+                {
+                    "date": "2024-06-30",
+                    "description": "Interest",
+                    "amount": 26876.86,
+                    "transaction_id": 92168398
+                }
+            ]
+        }
+    }
+}

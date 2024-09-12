@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jonathan Porter",
+        "age": 89,
+        "gender": "male",
+        "address": "12589 Fletcher Light Suite 614, North Jessica, VT 90644",
+        "phone": "(487)201-7433x315",
+        "email": "abigailgraves@example.net",
+        "account": {
+            "account_number": "737bec15-d9ec-4086-9cec-c761591c621e",
+            "balance": -5143.02,
+            "transactions": [
+                {
+                    "date": "2022-11-17",
+                    "description": "Withdrawal",
+                    "amount": 3866.22,
+                    "transaction_id": 66523609
+                },
+                {
+                    "date": "2023-01-08",
+                    "description": "Deposit",
+                    "amount": 3373.4,
+                    "transaction_id": 56630836
+                },
+                {
+                    "date": "2023-06-29",
+                    "description": "Deposit",
+                    "amount": 1711.41,
+                    "transaction_id": 79498562
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Deposit",
+                    "amount": -4544.63,
+                    "transaction_id": 14862374
+                },
+                {
+                    "date": "2023-08-18",
+                    "description": "Interest",
+                    "amount": 4024.5,
+                    "transaction_id": 76544814
+                }
+            ]
+        }
+    }
+}

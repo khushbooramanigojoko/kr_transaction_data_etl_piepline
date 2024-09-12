@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "David Williams",
+        "age": 90,
+        "gender": "male",
+        "address": "Unit 6150 Box 7290, DPO AE 73321",
+        "phone": "+1-275-521-4694x2490",
+        "email": "pclark@example.com",
+        "account": {
+            "account_number": "2bd61331-de32-49ed-bd09-32a287a47f26",
+            "balance": 18606.13,
+            "transactions": [
+                {
+                    "date": "2022-12-02",
+                    "description": "Withdrawal",
+                    "amount": 48293.21,
+                    "transaction_id": 73493150
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Interest",
+                    "amount": 31176.14,
+                    "transaction_id": 1989537
+                },
+                {
+                    "date": "2024-07-25",
+                    "description": "Withdrawal",
+                    "amount": 22449.55,
+                    "transaction_id": 77728034
+                },
+                {
+                    "date": "2023-05-03",
+                    "description": "Withdrawal",
+                    "amount": 27446.02,
+                    "transaction_id": 103146912
+                },
+                {
+                    "date": "2022-11-21",
+                    "description": "Deposit",
+                    "amount": 48718.37,
+                    "transaction_id": 68182605
+                }
+            ]
+        }
+    }
+}

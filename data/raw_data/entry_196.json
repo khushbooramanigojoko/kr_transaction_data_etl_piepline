@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Andrew Munoz",
+        "age": 67,
+        "gender": "female",
+        "address": "367 Rosales Pine, Lisaton, OK 15940",
+        "phone": "4033659102",
+        "email": "smithkelly@example.com",
+        "account": {
+            "account_number": "57df1176-2eaf-4951-bb85-b2a1ae6cd680",
+            "balance": 1812.86,
+            "transactions": [
+                {
+                    "date": "2023-11-06",
+                    "description": "Withdrawal",
+                    "amount": 14203.65,
+                    "transaction_id": 94257979
+                }
+            ]
+        }
+    }
+}

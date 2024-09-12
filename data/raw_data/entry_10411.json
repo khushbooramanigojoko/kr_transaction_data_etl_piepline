@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Katie Smith",
+        "age": 49,
+        "gender": "female",
+        "address": "744 Garcia Locks Suite 345, Fordshire, WI 44641",
+        "phone": "934.892.6010x015",
+        "email": "jeremysmith@example.com",
+        "account": {
+            "account_number": "333499f9-abfe-4d6d-8da7-033045242db5",
+            "balance": -40288.52,
+            "transactions": [
+                {
+                    "date": "2023-11-18",
+                    "description": "Withdrawal",
+                    "amount": 3780.56,
+                    "transaction_id": 110096031
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Deposit",
+                    "amount": 4459.68,
+                    "transaction_id": 92226183
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Natalie Leonard",
+        "age": 97,
+        "gender": "male",
+        "address": "66268 Flores Extensions Apt. 453, Christinemouth, WV 70578",
+        "phone": "597-733-7810",
+        "email": "rebecca46@example.net",
+        "account": {
+            "account_number": "77b38197-a3e3-466c-9013-e740cc7af835",
+            "balance": 35610.81,
+            "transactions": [
+                {
+                    "date": "2022-12-12",
+                    "description": "Withdrawal",
+                    "amount": 44453.45,
+                    "transaction_id": 94906571
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Interest",
+                    "amount": 25684.84,
+                    "transaction_id": 55797286
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Withdrawal",
+                    "amount": 14920.77,
+                    "transaction_id": 19906323
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Interest",
+                    "amount": 8385.43,
+                    "transaction_id": 101496828
+                },
+                {
+                    "date": "2024-06-20",
+                    "description": "Interest",
+                    "amount": 16914.83,
+                    "transaction_id": 49608666
+                }
+            ]
+        }
+    }
+}

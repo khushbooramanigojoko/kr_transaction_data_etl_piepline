@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ronald Moore",
+        "age": 73,
+        "gender": "male",
+        "address": "944 Natalie Mews, Mitchellberg, IA 15379",
+        "phone": "+1-892-371-5727",
+        "email": "donnawolfe@example.com",
+        "account": {
+            "account_number": "d7e515ae-7d54-4f60-b089-75dd0907bf0b",
+            "balance": 49885.53,
+            "transactions": [
+                {
+                    "date": "2023-06-22",
+                    "description": "Withdrawal",
+                    "amount": 16190.0,
+                    "transaction_id": 78918705
+                },
+                {
+                    "date": "2023-11-21",
+                    "description": "Deposit",
+                    "amount": 10051.98,
+                    "transaction_id": 48478342
+                },
+                {
+                    "date": "2024-03-08",
+                    "description": "Interest",
+                    "amount": 9895.84,
+                    "transaction_id": 50576669
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Interest",
+                    "amount": 6040.03,
+                    "transaction_id": 45797280
+                }
+            ]
+        }
+    }
+}

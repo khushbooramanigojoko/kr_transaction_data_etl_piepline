@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Dana Banks",
+        "age": 66,
+        "gender": "male",
+        "address": "0982 Ashley Streets, Anthonyborough, TN 12638",
+        "phone": "7458425431",
+        "email": "martinhector@example.com",
+        "account": {
+            "account_number": "33c59f23-5941-42e2-a8dc-1d3164ea8a41",
+            "balance": 8508.27,
+            "transactions": [
+                {
+                    "date": "2024-02-17",
+                    "description": "Deposit",
+                    "amount": 48526.27,
+                    "transaction_id": 27504162
+                },
+                {
+                    "date": "2023-04-16",
+                    "description": "Deposit",
+                    "amount": 33435.96,
+                    "transaction_id": 53711854
+                },
+                {
+                    "date": "2024-04-06",
+                    "description": "Interest",
+                    "amount": 737.63,
+                    "transaction_id": 97183897
+                }
+            ]
+        }
+    }
+}

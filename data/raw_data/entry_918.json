@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Roger Mercer",
+        "age": 57,
+        "gender": "female",
+        "address": "PSC 3881, Box 6718, APO AE 76163",
+        "phone": "001-511-855-5996x9417",
+        "email": "ronnienguyen@example.net",
+        "account": {
+            "account_number": "10bf247a-8dbb-4aea-a6ab-985b18a46deb",
+            "balance": 39113.27,
+            "transactions": [
+                {
+                    "date": "2023-12-02",
+                    "description": "Deposit",
+                    "amount": 6193.31,
+                    "transaction_id": 45739072
+                },
+                {
+                    "date": "2023-04-29",
+                    "description": "Interest",
+                    "amount": 39853.54,
+                    "transaction_id": 26255297
+                },
+                {
+                    "date": "2023-04-19",
+                    "description": "Interest",
+                    "amount": 27158.9,
+                    "transaction_id": 109055779
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Interest",
+                    "amount": 242.17,
+                    "transaction_id": 88950225
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Interest",
+                    "amount": 23016.09,
+                    "transaction_id": 48329722
+                }
+            ]
+        }
+    }
+}

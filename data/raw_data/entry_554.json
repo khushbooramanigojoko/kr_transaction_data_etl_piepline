@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nancy Kaiser",
+        "age": 23,
+        "gender": "male",
+        "address": "2998 Hartman Light, Karenberg, IN 04383",
+        "phone": "(476)686-2511",
+        "email": "smithamanda@example.net",
+        "account": {
+            "account_number": "54e8c480-4340-4c2f-ad40-c04f3d0bdf20",
+            "balance": 32098.13,
+            "transactions": [
+                {
+                    "date": "2022-10-07",
+                    "description": "Interest",
+                    "amount": 26033.35,
+                    "transaction_id": 41947996
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Deposit",
+                    "amount": 34798.42,
+                    "transaction_id": 40937086
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Withdrawal",
+                    "amount": 37669.95,
+                    "transaction_id": 54749103
+                },
+                {
+                    "date": "2022-11-13",
+                    "description": "Withdrawal",
+                    "amount": 36118.75,
+                    "transaction_id": 45435382
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Deposit",
+                    "amount": 4117.63,
+                    "transaction_id": 14995169
+                }
+            ]
+        }
+    }
+}

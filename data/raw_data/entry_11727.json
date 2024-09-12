@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 71,
+        "gender": "female",
+        "address": "968 Christine Ridge Apt. 716, New Williamhaven, NM 05841",
+        "phone": "(277)653-9144",
+        "email": "wanda21@example.com",
+        "account": {
+            "account_number": "f9719871-c634-4f45-93ef-f5d7b5cbdaa0",
+            "balance": 17803.29,
+            "transactions": [
+                {
+                    "date": "2023-02-19",
+                    "description": "Deposit",
+                    "amount": -469.97,
+                    "transaction_id": 85785759
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Withdrawal",
+                    "amount": -3401.54,
+                    "transaction_id": 67802342
+                }
+            ]
+        }
+    }
+}

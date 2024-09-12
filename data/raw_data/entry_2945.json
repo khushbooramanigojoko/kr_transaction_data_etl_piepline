@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jaclyn Dominguez",
+        "age": 48,
+        "gender": "female",
+        "address": "06857 James Well Suite 326, Melissamouth, DC 68950",
+        "phone": "(330)703-1509",
+        "email": "laurie43@example.org",
+        "account": {
+            "account_number": "9ed90b7d-acd0-4378-bef4-325ed0b7ad08",
+            "balance": 1981.03,
+            "transactions": [
+                {
+                    "date": "2023-10-13",
+                    "description": "Interest",
+                    "amount": 32970.12,
+                    "transaction_id": 13196154
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Withdrawal",
+                    "amount": 39636.85,
+                    "transaction_id": 97315568
+                }
+            ]
+        }
+    }
+}

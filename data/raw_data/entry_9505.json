@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ashley Johnson",
+        "age": 85,
+        "gender": "male",
+        "address": "487 David Ports Apt. 876, Josefurt, FL 34857",
+        "phone": "883.778.0346x52295",
+        "email": "allisonramsey@example.com",
+        "account": {
+            "account_number": "4a50fa38-6fd9-4a7c-8157-903267e6a956",
+            "balance": -43503.25,
+            "transactions": [
+                {
+                    "date": "2022-09-15",
+                    "description": "Withdrawal",
+                    "amount": -1014.53,
+                    "transaction_id": 39639985
+                },
+                {
+                    "date": "2024-03-07",
+                    "description": "Interest",
+                    "amount": 4496.81,
+                    "transaction_id": 69556772
+                },
+                {
+                    "date": "2023-02-21",
+                    "description": "Deposit",
+                    "amount": -1021.74,
+                    "transaction_id": 32796347
+                },
+                {
+                    "date": "2024-07-04",
+                    "description": "Withdrawal",
+                    "amount": -3780.21,
+                    "transaction_id": 83168103
+                },
+                {
+                    "date": "2024-04-17",
+                    "description": "Deposit",
+                    "amount": -1995.13,
+                    "transaction_id": 81225425
+                }
+            ]
+        }
+    }
+}

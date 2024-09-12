@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Robert Vance",
+        "age": 80,
+        "gender": "male",
+        "address": "5486 Robertson Mountain, Kennethchester, SD 10207",
+        "phone": "001-801-909-8385x578",
+        "email": "griffinsamantha@example.net",
+        "account": {
+            "account_number": "3925f534-3053-4f40-9b2e-2c8a357c792a",
+            "balance": 2672.41,
+            "transactions": [
+                {
+                    "date": "2024-03-04",
+                    "description": "Interest",
+                    "amount": 38105.96,
+                    "transaction_id": 85823271
+                },
+                {
+                    "date": "2023-01-03",
+                    "description": "Withdrawal",
+                    "amount": 4089.26,
+                    "transaction_id": 33522982
+                },
+                {
+                    "date": "2023-10-04",
+                    "description": "Deposit",
+                    "amount": 19783.09,
+                    "transaction_id": 42757248
+                },
+                {
+                    "date": "2022-11-22",
+                    "description": "Deposit",
+                    "amount": 42761.9,
+                    "transaction_id": 21388758
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Deposit",
+                    "amount": 46290.56,
+                    "transaction_id": 38454069
+                }
+            ]
+        }
+    }
+}

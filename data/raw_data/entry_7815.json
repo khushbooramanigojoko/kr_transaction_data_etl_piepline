@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Rebecca Chung",
+        "age": 61,
+        "gender": "female",
+        "address": "762 Boyd Lakes, North Jefftown, WY 43340",
+        "phone": "7413656126",
+        "email": "ljuarez@example.net",
+        "account": {
+            "account_number": "6aee294f-d8ae-4a35-a347-aa280a9d7406",
+            "balance": 15700.74,
+            "transactions": [
+                {
+                    "date": "2023-03-29",
+                    "description": "Withdrawal",
+                    "amount": 46277.16,
+                    "transaction_id": 50144267
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Deposit",
+                    "amount": 46681.3,
+                    "transaction_id": 28360487
+                }
+            ]
+        }
+    }
+}

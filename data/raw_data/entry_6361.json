@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Randall Thompson",
+        "age": 81,
+        "gender": "male",
+        "address": "4336 Pham Ways Suite 787, South Stevenstad, FL 89248",
+        "phone": "804-752-7164x69169",
+        "email": "elizabeth29@example.org",
+        "account": {
+            "account_number": "9c007d4d-8ed6-43d4-8ff1-d023a688fd56",
+            "balance": 25773.84,
+            "transactions": [
+                {
+                    "date": "2024-07-17",
+                    "description": "Withdrawal",
+                    "amount": 8831.09,
+                    "transaction_id": 24240210
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Interest",
+                    "amount": 20414.78,
+                    "transaction_id": 20173777
+                },
+                {
+                    "date": "2023-04-28",
+                    "description": "Deposit",
+                    "amount": 4749.26,
+                    "transaction_id": 93101850
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Deposit",
+                    "amount": 49211.26,
+                    "transaction_id": 39967017
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Deposit",
+                    "amount": 39543.68,
+                    "transaction_id": 18833572
+                }
+            ]
+        }
+    }
+}

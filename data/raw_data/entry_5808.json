@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Laura Stewart",
+        "age": 75,
+        "gender": "female",
+        "address": "410 Jessica Row Apt. 080, West Mary, CO 29492",
+        "phone": "+1-523-430-2732",
+        "email": "vaguirre@example.com",
+        "account": {
+            "account_number": "6ef4ce1d-df03-477d-88d9-aeb77f5f235b",
+            "balance": 9675.62,
+            "transactions": [
+                {
+                    "date": "2022-12-16",
+                    "description": "Interest",
+                    "amount": 3253.37,
+                    "transaction_id": 77690051
+                },
+                {
+                    "date": "2022-10-21",
+                    "description": "Withdrawal",
+                    "amount": 36626.48,
+                    "transaction_id": 11655593
+                },
+                {
+                    "date": "2024-04-24",
+                    "description": "Interest",
+                    "amount": 18153.74,
+                    "transaction_id": 11396100
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Withdrawal",
+                    "amount": 13689.18,
+                    "transaction_id": 98531818
+                },
+                {
+                    "date": "2024-03-15",
+                    "description": "Withdrawal",
+                    "amount": 33865.37,
+                    "transaction_id": 62314217
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Elizabeth Ryan",
+        "age": 98,
+        "gender": "female",
+        "address": "59217 Daniel Curve Apt. 741, Wrightton, NJ 91833",
+        "phone": "+1-830-811-1301x31306",
+        "email": "johnny03@example.org",
+        "account": {
+            "account_number": "4041d64c-01fe-4427-9533-5590884d61ea",
+            "balance": 30638.16,
+            "transactions": [
+                {
+                    "date": "2023-09-10",
+                    "description": "Interest",
+                    "amount": 31526.46,
+                    "transaction_id": 119525365
+                },
+                {
+                    "date": "2023-11-21",
+                    "description": "Interest",
+                    "amount": 44193.31,
+                    "transaction_id": 68268230
+                },
+                {
+                    "date": "2023-04-16",
+                    "description": "Withdrawal",
+                    "amount": 38830.83,
+                    "transaction_id": 41795307
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Interest",
+                    "amount": 48811.71,
+                    "transaction_id": 9486182
+                }
+            ]
+        }
+    }
+}

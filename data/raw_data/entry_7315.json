@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joseph Gilbert",
+        "age": 99,
+        "gender": "male",
+        "address": "9039 Coffey Lakes, Lake Marymouth, MD 80074",
+        "phone": "001-935-449-9396x37330",
+        "email": "icox@example.org",
+        "account": {
+            "account_number": "40a586d1-ac79-403d-a7bc-f32ea0506eef",
+            "balance": 17964.41,
+            "transactions": [
+                {
+                    "date": "2023-12-25",
+                    "description": "Interest",
+                    "amount": 22863.5,
+                    "transaction_id": 97237266
+                },
+                {
+                    "date": "2024-01-20",
+                    "description": "Withdrawal",
+                    "amount": 43590.26,
+                    "transaction_id": 5653845
+                }
+            ]
+        }
+    }
+}

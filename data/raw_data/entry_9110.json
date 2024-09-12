@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sean Bradley",
+        "age": 66,
+        "gender": "male",
+        "address": "57465 Sanchez Cove Apt. 752, Lake Kirk, IA 41730",
+        "phone": "(240)488-8718x25699",
+        "email": "turnerkathy@example.com",
+        "account": {
+            "account_number": "7eeea129-63a2-43de-a670-f15d24a7c9a7",
+            "balance": -40073.47,
+            "transactions": [
+                {
+                    "date": "2023-04-14",
+                    "description": "Interest",
+                    "amount": 980.3,
+                    "transaction_id": 5915577
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Deposit",
+                    "amount": 3993.15,
+                    "transaction_id": 76997863
+                },
+                {
+                    "date": "2022-09-07",
+                    "description": "Deposit",
+                    "amount": 3728.06,
+                    "transaction_id": 111631475
+                },
+                {
+                    "date": "2023-11-27",
+                    "description": "Withdrawal",
+                    "amount": 1642.32,
+                    "transaction_id": 18587310
+                }
+            ]
+        }
+    }
+}

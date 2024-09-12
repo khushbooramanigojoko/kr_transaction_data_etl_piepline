@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Natalie Escobar",
+        "age": 72,
+        "gender": "male",
+        "address": "0843 Stephen Freeway, South Marystad, ND 23695",
+        "phone": "(751)974-1268",
+        "email": "rogersandrea@example.net",
+        "account": {
+            "account_number": "4e40c901-db2e-419f-9a43-c827742f21ae",
+            "balance": 43797.94,
+            "transactions": [
+                {
+                    "date": "2023-05-03",
+                    "description": "Deposit",
+                    "amount": 7744.11,
+                    "transaction_id": 43368551
+                }
+            ]
+        }
+    }
+}

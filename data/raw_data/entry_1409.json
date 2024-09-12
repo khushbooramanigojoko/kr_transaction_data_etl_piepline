@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Cynthia Wilson",
+        "age": 32,
+        "gender": "female",
+        "address": "6900 Graham Fords Apt. 593, Lake Allison, TN 30539",
+        "phone": "001-953-208-9562x712",
+        "email": "daviddaniels@example.com",
+        "account": {
+            "account_number": "a8a08fc6-e4f5-47fc-9258-0f189afee5e3",
+            "balance": 10776.09,
+            "transactions": [
+                {
+                    "date": "2024-08-08",
+                    "description": "Deposit",
+                    "amount": 30909.74,
+                    "transaction_id": 52949456
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Deposit",
+                    "amount": 48908.68,
+                    "transaction_id": 8419975
+                }
+            ]
+        }
+    }
+}

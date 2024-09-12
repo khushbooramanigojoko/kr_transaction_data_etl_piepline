@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 64,
+        "gender": "male",
+        "address": "411 Gail Plaza Suite 845, New Cody, VI 09872",
+        "phone": "(445)820-7329",
+        "email": "vrobinson@example.net",
+        "account": {
+            "account_number": "807b309b-bd49-4023-809e-386936c28913",
+            "balance": 42344.2,
+            "transactions": [
+                {
+                    "date": "2023-10-14",
+                    "description": "Interest",
+                    "amount": 599.36,
+                    "transaction_id": 27054289
+                },
+                {
+                    "date": "2023-04-06",
+                    "description": "Interest",
+                    "amount": -4593.63,
+                    "transaction_id": 103876002
+                },
+                {
+                    "date": "2023-02-09",
+                    "description": "Withdrawal",
+                    "amount": -600.14,
+                    "transaction_id": 113090870
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Interest",
+                    "amount": -4022.08,
+                    "transaction_id": 118835025
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Keith Taylor",
+        "age": 50,
+        "gender": "male",
+        "address": "USS Martinez, FPO AE 47085",
+        "phone": "343.587.1269x352",
+        "email": "cassandranunez@example.org",
+        "account": {
+            "account_number": "6f3e0783-2aba-4b80-a7b4-23977cfd2a30",
+            "balance": -8263.42,
+            "transactions": [
+                {
+                    "date": "2024-05-29",
+                    "description": "Interest",
+                    "amount": -866.8,
+                    "transaction_id": 82890924
+                }
+            ]
+        }
+    }
+}

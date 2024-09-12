@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 58,
+        "gender": "female",
+        "address": "251 Tyler Valley Suite 757, North Johnberg, MH 02075",
+        "phone": "(688)819-7688",
+        "email": "michealjones@example.net",
+        "account": {
+            "account_number": "7c0c8ec4-2b5c-41a4-bff6-6b65ac1cc7e7",
+            "balance": 18583.83,
+            "transactions": [
+                {
+                    "date": "2023-10-01",
+                    "description": "Withdrawal",
+                    "amount": 50.21,
+                    "transaction_id": 53405920
+                },
+                {
+                    "date": "2024-01-30",
+                    "description": "Deposit",
+                    "amount": -3639.93,
+                    "transaction_id": 50408056
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Interest",
+                    "amount": 4886.58,
+                    "transaction_id": 108505451
+                },
+                {
+                    "date": "2024-08-14",
+                    "description": "Interest",
+                    "amount": 586.11,
+                    "transaction_id": 52244744
+                }
+            ]
+        }
+    }
+}

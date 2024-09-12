@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Lawrence Harris",
+        "age": 61,
+        "gender": "female",
+        "address": "825 Shah Terrace, East Ebonyburgh, ID 74991",
+        "phone": "001-513-852-0126",
+        "email": "wwatkins@example.org",
+        "account": {
+            "account_number": "f7265447-fdbc-4e0f-a232-86407043e484",
+            "balance": 8162.71,
+            "transactions": [
+                {
+                    "date": "2023-01-08",
+                    "description": "Interest",
+                    "amount": 32547.57,
+                    "transaction_id": 63448329
+                },
+                {
+                    "date": "2024-03-26",
+                    "description": "Interest",
+                    "amount": 14504.04,
+                    "transaction_id": 81697715
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Withdrawal",
+                    "amount": 42788.44,
+                    "transaction_id": 58545697
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Interest",
+                    "amount": 42292.75,
+                    "transaction_id": 76096095
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Deposit",
+                    "amount": 8620.89,
+                    "transaction_id": 21587553
+                }
+            ]
+        }
+    }
+}

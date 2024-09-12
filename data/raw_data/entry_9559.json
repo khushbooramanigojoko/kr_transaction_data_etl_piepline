@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jesus Heath",
+        "age": 20,
+        "gender": "female",
+        "address": "USNS Nelson, FPO AA 26781",
+        "phone": "340-761-9452x06234",
+        "email": "salasoscar@example.org",
+        "account": {
+            "account_number": "7f2ba20d-863c-4a09-bc46-e5ff6e44b8ee",
+            "balance": -8778.11,
+            "transactions": [
+                {
+                    "date": "2022-12-16",
+                    "description": "Interest",
+                    "amount": 4970.11,
+                    "transaction_id": 106810939
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Interest",
+                    "amount": 2323.01,
+                    "transaction_id": 107438938
+                }
+            ]
+        }
+    }
+}

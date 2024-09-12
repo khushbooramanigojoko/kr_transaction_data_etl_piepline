@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 96,
+        "gender": "male",
+        "address": "029 Hogan Loaf Suite 854, Brayside, NC 76013",
+        "phone": "3095030849",
+        "email": "woodvictor@example.com",
+        "account": {
+            "account_number": "5bd46f77-2192-458d-89ad-e70b735b9a08",
+            "balance": 31122.68,
+            "transactions": [
+                {
+                    "date": "2023-06-27",
+                    "description": "Interest",
+                    "amount": 3086.6,
+                    "transaction_id": 16620499
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Deposit",
+                    "amount": 2930.41,
+                    "transaction_id": 17574478
+                }
+            ]
+        }
+    }
+}

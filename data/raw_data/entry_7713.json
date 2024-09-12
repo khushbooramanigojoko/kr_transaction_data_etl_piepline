@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Linda Myers",
+        "age": 78,
+        "gender": "male",
+        "address": "868 James Vista, Nancyfurt, TN 93605",
+        "phone": "+1-234-574-8571x85700",
+        "email": "michaeltucker@example.com",
+        "account": {
+            "account_number": "022ef3d8-5844-49ed-b92e-669ca30649e5",
+            "balance": 13546.83,
+            "transactions": [
+                {
+                    "date": "2023-03-11",
+                    "description": "Interest",
+                    "amount": 39290.38,
+                    "transaction_id": 62063234
+                }
+            ]
+        }
+    }
+}

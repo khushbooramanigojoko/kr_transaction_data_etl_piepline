@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Thomas Martin",
+        "age": 44,
+        "gender": "male",
+        "address": "USS Lopez, FPO AE 63293",
+        "phone": "884.333.0109x3535",
+        "email": "samuelsmith@example.com",
+        "account": {
+            "account_number": "0705e3a5-c0b0-40fb-ac22-35b31503fdf6",
+            "balance": -15204.98,
+            "transactions": [
+                {
+                    "date": "2023-02-04",
+                    "description": "Deposit",
+                    "amount": 1606.04,
+                    "transaction_id": 46096808
+                },
+                {
+                    "date": "2022-11-11",
+                    "description": "Deposit",
+                    "amount": -2028.52,
+                    "transaction_id": 81213896
+                },
+                {
+                    "date": "2023-04-23",
+                    "description": "Deposit",
+                    "amount": -3366.63,
+                    "transaction_id": 104067037
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Withdrawal",
+                    "amount": -4008.18,
+                    "transaction_id": 117322571
+                }
+            ]
+        }
+    }
+}

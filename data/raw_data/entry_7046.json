@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mark Harris",
+        "age": 76,
+        "gender": "male",
+        "address": "01820 Brad Loaf Apt. 609, Jasmineville, FL 02490",
+        "phone": "(428)214-2232x7649",
+        "email": "mperez@example.net",
+        "account": {
+            "account_number": "daae9581-4c0a-4b5d-8654-7c368e35ea4b",
+            "balance": 4679.6,
+            "transactions": [
+                {
+                    "date": "2023-08-28",
+                    "description": "Deposit",
+                    "amount": 47832.89,
+                    "transaction_id": 90518876
+                },
+                {
+                    "date": "2023-04-16",
+                    "description": "Withdrawal",
+                    "amount": 41809.68,
+                    "transaction_id": 50637804
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Deposit",
+                    "amount": 24516.15,
+                    "transaction_id": 117330859
+                }
+            ]
+        }
+    }
+}

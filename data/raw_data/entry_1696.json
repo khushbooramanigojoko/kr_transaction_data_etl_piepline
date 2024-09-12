@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stacie Jones",
+        "age": 93,
+        "gender": "male",
+        "address": "28745 Meghan Hollow Apt. 550, Lake Samuel, DE 30170",
+        "phone": "2067070170",
+        "email": "colemansavannah@example.org",
+        "account": {
+            "account_number": "4fa0f355-8601-4505-af34-0448c9a9d27e",
+            "balance": 13346.65,
+            "transactions": [
+                {
+                    "date": "2023-02-27",
+                    "description": "Deposit",
+                    "amount": 11524.18,
+                    "transaction_id": 105560408
+                }
+            ]
+        }
+    }
+}

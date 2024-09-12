@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Cathy Mcdonald",
+        "age": 75,
+        "gender": "female",
+        "address": "1125 Kimberly Crest Apt. 775, Hollymouth, WI 38062",
+        "phone": "+1-953-738-7061x2726",
+        "email": "flee@example.net",
+        "account": {
+            "account_number": "c5b1c857-1cd0-4235-8ecd-15b8112cebf6",
+            "balance": 28546.55,
+            "transactions": [
+                {
+                    "date": "2023-11-26",
+                    "description": "Deposit",
+                    "amount": 43067.92,
+                    "transaction_id": 14691854
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Interest",
+                    "amount": 49914.38,
+                    "transaction_id": 1900161
+                }
+            ]
+        }
+    }
+}

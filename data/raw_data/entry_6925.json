@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Matthew Arnold",
+        "age": 45,
+        "gender": "female",
+        "address": "58844 Key Squares, Contrerasmouth, VI 60283",
+        "phone": "+1-506-695-4215",
+        "email": "murphybenjamin@example.org",
+        "account": {
+            "account_number": "64161fea-00ac-4b76-9a06-764784a1def6",
+            "balance": 5905.19,
+            "transactions": [
+                {
+                    "date": "2023-12-24",
+                    "description": "Withdrawal",
+                    "amount": 41014.33,
+                    "transaction_id": 57425805
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Withdrawal",
+                    "amount": 37055.86,
+                    "transaction_id": 87385044
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Patricia Henry",
+        "age": 98,
+        "gender": "female",
+        "address": "411 Krista Harbor Apt. 653, South Paulaberg, WY 81738",
+        "phone": "533-709-9711",
+        "email": "pamelaanderson@example.org",
+        "account": {
+            "account_number": "40a249fc-82e4-4f2e-835f-5d1eab4f0d0a",
+            "balance": 22359.14,
+            "transactions": [
+                {
+                    "date": "2023-02-13",
+                    "description": "Deposit",
+                    "amount": 5145.96,
+                    "transaction_id": 106141740
+                },
+                {
+                    "date": "2023-07-19",
+                    "description": "Interest",
+                    "amount": 5481.17,
+                    "transaction_id": 61090079
+                }
+            ]
+        }
+    }
+}

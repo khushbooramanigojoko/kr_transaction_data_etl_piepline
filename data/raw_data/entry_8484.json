@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Daniel Morris",
+        "age": 67,
+        "gender": "female",
+        "address": "141 Ortiz Parkway, Lake Michael, ID 95341",
+        "phone": "001-815-212-4585x605",
+        "email": "smithcathy@example.org",
+        "account": {
+            "account_number": "9c3d28ce-3325-431c-a735-a4a7c8e916ea",
+            "balance": 40614.99,
+            "transactions": [
+                {
+                    "date": "2022-09-28",
+                    "description": "Interest",
+                    "amount": 47802.07,
+                    "transaction_id": 24089104
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amber Edwards",
+        "age": 41,
+        "gender": "female",
+        "address": "82137 Melissa Parkway, Nataliebury, WV 10596",
+        "phone": "+1-867-849-9242",
+        "email": "matthew29@example.net",
+        "account": {
+            "account_number": "0ad7bcfd-30ef-4ffa-a0f1-c75f20805592",
+            "balance": 42705.56,
+            "transactions": [
+                {
+                    "date": "2023-07-13",
+                    "description": "Deposit",
+                    "amount": 21851.95,
+                    "transaction_id": 95531513
+                }
+            ]
+        }
+    }
+}

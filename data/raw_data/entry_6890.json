@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jonathon Smith",
+        "age": 84,
+        "gender": "female",
+        "address": "937 Hicks Parks, Josephside, AK 19157",
+        "phone": "001-626-583-6572",
+        "email": "christopher83@example.org",
+        "account": {
+            "account_number": "571a3594-329a-4504-9535-a6d243c19bde",
+            "balance": 9602.42,
+            "transactions": [
+                {
+                    "date": "2024-08-15",
+                    "description": "Interest",
+                    "amount": 44526.99,
+                    "transaction_id": 68503245
+                },
+                {
+                    "date": "2023-11-07",
+                    "description": "Deposit",
+                    "amount": 703.04,
+                    "transaction_id": 73358173
+                },
+                {
+                    "date": "2023-10-10",
+                    "description": "Interest",
+                    "amount": 12200.44,
+                    "transaction_id": 62674792
+                },
+                {
+                    "date": "2023-07-03",
+                    "description": "Withdrawal",
+                    "amount": 37767.21,
+                    "transaction_id": 51755276
+                }
+            ]
+        }
+    }
+}

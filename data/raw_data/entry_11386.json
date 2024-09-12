@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 27,
+        "gender": "female",
+        "address": "719 William Trafficway Apt. 090, South Kristina, NY 38160",
+        "phone": "+1-209-385-6013x237",
+        "email": "rebeccasweeney@example.com",
+        "account": {
+            "account_number": "a2e9509c-a0ed-4495-aba1-c22649d9377d",
+            "balance": 27217.03,
+            "transactions": [
+                {
+                    "date": "2023-06-15",
+                    "description": "Interest",
+                    "amount": -2955.35,
+                    "transaction_id": 4886671
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": -2181.85,
+                    "transaction_id": 104915393
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Susan Gonzalez",
+        "age": 56,
+        "gender": "male",
+        "address": "052 Peter Road, Port Christinefurt, ND 87870",
+        "phone": "(590)897-4413",
+        "email": "gonzalezbrenda@example.com",
+        "account": {
+            "account_number": "a51bf98f-216c-4153-9ced-d588f3341f15",
+            "balance": 22883.78,
+            "transactions": [
+                {
+                    "date": "2023-08-08",
+                    "description": "Interest",
+                    "amount": 15940.83,
+                    "transaction_id": 10827736
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Withdrawal",
+                    "amount": 17682.97,
+                    "transaction_id": 114533045
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Deposit",
+                    "amount": 39938.68,
+                    "transaction_id": 72490521
+                },
+                {
+                    "date": "2023-10-21",
+                    "description": "Withdrawal",
+                    "amount": 20525.82,
+                    "transaction_id": 72688891
+                },
+                {
+                    "date": "2023-06-29",
+                    "description": "Deposit",
+                    "amount": 8081.54,
+                    "transaction_id": 94248196
+                }
+            ]
+        }
+    }
+}

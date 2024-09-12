@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Melissa Woodward",
+        "age": 36,
+        "gender": "female",
+        "address": "914 Long Junction Apt. 575, North Matthewborough, MT 90227",
+        "phone": "590.649.7295",
+        "email": "bradley01@example.com",
+        "account": {
+            "account_number": "49a148fe-bd31-4110-8adf-2d63ea4405cf",
+            "balance": 44561.66,
+            "transactions": [
+                {
+                    "date": "2024-04-29",
+                    "description": "Deposit",
+                    "amount": 27001.2,
+                    "transaction_id": 50555427
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Andrew Gutierrez",
+        "age": 93,
+        "gender": "male",
+        "address": "791 Kathleen Canyon Apt. 924, North Stephanie, AZ 06723",
+        "phone": "001-971-662-8781",
+        "email": "kaitlynfarmer@example.com",
+        "account": {
+            "account_number": "113c7816-4b21-4ac2-a700-1e25764bb34d",
+            "balance": 3102.35,
+            "transactions": [
+                {
+                    "date": "2022-11-26",
+                    "description": "Interest",
+                    "amount": 40148.87,
+                    "transaction_id": 32990170
+                }
+            ]
+        }
+    }
+}

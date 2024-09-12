@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Lauren Cook",
+        "age": 37,
+        "gender": "female",
+        "address": "5856 Salazar Cove Apt. 153, Wagnerburgh, IN 40529",
+        "phone": "679.988.6899",
+        "email": "robertbrown@example.org",
+        "account": {
+            "account_number": "781d8db5-e158-453c-8c7f-7a03733930ad",
+            "balance": 21762.82,
+            "transactions": [
+                {
+                    "date": "2023-07-16",
+                    "description": "Withdrawal",
+                    "amount": 25808.16,
+                    "transaction_id": 98943413
+                },
+                {
+                    "date": "2024-03-29",
+                    "description": "Interest",
+                    "amount": 6860.03,
+                    "transaction_id": 88539197
+                },
+                {
+                    "date": "2024-03-20",
+                    "description": "Interest",
+                    "amount": 41670.08,
+                    "transaction_id": 17891292
+                }
+            ]
+        }
+    }
+}

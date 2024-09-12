@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Debra Ibarra",
+        "age": 43,
+        "gender": "male",
+        "address": "51067 Johnson Mall Apt. 808, Aaronview, OK 23308",
+        "phone": "+1-914-280-0703x847",
+        "email": "phillipsalyssa@example.org",
+        "account": {
+            "account_number": "9b7050e3-1f98-4e2c-8790-9e127bbe3de9",
+            "balance": 9727.65,
+            "transactions": [
+                {
+                    "date": "2023-12-01",
+                    "description": "Withdrawal",
+                    "amount": 12533.41,
+                    "transaction_id": 35201059
+                },
+                {
+                    "date": "2023-09-19",
+                    "description": "Interest",
+                    "amount": 46278.09,
+                    "transaction_id": 35132082
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Withdrawal",
+                    "amount": 25491.92,
+                    "transaction_id": 23194889
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Interest",
+                    "amount": 37361.94,
+                    "transaction_id": 61197899
+                },
+                {
+                    "date": "2022-11-19",
+                    "description": "Withdrawal",
+                    "amount": 18277.87,
+                    "transaction_id": 115371194
+                }
+            ]
+        }
+    }
+}

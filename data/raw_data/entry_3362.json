@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tara Tate",
+        "age": 57,
+        "gender": "male",
+        "address": "81745 Kimberly Trail Apt. 288, Port Richard, MI 93779",
+        "phone": "680.667.3344x777",
+        "email": "fbradford@example.net",
+        "account": {
+            "account_number": "c7ff195d-377f-447e-a620-3e8711d51fd0",
+            "balance": 47051.51,
+            "transactions": [
+                {
+                    "date": "2022-09-04",
+                    "description": "Interest",
+                    "amount": 9221.53,
+                    "transaction_id": 102594568
+                }
+            ]
+        }
+    }
+}

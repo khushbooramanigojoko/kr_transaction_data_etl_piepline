@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Roger Ross",
+        "age": 71,
+        "gender": "male",
+        "address": "07785 Kim Land Suite 228, Villegasville, WV 68283",
+        "phone": "608.213.3774x943",
+        "email": "lgonzales@example.com",
+        "account": {
+            "account_number": "fb3c3185-e54c-4950-bd99-38ee1c95386c",
+            "balance": 7871.14,
+            "transactions": [
+                {
+                    "date": "2024-04-05",
+                    "description": "Interest",
+                    "amount": 34025.34,
+                    "transaction_id": 14578334
+                },
+                {
+                    "date": "2022-11-27",
+                    "description": "Withdrawal",
+                    "amount": 29830.99,
+                    "transaction_id": 10163934
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Interest",
+                    "amount": 33065.41,
+                    "transaction_id": 46950844
+                },
+                {
+                    "date": "2022-10-21",
+                    "description": "Withdrawal",
+                    "amount": 48746.64,
+                    "transaction_id": 83167581
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Interest",
+                    "amount": 5319.14,
+                    "transaction_id": 92685958
+                }
+            ]
+        }
+    }
+}

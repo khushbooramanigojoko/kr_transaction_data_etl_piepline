@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joshua Brooks",
+        "age": 67,
+        "gender": "female",
+        "address": "PSC 3192, Box 8026, APO AP 20729",
+        "phone": "728-439-0424x79157",
+        "email": "dbarrera@example.com",
+        "account": {
+            "account_number": "0e19bb3c-4c25-49e6-ba8e-7685984e4acf",
+            "balance": 7400.64,
+            "transactions": [
+                {
+                    "date": "2023-06-08",
+                    "description": "Deposit",
+                    "amount": 8697.89,
+                    "transaction_id": 20819581
+                },
+                {
+                    "date": "2024-08-19",
+                    "description": "Deposit",
+                    "amount": 24566.46,
+                    "transaction_id": 92784477
+                }
+            ]
+        }
+    }
+}

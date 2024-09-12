@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Chad Li",
+        "age": 40,
+        "gender": "male",
+        "address": "61944 Anderson Road, West David, AL 42355",
+        "phone": "545.365.1272x340",
+        "email": "kellynorton@example.org",
+        "account": {
+            "account_number": "637486a1-6baf-42d8-951c-c52678f39076",
+            "balance": 41144.36,
+            "transactions": [
+                {
+                    "date": "2023-08-08",
+                    "description": "Deposit",
+                    "amount": 37313.27,
+                    "transaction_id": 47574021
+                },
+                {
+                    "date": "2023-09-24",
+                    "description": "Withdrawal",
+                    "amount": 36440.23,
+                    "transaction_id": 107088131
+                }
+            ]
+        }
+    }
+}

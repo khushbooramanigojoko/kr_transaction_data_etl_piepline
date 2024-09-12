@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Smith",
+        "age": 61,
+        "gender": "male",
+        "address": "914 Julia Fort Apt. 892, Anthonyshire, MS 97182",
+        "phone": "(233)888-4977x34378",
+        "email": "longamber@example.net",
+        "account": {
+            "account_number": "2ccbc3bb-4711-46f7-b205-8269f48c90e0",
+            "balance": 12853.05,
+            "transactions": [
+                {
+                    "date": "2023-06-14",
+                    "description": "Interest",
+                    "amount": 6292.63,
+                    "transaction_id": 76995005
+                },
+                {
+                    "date": "2023-06-05",
+                    "description": "Deposit",
+                    "amount": 34895.43,
+                    "transaction_id": 11239654
+                },
+                {
+                    "date": "2023-10-11",
+                    "description": "Interest",
+                    "amount": 15110.46,
+                    "transaction_id": 69101881
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Interest",
+                    "amount": 19424.06,
+                    "transaction_id": 22756632
+                }
+            ]
+        }
+    }
+}

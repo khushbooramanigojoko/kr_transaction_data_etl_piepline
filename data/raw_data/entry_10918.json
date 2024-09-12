@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 91,
+        "gender": "male",
+        "address": "257 Linda Point, South Kaitlyn, CT 81419",
+        "phone": "(776)819-1863",
+        "email": "jennifer96@example.net",
+        "account": {
+            "account_number": "6ba3e753-fbca-4b85-ad22-1966e5e409bf",
+            "balance": 41862.24,
+            "transactions": [
+                {
+                    "date": "2023-06-05",
+                    "description": "Withdrawal",
+                    "amount": 3109.64,
+                    "transaction_id": 90623454
+                },
+                {
+                    "date": "2023-02-23",
+                    "description": "Withdrawal",
+                    "amount": -1844.96,
+                    "transaction_id": 94711484
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Deposit",
+                    "amount": -849.83,
+                    "transaction_id": 47164585
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Interest",
+                    "amount": 3533.21,
+                    "transaction_id": 35804739
+                }
+            ]
+        }
+    }
+}

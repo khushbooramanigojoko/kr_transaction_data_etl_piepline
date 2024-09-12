@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Matthew Roach",
+        "age": 82,
+        "gender": "male",
+        "address": "850 Carmen Haven, Rossside, MD 03879",
+        "phone": "+1-565-883-5853x28593",
+        "email": "timothyhudson@example.net",
+        "account": {
+            "account_number": "e3adacdf-a409-469c-9e25-91f35b66df83",
+            "balance": 8990.69,
+            "transactions": [
+                {
+                    "date": "2024-07-17",
+                    "description": "Withdrawal",
+                    "amount": 4974.76,
+                    "transaction_id": 7308669
+                },
+                {
+                    "date": "2024-08-19",
+                    "description": "Interest",
+                    "amount": 32261.47,
+                    "transaction_id": 101925213
+                }
+            ]
+        }
+    }
+}

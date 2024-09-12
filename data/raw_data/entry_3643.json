@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Pamela Fox",
+        "age": 65,
+        "gender": "female",
+        "address": "50798 Miller Isle Suite 147, East James, SD 83735",
+        "phone": "(242)547-0294x3950",
+        "email": "jhowell@example.net",
+        "account": {
+            "account_number": "4f751e6b-4e44-488b-af7b-b76106f94e52",
+            "balance": 33529.46,
+            "transactions": [
+                {
+                    "date": "2023-02-28",
+                    "description": "Interest",
+                    "amount": 38964.63,
+                    "transaction_id": 88936656
+                }
+            ]
+        }
+    }
+}

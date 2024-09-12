@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Daryl Flores",
+        "age": 44,
+        "gender": "male",
+        "address": "20624 Debra Meadows Apt. 859, Brandonbury, AK 09374",
+        "phone": "(377)928-4755",
+        "email": "eric92@example.com",
+        "account": {
+            "account_number": "37a45c97-6ffa-4e0c-a7bf-ed6363167cbf",
+            "balance": 3846.24,
+            "transactions": [
+                {
+                    "date": "2023-05-15",
+                    "description": "Interest",
+                    "amount": 25294.95,
+                    "transaction_id": 101712993
+                }
+            ]
+        }
+    }
+}

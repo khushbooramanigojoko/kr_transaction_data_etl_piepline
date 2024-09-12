@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jason Price",
+        "age": 84,
+        "gender": "male",
+        "address": "5885 Ashley Common Suite 165, Peterton, HI 53128",
+        "phone": "+1-338-484-8846x485",
+        "email": "hpowers@example.org",
+        "account": {
+            "account_number": "a56e696d-6c56-488c-aeea-e32f9b66d885",
+            "balance": 27700.25,
+            "transactions": [
+                {
+                    "date": "2023-05-09",
+                    "description": "Withdrawal",
+                    "amount": 24125.29,
+                    "transaction_id": 54155300
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Withdrawal",
+                    "amount": 38788.17,
+                    "transaction_id": 29741449
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Deposit",
+                    "amount": 38785.37,
+                    "transaction_id": 26154161
+                }
+            ]
+        }
+    }
+}

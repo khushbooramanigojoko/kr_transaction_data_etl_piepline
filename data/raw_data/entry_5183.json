@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dustin Rivera",
+        "age": 48,
+        "gender": "male",
+        "address": "Unit 1032 Box 0699, DPO AE 72811",
+        "phone": "+1-345-255-3756",
+        "email": "tammy94@example.net",
+        "account": {
+            "account_number": "488f1e70-8dbd-4fca-a27b-ad281ad0d2e1",
+            "balance": 31873.29,
+            "transactions": [
+                {
+                    "date": "2023-05-23",
+                    "description": "Withdrawal",
+                    "amount": 39539.6,
+                    "transaction_id": 2358950
+                },
+                {
+                    "date": "2024-06-25",
+                    "description": "Withdrawal",
+                    "amount": 6492.44,
+                    "transaction_id": 57379928
+                },
+                {
+                    "date": "2024-06-13",
+                    "description": "Withdrawal",
+                    "amount": 44691.64,
+                    "transaction_id": 118057421
+                },
+                {
+                    "date": "2024-08-10",
+                    "description": "Withdrawal",
+                    "amount": 44892.34,
+                    "transaction_id": 58689972
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Deposit",
+                    "amount": 32577.06,
+                    "transaction_id": 106965124
+                }
+            ]
+        }
+    }
+}

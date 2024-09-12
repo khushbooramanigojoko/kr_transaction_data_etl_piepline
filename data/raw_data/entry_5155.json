@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Madison Wilkinson",
+        "age": 45,
+        "gender": "female",
+        "address": "097 Collins Branch Apt. 978, Jenniferberg, FL 00718",
+        "phone": "(295)795-1778x6258",
+        "email": "griggs@example.org",
+        "account": {
+            "account_number": "2b0e4dfa-b111-4f0d-b345-929eb6ab08f7",
+            "balance": 46446.34,
+            "transactions": [
+                {
+                    "date": "2023-06-06",
+                    "description": "Withdrawal",
+                    "amount": 12892.89,
+                    "transaction_id": 25213714
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Interest",
+                    "amount": 40799.17,
+                    "transaction_id": 43512840
+                }
+            ]
+        }
+    }
+}

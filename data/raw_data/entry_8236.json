@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Matthew Sanchez",
+        "age": 74,
+        "gender": "male",
+        "address": "982 Kenneth Drive, Kimbury, PW 33503",
+        "phone": "+1-876-388-1227",
+        "email": "barbara05@example.org",
+        "account": {
+            "account_number": "9f3fadab-409d-4818-8fde-3a7664fa8b7b",
+            "balance": 2198.47,
+            "transactions": [
+                {
+                    "date": "2023-02-10",
+                    "description": "Withdrawal",
+                    "amount": 13370.95,
+                    "transaction_id": 4089370
+                }
+            ]
+        }
+    }
+}

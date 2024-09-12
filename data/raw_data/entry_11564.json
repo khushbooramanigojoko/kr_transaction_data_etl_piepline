@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Diane Davis",
+        "age": 28,
+        "gender": "male",
+        "address": "693 Derrick Plains Apt. 278, Keithchester, NV 43133",
+        "phone": "753.381.9171",
+        "email": "nrussell@example.net",
+        "account": {
+            "account_number": "624d547f-ab7e-4d96-857a-1f1bfa743f76",
+            "balance": -1561.26,
+            "transactions": [
+                {
+                    "date": "2023-01-03",
+                    "description": "Withdrawal",
+                    "amount": 3159.38,
+                    "transaction_id": 61587705
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sandra Sexton",
+        "age": 20,
+        "gender": "female",
+        "address": "Unit 6936 Box 4418, DPO AP 48495",
+        "phone": "001-232-848-8129x9964",
+        "email": "annawright@example.org",
+        "account": {
+            "account_number": "b0bfcfa0-3db2-4701-b4c4-ec844379bb00",
+            "balance": 32534.12,
+            "transactions": [
+                {
+                    "date": "2024-06-08",
+                    "description": "Interest",
+                    "amount": 5549.66,
+                    "transaction_id": 12088441
+                },
+                {
+                    "date": "2023-12-30",
+                    "description": "Deposit",
+                    "amount": 32869.56,
+                    "transaction_id": 94457673
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Deposit",
+                    "amount": 21091.64,
+                    "transaction_id": 53531701
+                }
+            ]
+        }
+    }
+}

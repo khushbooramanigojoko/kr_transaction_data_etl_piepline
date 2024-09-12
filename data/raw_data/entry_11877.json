@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ronald Hawkins",
+        "age": 40,
+        "gender": "male",
+        "address": "252 Daugherty Estate Apt. 464, Boyleside, VI 18869",
+        "phone": "+1-894-629-2171x9655",
+        "email": "twinters@example.net",
+        "account": {
+            "account_number": "838dc3c5-ccf6-41bc-8840-1ab718832155",
+            "balance": -11177.12,
+            "transactions": [
+                {
+                    "date": "2023-05-29",
+                    "description": "Deposit",
+                    "amount": -908.44,
+                    "transaction_id": 59950963
+                },
+                {
+                    "date": "2022-11-04",
+                    "description": "Deposit",
+                    "amount": 389.2,
+                    "transaction_id": 115984352
+                },
+                {
+                    "date": "2023-06-30",
+                    "description": "Interest",
+                    "amount": 4169.15,
+                    "transaction_id": 70422230
+                },
+                {
+                    "date": "2023-08-17",
+                    "description": "Deposit",
+                    "amount": -1282.54,
+                    "transaction_id": 78108666
+                }
+            ]
+        }
+    }
+}

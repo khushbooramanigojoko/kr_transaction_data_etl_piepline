@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 82,
+        "gender": "female",
+        "address": "267 Hatfield Cliff, Lake Betty, PW 23961",
+        "phone": "898.897.4660",
+        "email": "thompsonjordan@example.com",
+        "account": {
+            "account_number": "62b08977-0ca3-4b21-9014-38bddc16c049",
+            "balance": 18362.28,
+            "transactions": [
+                {
+                    "date": "2022-09-22",
+                    "description": "Withdrawal",
+                    "amount": 4683.63,
+                    "transaction_id": 112206840
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Deposit",
+                    "amount": -1171.37,
+                    "transaction_id": 75276037
+                }
+            ]
+        }
+    }
+}

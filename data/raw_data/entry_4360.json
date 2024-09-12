@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Steven Miller",
+        "age": 68,
+        "gender": "female",
+        "address": "21015 Lindsey Islands Suite 797, Jasminehaven, VA 81260",
+        "phone": "809.895.7666x77161",
+        "email": "rkidd@example.net",
+        "account": {
+            "account_number": "15bc1359-5938-4dd3-87ac-47b819027e1f",
+            "balance": 7013.2,
+            "transactions": [
+                {
+                    "date": "2023-04-02",
+                    "description": "Withdrawal",
+                    "amount": 49395.96,
+                    "transaction_id": 71887792
+                }
+            ]
+        }
+    }
+}

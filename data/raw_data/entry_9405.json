@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Richard Rodriguez",
+        "age": 78,
+        "gender": "male",
+        "address": "6249 Isaac Island Apt. 254, North Janetown, MI 89757",
+        "phone": "001-917-381-6728x469",
+        "email": "campbellnicholas@example.com",
+        "account": {
+            "account_number": "fdaf0dab-9757-45ff-8ba1-946890489db0",
+            "balance": -39440.86,
+            "transactions": [
+                {
+                    "date": "2024-01-14",
+                    "description": "Deposit",
+                    "amount": 4082.35,
+                    "transaction_id": 81733608
+                },
+                {
+                    "date": "2023-01-29",
+                    "description": "Withdrawal",
+                    "amount": -2182.7,
+                    "transaction_id": 35622691
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Withdrawal",
+                    "amount": 4498.36,
+                    "transaction_id": 23826167
+                }
+            ]
+        }
+    }
+}

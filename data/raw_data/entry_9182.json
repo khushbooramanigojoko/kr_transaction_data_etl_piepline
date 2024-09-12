@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Shawn Durham",
+        "age": 41,
+        "gender": "female",
+        "address": "10726 Myers Station Apt. 072, Jillianview, CT 48147",
+        "phone": "5227496432",
+        "email": "mosleysusan@example.net",
+        "account": {
+            "account_number": "5a3a7f01-c7a0-458b-a6c5-8e765eac17f0",
+            "balance": -35212.53,
+            "transactions": [
+                {
+                    "date": "2024-05-06",
+                    "description": "Withdrawal",
+                    "amount": -4834.95,
+                    "transaction_id": 77515128
+                },
+                {
+                    "date": "2024-07-26",
+                    "description": "Interest",
+                    "amount": 2740.02,
+                    "transaction_id": 53456676
+                }
+            ]
+        }
+    }
+}

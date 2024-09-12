@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "male",
+        "address": "1607 Mora Crossing, Moranton, FM 76443",
+        "phone": "+1-946-671-7873x7016",
+        "email": "erinbooth@example.org",
+        "account": {
+            "account_number": "446c0f7f-5743-4d5a-a25a-b9fb320d4bb2",
+            "balance": 30158.24,
+            "transactions": [
+                {
+                    "date": "2023-02-02",
+                    "description": "Deposit",
+                    "amount": -3593.63,
+                    "transaction_id": 115234198
+                },
+                {
+                    "date": "2022-11-11",
+                    "description": "Withdrawal",
+                    "amount": 452.72,
+                    "transaction_id": 14428116
+                },
+                {
+                    "date": "2024-01-08",
+                    "description": "Deposit",
+                    "amount": -180.2,
+                    "transaction_id": 27738506
+                },
+                {
+                    "date": "2023-03-19",
+                    "description": "Withdrawal",
+                    "amount": -3133.38,
+                    "transaction_id": 75904581
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Karen Ochoa MD",
+        "age": 22,
+        "gender": "female",
+        "address": "PSC 2274, Box 7006, APO AA 95268",
+        "phone": "(422)280-1474",
+        "email": "annarussell@example.org",
+        "account": {
+            "account_number": "d7dc74ef-c7df-41fc-8d20-998ef87b2462",
+            "balance": -19617.16,
+            "transactions": [
+                {
+                    "date": "2024-08-08",
+                    "description": "Withdrawal",
+                    "amount": 3049.2,
+                    "transaction_id": 73345854
+                },
+                {
+                    "date": "2023-01-29",
+                    "description": "Interest",
+                    "amount": -3671.89,
+                    "transaction_id": 51687918
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Interest",
+                    "amount": -483.01,
+                    "transaction_id": 99440322
+                }
+            ]
+        }
+    }
+}

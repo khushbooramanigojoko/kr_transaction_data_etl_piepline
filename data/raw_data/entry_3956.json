@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Daniel Perez",
+        "age": 88,
+        "gender": "male",
+        "address": "6025 Farmer Highway, Rogersshire, NY 75856",
+        "phone": "(469)514-9657",
+        "email": "adam51@example.org",
+        "account": {
+            "account_number": "fb400cb1-7a86-41a1-a9d8-c550fe1f323b",
+            "balance": 16021.29,
+            "transactions": [
+                {
+                    "date": "2024-07-06",
+                    "description": "Interest",
+                    "amount": 36993.53,
+                    "transaction_id": 29945497
+                },
+                {
+                    "date": "2024-06-08",
+                    "description": "Deposit",
+                    "amount": 27742.92,
+                    "transaction_id": 116070057
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Withdrawal",
+                    "amount": 42250.94,
+                    "transaction_id": 34347286
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Interest",
+                    "amount": 1506.75,
+                    "transaction_id": 46737227
+                },
+                {
+                    "date": "2023-04-09",
+                    "description": "Withdrawal",
+                    "amount": 38706.13,
+                    "transaction_id": 15527827
+                }
+            ]
+        }
+    }
+}

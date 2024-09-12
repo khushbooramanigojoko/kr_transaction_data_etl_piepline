@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Charles Morgan",
+        "age": 98,
+        "gender": "female",
+        "address": "5284 Bridget Circles, East Michaelburgh, AS 41892",
+        "phone": "001-700-824-7944",
+        "email": "johnhammond@example.com",
+        "account": {
+            "account_number": "f722bf64-4179-405a-9813-79904066b6ca",
+            "balance": 32929.45,
+            "transactions": [
+                {
+                    "date": "2024-03-08",
+                    "description": "Withdrawal",
+                    "amount": 46201.26,
+                    "transaction_id": 105798689
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Withdrawal",
+                    "amount": 47640.3,
+                    "transaction_id": 46519076
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Withdrawal",
+                    "amount": 9329.68,
+                    "transaction_id": 1827869
+                }
+            ]
+        }
+    }
+}

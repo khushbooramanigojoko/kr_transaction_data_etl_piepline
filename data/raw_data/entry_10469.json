@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 42,
+        "gender": "male",
+        "address": "2922 Young Parks, Port Stephenbury, ID 03243",
+        "phone": "3439440862",
+        "email": "smithmolly@example.org",
+        "account": {
+            "account_number": "254c5ce3-cdc5-4075-a582-df699fcc6953",
+            "balance": 38580.75,
+            "transactions": [
+                {
+                    "date": "2023-07-23",
+                    "description": "Interest",
+                    "amount": 1308.12,
+                    "transaction_id": 36825129
+                },
+                {
+                    "date": "2022-09-22",
+                    "description": "Interest",
+                    "amount": 458.33,
+                    "transaction_id": 98078340
+                }
+            ]
+        }
+    }
+}

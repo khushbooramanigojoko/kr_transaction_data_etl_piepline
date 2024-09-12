@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Victor Mcclure",
+        "age": 29,
+        "gender": "female",
+        "address": "8185 Baker Tunnel, New Tracishire, NJ 33131",
+        "phone": "(576)771-1734",
+        "email": "yparker@example.com",
+        "account": {
+            "account_number": "785a8bb6-0eb0-48f2-afac-0afb8ca9e22f",
+            "balance": -6397.02,
+            "transactions": [
+                {
+                    "date": "2023-01-03",
+                    "description": "Deposit",
+                    "amount": -3051.97,
+                    "transaction_id": 30513628
+                },
+                {
+                    "date": "2024-02-26",
+                    "description": "Deposit",
+                    "amount": -1593.81,
+                    "transaction_id": 29861720
+                }
+            ]
+        }
+    }
+}

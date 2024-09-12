@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Elizabeth Wu",
+        "age": 27,
+        "gender": "male",
+        "address": "4799 Angela Hills, Tammyside, SD 93807",
+        "phone": "783-202-6795x625",
+        "email": "nkelley@example.org",
+        "account": {
+            "account_number": "6013c9df-9b0a-4750-a8c0-ccde35ecf1d3",
+            "balance": 27060.04,
+            "transactions": [
+                {
+                    "date": "2024-07-26",
+                    "description": "Interest",
+                    "amount": 29841.18,
+                    "transaction_id": 48542822
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Deposit",
+                    "amount": 16012.4,
+                    "transaction_id": 64661716
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Deposit",
+                    "amount": 21944.43,
+                    "transaction_id": 118233776
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Deposit",
+                    "amount": 3504.77,
+                    "transaction_id": 33596139
+                }
+            ]
+        }
+    }
+}

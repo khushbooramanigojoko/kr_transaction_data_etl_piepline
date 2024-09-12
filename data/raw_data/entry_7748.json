@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Katherine Mendoza",
+        "age": 34,
+        "gender": "female",
+        "address": "USCGC Salinas, FPO AP 42983",
+        "phone": "001-895-419-8101x196",
+        "email": "hahnregina@example.com",
+        "account": {
+            "account_number": "854641a3-0c4d-4581-b93a-81fa36d78fa7",
+            "balance": 32604.67,
+            "transactions": [
+                {
+                    "date": "2024-06-21",
+                    "description": "Withdrawal",
+                    "amount": 41735.67,
+                    "transaction_id": 38935280
+                },
+                {
+                    "date": "2023-07-09",
+                    "description": "Deposit",
+                    "amount": 10447.76,
+                    "transaction_id": 33222215
+                },
+                {
+                    "date": "2024-03-28",
+                    "description": "Withdrawal",
+                    "amount": 36504.19,
+                    "transaction_id": 33105712
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Interest",
+                    "amount": 22882.87,
+                    "transaction_id": 25286399
+                },
+                {
+                    "date": "2023-10-04",
+                    "description": "Withdrawal",
+                    "amount": 28428.34,
+                    "transaction_id": 50708929
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lindsay Galvan",
+        "age": 56,
+        "gender": "female",
+        "address": "PSC 4187, Box 1087, APO AA 61586",
+        "phone": "321.961.6486x16492",
+        "email": "conwaydaniel@example.org",
+        "account": {
+            "account_number": "d8547f88-dba7-4377-a3b1-31fd204e27c1",
+            "balance": 28826.53,
+            "transactions": [
+                {
+                    "date": "2023-04-24",
+                    "description": "Deposit",
+                    "amount": 27688.53,
+                    "transaction_id": 30197864
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Interest",
+                    "amount": 22920.85,
+                    "transaction_id": 90926672
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Deposit",
+                    "amount": 27955.16,
+                    "transaction_id": 12371217
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Withdrawal",
+                    "amount": 443.38,
+                    "transaction_id": 50315081
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mrs. Carla Johnson",
+        "age": 53,
+        "gender": "male",
+        "address": "USS Garcia, FPO AE 27692",
+        "phone": "292.363.6187",
+        "email": "sarawebb@example.net",
+        "account": {
+            "account_number": "63d4d7ae-4849-42fa-beb7-032284c44a2d",
+            "balance": 17380.33,
+            "transactions": [
+                {
+                    "date": "2023-12-19",
+                    "description": "Withdrawal",
+                    "amount": 21242.32,
+                    "transaction_id": 46729899
+                },
+                {
+                    "date": "2023-07-30",
+                    "description": "Deposit",
+                    "amount": 9230.85,
+                    "transaction_id": 27495013
+                },
+                {
+                    "date": "2024-03-14",
+                    "description": "Withdrawal",
+                    "amount": 1799.23,
+                    "transaction_id": 84057244
+                },
+                {
+                    "date": "2024-01-19",
+                    "description": "Deposit",
+                    "amount": 14380.72,
+                    "transaction_id": 69723845
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mrs. Karen Gonzalez",
+        "age": 58,
+        "gender": "male",
+        "address": "01683 Harvey Groves Suite 386, Youngland, MH 40472",
+        "phone": "6357200293",
+        "email": "penajames@example.com",
+        "account": {
+            "account_number": "5126c34b-1f4a-4627-b62c-f365eda6652c",
+            "balance": 34330.01,
+            "transactions": [
+                {
+                    "date": "2023-06-02",
+                    "description": "Deposit",
+                    "amount": 23377.36,
+                    "transaction_id": 88832265
+                }
+            ]
+        }
+    }
+}

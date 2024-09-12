@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Cheryl Cowan",
+        "age": 25,
+        "gender": "female",
+        "address": "82037 Jennifer Pine Suite 685, West Jonathon, KS 38510",
+        "phone": "923.909.5442x908",
+        "email": "turnerjacob@example.net",
+        "account": {
+            "account_number": "5f5779d7-246e-492d-a3e0-06bbb4d7f5a4",
+            "balance": 6213.15,
+            "transactions": [
+                {
+                    "date": "2023-12-21",
+                    "description": "Interest",
+                    "amount": 1695.5,
+                    "transaction_id": 12483957
+                },
+                {
+                    "date": "2023-09-10",
+                    "description": "Deposit",
+                    "amount": 45496.26,
+                    "transaction_id": 86480713
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Interest",
+                    "amount": 41143.48,
+                    "transaction_id": 72592112
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Deposit",
+                    "amount": 48003.55,
+                    "transaction_id": 2215633
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Withdrawal",
+                    "amount": 31099.05,
+                    "transaction_id": 58984237
+                }
+            ]
+        }
+    }
+}

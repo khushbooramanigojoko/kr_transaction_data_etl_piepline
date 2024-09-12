@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sara Johnston",
+        "age": 76,
+        "gender": "male",
+        "address": "8945 Catherine Road, Bushton, MP 41188",
+        "phone": "001-767-362-3442x87305",
+        "email": "kmoreno@example.com",
+        "account": {
+            "account_number": "cba11d63-57f0-4172-89bc-6da8797cf224",
+            "balance": 4981.08,
+            "transactions": [
+                {
+                    "date": "2023-07-16",
+                    "description": "Withdrawal",
+                    "amount": 45034.81,
+                    "transaction_id": 40781441
+                },
+                {
+                    "date": "2023-04-30",
+                    "description": "Deposit",
+                    "amount": 5036.59,
+                    "transaction_id": 55772497
+                },
+                {
+                    "date": "2024-06-29",
+                    "description": "Interest",
+                    "amount": 38206.99,
+                    "transaction_id": 54301720
+                },
+                {
+                    "date": "2023-08-09",
+                    "description": "Deposit",
+                    "amount": 49588.61,
+                    "transaction_id": 89031380
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Deposit",
+                    "amount": 12065.56,
+                    "transaction_id": 102611847
+                }
+            ]
+        }
+    }
+}

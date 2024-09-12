@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "David Schmitt",
+        "age": 94,
+        "gender": "female",
+        "address": "05192 Chavez Trafficway Suite 263, Reyeston, PR 96041",
+        "phone": "+1-778-423-6106x673",
+        "email": "ajackson@example.com",
+        "account": {
+            "account_number": "c81d2f7a-4985-4759-8a48-34f64f5bcb4f",
+            "balance": 5592.34,
+            "transactions": [
+                {
+                    "date": "2024-05-03",
+                    "description": "Interest",
+                    "amount": 14096.37,
+                    "transaction_id": 10129508
+                },
+                {
+                    "date": "2022-10-24",
+                    "description": "Deposit",
+                    "amount": 31424.38,
+                    "transaction_id": 107005419
+                },
+                {
+                    "date": "2024-02-06",
+                    "description": "Deposit",
+                    "amount": 24162.31,
+                    "transaction_id": 46813405
+                },
+                {
+                    "date": "2024-05-07",
+                    "description": "Interest",
+                    "amount": 15633.43,
+                    "transaction_id": 84286261
+                },
+                {
+                    "date": "2022-10-25",
+                    "description": "Deposit",
+                    "amount": 17159.24,
+                    "transaction_id": 2518099
+                }
+            ]
+        }
+    }
+}

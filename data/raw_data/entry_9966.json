@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mr. Zachary Roth",
+        "age": 39,
+        "gender": "male",
+        "address": "1436 Bennett Views Apt. 025, Danielshire, IN 40565",
+        "phone": "001-845-907-5765",
+        "email": "ugardner@example.org",
+        "account": {
+            "account_number": "04b33545-be8c-45d2-95ef-ca23f0f375ed",
+            "balance": -14310.18,
+            "transactions": [
+                {
+                    "date": "2024-08-12",
+                    "description": "Interest",
+                    "amount": 2949.51,
+                    "transaction_id": 11313791
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christopher Yang",
+        "age": 93,
+        "gender": "female",
+        "address": "33446 Zachary Plaza, North James, SC 61355",
+        "phone": "8907266409",
+        "email": "ianderson@example.net",
+        "account": {
+            "account_number": "d5eaa9b0-9ff9-4e4d-b3d6-0b93c7e02ac3",
+            "balance": 32344.53,
+            "transactions": [
+                {
+                    "date": "2024-06-11",
+                    "description": "Withdrawal",
+                    "amount": 19528.11,
+                    "transaction_id": 56392393
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Withdrawal",
+                    "amount": 5411.79,
+                    "transaction_id": 109722956
+                },
+                {
+                    "date": "2022-10-19",
+                    "description": "Interest",
+                    "amount": 40754.69,
+                    "transaction_id": 57260866
+                },
+                {
+                    "date": "2023-12-21",
+                    "description": "Withdrawal",
+                    "amount": 795.57,
+                    "transaction_id": 67001677
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Interest",
+                    "amount": 3374.38,
+                    "transaction_id": 115730506
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brenda Turner",
+        "age": 46,
+        "gender": "female",
+        "address": "5019 Leonard Extension, North Herbert, OK 59453",
+        "phone": "762.524.5554",
+        "email": "robertowens@example.com",
+        "account": {
+            "account_number": "4c98dad2-7ee7-456d-955b-4299ff72c37b",
+            "balance": 48395.58,
+            "transactions": [
+                {
+                    "date": "2022-11-06",
+                    "description": "Interest",
+                    "amount": 669.42,
+                    "transaction_id": 45867444
+                }
+            ]
+        }
+    }
+}

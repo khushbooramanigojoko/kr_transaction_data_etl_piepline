@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Peterson",
+        "age": 21,
+        "gender": "male",
+        "address": "400 Shaw Bridge, New Aliceview, CA 42307",
+        "phone": "434.646.0226x2869",
+        "email": "carrillodanny@example.org",
+        "account": {
+            "account_number": "78c89176-0dd7-4743-a8b9-7caf08187963",
+            "balance": 1247.77,
+            "transactions": [
+                {
+                    "date": "2024-06-06",
+                    "description": "Withdrawal",
+                    "amount": 6253.7,
+                    "transaction_id": 59855468
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Withdrawal",
+                    "amount": 7346.39,
+                    "transaction_id": 71512388
+                },
+                {
+                    "date": "2023-09-14",
+                    "description": "Interest",
+                    "amount": 22451.7,
+                    "transaction_id": 76203540
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Withdrawal",
+                    "amount": 21782.96,
+                    "transaction_id": 45818266
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Deposit",
+                    "amount": 38242.11,
+                    "transaction_id": 1899253
+                }
+            ]
+        }
+    }
+}

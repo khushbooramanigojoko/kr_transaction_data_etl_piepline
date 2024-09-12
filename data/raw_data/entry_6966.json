@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tonya Herman",
+        "age": 74,
+        "gender": "female",
+        "address": "650 Jennifer Path, Alexisstad, WY 98401",
+        "phone": "001-816-798-0266x72657",
+        "email": "brittanycrosby@example.net",
+        "account": {
+            "account_number": "802152c2-37f4-49bf-95ba-1f6c3ff42c03",
+            "balance": 24392.52,
+            "transactions": [
+                {
+                    "date": "2023-04-01",
+                    "description": "Deposit",
+                    "amount": 1214.08,
+                    "transaction_id": 5940434
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Withdrawal",
+                    "amount": 14098.65,
+                    "transaction_id": 8811428
+                },
+                {
+                    "date": "2024-01-24",
+                    "description": "Interest",
+                    "amount": 32024.08,
+                    "transaction_id": 12403845
+                },
+                {
+                    "date": "2023-01-21",
+                    "description": "Withdrawal",
+                    "amount": 39270.75,
+                    "transaction_id": 83078870
+                }
+            ]
+        }
+    }
+}

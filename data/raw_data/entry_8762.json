@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 59,
+        "gender": "male",
+        "address": "5619 Henry Roads, Ellisbury, VI 48177",
+        "phone": "+1-676-263-0367x08241",
+        "email": "brandon85@example.net",
+        "account": {
+            "account_number": "4263e4ea-6e0e-42fb-b8fe-f7e716181812",
+            "balance": 22820.8,
+            "transactions": [
+                {
+                    "date": "2023-11-21",
+                    "description": "Interest",
+                    "amount": -4385.55,
+                    "transaction_id": 21131859
+                }
+            ]
+        }
+    }
+}

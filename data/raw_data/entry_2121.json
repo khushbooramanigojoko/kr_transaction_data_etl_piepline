@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Rebecca Gross",
+        "age": 98,
+        "gender": "female",
+        "address": "72374 James Wells Suite 255, Larsenhaven, VT 17644",
+        "phone": "001-911-947-4366x6564",
+        "email": "dianamoyer@example.org",
+        "account": {
+            "account_number": "7af850c5-a9f0-43cf-9282-766b0888a0ca",
+            "balance": 37077.81,
+            "transactions": [
+                {
+                    "date": "2023-10-02",
+                    "description": "Withdrawal",
+                    "amount": 41063.1,
+                    "transaction_id": 100399684
+                },
+                {
+                    "date": "2024-01-30",
+                    "description": "Withdrawal",
+                    "amount": 23871.91,
+                    "transaction_id": 45444713
+                },
+                {
+                    "date": "2024-07-18",
+                    "description": "Interest",
+                    "amount": 14844.51,
+                    "transaction_id": 29062373
+                },
+                {
+                    "date": "2023-10-01",
+                    "description": "Interest",
+                    "amount": 36249.08,
+                    "transaction_id": 77080338
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Interest",
+                    "amount": 44817.12,
+                    "transaction_id": 87998820
+                }
+            ]
+        }
+    }
+}

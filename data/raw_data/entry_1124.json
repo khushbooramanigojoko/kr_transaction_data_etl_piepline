@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Regina Murray",
+        "age": 30,
+        "gender": "male",
+        "address": "11590 Kirby Street Suite 206, Johnton, WV 89916",
+        "phone": "344-672-0411x3456",
+        "email": "michael63@example.net",
+        "account": {
+            "account_number": "af82937e-d957-4d09-b32e-c62627e8c268",
+            "balance": 15200.61,
+            "transactions": [
+                {
+                    "date": "2023-04-02",
+                    "description": "Interest",
+                    "amount": 48286.25,
+                    "transaction_id": 48396610
+                },
+                {
+                    "date": "2023-05-27",
+                    "description": "Interest",
+                    "amount": 41645.77,
+                    "transaction_id": 24904737
+                }
+            ]
+        }
+    }
+}

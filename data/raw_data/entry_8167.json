@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Bonnie Baker",
+        "age": 30,
+        "gender": "female",
+        "address": "Unit 8446 Box 1947, DPO AE 26552",
+        "phone": "733.275.2509x4810",
+        "email": "courtneywinters@example.com",
+        "account": {
+            "account_number": "299e00e6-28d0-4f09-9450-436e238ef80e",
+            "balance": 36782.29,
+            "transactions": [
+                {
+                    "date": "2024-06-21",
+                    "description": "Withdrawal",
+                    "amount": 48897.49,
+                    "transaction_id": 21254621
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Withdrawal",
+                    "amount": 4095.59,
+                    "transaction_id": 88947016
+                },
+                {
+                    "date": "2023-04-01",
+                    "description": "Interest",
+                    "amount": 48346.14,
+                    "transaction_id": 33542758
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": 39191.29,
+                    "transaction_id": 4203039
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Withdrawal",
+                    "amount": 20447.42,
+                    "transaction_id": 43666936
+                }
+            ]
+        }
+    }
+}

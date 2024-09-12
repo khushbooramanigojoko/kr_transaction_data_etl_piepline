@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 40,
+        "gender": "male",
+        "address": "939 Lee Land, Timothymouth, CO 10160",
+        "phone": "356-795-8406x732",
+        "email": "jennasingh@example.org",
+        "account": {
+            "account_number": "feda9fb6-53aa-4c88-ac68-6f0065a0c097",
+            "balance": 31779.28,
+            "transactions": [
+                {
+                    "date": "2023-08-11",
+                    "description": "Deposit",
+                    "amount": -1317.8,
+                    "transaction_id": 18179977
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Withdrawal",
+                    "amount": 2231.76,
+                    "transaction_id": 103631402
+                },
+                {
+                    "date": "2024-03-19",
+                    "description": "Interest",
+                    "amount": -4440.73,
+                    "transaction_id": 6363054
+                },
+                {
+                    "date": "2024-05-20",
+                    "description": "Deposit",
+                    "amount": -3080.52,
+                    "transaction_id": 96379891
+                }
+            ]
+        }
+    }
+}

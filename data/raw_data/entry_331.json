@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Cheryl Davis",
+        "age": 98,
+        "gender": "male",
+        "address": "96591 Franklin Keys, Reesemouth, MN 83766",
+        "phone": "261.683.6933x917",
+        "email": "randysmith@example.org",
+        "account": {
+            "account_number": "ab762441-cf1d-4dfc-938b-edbac272b57a",
+            "balance": 8701.75,
+            "transactions": [
+                {
+                    "date": "2022-11-03",
+                    "description": "Withdrawal",
+                    "amount": 23325.78,
+                    "transaction_id": 60386217
+                },
+                {
+                    "date": "2023-09-11",
+                    "description": "Withdrawal",
+                    "amount": 27567.61,
+                    "transaction_id": 102311309
+                }
+            ]
+        }
+    }
+}

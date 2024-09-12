@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Marie Turner",
+        "age": 78,
+        "gender": "male",
+        "address": "0971 Parker Loop Suite 862, Port Karen, HI 42140",
+        "phone": "(235)428-0161",
+        "email": "anthony74@example.net",
+        "account": {
+            "account_number": "7cc4a9e8-b6a8-463a-a0b4-ee182b6762cc",
+            "balance": 48237.49,
+            "transactions": [
+                {
+                    "date": "2023-06-05",
+                    "description": "Withdrawal",
+                    "amount": 49866.32,
+                    "transaction_id": 55589545
+                }
+            ]
+        }
+    }
+}

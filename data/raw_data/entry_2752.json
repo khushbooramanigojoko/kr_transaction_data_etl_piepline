@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Chad Bryant",
+        "age": 66,
+        "gender": "male",
+        "address": "7229 Jones Road, Elizabethhaven, IA 42820",
+        "phone": "2539392710",
+        "email": "spencer93@example.net",
+        "account": {
+            "account_number": "98a279dc-725a-4d87-94f6-0647b11a67f6",
+            "balance": 6683.26,
+            "transactions": [
+                {
+                    "date": "2023-01-11",
+                    "description": "Interest",
+                    "amount": 37092.01,
+                    "transaction_id": 60185371
+                },
+                {
+                    "date": "2024-03-14",
+                    "description": "Interest",
+                    "amount": 38390.01,
+                    "transaction_id": 31791223
+                }
+            ]
+        }
+    }
+}

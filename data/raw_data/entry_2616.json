@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kevin Jones",
+        "age": 49,
+        "gender": "male",
+        "address": "90574 Cassandra Ways Apt. 424, South Jeremy, FL 01755",
+        "phone": "+1-342-564-1705x20676",
+        "email": "susan51@example.org",
+        "account": {
+            "account_number": "7d6d02d0-81c4-4377-a6f5-cedd839576f9",
+            "balance": 31841.94,
+            "transactions": [
+                {
+                    "date": "2023-03-12",
+                    "description": "Withdrawal",
+                    "amount": 30837.3,
+                    "transaction_id": 29962301
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Deposit",
+                    "amount": 18851.31,
+                    "transaction_id": 78203328
+                }
+            ]
+        }
+    }
+}

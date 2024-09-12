@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Daniel Bailey",
+        "age": 65,
+        "gender": "female",
+        "address": "086 Stacey Brook, Riverahaven, KS 38293",
+        "phone": "8255975899",
+        "email": "jacobturner@example.org",
+        "account": {
+            "account_number": "e14253a1-632a-4b87-951b-91562dde8c9c",
+            "balance": 43255.26,
+            "transactions": [
+                {
+                    "date": "2023-09-02",
+                    "description": "Deposit",
+                    "amount": 23866.28,
+                    "transaction_id": 58479865
+                }
+            ]
+        }
+    }
+}

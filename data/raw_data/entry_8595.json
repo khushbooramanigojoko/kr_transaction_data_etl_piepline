@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Danielle Jarvis",
+        "age": 40,
+        "gender": "female",
+        "address": "29057 Delacruz Haven Apt. 258, Port Jonathan, KS 79311",
+        "phone": "001-295-980-4376x78394",
+        "email": "caseyallen@example.com",
+        "account": {
+            "account_number": "772fe081-7e62-4e4d-a1ef-9baa2c91653d",
+            "balance": 47341.57,
+            "transactions": [
+                {
+                    "date": "2023-08-23",
+                    "description": "Deposit",
+                    "amount": 32312.38,
+                    "transaction_id": 49058347
+                },
+                {
+                    "date": "2024-08-15",
+                    "description": "Withdrawal",
+                    "amount": 14766.66,
+                    "transaction_id": 56313058
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Deposit",
+                    "amount": 1657.47,
+                    "transaction_id": 108662850
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Interest",
+                    "amount": 45520.9,
+                    "transaction_id": 73475093
+                }
+            ]
+        }
+    }
+}

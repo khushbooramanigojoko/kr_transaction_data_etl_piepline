@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nicole Alvarado",
+        "age": 79,
+        "gender": "female",
+        "address": "535 Thompson Mission, Wallport, GA 49253",
+        "phone": "864.677.3102x43904",
+        "email": "wbarr@example.org",
+        "account": {
+            "account_number": "1a1768aa-33b0-4235-9599-f48491a6e847",
+            "balance": 46850.11,
+            "transactions": [
+                {
+                    "date": "2024-05-21",
+                    "description": "Deposit",
+                    "amount": 9504.45,
+                    "transaction_id": 69700259
+                },
+                {
+                    "date": "2022-09-27",
+                    "description": "Withdrawal",
+                    "amount": 36945.82,
+                    "transaction_id": 48651656
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Withdrawal",
+                    "amount": 44144.51,
+                    "transaction_id": 100321080
+                },
+                {
+                    "date": "2024-06-02",
+                    "description": "Deposit",
+                    "amount": 39758.38,
+                    "transaction_id": 77365678
+                },
+                {
+                    "date": "2024-01-19",
+                    "description": "Withdrawal",
+                    "amount": 14863.3,
+                    "transaction_id": 63288291
+                }
+            ]
+        }
+    }
+}

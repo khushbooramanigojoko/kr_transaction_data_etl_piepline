@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 34,
+        "gender": "female",
+        "address": "45027 Jenkins Meadows, East Jenniferside, AL 66007",
+        "phone": "266.912.2177",
+        "email": "curtisjason@example.org",
+        "account": {
+            "account_number": "e6ccb6ce-1ca9-4cf5-9940-31809230da07",
+            "balance": 30469.43,
+            "transactions": [
+                {
+                    "date": "2023-08-11",
+                    "description": "Interest",
+                    "amount": -1906.21,
+                    "transaction_id": 32589323
+                }
+            ]
+        }
+    }
+}

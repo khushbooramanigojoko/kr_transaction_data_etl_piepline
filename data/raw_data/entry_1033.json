@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Roy Hunt",
+        "age": 52,
+        "gender": "male",
+        "address": "0053 Burns Knoll, Robertfort, AK 50491",
+        "phone": "865-705-7178",
+        "email": "kayla35@example.com",
+        "account": {
+            "account_number": "70e548e0-a2e7-4561-bfd8-330d3c7d4fbb",
+            "balance": 12503.61,
+            "transactions": [
+                {
+                    "date": "2023-06-16",
+                    "description": "Interest",
+                    "amount": 2238.86,
+                    "transaction_id": 86631637
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Withdrawal",
+                    "amount": 42430.09,
+                    "transaction_id": 65355065
+                },
+                {
+                    "date": "2023-09-28",
+                    "description": "Deposit",
+                    "amount": 5545.04,
+                    "transaction_id": 33112517
+                }
+            ]
+        }
+    }
+}

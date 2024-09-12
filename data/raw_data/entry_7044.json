@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Taylor Peterson",
+        "age": 67,
+        "gender": "female",
+        "address": "63455 Christensen Summit Apt. 524, New Felicia, MD 43508",
+        "phone": "+1-811-341-0498x47410",
+        "email": "diazsheri@example.com",
+        "account": {
+            "account_number": "c7e1ad90-399e-419f-a5b1-6c2c177c1247",
+            "balance": 10304.1,
+            "transactions": [
+                {
+                    "date": "2024-03-28",
+                    "description": "Deposit",
+                    "amount": 42417.02,
+                    "transaction_id": 113675230
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Interest",
+                    "amount": 33701.58,
+                    "transaction_id": 44023598
+                }
+            ]
+        }
+    }
+}

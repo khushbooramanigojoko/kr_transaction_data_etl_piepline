@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Dr. David Vazquez",
+        "age": 46,
+        "gender": "female",
+        "address": "860 Hall Pike Suite 789, South Jasonberg, CT 19121",
+        "phone": "(655)960-6040",
+        "email": "mckinneymichael@example.org",
+        "account": {
+            "account_number": "295c0a2c-3dc2-4439-9cb6-7c7d0e73a1c5",
+            "balance": 43191.05,
+            "transactions": [
+                {
+                    "date": "2023-12-11",
+                    "description": "Withdrawal",
+                    "amount": 11527.42,
+                    "transaction_id": 35462915
+                },
+                {
+                    "date": "2024-03-08",
+                    "description": "Deposit",
+                    "amount": 36805.96,
+                    "transaction_id": 119276061
+                }
+            ]
+        }
+    }
+}

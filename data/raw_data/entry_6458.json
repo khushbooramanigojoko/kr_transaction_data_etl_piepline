@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Rachel Castaneda",
+        "age": 52,
+        "gender": "male",
+        "address": "13770 Victoria Fork Suite 145, Crawfordview, LA 57379",
+        "phone": "298-236-9716x2186",
+        "email": "david61@example.com",
+        "account": {
+            "account_number": "4fb945db-82c0-4fd2-99a6-9146a2581170",
+            "balance": 8052.05,
+            "transactions": [
+                {
+                    "date": "2023-08-07",
+                    "description": "Interest",
+                    "amount": 2624.9,
+                    "transaction_id": 4495924
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Deposit",
+                    "amount": 42013.46,
+                    "transaction_id": 99678436
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Interest",
+                    "amount": 13985.27,
+                    "transaction_id": 114686011
+                },
+                {
+                    "date": "2023-05-29",
+                    "description": "Withdrawal",
+                    "amount": 47600.0,
+                    "transaction_id": 18562340
+                }
+            ]
+        }
+    }
+}

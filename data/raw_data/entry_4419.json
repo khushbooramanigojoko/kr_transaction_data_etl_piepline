@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Robert Webb",
+        "age": 40,
+        "gender": "male",
+        "address": "00121 Walter Isle, Clarkburgh, PR 83038",
+        "phone": "733.669.9192x85441",
+        "email": "hawkinslaura@example.org",
+        "account": {
+            "account_number": "add699e3-b43f-4bee-9c54-6665af11c07f",
+            "balance": 44853.15,
+            "transactions": [
+                {
+                    "date": "2023-07-26",
+                    "description": "Deposit",
+                    "amount": 15580.08,
+                    "transaction_id": 39225576
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Withdrawal",
+                    "amount": 47643.34,
+                    "transaction_id": 18890487
+                }
+            ]
+        }
+    }
+}

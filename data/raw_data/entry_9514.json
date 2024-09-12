@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 81,
+        "gender": "female",
+        "address": "6110 Lee Estates, East Lydia, AZ 73658",
+        "phone": "798-396-6183",
+        "email": "michael53@example.org",
+        "account": {
+            "account_number": "70c7d381-7bec-407b-b8ed-9d8e86d4d01b",
+            "balance": 38801.32,
+            "transactions": [
+                {
+                    "date": "2023-01-21",
+                    "description": "Interest",
+                    "amount": -324.24,
+                    "transaction_id": 65745598
+                },
+                {
+                    "date": "2024-06-21",
+                    "description": "Deposit",
+                    "amount": 1688.11,
+                    "transaction_id": 116442700
+                }
+            ]
+        }
+    }
+}

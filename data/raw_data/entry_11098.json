@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 23,
+        "gender": "female",
+        "address": "71629 Emma Course Suite 561, Clarkhaven, MP 62665",
+        "phone": "+1-489-260-5418",
+        "email": "vrusso@example.org",
+        "account": {
+            "account_number": "ec510678-1c04-4b6c-bbe6-d09a7c8b3632",
+            "balance": 30111.13,
+            "transactions": [
+                {
+                    "date": "2023-09-06",
+                    "description": "Withdrawal",
+                    "amount": 2231.87,
+                    "transaction_id": 12687177
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Nathan Frazier",
+        "age": 33,
+        "gender": "female",
+        "address": "1411 Laurie Hills, Barnettmouth, DC 31116",
+        "phone": "(974)971-1945x5947",
+        "email": "angela20@example.com",
+        "account": {
+            "account_number": "9e65f5e4-fb5e-454c-bed4-728a6bd4b717",
+            "balance": 27833.13,
+            "transactions": [
+                {
+                    "date": "2023-07-05",
+                    "description": "Withdrawal",
+                    "amount": 36460.16,
+                    "transaction_id": 59223855
+                },
+                {
+                    "date": "2024-05-08",
+                    "description": "Withdrawal",
+                    "amount": 42774.0,
+                    "transaction_id": 42224243
+                }
+            ]
+        }
+    }
+}

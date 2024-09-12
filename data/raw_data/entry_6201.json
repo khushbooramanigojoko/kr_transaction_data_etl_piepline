@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Frank Fox",
+        "age": 22,
+        "gender": "male",
+        "address": "510 Christopher River, North Justin, AK 71584",
+        "phone": "7305549397",
+        "email": "rdominguez@example.com",
+        "account": {
+            "account_number": "6bd8c0d1-c9a2-4b18-8632-975e9b4f9771",
+            "balance": 24652.28,
+            "transactions": [
+                {
+                    "date": "2023-08-31",
+                    "description": "Withdrawal",
+                    "amount": 27542.26,
+                    "transaction_id": 110076390
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Interest",
+                    "amount": 44756.5,
+                    "transaction_id": 112293181
+                },
+                {
+                    "date": "2024-06-08",
+                    "description": "Withdrawal",
+                    "amount": 8543.65,
+                    "transaction_id": 79062526
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Withdrawal",
+                    "amount": 8345.55,
+                    "transaction_id": 43337094
+                }
+            ]
+        }
+    }
+}

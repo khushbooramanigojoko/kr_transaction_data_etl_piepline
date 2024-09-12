@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kelly Hamilton",
+        "age": 70,
+        "gender": "female",
+        "address": "006 Troy Crossing, North Tyler, WV 08859",
+        "phone": "001-899-404-2781x594",
+        "email": "williamsdebra@example.org",
+        "account": {
+            "account_number": "d22ac380-d81d-4a86-9317-5117293770c4",
+            "balance": 21158.86,
+            "transactions": [
+                {
+                    "date": "2023-05-05",
+                    "description": "Withdrawal",
+                    "amount": 23055.53,
+                    "transaction_id": 86049436
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Interest",
+                    "amount": 26594.28,
+                    "transaction_id": 36354705
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Interest",
+                    "amount": 34640.43,
+                    "transaction_id": 17048502
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Deposit",
+                    "amount": 4973.22,
+                    "transaction_id": 81924066
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Interest",
+                    "amount": 45158.07,
+                    "transaction_id": 98465246
+                }
+            ]
+        }
+    }
+}

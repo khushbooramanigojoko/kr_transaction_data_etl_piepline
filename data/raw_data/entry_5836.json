@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Robert Cherry",
+        "age": 82,
+        "gender": "female",
+        "address": "2438 Mathis Underpass Suite 442, Jefferyville, SD 72169",
+        "phone": "782-884-9015",
+        "email": "torresmargaret@example.net",
+        "account": {
+            "account_number": "4861942b-7f6c-4e5f-ab45-1d81f6dc2063",
+            "balance": 1813.26,
+            "transactions": [
+                {
+                    "date": "2022-09-28",
+                    "description": "Deposit",
+                    "amount": 29230.07,
+                    "transaction_id": 72573319
+                },
+                {
+                    "date": "2024-08-15",
+                    "description": "Interest",
+                    "amount": 28381.91,
+                    "transaction_id": 48629509
+                }
+            ]
+        }
+    }
+}

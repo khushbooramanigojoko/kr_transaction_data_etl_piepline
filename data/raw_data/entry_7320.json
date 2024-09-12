@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Alan Becker",
+        "age": 36,
+        "gender": "female",
+        "address": "03472 Salazar Ridges Suite 209, West Zacharymouth, VT 69366",
+        "phone": "+1-328-270-6874x4670",
+        "email": "kbaker@example.net",
+        "account": {
+            "account_number": "da4341c7-93ca-44f0-8bf6-1212a70500bf",
+            "balance": 35616.51,
+            "transactions": [
+                {
+                    "date": "2023-04-18",
+                    "description": "Interest",
+                    "amount": 28455.36,
+                    "transaction_id": 79461683
+                },
+                {
+                    "date": "2024-05-28",
+                    "description": "Withdrawal",
+                    "amount": 15691.83,
+                    "transaction_id": 89601190
+                },
+                {
+                    "date": "2023-04-15",
+                    "description": "Deposit",
+                    "amount": 42747.83,
+                    "transaction_id": 29686479
+                },
+                {
+                    "date": "2023-01-27",
+                    "description": "Withdrawal",
+                    "amount": 24231.51,
+                    "transaction_id": 42890992
+                },
+                {
+                    "date": "2024-02-11",
+                    "description": "Withdrawal",
+                    "amount": 41295.63,
+                    "transaction_id": 12643271
+                }
+            ]
+        }
+    }
+}

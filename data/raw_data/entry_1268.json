@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Patricia Kerr DVM",
+        "age": 60,
+        "gender": "female",
+        "address": "736 Timothy Port Suite 014, Lopeztown, ND 15164",
+        "phone": "+1-519-231-0626x6154",
+        "email": "morrownatasha@example.net",
+        "account": {
+            "account_number": "9c3369a6-ac43-42be-b731-cea8ee48c08f",
+            "balance": 20824.23,
+            "transactions": [
+                {
+                    "date": "2023-09-14",
+                    "description": "Deposit",
+                    "amount": 30111.01,
+                    "transaction_id": 23011784
+                },
+                {
+                    "date": "2023-08-17",
+                    "description": "Withdrawal",
+                    "amount": 41886.99,
+                    "transaction_id": 116924864
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Interest",
+                    "amount": 15142.1,
+                    "transaction_id": 10068427
+                },
+                {
+                    "date": "2024-06-28",
+                    "description": "Deposit",
+                    "amount": 5553.4,
+                    "transaction_id": 35093266
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Interest",
+                    "amount": 417.19,
+                    "transaction_id": 19141797
+                }
+            ]
+        }
+    }
+}

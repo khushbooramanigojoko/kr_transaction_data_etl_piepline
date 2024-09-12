@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Crystal Barry",
+        "age": 61,
+        "gender": "male",
+        "address": "0018 Alexandra Prairie, South Carlhaven, PW 32432",
+        "phone": "+1-529-341-6234x601",
+        "email": "jshaw@example.com",
+        "account": {
+            "account_number": "4b46e49d-e86b-41cf-8161-d05dc28a2a70",
+            "balance": 14466.16,
+            "transactions": [
+                {
+                    "date": "2024-06-17",
+                    "description": "Withdrawal",
+                    "amount": 14414.87,
+                    "transaction_id": 39465021
+                },
+                {
+                    "date": "2023-08-13",
+                    "description": "Deposit",
+                    "amount": 18444.77,
+                    "transaction_id": 76015067
+                },
+                {
+                    "date": "2023-08-22",
+                    "description": "Withdrawal",
+                    "amount": 31994.11,
+                    "transaction_id": 82966781
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Deposit",
+                    "amount": 33049.2,
+                    "transaction_id": 118339269
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Deposit",
+                    "amount": 46309.82,
+                    "transaction_id": 26276797
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brian Glenn",
+        "age": 33,
+        "gender": "female",
+        "address": "Unit 8823 Box 0885, DPO AE 01069",
+        "phone": "986.780.0836x369",
+        "email": "utorres@example.net",
+        "account": {
+            "account_number": "35003295-c41a-4e3f-b12a-b9de73d60522",
+            "balance": 34213.81,
+            "transactions": [
+                {
+                    "date": "2024-05-28",
+                    "description": "Interest",
+                    "amount": 32757.65,
+                    "transaction_id": 36975341
+                },
+                {
+                    "date": "2022-09-20",
+                    "description": "Interest",
+                    "amount": 3974.15,
+                    "transaction_id": 14209433
+                },
+                {
+                    "date": "2022-10-24",
+                    "description": "Deposit",
+                    "amount": 27651.82,
+                    "transaction_id": 50969839
+                },
+                {
+                    "date": "2022-10-12",
+                    "description": "Deposit",
+                    "amount": 15318.35,
+                    "transaction_id": 107785972
+                }
+            ]
+        }
+    }
+}

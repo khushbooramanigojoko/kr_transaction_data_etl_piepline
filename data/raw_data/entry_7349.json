@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jacqueline Anderson",
+        "age": 94,
+        "gender": "female",
+        "address": "28930 Lopez Landing, Port Ashleyfort, NH 39871",
+        "phone": "3555604712",
+        "email": "hclark@example.net",
+        "account": {
+            "account_number": "c246fc26-bc80-413d-824b-3c8105b59cc5",
+            "balance": 1979.24,
+            "transactions": [
+                {
+                    "date": "2022-12-27",
+                    "description": "Interest",
+                    "amount": 26765.86,
+                    "transaction_id": 58301462
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Deposit",
+                    "amount": 17468.48,
+                    "transaction_id": 31111563
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Withdrawal",
+                    "amount": 23481.22,
+                    "transaction_id": 8692102
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Interest",
+                    "amount": 39925.84,
+                    "transaction_id": 33739951
+                },
+                {
+                    "date": "2024-08-24",
+                    "description": "Deposit",
+                    "amount": 47805.16,
+                    "transaction_id": 51108473
+                }
+            ]
+        }
+    }
+}

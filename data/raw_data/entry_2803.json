@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lauren Johnson",
+        "age": 22,
+        "gender": "male",
+        "address": "71757 Mitchell Valleys Suite 943, South Jennifer, NV 35219",
+        "phone": "(973)896-9866x70184",
+        "email": "tpittman@example.org",
+        "account": {
+            "account_number": "387126b6-b37f-41a7-9841-6767f3ca545a",
+            "balance": 6488.08,
+            "transactions": [
+                {
+                    "date": "2024-06-09",
+                    "description": "Deposit",
+                    "amount": 43658.03,
+                    "transaction_id": 53445544
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Interest",
+                    "amount": 26902.46,
+                    "transaction_id": 96044763
+                }
+            ]
+        }
+    }
+}

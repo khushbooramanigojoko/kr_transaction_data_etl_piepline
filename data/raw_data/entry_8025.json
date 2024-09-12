@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brent Brown",
+        "age": 25,
+        "gender": "male",
+        "address": "913 Compton Village Suite 533, Youngshire, LA 69784",
+        "phone": "804-331-6140x99178",
+        "email": "brian72@example.org",
+        "account": {
+            "account_number": "eb669c0a-a96e-4a99-b668-bccf5393660d",
+            "balance": 11441.65,
+            "transactions": [
+                {
+                    "date": "2023-11-07",
+                    "description": "Withdrawal",
+                    "amount": 229.89,
+                    "transaction_id": 51008223
+                }
+            ]
+        }
+    }
+}

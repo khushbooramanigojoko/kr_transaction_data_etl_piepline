@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tasha Roberts",
+        "age": 41,
+        "gender": "female",
+        "address": "391 Katie Radial Suite 538, North Alexaton, TN 92237",
+        "phone": "(359)410-6153",
+        "email": "blankenshipelizabeth@example.org",
+        "account": {
+            "account_number": "c576c3dc-eb66-4e98-b237-51817133b1dd",
+            "balance": 31958.84,
+            "transactions": [
+                {
+                    "date": "2023-11-28",
+                    "description": "Deposit",
+                    "amount": 38781.15,
+                    "transaction_id": 108823282
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Thomas Hayden",
+        "age": 22,
+        "gender": "female",
+        "address": "323 Oscar Skyway Suite 545, West Amystad, OH 37112",
+        "phone": "(548)479-2234",
+        "email": "rhodescharles@example.org",
+        "account": {
+            "account_number": "045bc970-c281-4abc-8aa0-df391052f684",
+            "balance": 26231.99,
+            "transactions": [
+                {
+                    "date": "2023-10-30",
+                    "description": "Deposit",
+                    "amount": 45358.89,
+                    "transaction_id": 114805214
+                },
+                {
+                    "date": "2024-08-20",
+                    "description": "Interest",
+                    "amount": 43231.42,
+                    "transaction_id": 48050673
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Interest",
+                    "amount": 15276.37,
+                    "transaction_id": 116160355
+                },
+                {
+                    "date": "2024-05-31",
+                    "description": "Deposit",
+                    "amount": 41010.56,
+                    "transaction_id": 82989961
+                },
+                {
+                    "date": "2023-10-05",
+                    "description": "Interest",
+                    "amount": 29912.45,
+                    "transaction_id": 104489582
+                }
+            ]
+        }
+    }
+}

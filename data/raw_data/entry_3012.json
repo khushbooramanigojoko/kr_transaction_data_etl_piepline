@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Daniel Paul",
+        "age": 20,
+        "gender": "male",
+        "address": "2274 Roberts Crossing, Jakeland, TN 83210",
+        "phone": "867-330-5104x803",
+        "email": "nelsoncory@example.com",
+        "account": {
+            "account_number": "b08b1d69-840c-4a7e-8849-7b4bfc15e37b",
+            "balance": 44524.24,
+            "transactions": [
+                {
+                    "date": "2024-06-07",
+                    "description": "Interest",
+                    "amount": 46044.5,
+                    "transaction_id": 72709168
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Interest",
+                    "amount": 31001.29,
+                    "transaction_id": 42693133
+                },
+                {
+                    "date": "2022-10-19",
+                    "description": "Withdrawal",
+                    "amount": 39506.66,
+                    "transaction_id": 82721923
+                }
+            ]
+        }
+    }
+}

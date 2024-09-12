@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lori Wiggins",
+        "age": 29,
+        "gender": "male",
+        "address": "3199 Sharon Tunnel Suite 955, Melissaberg, ND 13985",
+        "phone": "803.489.6097",
+        "email": "oroth@example.org",
+        "account": {
+            "account_number": "1f8767ff-6dfd-4c0a-a539-f6fa518d8417",
+            "balance": 19084.23,
+            "transactions": [
+                {
+                    "date": "2023-07-04",
+                    "description": "Deposit",
+                    "amount": 10039.93,
+                    "transaction_id": 27248168
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Interest",
+                    "amount": 30822.35,
+                    "transaction_id": 25279118
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Diane Mitchell",
+        "age": 67,
+        "gender": "female",
+        "address": "12657 Donald Mountains Apt. 305, Danielleview, MS 40557",
+        "phone": "(893)561-8573x7284",
+        "email": "hfarrell@example.org",
+        "account": {
+            "account_number": "f2242de3-3b3c-4f5b-831e-edcfbc9f522a",
+            "balance": 45585.56,
+            "transactions": [
+                {
+                    "date": "2023-06-28",
+                    "description": "Deposit",
+                    "amount": 2300.0,
+                    "transaction_id": 107126289
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Interest",
+                    "amount": 37413.28,
+                    "transaction_id": 105678920
+                },
+                {
+                    "date": "2022-10-19",
+                    "description": "Interest",
+                    "amount": 46590.18,
+                    "transaction_id": 43478388
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Deposit",
+                    "amount": 40189.37,
+                    "transaction_id": 1514668
+                },
+                {
+                    "date": "2023-01-16",
+                    "description": "Interest",
+                    "amount": 1139.22,
+                    "transaction_id": 96529413
+                }
+            ]
+        }
+    }
+}

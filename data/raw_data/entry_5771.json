@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Cindy Navarro",
+        "age": 59,
+        "gender": "male",
+        "address": "359 Rebecca Stravenue Apt. 929, South Samuel, NJ 75379",
+        "phone": "(397)909-9884",
+        "email": "sarahbailey@example.org",
+        "account": {
+            "account_number": "a936bab2-25fa-40fb-8371-d4ed1d6d7b6e",
+            "balance": 10247.98,
+            "transactions": [
+                {
+                    "date": "2023-05-02",
+                    "description": "Interest",
+                    "amount": 29735.29,
+                    "transaction_id": 97847428
+                }
+            ]
+        }
+    }
+}

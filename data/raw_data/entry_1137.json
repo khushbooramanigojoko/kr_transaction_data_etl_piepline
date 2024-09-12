@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kathy Cruz",
+        "age": 22,
+        "gender": "female",
+        "address": "USNS Hernandez, FPO AP 64008",
+        "phone": "001-385-806-4403x9756",
+        "email": "middletonbrian@example.com",
+        "account": {
+            "account_number": "b05320f5-9288-463c-93d2-3a479d615c2a",
+            "balance": 22294.73,
+            "transactions": [
+                {
+                    "date": "2022-10-04",
+                    "description": "Interest",
+                    "amount": 16413.37,
+                    "transaction_id": 55332535
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Deposit",
+                    "amount": 47828.73,
+                    "transaction_id": 52621220
+                },
+                {
+                    "date": "2024-01-11",
+                    "description": "Deposit",
+                    "amount": 33495.95,
+                    "transaction_id": 88180170
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Withdrawal",
+                    "amount": 29877.09,
+                    "transaction_id": 44533940
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Deposit",
+                    "amount": 36687.46,
+                    "transaction_id": 69234970
+                }
+            ]
+        }
+    }
+}

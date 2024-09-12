@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Yesenia Walker",
+        "age": 21,
+        "gender": "female",
+        "address": "60553 Dillon Field, Mahoneybury, IN 28097",
+        "phone": "235-487-3626x51483",
+        "email": "michael99@example.com",
+        "account": {
+            "account_number": "cfe71ac4-7325-48ad-b899-cf82d1b56c32",
+            "balance": 21995.2,
+            "transactions": [
+                {
+                    "date": "2024-07-27",
+                    "description": "Withdrawal",
+                    "amount": 24069.15,
+                    "transaction_id": 64998204
+                },
+                {
+                    "date": "2023-03-26",
+                    "description": "Deposit",
+                    "amount": 43609.51,
+                    "transaction_id": 17926512
+                }
+            ]
+        }
+    }
+}

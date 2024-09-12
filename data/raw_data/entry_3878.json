@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Phillip Robinson",
+        "age": 73,
+        "gender": "male",
+        "address": "713 John Lodge, Craigland, MD 40556",
+        "phone": "(658)670-7426x831",
+        "email": "haleyroberts@example.com",
+        "account": {
+            "account_number": "a8a02813-6478-4b11-91ef-de107ff8f230",
+            "balance": 38290.59,
+            "transactions": [
+                {
+                    "date": "2023-10-02",
+                    "description": "Interest",
+                    "amount": 31966.9,
+                    "transaction_id": 41422108
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Deposit",
+                    "amount": 7749.55,
+                    "transaction_id": 91445778
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Withdrawal",
+                    "amount": 48152.17,
+                    "transaction_id": 75253294
+                },
+                {
+                    "date": "2023-09-20",
+                    "description": "Withdrawal",
+                    "amount": 28165.3,
+                    "transaction_id": 70602855
+                },
+                {
+                    "date": "2023-12-10",
+                    "description": "Deposit",
+                    "amount": 35315.96,
+                    "transaction_id": 14334507
+                }
+            ]
+        }
+    }
+}

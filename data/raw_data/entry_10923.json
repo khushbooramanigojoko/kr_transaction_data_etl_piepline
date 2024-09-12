@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 81,
+        "gender": "male",
+        "address": "7512 Leon Motorway, Wongtown, NY 27579",
+        "phone": "+1-772-201-7351",
+        "email": "vancekatie@example.org",
+        "account": {
+            "account_number": "76b13cb2-ceef-4a72-b6c7-53dea12d69a0",
+            "balance": 23094.1,
+            "transactions": [
+                {
+                    "date": "2023-08-31",
+                    "description": "Deposit",
+                    "amount": 1607.48,
+                    "transaction_id": 111339284
+                },
+                {
+                    "date": "2023-02-13",
+                    "description": "Interest",
+                    "amount": -4447.24,
+                    "transaction_id": 117403347
+                },
+                {
+                    "date": "2023-11-09",
+                    "description": "Withdrawal",
+                    "amount": -4506.75,
+                    "transaction_id": 24655336
+                }
+            ]
+        }
+    }
+}

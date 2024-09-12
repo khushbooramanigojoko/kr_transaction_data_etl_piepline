@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Theresa Johnson",
+        "age": 92,
+        "gender": "male",
+        "address": "643 Steven Turnpike Apt. 613, Lake Jennifer, VT 53023",
+        "phone": "+1-440-948-0317x552",
+        "email": "andreawells@example.net",
+        "account": {
+            "account_number": "7c9c918a-1fc5-4db5-a876-aab19c2f433f",
+            "balance": -1358.05,
+            "transactions": [
+                {
+                    "date": "2024-04-27",
+                    "description": "Withdrawal",
+                    "amount": 177.75,
+                    "transaction_id": 96373957
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Interest",
+                    "amount": 2372.83,
+                    "transaction_id": 5693479
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Interest",
+                    "amount": -3827.3,
+                    "transaction_id": 5212097
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Deposit",
+                    "amount": 2535.34,
+                    "transaction_id": 92741282
+                }
+            ]
+        }
+    }
+}

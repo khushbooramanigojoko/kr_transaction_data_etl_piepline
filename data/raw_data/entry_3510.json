@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Brock",
+        "age": 53,
+        "gender": "male",
+        "address": "83545 Rogers Inlet, Nguyenport, DE 82006",
+        "phone": "+1-388-959-8927",
+        "email": "gmunoz@example.org",
+        "account": {
+            "account_number": "51e04d31-faee-4b54-afee-ee51dd113723",
+            "balance": 25576.96,
+            "transactions": [
+                {
+                    "date": "2023-05-23",
+                    "description": "Withdrawal",
+                    "amount": 34540.12,
+                    "transaction_id": 54902610
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Interest",
+                    "amount": 36232.59,
+                    "transaction_id": 118139031
+                },
+                {
+                    "date": "2022-11-08",
+                    "description": "Deposit",
+                    "amount": 16374.59,
+                    "transaction_id": 42875206
+                },
+                {
+                    "date": "2024-03-31",
+                    "description": "Withdrawal",
+                    "amount": 11421.42,
+                    "transaction_id": 29022521
+                }
+            ]
+        }
+    }
+}

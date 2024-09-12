@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mark Barber",
+        "age": 93,
+        "gender": "male",
+        "address": "6032 Danielle Viaduct Suite 344, Elliottland, SD 68777",
+        "phone": "(677)299-5169x8595",
+        "email": "rgutierrez@example.net",
+        "account": {
+            "account_number": "79494320-9fed-43c2-96bb-a3f1e387e33f",
+            "balance": 19854.17,
+            "transactions": [
+                {
+                    "date": "2023-04-16",
+                    "description": "Withdrawal",
+                    "amount": 28180.3,
+                    "transaction_id": 91678292
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Withdrawal",
+                    "amount": 36526.72,
+                    "transaction_id": 116865913
+                }
+            ]
+        }
+    }
+}

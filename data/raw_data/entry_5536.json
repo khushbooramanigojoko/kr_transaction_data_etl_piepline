@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brian Morris",
+        "age": 86,
+        "gender": "female",
+        "address": "PSC 0595, Box 9962, APO AP 95981",
+        "phone": "704.697.9714x63897",
+        "email": "campbellemily@example.org",
+        "account": {
+            "account_number": "e24d9c70-1b1c-4104-9bca-7db49f2877e0",
+            "balance": 13000.09,
+            "transactions": [
+                {
+                    "date": "2024-05-15",
+                    "description": "Interest",
+                    "amount": 45071.01,
+                    "transaction_id": 96589824
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Withdrawal",
+                    "amount": 24157.56,
+                    "transaction_id": 88057459
+                },
+                {
+                    "date": "2024-02-03",
+                    "description": "Interest",
+                    "amount": 14196.53,
+                    "transaction_id": 20484285
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Interest",
+                    "amount": 14604.29,
+                    "transaction_id": 57624411
+                }
+            ]
+        }
+    }
+}

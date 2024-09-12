@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jessica Newton",
+        "age": 74,
+        "gender": "female",
+        "address": "0452 Martin Cliff, North Richard, VA 41736",
+        "phone": "+1-455-651-3365x42710",
+        "email": "gordonaustin@example.com",
+        "account": {
+            "account_number": "9ad88e1f-45fb-4946-a5f4-12d371ec12fb",
+            "balance": 6224.83,
+            "transactions": [
+                {
+                    "date": "2024-08-30",
+                    "description": "Withdrawal",
+                    "amount": 19897.27,
+                    "transaction_id": 35744598
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Withdrawal",
+                    "amount": 44148.53,
+                    "transaction_id": 30410811
+                }
+            ]
+        }
+    }
+}

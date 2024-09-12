@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Isabella Koch",
+        "age": 29,
+        "gender": "female",
+        "address": "58793 Curtis Islands, North Barbara, DE 77603",
+        "phone": "666.719.0043",
+        "email": "joshuasanders@example.com",
+        "account": {
+            "account_number": "8eff95f2-6ede-4f0a-918b-90a149de5475",
+            "balance": -16711.96,
+            "transactions": [
+                {
+                    "date": "2024-08-01",
+                    "description": "Deposit",
+                    "amount": -1575.87,
+                    "transaction_id": 4343933
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Withdrawal",
+                    "amount": -827.79,
+                    "transaction_id": 52647823
+                }
+            ]
+        }
+    }
+}

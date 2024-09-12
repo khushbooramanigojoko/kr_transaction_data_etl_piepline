@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Quinn",
+        "age": 76,
+        "gender": "male",
+        "address": "4696 Jenny Plaza Apt. 560, Andreastad, FM 53171",
+        "phone": "+1-876-925-9879",
+        "email": "stephanie73@example.net",
+        "account": {
+            "account_number": "b72d7e71-7e5a-4a01-aa9f-d81d6b5a4a15",
+            "balance": 41849.74,
+            "transactions": [
+                {
+                    "date": "2023-11-20",
+                    "description": "Deposit",
+                    "amount": 33187.34,
+                    "transaction_id": 23563593
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Withdrawal",
+                    "amount": 41870.12,
+                    "transaction_id": 21757391
+                },
+                {
+                    "date": "2023-02-21",
+                    "description": "Withdrawal",
+                    "amount": 34607.34,
+                    "transaction_id": 61298664
+                },
+                {
+                    "date": "2023-02-21",
+                    "description": "Interest",
+                    "amount": 38406.0,
+                    "transaction_id": 107947315
+                },
+                {
+                    "date": "2023-07-25",
+                    "description": "Interest",
+                    "amount": 34545.49,
+                    "transaction_id": 32864885
+                }
+            ]
+        }
+    }
+}

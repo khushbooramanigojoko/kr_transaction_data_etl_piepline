@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Robert Mitchell",
+        "age": 74,
+        "gender": "male",
+        "address": "78028 Victor Stream, North Lorimouth, ID 20783",
+        "phone": "520.923.0841x128",
+        "email": "mary04@example.org",
+        "account": {
+            "account_number": "c03ebc70-fd7b-4a88-a843-f4037d1137fd",
+            "balance": 5396.07,
+            "transactions": [
+                {
+                    "date": "2022-09-10",
+                    "description": "Deposit",
+                    "amount": 32615.15,
+                    "transaction_id": 46796936
+                },
+                {
+                    "date": "2023-02-13",
+                    "description": "Deposit",
+                    "amount": 37827.31,
+                    "transaction_id": 119823794
+                }
+            ]
+        }
+    }
+}

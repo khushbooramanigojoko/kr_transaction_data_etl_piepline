@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Annette Villegas",
+        "age": 19,
+        "gender": "male",
+        "address": "91283 Patrick Turnpike, East Trevor, DE 06476",
+        "phone": "(303)814-0049x678",
+        "email": "peggyrojas@example.org",
+        "account": {
+            "account_number": "0f276d1d-105f-4797-9781-8be00bff7e06",
+            "balance": 18335.76,
+            "transactions": [
+                {
+                    "date": "2023-12-28",
+                    "description": "Deposit",
+                    "amount": 46764.5,
+                    "transaction_id": 91094949
+                },
+                {
+                    "date": "2022-12-04",
+                    "description": "Interest",
+                    "amount": 2396.39,
+                    "transaction_id": 18589219
+                },
+                {
+                    "date": "2023-05-07",
+                    "description": "Withdrawal",
+                    "amount": 37585.48,
+                    "transaction_id": 83425018
+                },
+                {
+                    "date": "2024-04-25",
+                    "description": "Withdrawal",
+                    "amount": 49276.99,
+                    "transaction_id": 110205093
+                }
+            ]
+        }
+    }
+}

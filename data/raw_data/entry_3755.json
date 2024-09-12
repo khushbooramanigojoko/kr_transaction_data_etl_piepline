@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Katelyn Bautista",
+        "age": 72,
+        "gender": "male",
+        "address": "463 Gabrielle Via, East Tony, OR 17397",
+        "phone": "2649411973",
+        "email": "slopez@example.com",
+        "account": {
+            "account_number": "ee317416-dd0b-4a72-b2f2-e651925b55f7",
+            "balance": 14001.24,
+            "transactions": [
+                {
+                    "date": "2022-10-26",
+                    "description": "Deposit",
+                    "amount": 12384.26,
+                    "transaction_id": 100801646
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Withdrawal",
+                    "amount": 10399.25,
+                    "transaction_id": 17830167
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kaitlyn Daugherty",
+        "age": 45,
+        "gender": "male",
+        "address": "266 Darrell Groves, Lake Stephaniefort, GA 84948",
+        "phone": "(710)652-0655x246",
+        "email": "byrdheather@example.org",
+        "account": {
+            "account_number": "578cdbe0-21fd-4844-b0c7-affa93ff6bb5",
+            "balance": 39730.26,
+            "transactions": [
+                {
+                    "date": "2022-12-17",
+                    "description": "Interest",
+                    "amount": 25405.41,
+                    "transaction_id": 66300814
+                }
+            ]
+        }
+    }
+}

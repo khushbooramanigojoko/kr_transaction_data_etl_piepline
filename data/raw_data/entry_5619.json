@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Anita Stanton",
+        "age": 43,
+        "gender": "male",
+        "address": "736 Fitzgerald Path Apt. 480, Port Debra, DE 34950",
+        "phone": "836.938.1487x9936",
+        "email": "fhoover@example.com",
+        "account": {
+            "account_number": "9c4c211f-dd3b-44c6-a8a9-9e96f34cf9fb",
+            "balance": 13132.61,
+            "transactions": [
+                {
+                    "date": "2023-02-03",
+                    "description": "Withdrawal",
+                    "amount": 35753.39,
+                    "transaction_id": 61449307
+                }
+            ]
+        }
+    }
+}

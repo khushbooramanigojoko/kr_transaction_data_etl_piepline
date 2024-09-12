@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kelsey Payne",
+        "age": 59,
+        "gender": "female",
+        "address": "623 Vaughan Circles, Wilkinsport, CO 47319",
+        "phone": "001-445-917-9902x8758",
+        "email": "usmith@example.net",
+        "account": {
+            "account_number": "7d88368e-14d4-4b41-b116-3b06d740a4d7",
+            "balance": 16585.76,
+            "transactions": [
+                {
+                    "date": "2024-04-14",
+                    "description": "Deposit",
+                    "amount": 8132.31,
+                    "transaction_id": 56705493
+                },
+                {
+                    "date": "2022-09-06",
+                    "description": "Interest",
+                    "amount": 7825.98,
+                    "transaction_id": 4623599
+                },
+                {
+                    "date": "2022-12-09",
+                    "description": "Interest",
+                    "amount": 43450.17,
+                    "transaction_id": 109664540
+                },
+                {
+                    "date": "2022-09-28",
+                    "description": "Deposit",
+                    "amount": 2196.97,
+                    "transaction_id": 98152806
+                }
+            ]
+        }
+    }
+}

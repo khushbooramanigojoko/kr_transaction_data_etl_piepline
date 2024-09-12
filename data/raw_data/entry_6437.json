@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dr. Angela Fitzgerald",
+        "age": 42,
+        "gender": "female",
+        "address": "PSC 8304, Box 8521, APO AP 27951",
+        "phone": "(289)795-6863x7547",
+        "email": "brianmoss@example.org",
+        "account": {
+            "account_number": "926245f0-d493-4c23-9695-5dc3a3d9f8ff",
+            "balance": 7216.32,
+            "transactions": [
+                {
+                    "date": "2023-04-18",
+                    "description": "Withdrawal",
+                    "amount": 20987.72,
+                    "transaction_id": 65297242
+                },
+                {
+                    "date": "2024-04-23",
+                    "description": "Deposit",
+                    "amount": 3799.06,
+                    "transaction_id": 103257610
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Interest",
+                    "amount": 44802.75,
+                    "transaction_id": 10208457
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Withdrawal",
+                    "amount": 42246.98,
+                    "transaction_id": 69074973
+                },
+                {
+                    "date": "2023-12-31",
+                    "description": "Withdrawal",
+                    "amount": 44445.85,
+                    "transaction_id": 104187436
+                }
+            ]
+        }
+    }
+}

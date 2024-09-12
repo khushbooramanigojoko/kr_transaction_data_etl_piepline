@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brian Duncan",
+        "age": 52,
+        "gender": "male",
+        "address": "59521 Sharon Mission Apt. 021, Jonesmouth, SC 21997",
+        "phone": "+1-511-828-0947x037",
+        "email": "mcculloughnatasha@example.com",
+        "account": {
+            "account_number": "e1a88ede-4f99-43aa-ba25-3db667eb1989",
+            "balance": 41037.97,
+            "transactions": [
+                {
+                    "date": "2023-05-21",
+                    "description": "Deposit",
+                    "amount": 19423.44,
+                    "transaction_id": 68143922
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Amanda Barnes",
+        "age": 20,
+        "gender": "male",
+        "address": "USS Johnson, FPO AE 41297",
+        "phone": "+1-587-828-5653x612",
+        "email": "gallagherchristina@example.org",
+        "account": {
+            "account_number": "bd868b43-df8c-4098-88e5-4f642d0edf5d",
+            "balance": 28404.38,
+            "transactions": [
+                {
+                    "date": "2023-07-28",
+                    "description": "Withdrawal",
+                    "amount": 10554.84,
+                    "transaction_id": 31718699
+                },
+                {
+                    "date": "2023-05-25",
+                    "description": "Interest",
+                    "amount": 29409.85,
+                    "transaction_id": 113813052
+                },
+                {
+                    "date": "2023-01-15",
+                    "description": "Deposit",
+                    "amount": 21844.2,
+                    "transaction_id": 6641067
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Deposit",
+                    "amount": 25098.84,
+                    "transaction_id": 106101491
+                },
+                {
+                    "date": "2023-03-24",
+                    "description": "Withdrawal",
+                    "amount": 23963.42,
+                    "transaction_id": 96374522
+                }
+            ]
+        }
+    }
+}

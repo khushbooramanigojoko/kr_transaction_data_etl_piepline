@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ms. Helen Smith",
+        "age": 63,
+        "gender": "female",
+        "address": "0045 Jessica Trace Apt. 751, West David, SC 01115",
+        "phone": "279-650-9350x67333",
+        "email": "perkinslaura@example.net",
+        "account": {
+            "account_number": "7140d7ba-74b7-43c1-92f4-7b8f15fe5a06",
+            "balance": 8708.06,
+            "transactions": [
+                {
+                    "date": "2022-11-29",
+                    "description": "Deposit",
+                    "amount": 45845.08,
+                    "transaction_id": 104173869
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Withdrawal",
+                    "amount": 17318.94,
+                    "transaction_id": 104092250
+                }
+            ]
+        }
+    }
+}

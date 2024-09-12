@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joseph Harris",
+        "age": 24,
+        "gender": "male",
+        "address": "PSC 7004, Box 0969, APO AP 17829",
+        "phone": "(932)861-7484x812",
+        "email": "jonestonya@example.net",
+        "account": {
+            "account_number": "cfef387a-89a3-4432-8d5a-9f5d74cb7f85",
+            "balance": -34853.08,
+            "transactions": [
+                {
+                    "date": "2023-11-26",
+                    "description": "Deposit",
+                    "amount": -1222.85,
+                    "transaction_id": 77689862
+                },
+                {
+                    "date": "2023-03-29",
+                    "description": "Withdrawal",
+                    "amount": 2530.07,
+                    "transaction_id": 48183861
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Withdrawal",
+                    "amount": 2373.0,
+                    "transaction_id": 88396795
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Interest",
+                    "amount": -260.6,
+                    "transaction_id": 84449537
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Interest",
+                    "amount": 3750.42,
+                    "transaction_id": 68998560
+                }
+            ]
+        }
+    }
+}

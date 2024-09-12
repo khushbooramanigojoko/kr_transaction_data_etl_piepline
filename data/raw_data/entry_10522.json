@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Victoria Marsh",
+        "age": 95,
+        "gender": "male",
+        "address": "82152 Martinez Radial Suite 413, Montgomeryport, NC 24264",
+        "phone": "772.610.7620",
+        "email": "jasondyer@example.org",
+        "account": {
+            "account_number": "1180257d-5c1a-4f36-9616-4f36fb99ab2c",
+            "balance": -36353.27,
+            "transactions": [
+                {
+                    "date": "2022-11-03",
+                    "description": "Interest",
+                    "amount": 1320.91,
+                    "transaction_id": 39524152
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Withdrawal",
+                    "amount": 3371.68,
+                    "transaction_id": 111268926
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Interest",
+                    "amount": -1384.78,
+                    "transaction_id": 25077596
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Interest",
+                    "amount": 2853.74,
+                    "transaction_id": 56414074
+                },
+                {
+                    "date": "2023-12-10",
+                    "description": "Deposit",
+                    "amount": 3374.28,
+                    "transaction_id": 20605450
+                }
+            ]
+        }
+    }
+}

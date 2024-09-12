@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Misty Soto",
+        "age": 62,
+        "gender": "male",
+        "address": "17589 Brandy Gateway Suite 655, East Carolineberg, NY 74035",
+        "phone": "559.254.2165x57535",
+        "email": "matthewbruce@example.org",
+        "account": {
+            "account_number": "731f174b-7fd7-4a13-8570-0f2c65710b7e",
+            "balance": -30659.05,
+            "transactions": [
+                {
+                    "date": "2024-08-13",
+                    "description": "Interest",
+                    "amount": 281.29,
+                    "transaction_id": 47977171
+                },
+                {
+                    "date": "2022-12-10",
+                    "description": "Deposit",
+                    "amount": -3377.54,
+                    "transaction_id": 56506913
+                },
+                {
+                    "date": "2023-10-01",
+                    "description": "Withdrawal",
+                    "amount": -4319.95,
+                    "transaction_id": 91575198
+                }
+            ]
+        }
+    }
+}

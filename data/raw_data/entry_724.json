@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Susan Delgado",
+        "age": 90,
+        "gender": "male",
+        "address": "752 Combs Viaduct, Lisaland, ID 31612",
+        "phone": "+1-749-708-3687x418",
+        "email": "samanthahernandez@example.com",
+        "account": {
+            "account_number": "eab0b8b1-20c9-4e1b-93e8-68dfee861a89",
+            "balance": 6665.68,
+            "transactions": [
+                {
+                    "date": "2024-04-21",
+                    "description": "Interest",
+                    "amount": 2111.1,
+                    "transaction_id": 74109927
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Interest",
+                    "amount": 6927.25,
+                    "transaction_id": 83499059
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Deposit",
+                    "amount": 6186.05,
+                    "transaction_id": 78196534
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Interest",
+                    "amount": 45629.2,
+                    "transaction_id": 93431774
+                },
+                {
+                    "date": "2022-12-03",
+                    "description": "Withdrawal",
+                    "amount": 35457.38,
+                    "transaction_id": 42831402
+                }
+            ]
+        }
+    }
+}

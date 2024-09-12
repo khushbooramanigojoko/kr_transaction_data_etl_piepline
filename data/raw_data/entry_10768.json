@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Billy Snyder",
+        "age": 92,
+        "gender": "female",
+        "address": "59519 Pamela Corners Apt. 013, South Samuel, CA 00604",
+        "phone": "001-422-592-5937x1606",
+        "email": "jeremy13@example.org",
+        "account": {
+            "account_number": "72bdcfd1-d9d2-43b5-9479-47a4598b8e1a",
+            "balance": -12316.16,
+            "transactions": [
+                {
+                    "date": "2023-03-19",
+                    "description": "Withdrawal",
+                    "amount": 839.19,
+                    "transaction_id": 28722729
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Withdrawal",
+                    "amount": -3146.85,
+                    "transaction_id": 86923547
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Interest",
+                    "amount": -2372.33,
+                    "transaction_id": 95821500
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Withdrawal",
+                    "amount": 1633.07,
+                    "transaction_id": 72524701
+                }
+            ]
+        }
+    }
+}

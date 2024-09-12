@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Paul Mcguire",
+        "age": 57,
+        "gender": "female",
+        "address": "USS Rosales, FPO AP 23736",
+        "phone": "(238)971-3116x93931",
+        "email": "allendavid@example.net",
+        "account": {
+            "account_number": "846ebf79-2fac-4add-a74f-ccb7942b0456",
+            "balance": 7797.72,
+            "transactions": [
+                {
+                    "date": "2024-05-04",
+                    "description": "Withdrawal",
+                    "amount": 23599.65,
+                    "transaction_id": 103059376
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Deposit",
+                    "amount": 5670.82,
+                    "transaction_id": 76840108
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Deposit",
+                    "amount": 36299.07,
+                    "transaction_id": 103759104
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Withdrawal",
+                    "amount": 4445.0,
+                    "transaction_id": 110885013
+                }
+            ]
+        }
+    }
+}

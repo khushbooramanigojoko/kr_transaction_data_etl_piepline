@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 35,
+        "gender": "male",
+        "address": "6065 Amy Crest, West Nicolemouth, NC 29590",
+        "phone": "001-281-457-9074x0554",
+        "email": "jared84@example.com",
+        "account": {
+            "account_number": "e3229621-2b50-4fe6-a5d9-a6c5be7c7ec6",
+            "balance": 32452.44,
+            "transactions": [
+                {
+                    "date": "2024-06-05",
+                    "description": "Withdrawal",
+                    "amount": -1535.03,
+                    "transaction_id": 77378707
+                },
+                {
+                    "date": "2023-07-12",
+                    "description": "Deposit",
+                    "amount": -3823.1,
+                    "transaction_id": 58919123
+                }
+            ]
+        }
+    }
+}

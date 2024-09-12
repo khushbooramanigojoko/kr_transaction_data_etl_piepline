@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kimberly Wiggins",
+        "age": 75,
+        "gender": "female",
+        "address": "211 Garcia Spur, Abigailfort, TN 33758",
+        "phone": "512-546-7309",
+        "email": "mrobinson@example.com",
+        "account": {
+            "account_number": "8fabf6e7-d50a-4545-8c8c-4c6f485e9b28",
+            "balance": 15241.76,
+            "transactions": [
+                {
+                    "date": "2024-06-01",
+                    "description": "Withdrawal",
+                    "amount": 1819.89,
+                    "transaction_id": 14296581
+                },
+                {
+                    "date": "2023-02-26",
+                    "description": "Interest",
+                    "amount": 49202.14,
+                    "transaction_id": 67601833
+                }
+            ]
+        }
+    }
+}

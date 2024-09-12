@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Emily Savage",
+        "age": 95,
+        "gender": "male",
+        "address": "67982 Oconnor Dam, Clayland, ND 37891",
+        "phone": "8245792897",
+        "email": "samueljones@example.org",
+        "account": {
+            "account_number": "150b5cfb-8b6b-466e-a13e-cdce9024c1d3",
+            "balance": -11711.94,
+            "transactions": [
+                {
+                    "date": "2022-10-10",
+                    "description": "Withdrawal",
+                    "amount": 865.35,
+                    "transaction_id": 44706622
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Interest",
+                    "amount": -4197.1,
+                    "transaction_id": 62652005
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Deposit",
+                    "amount": 1832.3,
+                    "transaction_id": 6155707
+                },
+                {
+                    "date": "2023-05-16",
+                    "description": "Interest",
+                    "amount": -2670.9,
+                    "transaction_id": 40797303
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Interest",
+                    "amount": 4833.91,
+                    "transaction_id": 110551878
+                }
+            ]
+        }
+    }
+}

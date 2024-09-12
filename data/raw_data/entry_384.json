@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jordan Scott",
+        "age": 59,
+        "gender": "female",
+        "address": "86281 Robert Alley, Matthewchester, NV 26923",
+        "phone": "302.319.3805",
+        "email": "kmartinez@example.com",
+        "account": {
+            "account_number": "406a4443-1d95-4e93-8b2d-b3dc565b86a9",
+            "balance": 20090.83,
+            "transactions": [
+                {
+                    "date": "2024-07-09",
+                    "description": "Deposit",
+                    "amount": 28430.86,
+                    "transaction_id": 30585941
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Interest",
+                    "amount": 40390.02,
+                    "transaction_id": 106446063
+                },
+                {
+                    "date": "2023-01-24",
+                    "description": "Withdrawal",
+                    "amount": 7743.13,
+                    "transaction_id": 55258546
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Withdrawal",
+                    "amount": 18861.33,
+                    "transaction_id": 111952164
+                }
+            ]
+        }
+    }
+}

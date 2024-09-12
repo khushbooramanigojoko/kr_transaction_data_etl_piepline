@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Matthew Hendrix",
+        "age": 73,
+        "gender": "male",
+        "address": "1820 Tara Burgs Suite 046, New Joshuaborough, MI 28959",
+        "phone": "(793)289-2258x5493",
+        "email": "hollywalsh@example.org",
+        "account": {
+            "account_number": "4df8c95d-c9b1-4828-8d42-b1e4815a3af4",
+            "balance": 4441.53,
+            "transactions": [
+                {
+                    "date": "2022-12-31",
+                    "description": "Withdrawal",
+                    "amount": 43007.91,
+                    "transaction_id": 86473669
+                },
+                {
+                    "date": "2023-10-20",
+                    "description": "Interest",
+                    "amount": 45858.21,
+                    "transaction_id": 39510995
+                }
+            ]
+        }
+    }
+}

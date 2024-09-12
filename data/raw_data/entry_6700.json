@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Katrina Bowen",
+        "age": 37,
+        "gender": "male",
+        "address": "204 Scott Forge, Kathrynchester, MI 44852",
+        "phone": "916.969.5577",
+        "email": "dowens@example.com",
+        "account": {
+            "account_number": "cb0dac4d-0ee6-4989-b9c1-27c51b93ab34",
+            "balance": 42395.68,
+            "transactions": [
+                {
+                    "date": "2024-04-18",
+                    "description": "Deposit",
+                    "amount": 21780.4,
+                    "transaction_id": 2770919
+                },
+                {
+                    "date": "2024-07-25",
+                    "description": "Interest",
+                    "amount": 2448.43,
+                    "transaction_id": 36234544
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Deposit",
+                    "amount": 1988.52,
+                    "transaction_id": 67455187
+                },
+                {
+                    "date": "2023-01-01",
+                    "description": "Interest",
+                    "amount": 49910.66,
+                    "transaction_id": 59943978
+                },
+                {
+                    "date": "2022-11-19",
+                    "description": "Withdrawal",
+                    "amount": 9070.98,
+                    "transaction_id": 110943919
+                }
+            ]
+        }
+    }
+}

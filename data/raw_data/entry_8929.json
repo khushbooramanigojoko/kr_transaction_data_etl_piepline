@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 24,
+        "gender": "female",
+        "address": "5652 Roy Locks Apt. 869, Connerside, AL 63412",
+        "phone": "287.214.8784x0654",
+        "email": "michelle05@example.org",
+        "account": {
+            "account_number": "5ec2f2d4-c153-49c3-8014-c757fb5a593e",
+            "balance": 43853.33,
+            "transactions": [
+                {
+                    "date": "2023-05-31",
+                    "description": "Interest",
+                    "amount": -4142.49,
+                    "transaction_id": 30600186
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Interest",
+                    "amount": 4672.78,
+                    "transaction_id": 114815375
+                },
+                {
+                    "date": "2022-11-04",
+                    "description": "Interest",
+                    "amount": -4738.87,
+                    "transaction_id": 15887466
+                },
+                {
+                    "date": "2023-04-04",
+                    "description": "Interest",
+                    "amount": 4840.37,
+                    "transaction_id": 86025731
+                }
+            ]
+        }
+    }
+}

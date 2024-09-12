@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Lisa Lindsey",
+        "age": 22,
+        "gender": "female",
+        "address": "528 Sullivan Pike, East Monica, PW 17055",
+        "phone": "(545)446-2938",
+        "email": "daniel12@example.org",
+        "account": {
+            "account_number": "47c80e5b-2e4e-4358-b133-c9e5223042bb",
+            "balance": -48133.03,
+            "transactions": [
+                {
+                    "date": "2023-10-20",
+                    "description": "Withdrawal",
+                    "amount": 3212.92,
+                    "transaction_id": 63080321
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Interest",
+                    "amount": 3985.25,
+                    "transaction_id": 19651591
+                },
+                {
+                    "date": "2024-07-23",
+                    "description": "Interest",
+                    "amount": 1231.81,
+                    "transaction_id": 15916739
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Withdrawal",
+                    "amount": 2262.47,
+                    "transaction_id": 60296587
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Withdrawal",
+                    "amount": 3381.34,
+                    "transaction_id": 44373839
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Danielle Mercer",
+        "age": 56,
+        "gender": "female",
+        "address": "2074 Crane Via Apt. 001, West Harry, OK 49550",
+        "phone": "509.375.1016",
+        "email": "bethcampbell@example.org",
+        "account": {
+            "account_number": "981967bf-7ed3-4c9c-b580-77f1085901c8",
+            "balance": 4488.38,
+            "transactions": [
+                {
+                    "date": "2022-10-24",
+                    "description": "Deposit",
+                    "amount": 23677.32,
+                    "transaction_id": 73071093
+                },
+                {
+                    "date": "2024-04-01",
+                    "description": "Interest",
+                    "amount": 48582.78,
+                    "transaction_id": 112575046
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Withdrawal",
+                    "amount": 39086.98,
+                    "transaction_id": 69271076
+                }
+            ]
+        }
+    }
+}

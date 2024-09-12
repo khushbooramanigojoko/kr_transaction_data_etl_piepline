@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Chase Murray",
+        "age": 31,
+        "gender": "male",
+        "address": "567 Anthony Plaza Suite 307, Mitchellville, WA 03427",
+        "phone": "(987)395-2059",
+        "email": "etorres@example.org",
+        "account": {
+            "account_number": "1bfea0f3-55ae-4400-ac3a-3fbf6105d264",
+            "balance": 1945.59,
+            "transactions": [
+                {
+                    "date": "2023-05-28",
+                    "description": "Withdrawal",
+                    "amount": 45641.28,
+                    "transaction_id": 15207840
+                },
+                {
+                    "date": "2023-03-29",
+                    "description": "Interest",
+                    "amount": 42281.3,
+                    "transaction_id": 86993882
+                }
+            ]
+        }
+    }
+}

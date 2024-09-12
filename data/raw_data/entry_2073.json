@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mark Watkins",
+        "age": 30,
+        "gender": "male",
+        "address": "6259 Kathryn Plains, Bradleystad, FL 68982",
+        "phone": "001-644-549-8467x433",
+        "email": "michaelpetersen@example.org",
+        "account": {
+            "account_number": "372940c8-889a-420e-895e-c72392106a74",
+            "balance": 35398.53,
+            "transactions": [
+                {
+                    "date": "2023-11-08",
+                    "description": "Interest",
+                    "amount": 19961.49,
+                    "transaction_id": 13307644
+                },
+                {
+                    "date": "2023-05-19",
+                    "description": "Interest",
+                    "amount": 16172.38,
+                    "transaction_id": 113467727
+                },
+                {
+                    "date": "2023-01-27",
+                    "description": "Interest",
+                    "amount": 24627.59,
+                    "transaction_id": 15179117
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Deposit",
+                    "amount": 27396.67,
+                    "transaction_id": 113644361
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Withdrawal",
+                    "amount": 4595.68,
+                    "transaction_id": 14155834
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Denise Riddle",
+        "age": 97,
+        "gender": "male",
+        "address": "17035 Tucker Station Apt. 774, Lake Johnchester, VT 30746",
+        "phone": "001-249-404-1594x341",
+        "email": "mmorrow@example.org",
+        "account": {
+            "account_number": "502b82c6-f105-4dbb-a74e-dae053878e3c",
+            "balance": 35923.76,
+            "transactions": [
+                {
+                    "date": "2023-07-06",
+                    "description": "Deposit",
+                    "amount": 35106.71,
+                    "transaction_id": 1029320
+                }
+            ]
+        }
+    }
+}

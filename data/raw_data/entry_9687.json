@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Vanessa Cabrera",
+        "age": 43,
+        "gender": "male",
+        "address": "1204 Eric Hill Apt. 973, East Samantha, MA 97247",
+        "phone": "+1-404-792-4495x8013",
+        "email": "marvinmorgan@example.com",
+        "account": {
+            "account_number": "909d7113-fd5e-4a30-9522-a9c9b175c281",
+            "balance": -22920.25,
+            "transactions": [
+                {
+                    "date": "2022-11-15",
+                    "description": "Withdrawal",
+                    "amount": -2812.3,
+                    "transaction_id": 110985744
+                },
+                {
+                    "date": "2024-06-03",
+                    "description": "Interest",
+                    "amount": -3518.39,
+                    "transaction_id": 102452704
+                },
+                {
+                    "date": "2024-01-27",
+                    "description": "Withdrawal",
+                    "amount": -887.75,
+                    "transaction_id": 107043315
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mallory Ward",
+        "age": 87,
+        "gender": "male",
+        "address": "3229 Friedman Square Apt. 626, Lake Peterport, MD 37129",
+        "phone": "+1-607-315-2121",
+        "email": "bradymelanie@example.org",
+        "account": {
+            "account_number": "1c30b57d-9d7a-4523-8ba2-3db76b94f61a",
+            "balance": 43145.29,
+            "transactions": [
+                {
+                    "date": "2024-07-14",
+                    "description": "Withdrawal",
+                    "amount": 37955.54,
+                    "transaction_id": 3009579
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Withdrawal",
+                    "amount": 7108.75,
+                    "transaction_id": 73987257
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Withdrawal",
+                    "amount": 8074.27,
+                    "transaction_id": 116245572
+                },
+                {
+                    "date": "2023-07-09",
+                    "description": "Deposit",
+                    "amount": 32530.23,
+                    "transaction_id": 64141243
+                }
+            ]
+        }
+    }
+}

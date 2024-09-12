@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kara Young",
+        "age": 80,
+        "gender": "female",
+        "address": "3216 Davila Flats Apt. 771, East Brenda, WY 85642",
+        "phone": "(788)997-2874x561",
+        "email": "rhondafields@example.com",
+        "account": {
+            "account_number": "e1169aa9-b189-435b-94fe-3b2ac0a8a7a2",
+            "balance": -29962.26,
+            "transactions": [
+                {
+                    "date": "2023-07-26",
+                    "description": "Deposit",
+                    "amount": -4792.26,
+                    "transaction_id": 33372312
+                },
+                {
+                    "date": "2024-02-02",
+                    "description": "Deposit",
+                    "amount": 3536.14,
+                    "transaction_id": 107797911
+                }
+            ]
+        }
+    }
+}

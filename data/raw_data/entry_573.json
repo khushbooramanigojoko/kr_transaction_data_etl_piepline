@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Erika Ellis",
+        "age": 36,
+        "gender": "female",
+        "address": "84067 Green Corners Suite 534, Huertamouth, ID 60052",
+        "phone": "4247795632",
+        "email": "paigeparks@example.net",
+        "account": {
+            "account_number": "f6627bb0-f650-44a1-8a2e-bf3fcae888f7",
+            "balance": 12686.62,
+            "transactions": [
+                {
+                    "date": "2022-10-05",
+                    "description": "Withdrawal",
+                    "amount": 12421.35,
+                    "transaction_id": 33826353
+                },
+                {
+                    "date": "2024-08-30",
+                    "description": "Interest",
+                    "amount": 11448.56,
+                    "transaction_id": 86976275
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Withdrawal",
+                    "amount": 32394.43,
+                    "transaction_id": 70190716
+                }
+            ]
+        }
+    }
+}

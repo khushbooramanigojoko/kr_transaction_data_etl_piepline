@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mr. Robert Johnson",
+        "age": 49,
+        "gender": "female",
+        "address": "USNS Lloyd, FPO AP 86314",
+        "phone": "238-578-2594x9490",
+        "email": "baileygabrielle@example.net",
+        "account": {
+            "account_number": "e4b50d1c-0761-48e6-ad69-847c2b99e429",
+            "balance": 11143.94,
+            "transactions": [
+                {
+                    "date": "2023-01-01",
+                    "description": "Interest",
+                    "amount": 1729.72,
+                    "transaction_id": 28147843
+                },
+                {
+                    "date": "2024-01-19",
+                    "description": "Deposit",
+                    "amount": 40858.56,
+                    "transaction_id": 45663870
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Withdrawal",
+                    "amount": 8330.57,
+                    "transaction_id": 117871900
+                },
+                {
+                    "date": "2023-02-25",
+                    "description": "Interest",
+                    "amount": 47436.93,
+                    "transaction_id": 53910464
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Withdrawal",
+                    "amount": 35720.22,
+                    "transaction_id": 2064873
+                }
+            ]
+        }
+    }
+}

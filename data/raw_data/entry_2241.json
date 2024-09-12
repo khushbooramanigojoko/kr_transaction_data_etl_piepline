@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Denise Franklin",
+        "age": 96,
+        "gender": "male",
+        "address": "2269 Collins Landing, Carlaborough, MT 76513",
+        "phone": "995-203-6198x4184",
+        "email": "anthonybell@example.net",
+        "account": {
+            "account_number": "5adb75fa-edf9-40f2-8da8-8d988e015e41",
+            "balance": 5596.21,
+            "transactions": [
+                {
+                    "date": "2024-03-31",
+                    "description": "Deposit",
+                    "amount": 29379.53,
+                    "transaction_id": 42408081
+                },
+                {
+                    "date": "2024-02-06",
+                    "description": "Deposit",
+                    "amount": 39867.61,
+                    "transaction_id": 17874661
+                },
+                {
+                    "date": "2023-05-21",
+                    "description": "Deposit",
+                    "amount": 7168.89,
+                    "transaction_id": 104343664
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Interest",
+                    "amount": 40250.42,
+                    "transaction_id": 19840332
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Withdrawal",
+                    "amount": 28994.2,
+                    "transaction_id": 24009570
+                }
+            ]
+        }
+    }
+}

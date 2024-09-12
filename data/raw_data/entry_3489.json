@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Weber",
+        "age": 26,
+        "gender": "male",
+        "address": "320 Baxter Forest Suite 598, Martinstad, WV 85530",
+        "phone": "(869)252-8796x365",
+        "email": "christopheroneal@example.net",
+        "account": {
+            "account_number": "9e45024b-258a-4f8d-a369-41efebf526b6",
+            "balance": 5906.23,
+            "transactions": [
+                {
+                    "date": "2023-12-03",
+                    "description": "Interest",
+                    "amount": 34306.56,
+                    "transaction_id": 54558475
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Deposit",
+                    "amount": 8737.38,
+                    "transaction_id": 61087870
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Deposit",
+                    "amount": 43017.94,
+                    "transaction_id": 59359501
+                },
+                {
+                    "date": "2024-05-05",
+                    "description": "Deposit",
+                    "amount": 20293.64,
+                    "transaction_id": 70797954
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Deposit",
+                    "amount": 7148.39,
+                    "transaction_id": 44702230
+                }
+            ]
+        }
+    }
+}

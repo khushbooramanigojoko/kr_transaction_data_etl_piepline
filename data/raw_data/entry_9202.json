@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Natalie Preston",
+        "age": 95,
+        "gender": "female",
+        "address": "050 Yang Heights, Lake Patricia, SD 89117",
+        "phone": "001-750-497-8328x35580",
+        "email": "michaelacervantes@example.com",
+        "account": {
+            "account_number": "373bb803-2280-4328-865f-aa02e7b6a92d",
+            "balance": -9377.06,
+            "transactions": [
+                {
+                    "date": "2024-03-08",
+                    "description": "Interest",
+                    "amount": 505.13,
+                    "transaction_id": 36771810
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Interest",
+                    "amount": 1189.1,
+                    "transaction_id": 29970891
+                },
+                {
+                    "date": "2024-01-30",
+                    "description": "Withdrawal",
+                    "amount": -4544.11,
+                    "transaction_id": 100367674
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Deposit",
+                    "amount": -4511.25,
+                    "transaction_id": 10185369
+                }
+            ]
+        }
+    }
+}

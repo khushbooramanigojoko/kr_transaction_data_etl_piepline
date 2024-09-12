@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Todd Chapman",
+        "age": 97,
+        "gender": "male",
+        "address": "803 Micheal Park Apt. 510, Port Brianshire, IL 84938",
+        "phone": "+1-895-240-6469x7233",
+        "email": "yholden@example.net",
+        "account": {
+            "account_number": "0a2936d7-67bd-4aaf-bc86-dc614baed75b",
+            "balance": 26004.87,
+            "transactions": [
+                {
+                    "date": "2023-07-30",
+                    "description": "Interest",
+                    "amount": 5126.44,
+                    "transaction_id": 119326522
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Interest",
+                    "amount": 26962.37,
+                    "transaction_id": 106575746
+                },
+                {
+                    "date": "2022-10-24",
+                    "description": "Withdrawal",
+                    "amount": 43562.5,
+                    "transaction_id": 73724757
+                },
+                {
+                    "date": "2023-12-12",
+                    "description": "Deposit",
+                    "amount": 32971.99,
+                    "transaction_id": 22757594
+                }
+            ]
+        }
+    }
+}

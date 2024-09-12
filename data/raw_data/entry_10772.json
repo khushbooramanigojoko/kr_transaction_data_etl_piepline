@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Samantha Miller",
+        "age": 71,
+        "gender": "female",
+        "address": "19451 Rogers Mills Suite 553, Walkerville, KS 58527",
+        "phone": "292.933.6865x9532",
+        "email": "rodriguezbrandon@example.net",
+        "account": {
+            "account_number": "6ebdccc6-15d6-4a46-a5ae-75394e43aad8",
+            "balance": -7991.72,
+            "transactions": [
+                {
+                    "date": "2022-12-05",
+                    "description": "Deposit",
+                    "amount": 1655.2,
+                    "transaction_id": 70046211
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Deposit",
+                    "amount": 703.52,
+                    "transaction_id": 105751244
+                },
+                {
+                    "date": "2023-05-07",
+                    "description": "Withdrawal",
+                    "amount": -3072.92,
+                    "transaction_id": 71926821
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Interest",
+                    "amount": 2156.71,
+                    "transaction_id": 34757187
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sheri Ruiz",
+        "age": 38,
+        "gender": "female",
+        "address": "36756 Davis Garden, Rebeccaburgh, IN 81975",
+        "phone": "+1-804-868-7034x884",
+        "email": "nblair@example.com",
+        "account": {
+            "account_number": "43eeecfe-7bac-4e2c-8695-242275a88faf",
+            "balance": 1566.96,
+            "transactions": [
+                {
+                    "date": "2024-05-16",
+                    "description": "Withdrawal",
+                    "amount": 43932.34,
+                    "transaction_id": 105138206
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Deposit",
+                    "amount": 31920.15,
+                    "transaction_id": 49300969
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Interest",
+                    "amount": 29526.46,
+                    "transaction_id": 116093343
+                }
+            ]
+        }
+    }
+}

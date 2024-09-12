@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ryan Porter",
+        "age": 88,
+        "gender": "male",
+        "address": "44563 Wilson Orchard Apt. 759, Michaelton, GA 56708",
+        "phone": "999-461-7329x38570",
+        "email": "ryanharvey@example.org",
+        "account": {
+            "account_number": "950ef238-7358-4f45-9e0a-13b318486003",
+            "balance": -29189.63,
+            "transactions": [
+                {
+                    "date": "2024-06-25",
+                    "description": "Interest",
+                    "amount": 3283.18,
+                    "transaction_id": 95428211
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Interest",
+                    "amount": 4733.52,
+                    "transaction_id": 61803132
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Interest",
+                    "amount": -3682.11,
+                    "transaction_id": 109270737
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Withdrawal",
+                    "amount": 193.34,
+                    "transaction_id": 39215878
+                }
+            ]
+        }
+    }
+}

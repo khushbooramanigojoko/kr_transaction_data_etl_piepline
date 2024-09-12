@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Elizabeth Benjamin",
+        "age": 50,
+        "gender": "male",
+        "address": "152 Bright Overpass Apt. 455, North Kristinborough, LA 86909",
+        "phone": "(592)608-0795x21344",
+        "email": "todddavis@example.net",
+        "account": {
+            "account_number": "ea208027-7f65-4833-bc24-96743a73bf28",
+            "balance": 9622.61,
+            "transactions": [
+                {
+                    "date": "2023-02-27",
+                    "description": "Withdrawal",
+                    "amount": 42999.02,
+                    "transaction_id": 76836869
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Interest",
+                    "amount": 48513.24,
+                    "transaction_id": 2740033
+                }
+            ]
+        }
+    }
+}

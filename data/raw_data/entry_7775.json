@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Christopher Nelson",
+        "age": 28,
+        "gender": "female",
+        "address": "32904 Thompson Trail, North Heather, MS 17915",
+        "phone": "8547625806",
+        "email": "samanthasmith@example.com",
+        "account": {
+            "account_number": "1306ac6a-df05-41aa-8471-9db5462f6fce",
+            "balance": 4184.68,
+            "transactions": [
+                {
+                    "date": "2022-09-27",
+                    "description": "Withdrawal",
+                    "amount": 44365.79,
+                    "transaction_id": 61082974
+                },
+                {
+                    "date": "2023-06-09",
+                    "description": "Withdrawal",
+                    "amount": 47994.72,
+                    "transaction_id": 21266824
+                },
+                {
+                    "date": "2023-01-22",
+                    "description": "Withdrawal",
+                    "amount": 4502.91,
+                    "transaction_id": 96779918
+                }
+            ]
+        }
+    }
+}

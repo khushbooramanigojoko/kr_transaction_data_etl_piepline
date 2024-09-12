@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Meghan Carter",
+        "age": 73,
+        "gender": "female",
+        "address": "55696 Rebecca Brooks Apt. 191, Sandrachester, PW 38425",
+        "phone": "5943786665",
+        "email": "swalsh@example.org",
+        "account": {
+            "account_number": "631e17e2-b39c-432b-93cb-8f7547c1fbcb",
+            "balance": -24089.34,
+            "transactions": [
+                {
+                    "date": "2023-05-23",
+                    "description": "Interest",
+                    "amount": 1101.71,
+                    "transaction_id": 62824646
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Deposit",
+                    "amount": -429.39,
+                    "transaction_id": 81458933
+                },
+                {
+                    "date": "2023-04-10",
+                    "description": "Interest",
+                    "amount": -604.9,
+                    "transaction_id": 84384983
+                },
+                {
+                    "date": "2024-04-24",
+                    "description": "Withdrawal",
+                    "amount": -3557.5,
+                    "transaction_id": 10058897
+                },
+                {
+                    "date": "2024-08-25",
+                    "description": "Withdrawal",
+                    "amount": 3275.25,
+                    "transaction_id": 44470617
+                }
+            ]
+        }
+    }
+}

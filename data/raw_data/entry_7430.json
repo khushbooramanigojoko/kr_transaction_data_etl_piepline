@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amber Jackson",
+        "age": 49,
+        "gender": "male",
+        "address": "612 Michael Fords Apt. 579, Lake Robert, IL 27853",
+        "phone": "831.546.9733x0447",
+        "email": "zponce@example.com",
+        "account": {
+            "account_number": "f13cb637-c470-4b9a-a1b2-c73f40f02be2",
+            "balance": 44156.95,
+            "transactions": [
+                {
+                    "date": "2024-07-24",
+                    "description": "Interest",
+                    "amount": 49552.22,
+                    "transaction_id": 56319446
+                }
+            ]
+        }
+    }
+}

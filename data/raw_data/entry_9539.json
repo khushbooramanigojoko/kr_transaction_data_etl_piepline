@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 60,
+        "gender": "female",
+        "address": "3516 Rubio Club Suite 814, West Joseph, UT 16871",
+        "phone": "843-254-9885x753",
+        "email": "dunlapmarcus@example.net",
+        "account": {
+            "account_number": "3eebccd8-3d7f-4d6a-92db-c575d997c67b",
+            "balance": 8758.12,
+            "transactions": [
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": -4713.18,
+                    "transaction_id": 26330454
+                },
+                {
+                    "date": "2024-02-13",
+                    "description": "Deposit",
+                    "amount": 3694.54,
+                    "transaction_id": 44791988
+                },
+                {
+                    "date": "2023-10-22",
+                    "description": "Deposit",
+                    "amount": 1406.47,
+                    "transaction_id": 88247039
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Deposit",
+                    "amount": -4789.28,
+                    "transaction_id": 87973115
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph Allen",
+        "age": 22,
+        "gender": "male",
+        "address": "6840 Megan Pass Apt. 896, Danielville, WV 51465",
+        "phone": "747-255-7563",
+        "email": "alexander62@example.net",
+        "account": {
+            "account_number": "ecfb3a38-6c1b-4cd8-9722-77836a81eebc",
+            "balance": -28392.8,
+            "transactions": [
+                {
+                    "date": "2023-11-26",
+                    "description": "Interest",
+                    "amount": -4515.85,
+                    "transaction_id": 81086628
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Interest",
+                    "amount": -1460.23,
+                    "transaction_id": 59126724
+                },
+                {
+                    "date": "2024-01-31",
+                    "description": "Withdrawal",
+                    "amount": -3243.05,
+                    "transaction_id": 16768076
+                },
+                {
+                    "date": "2023-08-25",
+                    "description": "Interest",
+                    "amount": -1916.35,
+                    "transaction_id": 15314445
+                }
+            ]
+        }
+    }
+}

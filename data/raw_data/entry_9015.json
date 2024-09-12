@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Melinda Williams",
+        "age": 41,
+        "gender": "male",
+        "address": "1839 Cheryl Mountain, West Larryville, GA 20414",
+        "phone": "+1-521-692-5262x3843",
+        "email": "tlopez@example.net",
+        "account": {
+            "account_number": "39cd3079-04af-4851-8eaa-b1142a71cb57",
+            "balance": -40543.74,
+            "transactions": [
+                {
+                    "date": "2024-02-08",
+                    "description": "Interest",
+                    "amount": 3101.5,
+                    "transaction_id": 44997656
+                },
+                {
+                    "date": "2024-05-03",
+                    "description": "Interest",
+                    "amount": 1149.29,
+                    "transaction_id": 27930743
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michelle Bass",
+        "age": 32,
+        "gender": "male",
+        "address": "1223 Amanda Vista, Michaelberg, AK 57515",
+        "phone": "001-874-916-2042x49813",
+        "email": "josephpadilla@example.com",
+        "account": {
+            "account_number": "54ece6a6-92c3-438d-89da-7112b7fa21ad",
+            "balance": 4324.05,
+            "transactions": [
+                {
+                    "date": "2024-08-07",
+                    "description": "Withdrawal",
+                    "amount": 8848.99,
+                    "transaction_id": 74021659
+                },
+                {
+                    "date": "2024-03-19",
+                    "description": "Deposit",
+                    "amount": 20073.38,
+                    "transaction_id": 72508741
+                },
+                {
+                    "date": "2024-02-19",
+                    "description": "Withdrawal",
+                    "amount": 37158.61,
+                    "transaction_id": 25661895
+                },
+                {
+                    "date": "2024-07-18",
+                    "description": "Deposit",
+                    "amount": 15452.13,
+                    "transaction_id": 25982418
+                },
+                {
+                    "date": "2023-08-03",
+                    "description": "Withdrawal",
+                    "amount": 9811.73,
+                    "transaction_id": 33394959
+                }
+            ]
+        }
+    }
+}

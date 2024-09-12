@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Stephen Green",
+        "age": 65,
+        "gender": "male",
+        "address": "158 Davis Bypass Apt. 174, North Scottland, AS 54744",
+        "phone": "837.429.5530",
+        "email": "arroyodominique@example.net",
+        "account": {
+            "account_number": "99e704f5-0ba0-4ecc-8454-a09cb570f75f",
+            "balance": 21103.78,
+            "transactions": [
+                {
+                    "date": "2023-09-25",
+                    "description": "Interest",
+                    "amount": 23308.4,
+                    "transaction_id": 11152917
+                },
+                {
+                    "date": "2024-05-26",
+                    "description": "Withdrawal",
+                    "amount": 35980.72,
+                    "transaction_id": 78912414
+                },
+                {
+                    "date": "2023-09-20",
+                    "description": "Interest",
+                    "amount": 42413.15,
+                    "transaction_id": 44272842
+                }
+            ]
+        }
+    }
+}

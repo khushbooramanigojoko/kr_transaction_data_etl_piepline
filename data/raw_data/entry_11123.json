@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael King",
+        "age": 81,
+        "gender": "female",
+        "address": "45004 Mikayla Loaf Suite 207, Robertofort, PW 83156",
+        "phone": "+1-433-230-1014x2385",
+        "email": "kcruz@example.com",
+        "account": {
+            "account_number": "8dab8873-5834-47f2-94a2-4a53f5ed5639",
+            "balance": -47092.02,
+            "transactions": [
+                {
+                    "date": "2023-09-14",
+                    "description": "Withdrawal",
+                    "amount": -4957.31,
+                    "transaction_id": 96469324
+                },
+                {
+                    "date": "2023-04-12",
+                    "description": "Interest",
+                    "amount": 4481.98,
+                    "transaction_id": 45311532
+                }
+            ]
+        }
+    }
+}

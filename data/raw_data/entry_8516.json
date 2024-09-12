@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Susan Erickson",
+        "age": 37,
+        "gender": "male",
+        "address": "2181 Emily Greens, South Paul, CA 70644",
+        "phone": "001-693-451-0291x892",
+        "email": "rstewart@example.org",
+        "account": {
+            "account_number": "7f54d70f-6b40-4cf0-9297-e4e59fc520d7",
+            "balance": 43594.96,
+            "transactions": [
+                {
+                    "date": "2024-06-18",
+                    "description": "Interest",
+                    "amount": 43455.18,
+                    "transaction_id": 13862641
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Deposit",
+                    "amount": 40599.83,
+                    "transaction_id": 46622790
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Withdrawal",
+                    "amount": 11439.44,
+                    "transaction_id": 97337785
+                },
+                {
+                    "date": "2024-06-10",
+                    "description": "Deposit",
+                    "amount": 31742.42,
+                    "transaction_id": 2656129
+                },
+                {
+                    "date": "2023-02-03",
+                    "description": "Withdrawal",
+                    "amount": 1282.84,
+                    "transaction_id": 63725417
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stacey Morris",
+        "age": 52,
+        "gender": "female",
+        "address": "33799 Carter Route Suite 985, Alexanderburgh, MS 05574",
+        "phone": "2734859776",
+        "email": "icalhoun@example.net",
+        "account": {
+            "account_number": "2ec8a25c-6ba8-4be0-af4a-00a8e5d50c48",
+            "balance": 39819.93,
+            "transactions": [
+                {
+                    "date": "2023-01-14",
+                    "description": "Interest",
+                    "amount": 1475.51,
+                    "transaction_id": 57679602
+                }
+            ]
+        }
+    }
+}

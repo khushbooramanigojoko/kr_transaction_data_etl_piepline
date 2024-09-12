@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jesse Jacobs",
+        "age": 25,
+        "gender": "female",
+        "address": "59209 John Greens Suite 713, East Travistown, UT 64203",
+        "phone": "(385)784-5905x6367",
+        "email": "angela91@example.org",
+        "account": {
+            "account_number": "fc43459e-0f1f-4ab2-9783-c0070ee3e93d",
+            "balance": -5322.27,
+            "transactions": [
+                {
+                    "date": "2022-11-08",
+                    "description": "Withdrawal",
+                    "amount": -4998.78,
+                    "transaction_id": 53833537
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Withdrawal",
+                    "amount": 3881.48,
+                    "transaction_id": 26040222
+                },
+                {
+                    "date": "2023-11-28",
+                    "description": "Withdrawal",
+                    "amount": -3728.07,
+                    "transaction_id": 15917236
+                },
+                {
+                    "date": "2023-06-20",
+                    "description": "Withdrawal",
+                    "amount": 2969.36,
+                    "transaction_id": 85485016
+                },
+                {
+                    "date": "2024-04-01",
+                    "description": "Deposit",
+                    "amount": 2005.84,
+                    "transaction_id": 101270515
+                }
+            ]
+        }
+    }
+}

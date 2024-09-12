@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kevin Nelson",
+        "age": 90,
+        "gender": "male",
+        "address": "4121 Davis Drives Suite 526, Thompsonview, AK 28002",
+        "phone": "(879)988-4042",
+        "email": "ambergrant@example.net",
+        "account": {
+            "account_number": "53409285-3453-4ff1-8956-bb6bed0ec652",
+            "balance": 38348.07,
+            "transactions": [
+                {
+                    "date": "2024-02-20",
+                    "description": "Deposit",
+                    "amount": 29243.81,
+                    "transaction_id": 40515971
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Withdrawal",
+                    "amount": 19799.42,
+                    "transaction_id": 52726078
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Peter Garcia",
+        "age": 69,
+        "gender": "male",
+        "address": "915 Smith Mount, Montgomerymouth, MD 88546",
+        "phone": "(279)879-9795x60888",
+        "email": "iwood@example.org",
+        "account": {
+            "account_number": "4481dca6-08da-4596-aaa3-dcfde128f17f",
+            "balance": 1418.01,
+            "transactions": [
+                {
+                    "date": "2023-05-24",
+                    "description": "Interest",
+                    "amount": 36683.15,
+                    "transaction_id": 108023442
+                }
+            ]
+        }
+    }
+}

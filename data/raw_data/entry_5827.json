@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Briana Lambert",
+        "age": 96,
+        "gender": "female",
+        "address": "013 Gibson Via Suite 227, Ernesthaven, FL 74501",
+        "phone": "941.556.9494",
+        "email": "margarethenderson@example.com",
+        "account": {
+            "account_number": "127aaaf3-8f77-4296-ae04-936da6f28bad",
+            "balance": 42075.09,
+            "transactions": [
+                {
+                    "date": "2023-01-09",
+                    "description": "Withdrawal",
+                    "amount": 40242.53,
+                    "transaction_id": 110087952
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Deposit",
+                    "amount": 43066.75,
+                    "transaction_id": 70818689
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Withdrawal",
+                    "amount": 28526.87,
+                    "transaction_id": 115938203
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Deposit",
+                    "amount": 36686.24,
+                    "transaction_id": 97698058
+                },
+                {
+                    "date": "2022-10-27",
+                    "description": "Withdrawal",
+                    "amount": 42475.03,
+                    "transaction_id": 70158480
+                }
+            ]
+        }
+    }
+}

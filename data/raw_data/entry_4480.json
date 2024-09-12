@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Roger Pierce",
+        "age": 82,
+        "gender": "female",
+        "address": "065 Gonzalez Unions, Lauraville, WV 89230",
+        "phone": "001-764-658-9878x87417",
+        "email": "manuel32@example.com",
+        "account": {
+            "account_number": "9813f660-c787-4dc7-91da-067688ee61d1",
+            "balance": 13478.97,
+            "transactions": [
+                {
+                    "date": "2023-08-17",
+                    "description": "Interest",
+                    "amount": 44347.45,
+                    "transaction_id": 35942353
+                },
+                {
+                    "date": "2022-12-26",
+                    "description": "Deposit",
+                    "amount": 2291.44,
+                    "transaction_id": 90953791
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Deposit",
+                    "amount": 28855.59,
+                    "transaction_id": 55747634
+                },
+                {
+                    "date": "2023-08-12",
+                    "description": "Withdrawal",
+                    "amount": 19282.86,
+                    "transaction_id": 84110793
+                }
+            ]
+        }
+    }
+}

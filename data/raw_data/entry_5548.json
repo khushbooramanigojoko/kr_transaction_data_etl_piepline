@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brent Schwartz",
+        "age": 53,
+        "gender": "male",
+        "address": "6634 Jacqueline Rue Suite 706, Port Sarah, MN 56281",
+        "phone": "001-384-619-7592x66577",
+        "email": "beardsamuel@example.net",
+        "account": {
+            "account_number": "eb741b2a-af7f-4017-99d6-a4a525639539",
+            "balance": 15454.46,
+            "transactions": [
+                {
+                    "date": "2023-07-19",
+                    "description": "Deposit",
+                    "amount": 153.14,
+                    "transaction_id": 20588703
+                },
+                {
+                    "date": "2023-03-11",
+                    "description": "Withdrawal",
+                    "amount": 29262.29,
+                    "transaction_id": 52018146
+                },
+                {
+                    "date": "2024-06-12",
+                    "description": "Deposit",
+                    "amount": 964.43,
+                    "transaction_id": 37983834
+                },
+                {
+                    "date": "2023-06-12",
+                    "description": "Deposit",
+                    "amount": 31522.27,
+                    "transaction_id": 5156285
+                }
+            ]
+        }
+    }
+}

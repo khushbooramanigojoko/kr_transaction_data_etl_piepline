@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 47,
+        "gender": "female",
+        "address": "78571 Beck Inlet, East Hector, ID 54717",
+        "phone": "803.554.9534x921",
+        "email": "brodriguez@example.net",
+        "account": {
+            "account_number": "aec2260f-5977-469e-80b9-0736c84cf6e0",
+            "balance": 21948.53,
+            "transactions": [
+                {
+                    "date": "2024-08-12",
+                    "description": "Deposit",
+                    "amount": -4209.92,
+                    "transaction_id": 52660461
+                },
+                {
+                    "date": "2023-07-13",
+                    "description": "Interest",
+                    "amount": 793.81,
+                    "transaction_id": 58215756
+                }
+            ]
+        }
+    }
+}

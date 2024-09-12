@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Edwin Johnston",
+        "age": 83,
+        "gender": "female",
+        "address": "94872 Roberts Hills Apt. 868, West Jacob, AL 35422",
+        "phone": "433-502-8549x8166",
+        "email": "rdavis@example.org",
+        "account": {
+            "account_number": "34bb68fd-f472-43ea-88ff-eb1f406fc3c2",
+            "balance": 41176.64,
+            "transactions": [
+                {
+                    "date": "2023-04-12",
+                    "description": "Withdrawal",
+                    "amount": 24104.08,
+                    "transaction_id": 22379503
+                },
+                {
+                    "date": "2022-10-27",
+                    "description": "Deposit",
+                    "amount": 37565.37,
+                    "transaction_id": 56961306
+                },
+                {
+                    "date": "2024-04-13",
+                    "description": "Interest",
+                    "amount": 11143.04,
+                    "transaction_id": 99181660
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Withdrawal",
+                    "amount": 41476.45,
+                    "transaction_id": 84506863
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sean Lopez",
+        "age": 38,
+        "gender": "female",
+        "address": "0648 Thomas Mission Suite 445, West Danielleberg, NY 30478",
+        "phone": "+1-791-737-7674x29108",
+        "email": "patrick03@example.com",
+        "account": {
+            "account_number": "157381f6-8bb8-46f1-a23e-c4a4f544995c",
+            "balance": 34374.97,
+            "transactions": [
+                {
+                    "date": "2023-01-07",
+                    "description": "Deposit",
+                    "amount": 6375.06,
+                    "transaction_id": 115543923
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Deposit",
+                    "amount": 21940.71,
+                    "transaction_id": 42218107
+                }
+            ]
+        }
+    }
+}

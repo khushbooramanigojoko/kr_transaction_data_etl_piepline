@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Terry Lester",
+        "age": 65,
+        "gender": "male",
+        "address": "USCGC Gould, FPO AA 01572",
+        "phone": "371-639-2467",
+        "email": "hokaren@example.net",
+        "account": {
+            "account_number": "b18f016a-af88-40ad-898c-ff8d712a141b",
+            "balance": 5391.33,
+            "transactions": [
+                {
+                    "date": "2023-06-11",
+                    "description": "Withdrawal",
+                    "amount": 1784.13,
+                    "transaction_id": 3180754
+                },
+                {
+                    "date": "2023-05-22",
+                    "description": "Interest",
+                    "amount": 33185.0,
+                    "transaction_id": 5822210
+                },
+                {
+                    "date": "2023-05-30",
+                    "description": "Deposit",
+                    "amount": 20992.46,
+                    "transaction_id": 73594989
+                }
+            ]
+        }
+    }
+}

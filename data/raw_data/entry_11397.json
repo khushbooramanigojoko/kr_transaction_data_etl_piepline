@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amanda Silva",
+        "age": 94,
+        "gender": "female",
+        "address": "366 Elizabeth Stravenue Suite 136, Connerberg, LA 24263",
+        "phone": "215-951-7138x5037",
+        "email": "ebrennan@example.org",
+        "account": {
+            "account_number": "eacef63e-fd0f-4db6-a1fc-83b4a193e4e3",
+            "balance": -35725.87,
+            "transactions": [
+                {
+                    "date": "2024-01-03",
+                    "description": "Withdrawal",
+                    "amount": 3416.84,
+                    "transaction_id": 68937911
+                }
+            ]
+        }
+    }
+}

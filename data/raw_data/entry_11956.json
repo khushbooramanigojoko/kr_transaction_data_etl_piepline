@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jessica Scott",
+        "age": 50,
+        "gender": "female",
+        "address": "575 Flores Road Suite 228, East Thomas, SD 20012",
+        "phone": "(889)519-0820x7251",
+        "email": "cferguson@example.org",
+        "account": {
+            "account_number": "0099785f-b42e-4aed-9d9a-6741a2567b5c",
+            "balance": 45838.46,
+            "transactions": [
+                {
+                    "date": "2024-01-08",
+                    "description": "Interest",
+                    "amount": 6001.88,
+                    "transaction_id": 67342844
+                },
+                {
+                    "date": "2023-07-22",
+                    "description": "Interest",
+                    "amount": 12234.94,
+                    "transaction_id": 38608480
+                }
+            ]
+        }
+    }
+}

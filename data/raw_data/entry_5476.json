@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Timothy Lucas",
+        "age": 39,
+        "gender": "female",
+        "address": "0692 Erica Rue Suite 422, Mayberg, DC 81498",
+        "phone": "(919)968-7497x6768",
+        "email": "tmurphy@example.org",
+        "account": {
+            "account_number": "e1bd65f2-f4a2-49df-b6a5-01488de15790",
+            "balance": 3795.46,
+            "transactions": [
+                {
+                    "date": "2024-08-12",
+                    "description": "Withdrawal",
+                    "amount": 41743.63,
+                    "transaction_id": 19138640
+                },
+                {
+                    "date": "2022-12-08",
+                    "description": "Deposit",
+                    "amount": 10565.59,
+                    "transaction_id": 87303254
+                }
+            ]
+        }
+    }
+}

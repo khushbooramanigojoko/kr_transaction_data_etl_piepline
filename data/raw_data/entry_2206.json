@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Madison Bennett",
+        "age": 59,
+        "gender": "male",
+        "address": "60924 Bobby Mills, Lyonshaven, NJ 79899",
+        "phone": "626.361.1568x5797",
+        "email": "hmorales@example.net",
+        "account": {
+            "account_number": "3e72bdc5-eda0-469f-a91b-f63d76705387",
+            "balance": 18542.38,
+            "transactions": [
+                {
+                    "date": "2023-01-03",
+                    "description": "Deposit",
+                    "amount": 38641.87,
+                    "transaction_id": 68841444
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Deposit",
+                    "amount": 16757.07,
+                    "transaction_id": 85124472
+                }
+            ]
+        }
+    }
+}

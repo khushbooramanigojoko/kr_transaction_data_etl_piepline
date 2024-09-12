@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "William Holloway",
+        "age": 70,
+        "gender": "male",
+        "address": "54325 Rice Station Apt. 501, North Susan, AK 83662",
+        "phone": "394-483-1815",
+        "email": "stacypatel@example.org",
+        "account": {
+            "account_number": "3b75e008-b378-4f63-b1ac-709cd025e6c1",
+            "balance": 43819.58,
+            "transactions": [
+                {
+                    "date": "2023-07-13",
+                    "description": "Interest",
+                    "amount": 34756.92,
+                    "transaction_id": 82092136
+                },
+                {
+                    "date": "2024-05-30",
+                    "description": "Interest",
+                    "amount": 784.95,
+                    "transaction_id": 80506727
+                }
+            ]
+        }
+    }
+}

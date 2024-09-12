@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 62,
+        "gender": "female",
+        "address": "Unit 0080 Box 8334, DPO AA 17835",
+        "phone": "641.770.0203",
+        "email": "glowery@example.com",
+        "account": {
+            "account_number": "e31ba37e-4403-44a9-ade3-bf3c4262a97f",
+            "balance": 31881.24,
+            "transactions": [
+                {
+                    "date": "2022-09-16",
+                    "description": "Withdrawal",
+                    "amount": 4112.33,
+                    "transaction_id": 46932996
+                }
+            ]
+        }
+    }
+}

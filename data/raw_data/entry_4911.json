@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Crystal Mccall",
+        "age": 18,
+        "gender": "male",
+        "address": "87477 Barbara Place Suite 521, New Veronica, OK 63462",
+        "phone": "418.238.6909",
+        "email": "walkerruben@example.org",
+        "account": {
+            "account_number": "99e44b67-9da3-44cc-b6ba-95732f8c8faf",
+            "balance": 26428.22,
+            "transactions": [
+                {
+                    "date": "2022-10-30",
+                    "description": "Interest",
+                    "amount": 42187.46,
+                    "transaction_id": 56644981
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Deposit",
+                    "amount": 32613.03,
+                    "transaction_id": 69169228
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Interest",
+                    "amount": 15035.03,
+                    "transaction_id": 82653699
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Interest",
+                    "amount": 799.65,
+                    "transaction_id": 25536494
+                },
+                {
+                    "date": "2022-10-30",
+                    "description": "Withdrawal",
+                    "amount": 16062.31,
+                    "transaction_id": 108889309
+                }
+            ]
+        }
+    }
+}

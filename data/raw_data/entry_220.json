@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kimberly Stone",
+        "age": 52,
+        "gender": "male",
+        "address": "1086 Todd Springs Suite 616, Danielshire, WV 50181",
+        "phone": "375.389.1460x3708",
+        "email": "michaela69@example.net",
+        "account": {
+            "account_number": "4f611343-0025-4ef3-aecc-e8999ff9aa43",
+            "balance": 30238.03,
+            "transactions": [
+                {
+                    "date": "2024-03-14",
+                    "description": "Interest",
+                    "amount": 19024.28,
+                    "transaction_id": 94526381
+                },
+                {
+                    "date": "2023-02-14",
+                    "description": "Withdrawal",
+                    "amount": 31663.99,
+                    "transaction_id": 84476484
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Wendy Wilson",
+        "age": 70,
+        "gender": "female",
+        "address": "68032 Price Stream Suite 547, North Scott, MI 55121",
+        "phone": "+1-405-674-7859x8307",
+        "email": "monica59@example.net",
+        "account": {
+            "account_number": "41e6f495-dd8c-446b-89af-b7e19b957dd5",
+            "balance": 40401.97,
+            "transactions": [
+                {
+                    "date": "2023-05-31",
+                    "description": "Interest",
+                    "amount": 49973.95,
+                    "transaction_id": 65305078
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Interest",
+                    "amount": 30586.96,
+                    "transaction_id": 17121392
+                },
+                {
+                    "date": "2024-03-14",
+                    "description": "Deposit",
+                    "amount": 47706.95,
+                    "transaction_id": 20128398
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Interest",
+                    "amount": 14505.05,
+                    "transaction_id": 52160402
+                },
+                {
+                    "date": "2023-03-04",
+                    "description": "Deposit",
+                    "amount": 35324.44,
+                    "transaction_id": 23476945
+                }
+            ]
+        }
+    }
+}

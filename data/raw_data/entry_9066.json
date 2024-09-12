@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Karen Walker",
+        "age": 73,
+        "gender": "female",
+        "address": "09489 Melissa Terrace, South Albertside, OR 96232",
+        "phone": "001-987-960-2487x77994",
+        "email": "gonzalesmichael@example.com",
+        "account": {
+            "account_number": "1f24f22f-f7ba-467f-a397-49c7f1f2d870",
+            "balance": -24586.13,
+            "transactions": [
+                {
+                    "date": "2023-02-12",
+                    "description": "Withdrawal",
+                    "amount": 1052.54,
+                    "transaction_id": 54755896
+                },
+                {
+                    "date": "2023-04-12",
+                    "description": "Interest",
+                    "amount": -1930.46,
+                    "transaction_id": 73411123
+                },
+                {
+                    "date": "2023-04-26",
+                    "description": "Interest",
+                    "amount": -2225.18,
+                    "transaction_id": 116018578
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Interest",
+                    "amount": 1919.23,
+                    "transaction_id": 16925320
+                }
+            ]
+        }
+    }
+}

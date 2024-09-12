@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Carol Mueller",
+        "age": 29,
+        "gender": "male",
+        "address": "85903 Angel Burg Apt. 900, Moralesland, OH 93808",
+        "phone": "509.517.7733x583",
+        "email": "hunterdavid@example.com",
+        "account": {
+            "account_number": "18ffa100-245e-4038-bb27-0b9029df7a53",
+            "balance": 41062.55,
+            "transactions": [
+                {
+                    "date": "2023-02-03",
+                    "description": "Withdrawal",
+                    "amount": 37748.15,
+                    "transaction_id": 42193194
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Interest",
+                    "amount": 27642.85,
+                    "transaction_id": 55219041
+                }
+            ]
+        }
+    }
+}

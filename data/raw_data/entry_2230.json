@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kimberly Hunter",
+        "age": 85,
+        "gender": "male",
+        "address": "0926 Erica Point, Lake Kirstenstad, WY 75993",
+        "phone": "6472154027",
+        "email": "sandy27@example.net",
+        "account": {
+            "account_number": "fefd5ea5-9ea4-4dc5-8cc8-0b9e1b2e0f1b",
+            "balance": 44170.61,
+            "transactions": [
+                {
+                    "date": "2023-09-08",
+                    "description": "Deposit",
+                    "amount": 45444.59,
+                    "transaction_id": 98130892
+                }
+            ]
+        }
+    }
+}

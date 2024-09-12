@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nathan Myers",
+        "age": 54,
+        "gender": "male",
+        "address": "67499 Hart Course, Mcdanielburgh, AL 18873",
+        "phone": "(464)252-0163x25619",
+        "email": "lryan@example.com",
+        "account": {
+            "account_number": "c4cfdcb1-197b-4868-8a62-edd0a23033cf",
+            "balance": 43822.01,
+            "transactions": [
+                {
+                    "date": "2023-10-11",
+                    "description": "Withdrawal",
+                    "amount": 41558.47,
+                    "transaction_id": 93803132
+                },
+                {
+                    "date": "2023-09-15",
+                    "description": "Interest",
+                    "amount": 11158.24,
+                    "transaction_id": 35465611
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Withdrawal",
+                    "amount": 49768.73,
+                    "transaction_id": 55421247
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Interest",
+                    "amount": 34161.44,
+                    "transaction_id": 76138451
+                }
+            ]
+        }
+    }
+}

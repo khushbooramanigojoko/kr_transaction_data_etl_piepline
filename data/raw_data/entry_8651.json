@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brenda Duncan",
+        "age": 48,
+        "gender": "male",
+        "address": "60805 Robbins Unions Apt. 034, Clarkeberg, NE 85532",
+        "phone": "+1-211-720-6134x4687",
+        "email": "monica12@example.org",
+        "account": {
+            "account_number": "b1643eed-f5d8-47dc-8b87-2f5787ac059a",
+            "balance": 48667.89,
+            "transactions": [
+                {
+                    "date": "2023-06-10",
+                    "description": "Withdrawal",
+                    "amount": 29662.3,
+                    "transaction_id": 105151511
+                },
+                {
+                    "date": "2023-06-08",
+                    "description": "Deposit",
+                    "amount": 33943.32,
+                    "transaction_id": 101290432
+                }
+            ]
+        }
+    }
+}

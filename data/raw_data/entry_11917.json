@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "James Barnett",
+        "age": 70,
+        "gender": "female",
+        "address": "72238 Carrillo Cove, Catherinestad, FM 86349",
+        "phone": "685-403-2351",
+        "email": "grossjoe@example.org",
+        "account": {
+            "account_number": "ed28d4de-aa92-4f53-a273-21d224772616",
+            "balance": -40781.71,
+            "transactions": [
+                {
+                    "date": "2023-08-16",
+                    "description": "Interest",
+                    "amount": -1651.43,
+                    "transaction_id": 25465092
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Withdrawal",
+                    "amount": 1116.66,
+                    "transaction_id": 96465447
+                },
+                {
+                    "date": "2022-10-11",
+                    "description": "Deposit",
+                    "amount": 3974.28,
+                    "transaction_id": 117831749
+                }
+            ]
+        }
+    }
+}

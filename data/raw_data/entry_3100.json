@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jeffrey Dickerson",
+        "age": 35,
+        "gender": "male",
+        "address": "908 Veronica Via Apt. 972, Jacobtown, FL 62521",
+        "phone": "(753)787-8133",
+        "email": "gibsontaylor@example.net",
+        "account": {
+            "account_number": "bdc9b5fa-b2f5-4d2f-b143-955242836322",
+            "balance": 48614.94,
+            "transactions": [
+                {
+                    "date": "2023-12-08",
+                    "description": "Deposit",
+                    "amount": 19539.64,
+                    "transaction_id": 42153276
+                },
+                {
+                    "date": "2023-11-07",
+                    "description": "Deposit",
+                    "amount": 46721.36,
+                    "transaction_id": 105826879
+                }
+            ]
+        }
+    }
+}

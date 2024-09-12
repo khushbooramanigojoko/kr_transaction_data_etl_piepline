@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Crystal Bush",
+        "age": 69,
+        "gender": "female",
+        "address": "61757 Wheeler Key, East Nicholas, IA 70556",
+        "phone": "6354600215",
+        "email": "chavezrobert@example.net",
+        "account": {
+            "account_number": "6320b3b1-7ee2-4d05-b022-7c7d21bf6f74",
+            "balance": 9070.88,
+            "transactions": [
+                {
+                    "date": "2022-11-19",
+                    "description": "Interest",
+                    "amount": 2296.61,
+                    "transaction_id": 95445796
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Interest",
+                    "amount": 34425.54,
+                    "transaction_id": 57301654
+                },
+                {
+                    "date": "2023-10-30",
+                    "description": "Withdrawal",
+                    "amount": 18825.28,
+                    "transaction_id": 46242977
+                }
+            ]
+        }
+    }
+}

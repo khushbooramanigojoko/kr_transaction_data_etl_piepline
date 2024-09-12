@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kelly Patrick",
+        "age": 62,
+        "gender": "male",
+        "address": "629 Lee Prairie Apt. 442, New Wendyville, MP 77572",
+        "phone": "201.604.5193",
+        "email": "carteremily@example.com",
+        "account": {
+            "account_number": "a5ca72ea-94e2-4ddf-a74b-2e7e199ec6b9",
+            "balance": 24533.7,
+            "transactions": [
+                {
+                    "date": "2024-04-18",
+                    "description": "Interest",
+                    "amount": 37396.39,
+                    "transaction_id": 4110317
+                }
+            ]
+        }
+    }
+}

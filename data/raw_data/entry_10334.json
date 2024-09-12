@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Virginia Bell",
+        "age": 49,
+        "gender": "female",
+        "address": "30963 Warren Fields Apt. 180, Chaseton, TX 23183",
+        "phone": "807.742.8333x480",
+        "email": "frankmontes@example.com",
+        "account": {
+            "account_number": "3417f101-5b4b-47ec-bd34-7330b6a43a4f",
+            "balance": -15338.6,
+            "transactions": [
+                {
+                    "date": "2022-11-29",
+                    "description": "Interest",
+                    "amount": 2438.46,
+                    "transaction_id": 95057888
+                },
+                {
+                    "date": "2024-01-30",
+                    "description": "Deposit",
+                    "amount": 3757.82,
+                    "transaction_id": 33771505
+                },
+                {
+                    "date": "2023-11-11",
+                    "description": "Withdrawal",
+                    "amount": -618.87,
+                    "transaction_id": 18027036
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Withdrawal",
+                    "amount": 599.26,
+                    "transaction_id": 103257979
+                }
+            ]
+        }
+    }
+}

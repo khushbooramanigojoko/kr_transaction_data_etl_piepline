@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Elizabeth Mack",
+        "age": 59,
+        "gender": "female",
+        "address": "4623 Jennifer Wall, South Stephanie, AR 08529",
+        "phone": "405.386.4754x878",
+        "email": "vparker@example.net",
+        "account": {
+            "account_number": "6429a729-864e-44ae-855b-94b174e74c5c",
+            "balance": 17517.16,
+            "transactions": [
+                {
+                    "date": "2023-03-10",
+                    "description": "Interest",
+                    "amount": 34343.32,
+                    "transaction_id": 79781047
+                }
+            ]
+        }
+    }
+}

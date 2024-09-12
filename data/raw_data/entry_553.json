@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Caroline Johnson",
+        "age": 91,
+        "gender": "female",
+        "address": "5379 Lawson Junctions, Tranmouth, MO 43622",
+        "phone": "488.742.3112x676",
+        "email": "cconley@example.net",
+        "account": {
+            "account_number": "612f2207-6a61-4e92-9012-eee0089549d3",
+            "balance": 21064.99,
+            "transactions": [
+                {
+                    "date": "2024-03-28",
+                    "description": "Deposit",
+                    "amount": 12867.08,
+                    "transaction_id": 101913182
+                }
+            ]
+        }
+    }
+}

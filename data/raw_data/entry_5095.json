@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Walter Hendricks",
+        "age": 28,
+        "gender": "female",
+        "address": "347 Michael Motorway Apt. 283, New Andrea, OK 86475",
+        "phone": "465.731.9767x595",
+        "email": "brownrichard@example.org",
+        "account": {
+            "account_number": "9db1ae39-4245-4b67-970a-a7c63c975a82",
+            "balance": 38100.78,
+            "transactions": [
+                {
+                    "date": "2023-03-11",
+                    "description": "Interest",
+                    "amount": 18797.51,
+                    "transaction_id": 82317535
+                },
+                {
+                    "date": "2023-06-20",
+                    "description": "Interest",
+                    "amount": 22961.99,
+                    "transaction_id": 37624583
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Interest",
+                    "amount": 14405.51,
+                    "transaction_id": 54928784
+                }
+            ]
+        }
+    }
+}

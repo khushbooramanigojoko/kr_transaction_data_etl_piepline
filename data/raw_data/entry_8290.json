@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mrs. Theresa Hill",
+        "age": 32,
+        "gender": "female",
+        "address": "0991 Suarez Island, Parsonsside, AZ 90434",
+        "phone": "001-864-602-0492x71790",
+        "email": "gregory79@example.net",
+        "account": {
+            "account_number": "0cef7042-c5cc-4caa-9128-7cb415df724f",
+            "balance": 16568.05,
+            "transactions": [
+                {
+                    "date": "2023-05-12",
+                    "description": "Interest",
+                    "amount": 4531.11,
+                    "transaction_id": 64253932
+                },
+                {
+                    "date": "2024-03-21",
+                    "description": "Deposit",
+                    "amount": 11485.69,
+                    "transaction_id": 66490643
+                }
+            ]
+        }
+    }
+}

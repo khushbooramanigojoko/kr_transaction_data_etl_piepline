@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Thomas Rogers",
+        "age": 20,
+        "gender": "male",
+        "address": "234 Duran Key, Port Nicholasside, AR 90628",
+        "phone": "(472)551-2753x619",
+        "email": "owelch@example.org",
+        "account": {
+            "account_number": "a37c4bc0-6edd-4caa-83dc-3881ef65fb3d",
+            "balance": 32227.55,
+            "transactions": [
+                {
+                    "date": "2023-08-26",
+                    "description": "Withdrawal",
+                    "amount": 36283.9,
+                    "transaction_id": 43172837
+                }
+            ]
+        }
+    }
+}

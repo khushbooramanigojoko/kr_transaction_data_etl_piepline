@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Gabriel Holt",
+        "age": 61,
+        "gender": "male",
+        "address": "779 Whitney Groves Apt. 399, East Jackmouth, CO 38357",
+        "phone": "2532960362",
+        "email": "kenneth84@example.net",
+        "account": {
+            "account_number": "e5680f8d-662e-433a-bccc-b89ee0e5c998",
+            "balance": 38402.91,
+            "transactions": [
+                {
+                    "date": "2024-08-13",
+                    "description": "Interest",
+                    "amount": 36605.1,
+                    "transaction_id": 70548527
+                },
+                {
+                    "date": "2024-01-18",
+                    "description": "Interest",
+                    "amount": 12364.63,
+                    "transaction_id": 81798640
+                },
+                {
+                    "date": "2024-05-26",
+                    "description": "Withdrawal",
+                    "amount": 13695.42,
+                    "transaction_id": 13942658
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Withdrawal",
+                    "amount": 37273.21,
+                    "transaction_id": 56276731
+                },
+                {
+                    "date": "2022-09-11",
+                    "description": "Interest",
+                    "amount": 6865.65,
+                    "transaction_id": 75404461
+                }
+            ]
+        }
+    }
+}

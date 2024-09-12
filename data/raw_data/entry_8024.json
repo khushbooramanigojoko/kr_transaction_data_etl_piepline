@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Henson",
+        "age": 38,
+        "gender": "female",
+        "address": "8639 Dawson Mill Apt. 696, Careyport, PW 56827",
+        "phone": "001-769-450-0415x8600",
+        "email": "sharontaylor@example.net",
+        "account": {
+            "account_number": "2bda4029-408c-4f8b-98c4-080618149447",
+            "balance": 31532.62,
+            "transactions": [
+                {
+                    "date": "2023-01-04",
+                    "description": "Interest",
+                    "amount": 28818.95,
+                    "transaction_id": 119964296
+                },
+                {
+                    "date": "2022-12-21",
+                    "description": "Withdrawal",
+                    "amount": 20419.13,
+                    "transaction_id": 105260318
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Interest",
+                    "amount": 16972.64,
+                    "transaction_id": 108390600
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Withdrawal",
+                    "amount": 35200.35,
+                    "transaction_id": 61218291
+                }
+            ]
+        }
+    }
+}

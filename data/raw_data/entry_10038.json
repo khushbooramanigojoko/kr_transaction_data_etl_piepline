@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 97,
+        "gender": "female",
+        "address": "43866 Bradley Vista, East Kristin, HI 84461",
+        "phone": "001-224-614-0777x98988",
+        "email": "kserrano@example.com",
+        "account": {
+            "account_number": "5da80f34-5da6-427e-8567-b5a1cb53d341",
+            "balance": 19850.72,
+            "transactions": [
+                {
+                    "date": "2023-04-11",
+                    "description": "Interest",
+                    "amount": -281.53,
+                    "transaction_id": 83703649
+                },
+                {
+                    "date": "2023-12-23",
+                    "description": "Deposit",
+                    "amount": -2886.69,
+                    "transaction_id": 91891166
+                },
+                {
+                    "date": "2023-09-06",
+                    "description": "Withdrawal",
+                    "amount": 1874.35,
+                    "transaction_id": 28043419
+                }
+            ]
+        }
+    }
+}

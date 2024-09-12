@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Darlene Matthews",
+        "age": 69,
+        "gender": "male",
+        "address": "1974 Joseph Camp Suite 061, South Saramouth, UT 51152",
+        "phone": "(770)563-7375x276",
+        "email": "parkerallison@example.org",
+        "account": {
+            "account_number": "2c52a282-bb5c-489e-95a4-383da1530a0e",
+            "balance": 13115.6,
+            "transactions": [
+                {
+                    "date": "2023-07-30",
+                    "description": "Interest",
+                    "amount": 7058.08,
+                    "transaction_id": 68014224
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Withdrawal",
+                    "amount": 26734.84,
+                    "transaction_id": 73979770
+                },
+                {
+                    "date": "2024-05-03",
+                    "description": "Deposit",
+                    "amount": 2245.49,
+                    "transaction_id": 14566317
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Deposit",
+                    "amount": 862.45,
+                    "transaction_id": 42703876
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Matthew Duran",
+        "age": 38,
+        "gender": "male",
+        "address": "7783 Jenny Mission Suite 562, Porterfort, MP 87922",
+        "phone": "+1-761-832-0532x8182",
+        "email": "andersonrobert@example.net",
+        "account": {
+            "account_number": "7fc9af0b-30e3-4d10-b09f-2eba1a4377f0",
+            "balance": 12764.21,
+            "transactions": [
+                {
+                    "date": "2024-01-19",
+                    "description": "Withdrawal",
+                    "amount": 14034.54,
+                    "transaction_id": 64152390
+                },
+                {
+                    "date": "2023-05-27",
+                    "description": "Interest",
+                    "amount": 35787.4,
+                    "transaction_id": 91925408
+                },
+                {
+                    "date": "2023-07-14",
+                    "description": "Deposit",
+                    "amount": 35284.46,
+                    "transaction_id": 29489013
+                },
+                {
+                    "date": "2023-11-10",
+                    "description": "Interest",
+                    "amount": 32026.4,
+                    "transaction_id": 40475606
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Deposit",
+                    "amount": 27437.89,
+                    "transaction_id": 114303803
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Matthew Ochoa",
+        "age": 86,
+        "gender": "female",
+        "address": "8646 Williamson Mills Suite 331, West Scott, VA 25858",
+        "phone": "858.845.3893",
+        "email": "anna74@example.com",
+        "account": {
+            "account_number": "ad537e02-e0d8-4488-871a-eb04f23d6dee",
+            "balance": 5867.54,
+            "transactions": [
+                {
+                    "date": "2023-12-17",
+                    "description": "Withdrawal",
+                    "amount": 46180.01,
+                    "transaction_id": 51108667
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Deposit",
+                    "amount": 5868.37,
+                    "transaction_id": 97364411
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Interest",
+                    "amount": 41635.03,
+                    "transaction_id": 29125781
+                }
+            ]
+        }
+    }
+}

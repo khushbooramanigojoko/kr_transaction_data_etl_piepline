@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 43,
+        "gender": "female",
+        "address": "330 Vega Inlet, Alexandriamouth, MS 22942",
+        "phone": "+1-958-252-2352x73888",
+        "email": "nvargas@example.com",
+        "account": {
+            "account_number": "a8a4b25a-3da6-40f3-8146-cdc935ddd54e",
+            "balance": 31324.99,
+            "transactions": [
+                {
+                    "date": "2023-02-07",
+                    "description": "Deposit",
+                    "amount": 2546.74,
+                    "transaction_id": 14096321
+                },
+                {
+                    "date": "2023-08-01",
+                    "description": "Deposit",
+                    "amount": 2558.09,
+                    "transaction_id": 65796054
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Withdrawal",
+                    "amount": 3467.35,
+                    "transaction_id": 6835169
+                },
+                {
+                    "date": "2023-02-09",
+                    "description": "Deposit",
+                    "amount": 2085.81,
+                    "transaction_id": 65957073
+                }
+            ]
+        }
+    }
+}

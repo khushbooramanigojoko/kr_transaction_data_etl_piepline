@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Miranda Bradford",
+        "age": 99,
+        "gender": "male",
+        "address": "USCGC Solis, FPO AE 09432",
+        "phone": "882-301-4612x02694",
+        "email": "vmoore@example.net",
+        "account": {
+            "account_number": "8a319968-91d6-4973-8025-590a2e2e27f2",
+            "balance": 6863.88,
+            "transactions": [
+                {
+                    "date": "2023-05-25",
+                    "description": "Interest",
+                    "amount": 12098.4,
+                    "transaction_id": 17009720
+                },
+                {
+                    "date": "2023-07-15",
+                    "description": "Interest",
+                    "amount": 26595.2,
+                    "transaction_id": 69389977
+                }
+            ]
+        }
+    }
+}

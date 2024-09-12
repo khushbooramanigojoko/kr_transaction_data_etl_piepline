@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Randall Bennett",
+        "age": 56,
+        "gender": "male",
+        "address": "3112 Lutz Mountain, Newmanmouth, NH 87095",
+        "phone": "(415)219-1068x3350",
+        "email": "joseph58@example.org",
+        "account": {
+            "account_number": "54469741-a08e-45cd-a14c-55b821dd9b08",
+            "balance": 14266.12,
+            "transactions": [
+                {
+                    "date": "2024-06-18",
+                    "description": "Withdrawal",
+                    "amount": 8314.22,
+                    "transaction_id": 34022592
+                },
+                {
+                    "date": "2023-07-08",
+                    "description": "Interest",
+                    "amount": 16607.75,
+                    "transaction_id": 42252518
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Withdrawal",
+                    "amount": 20017.33,
+                    "transaction_id": 24984333
+                },
+                {
+                    "date": "2024-02-23",
+                    "description": "Deposit",
+                    "amount": 24332.81,
+                    "transaction_id": 49628957
+                }
+            ]
+        }
+    }
+}

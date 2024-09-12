@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jennifer Cantrell",
+        "age": 73,
+        "gender": "female",
+        "address": "1185 Robert Canyon Apt. 816, Stephenschester, ME 01989",
+        "phone": "(574)800-7818x705",
+        "email": "owarner@example.com",
+        "account": {
+            "account_number": "461fd879-fcaf-433c-81f6-f07465df9c3d",
+            "balance": -49181.46,
+            "transactions": [
+                {
+                    "date": "2022-09-30",
+                    "description": "Deposit",
+                    "amount": 1362.38,
+                    "transaction_id": 4688020
+                },
+                {
+                    "date": "2024-08-20",
+                    "description": "Deposit",
+                    "amount": 2588.78,
+                    "transaction_id": 117731763
+                },
+                {
+                    "date": "2023-03-04",
+                    "description": "Interest",
+                    "amount": -35.37,
+                    "transaction_id": 8196931
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Withdrawal",
+                    "amount": 555.92,
+                    "transaction_id": 58407334
+                }
+            ]
+        }
+    }
+}

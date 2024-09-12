@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jason Harris",
+        "age": 86,
+        "gender": "female",
+        "address": "66769 Natasha Branch Suite 248, Lake Alexandriafort, MA 97934",
+        "phone": "492-344-2339x32566",
+        "email": "rojasjohn@example.net",
+        "account": {
+            "account_number": "119a9891-a754-439e-8ce2-9a961b60f8f3",
+            "balance": 40627.21,
+            "transactions": [
+                {
+                    "date": "2023-12-24",
+                    "description": "Interest",
+                    "amount": 21473.29,
+                    "transaction_id": 34138445
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Deposit",
+                    "amount": 14153.95,
+                    "transaction_id": 7942128
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 44,
+        "gender": "female",
+        "address": "2850 Karen Brooks Suite 948, Ryanfurt, AK 40739",
+        "phone": "858.284.6127x38307",
+        "email": "gbell@example.org",
+        "account": {
+            "account_number": "93f147a0-bcfd-4cd0-aa13-b59c0d0e7261",
+            "balance": 40400.67,
+            "transactions": [
+                {
+                    "date": "2022-11-06",
+                    "description": "Withdrawal",
+                    "amount": -3987.68,
+                    "transaction_id": 3878296
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Withdrawal",
+                    "amount": -3488.6,
+                    "transaction_id": 103985340
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Withdrawal",
+                    "amount": 4197.75,
+                    "transaction_id": 110659247
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Stephanie Reese",
+        "age": 22,
+        "gender": "female",
+        "address": "913 Johnson Burgs Apt. 703, Parkfurt, MA 27048",
+        "phone": "748-237-7819",
+        "email": "rwalker@example.com",
+        "account": {
+            "account_number": "df9701ae-4872-4901-83ad-9420f37be1c6",
+            "balance": -41917.66,
+            "transactions": [
+                {
+                    "date": "2023-04-24",
+                    "description": "Interest",
+                    "amount": 4123.71,
+                    "transaction_id": 90976824
+                },
+                {
+                    "date": "2023-05-22",
+                    "description": "Deposit",
+                    "amount": 2068.67,
+                    "transaction_id": 107755264
+                }
+            ]
+        }
+    }
+}

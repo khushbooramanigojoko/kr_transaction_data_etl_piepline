@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Meghan Mitchell",
+        "age": 29,
+        "gender": "male",
+        "address": "319 Allen Brook Apt. 454, Paulton, MT 57904",
+        "phone": "001-273-747-4006x512",
+        "email": "chelseamyers@example.net",
+        "account": {
+            "account_number": "a0d05581-f2e0-4dc1-9f03-0d4170ebc905",
+            "balance": 16983.41,
+            "transactions": [
+                {
+                    "date": "2022-12-04",
+                    "description": "Deposit",
+                    "amount": 42362.19,
+                    "transaction_id": 102110383
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Interest",
+                    "amount": 41302.3,
+                    "transaction_id": 81503469
+                }
+            ]
+        }
+    }
+}

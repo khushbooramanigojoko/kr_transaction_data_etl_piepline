@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 84,
+        "gender": "female",
+        "address": "140 Erin Plains Suite 787, New Hannahberg, NE 05834",
+        "phone": "+1-822-476-7185x475",
+        "email": "htran@example.net",
+        "account": {
+            "account_number": "0c28f310-fdbb-47c8-8d2b-fab4ca62fb9e",
+            "balance": 40639.31,
+            "transactions": [
+                {
+                    "date": "2023-12-24",
+                    "description": "Interest",
+                    "amount": 2223.47,
+                    "transaction_id": 27881616
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Deposit",
+                    "amount": 203.59,
+                    "transaction_id": 1638617
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Withdrawal",
+                    "amount": 2025.11,
+                    "transaction_id": 66835908
+                }
+            ]
+        }
+    }
+}

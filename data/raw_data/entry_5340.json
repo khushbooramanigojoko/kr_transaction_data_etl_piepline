@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Edward Woods",
+        "age": 97,
+        "gender": "male",
+        "address": "9851 Maria Burgs, New Brandonfurt, PW 47703",
+        "phone": "473.219.3836x98474",
+        "email": "kevinpotter@example.net",
+        "account": {
+            "account_number": "d0ce8dba-3a0f-4b9e-ba81-78f2e640c837",
+            "balance": 14019.52,
+            "transactions": [
+                {
+                    "date": "2024-08-26",
+                    "description": "Interest",
+                    "amount": 5335.97,
+                    "transaction_id": 32693798
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Deposit",
+                    "amount": 13603.73,
+                    "transaction_id": 79593373
+                },
+                {
+                    "date": "2024-05-25",
+                    "description": "Withdrawal",
+                    "amount": 20414.09,
+                    "transaction_id": 36281177
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Deposit",
+                    "amount": 1324.55,
+                    "transaction_id": 14147504
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Deposit",
+                    "amount": 37810.15,
+                    "transaction_id": 98521454
+                }
+            ]
+        }
+    }
+}

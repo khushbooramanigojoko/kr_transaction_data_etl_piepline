@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christina Henderson",
+        "age": 72,
+        "gender": "male",
+        "address": "75319 Michael Summit, Port Cheryl, NJ 53277",
+        "phone": "686-584-4487x097",
+        "email": "charlesibarra@example.com",
+        "account": {
+            "account_number": "6aeb3a65-494e-4b21-b646-633763f3541c",
+            "balance": 41066.8,
+            "transactions": [
+                {
+                    "date": "2024-04-25",
+                    "description": "Withdrawal",
+                    "amount": 4513.59,
+                    "transaction_id": 102400979
+                },
+                {
+                    "date": "2024-06-20",
+                    "description": "Withdrawal",
+                    "amount": 14792.56,
+                    "transaction_id": 25548296
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Deposit",
+                    "amount": 37630.77,
+                    "transaction_id": 33277655
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Deposit",
+                    "amount": 45848.49,
+                    "transaction_id": 7636517
+                },
+                {
+                    "date": "2022-11-13",
+                    "description": "Interest",
+                    "amount": 45094.11,
+                    "transaction_id": 65282407
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 89,
+        "gender": "female",
+        "address": "34050 Bryant Ford, New Derrick, PA 95619",
+        "phone": "+1-888-780-8553x5183",
+        "email": "mark08@example.net",
+        "account": {
+            "account_number": "fb917dda-4779-45fc-b9eb-b745969cc636",
+            "balance": 2240.69,
+            "transactions": [
+                {
+                    "date": "2022-11-06",
+                    "description": "Interest",
+                    "amount": -507.81,
+                    "transaction_id": 64651765
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Withdrawal",
+                    "amount": -2408.41,
+                    "transaction_id": 82647055
+                },
+                {
+                    "date": "2024-04-25",
+                    "description": "Deposit",
+                    "amount": -1514.68,
+                    "transaction_id": 94139345
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Withdrawal",
+                    "amount": 4547.89,
+                    "transaction_id": 76468030
+                },
+                {
+                    "date": "2022-12-02",
+                    "description": "Deposit",
+                    "amount": 3841.11,
+                    "transaction_id": 96055356
+                }
+            ]
+        }
+    }
+}

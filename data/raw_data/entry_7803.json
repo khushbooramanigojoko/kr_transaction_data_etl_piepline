@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Marcus Summers",
+        "age": 37,
+        "gender": "male",
+        "address": "34387 Daniel Ranch, Mcdonaldside, PA 51708",
+        "phone": "001-745-497-0226x229",
+        "email": "samuel33@example.net",
+        "account": {
+            "account_number": "06fcb513-43bf-403f-9008-d3b6eeb843b6",
+            "balance": 35472.44,
+            "transactions": [
+                {
+                    "date": "2022-10-08",
+                    "description": "Interest",
+                    "amount": 22297.68,
+                    "transaction_id": 74090547
+                },
+                {
+                    "date": "2023-01-10",
+                    "description": "Interest",
+                    "amount": 34424.69,
+                    "transaction_id": 2383782
+                }
+            ]
+        }
+    }
+}

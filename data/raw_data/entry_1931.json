@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Wendy Jones",
+        "age": 80,
+        "gender": "female",
+        "address": "77401 Nelson Turnpike, Debraville, AS 09279",
+        "phone": "+1-582-328-1328x347",
+        "email": "stonejacqueline@example.com",
+        "account": {
+            "account_number": "27c7f219-866a-404d-85a8-16bbcf37519c",
+            "balance": 25714.46,
+            "transactions": [
+                {
+                    "date": "2023-11-24",
+                    "description": "Deposit",
+                    "amount": 8502.74,
+                    "transaction_id": 57367580
+                }
+            ]
+        }
+    }
+}

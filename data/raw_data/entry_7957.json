@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Shelly Flores",
+        "age": 50,
+        "gender": "female",
+        "address": "425 Jacqueline Mall Apt. 252, West Robertberg, DC 77764",
+        "phone": "+1-995-309-5799x3534",
+        "email": "wwheeler@example.org",
+        "account": {
+            "account_number": "9ee26524-8b5c-4790-ade5-61ff7ee478bf",
+            "balance": 42145.33,
+            "transactions": [
+                {
+                    "date": "2023-08-13",
+                    "description": "Withdrawal",
+                    "amount": 46840.73,
+                    "transaction_id": 80771715
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Withdrawal",
+                    "amount": 33349.24,
+                    "transaction_id": 98077735
+                }
+            ]
+        }
+    }
+}

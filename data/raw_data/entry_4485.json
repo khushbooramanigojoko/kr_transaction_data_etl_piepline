@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Christensen",
+        "age": 89,
+        "gender": "male",
+        "address": "484 Lopez Mall, Ashleyberg, DE 29925",
+        "phone": "(678)740-1176x04267",
+        "email": "dickersonjonathan@example.com",
+        "account": {
+            "account_number": "07b57fcb-e846-4b8a-9b54-b4ba29173773",
+            "balance": 38622.4,
+            "transactions": [
+                {
+                    "date": "2023-10-20",
+                    "description": "Withdrawal",
+                    "amount": 24162.0,
+                    "transaction_id": 88676631
+                },
+                {
+                    "date": "2023-09-08",
+                    "description": "Withdrawal",
+                    "amount": 36881.62,
+                    "transaction_id": 36774041
+                },
+                {
+                    "date": "2022-12-19",
+                    "description": "Interest",
+                    "amount": 25164.13,
+                    "transaction_id": 33510190
+                },
+                {
+                    "date": "2024-05-03",
+                    "description": "Interest",
+                    "amount": 37156.34,
+                    "transaction_id": 16630482
+                }
+            ]
+        }
+    }
+}

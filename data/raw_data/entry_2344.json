@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ray Dudley",
+        "age": 20,
+        "gender": "male",
+        "address": "PSC 7088, Box 0644, APO AE 58650",
+        "phone": "(633)972-6578",
+        "email": "andersonkrista@example.com",
+        "account": {
+            "account_number": "e0502c72-c2cc-4f18-b96b-b95a57788b7e",
+            "balance": 34033.77,
+            "transactions": [
+                {
+                    "date": "2024-08-26",
+                    "description": "Interest",
+                    "amount": 45890.75,
+                    "transaction_id": 114107723
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Deposit",
+                    "amount": 35267.45,
+                    "transaction_id": 78188836
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Deposit",
+                    "amount": 20935.09,
+                    "transaction_id": 90641471
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Interest",
+                    "amount": 23803.03,
+                    "transaction_id": 113969094
+                },
+                {
+                    "date": "2024-06-27",
+                    "description": "Deposit",
+                    "amount": 18348.5,
+                    "transaction_id": 2864126
+                }
+            ]
+        }
+    }
+}

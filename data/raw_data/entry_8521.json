@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Samantha Myers",
+        "age": 49,
+        "gender": "female",
+        "address": "587 Steven Flat, Cunninghammouth, GU 44655",
+        "phone": "+1-827-955-5512x4475",
+        "email": "swatson@example.com",
+        "account": {
+            "account_number": "e8bb173e-6114-41ab-981d-9a1a9476ac1b",
+            "balance": 47207.02,
+            "transactions": [
+                {
+                    "date": "2024-02-01",
+                    "description": "Deposit",
+                    "amount": 11929.1,
+                    "transaction_id": 1614632
+                }
+            ]
+        }
+    }
+}

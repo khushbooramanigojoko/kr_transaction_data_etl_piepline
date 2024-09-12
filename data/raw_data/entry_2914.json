@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Allison Powell",
+        "age": 38,
+        "gender": "male",
+        "address": "USNV Andrews, FPO AA 95028",
+        "phone": "+1-586-333-1176x07031",
+        "email": "kennethmoreno@example.com",
+        "account": {
+            "account_number": "ead8f0ae-82a2-4500-9166-1fd4b723d739",
+            "balance": 20482.1,
+            "transactions": [
+                {
+                    "date": "2023-05-19",
+                    "description": "Interest",
+                    "amount": 37781.9,
+                    "transaction_id": 65336550
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Deposit",
+                    "amount": 11941.97,
+                    "transaction_id": 57239845
+                }
+            ]
+        }
+    }
+}

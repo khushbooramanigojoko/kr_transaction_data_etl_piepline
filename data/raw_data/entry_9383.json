@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 23,
+        "gender": "male",
+        "address": "PSC 3629, Box 7658, APO AP 57096",
+        "phone": "528.591.3685x2121",
+        "email": "lopezamanda@example.net",
+        "account": {
+            "account_number": "c2a69dc8-6d05-430e-be44-29a742b8599e",
+            "balance": 42312.56,
+            "transactions": [
+                {
+                    "date": "2023-10-21",
+                    "description": "Deposit",
+                    "amount": -1158.93,
+                    "transaction_id": 99487093
+                }
+            ]
+        }
+    }
+}

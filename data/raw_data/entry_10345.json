@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Colin Thompson",
+        "age": 85,
+        "gender": "female",
+        "address": "3182 Brown Vista Apt. 544, Jameshaven, AZ 10103",
+        "phone": "2005527357",
+        "email": "patelnancy@example.com",
+        "account": {
+            "account_number": "3b4e97eb-cb16-4801-ae77-346447d3b4a7",
+            "balance": -14773.54,
+            "transactions": [
+                {
+                    "date": "2023-04-26",
+                    "description": "Withdrawal",
+                    "amount": 3821.1,
+                    "transaction_id": 79204545
+                },
+                {
+                    "date": "2024-02-25",
+                    "description": "Deposit",
+                    "amount": 626.34,
+                    "transaction_id": 59347192
+                },
+                {
+                    "date": "2023-11-12",
+                    "description": "Withdrawal",
+                    "amount": 4410.07,
+                    "transaction_id": 82037958
+                },
+                {
+                    "date": "2022-09-02",
+                    "description": "Withdrawal",
+                    "amount": 1766.71,
+                    "transaction_id": 86592707
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Interest",
+                    "amount": 796.34,
+                    "transaction_id": 44400245
+                }
+            ]
+        }
+    }
+}

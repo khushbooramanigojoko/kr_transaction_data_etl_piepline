@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Lopez",
+        "age": 41,
+        "gender": "male",
+        "address": "942 Lauren Stream, New Jeffrey, NM 61866",
+        "phone": "(609)242-2017",
+        "email": "bryancatherine@example.com",
+        "account": {
+            "account_number": "78e2f301-076a-4ca7-9c83-9ae25999582a",
+            "balance": 38507.23,
+            "transactions": [
+                {
+                    "date": "2024-01-11",
+                    "description": "Interest",
+                    "amount": 1083.17,
+                    "transaction_id": 22800588
+                }
+            ]
+        }
+    }
+}

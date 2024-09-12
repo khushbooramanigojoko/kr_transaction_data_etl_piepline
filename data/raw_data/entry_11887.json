@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 24,
+        "gender": "male",
+        "address": "225 Brown Locks, Nguyenport, DE 04040",
+        "phone": "2172602341",
+        "email": "christopher79@example.com",
+        "account": {
+            "account_number": "82d87666-18fa-4166-8742-75a6ccb911d8",
+            "balance": 28652.71,
+            "transactions": [
+                {
+                    "date": "2022-11-04",
+                    "description": "Deposit",
+                    "amount": -2821.18,
+                    "transaction_id": 40976037
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Interest",
+                    "amount": 1488.97,
+                    "transaction_id": 76532028
+                },
+                {
+                    "date": "2023-07-02",
+                    "description": "Withdrawal",
+                    "amount": -3410.56,
+                    "transaction_id": 15124658
+                },
+                {
+                    "date": "2023-01-21",
+                    "description": "Interest",
+                    "amount": 281.47,
+                    "transaction_id": 84404408
+                }
+            ]
+        }
+    }
+}

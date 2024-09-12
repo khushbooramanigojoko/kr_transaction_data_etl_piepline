@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Amy Garcia",
+        "age": 83,
+        "gender": "female",
+        "address": "1482 Sellers Stream, Rayhaven, KS 58060",
+        "phone": "641.564.6412x4588",
+        "email": "mariawilliams@example.org",
+        "account": {
+            "account_number": "c8dd3272-ce10-4b6d-9929-39e72b0ebae2",
+            "balance": 14736.66,
+            "transactions": [
+                {
+                    "date": "2023-12-19",
+                    "description": "Interest",
+                    "amount": 49417.44,
+                    "transaction_id": 84066710
+                },
+                {
+                    "date": "2023-04-06",
+                    "description": "Withdrawal",
+                    "amount": 22542.04,
+                    "transaction_id": 9527421
+                },
+                {
+                    "date": "2024-03-21",
+                    "description": "Deposit",
+                    "amount": 48780.6,
+                    "transaction_id": 53849983
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Withdrawal",
+                    "amount": 35539.56,
+                    "transaction_id": 116900775
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Interest",
+                    "amount": 25220.81,
+                    "transaction_id": 110239938
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Timothy Hernandez",
+        "age": 70,
+        "gender": "male",
+        "address": "7380 Henry Ridges Apt. 540, Ewingview, MP 81426",
+        "phone": "001-414-970-2626x16095",
+        "email": "hubbardjodi@example.com",
+        "account": {
+            "account_number": "63c94c20-b2fb-41f4-8ad3-3c2edbd3f572",
+            "balance": 36606.01,
+            "transactions": [
+                {
+                    "date": "2024-07-16",
+                    "description": "Deposit",
+                    "amount": 36506.14,
+                    "transaction_id": 14961603
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Interest",
+                    "amount": 36334.54,
+                    "transaction_id": 38936689
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Interest",
+                    "amount": 18148.81,
+                    "transaction_id": 104098377
+                },
+                {
+                    "date": "2023-10-24",
+                    "description": "Interest",
+                    "amount": 19887.96,
+                    "transaction_id": 19296730
+                }
+            ]
+        }
+    }
+}

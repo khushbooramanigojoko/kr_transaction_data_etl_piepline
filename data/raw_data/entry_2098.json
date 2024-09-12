@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Karen Khan",
+        "age": 44,
+        "gender": "female",
+        "address": "684 Kimberly Locks, West Thomasbury, KS 59575",
+        "phone": "745-291-7096x0900",
+        "email": "davislisa@example.org",
+        "account": {
+            "account_number": "b201f180-a9ab-4ce0-8e2b-8934569b8c4d",
+            "balance": 22982.33,
+            "transactions": [
+                {
+                    "date": "2024-03-14",
+                    "description": "Withdrawal",
+                    "amount": 18761.92,
+                    "transaction_id": 117162908
+                },
+                {
+                    "date": "2024-06-08",
+                    "description": "Withdrawal",
+                    "amount": 16371.04,
+                    "transaction_id": 79427419
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Deposit",
+                    "amount": 2136.84,
+                    "transaction_id": 83598284
+                },
+                {
+                    "date": "2023-07-06",
+                    "description": "Withdrawal",
+                    "amount": 30654.94,
+                    "transaction_id": 79949996
+                },
+                {
+                    "date": "2024-03-11",
+                    "description": "Withdrawal",
+                    "amount": 17638.56,
+                    "transaction_id": 69899724
+                }
+            ]
+        }
+    }
+}

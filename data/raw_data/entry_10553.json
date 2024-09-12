@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "James Berry",
+        "age": 79,
+        "gender": "male",
+        "address": "412 Clark Wall Apt. 494, Jacobberg, ID 01014",
+        "phone": "+1-565-816-6688x0721",
+        "email": "peterjackson@example.org",
+        "account": {
+            "account_number": "b3b74f9f-8d2d-403e-8493-cb54cf5c166b",
+            "balance": -19885.86,
+            "transactions": [
+                {
+                    "date": "2022-10-27",
+                    "description": "Withdrawal",
+                    "amount": 114.31,
+                    "transaction_id": 115009942
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Interest",
+                    "amount": 2994.17,
+                    "transaction_id": 46056975
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Katrina Reid",
+        "age": 96,
+        "gender": "male",
+        "address": "9073 Hill Street, North Teresa, SC 85274",
+        "phone": "871-739-0369",
+        "email": "mark31@example.net",
+        "account": {
+            "account_number": "5607857d-b72b-4d2d-ae7a-4ef7722b9bdd",
+            "balance": 25366.08,
+            "transactions": [
+                {
+                    "date": "2022-10-18",
+                    "description": "Interest",
+                    "amount": 1086.36,
+                    "transaction_id": 23627392
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Withdrawal",
+                    "amount": 9631.85,
+                    "transaction_id": 85617019
+                }
+            ]
+        }
+    }
+}

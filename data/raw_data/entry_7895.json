@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jacqueline Garcia",
+        "age": 44,
+        "gender": "male",
+        "address": "6880 Smith Union, Chloeton, RI 22716",
+        "phone": "387.637.7472x471",
+        "email": "littleann@example.com",
+        "account": {
+            "account_number": "ba6f38ab-3595-46f9-91e8-d7273f35069b",
+            "balance": 6964.46,
+            "transactions": [
+                {
+                    "date": "2024-03-04",
+                    "description": "Deposit",
+                    "amount": 9023.35,
+                    "transaction_id": 113141024
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Interest",
+                    "amount": 29365.99,
+                    "transaction_id": 15966043
+                },
+                {
+                    "date": "2023-11-27",
+                    "description": "Withdrawal",
+                    "amount": 25962.3,
+                    "transaction_id": 41017673
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Interest",
+                    "amount": 22257.49,
+                    "transaction_id": 58429205
+                },
+                {
+                    "date": "2023-10-02",
+                    "description": "Withdrawal",
+                    "amount": 2002.52,
+                    "transaction_id": 81325732
+                }
+            ]
+        }
+    }
+}

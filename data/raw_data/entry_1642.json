@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Traci Kaufman",
+        "age": 75,
+        "gender": "female",
+        "address": "9779 Benjamin Neck, Jonathanborough, LA 93048",
+        "phone": "853-527-2120",
+        "email": "jonathan05@example.org",
+        "account": {
+            "account_number": "cb63bea5-19b1-44e1-80dd-192a346665a2",
+            "balance": 49342.56,
+            "transactions": [
+                {
+                    "date": "2024-03-11",
+                    "description": "Deposit",
+                    "amount": 24642.33,
+                    "transaction_id": 96372574
+                },
+                {
+                    "date": "2024-07-23",
+                    "description": "Withdrawal",
+                    "amount": 43626.04,
+                    "transaction_id": 49704787
+                },
+                {
+                    "date": "2023-07-04",
+                    "description": "Deposit",
+                    "amount": 44831.03,
+                    "transaction_id": 64462423
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Interest",
+                    "amount": 18677.13,
+                    "transaction_id": 106611184
+                },
+                {
+                    "date": "2023-02-09",
+                    "description": "Interest",
+                    "amount": 38000.05,
+                    "transaction_id": 58805073
+                }
+            ]
+        }
+    }
+}

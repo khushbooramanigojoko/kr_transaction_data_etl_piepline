@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 43,
+        "gender": "female",
+        "address": "212 Marshall Rapid Suite 776, New Robertview, MA 51346",
+        "phone": "+1-324-706-1323x95973",
+        "email": "mccallarthur@example.net",
+        "account": {
+            "account_number": "75bc996b-8248-4526-93f4-97b8cc935a6b",
+            "balance": 20848.35,
+            "transactions": [
+                {
+                    "date": "2023-05-22",
+                    "description": "Interest",
+                    "amount": -4442.34,
+                    "transaction_id": 118558461
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sharon Lopez",
+        "age": 29,
+        "gender": "female",
+        "address": "61019 Mcconnell Cove Suite 717, Freytown, WY 18401",
+        "phone": "(252)458-4253",
+        "email": "feliciasanders@example.com",
+        "account": {
+            "account_number": "9460e896-5029-41bd-91d4-a9ce0f2c3e02",
+            "balance": -23961.37,
+            "transactions": [
+                {
+                    "date": "2024-04-10",
+                    "description": "Withdrawal",
+                    "amount": 1878.53,
+                    "transaction_id": 31898827
+                },
+                {
+                    "date": "2023-05-27",
+                    "description": "Deposit",
+                    "amount": 1303.37,
+                    "transaction_id": 19807604
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Withdrawal",
+                    "amount": -4555.42,
+                    "transaction_id": 38428287
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Deposit",
+                    "amount": 3217.84,
+                    "transaction_id": 40887023
+                },
+                {
+                    "date": "2022-11-16",
+                    "description": "Deposit",
+                    "amount": 4379.9,
+                    "transaction_id": 23375629
+                }
+            ]
+        }
+    }
+}

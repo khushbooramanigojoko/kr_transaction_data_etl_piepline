@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 31,
+        "gender": "female",
+        "address": "09978 Robert Club Apt. 433, New Staceybury, LA 86791",
+        "phone": "647-658-2090x5796",
+        "email": "mcdowellandrea@example.net",
+        "account": {
+            "account_number": "22c644db-2f49-41de-ba53-1cb379f82a06",
+            "balance": 25645.71,
+            "transactions": [
+                {
+                    "date": "2022-11-25",
+                    "description": "Interest",
+                    "amount": -3547.85,
+                    "transaction_id": 11890935
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Withdrawal",
+                    "amount": -3237.56,
+                    "transaction_id": 24319554
+                },
+                {
+                    "date": "2024-06-05",
+                    "description": "Deposit",
+                    "amount": -1117.79,
+                    "transaction_id": 63050926
+                },
+                {
+                    "date": "2024-08-06",
+                    "description": "Deposit",
+                    "amount": 1979.09,
+                    "transaction_id": 87979567
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Withdrawal",
+                    "amount": 1105.09,
+                    "transaction_id": 20838491
+                }
+            ]
+        }
+    }
+}

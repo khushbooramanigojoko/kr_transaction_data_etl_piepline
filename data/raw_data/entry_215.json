@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Vickie Carter",
+        "age": 73,
+        "gender": "male",
+        "address": "Unit 8506 Box 2614, DPO AA 60547",
+        "phone": "(729)721-6966x2582",
+        "email": "john45@example.com",
+        "account": {
+            "account_number": "aec93952-9a0e-4bb6-a390-c1a40dd0973d",
+            "balance": 47805.57,
+            "transactions": [
+                {
+                    "date": "2023-11-13",
+                    "description": "Deposit",
+                    "amount": 15525.82,
+                    "transaction_id": 8010175
+                }
+            ]
+        }
+    }
+}

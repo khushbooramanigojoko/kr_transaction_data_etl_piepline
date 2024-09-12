@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brian Page",
+        "age": 83,
+        "gender": "female",
+        "address": "176 Christine Cove Apt. 313, Taylorfurt, FL 18283",
+        "phone": "3074581789",
+        "email": "kentandrea@example.net",
+        "account": {
+            "account_number": "c87ad4e1-e162-40c3-9b27-7504caec45a0",
+            "balance": 28057.42,
+            "transactions": [
+                {
+                    "date": "2024-05-05",
+                    "description": "Interest",
+                    "amount": 37389.4,
+                    "transaction_id": 104935277
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mary Miller",
+        "age": 38,
+        "gender": "male",
+        "address": "0775 Lopez Divide, Gloriafort, OK 03780",
+        "phone": "(514)258-2410",
+        "email": "wellsjeffrey@example.com",
+        "account": {
+            "account_number": "a3864457-26f5-4cd4-a02d-82f45b04a2f0",
+            "balance": -7459.53,
+            "transactions": [
+                {
+                    "date": "2022-09-02",
+                    "description": "Withdrawal",
+                    "amount": 1590.91,
+                    "transaction_id": 105761186
+                }
+            ]
+        }
+    }
+}

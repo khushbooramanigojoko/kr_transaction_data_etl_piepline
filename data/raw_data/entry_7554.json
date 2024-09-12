@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Albert Johnson",
+        "age": 25,
+        "gender": "female",
+        "address": "0592 Timothy Via, Frankhaven, OH 88190",
+        "phone": "+1-392-712-4338x25739",
+        "email": "nathancarter@example.net",
+        "account": {
+            "account_number": "aeaca3a9-7d03-4bd9-83c5-adf62f747715",
+            "balance": 38670.77,
+            "transactions": [
+                {
+                    "date": "2023-05-12",
+                    "description": "Interest",
+                    "amount": 22681.73,
+                    "transaction_id": 79635768
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Interest",
+                    "amount": 17928.3,
+                    "transaction_id": 4895567
+                },
+                {
+                    "date": "2024-06-03",
+                    "description": "Interest",
+                    "amount": 28948.89,
+                    "transaction_id": 22942359
+                }
+            ]
+        }
+    }
+}

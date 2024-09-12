@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Scott Hale",
+        "age": 40,
+        "gender": "male",
+        "address": "1148 Martin Corners, Stokesborough, FM 43095",
+        "phone": "(506)576-6576x3165",
+        "email": "yutrevor@example.com",
+        "account": {
+            "account_number": "25e7b5a0-6736-441d-973b-bc5d49a8fad8",
+            "balance": 33873.81,
+            "transactions": [
+                {
+                    "date": "2024-08-29",
+                    "description": "Interest",
+                    "amount": 19751.38,
+                    "transaction_id": 12167585
+                },
+                {
+                    "date": "2024-07-21",
+                    "description": "Deposit",
+                    "amount": 26674.41,
+                    "transaction_id": 2713640
+                }
+            ]
+        }
+    }
+}

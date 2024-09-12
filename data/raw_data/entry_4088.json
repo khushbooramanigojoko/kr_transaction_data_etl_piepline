@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Travis Norman",
+        "age": 98,
+        "gender": "male",
+        "address": "USNV Boyle, FPO AP 79702",
+        "phone": "8295785227",
+        "email": "brandon48@example.net",
+        "account": {
+            "account_number": "365c61ab-c2f7-4376-88ec-92b0364cc262",
+            "balance": 21776.67,
+            "transactions": [
+                {
+                    "date": "2024-07-01",
+                    "description": "Deposit",
+                    "amount": 7327.89,
+                    "transaction_id": 75474191
+                }
+            ]
+        }
+    }
+}

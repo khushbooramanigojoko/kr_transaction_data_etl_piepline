@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Megan Johnson",
+        "age": 42,
+        "gender": "male",
+        "address": "7478 Elijah Lakes Apt. 571, Cannonfurt, AS 56271",
+        "phone": "001-347-655-8781x6481",
+        "email": "bakermichelle@example.org",
+        "account": {
+            "account_number": "3d24d7bd-e236-4dc4-a050-2837592b2d2d",
+            "balance": 14889.67,
+            "transactions": [
+                {
+                    "date": "2024-08-18",
+                    "description": "Deposit",
+                    "amount": 49971.18,
+                    "transaction_id": 2830646
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Withdrawal",
+                    "amount": 20227.13,
+                    "transaction_id": 33850347
+                },
+                {
+                    "date": "2022-11-16",
+                    "description": "Deposit",
+                    "amount": 26219.12,
+                    "transaction_id": 7571807
+                }
+            ]
+        }
+    }
+}

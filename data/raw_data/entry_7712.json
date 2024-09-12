@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "James Cox",
+        "age": 94,
+        "gender": "male",
+        "address": "590 Amy Plain, Port Daniel, ID 72816",
+        "phone": "001-405-595-6813x6971",
+        "email": "thomasschmitt@example.com",
+        "account": {
+            "account_number": "914b1917-a811-46e2-a0ea-1967487172ce",
+            "balance": 36889.76,
+            "transactions": [
+                {
+                    "date": "2022-12-12",
+                    "description": "Withdrawal",
+                    "amount": 21776.68,
+                    "transaction_id": 40610413
+                }
+            ]
+        }
+    }
+}

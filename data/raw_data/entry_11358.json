@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 62,
+        "gender": "female",
+        "address": "682 Washington Prairie Suite 606, Jamesberg, SC 93706",
+        "phone": "306-539-0205x06449",
+        "email": "justinbarrett@example.org",
+        "account": {
+            "account_number": "a06b0b42-24a3-4920-9131-e4a722d8468a",
+            "balance": 41478.47,
+            "transactions": [
+                {
+                    "date": "2023-03-14",
+                    "description": "Withdrawal",
+                    "amount": -998.65,
+                    "transaction_id": 27706587
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Deposit",
+                    "amount": -3901.94,
+                    "transaction_id": 13044553
+                },
+                {
+                    "date": "2023-01-01",
+                    "description": "Interest",
+                    "amount": -905.92,
+                    "transaction_id": 13581653
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Withdrawal",
+                    "amount": 2908.45,
+                    "transaction_id": 96649264
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Deposit",
+                    "amount": 537.93,
+                    "transaction_id": 76559642
+                }
+            ]
+        }
+    }
+}

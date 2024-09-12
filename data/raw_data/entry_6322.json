@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Matthew Garrison",
+        "age": 37,
+        "gender": "female",
+        "address": "135 Palmer Forge Suite 234, Aaronberg, WA 34998",
+        "phone": "427.310.8922x064",
+        "email": "marcuswong@example.org",
+        "account": {
+            "account_number": "9d2abb25-3102-4ac0-b8f6-17167dcb6173",
+            "balance": 26967.06,
+            "transactions": [
+                {
+                    "date": "2023-08-27",
+                    "description": "Deposit",
+                    "amount": 18935.73,
+                    "transaction_id": 52494982
+                }
+            ]
+        }
+    }
+}

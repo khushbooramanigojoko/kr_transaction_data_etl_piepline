@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mike Lynn",
+        "age": 48,
+        "gender": "male",
+        "address": "64741 Anita Camp Suite 831, Port Sandra, ND 54968",
+        "phone": "454.449.3607x37586",
+        "email": "brennanjason@example.org",
+        "account": {
+            "account_number": "7bfd7402-6ff3-4a63-a5b5-817e66835d16",
+            "balance": 9493.15,
+            "transactions": [
+                {
+                    "date": "2024-02-26",
+                    "description": "Interest",
+                    "amount": 20898.5,
+                    "transaction_id": 81528652
+                },
+                {
+                    "date": "2024-02-27",
+                    "description": "Interest",
+                    "amount": 31299.53,
+                    "transaction_id": 25633189
+                }
+            ]
+        }
+    }
+}

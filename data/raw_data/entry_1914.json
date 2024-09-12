@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lauren Clarke",
+        "age": 37,
+        "gender": "female",
+        "address": "2157 Nathan Highway Apt. 158, Simmonsside, NV 71965",
+        "phone": "488-655-4975",
+        "email": "tim75@example.org",
+        "account": {
+            "account_number": "11502d33-3620-488e-9797-a85a38f293bc",
+            "balance": 37043.93,
+            "transactions": [
+                {
+                    "date": "2024-01-30",
+                    "description": "Interest",
+                    "amount": 40068.33,
+                    "transaction_id": 69027371
+                },
+                {
+                    "date": "2024-04-10",
+                    "description": "Deposit",
+                    "amount": 2644.53,
+                    "transaction_id": 56315809
+                }
+            ]
+        }
+    }
+}

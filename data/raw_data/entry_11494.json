@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Susan Flores",
+        "age": 69,
+        "gender": "male",
+        "address": "0739 Ana Spurs, Thomasbury, MO 04211",
+        "phone": "(427)928-1955x8106",
+        "email": "olivialane@example.net",
+        "account": {
+            "account_number": "3da030c9-098d-4928-937c-dba9a89476a3",
+            "balance": -18076.28,
+            "transactions": [
+                {
+                    "date": "2024-01-26",
+                    "description": "Interest",
+                    "amount": 1896.52,
+                    "transaction_id": 95403317
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Deposit",
+                    "amount": 3410.96,
+                    "transaction_id": 5330029
+                },
+                {
+                    "date": "2023-01-07",
+                    "description": "Withdrawal",
+                    "amount": -134.26,
+                    "transaction_id": 39947142
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Deposit",
+                    "amount": 1297.55,
+                    "transaction_id": 104119101
+                }
+            ]
+        }
+    }
+}

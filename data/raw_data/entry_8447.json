@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Cory Cross",
+        "age": 31,
+        "gender": "female",
+        "address": "45248 Kramer Alley, Jamesland, UT 22999",
+        "phone": "660.902.7233",
+        "email": "griffinnatalie@example.org",
+        "account": {
+            "account_number": "32f50d38-0fbc-44da-b9fa-f20ecb025f07",
+            "balance": 6126.71,
+            "transactions": [
+                {
+                    "date": "2023-12-12",
+                    "description": "Interest",
+                    "amount": 39091.76,
+                    "transaction_id": 70447536
+                }
+            ]
+        }
+    }
+}

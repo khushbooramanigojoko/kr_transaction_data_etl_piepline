@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 80,
+        "gender": "female",
+        "address": "80452 Joanna Way Apt. 445, Angelaburgh, OH 09667",
+        "phone": "249.712.2310",
+        "email": "xcole@example.net",
+        "account": {
+            "account_number": "271913a3-0d7b-47a0-8b89-a45ed5c7abbc",
+            "balance": 38161.77,
+            "transactions": [
+                {
+                    "date": "2024-07-14",
+                    "description": "Deposit",
+                    "amount": -4867.63,
+                    "transaction_id": 9847684
+                },
+                {
+                    "date": "2022-12-20",
+                    "description": "Deposit",
+                    "amount": -596.05,
+                    "transaction_id": 86684094
+                },
+                {
+                    "date": "2023-01-24",
+                    "description": "Interest",
+                    "amount": -3300.88,
+                    "transaction_id": 28040954
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Interest",
+                    "amount": 4033.51,
+                    "transaction_id": 107287718
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Alexander Figueroa",
+        "age": 31,
+        "gender": "female",
+        "address": "6286 Ariel Lock, New Douglas, TN 72334",
+        "phone": "203-836-1953",
+        "email": "vazquezlindsey@example.net",
+        "account": {
+            "account_number": "f8791647-bcd0-4ea0-b2b6-2abd490e0470",
+            "balance": 15236.83,
+            "transactions": [
+                {
+                    "date": "2024-07-26",
+                    "description": "Withdrawal",
+                    "amount": 48889.26,
+                    "transaction_id": 51582474
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Withdrawal",
+                    "amount": 10910.16,
+                    "transaction_id": 94222929
+                },
+                {
+                    "date": "2024-01-30",
+                    "description": "Deposit",
+                    "amount": 32967.98,
+                    "transaction_id": 35817390
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Interest",
+                    "amount": 30005.1,
+                    "transaction_id": 114158399
+                },
+                {
+                    "date": "2023-06-10",
+                    "description": "Interest",
+                    "amount": 27610.05,
+                    "transaction_id": 32417763
+                }
+            ]
+        }
+    }
+}

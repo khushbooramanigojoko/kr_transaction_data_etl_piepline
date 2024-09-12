@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Barry Hale",
+        "age": 76,
+        "gender": "male",
+        "address": "853 Harris Court Apt. 443, Port Tonya, CO 19652",
+        "phone": "895-343-2735x78339",
+        "email": "lewisdawn@example.org",
+        "account": {
+            "account_number": "405513df-9aef-421c-b765-85dd47728cbf",
+            "balance": 42005.07,
+            "transactions": [
+                {
+                    "date": "2023-01-17",
+                    "description": "Interest",
+                    "amount": 39623.9,
+                    "transaction_id": 95106437
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Withdrawal",
+                    "amount": 44712.26,
+                    "transaction_id": 1403147
+                },
+                {
+                    "date": "2023-12-30",
+                    "description": "Interest",
+                    "amount": 48845.07,
+                    "transaction_id": 4242648
+                },
+                {
+                    "date": "2023-08-31",
+                    "description": "Withdrawal",
+                    "amount": 47013.84,
+                    "transaction_id": 31836107
+                }
+            ]
+        }
+    }
+}

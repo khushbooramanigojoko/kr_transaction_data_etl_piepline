@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tonya Alvarez",
+        "age": 58,
+        "gender": "male",
+        "address": "12482 Derek Ville Apt. 574, Jordanton, WV 75443",
+        "phone": "819-901-0292",
+        "email": "perezkevin@example.com",
+        "account": {
+            "account_number": "a8ac3fcb-88d5-4368-897b-e9ba9a160b5b",
+            "balance": 12734.06,
+            "transactions": [
+                {
+                    "date": "2023-12-14",
+                    "description": "Deposit",
+                    "amount": 44365.42,
+                    "transaction_id": 93885946
+                }
+            ]
+        }
+    }
+}

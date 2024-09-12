@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Hailey Fitzgerald",
+        "age": 98,
+        "gender": "female",
+        "address": "04054 John Terrace Suite 473, West Derek, OK 65107",
+        "phone": "001-908-684-5369",
+        "email": "james01@example.net",
+        "account": {
+            "account_number": "e0f92043-6ae4-4966-9f98-0126fb2e13fc",
+            "balance": 39181.45,
+            "transactions": [
+                {
+                    "date": "2024-01-24",
+                    "description": "Deposit",
+                    "amount": 44412.52,
+                    "transaction_id": 8568769
+                },
+                {
+                    "date": "2023-06-25",
+                    "description": "Interest",
+                    "amount": 38061.78,
+                    "transaction_id": 79198571
+                },
+                {
+                    "date": "2023-07-26",
+                    "description": "Interest",
+                    "amount": 16909.13,
+                    "transaction_id": 29959801
+                },
+                {
+                    "date": "2022-11-18",
+                    "description": "Deposit",
+                    "amount": 44826.15,
+                    "transaction_id": 51640827
+                }
+            ]
+        }
+    }
+}

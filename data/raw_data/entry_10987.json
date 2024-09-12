@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kristen Griffith",
+        "age": 69,
+        "gender": "female",
+        "address": "646 Chelsea Square, Wilsonside, NY 37122",
+        "phone": "871.640.2982x301",
+        "email": "frankcourtney@example.net",
+        "account": {
+            "account_number": "634e1ac4-f3ed-42bf-aa39-3bed04f0ef6f",
+            "balance": -7912.84,
+            "transactions": [
+                {
+                    "date": "2023-07-23",
+                    "description": "Withdrawal",
+                    "amount": 2844.19,
+                    "transaction_id": 35710665
+                },
+                {
+                    "date": "2023-01-11",
+                    "description": "Interest",
+                    "amount": 3245.97,
+                    "transaction_id": 91740440
+                },
+                {
+                    "date": "2023-11-21",
+                    "description": "Deposit",
+                    "amount": 3036.54,
+                    "transaction_id": 40408456
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Interest",
+                    "amount": 2495.41,
+                    "transaction_id": 63538916
+                }
+            ]
+        }
+    }
+}

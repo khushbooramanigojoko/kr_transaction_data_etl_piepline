@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ann Gray",
+        "age": 36,
+        "gender": "female",
+        "address": "PSC 4092, Box 6010, APO AA 33822",
+        "phone": "(481)281-8997x9381",
+        "email": "ijordan@example.com",
+        "account": {
+            "account_number": "fd525d72-3568-4fb8-922d-104a546ddc9b",
+            "balance": 38073.93,
+            "transactions": [
+                {
+                    "date": "2024-07-21",
+                    "description": "Withdrawal",
+                    "amount": 34904.72,
+                    "transaction_id": 80150993
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Deposit",
+                    "amount": 8197.24,
+                    "transaction_id": 39381750
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Withdrawal",
+                    "amount": 18343.73,
+                    "transaction_id": 63656044
+                },
+                {
+                    "date": "2024-03-26",
+                    "description": "Withdrawal",
+                    "amount": 40545.92,
+                    "transaction_id": 119296270
+                }
+            ]
+        }
+    }
+}

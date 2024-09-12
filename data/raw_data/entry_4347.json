@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Carlos Baird",
+        "age": 91,
+        "gender": "female",
+        "address": "413 Hartman Summit, Andrewville, WV 91104",
+        "phone": "524-970-5308x23121",
+        "email": "michael66@example.org",
+        "account": {
+            "account_number": "d2b9eb89-92ac-44e7-b7fa-a656b22ec46f",
+            "balance": 19971.05,
+            "transactions": [
+                {
+                    "date": "2022-09-12",
+                    "description": "Withdrawal",
+                    "amount": 21060.69,
+                    "transaction_id": 39406608
+                },
+                {
+                    "date": "2023-07-06",
+                    "description": "Interest",
+                    "amount": 13092.26,
+                    "transaction_id": 87325344
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Deposit",
+                    "amount": 16270.88,
+                    "transaction_id": 30701437
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Withdrawal",
+                    "amount": 41695.84,
+                    "transaction_id": 43604622
+                }
+            ]
+        }
+    }
+}

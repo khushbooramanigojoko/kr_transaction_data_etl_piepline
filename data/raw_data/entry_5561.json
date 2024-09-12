@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Deborah Humphrey",
+        "age": 47,
+        "gender": "male",
+        "address": "962 Chad Course, Isaacmouth, NV 77308",
+        "phone": "518.637.5475x60938",
+        "email": "bjohnson@example.net",
+        "account": {
+            "account_number": "9fa66cd4-8334-4907-a18b-b5833a0b437b",
+            "balance": 23816.93,
+            "transactions": [
+                {
+                    "date": "2024-08-19",
+                    "description": "Interest",
+                    "amount": 33990.58,
+                    "transaction_id": 70059302
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Interest",
+                    "amount": 47222.02,
+                    "transaction_id": 23819294
+                },
+                {
+                    "date": "2024-08-03",
+                    "description": "Interest",
+                    "amount": 44295.21,
+                    "transaction_id": 81877952
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Deposit",
+                    "amount": 28397.66,
+                    "transaction_id": 14035861
+                },
+                {
+                    "date": "2023-01-29",
+                    "description": "Interest",
+                    "amount": 13910.74,
+                    "transaction_id": 30721963
+                }
+            ]
+        }
+    }
+}

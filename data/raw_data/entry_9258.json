@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 64,
+        "gender": "female",
+        "address": "3792 Courtney Rest, South Brent, WY 90395",
+        "phone": "+1-347-256-2132x9561",
+        "email": "clarkdavid@example.com",
+        "account": {
+            "account_number": "27dd7215-6354-4bca-8317-e0dbcfb7eab7",
+            "balance": 24724.7,
+            "transactions": [
+                {
+                    "date": "2023-01-31",
+                    "description": "Withdrawal",
+                    "amount": 569.6,
+                    "transaction_id": 101104729
+                },
+                {
+                    "date": "2023-07-10",
+                    "description": "Interest",
+                    "amount": -2300.61,
+                    "transaction_id": 34183192
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Withdrawal",
+                    "amount": -4176.32,
+                    "transaction_id": 32321159
+                },
+                {
+                    "date": "2024-07-27",
+                    "description": "Interest",
+                    "amount": -2841.22,
+                    "transaction_id": 116203808
+                },
+                {
+                    "date": "2022-09-27",
+                    "description": "Deposit",
+                    "amount": 2904.91,
+                    "transaction_id": 58526006
+                }
+            ]
+        }
+    }
+}

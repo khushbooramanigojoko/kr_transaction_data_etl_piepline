@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Thomas Griffith",
+        "age": 82,
+        "gender": "male",
+        "address": "98855 Paul Cape Suite 103, West Tiffanybury, WA 50057",
+        "phone": "(936)713-5214x8250",
+        "email": "ymarshall@example.org",
+        "account": {
+            "account_number": "7e4be8ac-47e1-4876-9147-f3f99333caf7",
+            "balance": 41843.39,
+            "transactions": [
+                {
+                    "date": "2024-03-11",
+                    "description": "Interest",
+                    "amount": 32373.5,
+                    "transaction_id": 54830348
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Deposit",
+                    "amount": 35256.77,
+                    "transaction_id": 66857791
+                }
+            ]
+        }
+    }
+}

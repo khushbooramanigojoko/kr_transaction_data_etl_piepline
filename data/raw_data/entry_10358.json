@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Anita Waters",
+        "age": 47,
+        "gender": "female",
+        "address": "11560 Lisa Avenue, Walkerfort, MI 48957",
+        "phone": "001-396-557-7395",
+        "email": "millerdeborah@example.org",
+        "account": {
+            "account_number": "59bf95c3-8681-4fb5-8c65-9e9460ad411e",
+            "balance": -48103.47,
+            "transactions": [
+                {
+                    "date": "2023-08-20",
+                    "description": "Interest",
+                    "amount": -2949.4,
+                    "transaction_id": 47259497
+                }
+            ]
+        }
+    }
+}

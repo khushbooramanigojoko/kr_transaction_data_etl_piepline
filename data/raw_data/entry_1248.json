@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Charles Sparks",
+        "age": 56,
+        "gender": "female",
+        "address": "768 Smith Ferry Suite 417, West Austinport, MH 01219",
+        "phone": "(823)303-6245x8937",
+        "email": "ubaker@example.com",
+        "account": {
+            "account_number": "87aa86f0-a5ba-4c85-976c-4a9e67c6e615",
+            "balance": 31673.97,
+            "transactions": [
+                {
+                    "date": "2022-09-25",
+                    "description": "Withdrawal",
+                    "amount": 28080.75,
+                    "transaction_id": 46409667
+                },
+                {
+                    "date": "2024-06-06",
+                    "description": "Deposit",
+                    "amount": 39271.31,
+                    "transaction_id": 27373868
+                },
+                {
+                    "date": "2023-01-06",
+                    "description": "Interest",
+                    "amount": 38374.2,
+                    "transaction_id": 65167363
+                },
+                {
+                    "date": "2024-02-27",
+                    "description": "Withdrawal",
+                    "amount": 36278.43,
+                    "transaction_id": 26368438
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Deposit",
+                    "amount": 35860.26,
+                    "transaction_id": 97679531
+                }
+            ]
+        }
+    }
+}

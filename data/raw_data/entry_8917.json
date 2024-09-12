@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 92,
+        "gender": "female",
+        "address": "79453 Joel Centers Apt. 974, East Zacharyshire, WY 63879",
+        "phone": "287.728.7042x335",
+        "email": "gregoryramirez@example.org",
+        "account": {
+            "account_number": "25de20aa-ba2f-4b8e-9449-f34795a22a6b",
+            "balance": 28632.38,
+            "transactions": [
+                {
+                    "date": "2023-02-06",
+                    "description": "Deposit",
+                    "amount": 4305.02,
+                    "transaction_id": 18787064
+                }
+            ]
+        }
+    }
+}

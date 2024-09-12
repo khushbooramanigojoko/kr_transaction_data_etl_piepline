@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Laurie Sweeney",
+        "age": 80,
+        "gender": "female",
+        "address": "9959 Amber Trail, Port Michaeltown, MD 57865",
+        "phone": "611-986-0643x32930",
+        "email": "mathiserica@example.org",
+        "account": {
+            "account_number": "d8c8670e-e9c2-43e4-b55a-ae5e12328088",
+            "balance": 6616.56,
+            "transactions": [
+                {
+                    "date": "2024-07-04",
+                    "description": "Withdrawal",
+                    "amount": 46707.29,
+                    "transaction_id": 117679768
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Withdrawal",
+                    "amount": 49384.52,
+                    "transaction_id": 96212454
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Interest",
+                    "amount": 16461.65,
+                    "transaction_id": 61131744
+                },
+                {
+                    "date": "2024-04-01",
+                    "description": "Interest",
+                    "amount": 14123.36,
+                    "transaction_id": 106532169
+                },
+                {
+                    "date": "2024-02-27",
+                    "description": "Interest",
+                    "amount": 41140.97,
+                    "transaction_id": 88038106
+                }
+            ]
+        }
+    }
+}

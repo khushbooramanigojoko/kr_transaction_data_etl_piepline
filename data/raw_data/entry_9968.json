@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lee Collins",
+        "age": 97,
+        "gender": "male",
+        "address": "1788 Rhodes Drive Suite 818, South Phillip, MS 59150",
+        "phone": "934.449.5869x753",
+        "email": "pamelabarnes@example.net",
+        "account": {
+            "account_number": "3bcf9464-db14-460f-82fd-563c8f4ec00e",
+            "balance": -23907.22,
+            "transactions": [
+                {
+                    "date": "2023-03-31",
+                    "description": "Deposit",
+                    "amount": 3689.79,
+                    "transaction_id": 37017651
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Deposit",
+                    "amount": -3300.89,
+                    "transaction_id": 68780868
+                }
+            ]
+        }
+    }
+}

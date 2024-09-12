@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Andrea Brooks",
+        "age": 81,
+        "gender": "male",
+        "address": "12970 Murray Coves Suite 398, Wilsonside, OH 64807",
+        "phone": "962-213-4521",
+        "email": "stephanieshelton@example.org",
+        "account": {
+            "account_number": "d4062a22-b34b-400c-9bfd-27cc081e26ac",
+            "balance": 18636.99,
+            "transactions": [
+                {
+                    "date": "2023-03-29",
+                    "description": "Withdrawal",
+                    "amount": 11739.33,
+                    "transaction_id": 27835463
+                }
+            ]
+        }
+    }
+}

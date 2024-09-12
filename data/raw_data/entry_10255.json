@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Cindy Gonzalez",
+        "age": 20,
+        "gender": "female",
+        "address": "080 Rodney Skyway, Amyland, AS 98512",
+        "phone": "422-899-4408x75767",
+        "email": "ann54@example.org",
+        "account": {
+            "account_number": "a3fec175-7f38-4639-a747-b0f271deda4b",
+            "balance": -6954.04,
+            "transactions": [
+                {
+                    "date": "2023-11-16",
+                    "description": "Deposit",
+                    "amount": 1003.56,
+                    "transaction_id": 33040233
+                }
+            ]
+        }
+    }
+}

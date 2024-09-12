@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tina Williams",
+        "age": 50,
+        "gender": "male",
+        "address": "771 Anna Springs, Lake Debra, GU 46689",
+        "phone": "(903)459-8415x0873",
+        "email": "derek59@example.com",
+        "account": {
+            "account_number": "4074d166-5e5e-450a-b9f6-ee1319527bab",
+            "balance": 39551.08,
+            "transactions": [
+                {
+                    "date": "2023-03-04",
+                    "description": "Deposit",
+                    "amount": 36348.83,
+                    "transaction_id": 42737773
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Withdrawal",
+                    "amount": 34933.44,
+                    "transaction_id": 83270427
+                }
+            ]
+        }
+    }
+}

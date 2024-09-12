@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Eric Keller",
+        "age": 25,
+        "gender": "female",
+        "address": "6662 Thomas Rapid, Morenomouth, AS 44684",
+        "phone": "736.375.4807x54942",
+        "email": "debra70@example.com",
+        "account": {
+            "account_number": "b52c35bc-6247-4176-a528-541f3b7e41fd",
+            "balance": 16951.32,
+            "transactions": [
+                {
+                    "date": "2022-10-12",
+                    "description": "Withdrawal",
+                    "amount": 6559.4,
+                    "transaction_id": 79108390
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Interest",
+                    "amount": 6143.21,
+                    "transaction_id": 103073863
+                },
+                {
+                    "date": "2023-10-18",
+                    "description": "Withdrawal",
+                    "amount": 20363.54,
+                    "transaction_id": 16499684
+                }
+            ]
+        }
+    }
+}

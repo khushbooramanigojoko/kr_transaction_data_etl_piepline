@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Patrick Flores",
+        "age": 79,
+        "gender": "male",
+        "address": "259 James Mountains, Jenniferhaven, CO 30952",
+        "phone": "(272)337-5568x547",
+        "email": "karen30@example.net",
+        "account": {
+            "account_number": "9fe63096-ab96-42c4-9ce4-b6c0de9a8c2e",
+            "balance": 29621.77,
+            "transactions": [
+                {
+                    "date": "2023-04-12",
+                    "description": "Interest",
+                    "amount": 40013.44,
+                    "transaction_id": 99905065
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Deposit",
+                    "amount": 49207.1,
+                    "transaction_id": 50878253
+                }
+            ]
+        }
+    }
+}

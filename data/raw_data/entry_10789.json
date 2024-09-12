@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Robert Rodgers",
+        "age": 19,
+        "gender": "male",
+        "address": "613 Travis Union Suite 434, Michelemouth, AL 63653",
+        "phone": "720.623.7799",
+        "email": "george17@example.com",
+        "account": {
+            "account_number": "881f994e-0b23-467d-89a0-0847807cd73c",
+            "balance": -30023.16,
+            "transactions": [
+                {
+                    "date": "2023-08-16",
+                    "description": "Interest",
+                    "amount": 3312.54,
+                    "transaction_id": 74907456
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Deposit",
+                    "amount": -4434.9,
+                    "transaction_id": 112698058
+                },
+                {
+                    "date": "2023-09-20",
+                    "description": "Withdrawal",
+                    "amount": 1957.0,
+                    "transaction_id": 49330962
+                }
+            ]
+        }
+    }
+}

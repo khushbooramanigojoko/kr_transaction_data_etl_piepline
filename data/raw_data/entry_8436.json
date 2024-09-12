@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ryan Reynolds",
+        "age": 98,
+        "gender": "male",
+        "address": "PSC 4475, Box 2900, APO AP 28233",
+        "phone": "325.537.2733",
+        "email": "ramirezzachary@example.com",
+        "account": {
+            "account_number": "0c55ccc0-8bf2-4d2c-a3f4-8a56278271cf",
+            "balance": 40642.7,
+            "transactions": [
+                {
+                    "date": "2022-12-17",
+                    "description": "Interest",
+                    "amount": 47969.62,
+                    "transaction_id": 73781280
+                }
+            ]
+        }
+    }
+}

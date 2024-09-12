@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Steven Martinez",
+        "age": 80,
+        "gender": "female",
+        "address": "19944 Kenneth Avenue Apt. 560, Jeremyborough, DC 04240",
+        "phone": "526.656.1343x91683",
+        "email": "mcdonaldjennifer@example.com",
+        "account": {
+            "account_number": "d5608d5b-b62f-411e-af19-e7161f451d2f",
+            "balance": 47910.65,
+            "transactions": [
+                {
+                    "date": "2024-05-10",
+                    "description": "Deposit",
+                    "amount": 29209.62,
+                    "transaction_id": 18851189
+                }
+            ]
+        }
+    }
+}

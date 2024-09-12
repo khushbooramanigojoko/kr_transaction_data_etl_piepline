@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Gregg Townsend",
+        "age": 53,
+        "gender": "female",
+        "address": "5347 Chapman Rapids Suite 000, Wademouth, DE 56178",
+        "phone": "(936)206-1702x28186",
+        "email": "christopherbailey@example.org",
+        "account": {
+            "account_number": "33cee83b-92e5-4485-b666-6e1b8b49c8ac",
+            "balance": 43321.18,
+            "transactions": [
+                {
+                    "date": "2023-01-20",
+                    "description": "Withdrawal",
+                    "amount": 11346.09,
+                    "transaction_id": 62429205
+                },
+                {
+                    "date": "2023-11-07",
+                    "description": "Withdrawal",
+                    "amount": 35747.93,
+                    "transaction_id": 5519307
+                },
+                {
+                    "date": "2023-01-06",
+                    "description": "Withdrawal",
+                    "amount": 38345.26,
+                    "transaction_id": 40479617
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Interest",
+                    "amount": 3497.14,
+                    "transaction_id": 95334149
+                }
+            ]
+        }
+    }
+}

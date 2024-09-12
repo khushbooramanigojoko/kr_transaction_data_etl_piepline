@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Carrie Powell",
+        "age": 20,
+        "gender": "male",
+        "address": "662 Craig Plains, Josephmouth, NE 12092",
+        "phone": "240.316.9654x4993",
+        "email": "hardinbenjamin@example.org",
+        "account": {
+            "account_number": "b697b7e0-e503-4106-8fc1-68fc34932a3f",
+            "balance": 44642.54,
+            "transactions": [
+                {
+                    "date": "2023-11-13",
+                    "description": "Deposit",
+                    "amount": 42652.98,
+                    "transaction_id": 60764044
+                },
+                {
+                    "date": "2023-06-03",
+                    "description": "Interest",
+                    "amount": 6557.92,
+                    "transaction_id": 10265379
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Withdrawal",
+                    "amount": 40850.53,
+                    "transaction_id": 119488029
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Deposit",
+                    "amount": 36766.48,
+                    "transaction_id": 80220358
+                }
+            ]
+        }
+    }
+}

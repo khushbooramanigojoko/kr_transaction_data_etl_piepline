@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kristy Copeland",
+        "age": 82,
+        "gender": "male",
+        "address": "8092 Chad Knolls Suite 464, Wilkinsfort, IA 88909",
+        "phone": "001-350-210-4303x34971",
+        "email": "michelleramos@example.net",
+        "account": {
+            "account_number": "35b423c1-37cc-474c-9d99-1adf2ea7a0cc",
+            "balance": 16266.68,
+            "transactions": [
+                {
+                    "date": "2024-03-23",
+                    "description": "Withdrawal",
+                    "amount": 17322.07,
+                    "transaction_id": 55674063
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Interest",
+                    "amount": 44599.4,
+                    "transaction_id": 112329353
+                },
+                {
+                    "date": "2023-07-10",
+                    "description": "Withdrawal",
+                    "amount": 4044.71,
+                    "transaction_id": 115472503
+                },
+                {
+                    "date": "2024-06-26",
+                    "description": "Interest",
+                    "amount": 4400.13,
+                    "transaction_id": 20390544
+                },
+                {
+                    "date": "2023-08-22",
+                    "description": "Deposit",
+                    "amount": 35827.57,
+                    "transaction_id": 101347086
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amy Ellis",
+        "age": 25,
+        "gender": "male",
+        "address": "97544 Christy Causeway, East Barbaraside, PW 30393",
+        "phone": "001-971-982-1710x8651",
+        "email": "perry62@example.com",
+        "account": {
+            "account_number": "7104dbaa-a20a-43e6-a62d-f1d7ac8e8e85",
+            "balance": 22194.29,
+            "transactions": [
+                {
+                    "date": "2023-01-31",
+                    "description": "Deposit",
+                    "amount": 14929.19,
+                    "transaction_id": 99756078
+                },
+                {
+                    "date": "2022-12-19",
+                    "description": "Withdrawal",
+                    "amount": 28977.22,
+                    "transaction_id": 50609597
+                }
+            ]
+        }
+    }
+}

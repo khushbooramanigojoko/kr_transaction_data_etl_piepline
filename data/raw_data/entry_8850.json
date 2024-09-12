@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 99,
+        "gender": "male",
+        "address": "832 Amber Tunnel Suite 353, Andrewview, VA 44976",
+        "phone": "+1-912-486-6116x465",
+        "email": "xaviergordon@example.com",
+        "account": {
+            "account_number": "c64a874b-bac7-4db4-a0fe-de7a91b36d2b",
+            "balance": 18248.64,
+            "transactions": [
+                {
+                    "date": "2023-07-01",
+                    "description": "Withdrawal",
+                    "amount": -2246.84,
+                    "transaction_id": 94192762
+                }
+            ]
+        }
+    }
+}

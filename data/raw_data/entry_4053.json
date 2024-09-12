@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joshua Jackson",
+        "age": 49,
+        "gender": "male",
+        "address": "05749 Carl Creek, East David, WI 49653",
+        "phone": "466.815.9713x8951",
+        "email": "garciajacob@example.net",
+        "account": {
+            "account_number": "3d901826-3ac9-4f2c-bd24-e7eae49cc323",
+            "balance": 10747.62,
+            "transactions": [
+                {
+                    "date": "2024-06-23",
+                    "description": "Withdrawal",
+                    "amount": 31589.07,
+                    "transaction_id": 119913937
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Interest",
+                    "amount": 8446.31,
+                    "transaction_id": 4859600
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Interest",
+                    "amount": 21445.67,
+                    "transaction_id": 94292537
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dawn Lawrence",
+        "age": 22,
+        "gender": "male",
+        "address": "196 Michael Manors Apt. 453, East Roberto, TX 39003",
+        "phone": "942-855-1147",
+        "email": "penavanessa@example.org",
+        "account": {
+            "account_number": "442f3100-d83a-4357-88df-8885a7eb86cf",
+            "balance": 38663.77,
+            "transactions": [
+                {
+                    "date": "2023-03-01",
+                    "description": "Withdrawal",
+                    "amount": 27232.43,
+                    "transaction_id": 33685746
+                },
+                {
+                    "date": "2024-06-02",
+                    "description": "Withdrawal",
+                    "amount": 25368.09,
+                    "transaction_id": 103729404
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Deposit",
+                    "amount": 15671.69,
+                    "transaction_id": 36826258
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Interest",
+                    "amount": 5507.01,
+                    "transaction_id": 59699135
+                },
+                {
+                    "date": "2023-07-04",
+                    "description": "Withdrawal",
+                    "amount": 4774.86,
+                    "transaction_id": 71504816
+                }
+            ]
+        }
+    }
+}

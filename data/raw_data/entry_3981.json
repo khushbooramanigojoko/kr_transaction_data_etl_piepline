@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "David Burke",
+        "age": 43,
+        "gender": "male",
+        "address": "94566 Collins Turnpike Suite 927, Smithton, VI 22088",
+        "phone": "+1-531-496-8979",
+        "email": "nelsonmadison@example.net",
+        "account": {
+            "account_number": "20268916-8190-4f41-8f54-2ed937fc691b",
+            "balance": 6952.2,
+            "transactions": [
+                {
+                    "date": "2023-06-04",
+                    "description": "Deposit",
+                    "amount": 20479.69,
+                    "transaction_id": 15346890
+                },
+                {
+                    "date": "2023-02-03",
+                    "description": "Interest",
+                    "amount": 10027.29,
+                    "transaction_id": 24737979
+                },
+                {
+                    "date": "2022-10-21",
+                    "description": "Withdrawal",
+                    "amount": 1656.04,
+                    "transaction_id": 105330302
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Interest",
+                    "amount": 2448.52,
+                    "transaction_id": 113078416
+                }
+            ]
+        }
+    }
+}

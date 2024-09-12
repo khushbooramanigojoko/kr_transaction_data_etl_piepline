@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amanda Palmer",
+        "age": 22,
+        "gender": "male",
+        "address": "238 Mark Fall Apt. 144, Rebeccaborough, HI 53246",
+        "phone": "641-691-3051x322",
+        "email": "jeffreylittle@example.com",
+        "account": {
+            "account_number": "0f38c591-78b3-4fd6-aa8e-3321b4521921",
+            "balance": -35659.28,
+            "transactions": [
+                {
+                    "date": "2024-04-04",
+                    "description": "Withdrawal",
+                    "amount": 1096.94,
+                    "transaction_id": 15707047
+                },
+                {
+                    "date": "2024-01-19",
+                    "description": "Deposit",
+                    "amount": 164.09,
+                    "transaction_id": 112253486
+                },
+                {
+                    "date": "2024-08-14",
+                    "description": "Interest",
+                    "amount": -4152.65,
+                    "transaction_id": 98544879
+                },
+                {
+                    "date": "2023-04-12",
+                    "description": "Withdrawal",
+                    "amount": -2597.79,
+                    "transaction_id": 24777742
+                }
+            ]
+        }
+    }
+}

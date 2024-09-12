@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kari Weber",
+        "age": 41,
+        "gender": "female",
+        "address": "8861 Anthony Ville, East Kristinstad, WA 11142",
+        "phone": "536-266-7152x7490",
+        "email": "kparker@example.net",
+        "account": {
+            "account_number": "a133dc21-3de5-4465-b026-649526bb4e64",
+            "balance": 22555.3,
+            "transactions": [
+                {
+                    "date": "2024-07-16",
+                    "description": "Deposit",
+                    "amount": 38936.31,
+                    "transaction_id": 97571481
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Interest",
+                    "amount": 1834.32,
+                    "transaction_id": 45089102
+                }
+            ]
+        }
+    }
+}

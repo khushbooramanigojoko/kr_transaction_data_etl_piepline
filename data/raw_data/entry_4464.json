@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Nancy Moore",
+        "age": 42,
+        "gender": "female",
+        "address": "109 Mark Neck Apt. 702, Sellersland, MH 07545",
+        "phone": "+1-995-353-4152x91488",
+        "email": "brandon52@example.org",
+        "account": {
+            "account_number": "2ef90f15-7964-4c79-bce2-9eee891b342c",
+            "balance": 14346.76,
+            "transactions": [
+                {
+                    "date": "2023-06-03",
+                    "description": "Deposit",
+                    "amount": 34391.07,
+                    "transaction_id": 110844569
+                }
+            ]
+        }
+    }
+}

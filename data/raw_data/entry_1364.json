@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Eric Romero",
+        "age": 47,
+        "gender": "male",
+        "address": "20030 Thomas Port, West James, DC 37047",
+        "phone": "6707406236",
+        "email": "caleb55@example.org",
+        "account": {
+            "account_number": "d31992ae-9a6f-4226-88fc-228418e81cdb",
+            "balance": 42176.62,
+            "transactions": [
+                {
+                    "date": "2022-11-09",
+                    "description": "Deposit",
+                    "amount": 8894.22,
+                    "transaction_id": 36616829
+                },
+                {
+                    "date": "2023-03-18",
+                    "description": "Deposit",
+                    "amount": 37201.05,
+                    "transaction_id": 9579584
+                }
+            ]
+        }
+    }
+}

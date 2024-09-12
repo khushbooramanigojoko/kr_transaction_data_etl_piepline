@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael King",
+        "age": 22,
+        "gender": "male",
+        "address": "9740 Whitney Circles Apt. 610, East Jenna, MA 64095",
+        "phone": "521-716-2552",
+        "email": "adam34@example.com",
+        "account": {
+            "account_number": "f12c566f-9e6f-4452-8680-5ba91c420e4b",
+            "balance": 30655.11,
+            "transactions": [
+                {
+                    "date": "2023-08-04",
+                    "description": "Interest",
+                    "amount": 26714.53,
+                    "transaction_id": 53613022
+                },
+                {
+                    "date": "2024-03-15",
+                    "description": "Withdrawal",
+                    "amount": 14419.09,
+                    "transaction_id": 81239502
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Interest",
+                    "amount": 13870.1,
+                    "transaction_id": 98376149
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Interest",
+                    "amount": 48729.54,
+                    "transaction_id": 83827308
+                },
+                {
+                    "date": "2023-10-11",
+                    "description": "Withdrawal",
+                    "amount": 8948.76,
+                    "transaction_id": 119089019
+                }
+            ]
+        }
+    }
+}

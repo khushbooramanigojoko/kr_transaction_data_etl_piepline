@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lindsey Huang",
+        "age": 83,
+        "gender": "female",
+        "address": "08469 Davis Skyway Suite 327, Daltonhaven, TN 85435",
+        "phone": "548-638-8386",
+        "email": "fburnett@example.org",
+        "account": {
+            "account_number": "3c2fc66d-f009-4dae-b2e4-46066260c63d",
+            "balance": 40855.88,
+            "transactions": [
+                {
+                    "date": "2024-06-19",
+                    "description": "Interest",
+                    "amount": 39687.33,
+                    "transaction_id": 92840083
+                },
+                {
+                    "date": "2022-11-22",
+                    "description": "Deposit",
+                    "amount": 19284.66,
+                    "transaction_id": 6494833
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ronald Schroeder",
+        "age": 97,
+        "gender": "male",
+        "address": "898 Joshua Trace, Port Michael, TN 95524",
+        "phone": "+1-795-473-2289x34660",
+        "email": "mark40@example.net",
+        "account": {
+            "account_number": "e07fb048-dec9-4009-bbcf-fe9f2db4c9fc",
+            "balance": 34963.51,
+            "transactions": [
+                {
+                    "date": "2024-02-27",
+                    "description": "Deposit",
+                    "amount": 7642.66,
+                    "transaction_id": 111541214
+                },
+                {
+                    "date": "2023-11-08",
+                    "description": "Interest",
+                    "amount": 17854.39,
+                    "transaction_id": 68197797
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Deposit",
+                    "amount": 9983.92,
+                    "transaction_id": 47676663
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Withdrawal",
+                    "amount": 10800.52,
+                    "transaction_id": 90501936
+                }
+            ]
+        }
+    }
+}

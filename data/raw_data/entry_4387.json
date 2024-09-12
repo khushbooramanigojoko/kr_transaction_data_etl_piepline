@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mr. Travis Willis",
+        "age": 86,
+        "gender": "female",
+        "address": "6784 Sims Stream, Hayesshire, MS 37561",
+        "phone": "(689)761-1763",
+        "email": "mercedes93@example.org",
+        "account": {
+            "account_number": "a70fc652-ce76-4c6a-b690-c8752137d8c6",
+            "balance": 47210.94,
+            "transactions": [
+                {
+                    "date": "2022-12-04",
+                    "description": "Interest",
+                    "amount": 34501.7,
+                    "transaction_id": 47255322
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Interest",
+                    "amount": 34015.6,
+                    "transaction_id": 93170113
+                },
+                {
+                    "date": "2024-02-27",
+                    "description": "Deposit",
+                    "amount": 14976.96,
+                    "transaction_id": 55350567
+                },
+                {
+                    "date": "2024-04-09",
+                    "description": "Deposit",
+                    "amount": 22769.3,
+                    "transaction_id": 4251103
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mr. Carl Blackburn MD",
+        "age": 48,
+        "gender": "male",
+        "address": "119 Conner Tunnel Suite 182, Ginastad, AK 98207",
+        "phone": "+1-708-318-9682x40878",
+        "email": "danielwilson@example.net",
+        "account": {
+            "account_number": "7436dcae-ebd7-4427-8d21-54d5c83e44e0",
+            "balance": 7557.18,
+            "transactions": [
+                {
+                    "date": "2022-10-23",
+                    "description": "Interest",
+                    "amount": 3719.81,
+                    "transaction_id": 56580423
+                },
+                {
+                    "date": "2023-11-09",
+                    "description": "Deposit",
+                    "amount": 20449.7,
+                    "transaction_id": 69955164
+                },
+                {
+                    "date": "2022-11-10",
+                    "description": "Interest",
+                    "amount": 43536.99,
+                    "transaction_id": 80885691
+                },
+                {
+                    "date": "2023-06-18",
+                    "description": "Interest",
+                    "amount": 9600.56,
+                    "transaction_id": 8036296
+                },
+                {
+                    "date": "2024-08-12",
+                    "description": "Withdrawal",
+                    "amount": 48941.59,
+                    "transaction_id": 50731789
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ashlee Hebert",
+        "age": 89,
+        "gender": "female",
+        "address": "95230 Brandi Viaduct, South Leah, IA 75552",
+        "phone": "+1-343-959-8169",
+        "email": "mcgeepamela@example.com",
+        "account": {
+            "account_number": "7304ce96-f878-45ff-9475-702aef6325f3",
+            "balance": 3833.73,
+            "transactions": [
+                {
+                    "date": "2023-01-24",
+                    "description": "Withdrawal",
+                    "amount": 45514.83,
+                    "transaction_id": 67769869
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Withdrawal",
+                    "amount": 4270.43,
+                    "transaction_id": 20743735
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Interest",
+                    "amount": 33478.57,
+                    "transaction_id": 46917447
+                },
+                {
+                    "date": "2023-02-23",
+                    "description": "Withdrawal",
+                    "amount": 22488.7,
+                    "transaction_id": 87562751
+                }
+            ]
+        }
+    }
+}

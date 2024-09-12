@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kelly Poole",
+        "age": 91,
+        "gender": "female",
+        "address": "3465 Morgan Land Apt. 854, Lake Malloryborough, WV 65253",
+        "phone": "+1-233-760-3652x95815",
+        "email": "scottmorales@example.net",
+        "account": {
+            "account_number": "c4300d11-2a01-438f-9efb-7a954081c794",
+            "balance": 48692.22,
+            "transactions": [
+                {
+                    "date": "2023-08-04",
+                    "description": "Withdrawal",
+                    "amount": 37566.75,
+                    "transaction_id": 29659217
+                }
+            ]
+        }
+    }
+}

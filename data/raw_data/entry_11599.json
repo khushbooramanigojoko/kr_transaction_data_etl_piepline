@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 46,
+        "gender": "male",
+        "address": "0148 Angela Mountains Suite 392, Wilsonbury, NH 45123",
+        "phone": "+1-450-739-8864x155",
+        "email": "xterry@example.net",
+        "account": {
+            "account_number": "9f8842d3-3503-4eb3-8de7-8510683226fd",
+            "balance": 9107.58,
+            "transactions": [
+                {
+                    "date": "2024-04-13",
+                    "description": "Withdrawal",
+                    "amount": 3429.2,
+                    "transaction_id": 12422852
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Deposit",
+                    "amount": -367.72,
+                    "transaction_id": 24163032
+                }
+            ]
+        }
+    }
+}

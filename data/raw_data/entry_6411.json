@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Samuel Patrick",
+        "age": 51,
+        "gender": "female",
+        "address": "434 Soto Dam Suite 739, New Nathan, SC 50705",
+        "phone": "556.611.9869x640",
+        "email": "hallmichael@example.com",
+        "account": {
+            "account_number": "002127b3-9270-4d17-b423-942e7442c117",
+            "balance": 12655.02,
+            "transactions": [
+                {
+                    "date": "2024-01-16",
+                    "description": "Deposit",
+                    "amount": 40399.32,
+                    "transaction_id": 112842035
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Withdrawal",
+                    "amount": 41952.2,
+                    "transaction_id": 51885647
+                }
+            ]
+        }
+    }
+}

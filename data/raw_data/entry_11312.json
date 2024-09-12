@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christy Doyle",
+        "age": 55,
+        "gender": "male",
+        "address": "USNS Park, FPO AA 03275",
+        "phone": "654.533.1046",
+        "email": "david69@example.com",
+        "account": {
+            "account_number": "50c91396-3d61-40f4-9a09-b84e1bcf17d0",
+            "balance": -41548.11,
+            "transactions": [
+                {
+                    "date": "2022-11-26",
+                    "description": "Deposit",
+                    "amount": -3112.98,
+                    "transaction_id": 40063378
+                },
+                {
+                    "date": "2023-05-23",
+                    "description": "Interest",
+                    "amount": 467.17,
+                    "transaction_id": 34515363
+                }
+            ]
+        }
+    }
+}

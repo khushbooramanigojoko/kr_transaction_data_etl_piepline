@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mark Wright",
+        "age": 19,
+        "gender": "male",
+        "address": "Unit 5237 Box 2194, DPO AA 64193",
+        "phone": "6447771484",
+        "email": "johnstontaylor@example.org",
+        "account": {
+            "account_number": "dde6dbab-ff4e-49a9-b616-1de54d3f3307",
+            "balance": 21984.9,
+            "transactions": [
+                {
+                    "date": "2022-09-13",
+                    "description": "Deposit",
+                    "amount": 12825.09,
+                    "transaction_id": 83071430
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Interest",
+                    "amount": 39713.38,
+                    "transaction_id": 115749677
+                }
+            ]
+        }
+    }
+}

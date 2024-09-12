@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Richard Romero II",
+        "age": 63,
+        "gender": "female",
+        "address": "268 Dennis Fort Apt. 381, Port Meganfurt, OK 77529",
+        "phone": "276-548-2866x834",
+        "email": "robertrodriguez@example.org",
+        "account": {
+            "account_number": "e71f6b41-8f55-461d-bcf0-727e48ee44a1",
+            "balance": 23975.08,
+            "transactions": [
+                {
+                    "date": "2023-12-15",
+                    "description": "Withdrawal",
+                    "amount": 28680.79,
+                    "transaction_id": 31988273
+                },
+                {
+                    "date": "2023-02-08",
+                    "description": "Withdrawal",
+                    "amount": 45460.25,
+                    "transaction_id": 90136148
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Deposit",
+                    "amount": 17467.05,
+                    "transaction_id": 62768578
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Interest",
+                    "amount": 43074.96,
+                    "transaction_id": 40463928
+                }
+            ]
+        }
+    }
+}

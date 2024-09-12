@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Nicole Beard",
+        "age": 86,
+        "gender": "male",
+        "address": "673 Duke Drive, Williamfurt, DE 02675",
+        "phone": "426-504-8724x2667",
+        "email": "dorothy97@example.net",
+        "account": {
+            "account_number": "d01c88cd-0609-496c-a804-646d281ad155",
+            "balance": 31070.43,
+            "transactions": [
+                {
+                    "date": "2023-10-15",
+                    "description": "Deposit",
+                    "amount": 30035.0,
+                    "transaction_id": 57983810
+                }
+            ]
+        }
+    }
+}

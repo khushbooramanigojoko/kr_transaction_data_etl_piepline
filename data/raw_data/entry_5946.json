@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Andrew Contreras",
+        "age": 53,
+        "gender": "male",
+        "address": "401 May Highway Apt. 531, Julieburgh, GU 02138",
+        "phone": "001-978-952-9580",
+        "email": "hortonnatalie@example.com",
+        "account": {
+            "account_number": "4e8d7353-05a8-49e2-b690-0be87fc42d56",
+            "balance": 48321.51,
+            "transactions": [
+                {
+                    "date": "2023-12-06",
+                    "description": "Deposit",
+                    "amount": 36370.36,
+                    "transaction_id": 59185624
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Interest",
+                    "amount": 9892.11,
+                    "transaction_id": 13738804
+                },
+                {
+                    "date": "2024-08-29",
+                    "description": "Withdrawal",
+                    "amount": 18373.66,
+                    "transaction_id": 37957817
+                }
+            ]
+        }
+    }
+}

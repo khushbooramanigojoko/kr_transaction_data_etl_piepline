@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Lewis",
+        "age": 35,
+        "gender": "female",
+        "address": "111 Russell Route, Muellerborough, SC 62227",
+        "phone": "(574)401-8761x898",
+        "email": "micheleknox@example.com",
+        "account": {
+            "account_number": "bcce9a06-ba7d-4361-a6ec-77148f062f93",
+            "balance": 16282.91,
+            "transactions": [
+                {
+                    "date": "2023-05-10",
+                    "description": "Interest",
+                    "amount": 10143.18,
+                    "transaction_id": 114609398
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Withdrawal",
+                    "amount": 48318.28,
+                    "transaction_id": 10942235
+                },
+                {
+                    "date": "2024-06-12",
+                    "description": "Deposit",
+                    "amount": 38084.01,
+                    "transaction_id": 99599203
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Interest",
+                    "amount": 36070.41,
+                    "transaction_id": 109712085
+                }
+            ]
+        }
+    }
+}

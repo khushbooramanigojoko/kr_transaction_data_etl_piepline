@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Scott Martinez",
+        "age": 48,
+        "gender": "male",
+        "address": "2656 Makayla Crossing Apt. 392, Martinside, OK 14381",
+        "phone": "566-631-4019",
+        "email": "shawmary@example.org",
+        "account": {
+            "account_number": "e70becb8-19a9-4b16-b795-2845a2c6c1be",
+            "balance": 45176.15,
+            "transactions": [
+                {
+                    "date": "2022-11-30",
+                    "description": "Deposit",
+                    "amount": 32622.8,
+                    "transaction_id": 12404650
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Interest",
+                    "amount": 21004.99,
+                    "transaction_id": 28156998
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Withdrawal",
+                    "amount": 483.25,
+                    "transaction_id": 45537813
+                },
+                {
+                    "date": "2024-05-07",
+                    "description": "Interest",
+                    "amount": 3475.39,
+                    "transaction_id": 16854525
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jared Griffith",
+        "age": 74,
+        "gender": "male",
+        "address": "939 Carol Plains, South Luis, ND 95904",
+        "phone": "+1-844-286-1674x026",
+        "email": "bonillajessica@example.org",
+        "account": {
+            "account_number": "4c2e212a-c921-4627-978c-89d6eab3ee08",
+            "balance": 30057.74,
+            "transactions": [
+                {
+                    "date": "2023-08-04",
+                    "description": "Deposit",
+                    "amount": 1400.29,
+                    "transaction_id": 67221016
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Interest",
+                    "amount": 48591.19,
+                    "transaction_id": 39931409
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Deposit",
+                    "amount": 35716.44,
+                    "transaction_id": 68133035
+                }
+            ]
+        }
+    }
+}

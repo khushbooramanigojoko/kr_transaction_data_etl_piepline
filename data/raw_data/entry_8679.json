@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Angela Cummings",
+        "age": 49,
+        "gender": "male",
+        "address": "USS Nelson, FPO AE 56740",
+        "phone": "001-753-307-3597x4144",
+        "email": "sabrinabrooks@example.com",
+        "account": {
+            "account_number": "e27adbea-509a-44bc-9403-66de2596cf13",
+            "balance": 37095.45,
+            "transactions": [
+                {
+                    "date": "2024-01-06",
+                    "description": "Withdrawal",
+                    "amount": 1690.29,
+                    "transaction_id": 98262595
+                }
+            ]
+        }
+    }
+}

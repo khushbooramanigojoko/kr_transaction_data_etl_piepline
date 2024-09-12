@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ryan Sullivan",
+        "age": 99,
+        "gender": "female",
+        "address": "1462 Smith Shoals Suite 174, Davenportland, OH 41811",
+        "phone": "001-822-969-5198x26001",
+        "email": "dtorres@example.org",
+        "account": {
+            "account_number": "b0db06ee-3237-4aab-8903-d1b00daf8b4b",
+            "balance": 36848.34,
+            "transactions": [
+                {
+                    "date": "2023-02-25",
+                    "description": "Deposit",
+                    "amount": 7185.55,
+                    "transaction_id": 3769007
+                },
+                {
+                    "date": "2022-09-30",
+                    "description": "Withdrawal",
+                    "amount": 45606.39,
+                    "transaction_id": 21421485
+                },
+                {
+                    "date": "2023-01-16",
+                    "description": "Withdrawal",
+                    "amount": 2938.64,
+                    "transaction_id": 110606871
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Withdrawal",
+                    "amount": 1050.5,
+                    "transaction_id": 39225701
+                }
+            ]
+        }
+    }
+}

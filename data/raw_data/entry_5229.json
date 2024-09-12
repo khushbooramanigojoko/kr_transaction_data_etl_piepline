@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Emily Reyes",
+        "age": 23,
+        "gender": "female",
+        "address": "23422 Melanie Turnpike Apt. 960, East Scott, IA 12456",
+        "phone": "367-480-6769",
+        "email": "bondjamie@example.com",
+        "account": {
+            "account_number": "be579016-bfd4-41f6-bab5-8f9b99128113",
+            "balance": 40887.67,
+            "transactions": [
+                {
+                    "date": "2023-07-08",
+                    "description": "Deposit",
+                    "amount": 28840.71,
+                    "transaction_id": 107829701
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Withdrawal",
+                    "amount": 24830.35,
+                    "transaction_id": 40291588
+                },
+                {
+                    "date": "2023-06-27",
+                    "description": "Interest",
+                    "amount": 33744.47,
+                    "transaction_id": 58488386
+                },
+                {
+                    "date": "2023-05-07",
+                    "description": "Withdrawal",
+                    "amount": 44133.32,
+                    "transaction_id": 68900726
+                }
+            ]
+        }
+    }
+}

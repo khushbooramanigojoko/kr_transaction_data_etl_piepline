@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Hansen",
+        "age": 25,
+        "gender": "female",
+        "address": "07364 Thompson Summit, Castilloport, MI 15063",
+        "phone": "001-789-236-9919x88861",
+        "email": "michaelmaddox@example.net",
+        "account": {
+            "account_number": "86e3b5ee-baaf-423f-9acf-a67b4a0e03ab",
+            "balance": 43869.09,
+            "transactions": [
+                {
+                    "date": "2023-07-26",
+                    "description": "Deposit",
+                    "amount": 39281.2,
+                    "transaction_id": 2887123
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Interest",
+                    "amount": 157.94,
+                    "transaction_id": 119296097
+                }
+            ]
+        }
+    }
+}

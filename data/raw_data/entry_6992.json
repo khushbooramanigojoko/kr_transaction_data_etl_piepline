@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Charles Hicks",
+        "age": 29,
+        "gender": "female",
+        "address": "PSC 1362, Box 2902, APO AP 88107",
+        "phone": "964.670.6409x8750",
+        "email": "taylordavid@example.org",
+        "account": {
+            "account_number": "ac61f9fe-fa58-4495-848b-9ab845010757",
+            "balance": 35008.1,
+            "transactions": [
+                {
+                    "date": "2024-08-31",
+                    "description": "Deposit",
+                    "amount": 29420.16,
+                    "transaction_id": 45700530
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Interest",
+                    "amount": 48611.39,
+                    "transaction_id": 50236264
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Withdrawal",
+                    "amount": 32425.13,
+                    "transaction_id": 5366744
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Withdrawal",
+                    "amount": 43898.81,
+                    "transaction_id": 18646097
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Deborah Jones",
+        "age": 87,
+        "gender": "female",
+        "address": "5493 Simpson Station Apt. 685, Calderonhaven, DE 39657",
+        "phone": "227.911.5705",
+        "email": "pcollins@example.org",
+        "account": {
+            "account_number": "0d719cca-7a57-48e1-bf31-19087769a27e",
+            "balance": 27596.61,
+            "transactions": [
+                {
+                    "date": "2022-10-05",
+                    "description": "Deposit",
+                    "amount": 48203.97,
+                    "transaction_id": 51365874
+                },
+                {
+                    "date": "2023-07-12",
+                    "description": "Withdrawal",
+                    "amount": 206.11,
+                    "transaction_id": 27661293
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Withdrawal",
+                    "amount": 4294.01,
+                    "transaction_id": 59154925
+                },
+                {
+                    "date": "2023-10-09",
+                    "description": "Withdrawal",
+                    "amount": 29352.98,
+                    "transaction_id": 2861033
+                }
+            ]
+        }
+    }
+}

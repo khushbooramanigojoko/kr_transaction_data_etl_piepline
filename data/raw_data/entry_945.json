@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jonathan White",
+        "age": 35,
+        "gender": "female",
+        "address": "4190 Lewis Mountain Apt. 245, New Jose, MI 79139",
+        "phone": "(560)487-7067x1484",
+        "email": "tpatton@example.net",
+        "account": {
+            "account_number": "d8c8d044-2edd-46c9-8723-2a29b7f9d5b1",
+            "balance": 21725.68,
+            "transactions": [
+                {
+                    "date": "2023-06-19",
+                    "description": "Interest",
+                    "amount": 9183.47,
+                    "transaction_id": 115572287
+                }
+            ]
+        }
+    }
+}

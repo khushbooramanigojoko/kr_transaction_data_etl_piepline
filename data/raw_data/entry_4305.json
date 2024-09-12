@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Chad Hamilton",
+        "age": 55,
+        "gender": "female",
+        "address": "7398 Wood Highway, Parkerchester, ND 22338",
+        "phone": "(415)233-9160",
+        "email": "meganguzman@example.org",
+        "account": {
+            "account_number": "a99196a6-9572-4e0f-9b7e-04f5aad036f2",
+            "balance": 32333.07,
+            "transactions": [
+                {
+                    "date": "2023-02-03",
+                    "description": "Interest",
+                    "amount": 28150.88,
+                    "transaction_id": 114723120
+                },
+                {
+                    "date": "2024-08-04",
+                    "description": "Withdrawal",
+                    "amount": 25419.78,
+                    "transaction_id": 87410553
+                }
+            ]
+        }
+    }
+}

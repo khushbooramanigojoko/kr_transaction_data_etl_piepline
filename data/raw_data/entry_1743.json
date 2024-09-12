@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jennifer Dean",
+        "age": 96,
+        "gender": "female",
+        "address": "554 Hall Square Apt. 056, Waltertown, AZ 02192",
+        "phone": "001-852-843-3139x795",
+        "email": "brycecampbell@example.org",
+        "account": {
+            "account_number": "07929c15-e793-449f-a55f-454213656a13",
+            "balance": 15207.3,
+            "transactions": [
+                {
+                    "date": "2024-08-08",
+                    "description": "Deposit",
+                    "amount": 25312.22,
+                    "transaction_id": 63642069
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Morales",
+        "age": 87,
+        "gender": "male",
+        "address": "USS Grant, FPO AE 82994",
+        "phone": "304-216-4795x090",
+        "email": "xcole@example.com",
+        "account": {
+            "account_number": "54082407-bc6b-401f-97fb-fa5878030e38",
+            "balance": 47955.86,
+            "transactions": [
+                {
+                    "date": "2023-04-12",
+                    "description": "Withdrawal",
+                    "amount": 28055.48,
+                    "transaction_id": 30274195
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Withdrawal",
+                    "amount": 13684.27,
+                    "transaction_id": 7100487
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Eric Bush",
+        "age": 75,
+        "gender": "male",
+        "address": "042 Larsen Harbor Suite 002, South Tina, TX 90737",
+        "phone": "379.736.5758x8904",
+        "email": "fernando77@example.org",
+        "account": {
+            "account_number": "d4970869-e9ce-4c7b-a3f6-41b85c8fbefb",
+            "balance": 25855.89,
+            "transactions": [
+                {
+                    "date": "2024-01-20",
+                    "description": "Interest",
+                    "amount": 12051.72,
+                    "transaction_id": 86196515
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Gina Garcia",
+        "age": 90,
+        "gender": "female",
+        "address": "13719 Jessica Stravenue, New Sandraville, NE 21642",
+        "phone": "473-467-0445",
+        "email": "aguirrescott@example.com",
+        "account": {
+            "account_number": "98ccd2be-c5f0-4dcb-aefd-b9d61a44f01f",
+            "balance": 45152.81,
+            "transactions": [
+                {
+                    "date": "2024-03-07",
+                    "description": "Interest",
+                    "amount": 21824.51,
+                    "transaction_id": 5252281
+                },
+                {
+                    "date": "2023-04-06",
+                    "description": "Withdrawal",
+                    "amount": 11499.84,
+                    "transaction_id": 98820011
+                },
+                {
+                    "date": "2023-07-15",
+                    "description": "Interest",
+                    "amount": 17377.22,
+                    "transaction_id": 50588036
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Withdrawal",
+                    "amount": 46922.29,
+                    "transaction_id": 78391907
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Interest",
+                    "amount": 15852.3,
+                    "transaction_id": 118006510
+                }
+            ]
+        }
+    }
+}

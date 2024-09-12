@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Donald Galvan",
+        "age": 65,
+        "gender": "male",
+        "address": "14741 Thomas Avenue, Walkerhaven, IL 18892",
+        "phone": "+1-349-428-6523x494",
+        "email": "joseph54@example.org",
+        "account": {
+            "account_number": "bdea0aaa-5108-4dec-963c-033b67721b91",
+            "balance": 3586.17,
+            "transactions": [
+                {
+                    "date": "2024-07-28",
+                    "description": "Withdrawal",
+                    "amount": 24788.2,
+                    "transaction_id": 7198081
+                },
+                {
+                    "date": "2022-09-04",
+                    "description": "Deposit",
+                    "amount": 17461.73,
+                    "transaction_id": 40606041
+                }
+            ]
+        }
+    }
+}

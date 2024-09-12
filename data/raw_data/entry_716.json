@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Veronica Wright",
+        "age": 39,
+        "gender": "male",
+        "address": "811 Beth Park Apt. 515, West Davidmouth, NV 23500",
+        "phone": "+1-431-389-9851",
+        "email": "pmartin@example.net",
+        "account": {
+            "account_number": "8bbf3071-589a-4537-a95d-fa04fa20f0a6",
+            "balance": 10413.93,
+            "transactions": [
+                {
+                    "date": "2023-12-21",
+                    "description": "Interest",
+                    "amount": 14165.19,
+                    "transaction_id": 83738762
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Interest",
+                    "amount": 22807.64,
+                    "transaction_id": 105880543
+                }
+            ]
+        }
+    }
+}

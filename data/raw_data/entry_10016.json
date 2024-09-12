@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 89,
+        "gender": "female",
+        "address": "08912 Timothy Point, South Evantown, VI 45607",
+        "phone": "623.440.8013",
+        "email": "jwilliams@example.net",
+        "account": {
+            "account_number": "91688c6d-27e7-4f44-89c8-4c16cca8298b",
+            "balance": 36722.59,
+            "transactions": [
+                {
+                    "date": "2022-10-21",
+                    "description": "Withdrawal",
+                    "amount": 437.37,
+                    "transaction_id": 67583345
+                }
+            ]
+        }
+    }
+}

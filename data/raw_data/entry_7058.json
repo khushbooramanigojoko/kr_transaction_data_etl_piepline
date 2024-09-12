@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Edward Gordon",
+        "age": 20,
+        "gender": "male",
+        "address": "311 Timothy Roads Suite 661, Meganshire, CO 70664",
+        "phone": "001-348-421-9625",
+        "email": "armstrongjacob@example.org",
+        "account": {
+            "account_number": "a8880cf6-8771-480f-8f77-557dd7127b9f",
+            "balance": 14509.27,
+            "transactions": [
+                {
+                    "date": "2024-01-22",
+                    "description": "Interest",
+                    "amount": 17254.97,
+                    "transaction_id": 28142062
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Deposit",
+                    "amount": 30362.14,
+                    "transaction_id": 9669354
+                },
+                {
+                    "date": "2023-08-30",
+                    "description": "Deposit",
+                    "amount": 44846.12,
+                    "transaction_id": 118574285
+                }
+            ]
+        }
+    }
+}

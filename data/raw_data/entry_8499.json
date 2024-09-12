@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jennifer Ray",
+        "age": 59,
+        "gender": "female",
+        "address": "29868 Daniel Place, Stephanieshire, PR 75115",
+        "phone": "001-229-615-4252x4599",
+        "email": "leonardjohnson@example.net",
+        "account": {
+            "account_number": "c28330cb-3d05-446c-8fdd-a07cf0f72128",
+            "balance": 12294.11,
+            "transactions": [
+                {
+                    "date": "2023-02-04",
+                    "description": "Deposit",
+                    "amount": 44034.73,
+                    "transaction_id": 90556284
+                }
+            ]
+        }
+    }
+}

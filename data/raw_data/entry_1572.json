@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Carolyn Harper",
+        "age": 59,
+        "gender": "female",
+        "address": "12725 Berry Station, Lopezchester, WY 40643",
+        "phone": "903.927.4613",
+        "email": "mooreeddie@example.net",
+        "account": {
+            "account_number": "77700b0c-e459-49ff-8a02-bcb563faca05",
+            "balance": 35291.69,
+            "transactions": [
+                {
+                    "date": "2024-03-28",
+                    "description": "Deposit",
+                    "amount": 45920.94,
+                    "transaction_id": 57859957
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Withdrawal",
+                    "amount": 5186.37,
+                    "transaction_id": 14837424
+                }
+            ]
+        }
+    }
+}

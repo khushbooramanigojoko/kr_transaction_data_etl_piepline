@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stanley Davis",
+        "age": 50,
+        "gender": "female",
+        "address": "81229 Rivera Row, Mitchellland, FM 64184",
+        "phone": "(903)903-6918",
+        "email": "vharrison@example.org",
+        "account": {
+            "account_number": "9d82b23b-67fa-4dd9-b716-00c31ab1ea01",
+            "balance": 17756.12,
+            "transactions": [
+                {
+                    "date": "2023-02-19",
+                    "description": "Withdrawal",
+                    "amount": 26431.98,
+                    "transaction_id": 49167302
+                }
+            ]
+        }
+    }
+}

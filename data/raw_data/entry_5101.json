@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Natalie Johnson",
+        "age": 46,
+        "gender": "female",
+        "address": "22291 Long Spurs Apt. 510, Jennifermouth, IN 93447",
+        "phone": "(833)663-8769x11448",
+        "email": "howardkyle@example.com",
+        "account": {
+            "account_number": "c08302a4-e9a5-4b6c-aa30-d038a2c1cc78",
+            "balance": 15056.74,
+            "transactions": [
+                {
+                    "date": "2023-09-06",
+                    "description": "Interest",
+                    "amount": 2964.82,
+                    "transaction_id": 65429285
+                },
+                {
+                    "date": "2023-11-28",
+                    "description": "Withdrawal",
+                    "amount": 14768.26,
+                    "transaction_id": 87135663
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Ford Jr.",
+        "age": 81,
+        "gender": "female",
+        "address": "2568 Kevin Springs, New Laura, MN 66637",
+        "phone": "9055748613",
+        "email": "isabel39@example.net",
+        "account": {
+            "account_number": "6b2a0f97-4a49-4a9f-a79e-a5d248654205",
+            "balance": 48129.07,
+            "transactions": [
+                {
+                    "date": "2024-01-17",
+                    "description": "Withdrawal",
+                    "amount": 33053.02,
+                    "transaction_id": 76136605
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Withdrawal",
+                    "amount": 43959.42,
+                    "transaction_id": 108921601
+                }
+            ]
+        }
+    }
+}

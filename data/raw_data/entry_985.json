@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Daniel Rocha",
+        "age": 81,
+        "gender": "male",
+        "address": "8575 Savage Underpass Apt. 637, Annside, CA 01572",
+        "phone": "7648040454",
+        "email": "donaldburns@example.org",
+        "account": {
+            "account_number": "65ddc488-4d46-495c-979e-fd7938d398ef",
+            "balance": 25924.53,
+            "transactions": [
+                {
+                    "date": "2024-08-03",
+                    "description": "Deposit",
+                    "amount": 45397.63,
+                    "transaction_id": 6573736
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Interest",
+                    "amount": 4128.8,
+                    "transaction_id": 88584220
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Deposit",
+                    "amount": 41966.94,
+                    "transaction_id": 42469547
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Deposit",
+                    "amount": 25985.05,
+                    "transaction_id": 95810590
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Interest",
+                    "amount": 38723.18,
+                    "transaction_id": 11329027
+                }
+            ]
+        }
+    }
+}

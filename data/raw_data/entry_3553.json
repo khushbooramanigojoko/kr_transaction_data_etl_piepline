@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mark Blair",
+        "age": 72,
+        "gender": "male",
+        "address": "5051 Beth Burgs Suite 182, Ingramview, GA 90860",
+        "phone": "+1-457-661-7576",
+        "email": "youngkimberly@example.com",
+        "account": {
+            "account_number": "f6754782-389c-4b77-80ca-c1c0bef36237",
+            "balance": 38544.83,
+            "transactions": [
+                {
+                    "date": "2022-09-08",
+                    "description": "Deposit",
+                    "amount": 29663.29,
+                    "transaction_id": 53312305
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Deposit",
+                    "amount": 15719.54,
+                    "transaction_id": 69699659
+                }
+            ]
+        }
+    }
+}

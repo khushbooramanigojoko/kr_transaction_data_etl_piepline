@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brian Miller",
+        "age": 47,
+        "gender": "female",
+        "address": "228 Jennifer Throughway, Jessicaton, ND 18410",
+        "phone": "+1-879-872-5435x55003",
+        "email": "amyvega@example.org",
+        "account": {
+            "account_number": "b41f5d13-5534-45b5-af02-b17c031b8858",
+            "balance": 46133.98,
+            "transactions": [
+                {
+                    "date": "2023-12-26",
+                    "description": "Withdrawal",
+                    "amount": 37342.44,
+                    "transaction_id": 41584923
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Deposit",
+                    "amount": 35548.41,
+                    "transaction_id": 53405238
+                }
+            ]
+        }
+    }
+}

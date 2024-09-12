@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Wendy Hayes",
+        "age": 85,
+        "gender": "male",
+        "address": "392 Jennifer Junctions, Stevenchester, PR 31587",
+        "phone": "(823)724-9787x43056",
+        "email": "jeremyvaughn@example.net",
+        "account": {
+            "account_number": "1cb91100-58cd-41a2-b556-355c023a68cb",
+            "balance": -5999.37,
+            "transactions": [
+                {
+                    "date": "2024-05-29",
+                    "description": "Withdrawal",
+                    "amount": -2166.93,
+                    "transaction_id": 3209728
+                },
+                {
+                    "date": "2023-01-07",
+                    "description": "Interest",
+                    "amount": 4303.97,
+                    "transaction_id": 25268330
+                }
+            ]
+        }
+    }
+}

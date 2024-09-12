@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 29,
+        "gender": "female",
+        "address": "911 Zachary Route Suite 547, New Susanland, NV 48909",
+        "phone": "617.528.5610x32719",
+        "email": "sullivanmeghan@example.org",
+        "account": {
+            "account_number": "3cac7dd4-9fe9-4d49-b2ec-caecbb5432c6",
+            "balance": 20601.18,
+            "transactions": [
+                {
+                    "date": "2024-06-14",
+                    "description": "Deposit",
+                    "amount": -4607.03,
+                    "transaction_id": 49020536
+                },
+                {
+                    "date": "2024-05-28",
+                    "description": "Withdrawal",
+                    "amount": 678.96,
+                    "transaction_id": 99172977
+                }
+            ]
+        }
+    }
+}

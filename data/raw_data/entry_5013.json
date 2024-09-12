@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kyle Gomez",
+        "age": 47,
+        "gender": "male",
+        "address": "022 Joseph Vista, Christinabury, ME 12044",
+        "phone": "(436)680-0726",
+        "email": "pjohnson@example.net",
+        "account": {
+            "account_number": "82b9a840-8177-40c4-b071-089e88c50c53",
+            "balance": 3155.66,
+            "transactions": [
+                {
+                    "date": "2024-02-05",
+                    "description": "Interest",
+                    "amount": 3029.59,
+                    "transaction_id": 98935942
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Deposit",
+                    "amount": 5842.02,
+                    "transaction_id": 115822769
+                }
+            ]
+        }
+    }
+}

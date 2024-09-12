@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Laura Welch",
+        "age": 82,
+        "gender": "female",
+        "address": "2809 Timothy Lock Suite 431, East Susan, IN 20280",
+        "phone": "(781)613-2184x7706",
+        "email": "spage@example.org",
+        "account": {
+            "account_number": "1a216e83-9414-4d1c-b762-6144c1d29a59",
+            "balance": 23385.57,
+            "transactions": [
+                {
+                    "date": "2024-08-08",
+                    "description": "Interest",
+                    "amount": 18514.57,
+                    "transaction_id": 8809812
+                },
+                {
+                    "date": "2024-05-27",
+                    "description": "Deposit",
+                    "amount": 28908.15,
+                    "transaction_id": 110304328
+                },
+                {
+                    "date": "2023-09-29",
+                    "description": "Interest",
+                    "amount": 19013.29,
+                    "transaction_id": 119330176
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Interest",
+                    "amount": 36501.21,
+                    "transaction_id": 48416513
+                },
+                {
+                    "date": "2022-11-07",
+                    "description": "Deposit",
+                    "amount": 23848.43,
+                    "transaction_id": 104234530
+                }
+            ]
+        }
+    }
+}

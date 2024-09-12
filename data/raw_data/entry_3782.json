@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Catherine Shelton",
+        "age": 46,
+        "gender": "male",
+        "address": "9463 Jensen View Apt. 289, Lake Randy, KS 49534",
+        "phone": "305.973.9403",
+        "email": "nicholas58@example.com",
+        "account": {
+            "account_number": "9e38c282-a6c4-4e4e-ab1c-ddb134b9fe48",
+            "balance": 35436.0,
+            "transactions": [
+                {
+                    "date": "2023-05-18",
+                    "description": "Withdrawal",
+                    "amount": 15942.26,
+                    "transaction_id": 81367559
+                },
+                {
+                    "date": "2023-07-01",
+                    "description": "Withdrawal",
+                    "amount": 9790.61,
+                    "transaction_id": 50202072
+                }
+            ]
+        }
+    }
+}

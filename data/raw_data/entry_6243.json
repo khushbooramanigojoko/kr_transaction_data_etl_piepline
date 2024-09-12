@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brian Jenkins",
+        "age": 79,
+        "gender": "female",
+        "address": "48694 Michael Station, Joneston, LA 52771",
+        "phone": "(910)678-0168x8309",
+        "email": "angel92@example.net",
+        "account": {
+            "account_number": "eb887ae8-f93f-4e38-85ab-feed6dae89a1",
+            "balance": 8582.99,
+            "transactions": [
+                {
+                    "date": "2023-07-06",
+                    "description": "Withdrawal",
+                    "amount": 47748.53,
+                    "transaction_id": 27528569
+                },
+                {
+                    "date": "2022-11-16",
+                    "description": "Interest",
+                    "amount": 14465.04,
+                    "transaction_id": 88677123
+                },
+                {
+                    "date": "2023-07-02",
+                    "description": "Interest",
+                    "amount": 48457.77,
+                    "transaction_id": 118757785
+                },
+                {
+                    "date": "2024-02-06",
+                    "description": "Deposit",
+                    "amount": 12080.42,
+                    "transaction_id": 10775108
+                }
+            ]
+        }
+    }
+}

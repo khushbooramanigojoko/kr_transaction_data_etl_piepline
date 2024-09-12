@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christina Stewart",
+        "age": 64,
+        "gender": "male",
+        "address": "31320 Rogers Isle Suite 256, New Nicole, AZ 94751",
+        "phone": "+1-251-756-7288",
+        "email": "jeffreycaldwell@example.net",
+        "account": {
+            "account_number": "1e4951c7-a713-475a-9e51-4967f822906f",
+            "balance": 36725.35,
+            "transactions": [
+                {
+                    "date": "2024-06-02",
+                    "description": "Withdrawal",
+                    "amount": 25286.81,
+                    "transaction_id": 48008267
+                }
+            ]
+        }
+    }
+}

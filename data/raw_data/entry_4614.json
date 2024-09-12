@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Beth Morales",
+        "age": 78,
+        "gender": "male",
+        "address": "283 Heath Tunnel Apt. 565, Ryanview, WY 43090",
+        "phone": "396-436-7342",
+        "email": "devin58@example.net",
+        "account": {
+            "account_number": "6f0c6d8f-9b48-45e2-87c5-1a3ce1040108",
+            "balance": 40687.91,
+            "transactions": [
+                {
+                    "date": "2023-02-20",
+                    "description": "Deposit",
+                    "amount": 23258.31,
+                    "transaction_id": 117265496
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Withdrawal",
+                    "amount": 13491.95,
+                    "transaction_id": 60758214
+                },
+                {
+                    "date": "2024-07-24",
+                    "description": "Withdrawal",
+                    "amount": 22059.92,
+                    "transaction_id": 38591899
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 51,
+        "gender": "female",
+        "address": "4544 Porter Courts Suite 992, Richardtown, VI 98715",
+        "phone": "(686)306-9425",
+        "email": "ayalasean@example.com",
+        "account": {
+            "account_number": "e413462b-8408-43b5-b53c-1e08c051a0b9",
+            "balance": 16134.37,
+            "transactions": [
+                {
+                    "date": "2024-08-31",
+                    "description": "Interest",
+                    "amount": 2283.52,
+                    "transaction_id": 2063539
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Deposit",
+                    "amount": 1643.27,
+                    "transaction_id": 72995087
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Withdrawal",
+                    "amount": 808.49,
+                    "transaction_id": 31727372
+                }
+            ]
+        }
+    }
+}

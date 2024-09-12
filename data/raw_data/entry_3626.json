@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rachel Johnson",
+        "age": 82,
+        "gender": "male",
+        "address": "65484 Joshua Ports, South Gregory, KS 98575",
+        "phone": "+1-825-324-6734x64225",
+        "email": "stacyryan@example.com",
+        "account": {
+            "account_number": "57cc4a1e-8da2-463b-aff7-1d060e9ff997",
+            "balance": 8554.5,
+            "transactions": [
+                {
+                    "date": "2023-02-19",
+                    "description": "Interest",
+                    "amount": 34008.15,
+                    "transaction_id": 95975032
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "James Hill",
+        "age": 92,
+        "gender": "male",
+        "address": "28356 Santiago Ridge, Jenniferborough, NE 87514",
+        "phone": "655.212.3870x116",
+        "email": "lindsay71@example.com",
+        "account": {
+            "account_number": "05baa804-1462-485f-b26e-68a84c98ff6d",
+            "balance": 30408.15,
+            "transactions": [
+                {
+                    "date": "2023-04-15",
+                    "description": "Deposit",
+                    "amount": 32729.07,
+                    "transaction_id": 89690814
+                },
+                {
+                    "date": "2023-09-14",
+                    "description": "Deposit",
+                    "amount": 23177.09,
+                    "transaction_id": 32111804
+                },
+                {
+                    "date": "2022-09-22",
+                    "description": "Deposit",
+                    "amount": 32661.84,
+                    "transaction_id": 62203583
+                },
+                {
+                    "date": "2023-09-18",
+                    "description": "Interest",
+                    "amount": 2175.91,
+                    "transaction_id": 35572370
+                }
+            ]
+        }
+    }
+}

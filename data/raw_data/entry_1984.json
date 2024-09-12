@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sean Crane",
+        "age": 37,
+        "gender": "male",
+        "address": "5002 Shelley Ferry, Randallfort, IN 16755",
+        "phone": "219-645-5243x865",
+        "email": "ffernandez@example.com",
+        "account": {
+            "account_number": "aa1d9cf9-12cb-41c9-9bc3-fc59090bf14f",
+            "balance": 11140.78,
+            "transactions": [
+                {
+                    "date": "2023-12-07",
+                    "description": "Interest",
+                    "amount": 1722.83,
+                    "transaction_id": 52022504
+                }
+            ]
+        }
+    }
+}

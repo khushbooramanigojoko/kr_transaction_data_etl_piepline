@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Randall Howard",
+        "age": 25,
+        "gender": "female",
+        "address": "859 Patterson Pine Suite 798, Robinton, NC 51511",
+        "phone": "001-920-618-8191",
+        "email": "grahamjordan@example.net",
+        "account": {
+            "account_number": "e22c6b22-ddce-4635-bafc-d1f5d368dee6",
+            "balance": 22501.64,
+            "transactions": [
+                {
+                    "date": "2022-11-03",
+                    "description": "Deposit",
+                    "amount": 29391.4,
+                    "transaction_id": 14283548
+                }
+            ]
+        }
+    }
+}

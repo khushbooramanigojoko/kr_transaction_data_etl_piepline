@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Robert Bowers",
+        "age": 21,
+        "gender": "female",
+        "address": "2127 Richard Crescent Suite 900, Sylviashire, SD 27570",
+        "phone": "(277)321-5703x954",
+        "email": "wrightchristopher@example.net",
+        "account": {
+            "account_number": "8212c710-943c-4c4f-8046-a34635a68751",
+            "balance": 36706.69,
+            "transactions": [
+                {
+                    "date": "2024-02-25",
+                    "description": "Deposit",
+                    "amount": 14478.59,
+                    "transaction_id": 104770243
+                },
+                {
+                    "date": "2023-08-04",
+                    "description": "Interest",
+                    "amount": 20005.03,
+                    "transaction_id": 10212396
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Interest",
+                    "amount": 39194.98,
+                    "transaction_id": 3611271
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Riley Rogers",
+        "age": 35,
+        "gender": "female",
+        "address": "313 Webb Point, Richardsberg, PR 95001",
+        "phone": "+1-590-625-4828x0596",
+        "email": "whitney36@example.net",
+        "account": {
+            "account_number": "d0c6f5df-d087-44be-810d-d1bf6302e599",
+            "balance": -20287.82,
+            "transactions": [
+                {
+                    "date": "2024-05-04",
+                    "description": "Interest",
+                    "amount": 1784.89,
+                    "transaction_id": 81420355
+                },
+                {
+                    "date": "2023-01-14",
+                    "description": "Interest",
+                    "amount": -4382.79,
+                    "transaction_id": 114401157
+                },
+                {
+                    "date": "2024-04-19",
+                    "description": "Deposit",
+                    "amount": -3908.14,
+                    "transaction_id": 76148601
+                },
+                {
+                    "date": "2023-03-29",
+                    "description": "Interest",
+                    "amount": 3455.13,
+                    "transaction_id": 58338454
+                }
+            ]
+        }
+    }
+}

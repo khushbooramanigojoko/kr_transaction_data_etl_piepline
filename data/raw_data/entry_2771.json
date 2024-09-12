@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tyrone Carroll",
+        "age": 81,
+        "gender": "female",
+        "address": "4535 Booker Crossing Suite 373, Fuentesside, NJ 50899",
+        "phone": "(254)271-1766x591",
+        "email": "joneschloe@example.com",
+        "account": {
+            "account_number": "af60567d-92de-4aa4-bffd-b74f53dad516",
+            "balance": 2859.8,
+            "transactions": [
+                {
+                    "date": "2023-03-07",
+                    "description": "Deposit",
+                    "amount": 19850.24,
+                    "transaction_id": 66925033
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Deposit",
+                    "amount": 48770.06,
+                    "transaction_id": 60569312
+                },
+                {
+                    "date": "2023-06-28",
+                    "description": "Deposit",
+                    "amount": 27166.66,
+                    "transaction_id": 45111950
+                }
+            ]
+        }
+    }
+}

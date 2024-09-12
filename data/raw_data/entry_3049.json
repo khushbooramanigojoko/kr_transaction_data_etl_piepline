@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Nathaniel Duncan",
+        "age": 66,
+        "gender": "male",
+        "address": "85871 House Terrace Suite 753, South Robert, NH 56543",
+        "phone": "678.906.6675",
+        "email": "heathtom@example.net",
+        "account": {
+            "account_number": "17a3e451-5540-403a-b365-d4f5b79ff976",
+            "balance": 40998.86,
+            "transactions": [
+                {
+                    "date": "2024-04-05",
+                    "description": "Withdrawal",
+                    "amount": 10536.1,
+                    "transaction_id": 73346763
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Withdrawal",
+                    "amount": 40142.14,
+                    "transaction_id": 52316990
+                }
+            ]
+        }
+    }
+}

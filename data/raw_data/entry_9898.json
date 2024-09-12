@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 43,
+        "gender": "male",
+        "address": "0049 Peter Trail Suite 176, Espinozastad, AR 64951",
+        "phone": "203.891.5239x73939",
+        "email": "tcarlson@example.org",
+        "account": {
+            "account_number": "017d2309-5992-4f43-b9ba-65b5691d813c",
+            "balance": 4601.31,
+            "transactions": [
+                {
+                    "date": "2023-09-26",
+                    "description": "Interest",
+                    "amount": 1592.97,
+                    "transaction_id": 98009821
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Deposit",
+                    "amount": -2733.63,
+                    "transaction_id": 75331994
+                },
+                {
+                    "date": "2023-09-07",
+                    "description": "Deposit",
+                    "amount": 1629.2,
+                    "transaction_id": 110304671
+                }
+            ]
+        }
+    }
+}

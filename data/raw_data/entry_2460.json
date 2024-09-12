@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Paul Thompson",
+        "age": 33,
+        "gender": "male",
+        "address": "0244 David Heights, Shirleyhaven, VT 84756",
+        "phone": "001-653-449-4109",
+        "email": "cooperjonathan@example.org",
+        "account": {
+            "account_number": "b8d7cc33-cb7f-4bbd-b4bf-d39b51c6d2b1",
+            "balance": 48979.61,
+            "transactions": [
+                {
+                    "date": "2024-02-17",
+                    "description": "Withdrawal",
+                    "amount": 21215.92,
+                    "transaction_id": 59871172
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Deposit",
+                    "amount": 45557.9,
+                    "transaction_id": 60594028
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Deposit",
+                    "amount": 15009.0,
+                    "transaction_id": 29843306
+                },
+                {
+                    "date": "2023-08-05",
+                    "description": "Withdrawal",
+                    "amount": 32931.68,
+                    "transaction_id": 70263499
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Deposit",
+                    "amount": 14685.47,
+                    "transaction_id": 43056535
+                }
+            ]
+        }
+    }
+}

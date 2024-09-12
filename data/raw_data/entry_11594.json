@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Wendy Davis",
+        "age": 31,
+        "gender": "male",
+        "address": "04061 Hart Lock Apt. 160, East Jennifer, TX 22025",
+        "phone": "(400)432-1034",
+        "email": "mitchellluke@example.org",
+        "account": {
+            "account_number": "d01bf37d-e6cf-4582-a413-6698a022d88c",
+            "balance": -38344.09,
+            "transactions": [
+                {
+                    "date": "2024-02-25",
+                    "description": "Withdrawal",
+                    "amount": 1854.94,
+                    "transaction_id": 96508502
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Interest",
+                    "amount": -3887.22,
+                    "transaction_id": 119536330
+                },
+                {
+                    "date": "2023-08-30",
+                    "description": "Withdrawal",
+                    "amount": -1050.29,
+                    "transaction_id": 57792335
+                },
+                {
+                    "date": "2022-12-20",
+                    "description": "Interest",
+                    "amount": 657.25,
+                    "transaction_id": 45540732
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Interest",
+                    "amount": -315.86,
+                    "transaction_id": 47902036
+                }
+            ]
+        }
+    }
+}

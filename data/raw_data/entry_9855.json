@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 68,
+        "gender": "female",
+        "address": "75477 Matthew Station, Stephenfurt, MH 49266",
+        "phone": "661.554.7553",
+        "email": "uwebb@example.net",
+        "account": {
+            "account_number": "813e6001-66da-4901-8b96-1ad9a1a109d6",
+            "balance": 4004.11,
+            "transactions": [
+                {
+                    "date": "2022-11-08",
+                    "description": "Withdrawal",
+                    "amount": 3953.71,
+                    "transaction_id": 51866055
+                }
+            ]
+        }
+    }
+}

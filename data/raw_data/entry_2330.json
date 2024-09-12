@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Patricia Ruiz",
+        "age": 86,
+        "gender": "female",
+        "address": "223 Maldonado Corner Suite 100, South Alexismouth, TX 92503",
+        "phone": "+1-397-493-7461",
+        "email": "slin@example.net",
+        "account": {
+            "account_number": "3656f37e-e928-4954-981b-ae460f6f88ef",
+            "balance": 48633.14,
+            "transactions": [
+                {
+                    "date": "2024-03-01",
+                    "description": "Interest",
+                    "amount": 15329.66,
+                    "transaction_id": 118482994
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Deposit",
+                    "amount": 3040.76,
+                    "transaction_id": 50796002
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Withdrawal",
+                    "amount": 11397.27,
+                    "transaction_id": 52619589
+                },
+                {
+                    "date": "2024-09-01",
+                    "description": "Withdrawal",
+                    "amount": 30032.98,
+                    "transaction_id": 107839140
+                },
+                {
+                    "date": "2024-02-19",
+                    "description": "Withdrawal",
+                    "amount": 40758.85,
+                    "transaction_id": 24219294
+                }
+            ]
+        }
+    }
+}

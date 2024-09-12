@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Johnny Jones",
+        "age": 25,
+        "gender": "female",
+        "address": "5672 Travis Parks Suite 891, Abigailbury, OH 50980",
+        "phone": "+1-498-559-4250x55492",
+        "email": "hayescharles@example.org",
+        "account": {
+            "account_number": "6cfffadc-f6dd-44fc-ac11-48777a02f5a6",
+            "balance": 37158.29,
+            "transactions": [
+                {
+                    "date": "2024-07-12",
+                    "description": "Interest",
+                    "amount": 44474.68,
+                    "transaction_id": 13535710
+                },
+                {
+                    "date": "2024-05-24",
+                    "description": "Interest",
+                    "amount": 15401.96,
+                    "transaction_id": 74276186
+                },
+                {
+                    "date": "2023-08-01",
+                    "description": "Interest",
+                    "amount": 11960.9,
+                    "transaction_id": 67458725
+                }
+            ]
+        }
+    }
+}

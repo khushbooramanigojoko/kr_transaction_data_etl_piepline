@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 75,
+        "gender": "male",
+        "address": "16452 Thomas Passage, Boothberg, NM 65123",
+        "phone": "470-955-7714x3464",
+        "email": "daniel68@example.org",
+        "account": {
+            "account_number": "6230727c-3f4e-48ac-983a-1bfa84899774",
+            "balance": 39861.25,
+            "transactions": [
+                {
+                    "date": "2024-02-24",
+                    "description": "Withdrawal",
+                    "amount": 1638.78,
+                    "transaction_id": 59007326
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Withdrawal",
+                    "amount": -1502.92,
+                    "transaction_id": 72148842
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Interest",
+                    "amount": -2188.84,
+                    "transaction_id": 53952152
+                },
+                {
+                    "date": "2023-11-16",
+                    "description": "Interest",
+                    "amount": 3846.27,
+                    "transaction_id": 67268322
+                },
+                {
+                    "date": "2023-10-11",
+                    "description": "Deposit",
+                    "amount": 1500.14,
+                    "transaction_id": 115388263
+                }
+            ]
+        }
+    }
+}

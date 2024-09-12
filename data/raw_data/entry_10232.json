@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jessica Nichols",
+        "age": 88,
+        "gender": "male",
+        "address": "921 Allen Divide, North Ericamouth, VT 63903",
+        "phone": "5465795661",
+        "email": "kparker@example.com",
+        "account": {
+            "account_number": "056eb21d-a914-4606-aa21-ee500ad8e8f0",
+            "balance": -17161.12,
+            "transactions": [
+                {
+                    "date": "2023-02-16",
+                    "description": "Interest",
+                    "amount": 1384.26,
+                    "transaction_id": 22219777
+                }
+            ]
+        }
+    }
+}

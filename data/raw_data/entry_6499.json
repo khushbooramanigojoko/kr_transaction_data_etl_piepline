@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Madison Smith",
+        "age": 96,
+        "gender": "male",
+        "address": "3159 Ortiz Highway, North Kaitlynside, GA 09744",
+        "phone": "683-651-0608x2015",
+        "email": "josephjohn@example.net",
+        "account": {
+            "account_number": "7d4b17c8-9acf-4928-91ad-5f53b29c39a7",
+            "balance": 29238.6,
+            "transactions": [
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": 30343.6,
+                    "transaction_id": 45672170
+                }
+            ]
+        }
+    }
+}

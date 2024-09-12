@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lindsey Knight",
+        "age": 29,
+        "gender": "female",
+        "address": "11740 Parker Rapid, Bowersport, ID 41874",
+        "phone": "236-673-5134x955",
+        "email": "murraydanielle@example.org",
+        "account": {
+            "account_number": "a40c2904-4f77-4021-b9a0-17ee1462b6cf",
+            "balance": 49897.74,
+            "transactions": [
+                {
+                    "date": "2022-09-11",
+                    "description": "Withdrawal",
+                    "amount": 4011.85,
+                    "transaction_id": 35777100
+                },
+                {
+                    "date": "2024-05-19",
+                    "description": "Deposit",
+                    "amount": 2987.83,
+                    "transaction_id": 50163989
+                }
+            ]
+        }
+    }
+}

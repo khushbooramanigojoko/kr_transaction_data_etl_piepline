@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Rodney French",
+        "age": 84,
+        "gender": "female",
+        "address": "USNS Barnes, FPO AE 40821",
+        "phone": "001-780-693-9235x0469",
+        "email": "scottthomas@example.com",
+        "account": {
+            "account_number": "f61ef8e8-dbdf-40a6-9acb-6df86e49c1a7",
+            "balance": 15749.09,
+            "transactions": [
+                {
+                    "date": "2023-01-23",
+                    "description": "Deposit",
+                    "amount": 28218.75,
+                    "transaction_id": 63040104
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Deposit",
+                    "amount": 18395.33,
+                    "transaction_id": 14182520
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Deposit",
+                    "amount": 6962.08,
+                    "transaction_id": 4115623
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Withdrawal",
+                    "amount": 48856.9,
+                    "transaction_id": 20548534
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Deposit",
+                    "amount": 7304.9,
+                    "transaction_id": 12210422
+                }
+            ]
+        }
+    }
+}

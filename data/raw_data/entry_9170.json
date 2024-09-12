@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 55,
+        "gender": "female",
+        "address": "61690 Turner Passage Suite 837, Marciachester, DE 14462",
+        "phone": "001-220-865-8667",
+        "email": "cunninghamwilliam@example.org",
+        "account": {
+            "account_number": "a34c016d-ddc9-4cd2-a4e1-b8753d3aeee3",
+            "balance": 38264.1,
+            "transactions": [
+                {
+                    "date": "2023-03-25",
+                    "description": "Withdrawal",
+                    "amount": 4852.93,
+                    "transaction_id": 96105700
+                }
+            ]
+        }
+    }
+}

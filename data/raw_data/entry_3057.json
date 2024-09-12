@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Steve Moore",
+        "age": 78,
+        "gender": "female",
+        "address": "48715 Catherine Unions, Robertport, OH 28051",
+        "phone": "253.633.3473",
+        "email": "darrylgreen@example.net",
+        "account": {
+            "account_number": "7f1cd4e4-79e6-4b7e-aad9-4d5f713e83bb",
+            "balance": 29586.6,
+            "transactions": [
+                {
+                    "date": "2023-01-29",
+                    "description": "Interest",
+                    "amount": 34776.82,
+                    "transaction_id": 89333207
+                },
+                {
+                    "date": "2024-07-07",
+                    "description": "Deposit",
+                    "amount": 42949.47,
+                    "transaction_id": 87153238
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Katherine Morales",
+        "age": 73,
+        "gender": "male",
+        "address": "92168 Kennedy Ports Suite 665, Amandaton, DE 49655",
+        "phone": "986.555.3222x24436",
+        "email": "christinegutierrez@example.org",
+        "account": {
+            "account_number": "94585b4a-7898-4edb-9171-db14634deb0c",
+            "balance": 42025.06,
+            "transactions": [
+                {
+                    "date": "2023-05-19",
+                    "description": "Deposit",
+                    "amount": 3912.97,
+                    "transaction_id": 20600831
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Withdrawal",
+                    "amount": 26420.41,
+                    "transaction_id": 71155721
+                },
+                {
+                    "date": "2023-04-20",
+                    "description": "Deposit",
+                    "amount": 38566.65,
+                    "transaction_id": 3916192
+                },
+                {
+                    "date": "2023-11-18",
+                    "description": "Deposit",
+                    "amount": 17650.95,
+                    "transaction_id": 87218221
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Interest",
+                    "amount": 33896.63,
+                    "transaction_id": 75350724
+                }
+            ]
+        }
+    }
+}

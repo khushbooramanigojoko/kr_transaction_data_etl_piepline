@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 80,
+        "gender": "female",
+        "address": "1457 Antonio Throughway Suite 892, Hernandezburgh, TX 85278",
+        "phone": "001-899-344-1343",
+        "email": "nosborne@example.com",
+        "account": {
+            "account_number": "fd79ad89-b64e-4bff-b7f9-93faca2602fc",
+            "balance": 32652.59,
+            "transactions": [
+                {
+                    "date": "2024-08-25",
+                    "description": "Withdrawal",
+                    "amount": 318.34,
+                    "transaction_id": 43689474
+                },
+                {
+                    "date": "2023-01-26",
+                    "description": "Interest",
+                    "amount": -290.21,
+                    "transaction_id": 105478980
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Withdrawal",
+                    "amount": -1500.72,
+                    "transaction_id": 100562761
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Withdrawal",
+                    "amount": -3223.07,
+                    "transaction_id": 72778182
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Deposit",
+                    "amount": -3863.22,
+                    "transaction_id": 94403156
+                }
+            ]
+        }
+    }
+}

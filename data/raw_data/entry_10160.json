@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Melissa Johnson",
+        "age": 94,
+        "gender": "male",
+        "address": "13583 Carl Brooks, Freyton, GA 60222",
+        "phone": "(672)995-3492x8238",
+        "email": "tiffanyroberts@example.org",
+        "account": {
+            "account_number": "03de51fe-eb90-425f-ace4-079a23cb25a3",
+            "balance": -25117.55,
+            "transactions": [
+                {
+                    "date": "2024-03-26",
+                    "description": "Interest",
+                    "amount": 4942.63,
+                    "transaction_id": 71932231
+                }
+            ]
+        }
+    }
+}

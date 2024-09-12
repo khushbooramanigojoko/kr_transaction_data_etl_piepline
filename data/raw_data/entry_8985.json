@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 76,
+        "gender": "male",
+        "address": "1841 Orozco Forest, South Gregoryborough, ME 70519",
+        "phone": "+1-241-903-9065x63684",
+        "email": "evelynesparza@example.org",
+        "account": {
+            "account_number": "c76110b8-c2db-472c-819d-bc9d15d28729",
+            "balance": 2301.11,
+            "transactions": [
+                {
+                    "date": "2024-07-28",
+                    "description": "Interest",
+                    "amount": -1387.1,
+                    "transaction_id": 73421479
+                }
+            ]
+        }
+    }
+}

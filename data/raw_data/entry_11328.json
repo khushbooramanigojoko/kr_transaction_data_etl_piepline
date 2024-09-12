@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kristin Roth",
+        "age": 51,
+        "gender": "female",
+        "address": "52894 Christopher Ford Apt. 928, East Meganton, OR 16128",
+        "phone": "(515)530-0118x35451",
+        "email": "mathew53@example.net",
+        "account": {
+            "account_number": "38a0bd73-c57e-436a-9636-a3d350b62626",
+            "balance": -37265.74,
+            "transactions": [
+                {
+                    "date": "2024-07-25",
+                    "description": "Withdrawal",
+                    "amount": -1847.59,
+                    "transaction_id": 117450699
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Withdrawal",
+                    "amount": -4948.98,
+                    "transaction_id": 111201452
+                },
+                {
+                    "date": "2023-01-10",
+                    "description": "Deposit",
+                    "amount": 2230.0,
+                    "transaction_id": 99954249
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Deposit",
+                    "amount": 3264.57,
+                    "transaction_id": 30759690
+                }
+            ]
+        }
+    }
+}

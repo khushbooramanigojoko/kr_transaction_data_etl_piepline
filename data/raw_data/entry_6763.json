@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "James Barton",
+        "age": 56,
+        "gender": "female",
+        "address": "Unit 6163 Box 5180, DPO AA 95024",
+        "phone": "533.289.8986x08922",
+        "email": "marvinandrade@example.com",
+        "account": {
+            "account_number": "889b832d-5770-42a6-b9db-d4373a1473fd",
+            "balance": 26379.23,
+            "transactions": [
+                {
+                    "date": "2024-04-26",
+                    "description": "Interest",
+                    "amount": 42911.26,
+                    "transaction_id": 16574758
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Interest",
+                    "amount": 45833.57,
+                    "transaction_id": 56169353
+                }
+            ]
+        }
+    }
+}

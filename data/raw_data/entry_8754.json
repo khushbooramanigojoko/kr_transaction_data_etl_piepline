@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Larry Smith",
+        "age": 81,
+        "gender": "female",
+        "address": "753 Cox Light, Timothybury, AZ 23559",
+        "phone": "(399)904-6013x101",
+        "email": "dlam@example.com",
+        "account": {
+            "account_number": "4d89ecad-2323-46d6-ba88-c66bc10a8050",
+            "balance": -38865.72,
+            "transactions": [
+                {
+                    "date": "2024-07-31",
+                    "description": "Interest",
+                    "amount": -2820.92,
+                    "transaction_id": 116595118
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Deposit",
+                    "amount": -1801.06,
+                    "transaction_id": 53706929
+                },
+                {
+                    "date": "2023-06-30",
+                    "description": "Interest",
+                    "amount": 3087.94,
+                    "transaction_id": 46999586
+                },
+                {
+                    "date": "2023-09-07",
+                    "description": "Withdrawal",
+                    "amount": -4325.41,
+                    "transaction_id": 116119492
+                }
+            ]
+        }
+    }
+}

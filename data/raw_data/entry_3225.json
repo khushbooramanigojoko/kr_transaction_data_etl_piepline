@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michelle Davis",
+        "age": 44,
+        "gender": "male",
+        "address": "36990 David Mission, Penamouth, SC 61792",
+        "phone": "(854)863-2386x76582",
+        "email": "rodriguezcarla@example.org",
+        "account": {
+            "account_number": "8cd788cd-3e71-4c76-badf-c7f02d8130f1",
+            "balance": 35703.5,
+            "transactions": [
+                {
+                    "date": "2023-11-01",
+                    "description": "Interest",
+                    "amount": 25354.33,
+                    "transaction_id": 93747838
+                },
+                {
+                    "date": "2022-12-22",
+                    "description": "Withdrawal",
+                    "amount": 45405.55,
+                    "transaction_id": 21552814
+                },
+                {
+                    "date": "2024-03-29",
+                    "description": "Interest",
+                    "amount": 3385.81,
+                    "transaction_id": 78032380
+                }
+            ]
+        }
+    }
+}

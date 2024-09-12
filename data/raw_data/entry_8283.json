@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ryan Robinson",
+        "age": 77,
+        "gender": "male",
+        "address": "918 Andrea Avenue, Port Daniel, SC 59092",
+        "phone": "001-670-716-1093x6395",
+        "email": "bennettalexander@example.net",
+        "account": {
+            "account_number": "112a89ff-4a9a-4e10-8279-6be030ad5a3f",
+            "balance": 15402.79,
+            "transactions": [
+                {
+                    "date": "2023-12-07",
+                    "description": "Interest",
+                    "amount": 5335.94,
+                    "transaction_id": 23657328
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Interest",
+                    "amount": 38936.93,
+                    "transaction_id": 46662765
+                }
+            ]
+        }
+    }
+}

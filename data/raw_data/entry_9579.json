@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 35,
+        "gender": "male",
+        "address": "903 Madden Valley Apt. 295, Jamesborough, WY 87055",
+        "phone": "322.613.6236x176",
+        "email": "kgarcia@example.com",
+        "account": {
+            "account_number": "511906b6-3db3-4ffb-99f8-0c41c2de32b9",
+            "balance": 49196.16,
+            "transactions": [
+                {
+                    "date": "2023-02-19",
+                    "description": "Withdrawal",
+                    "amount": 4819.48,
+                    "transaction_id": 80099624
+                },
+                {
+                    "date": "2023-11-10",
+                    "description": "Withdrawal",
+                    "amount": -3091.44,
+                    "transaction_id": 113312641
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Deposit",
+                    "amount": 2981.24,
+                    "transaction_id": 27103073
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Interest",
+                    "amount": 3527.87,
+                    "transaction_id": 10351330
+                },
+                {
+                    "date": "2023-09-20",
+                    "description": "Deposit",
+                    "amount": 3235.47,
+                    "transaction_id": 81640606
+                }
+            ]
+        }
+    }
+}

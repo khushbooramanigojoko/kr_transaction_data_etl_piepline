@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kim Myers",
+        "age": 19,
+        "gender": "male",
+        "address": "5089 Julie Throughway, East Patrickbury, NE 61233",
+        "phone": "001-604-960-7168x09383",
+        "email": "sheila30@example.net",
+        "account": {
+            "account_number": "cf3e0612-54a2-4252-8ca7-4b7f3eaecaf3",
+            "balance": 45728.55,
+            "transactions": [
+                {
+                    "date": "2024-08-05",
+                    "description": "Deposit",
+                    "amount": 32349.08,
+                    "transaction_id": 22182495
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Interest",
+                    "amount": 6355.84,
+                    "transaction_id": 12538906
+                },
+                {
+                    "date": "2024-04-23",
+                    "description": "Withdrawal",
+                    "amount": 48908.91,
+                    "transaction_id": 34018676
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Deposit",
+                    "amount": 27400.99,
+                    "transaction_id": 64770847
+                }
+            ]
+        }
+    }
+}

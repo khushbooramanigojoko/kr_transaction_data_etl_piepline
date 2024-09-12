@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ashley Ewing",
+        "age": 57,
+        "gender": "female",
+        "address": "0477 Patterson Pine, Smithchester, NC 15323",
+        "phone": "785-966-6177x041",
+        "email": "kathyharrison@example.com",
+        "account": {
+            "account_number": "178144b9-6cdb-4ac0-90fd-9cc236c1c54d",
+            "balance": 39394.59,
+            "transactions": [
+                {
+                    "date": "2022-09-20",
+                    "description": "Withdrawal",
+                    "amount": 40552.92,
+                    "transaction_id": 40069498
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Withdrawal",
+                    "amount": 25033.46,
+                    "transaction_id": 81684015
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Interest",
+                    "amount": 41027.58,
+                    "transaction_id": 31551966
+                },
+                {
+                    "date": "2024-02-19",
+                    "description": "Withdrawal",
+                    "amount": 31447.42,
+                    "transaction_id": 65927265
+                }
+            ]
+        }
+    }
+}

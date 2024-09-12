@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michele Leonard",
+        "age": 61,
+        "gender": "female",
+        "address": "23215 Alexandra Plaza, Port Anthonyville, MI 69580",
+        "phone": "680-282-5119x8341",
+        "email": "codyriggs@example.com",
+        "account": {
+            "account_number": "3bf37c76-a388-4ff7-9b2c-d28e04626439",
+            "balance": 1254.29,
+            "transactions": [
+                {
+                    "date": "2023-02-26",
+                    "description": "Deposit",
+                    "amount": 22977.87,
+                    "transaction_id": 70438184
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Deposit",
+                    "amount": 5883.28,
+                    "transaction_id": 42672241
+                }
+            ]
+        }
+    }
+}

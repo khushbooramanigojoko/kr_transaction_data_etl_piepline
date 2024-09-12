@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kellie Dudley",
+        "age": 70,
+        "gender": "female",
+        "address": "4066 Holmes Key, Foxborough, IA 50925",
+        "phone": "2972621458",
+        "email": "paula31@example.net",
+        "account": {
+            "account_number": "ee86a287-6aca-4731-9a55-b319ee3bf18d",
+            "balance": 6810.48,
+            "transactions": [
+                {
+                    "date": "2022-10-28",
+                    "description": "Interest",
+                    "amount": 34237.05,
+                    "transaction_id": 100578926
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Deposit",
+                    "amount": 1531.08,
+                    "transaction_id": 84630374
+                },
+                {
+                    "date": "2024-04-24",
+                    "description": "Withdrawal",
+                    "amount": 34008.38,
+                    "transaction_id": 44212726
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Interest",
+                    "amount": 2475.5,
+                    "transaction_id": 74469776
+                }
+            ]
+        }
+    }
+}

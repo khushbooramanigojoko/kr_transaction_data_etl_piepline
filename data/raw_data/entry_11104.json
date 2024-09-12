@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 65,
+        "gender": "female",
+        "address": "217 Thomas Square Suite 861, Lake Nicole, WA 84840",
+        "phone": "334-256-8619x35939",
+        "email": "jonesnicholas@example.org",
+        "account": {
+            "account_number": "57a4a840-1add-44a7-8d1d-eb8fba35dd6f",
+            "balance": 28819.28,
+            "transactions": [
+                {
+                    "date": "2024-04-15",
+                    "description": "Interest",
+                    "amount": -2234.62,
+                    "transaction_id": 13603929
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Interest",
+                    "amount": 3449.61,
+                    "transaction_id": 100088995
+                }
+            ]
+        }
+    }
+}

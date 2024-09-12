@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jennifer Pennington",
+        "age": 64,
+        "gender": "female",
+        "address": "344 Boyer Alley Apt. 121, Richardmouth, MI 08143",
+        "phone": "388-471-9628x165",
+        "email": "jbates@example.com",
+        "account": {
+            "account_number": "ad6182f0-d763-4dbd-8b49-d856bb1856b0",
+            "balance": 26286.97,
+            "transactions": [
+                {
+                    "date": "2023-04-03",
+                    "description": "Deposit",
+                    "amount": 36354.05,
+                    "transaction_id": 41334722
+                },
+                {
+                    "date": "2023-04-09",
+                    "description": "Interest",
+                    "amount": 20800.82,
+                    "transaction_id": 58408658
+                }
+            ]
+        }
+    }
+}

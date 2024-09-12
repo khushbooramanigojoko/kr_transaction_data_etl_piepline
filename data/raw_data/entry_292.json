@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mark Valenzuela",
+        "age": 65,
+        "gender": "female",
+        "address": "1629 Kelley Prairie Suite 279, Williamview, UT 58504",
+        "phone": "(849)222-2266x38718",
+        "email": "anthony73@example.net",
+        "account": {
+            "account_number": "9763adf7-20e4-47fc-88a8-4e560b061f50",
+            "balance": 46305.78,
+            "transactions": [
+                {
+                    "date": "2024-04-07",
+                    "description": "Interest",
+                    "amount": 40967.92,
+                    "transaction_id": 42132294
+                }
+            ]
+        }
+    }
+}

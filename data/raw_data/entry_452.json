@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sarah Burke",
+        "age": 61,
+        "gender": "female",
+        "address": "USS Hobbs, FPO AP 93911",
+        "phone": "+1-967-570-5136x39309",
+        "email": "daniel91@example.org",
+        "account": {
+            "account_number": "a3c06846-e04f-4169-aa69-a3e2cea04afc",
+            "balance": 5999.32,
+            "transactions": [
+                {
+                    "date": "2024-05-19",
+                    "description": "Deposit",
+                    "amount": 1164.58,
+                    "transaction_id": 37928065
+                },
+                {
+                    "date": "2023-11-04",
+                    "description": "Withdrawal",
+                    "amount": 24047.37,
+                    "transaction_id": 40773161
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Deposit",
+                    "amount": 820.85,
+                    "transaction_id": 113693097
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Interest",
+                    "amount": 39754.49,
+                    "transaction_id": 2551903
+                }
+            ]
+        }
+    }
+}

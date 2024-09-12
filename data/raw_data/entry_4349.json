@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ashley Lee",
+        "age": 72,
+        "gender": "male",
+        "address": "731 Martin Land Suite 610, North Shawnstad, FL 45780",
+        "phone": "(202)773-0063x16122",
+        "email": "brenda99@example.com",
+        "account": {
+            "account_number": "036b7e64-83a4-458b-86ca-241c3e524135",
+            "balance": 24445.59,
+            "transactions": [
+                {
+                    "date": "2023-10-07",
+                    "description": "Deposit",
+                    "amount": 46054.28,
+                    "transaction_id": 95683935
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Withdrawal",
+                    "amount": 3588.96,
+                    "transaction_id": 16578392
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Interest",
+                    "amount": 12868.76,
+                    "transaction_id": 59620917
+                }
+            ]
+        }
+    }
+}

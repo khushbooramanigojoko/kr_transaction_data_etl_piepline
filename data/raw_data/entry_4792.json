@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Denise Lopez",
+        "age": 62,
+        "gender": "male",
+        "address": "34131 Bell Centers, New Nicoleview, WV 42451",
+        "phone": "8294494526",
+        "email": "hessvanessa@example.org",
+        "account": {
+            "account_number": "53f2eb27-e5ca-4868-993c-e3a6bca38e64",
+            "balance": 44358.9,
+            "transactions": [
+                {
+                    "date": "2023-03-23",
+                    "description": "Interest",
+                    "amount": 7249.83,
+                    "transaction_id": 56923225
+                },
+                {
+                    "date": "2023-03-04",
+                    "description": "Withdrawal",
+                    "amount": 36792.19,
+                    "transaction_id": 8933892
+                },
+                {
+                    "date": "2023-10-25",
+                    "description": "Deposit",
+                    "amount": 17485.96,
+                    "transaction_id": 39378273
+                }
+            ]
+        }
+    }
+}

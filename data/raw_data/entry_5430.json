@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kari Page",
+        "age": 65,
+        "gender": "male",
+        "address": "5709 Scott Spurs, Burtontown, LA 50007",
+        "phone": "(302)817-7701",
+        "email": "dylangonzales@example.org",
+        "account": {
+            "account_number": "60f65089-f973-4f02-9a41-8d06e21aa576",
+            "balance": 28991.51,
+            "transactions": [
+                {
+                    "date": "2023-11-17",
+                    "description": "Interest",
+                    "amount": 42433.21,
+                    "transaction_id": 54111066
+                },
+                {
+                    "date": "2022-10-18",
+                    "description": "Withdrawal",
+                    "amount": 44679.22,
+                    "transaction_id": 81160268
+                }
+            ]
+        }
+    }
+}

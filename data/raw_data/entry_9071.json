@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tracy Martin",
+        "age": 78,
+        "gender": "male",
+        "address": "924 Kristina Mills, Robertview, HI 90865",
+        "phone": "502.972.4814",
+        "email": "ylowe@example.com",
+        "account": {
+            "account_number": "49085c36-c4be-462d-a15d-ba22386f923c",
+            "balance": -24491.17,
+            "transactions": [
+                {
+                    "date": "2024-02-23",
+                    "description": "Interest",
+                    "amount": -4519.03,
+                    "transaction_id": 31492578
+                }
+            ]
+        }
+    }
+}

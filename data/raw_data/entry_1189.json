@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Abigail Ross",
+        "age": 55,
+        "gender": "female",
+        "address": "73873 Chad Village, Lake Rachelfurt, HI 19802",
+        "phone": "632.255.5698",
+        "email": "haleyjohnson@example.org",
+        "account": {
+            "account_number": "6834ffb4-0b2d-48a8-9d40-b0f186c717cc",
+            "balance": 8568.71,
+            "transactions": [
+                {
+                    "date": "2024-08-29",
+                    "description": "Deposit",
+                    "amount": 3074.38,
+                    "transaction_id": 33092767
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Withdrawal",
+                    "amount": 8207.03,
+                    "transaction_id": 1087286
+                },
+                {
+                    "date": "2022-09-27",
+                    "description": "Deposit",
+                    "amount": 16078.02,
+                    "transaction_id": 49952784
+                }
+            ]
+        }
+    }
+}

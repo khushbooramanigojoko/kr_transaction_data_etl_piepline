@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Dixon",
+        "age": 64,
+        "gender": "male",
+        "address": "174 Paige Meadow, Mcculloughchester, TX 89242",
+        "phone": "411.572.0728x0323",
+        "email": "thomastaylor@example.com",
+        "account": {
+            "account_number": "f5e3dccc-c0cf-4e76-a413-d7111d20f9fb",
+            "balance": -9719.53,
+            "transactions": [
+                {
+                    "date": "2024-01-05",
+                    "description": "Withdrawal",
+                    "amount": 1039.04,
+                    "transaction_id": 51236455
+                },
+                {
+                    "date": "2023-04-05",
+                    "description": "Interest",
+                    "amount": 2211.4,
+                    "transaction_id": 84420330
+                },
+                {
+                    "date": "2023-03-05",
+                    "description": "Withdrawal",
+                    "amount": 1363.81,
+                    "transaction_id": 105556764
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Withdrawal",
+                    "amount": -1563.54,
+                    "transaction_id": 74208768
+                },
+                {
+                    "date": "2024-01-16",
+                    "description": "Deposit",
+                    "amount": -1703.42,
+                    "transaction_id": 57520382
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "David Nguyen",
+        "age": 19,
+        "gender": "female",
+        "address": "04500 Tara Track Suite 775, New Matthew, GA 68797",
+        "phone": "+1-911-669-6411x93263",
+        "email": "ifields@example.net",
+        "account": {
+            "account_number": "eb7c9d89-6266-4b3e-a249-fd8f9d1c25eb",
+            "balance": 48614.9,
+            "transactions": [
+                {
+                    "date": "2024-05-29",
+                    "description": "Withdrawal",
+                    "amount": 25782.08,
+                    "transaction_id": 97003776
+                },
+                {
+                    "date": "2024-04-19",
+                    "description": "Withdrawal",
+                    "amount": 6099.6,
+                    "transaction_id": 104440395
+                }
+            ]
+        }
+    }
+}

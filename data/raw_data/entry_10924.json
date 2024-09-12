@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Howard Fletcher",
+        "age": 97,
+        "gender": "male",
+        "address": "0359 Crawford Stravenue Suite 683, South Charlesfort, MO 46815",
+        "phone": "(724)898-2641x53979",
+        "email": "kimberly64@example.net",
+        "account": {
+            "account_number": "3a5d3e06-87fb-4721-95cb-eaa3c026062c",
+            "balance": -12120.55,
+            "transactions": [
+                {
+                    "date": "2024-02-08",
+                    "description": "Interest",
+                    "amount": -4323.62,
+                    "transaction_id": 42636041
+                },
+                {
+                    "date": "2024-06-30",
+                    "description": "Interest",
+                    "amount": -3774.39,
+                    "transaction_id": 32338291
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Interest",
+                    "amount": -3577.59,
+                    "transaction_id": 64419661
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Withdrawal",
+                    "amount": 4436.79,
+                    "transaction_id": 10698845
+                },
+                {
+                    "date": "2023-12-05",
+                    "description": "Interest",
+                    "amount": -1314.41,
+                    "transaction_id": 104714538
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Richard Garcia",
+        "age": 28,
+        "gender": "male",
+        "address": "4171 Justin Village Apt. 990, New Jodyburgh, TN 24287",
+        "phone": "(565)686-2748",
+        "email": "zgarcia@example.org",
+        "account": {
+            "account_number": "71decc28-b945-40ec-a9b3-4cabf30f38b8",
+            "balance": 1221.67,
+            "transactions": [
+                {
+                    "date": "2024-01-13",
+                    "description": "Withdrawal",
+                    "amount": 13465.21,
+                    "transaction_id": 109581992
+                },
+                {
+                    "date": "2023-08-12",
+                    "description": "Withdrawal",
+                    "amount": 2352.5,
+                    "transaction_id": 26028862
+                },
+                {
+                    "date": "2023-08-23",
+                    "description": "Deposit",
+                    "amount": 35020.62,
+                    "transaction_id": 106401638
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Withdrawal",
+                    "amount": 13062.74,
+                    "transaction_id": 42508262
+                },
+                {
+                    "date": "2024-08-08",
+                    "description": "Interest",
+                    "amount": 42377.11,
+                    "transaction_id": 75118522
+                }
+            ]
+        }
+    }
+}

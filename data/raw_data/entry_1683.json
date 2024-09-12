@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "James Simon",
+        "age": 93,
+        "gender": "female",
+        "address": "4422 Duane Way Suite 452, North Tony, VT 51135",
+        "phone": "517-535-2243x3435",
+        "email": "andersongeorge@example.com",
+        "account": {
+            "account_number": "4bf2d5e2-b8dd-4e40-83f8-c6d16d0ddd6a",
+            "balance": 45391.6,
+            "transactions": [
+                {
+                    "date": "2022-11-22",
+                    "description": "Withdrawal",
+                    "amount": 13345.44,
+                    "transaction_id": 79287200
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Deposit",
+                    "amount": 5610.32,
+                    "transaction_id": 6926118
+                },
+                {
+                    "date": "2023-08-03",
+                    "description": "Deposit",
+                    "amount": 19247.58,
+                    "transaction_id": 11034674
+                },
+                {
+                    "date": "2023-05-05",
+                    "description": "Deposit",
+                    "amount": 41451.49,
+                    "transaction_id": 119759785
+                }
+            ]
+        }
+    }
+}

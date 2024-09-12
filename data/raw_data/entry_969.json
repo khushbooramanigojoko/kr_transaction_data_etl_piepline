@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Richard Peterson",
+        "age": 68,
+        "gender": "male",
+        "address": "6313 Debra Glen Suite 619, North Jamieport, NE 24202",
+        "phone": "(379)241-1623x96208",
+        "email": "navarroerin@example.net",
+        "account": {
+            "account_number": "a36b85bf-adbd-4c44-811c-69260610d6d2",
+            "balance": 28171.22,
+            "transactions": [
+                {
+                    "date": "2023-10-15",
+                    "description": "Interest",
+                    "amount": 39582.98,
+                    "transaction_id": 15616139
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Withdrawal",
+                    "amount": 9401.18,
+                    "transaction_id": 89418662
+                }
+            ]
+        }
+    }
+}

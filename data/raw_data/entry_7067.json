@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Nicole Hawkins",
+        "age": 75,
+        "gender": "male",
+        "address": "Unit 4980 Box 7546, DPO AE 03085",
+        "phone": "9388769937",
+        "email": "bonnie76@example.org",
+        "account": {
+            "account_number": "8aa49709-20f4-4d07-b9f1-2b7ca083780c",
+            "balance": 35262.35,
+            "transactions": [
+                {
+                    "date": "2023-09-05",
+                    "description": "Interest",
+                    "amount": 42690.17,
+                    "transaction_id": 36010435
+                }
+            ]
+        }
+    }
+}

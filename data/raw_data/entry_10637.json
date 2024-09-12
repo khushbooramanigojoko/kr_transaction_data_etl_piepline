@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 20,
+        "gender": "male",
+        "address": "982 Bell Forest Suite 796, Greenview, WY 17114",
+        "phone": "001-462-282-2043",
+        "email": "ianmcpherson@example.org",
+        "account": {
+            "account_number": "7e703673-4a2b-44f4-a984-5ea01edadbb1",
+            "balance": 30413.46,
+            "transactions": [
+                {
+                    "date": "2022-12-29",
+                    "description": "Withdrawal",
+                    "amount": -4670.48,
+                    "transaction_id": 91356325
+                },
+                {
+                    "date": "2022-11-18",
+                    "description": "Withdrawal",
+                    "amount": -2927.31,
+                    "transaction_id": 115055248
+                },
+                {
+                    "date": "2023-11-04",
+                    "description": "Interest",
+                    "amount": -4561.47,
+                    "transaction_id": 46809921
+                },
+                {
+                    "date": "2022-11-01",
+                    "description": "Interest",
+                    "amount": 1484.28,
+                    "transaction_id": 112268761
+                },
+                {
+                    "date": "2024-01-20",
+                    "description": "Interest",
+                    "amount": -713.29,
+                    "transaction_id": 79417885
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "male",
+        "address": "69760 Moore Walk, New Juliafort, WA 82364",
+        "phone": "626-971-2962",
+        "email": "gfuller@example.org",
+        "account": {
+            "account_number": "0bdf7971-8113-4d0a-8239-27d1073fd3e4",
+            "balance": 22076.05,
+            "transactions": [
+                {
+                    "date": "2023-04-30",
+                    "description": "Interest",
+                    "amount": -1319.85,
+                    "transaction_id": 87470861
+                },
+                {
+                    "date": "2023-01-11",
+                    "description": "Withdrawal",
+                    "amount": 797.82,
+                    "transaction_id": 92449031
+                },
+                {
+                    "date": "2023-10-30",
+                    "description": "Interest",
+                    "amount": 4290.55,
+                    "transaction_id": 73618929
+                },
+                {
+                    "date": "2022-12-26",
+                    "description": "Withdrawal",
+                    "amount": -1134.48,
+                    "transaction_id": 40680520
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Withdrawal",
+                    "amount": 3682.94,
+                    "transaction_id": 9469960
+                }
+            ]
+        }
+    }
+}

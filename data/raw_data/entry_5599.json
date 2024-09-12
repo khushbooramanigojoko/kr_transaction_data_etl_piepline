@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kyle Castillo",
+        "age": 88,
+        "gender": "male",
+        "address": "215 Cory Mountain, Lyonsfort, IL 90233",
+        "phone": "965-968-2987x408",
+        "email": "adambullock@example.org",
+        "account": {
+            "account_number": "84636f56-b3f8-4165-9657-f01ac2ab1474",
+            "balance": 29625.04,
+            "transactions": [
+                {
+                    "date": "2023-11-03",
+                    "description": "Interest",
+                    "amount": 16005.0,
+                    "transaction_id": 66527263
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Interest",
+                    "amount": 19898.22,
+                    "transaction_id": 31539422
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Withdrawal",
+                    "amount": 23072.86,
+                    "transaction_id": 42629748
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Interest",
+                    "amount": 16945.72,
+                    "transaction_id": 57163498
+                }
+            ]
+        }
+    }
+}

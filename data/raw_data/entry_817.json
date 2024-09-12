@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Scott Shaw",
+        "age": 59,
+        "gender": "male",
+        "address": "3566 Christian Knolls Suite 228, Heatherfort, MS 54154",
+        "phone": "001-383-202-0175",
+        "email": "theresamays@example.net",
+        "account": {
+            "account_number": "3e35cc41-3b9a-42d5-a578-c1a5858a0c60",
+            "balance": 3452.8,
+            "transactions": [
+                {
+                    "date": "2023-07-20",
+                    "description": "Deposit",
+                    "amount": 38071.36,
+                    "transaction_id": 77834980
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Interest",
+                    "amount": 47862.93,
+                    "transaction_id": 81039301
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Withdrawal",
+                    "amount": 5222.6,
+                    "transaction_id": 111679307
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Deposit",
+                    "amount": 25222.16,
+                    "transaction_id": 38531374
+                },
+                {
+                    "date": "2024-05-31",
+                    "description": "Deposit",
+                    "amount": 18058.14,
+                    "transaction_id": 101903777
+                }
+            ]
+        }
+    }
+}

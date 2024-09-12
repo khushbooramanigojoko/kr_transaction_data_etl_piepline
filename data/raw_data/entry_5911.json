@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Larry Moore",
+        "age": 28,
+        "gender": "male",
+        "address": "53289 Reese Shore Suite 652, Lake Stevenborough, MA 58071",
+        "phone": "(727)700-4927x257",
+        "email": "savannah08@example.com",
+        "account": {
+            "account_number": "a444f0a9-ef3a-4e75-a84f-ea56e172d862",
+            "balance": 44310.96,
+            "transactions": [
+                {
+                    "date": "2023-02-19",
+                    "description": "Withdrawal",
+                    "amount": 8630.78,
+                    "transaction_id": 16903937
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Deposit",
+                    "amount": 49169.42,
+                    "transaction_id": 118415273
+                },
+                {
+                    "date": "2024-04-21",
+                    "description": "Deposit",
+                    "amount": 33189.6,
+                    "transaction_id": 18318726
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Deposit",
+                    "amount": 35057.05,
+                    "transaction_id": 63641544
+                }
+            ]
+        }
+    }
+}

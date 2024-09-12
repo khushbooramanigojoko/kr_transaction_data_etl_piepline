@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Ray",
+        "age": 56,
+        "gender": "male",
+        "address": "83033 Shelley Drives, Rowlandborough, KS 11911",
+        "phone": "(784)866-6384",
+        "email": "warrenaustin@example.org",
+        "account": {
+            "account_number": "f08bfbc8-de1c-426d-a5c3-c89ead2f9129",
+            "balance": 31726.27,
+            "transactions": [
+                {
+                    "date": "2022-12-21",
+                    "description": "Interest",
+                    "amount": 3837.81,
+                    "transaction_id": 2567263
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Withdrawal",
+                    "amount": 10685.3,
+                    "transaction_id": 7635726
+                },
+                {
+                    "date": "2024-05-25",
+                    "description": "Interest",
+                    "amount": 11148.42,
+                    "transaction_id": 21157544
+                },
+                {
+                    "date": "2023-10-10",
+                    "description": "Withdrawal",
+                    "amount": 623.58,
+                    "transaction_id": 48556588
+                },
+                {
+                    "date": "2022-09-09",
+                    "description": "Withdrawal",
+                    "amount": 43630.37,
+                    "transaction_id": 22500815
+                }
+            ]
+        }
+    }
+}

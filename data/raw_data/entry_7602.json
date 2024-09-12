@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Yvette Joseph",
+        "age": 18,
+        "gender": "female",
+        "address": "39641 Brown Point, South Jeffreyport, AZ 55439",
+        "phone": "887-204-4830x293",
+        "email": "kathrynwilliams@example.com",
+        "account": {
+            "account_number": "be0dad09-cf97-4741-9af8-4a797df3065a",
+            "balance": 13017.63,
+            "transactions": [
+                {
+                    "date": "2023-03-28",
+                    "description": "Deposit",
+                    "amount": 19815.1,
+                    "transaction_id": 116233744
+                }
+            ]
+        }
+    }
+}

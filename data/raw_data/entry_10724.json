@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 93,
+        "gender": "male",
+        "address": "5691 Pamela Cliffs Apt. 168, South Tylerstad, NV 66667",
+        "phone": "830.736.4258x72069",
+        "email": "lawrence40@example.com",
+        "account": {
+            "account_number": "28bd927a-95dc-495e-ad8a-922f76891c11",
+            "balance": 10082.08,
+            "transactions": [
+                {
+                    "date": "2023-12-05",
+                    "description": "Withdrawal",
+                    "amount": -4697.34,
+                    "transaction_id": 19973778
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Withdrawal",
+                    "amount": -154.02,
+                    "transaction_id": 53789044
+                },
+                {
+                    "date": "2023-03-02",
+                    "description": "Interest",
+                    "amount": -395.93,
+                    "transaction_id": 61378321
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Anthony Bishop",
+        "age": 66,
+        "gender": "male",
+        "address": "03728 Mcintyre Way, Earlhaven, SC 33461",
+        "phone": "9354149415",
+        "email": "xmarshall@example.com",
+        "account": {
+            "account_number": "4fd8ec21-e7c1-4e5a-a912-4198566cdb15",
+            "balance": -25090.17,
+            "transactions": [
+                {
+                    "date": "2023-05-09",
+                    "description": "Interest",
+                    "amount": -2341.31,
+                    "transaction_id": 107361167
+                },
+                {
+                    "date": "2023-07-25",
+                    "description": "Deposit",
+                    "amount": -3939.04,
+                    "transaction_id": 54522535
+                },
+                {
+                    "date": "2023-07-14",
+                    "description": "Withdrawal",
+                    "amount": -864.89,
+                    "transaction_id": 14084121
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Withdrawal",
+                    "amount": 2692.88,
+                    "transaction_id": 64613621
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Withdrawal",
+                    "amount": 4367.95,
+                    "transaction_id": 59860154
+                }
+            ]
+        }
+    }
+}

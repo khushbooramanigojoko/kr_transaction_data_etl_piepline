@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Lee",
+        "age": 47,
+        "gender": "female",
+        "address": "114 Butler Square Suite 809, Harveytown, IA 02091",
+        "phone": "+1-707-492-0198x51636",
+        "email": "probertson@example.com",
+        "account": {
+            "account_number": "eeb09111-1823-4f1e-a500-f0847096a60e",
+            "balance": 45209.27,
+            "transactions": [
+                {
+                    "date": "2023-02-01",
+                    "description": "Interest",
+                    "amount": 44847.77,
+                    "transaction_id": 24966855
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Deposit",
+                    "amount": 11780.0,
+                    "transaction_id": 62461676
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Interest",
+                    "amount": 7524.89,
+                    "transaction_id": 37165076
+                },
+                {
+                    "date": "2022-11-29",
+                    "description": "Withdrawal",
+                    "amount": 40807.98,
+                    "transaction_id": 64725910
+                }
+            ]
+        }
+    }
+}

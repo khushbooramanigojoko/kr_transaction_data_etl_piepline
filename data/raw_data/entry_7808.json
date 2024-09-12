@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kyle Peterson",
+        "age": 81,
+        "gender": "female",
+        "address": "177 Jacqueline Underpass, East Andrew, ME 74968",
+        "phone": "(371)328-2218x85649",
+        "email": "hjones@example.com",
+        "account": {
+            "account_number": "b7e8a882-e036-4b5d-bb44-5c32f5f2e590",
+            "balance": 18333.1,
+            "transactions": [
+                {
+                    "date": "2023-09-05",
+                    "description": "Deposit",
+                    "amount": 5700.74,
+                    "transaction_id": 66364748
+                },
+                {
+                    "date": "2023-07-08",
+                    "description": "Interest",
+                    "amount": 15587.03,
+                    "transaction_id": 12196119
+                }
+            ]
+        }
+    }
+}

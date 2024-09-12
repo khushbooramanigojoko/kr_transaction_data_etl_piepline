@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jordan Swanson",
+        "age": 87,
+        "gender": "female",
+        "address": "783 Christopher Cliffs, North Joseph, OH 72980",
+        "phone": "321.598.2468x5475",
+        "email": "stephaniegreen@example.net",
+        "account": {
+            "account_number": "fccec5ab-a9fd-440d-bd0d-aea9a0475868",
+            "balance": -10954.89,
+            "transactions": [
+                {
+                    "date": "2023-06-02",
+                    "description": "Deposit",
+                    "amount": 1697.75,
+                    "transaction_id": 31313210
+                },
+                {
+                    "date": "2023-09-04",
+                    "description": "Withdrawal",
+                    "amount": 4485.2,
+                    "transaction_id": 14780774
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Interest",
+                    "amount": -3669.49,
+                    "transaction_id": 72422379
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Deposit",
+                    "amount": -1928.66,
+                    "transaction_id": 62536825
+                }
+            ]
+        }
+    }
+}

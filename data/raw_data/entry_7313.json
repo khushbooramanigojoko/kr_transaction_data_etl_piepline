@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Thomas Rogers",
+        "age": 97,
+        "gender": "male",
+        "address": "26208 Mueller Causeway Suite 907, Smithshire, HI 37598",
+        "phone": "(834)516-3454",
+        "email": "tstout@example.net",
+        "account": {
+            "account_number": "9bb64a51-c932-40f2-9526-768e26b03467",
+            "balance": 34221.67,
+            "transactions": [
+                {
+                    "date": "2024-01-23",
+                    "description": "Deposit",
+                    "amount": 31869.76,
+                    "transaction_id": 14126843
+                },
+                {
+                    "date": "2024-06-13",
+                    "description": "Interest",
+                    "amount": 25380.84,
+                    "transaction_id": 47213414
+                }
+            ]
+        }
+    }
+}

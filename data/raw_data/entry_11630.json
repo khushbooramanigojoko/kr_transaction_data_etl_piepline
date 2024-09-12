@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 90,
+        "gender": "female",
+        "address": "4632 Alexander Loop Apt. 281, Hayesburgh, NC 06184",
+        "phone": "456.487.2707",
+        "email": "rebecca20@example.net",
+        "account": {
+            "account_number": "d860c7df-d9e7-4fd5-b543-5de5f73a92a4",
+            "balance": 30708.4,
+            "transactions": [
+                {
+                    "date": "2023-08-19",
+                    "description": "Interest",
+                    "amount": -324.2,
+                    "transaction_id": 103267047
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Interest",
+                    "amount": 3834.13,
+                    "transaction_id": 84182348
+                },
+                {
+                    "date": "2024-07-27",
+                    "description": "Deposit",
+                    "amount": -1858.53,
+                    "transaction_id": 40746950
+                },
+                {
+                    "date": "2022-10-11",
+                    "description": "Withdrawal",
+                    "amount": -4537.85,
+                    "transaction_id": 112404743
+                }
+            ]
+        }
+    }
+}

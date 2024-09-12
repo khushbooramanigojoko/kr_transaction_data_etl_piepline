@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joseph Martin",
+        "age": 93,
+        "gender": "female",
+        "address": "3313 Brian Square Apt. 211, Timothyburgh, OH 26896",
+        "phone": "522-297-5615",
+        "email": "rkelly@example.org",
+        "account": {
+            "account_number": "11297304-7eef-4154-98a7-6316b9fff43b",
+            "balance": -43844.0,
+            "transactions": [
+                {
+                    "date": "2022-11-21",
+                    "description": "Withdrawal",
+                    "amount": 1478.75,
+                    "transaction_id": 73262801
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Withdrawal",
+                    "amount": -3904.43,
+                    "transaction_id": 61731784
+                }
+            ]
+        }
+    }
+}

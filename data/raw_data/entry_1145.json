@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Caleb Hebert",
+        "age": 65,
+        "gender": "male",
+        "address": "13123 Nicholas Streets, Port Ronaldton, IN 18105",
+        "phone": "359.503.8809",
+        "email": "elizabethlong@example.com",
+        "account": {
+            "account_number": "e71b1206-875c-44dc-8d44-f82d4af69398",
+            "balance": 36877.17,
+            "transactions": [
+                {
+                    "date": "2024-08-03",
+                    "description": "Withdrawal",
+                    "amount": 37799.31,
+                    "transaction_id": 79410686
+                }
+            ]
+        }
+    }
+}

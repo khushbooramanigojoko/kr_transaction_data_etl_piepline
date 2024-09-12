@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Barnes",
+        "age": 59,
+        "gender": "female",
+        "address": "3478 Timothy Ville Apt. 935, Melaniestad, IN 92707",
+        "phone": "+1-421-291-8212x098",
+        "email": "alanholland@example.net",
+        "account": {
+            "account_number": "753f1636-be3e-4717-8b73-bf5ce69b6e6e",
+            "balance": -27528.66,
+            "transactions": [
+                {
+                    "date": "2024-01-25",
+                    "description": "Withdrawal",
+                    "amount": 2082.52,
+                    "transaction_id": 100570147
+                }
+            ]
+        }
+    }
+}

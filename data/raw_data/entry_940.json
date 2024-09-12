@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joshua Hall",
+        "age": 19,
+        "gender": "male",
+        "address": "136 Laura Glen, Tylertown, WY 29988",
+        "phone": "581.337.3311x16039",
+        "email": "emmaflores@example.com",
+        "account": {
+            "account_number": "2f94fe59-083a-4b4e-b29b-63939e134da7",
+            "balance": 36408.95,
+            "transactions": [
+                {
+                    "date": "2023-07-20",
+                    "description": "Interest",
+                    "amount": 33958.04,
+                    "transaction_id": 60588617
+                },
+                {
+                    "date": "2024-07-26",
+                    "description": "Deposit",
+                    "amount": 36352.38,
+                    "transaction_id": 15210029
+                }
+            ]
+        }
+    }
+}

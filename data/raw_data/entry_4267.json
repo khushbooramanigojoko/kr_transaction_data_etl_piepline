@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Pamela West",
+        "age": 83,
+        "gender": "female",
+        "address": "311 Jimmy Vista Suite 340, New Lisaton, MN 45941",
+        "phone": "769.287.7333",
+        "email": "tony45@example.com",
+        "account": {
+            "account_number": "f4441700-aa56-47f9-a4d7-7627fdaeda58",
+            "balance": 49673.87,
+            "transactions": [
+                {
+                    "date": "2023-12-27",
+                    "description": "Interest",
+                    "amount": 11496.79,
+                    "transaction_id": 14502849
+                }
+            ]
+        }
+    }
+}

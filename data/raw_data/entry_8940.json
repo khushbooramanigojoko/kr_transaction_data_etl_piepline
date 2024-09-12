@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 59,
+        "gender": "female",
+        "address": "76246 John Trafficway Suite 022, West Kimberlyborough, DE 84395",
+        "phone": "+1-764-713-6866x166",
+        "email": "kimberlyreyes@example.net",
+        "account": {
+            "account_number": "d80fa797-f4e8-4ce6-9513-ae2e646cbf57",
+            "balance": 22009.99,
+            "transactions": [
+                {
+                    "date": "2024-01-22",
+                    "description": "Interest",
+                    "amount": -3127.19,
+                    "transaction_id": 108726146
+                }
+            ]
+        }
+    }
+}

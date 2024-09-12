@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lauren Williams",
+        "age": 21,
+        "gender": "male",
+        "address": "24840 Bobby Alley, Fosterland, ND 06147",
+        "phone": "(604)551-5325x554",
+        "email": "graycolin@example.org",
+        "account": {
+            "account_number": "3aef6f3a-0504-487a-a4dd-39847fb090a5",
+            "balance": 16013.73,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Deposit",
+                    "amount": 20629.11,
+                    "transaction_id": 71764395
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Interest",
+                    "amount": 20816.35,
+                    "transaction_id": 45575219
+                }
+            ]
+        }
+    }
+}

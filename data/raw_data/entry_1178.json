@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Travis Hanson",
+        "age": 75,
+        "gender": "female",
+        "address": "USNS King, FPO AE 42940",
+        "phone": "(454)841-4513x063",
+        "email": "nmoore@example.org",
+        "account": {
+            "account_number": "26d2ac78-c230-4d49-827c-9ef504d3183b",
+            "balance": 36497.93,
+            "transactions": [
+                {
+                    "date": "2023-09-22",
+                    "description": "Deposit",
+                    "amount": 24768.69,
+                    "transaction_id": 100923599
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Deposit",
+                    "amount": 14471.1,
+                    "transaction_id": 20816359
+                },
+                {
+                    "date": "2024-01-31",
+                    "description": "Withdrawal",
+                    "amount": 8955.34,
+                    "transaction_id": 98372943
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Withdrawal",
+                    "amount": 49567.13,
+                    "transaction_id": 98942988
+                }
+            ]
+        }
+    }
+}

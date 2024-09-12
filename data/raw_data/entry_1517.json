@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Rachel Giles",
+        "age": 32,
+        "gender": "female",
+        "address": "19161 Jason Meadows, South Rhonda, NC 96110",
+        "phone": "(994)937-8025",
+        "email": "christinebradford@example.com",
+        "account": {
+            "account_number": "4efcceae-22ff-45d7-b266-2c53093f4913",
+            "balance": 49696.13,
+            "transactions": [
+                {
+                    "date": "2022-09-20",
+                    "description": "Deposit",
+                    "amount": 14471.34,
+                    "transaction_id": 71692545
+                },
+                {
+                    "date": "2022-11-23",
+                    "description": "Withdrawal",
+                    "amount": 28466.82,
+                    "transaction_id": 27157069
+                }
+            ]
+        }
+    }
+}

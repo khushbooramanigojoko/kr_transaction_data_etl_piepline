@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joe Brennan",
+        "age": 34,
+        "gender": "male",
+        "address": "191 Jennifer Turnpike, East Sharon, PW 61405",
+        "phone": "001-781-220-7826",
+        "email": "jason38@example.com",
+        "account": {
+            "account_number": "98d57818-80da-4e68-829d-125027e199a9",
+            "balance": 20071.23,
+            "transactions": [
+                {
+                    "date": "2023-03-17",
+                    "description": "Interest",
+                    "amount": 2749.23,
+                    "transaction_id": 60474207
+                }
+            ]
+        }
+    }
+}

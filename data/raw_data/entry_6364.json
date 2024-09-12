@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Angela Gross",
+        "age": 73,
+        "gender": "female",
+        "address": "84987 Lewis Alley, North Thomaschester, HI 65390",
+        "phone": "001-811-688-5323",
+        "email": "vickigross@example.com",
+        "account": {
+            "account_number": "e7e2716d-f276-44bd-b683-2f688c8b4f3a",
+            "balance": 34143.14,
+            "transactions": [
+                {
+                    "date": "2023-12-10",
+                    "description": "Interest",
+                    "amount": 48689.32,
+                    "transaction_id": 2846537
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Withdrawal",
+                    "amount": 40258.73,
+                    "transaction_id": 81506159
+                }
+            ]
+        }
+    }
+}

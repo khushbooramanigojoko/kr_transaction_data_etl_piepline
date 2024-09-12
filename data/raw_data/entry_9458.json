@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 30,
+        "gender": "male",
+        "address": "8969 Garrett Expressway, Janeborough, MD 68091",
+        "phone": "936-786-3421",
+        "email": "thomasmartinez@example.com",
+        "account": {
+            "account_number": "a1c493df-4c42-4e96-adba-036e8619fcb1",
+            "balance": 48973.77,
+            "transactions": [
+                {
+                    "date": "2023-09-09",
+                    "description": "Interest",
+                    "amount": 811.97,
+                    "transaction_id": 95697178
+                },
+                {
+                    "date": "2023-10-30",
+                    "description": "Deposit",
+                    "amount": -257.32,
+                    "transaction_id": 92311595
+                },
+                {
+                    "date": "2024-04-21",
+                    "description": "Withdrawal",
+                    "amount": 2934.08,
+                    "transaction_id": 87925823
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Interest",
+                    "amount": -3934.96,
+                    "transaction_id": 11201064
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Withdrawal",
+                    "amount": -211.26,
+                    "transaction_id": 111136145
+                }
+            ]
+        }
+    }
+}

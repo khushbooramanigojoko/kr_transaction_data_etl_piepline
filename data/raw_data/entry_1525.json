@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "David Huang",
+        "age": 54,
+        "gender": "male",
+        "address": "37099 Ortega Causeway, Hamiltonland, ND 20496",
+        "phone": "001-934-854-7296x710",
+        "email": "paulanderson@example.com",
+        "account": {
+            "account_number": "6d33f0c7-fda9-4563-9b9e-dd1c57191017",
+            "balance": 6762.49,
+            "transactions": [
+                {
+                    "date": "2022-11-23",
+                    "description": "Deposit",
+                    "amount": 48226.98,
+                    "transaction_id": 64003188
+                },
+                {
+                    "date": "2023-07-22",
+                    "description": "Deposit",
+                    "amount": 28992.19,
+                    "transaction_id": 91281067
+                }
+            ]
+        }
+    }
+}

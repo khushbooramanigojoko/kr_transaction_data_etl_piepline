@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alyssa Brown",
+        "age": 68,
+        "gender": "male",
+        "address": "Unit 6705 Box 5960, DPO AE 25271",
+        "phone": "971-417-2561",
+        "email": "josephhays@example.com",
+        "account": {
+            "account_number": "1ea8e52d-29a3-4a0a-94e1-8e5d3a1cc33e",
+            "balance": 48955.79,
+            "transactions": [
+                {
+                    "date": "2024-07-14",
+                    "description": "Withdrawal",
+                    "amount": 41471.12,
+                    "transaction_id": 80949786
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 80,
+        "gender": "male",
+        "address": "Unit 7671 Box 9395, DPO AP 19809",
+        "phone": "001-658-275-3677",
+        "email": "icrosby@example.com",
+        "account": {
+            "account_number": "0094cde2-1b61-4fb7-a1f0-c6fa8a1cc33d",
+            "balance": 21662.0,
+            "transactions": [
+                {
+                    "date": "2023-05-05",
+                    "description": "Withdrawal",
+                    "amount": 342.76,
+                    "transaction_id": 15292388
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Withdrawal",
+                    "amount": 2056.58,
+                    "transaction_id": 48460172
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Interest",
+                    "amount": 1271.7,
+                    "transaction_id": 73775036
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Withdrawal",
+                    "amount": 548.3,
+                    "transaction_id": 32748053
+                },
+                {
+                    "date": "2023-09-15",
+                    "description": "Interest",
+                    "amount": -4310.83,
+                    "transaction_id": 83051366
+                }
+            ]
+        }
+    }
+}

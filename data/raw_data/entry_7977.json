@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joe Martinez",
+        "age": 71,
+        "gender": "female",
+        "address": "326 Davis Coves Suite 272, Hopkinsland, NY 79922",
+        "phone": "286.776.9830x6424",
+        "email": "jruiz@example.com",
+        "account": {
+            "account_number": "df0d7a96-3d2e-4712-9013-08a2ef3b9b4d",
+            "balance": 47557.94,
+            "transactions": [
+                {
+                    "date": "2023-12-11",
+                    "description": "Withdrawal",
+                    "amount": 17148.36,
+                    "transaction_id": 25461580
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Interest",
+                    "amount": 30424.89,
+                    "transaction_id": 63106950
+                }
+            ]
+        }
+    }
+}

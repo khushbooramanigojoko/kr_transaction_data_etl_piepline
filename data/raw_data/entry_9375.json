@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Leslie Hayes",
+        "age": 94,
+        "gender": "female",
+        "address": "99322 Christopher Turnpike Apt. 773, Jessicaview, WV 85718",
+        "phone": "9449196776",
+        "email": "pcastaneda@example.org",
+        "account": {
+            "account_number": "dc912fb7-0b59-4bf5-b0b1-f912aa4b3bd7",
+            "balance": -17393.65,
+            "transactions": [
+                {
+                    "date": "2023-12-02",
+                    "description": "Interest",
+                    "amount": 164.94,
+                    "transaction_id": 28052507
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Withdrawal",
+                    "amount": 1004.18,
+                    "transaction_id": 76418775
+                }
+            ]
+        }
+    }
+}

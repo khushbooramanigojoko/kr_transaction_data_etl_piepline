@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Abigail Ruiz",
+        "age": 24,
+        "gender": "male",
+        "address": "5448 Mark Bypass Suite 523, Stevensmouth, DC 98402",
+        "phone": "997-380-7180x7671",
+        "email": "robertsonregina@example.net",
+        "account": {
+            "account_number": "2dddd3cf-526f-4650-9077-fd627b242169",
+            "balance": -8102.11,
+            "transactions": [
+                {
+                    "date": "2024-06-19",
+                    "description": "Deposit",
+                    "amount": -3236.05,
+                    "transaction_id": 38378541
+                },
+                {
+                    "date": "2022-09-19",
+                    "description": "Interest",
+                    "amount": 4777.56,
+                    "transaction_id": 87269749
+                }
+            ]
+        }
+    }
+}

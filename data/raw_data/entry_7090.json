@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sydney Benson",
+        "age": 85,
+        "gender": "male",
+        "address": "958 Thomas Expressway, Lake Eric, PA 54159",
+        "phone": "349.692.1875x3801",
+        "email": "halemark@example.com",
+        "account": {
+            "account_number": "f849b2d2-77cb-476d-9d2e-531cb27d2b03",
+            "balance": 33345.44,
+            "transactions": [
+                {
+                    "date": "2024-08-24",
+                    "description": "Deposit",
+                    "amount": 5576.71,
+                    "transaction_id": 98642911
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Withdrawal",
+                    "amount": 36329.73,
+                    "transaction_id": 75387579
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Interest",
+                    "amount": 12204.78,
+                    "transaction_id": 76411269
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Interest",
+                    "amount": 7119.64,
+                    "transaction_id": 6774616
+                }
+            ]
+        }
+    }
+}

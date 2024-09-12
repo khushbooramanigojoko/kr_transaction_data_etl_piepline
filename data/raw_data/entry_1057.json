@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Charles Smith",
+        "age": 91,
+        "gender": "male",
+        "address": "2672 Denise Pine Suite 806, Brentshire, UT 67171",
+        "phone": "8465906791",
+        "email": "jessicamiller@example.net",
+        "account": {
+            "account_number": "e6041d06-5b1d-419b-8a1c-fdffba99a22f",
+            "balance": 36181.12,
+            "transactions": [
+                {
+                    "date": "2024-01-02",
+                    "description": "Deposit",
+                    "amount": 17491.66,
+                    "transaction_id": 51420672
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Interest",
+                    "amount": 38386.51,
+                    "transaction_id": 94079174
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Withdrawal",
+                    "amount": 22888.85,
+                    "transaction_id": 93939289
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Interest",
+                    "amount": 29185.93,
+                    "transaction_id": 53394874
+                },
+                {
+                    "date": "2024-01-11",
+                    "description": "Withdrawal",
+                    "amount": 1786.24,
+                    "transaction_id": 93126318
+                }
+            ]
+        }
+    }
+}

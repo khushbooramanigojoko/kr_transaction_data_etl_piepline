@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 32,
+        "gender": "male",
+        "address": "5016 Madeline Mews Apt. 818, Mariamouth, VA 95449",
+        "phone": "932.417.6140",
+        "email": "jillrogers@example.net",
+        "account": {
+            "account_number": "4ab1d88e-897a-45e1-8abb-795e2291cc1c",
+            "balance": 37605.48,
+            "transactions": [
+                {
+                    "date": "2023-02-23",
+                    "description": "Interest",
+                    "amount": -776.75,
+                    "transaction_id": 98112215
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Interest",
+                    "amount": 2798.19,
+                    "transaction_id": 82193512
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Withdrawal",
+                    "amount": 3236.18,
+                    "transaction_id": 45926548
+                },
+                {
+                    "date": "2024-08-24",
+                    "description": "Interest",
+                    "amount": -491.0,
+                    "transaction_id": 112990496
+                }
+            ]
+        }
+    }
+}

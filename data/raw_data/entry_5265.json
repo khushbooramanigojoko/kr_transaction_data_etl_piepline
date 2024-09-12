@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tyler Ortiz",
+        "age": 57,
+        "gender": "female",
+        "address": "475 Phillip Spring Apt. 360, North Darleneshire, WI 13595",
+        "phone": "001-656-463-0908x2436",
+        "email": "isaac19@example.org",
+        "account": {
+            "account_number": "a53d41a0-45c4-4ebb-a1d7-ebe68de4f558",
+            "balance": 3788.69,
+            "transactions": [
+                {
+                    "date": "2022-09-27",
+                    "description": "Deposit",
+                    "amount": 8009.34,
+                    "transaction_id": 96809129
+                }
+            ]
+        }
+    }
+}

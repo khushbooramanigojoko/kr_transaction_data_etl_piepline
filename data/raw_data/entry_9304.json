@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 55,
+        "gender": "male",
+        "address": "3540 Annette Ports, Christinastad, MI 88419",
+        "phone": "899-374-4840x462",
+        "email": "aprilyang@example.net",
+        "account": {
+            "account_number": "5a690513-6da2-4900-bc8a-7d5fc1e4442d",
+            "balance": 26171.37,
+            "transactions": [
+                {
+                    "date": "2022-10-14",
+                    "description": "Withdrawal",
+                    "amount": -1067.16,
+                    "transaction_id": 32089979
+                },
+                {
+                    "date": "2023-04-19",
+                    "description": "Interest",
+                    "amount": 47.28,
+                    "transaction_id": 83400369
+                }
+            ]
+        }
+    }
+}

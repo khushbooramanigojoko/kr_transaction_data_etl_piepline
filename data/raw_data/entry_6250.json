@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Melanie Cunningham",
+        "age": 67,
+        "gender": "female",
+        "address": "USNS Smith, FPO AE 44935",
+        "phone": "371-272-6222x14629",
+        "email": "jcline@example.org",
+        "account": {
+            "account_number": "730fa3f3-4bc7-4807-a9bd-b7961b6604f3",
+            "balance": 17575.53,
+            "transactions": [
+                {
+                    "date": "2024-03-18",
+                    "description": "Deposit",
+                    "amount": 14134.94,
+                    "transaction_id": 84686465
+                },
+                {
+                    "date": "2022-12-29",
+                    "description": "Interest",
+                    "amount": 41720.58,
+                    "transaction_id": 90575843
+                },
+                {
+                    "date": "2023-09-21",
+                    "description": "Deposit",
+                    "amount": 8301.62,
+                    "transaction_id": 39745882
+                },
+                {
+                    "date": "2023-08-05",
+                    "description": "Withdrawal",
+                    "amount": 26507.67,
+                    "transaction_id": 19520255
+                }
+            ]
+        }
+    }
+}

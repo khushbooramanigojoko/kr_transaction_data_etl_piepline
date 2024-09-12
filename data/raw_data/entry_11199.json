@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 24,
+        "gender": "male",
+        "address": "1930 Courtney Manors, East Davidville, ID 99343",
+        "phone": "365.247.7208",
+        "email": "ntrevino@example.net",
+        "account": {
+            "account_number": "43a74198-1712-42c2-9ef0-2a9c72b676e0",
+            "balance": 14602.61,
+            "transactions": [
+                {
+                    "date": "2023-12-16",
+                    "description": "Deposit",
+                    "amount": -994.06,
+                    "transaction_id": 33163498
+                },
+                {
+                    "date": "2022-11-21",
+                    "description": "Interest",
+                    "amount": 1704.84,
+                    "transaction_id": 19975634
+                }
+            ]
+        }
+    }
+}

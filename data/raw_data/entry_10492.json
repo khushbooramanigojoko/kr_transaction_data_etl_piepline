@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 90,
+        "gender": "female",
+        "address": "2391 Valenzuela Mountains Apt. 097, Jeffreyview, FL 61495",
+        "phone": "8886482257",
+        "email": "sarahflores@example.org",
+        "account": {
+            "account_number": "69c15174-06e0-41c5-9af7-e8ae23f49989",
+            "balance": 24227.96,
+            "transactions": [
+                {
+                    "date": "2024-08-07",
+                    "description": "Withdrawal",
+                    "amount": -707.08,
+                    "transaction_id": 23246718
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Deposit",
+                    "amount": 2537.47,
+                    "transaction_id": 59915895
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Deposit",
+                    "amount": -2692.55,
+                    "transaction_id": 32929140
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Withdrawal",
+                    "amount": -1106.82,
+                    "transaction_id": 95168824
+                }
+            ]
+        }
+    }
+}

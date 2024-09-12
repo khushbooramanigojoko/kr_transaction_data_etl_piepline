@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Melvin Schmitt",
+        "age": 19,
+        "gender": "female",
+        "address": "62941 Kari Fort Apt. 015, New Lori, MS 53171",
+        "phone": "+1-781-251-5211x05642",
+        "email": "pmendoza@example.com",
+        "account": {
+            "account_number": "0c35482d-c83f-43d4-a22d-6f67cd173dd4",
+            "balance": 32692.91,
+            "transactions": [
+                {
+                    "date": "2022-11-11",
+                    "description": "Deposit",
+                    "amount": 13334.57,
+                    "transaction_id": 74020980
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Deposit",
+                    "amount": 13843.69,
+                    "transaction_id": 17371259
+                }
+            ]
+        }
+    }
+}

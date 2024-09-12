@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Hannah Gonzalez",
+        "age": 93,
+        "gender": "male",
+        "address": "95954 Luis Mountain Apt. 588, North Rodney, WY 71558",
+        "phone": "481.711.7952x68600",
+        "email": "rmccarthy@example.com",
+        "account": {
+            "account_number": "864757cc-caef-46e3-9ab7-f2b2344ea1ca",
+            "balance": 6380.59,
+            "transactions": [
+                {
+                    "date": "2023-01-12",
+                    "description": "Interest",
+                    "amount": 8584.0,
+                    "transaction_id": 86955750
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Interest",
+                    "amount": 34910.51,
+                    "transaction_id": 52310408
+                },
+                {
+                    "date": "2023-04-18",
+                    "description": "Withdrawal",
+                    "amount": 6025.49,
+                    "transaction_id": 46845666
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Interest",
+                    "amount": 11939.99,
+                    "transaction_id": 12530318
+                }
+            ]
+        }
+    }
+}

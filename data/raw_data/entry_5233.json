@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amber Hoffman",
+        "age": 60,
+        "gender": "female",
+        "address": "33275 Hammond Oval, Angelicashire, IA 76742",
+        "phone": "001-228-257-7028x57266",
+        "email": "stoneclaudia@example.org",
+        "account": {
+            "account_number": "28a17492-4aa9-4694-b97e-e659d9b35c47",
+            "balance": 37562.84,
+            "transactions": [
+                {
+                    "date": "2023-10-10",
+                    "description": "Deposit",
+                    "amount": 32925.13,
+                    "transaction_id": 42492914
+                },
+                {
+                    "date": "2023-04-10",
+                    "description": "Deposit",
+                    "amount": 42239.84,
+                    "transaction_id": 104672116
+                }
+            ]
+        }
+    }
+}

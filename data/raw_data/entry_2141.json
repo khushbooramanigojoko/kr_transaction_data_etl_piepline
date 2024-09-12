@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "David Nguyen",
+        "age": 38,
+        "gender": "male",
+        "address": "39451 Tucker Plains Apt. 197, Keithmouth, MS 67828",
+        "phone": "001-724-984-6660x9264",
+        "email": "gregoryrandolph@example.net",
+        "account": {
+            "account_number": "f14ef2c0-3da3-4fdf-b39d-ed56adac511b",
+            "balance": 9720.93,
+            "transactions": [
+                {
+                    "date": "2024-06-05",
+                    "description": "Interest",
+                    "amount": 29241.03,
+                    "transaction_id": 52417054
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Deposit",
+                    "amount": 34456.79,
+                    "transaction_id": 91048106
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Withdrawal",
+                    "amount": 49181.11,
+                    "transaction_id": 60145835
+                },
+                {
+                    "date": "2022-09-16",
+                    "description": "Interest",
+                    "amount": 12814.7,
+                    "transaction_id": 81725129
+                }
+            ]
+        }
+    }
+}

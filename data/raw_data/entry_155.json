@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Heather Patterson",
+        "age": 19,
+        "gender": "male",
+        "address": "548 Williams Course Apt. 515, West Nicole, OK 01312",
+        "phone": "628.413.7665x5649",
+        "email": "hawkinsdaniel@example.org",
+        "account": {
+            "account_number": "df386c5b-d03a-4866-b4d4-e97f601fb9a4",
+            "balance": 17898.35,
+            "transactions": [
+                {
+                    "date": "2023-09-24",
+                    "description": "Interest",
+                    "amount": 37879.16,
+                    "transaction_id": 88411450
+                }
+            ]
+        }
+    }
+}

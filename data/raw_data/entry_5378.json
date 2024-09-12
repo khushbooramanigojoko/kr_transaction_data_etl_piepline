@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Keith Young",
+        "age": 18,
+        "gender": "female",
+        "address": "356 Rubio Rue Suite 454, Deniseland, IA 69861",
+        "phone": "(323)223-3578",
+        "email": "brianjefferson@example.org",
+        "account": {
+            "account_number": "6751122d-3356-4bb8-96be-955035198ec0",
+            "balance": 21030.59,
+            "transactions": [
+                {
+                    "date": "2024-05-01",
+                    "description": "Deposit",
+                    "amount": 19925.78,
+                    "transaction_id": 52967136
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Interest",
+                    "amount": 4442.97,
+                    "transaction_id": 95307421
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Deposit",
+                    "amount": 16205.79,
+                    "transaction_id": 50550430
+                }
+            ]
+        }
+    }
+}

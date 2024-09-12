@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Curtis Goodwin",
+        "age": 80,
+        "gender": "female",
+        "address": "51712 Schmidt Knolls, Jonesfort, MD 25472",
+        "phone": "982-251-9188x7626",
+        "email": "wleon@example.net",
+        "account": {
+            "account_number": "d49527fd-d694-4d9d-a346-412c08da9a55",
+            "balance": 32114.43,
+            "transactions": [
+                {
+                    "date": "2024-03-22",
+                    "description": "Withdrawal",
+                    "amount": 16798.54,
+                    "transaction_id": 73684742
+                },
+                {
+                    "date": "2022-11-21",
+                    "description": "Interest",
+                    "amount": 19836.22,
+                    "transaction_id": 26779204
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Withdrawal",
+                    "amount": 49200.28,
+                    "transaction_id": 8142035
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Deposit",
+                    "amount": 39130.08,
+                    "transaction_id": 86526094
+                }
+            ]
+        }
+    }
+}

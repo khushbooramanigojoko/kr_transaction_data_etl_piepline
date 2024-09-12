@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Angela Hernandez",
+        "age": 64,
+        "gender": "female",
+        "address": "USNV Barber, FPO AA 23583",
+        "phone": "001-354-284-9004x520",
+        "email": "lopezwilliam@example.com",
+        "account": {
+            "account_number": "21414296-3708-4d14-80aa-119d14ee30b9",
+            "balance": 43090.47,
+            "transactions": [
+                {
+                    "date": "2023-06-22",
+                    "description": "Deposit",
+                    "amount": 9123.24,
+                    "transaction_id": 62704972
+                },
+                {
+                    "date": "2024-07-25",
+                    "description": "Deposit",
+                    "amount": 2671.13,
+                    "transaction_id": 83152650
+                },
+                {
+                    "date": "2024-06-03",
+                    "description": "Deposit",
+                    "amount": 35992.87,
+                    "transaction_id": 96680509
+                }
+            ]
+        }
+    }
+}

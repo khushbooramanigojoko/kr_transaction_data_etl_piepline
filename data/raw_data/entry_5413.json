@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Robert Nunez",
+        "age": 88,
+        "gender": "male",
+        "address": "94923 Michelle Plain, Port Amyview, WY 05588",
+        "phone": "234-589-7635x9194",
+        "email": "bryce20@example.org",
+        "account": {
+            "account_number": "8ee9c31f-7b6d-45b1-803a-a2095c685358",
+            "balance": 10437.23,
+            "transactions": [
+                {
+                    "date": "2023-01-22",
+                    "description": "Deposit",
+                    "amount": 23352.5,
+                    "transaction_id": 87278923
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Interest",
+                    "amount": 39853.19,
+                    "transaction_id": 50827843
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Interest",
+                    "amount": 21082.0,
+                    "transaction_id": 13572093
+                },
+                {
+                    "date": "2023-09-08",
+                    "description": "Withdrawal",
+                    "amount": 1022.13,
+                    "transaction_id": 100767114
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "John Henderson",
+        "age": 94,
+        "gender": "male",
+        "address": "7982 Wright Station Suite 760, North Jason, AK 49779",
+        "phone": "001-821-483-7613",
+        "email": "gbaker@example.net",
+        "account": {
+            "account_number": "ce69b91f-a95e-49da-8a02-ce6f3dab42f1",
+            "balance": 19271.5,
+            "transactions": [
+                {
+                    "date": "2024-07-24",
+                    "description": "Withdrawal",
+                    "amount": 5336.0,
+                    "transaction_id": 16991091
+                },
+                {
+                    "date": "2024-06-02",
+                    "description": "Deposit",
+                    "amount": 24754.03,
+                    "transaction_id": 67485016
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Withdrawal",
+                    "amount": 30465.06,
+                    "transaction_id": 69351508
+                }
+            ]
+        }
+    }
+}

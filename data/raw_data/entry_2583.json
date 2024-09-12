@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Katherine Bell",
+        "age": 72,
+        "gender": "female",
+        "address": "PSC 4003, Box 3019, APO AA 49748",
+        "phone": "+1-423-547-2467x12516",
+        "email": "lowerychris@example.org",
+        "account": {
+            "account_number": "f392ba3e-1560-493e-800a-7ac52542e1ed",
+            "balance": 14421.11,
+            "transactions": [
+                {
+                    "date": "2024-06-30",
+                    "description": "Interest",
+                    "amount": 21534.72,
+                    "transaction_id": 36685451
+                },
+                {
+                    "date": "2022-09-20",
+                    "description": "Interest",
+                    "amount": 24836.71,
+                    "transaction_id": 3179158
+                },
+                {
+                    "date": "2023-04-10",
+                    "description": "Deposit",
+                    "amount": 23030.04,
+                    "transaction_id": 44279438
+                },
+                {
+                    "date": "2024-03-23",
+                    "description": "Deposit",
+                    "amount": 40133.31,
+                    "transaction_id": 70166917
+                },
+                {
+                    "date": "2024-01-21",
+                    "description": "Interest",
+                    "amount": 28184.25,
+                    "transaction_id": 119492379
+                }
+            ]
+        }
+    }
+}

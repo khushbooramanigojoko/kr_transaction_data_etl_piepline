@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Matthew Walters",
+        "age": 62,
+        "gender": "male",
+        "address": "6403 Joseph Roads, Crawfordtown, NC 68938",
+        "phone": "465.765.5368x639",
+        "email": "mcdonaldrachel@example.com",
+        "account": {
+            "account_number": "2211a28c-b086-4a37-a0bf-6795467a9e8e",
+            "balance": -47103.39,
+            "transactions": [
+                {
+                    "date": "2023-12-29",
+                    "description": "Interest",
+                    "amount": 463.8,
+                    "transaction_id": 22097798
+                },
+                {
+                    "date": "2023-07-03",
+                    "description": "Interest",
+                    "amount": -2615.72,
+                    "transaction_id": 48244647
+                },
+                {
+                    "date": "2022-11-27",
+                    "description": "Withdrawal",
+                    "amount": -4029.3,
+                    "transaction_id": 119729636
+                },
+                {
+                    "date": "2023-01-23",
+                    "description": "Withdrawal",
+                    "amount": 213.73,
+                    "transaction_id": 62526800
+                }
+            ]
+        }
+    }
+}

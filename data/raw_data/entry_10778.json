@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 79,
+        "gender": "male",
+        "address": "902 Erickson Road Apt. 407, Mcguireberg, ND 50803",
+        "phone": "311-610-1737x29607",
+        "email": "amoreno@example.org",
+        "account": {
+            "account_number": "ab7c41b4-8426-4c1d-955a-3098b99efe49",
+            "balance": 15289.86,
+            "transactions": [
+                {
+                    "date": "2024-06-11",
+                    "description": "Deposit",
+                    "amount": 4999.5,
+                    "transaction_id": 91256261
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Interest",
+                    "amount": 2286.77,
+                    "transaction_id": 18435650
+                },
+                {
+                    "date": "2023-09-02",
+                    "description": "Interest",
+                    "amount": -3862.09,
+                    "transaction_id": 61838142
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Interest",
+                    "amount": 423.16,
+                    "transaction_id": 103551619
+                }
+            ]
+        }
+    }
+}

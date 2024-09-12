@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brittany Hernandez",
+        "age": 27,
+        "gender": "female",
+        "address": "97968 Miller Ridges Suite 557, East Marissa, WY 10673",
+        "phone": "001-238-698-5243x407",
+        "email": "molly44@example.org",
+        "account": {
+            "account_number": "f68a573f-eb41-44ce-bb48-742baaf3e6c7",
+            "balance": -44261.53,
+            "transactions": [
+                {
+                    "date": "2023-08-25",
+                    "description": "Deposit",
+                    "amount": -3008.48,
+                    "transaction_id": 44110556
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Withdrawal",
+                    "amount": -1231.07,
+                    "transaction_id": 67593301
+                }
+            ]
+        }
+    }
+}

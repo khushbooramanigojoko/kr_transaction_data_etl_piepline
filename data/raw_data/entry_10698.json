@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph Wilson",
+        "age": 98,
+        "gender": "female",
+        "address": "198 Oliver Freeway, Port Gary, WV 75606",
+        "phone": "389-578-1754x7389",
+        "email": "lbishop@example.org",
+        "account": {
+            "account_number": "bb41659a-24a2-48fa-98fa-6264662d38f3",
+            "balance": -37901.0,
+            "transactions": [
+                {
+                    "date": "2023-01-28",
+                    "description": "Deposit",
+                    "amount": 2836.25,
+                    "transaction_id": 4665017
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Deposit",
+                    "amount": -1600.64,
+                    "transaction_id": 110096701
+                },
+                {
+                    "date": "2024-03-19",
+                    "description": "Interest",
+                    "amount": -2266.9,
+                    "transaction_id": 118488764
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Interest",
+                    "amount": 988.53,
+                    "transaction_id": 53114316
+                }
+            ]
+        }
+    }
+}

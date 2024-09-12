@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amber Robbins",
+        "age": 18,
+        "gender": "female",
+        "address": "3305 Watson Court Suite 524, Cooperport, HI 01740",
+        "phone": "001-895-473-4579",
+        "email": "cgarcia@example.com",
+        "account": {
+            "account_number": "28eefa9a-8ab1-4427-9c75-cf4a612c4c62",
+            "balance": 18388.6,
+            "transactions": [
+                {
+                    "date": "2022-09-11",
+                    "description": "Deposit",
+                    "amount": 1056.31,
+                    "transaction_id": 81172219
+                },
+                {
+                    "date": "2024-08-16",
+                    "description": "Deposit",
+                    "amount": 41036.8,
+                    "transaction_id": 112834727
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Deposit",
+                    "amount": 18525.33,
+                    "transaction_id": 99848340
+                },
+                {
+                    "date": "2024-03-25",
+                    "description": "Withdrawal",
+                    "amount": 11212.18,
+                    "transaction_id": 68806853
+                }
+            ]
+        }
+    }
+}

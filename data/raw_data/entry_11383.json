@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Patrick Hunt",
+        "age": 77,
+        "gender": "female",
+        "address": "412 Ortiz Greens Suite 519, Glovermouth, VA 55811",
+        "phone": "+1-841-433-3118x7581",
+        "email": "marshalltracy@example.net",
+        "account": {
+            "account_number": "cf2b1824-fecd-49d1-9bcc-7bc1b4b9d3b1",
+            "balance": -29395.93,
+            "transactions": [
+                {
+                    "date": "2024-08-28",
+                    "description": "Interest",
+                    "amount": 4549.57,
+                    "transaction_id": 75116458
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Withdrawal",
+                    "amount": -976.91,
+                    "transaction_id": 21725954
+                },
+                {
+                    "date": "2023-03-04",
+                    "description": "Withdrawal",
+                    "amount": 1555.31,
+                    "transaction_id": 41845318
+                },
+                {
+                    "date": "2024-02-25",
+                    "description": "Interest",
+                    "amount": 3365.73,
+                    "transaction_id": 62099635
+                }
+            ]
+        }
+    }
+}

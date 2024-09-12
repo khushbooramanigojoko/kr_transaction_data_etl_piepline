@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brian Walter",
+        "age": 43,
+        "gender": "male",
+        "address": "867 Jackson Field Apt. 578, Shellyville, CT 48395",
+        "phone": "+1-702-632-0843x538",
+        "email": "davidbrewer@example.com",
+        "account": {
+            "account_number": "d7f92989-734a-4d2d-9b4a-7bc81ae73706",
+            "balance": 46037.64,
+            "transactions": [
+                {
+                    "date": "2024-07-05",
+                    "description": "Interest",
+                    "amount": 25497.19,
+                    "transaction_id": 112731645
+                }
+            ]
+        }
+    }
+}

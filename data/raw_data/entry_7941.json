@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Debra Arnold",
+        "age": 20,
+        "gender": "female",
+        "address": "3039 Jacobs Pine, Jamestown, DE 88071",
+        "phone": "418-488-2487x71801",
+        "email": "tricia94@example.net",
+        "account": {
+            "account_number": "98a1a66e-e286-41a1-b140-eb2f552bd8fe",
+            "balance": 36168.8,
+            "transactions": [
+                {
+                    "date": "2023-05-11",
+                    "description": "Deposit",
+                    "amount": 21206.79,
+                    "transaction_id": 91568914
+                },
+                {
+                    "date": "2022-09-05",
+                    "description": "Withdrawal",
+                    "amount": 2957.02,
+                    "transaction_id": 86285632
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Withdrawal",
+                    "amount": 45018.78,
+                    "transaction_id": 2905304
+                }
+            ]
+        }
+    }
+}

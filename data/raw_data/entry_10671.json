@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dennis Cain",
+        "age": 81,
+        "gender": "female",
+        "address": "7099 Hamilton Village Suite 415, Lake Kaylaberg, OR 67306",
+        "phone": "001-266-263-7315x09917",
+        "email": "steven33@example.net",
+        "account": {
+            "account_number": "77b93ead-e34d-46d3-b4c2-58ead32d57fb",
+            "balance": -44930.4,
+            "transactions": [
+                {
+                    "date": "2023-11-23",
+                    "description": "Interest",
+                    "amount": 4613.01,
+                    "transaction_id": 5117527
+                }
+            ]
+        }
+    }
+}

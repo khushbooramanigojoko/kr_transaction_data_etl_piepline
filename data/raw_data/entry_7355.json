@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Luis Hamilton",
+        "age": 39,
+        "gender": "female",
+        "address": "77318 Rangel Hill, Jacobshire, ND 66358",
+        "phone": "001-757-706-9229x82739",
+        "email": "wwatkins@example.net",
+        "account": {
+            "account_number": "606982e9-067e-41d0-8daf-30c37af87213",
+            "balance": 9958.21,
+            "transactions": [
+                {
+                    "date": "2023-08-13",
+                    "description": "Interest",
+                    "amount": 30919.43,
+                    "transaction_id": 14917117
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Deposit",
+                    "amount": 29642.47,
+                    "transaction_id": 14263177
+                },
+                {
+                    "date": "2023-05-05",
+                    "description": "Interest",
+                    "amount": 22366.32,
+                    "transaction_id": 47297152
+                },
+                {
+                    "date": "2023-12-30",
+                    "description": "Deposit",
+                    "amount": 3989.59,
+                    "transaction_id": 83491396
+                }
+            ]
+        }
+    }
+}

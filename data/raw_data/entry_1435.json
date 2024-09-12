@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Thomas Shields",
+        "age": 22,
+        "gender": "female",
+        "address": "696 Martin Cliffs, New Helenbury, NY 85274",
+        "phone": "264.537.8623x35736",
+        "email": "jeffrey71@example.org",
+        "account": {
+            "account_number": "e9da9c35-c81e-466f-9bb4-0cd7c604e10d",
+            "balance": 47156.47,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Withdrawal",
+                    "amount": 43360.56,
+                    "transaction_id": 40543198
+                },
+                {
+                    "date": "2024-08-24",
+                    "description": "Withdrawal",
+                    "amount": 18622.99,
+                    "transaction_id": 9984049
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Deposit",
+                    "amount": 47760.27,
+                    "transaction_id": 29240908
+                },
+                {
+                    "date": "2024-01-25",
+                    "description": "Interest",
+                    "amount": 14901.78,
+                    "transaction_id": 76932167
+                },
+                {
+                    "date": "2022-09-20",
+                    "description": "Withdrawal",
+                    "amount": 34979.06,
+                    "transaction_id": 60204160
+                }
+            ]
+        }
+    }
+}

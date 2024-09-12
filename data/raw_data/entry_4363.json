@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Janet Bean",
+        "age": 33,
+        "gender": "female",
+        "address": "182 Lisa Place Suite 312, Chavezside, OR 05019",
+        "phone": "2976448226",
+        "email": "alexanderruiz@example.com",
+        "account": {
+            "account_number": "ab3bc837-a792-42fb-9525-dc595a13725e",
+            "balance": 34354.17,
+            "transactions": [
+                {
+                    "date": "2024-01-09",
+                    "description": "Deposit",
+                    "amount": 21032.42,
+                    "transaction_id": 41870516
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Deposit",
+                    "amount": 29276.53,
+                    "transaction_id": 93688507
+                }
+            ]
+        }
+    }
+}

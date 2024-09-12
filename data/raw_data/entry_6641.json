@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Rebecca Brown",
+        "age": 45,
+        "gender": "female",
+        "address": "5133 Sandy Roads, New James, WI 05470",
+        "phone": "(387)361-3927x7676",
+        "email": "ipope@example.net",
+        "account": {
+            "account_number": "fae31749-ad18-4679-83df-5a9a91e0df71",
+            "balance": 14434.85,
+            "transactions": [
+                {
+                    "date": "2022-12-03",
+                    "description": "Deposit",
+                    "amount": 3676.2,
+                    "transaction_id": 30665725
+                },
+                {
+                    "date": "2023-03-27",
+                    "description": "Withdrawal",
+                    "amount": 6432.9,
+                    "transaction_id": 113060500
+                }
+            ]
+        }
+    }
+}

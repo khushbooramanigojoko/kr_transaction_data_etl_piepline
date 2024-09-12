@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mr. Glen Weaver",
+        "age": 47,
+        "gender": "female",
+        "address": "487 Taylor Club, Hayleychester, RI 90644",
+        "phone": "907.779.7330",
+        "email": "christopherhughes@example.com",
+        "account": {
+            "account_number": "f944f496-6003-4249-a2e2-e77c8c1d47b6",
+            "balance": 17922.69,
+            "transactions": [
+                {
+                    "date": "2024-07-07",
+                    "description": "Deposit",
+                    "amount": 38079.06,
+                    "transaction_id": 110174363
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Withdrawal",
+                    "amount": 1803.32,
+                    "transaction_id": 42000991
+                }
+            ]
+        }
+    }
+}

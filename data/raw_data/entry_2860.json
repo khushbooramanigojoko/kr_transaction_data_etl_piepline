@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Elizabeth Roberts",
+        "age": 38,
+        "gender": "female",
+        "address": "156 William Wall, Santiagoside, CO 93475",
+        "phone": "493.593.3497",
+        "email": "smithkarla@example.org",
+        "account": {
+            "account_number": "713ec466-6e95-4136-82cb-4fba5033616d",
+            "balance": 25538.9,
+            "transactions": [
+                {
+                    "date": "2023-11-25",
+                    "description": "Interest",
+                    "amount": 22113.6,
+                    "transaction_id": 82216129
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Maurice Ayala",
+        "age": 25,
+        "gender": "female",
+        "address": "5029 Christina Harbor, Brianamouth, WA 06847",
+        "phone": "+1-977-581-7520x331",
+        "email": "jenna67@example.com",
+        "account": {
+            "account_number": "3388033a-26e0-448a-b356-d9fc40ebcba0",
+            "balance": 44693.52,
+            "transactions": [
+                {
+                    "date": "2023-08-12",
+                    "description": "Withdrawal",
+                    "amount": 41669.74,
+                    "transaction_id": 112634679
+                },
+                {
+                    "date": "2024-05-07",
+                    "description": "Interest",
+                    "amount": 3953.62,
+                    "transaction_id": 79999589
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 24,
+        "gender": "female",
+        "address": "611 Garcia Mountains Suite 926, Lake Luke, KY 64122",
+        "phone": "645.835.4012x906",
+        "email": "rodriguezryan@example.com",
+        "account": {
+            "account_number": "affee3cb-954d-4594-b2aa-0a608c2a15e1",
+            "balance": 35473.9,
+            "transactions": [
+                {
+                    "date": "2023-04-27",
+                    "description": "Withdrawal",
+                    "amount": -1113.12,
+                    "transaction_id": 39838493
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Interest",
+                    "amount": 2509.13,
+                    "transaction_id": 100131543
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Withdrawal",
+                    "amount": 3206.69,
+                    "transaction_id": 119088582
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Interest",
+                    "amount": -4828.59,
+                    "transaction_id": 22938592
+                }
+            ]
+        }
+    }
+}

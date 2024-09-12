@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kimberly Huynh",
+        "age": 77,
+        "gender": "male",
+        "address": "Unit 5006 Box 7539, DPO AE 18583",
+        "phone": "602.229.9142x6614",
+        "email": "rodriguezthomas@example.net",
+        "account": {
+            "account_number": "132b30f5-a8c9-4ff0-9e31-f56392eaa439",
+            "balance": 37135.03,
+            "transactions": [
+                {
+                    "date": "2022-09-29",
+                    "description": "Withdrawal",
+                    "amount": 44125.85,
+                    "transaction_id": 61395458
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Withdrawal",
+                    "amount": 17512.78,
+                    "transaction_id": 60741018
+                }
+            ]
+        }
+    }
+}

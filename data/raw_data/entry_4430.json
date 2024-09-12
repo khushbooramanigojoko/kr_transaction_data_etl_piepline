@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "William Nelson",
+        "age": 73,
+        "gender": "male",
+        "address": "PSC 5160, Box 5247, APO AE 37313",
+        "phone": "+1-392-994-4594",
+        "email": "anitasampson@example.org",
+        "account": {
+            "account_number": "66b3e78a-38b6-4aea-b941-d095c9591f3d",
+            "balance": 49403.11,
+            "transactions": [
+                {
+                    "date": "2023-10-20",
+                    "description": "Withdrawal",
+                    "amount": 574.47,
+                    "transaction_id": 110730485
+                }
+            ]
+        }
+    }
+}

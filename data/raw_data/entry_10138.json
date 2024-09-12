@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Rhonda Barnes",
+        "age": 71,
+        "gender": "female",
+        "address": "26908 Samantha Spring Suite 804, New Richardberg, VI 33868",
+        "phone": "(254)935-7725x71909",
+        "email": "pamela05@example.net",
+        "account": {
+            "account_number": "5e9d3127-79ea-4d67-9f83-2ad006788b9d",
+            "balance": -11773.42,
+            "transactions": [
+                {
+                    "date": "2024-03-13",
+                    "description": "Deposit",
+                    "amount": -1195.97,
+                    "transaction_id": 94961131
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Interest",
+                    "amount": 2422.25,
+                    "transaction_id": 39194998
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Interest",
+                    "amount": 4686.88,
+                    "transaction_id": 32512685
+                },
+                {
+                    "date": "2022-11-07",
+                    "description": "Interest",
+                    "amount": 1927.62,
+                    "transaction_id": 104784460
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Withdrawal",
+                    "amount": -4630.73,
+                    "transaction_id": 41276041
+                }
+            ]
+        }
+    }
+}

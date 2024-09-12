@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Anthony Trevino III",
+        "age": 23,
+        "gender": "female",
+        "address": "044 Wright Run, Port Franklin, NV 85242",
+        "phone": "390-615-8291",
+        "email": "allenkaitlyn@example.org",
+        "account": {
+            "account_number": "0d4e7322-7a80-453b-b0ff-1099b5ac5d1b",
+            "balance": 26901.42,
+            "transactions": [
+                {
+                    "date": "2023-05-14",
+                    "description": "Interest",
+                    "amount": 32138.55,
+                    "transaction_id": 82626690
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Withdrawal",
+                    "amount": 8373.41,
+                    "transaction_id": 72217874
+                },
+                {
+                    "date": "2023-03-08",
+                    "description": "Withdrawal",
+                    "amount": 1853.6,
+                    "transaction_id": 82048048
+                },
+                {
+                    "date": "2024-07-16",
+                    "description": "Interest",
+                    "amount": 47575.63,
+                    "transaction_id": 61236542
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Deposit",
+                    "amount": 5553.67,
+                    "transaction_id": 71938595
+                }
+            ]
+        }
+    }
+}

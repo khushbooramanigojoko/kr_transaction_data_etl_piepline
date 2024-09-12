@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Diana Anderson",
+        "age": 62,
+        "gender": "male",
+        "address": "465 Sullivan Fields Apt. 512, East Steven, MT 28091",
+        "phone": "673-643-1834",
+        "email": "ffitzpatrick@example.net",
+        "account": {
+            "account_number": "2149178d-3022-4ef4-886a-d7dda1e81566",
+            "balance": 19205.74,
+            "transactions": [
+                {
+                    "date": "2023-11-03",
+                    "description": "Interest",
+                    "amount": 40887.11,
+                    "transaction_id": 85138856
+                },
+                {
+                    "date": "2023-08-23",
+                    "description": "Deposit",
+                    "amount": 13053.88,
+                    "transaction_id": 37130379
+                },
+                {
+                    "date": "2024-05-08",
+                    "description": "Interest",
+                    "amount": 38102.52,
+                    "transaction_id": 71901115
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Interest",
+                    "amount": 39424.28,
+                    "transaction_id": 55410280
+                }
+            ]
+        }
+    }
+}

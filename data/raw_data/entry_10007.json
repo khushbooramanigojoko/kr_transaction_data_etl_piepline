@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Anne Bradshaw",
+        "age": 50,
+        "gender": "female",
+        "address": "3941 Jeffrey Stravenue, West Jenniferchester, DE 56451",
+        "phone": "001-259-935-8532",
+        "email": "susanmartinez@example.org",
+        "account": {
+            "account_number": "a057f332-c69c-4cb9-990d-8fafc290b7f4",
+            "balance": -34928.6,
+            "transactions": [
+                {
+                    "date": "2023-07-17",
+                    "description": "Withdrawal",
+                    "amount": -3135.26,
+                    "transaction_id": 43666109
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Deposit",
+                    "amount": -1409.66,
+                    "transaction_id": 88686451
+                }
+            ]
+        }
+    }
+}

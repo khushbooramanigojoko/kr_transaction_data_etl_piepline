@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 84,
+        "gender": "female",
+        "address": "56038 Linda Lane, South Tristanbury, NE 75280",
+        "phone": "472-998-6544x2369",
+        "email": "matthew80@example.org",
+        "account": {
+            "account_number": "b6dcf6ff-eaa3-4dd9-92ce-b82ced8ff448",
+            "balance": 36130.64,
+            "transactions": [
+                {
+                    "date": "2023-06-07",
+                    "description": "Deposit",
+                    "amount": -334.06,
+                    "transaction_id": 20946294
+                },
+                {
+                    "date": "2024-03-20",
+                    "description": "Interest",
+                    "amount": -3264.66,
+                    "transaction_id": 107730265
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Withdrawal",
+                    "amount": -4446.44,
+                    "transaction_id": 18315564
+                }
+            ]
+        }
+    }
+}

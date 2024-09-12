@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Edward Ortiz",
+        "age": 34,
+        "gender": "female",
+        "address": "96199 Gerald Path, Laraside, LA 14866",
+        "phone": "(356)431-3416x9984",
+        "email": "clarkechristian@example.com",
+        "account": {
+            "account_number": "16680923-ce99-4e37-9303-fb48cd053b5d",
+            "balance": 30471.21,
+            "transactions": [
+                {
+                    "date": "2023-02-10",
+                    "description": "Deposit",
+                    "amount": 5158.45,
+                    "transaction_id": 20744977
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Withdrawal",
+                    "amount": 49889.0,
+                    "transaction_id": 105583493
+                }
+            ]
+        }
+    }
+}

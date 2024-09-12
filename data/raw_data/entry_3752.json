@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Erin Morgan",
+        "age": 33,
+        "gender": "male",
+        "address": "USS Snyder, FPO AA 22326",
+        "phone": "(476)504-5426x63016",
+        "email": "iphillips@example.org",
+        "account": {
+            "account_number": "1723600d-52c7-40b2-9fcc-70c31c8f5fa0",
+            "balance": 15620.64,
+            "transactions": [
+                {
+                    "date": "2022-10-14",
+                    "description": "Interest",
+                    "amount": 35036.08,
+                    "transaction_id": 117045564
+                }
+            ]
+        }
+    }
+}

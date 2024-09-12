@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Susan Lowe",
+        "age": 82,
+        "gender": "female",
+        "address": "USS Brown, FPO AE 63585",
+        "phone": "538.942.0318",
+        "email": "emoody@example.net",
+        "account": {
+            "account_number": "791ab204-25c9-42c7-8570-744fb9e80408",
+            "balance": 1467.36,
+            "transactions": [
+                {
+                    "date": "2023-04-17",
+                    "description": "Interest",
+                    "amount": 1242.7,
+                    "transaction_id": 110826491
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Deposit",
+                    "amount": 31708.41,
+                    "transaction_id": 113183948
+                }
+            ]
+        }
+    }
+}

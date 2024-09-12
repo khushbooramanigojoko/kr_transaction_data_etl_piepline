@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 18,
+        "gender": "female",
+        "address": "670 Pennington Locks, Frankmouth, UT 48544",
+        "phone": "(252)970-1869x9148",
+        "email": "charlesstevenson@example.org",
+        "account": {
+            "account_number": "52ba6a75-67f5-4695-b40b-6756db7869da",
+            "balance": 45191.62,
+            "transactions": [
+                {
+                    "date": "2024-08-07",
+                    "description": "Withdrawal",
+                    "amount": 4442.02,
+                    "transaction_id": 110075435
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Deposit",
+                    "amount": 4497.88,
+                    "transaction_id": 2533936
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Withdrawal",
+                    "amount": 4627.4,
+                    "transaction_id": 11575368
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Deposit",
+                    "amount": -4507.94,
+                    "transaction_id": 31688952
+                }
+            ]
+        }
+    }
+}

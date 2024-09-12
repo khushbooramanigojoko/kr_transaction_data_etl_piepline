@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Andrew Tucker",
+        "age": 79,
+        "gender": "female",
+        "address": "USS Higgins, FPO AA 52092",
+        "phone": "+1-829-673-6022x57957",
+        "email": "ryanswanson@example.net",
+        "account": {
+            "account_number": "3566ccf5-06cf-4e62-8ec1-4554d8ddd3aa",
+            "balance": 15383.31,
+            "transactions": [
+                {
+                    "date": "2024-03-25",
+                    "description": "Withdrawal",
+                    "amount": 12453.32,
+                    "transaction_id": 60769935
+                },
+                {
+                    "date": "2022-09-07",
+                    "description": "Deposit",
+                    "amount": 37666.87,
+                    "transaction_id": 108035722
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Withdrawal",
+                    "amount": 49666.58,
+                    "transaction_id": 116862496
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Interest",
+                    "amount": 10389.76,
+                    "transaction_id": 37856828
+                }
+            ]
+        }
+    }
+}

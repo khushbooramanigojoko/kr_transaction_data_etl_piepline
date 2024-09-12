@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jonathan Le",
+        "age": 55,
+        "gender": "male",
+        "address": "Unit 7772 Box 0444, DPO AE 65229",
+        "phone": "4539778904",
+        "email": "kimberlymartinez@example.com",
+        "account": {
+            "account_number": "8508655b-b2ff-4b55-b6f5-2a320b9295b7",
+            "balance": 24338.01,
+            "transactions": [
+                {
+                    "date": "2024-01-31",
+                    "description": "Interest",
+                    "amount": 39759.88,
+                    "transaction_id": 76435980
+                },
+                {
+                    "date": "2024-02-11",
+                    "description": "Interest",
+                    "amount": 44789.17,
+                    "transaction_id": 114251651
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Interest",
+                    "amount": 46519.59,
+                    "transaction_id": 71714957
+                },
+                {
+                    "date": "2022-09-04",
+                    "description": "Deposit",
+                    "amount": 12189.46,
+                    "transaction_id": 30896270
+                },
+                {
+                    "date": "2024-04-24",
+                    "description": "Interest",
+                    "amount": 14419.08,
+                    "transaction_id": 55163525
+                }
+            ]
+        }
+    }
+}

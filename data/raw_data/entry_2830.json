@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kimberly Barrera",
+        "age": 92,
+        "gender": "female",
+        "address": "740 Cox Courts, Peterland, GU 16226",
+        "phone": "+1-359-779-9933x0916",
+        "email": "codythomas@example.org",
+        "account": {
+            "account_number": "1d1c3ed5-3569-4bb6-9a33-6722fd8820a9",
+            "balance": 5139.75,
+            "transactions": [
+                {
+                    "date": "2023-12-11",
+                    "description": "Interest",
+                    "amount": 16472.51,
+                    "transaction_id": 98009987
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Deposit",
+                    "amount": 21408.11,
+                    "transaction_id": 78382794
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Withdrawal",
+                    "amount": 40656.76,
+                    "transaction_id": 17049258
+                }
+            ]
+        }
+    }
+}

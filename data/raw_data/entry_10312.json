@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Crystal Walter",
+        "age": 25,
+        "gender": "male",
+        "address": "23162 Brandy Road, New Audreymouth, SD 05757",
+        "phone": "001-454-942-6879x61663",
+        "email": "hchapman@example.com",
+        "account": {
+            "account_number": "df80f6ce-2dd6-4750-8f1c-a1bb8365114d",
+            "balance": -13631.1,
+            "transactions": [
+                {
+                    "date": "2024-02-07",
+                    "description": "Interest",
+                    "amount": 3189.77,
+                    "transaction_id": 81511262
+                },
+                {
+                    "date": "2023-04-04",
+                    "description": "Withdrawal",
+                    "amount": 376.78,
+                    "transaction_id": 23595531
+                },
+                {
+                    "date": "2024-08-15",
+                    "description": "Deposit",
+                    "amount": 2581.26,
+                    "transaction_id": 112072331
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Withdrawal",
+                    "amount": -446.48,
+                    "transaction_id": 54692753
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Cynthia King",
+        "age": 64,
+        "gender": "female",
+        "address": "98165 Macdonald Plaza, Knightchester, FL 45482",
+        "phone": "446.514.8663",
+        "email": "holly12@example.com",
+        "account": {
+            "account_number": "a7a55004-eaaf-480d-9a5e-4ddcb4d6f2a2",
+            "balance": -9403.5,
+            "transactions": [
+                {
+                    "date": "2023-08-18",
+                    "description": "Interest",
+                    "amount": -906.77,
+                    "transaction_id": 96089719
+                },
+                {
+                    "date": "2023-11-05",
+                    "description": "Interest",
+                    "amount": -4330.65,
+                    "transaction_id": 25386329
+                }
+            ]
+        }
+    }
+}

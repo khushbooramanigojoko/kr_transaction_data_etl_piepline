@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Anthony Hoffman",
+        "age": 85,
+        "gender": "female",
+        "address": "08387 Blair Groves, Jamesland, UT 07552",
+        "phone": "419.411.3462x044",
+        "email": "morgan61@example.com",
+        "account": {
+            "account_number": "b2c5a197-aa0e-4a39-84db-933ec3205639",
+            "balance": 46476.43,
+            "transactions": [
+                {
+                    "date": "2022-12-18",
+                    "description": "Withdrawal",
+                    "amount": 10027.1,
+                    "transaction_id": 79564888
+                }
+            ]
+        }
+    }
+}

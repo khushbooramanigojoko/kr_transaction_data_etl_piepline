@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christine Turner",
+        "age": 83,
+        "gender": "male",
+        "address": "833 Michael Forge, Michaelshire, MI 25322",
+        "phone": "001-922-771-7657x67256",
+        "email": "lesliemelendez@example.org",
+        "account": {
+            "account_number": "090768a4-581e-45fb-b4ca-8ffbab5b45bf",
+            "balance": 47238.52,
+            "transactions": [
+                {
+                    "date": "2023-10-19",
+                    "description": "Deposit",
+                    "amount": 26436.5,
+                    "transaction_id": 11895221
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Withdrawal",
+                    "amount": 2886.62,
+                    "transaction_id": 5842324
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Interest",
+                    "amount": 16851.75,
+                    "transaction_id": 78229446
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Withdrawal",
+                    "amount": 6274.37,
+                    "transaction_id": 29899654
+                },
+                {
+                    "date": "2023-06-29",
+                    "description": "Deposit",
+                    "amount": 28475.67,
+                    "transaction_id": 83450486
+                }
+            ]
+        }
+    }
+}

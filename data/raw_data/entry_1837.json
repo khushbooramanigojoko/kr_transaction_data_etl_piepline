@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Donna Martin",
+        "age": 65,
+        "gender": "male",
+        "address": "Unit 6792 Box 4772, DPO AA 66532",
+        "phone": "(298)400-8767x033",
+        "email": "jgarrett@example.net",
+        "account": {
+            "account_number": "93d8bc8a-1e73-4561-8b6e-edeb023c3229",
+            "balance": 43929.21,
+            "transactions": [
+                {
+                    "date": "2023-10-11",
+                    "description": "Deposit",
+                    "amount": 41597.15,
+                    "transaction_id": 39226976
+                },
+                {
+                    "date": "2023-01-06",
+                    "description": "Deposit",
+                    "amount": 33348.88,
+                    "transaction_id": 29554203
+                }
+            ]
+        }
+    }
+}

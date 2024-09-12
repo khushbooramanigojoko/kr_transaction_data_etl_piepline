@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 97,
+        "gender": "female",
+        "address": "747 Allison Station Suite 613, Perezbury, MD 88518",
+        "phone": "+1-966-530-0982x0424",
+        "email": "michaelrivera@example.com",
+        "account": {
+            "account_number": "b22057d8-0f22-4b49-a8a9-d81f93c69654",
+            "balance": 22608.25,
+            "transactions": [
+                {
+                    "date": "2024-06-03",
+                    "description": "Deposit",
+                    "amount": 2230.09,
+                    "transaction_id": 78176493
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Withdrawal",
+                    "amount": -1145.08,
+                    "transaction_id": 90232119
+                },
+                {
+                    "date": "2024-01-11",
+                    "description": "Deposit",
+                    "amount": 1695.51,
+                    "transaction_id": 82309481
+                }
+            ]
+        }
+    }
+}

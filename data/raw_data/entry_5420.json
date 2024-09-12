@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jay Ritter",
+        "age": 99,
+        "gender": "male",
+        "address": "58502 James Harbor Apt. 430, Ryanchester, PA 04403",
+        "phone": "001-635-924-9485x3958",
+        "email": "jamesrowland@example.org",
+        "account": {
+            "account_number": "760e2baf-739d-4226-83a7-bd81a9771823",
+            "balance": 27744.5,
+            "transactions": [
+                {
+                    "date": "2024-06-23",
+                    "description": "Deposit",
+                    "amount": 25791.57,
+                    "transaction_id": 89090340
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Withdrawal",
+                    "amount": 18626.65,
+                    "transaction_id": 33281912
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Interest",
+                    "amount": 24059.3,
+                    "transaction_id": 97680436
+                }
+            ]
+        }
+    }
+}

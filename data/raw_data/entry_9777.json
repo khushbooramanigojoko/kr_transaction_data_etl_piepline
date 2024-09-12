@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 75,
+        "gender": "male",
+        "address": "76475 Mclaughlin Bridge, East Dawn, MT 62655",
+        "phone": "960-437-1523x6518",
+        "email": "andersonjoshua@example.com",
+        "account": {
+            "account_number": "aabbaa29-831c-4ffc-b035-0a7113d95962",
+            "balance": 21678.33,
+            "transactions": [
+                {
+                    "date": "2023-03-17",
+                    "description": "Deposit",
+                    "amount": 2004.32,
+                    "transaction_id": 72626894
+                },
+                {
+                    "date": "2024-04-25",
+                    "description": "Deposit",
+                    "amount": -3754.37,
+                    "transaction_id": 11878452
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Interest",
+                    "amount": -2352.57,
+                    "transaction_id": 5422953
+                }
+            ]
+        }
+    }
+}

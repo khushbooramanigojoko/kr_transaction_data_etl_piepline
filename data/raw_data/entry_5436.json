@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Scott Miller",
+        "age": 81,
+        "gender": "female",
+        "address": "68220 Caldwell Skyway, Stephenstad, TX 45400",
+        "phone": "001-814-308-6378x796",
+        "email": "trivers@example.org",
+        "account": {
+            "account_number": "2c98a22e-dbb2-4740-bd49-291bfb2aacf6",
+            "balance": 26928.69,
+            "transactions": [
+                {
+                    "date": "2024-01-29",
+                    "description": "Withdrawal",
+                    "amount": 30238.59,
+                    "transaction_id": 3167126
+                }
+            ]
+        }
+    }
+}

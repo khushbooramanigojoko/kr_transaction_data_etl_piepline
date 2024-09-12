@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 68,
+        "gender": "female",
+        "address": "05393 Le Summit Suite 570, New Kimberlyton, PR 01660",
+        "phone": "+1-269-279-6246x775",
+        "email": "alvin45@example.com",
+        "account": {
+            "account_number": "af3fcf6a-fef6-4edb-add3-b9f4bdc9f35e",
+            "balance": 28576.13,
+            "transactions": [
+                {
+                    "date": "2024-05-10",
+                    "description": "Deposit",
+                    "amount": 2436.64,
+                    "transaction_id": 6199067
+                }
+            ]
+        }
+    }
+}

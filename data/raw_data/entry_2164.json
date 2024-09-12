@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "John Mason",
+        "age": 61,
+        "gender": "female",
+        "address": "22554 Melissa Skyway, South Jordan, AK 26059",
+        "phone": "422.917.0288x956",
+        "email": "harrisjennifer@example.net",
+        "account": {
+            "account_number": "4525ccec-d45d-4e73-8bf0-7ad9ffd64aed",
+            "balance": 49230.94,
+            "transactions": [
+                {
+                    "date": "2024-08-27",
+                    "description": "Withdrawal",
+                    "amount": 1733.57,
+                    "transaction_id": 7705769
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Deposit",
+                    "amount": 22865.74,
+                    "transaction_id": 115468860
+                }
+            ]
+        }
+    }
+}

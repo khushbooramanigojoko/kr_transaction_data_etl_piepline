@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 49,
+        "gender": "female",
+        "address": "Unit 4403 Box 0260, DPO AP 12280",
+        "phone": "(322)825-1854x3852",
+        "email": "morrisonsara@example.com",
+        "account": {
+            "account_number": "93adba2c-3c91-455d-9e17-8b4b01a1cf85",
+            "balance": 21047.28,
+            "transactions": [
+                {
+                    "date": "2023-03-11",
+                    "description": "Withdrawal",
+                    "amount": -3983.5,
+                    "transaction_id": 82098506
+                },
+                {
+                    "date": "2024-02-03",
+                    "description": "Deposit",
+                    "amount": -345.33,
+                    "transaction_id": 29332450
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Paul Russell",
+        "age": 35,
+        "gender": "male",
+        "address": "201 Haley Drives Apt. 907, Lake Kylie, MS 08620",
+        "phone": "4867246695",
+        "email": "logankristina@example.com",
+        "account": {
+            "account_number": "46c86303-9d07-47b4-b603-13bb9ff019e2",
+            "balance": 20192.14,
+            "transactions": [
+                {
+                    "date": "2023-06-07",
+                    "description": "Withdrawal",
+                    "amount": 27486.15,
+                    "transaction_id": 46511660
+                }
+            ]
+        }
+    }
+}

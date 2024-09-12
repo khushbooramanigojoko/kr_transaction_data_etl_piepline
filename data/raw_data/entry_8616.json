@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Scott Kirk",
+        "age": 86,
+        "gender": "male",
+        "address": "17690 Shannon Light Apt. 415, Port Richard, NM 85399",
+        "phone": "4852616920",
+        "email": "mckenziefox@example.com",
+        "account": {
+            "account_number": "fafe532d-ade6-4a85-83e2-9fbf93b1c8d1",
+            "balance": 27704.67,
+            "transactions": [
+                {
+                    "date": "2024-07-31",
+                    "description": "Withdrawal",
+                    "amount": 14782.02,
+                    "transaction_id": 64619467
+                },
+                {
+                    "date": "2023-04-04",
+                    "description": "Interest",
+                    "amount": 11768.91,
+                    "transaction_id": 50087263
+                },
+                {
+                    "date": "2022-12-10",
+                    "description": "Withdrawal",
+                    "amount": 28996.87,
+                    "transaction_id": 16552316
+                }
+            ]
+        }
+    }
+}

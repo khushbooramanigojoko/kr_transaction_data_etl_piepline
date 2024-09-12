@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 98,
+        "gender": "female",
+        "address": "994 Johnson Burgs, Lopezfort, OR 33023",
+        "phone": "(601)628-3017x20344",
+        "email": "christopher79@example.org",
+        "account": {
+            "account_number": "9b868776-b970-424b-9476-aa3497557e3e",
+            "balance": 10043.91,
+            "transactions": [
+                {
+                    "date": "2022-11-20",
+                    "description": "Interest",
+                    "amount": 4221.3,
+                    "transaction_id": 30704007
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Interest",
+                    "amount": 2961.64,
+                    "transaction_id": 105749247
+                }
+            ]
+        }
+    }
+}

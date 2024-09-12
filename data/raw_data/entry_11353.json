@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 47,
+        "gender": "male",
+        "address": "621 Avila Drive, East Matthew, TN 25256",
+        "phone": "+1-362-845-9567x4995",
+        "email": "rhall@example.org",
+        "account": {
+            "account_number": "81facbac-ba72-4135-8f6b-970d492417ab",
+            "balance": 28738.71,
+            "transactions": [
+                {
+                    "date": "2023-12-20",
+                    "description": "Interest",
+                    "amount": 3507.83,
+                    "transaction_id": 109586570
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Withdrawal",
+                    "amount": -244.62,
+                    "transaction_id": 112955450
+                }
+            ]
+        }
+    }
+}

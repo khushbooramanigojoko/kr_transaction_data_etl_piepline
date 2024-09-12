@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "John Moore",
+        "age": 37,
+        "gender": "female",
+        "address": "2596 Branch Station, South Ann, GU 82139",
+        "phone": "519-996-3728x571",
+        "email": "simpsonapril@example.com",
+        "account": {
+            "account_number": "e35a2348-9e3f-4aa3-9bcb-28938f778acb",
+            "balance": 32216.17,
+            "transactions": [
+                {
+                    "date": "2024-03-21",
+                    "description": "Deposit",
+                    "amount": 12552.16,
+                    "transaction_id": 12096883
+                }
+            ]
+        }
+    }
+}

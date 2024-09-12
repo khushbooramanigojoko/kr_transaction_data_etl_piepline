@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Melissa Kelly",
+        "age": 65,
+        "gender": "male",
+        "address": "03180 Serrano Knolls Suite 428, West Sheri, ID 75779",
+        "phone": "(347)710-8264x58781",
+        "email": "rachaelromero@example.com",
+        "account": {
+            "account_number": "f8de810d-3513-47b4-a6a3-7bcf3a36fd0d",
+            "balance": 5633.2,
+            "transactions": [
+                {
+                    "date": "2023-10-21",
+                    "description": "Interest",
+                    "amount": 14577.85,
+                    "transaction_id": 41153594
+                },
+                {
+                    "date": "2023-07-03",
+                    "description": "Withdrawal",
+                    "amount": 10380.51,
+                    "transaction_id": 63880560
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Deposit",
+                    "amount": 36987.88,
+                    "transaction_id": 101874615
+                }
+            ]
+        }
+    }
+}

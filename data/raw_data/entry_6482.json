@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ruben Horton",
+        "age": 36,
+        "gender": "male",
+        "address": "53299 Gonzales Cape, North Raven, TX 00529",
+        "phone": "(399)768-6340",
+        "email": "seanblankenship@example.net",
+        "account": {
+            "account_number": "3a14ec2d-5f97-4227-8a39-be336183abff",
+            "balance": 20694.94,
+            "transactions": [
+                {
+                    "date": "2022-12-10",
+                    "description": "Interest",
+                    "amount": 6444.26,
+                    "transaction_id": 86521223
+                },
+                {
+                    "date": "2022-10-11",
+                    "description": "Withdrawal",
+                    "amount": 3545.52,
+                    "transaction_id": 116032312
+                }
+            ]
+        }
+    }
+}

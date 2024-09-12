@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Chris Howard",
+        "age": 62,
+        "gender": "female",
+        "address": "5910 Benjamin Viaduct, North Megan, MP 30468",
+        "phone": "001-975-301-6873x9686",
+        "email": "robin14@example.com",
+        "account": {
+            "account_number": "639436e1-4cb7-44ab-a3c7-0b4bfde115f6",
+            "balance": 18320.88,
+            "transactions": [
+                {
+                    "date": "2023-11-13",
+                    "description": "Deposit",
+                    "amount": 46703.78,
+                    "transaction_id": 33270197
+                },
+                {
+                    "date": "2023-09-19",
+                    "description": "Deposit",
+                    "amount": 23401.64,
+                    "transaction_id": 27066864
+                }
+            ]
+        }
+    }
+}

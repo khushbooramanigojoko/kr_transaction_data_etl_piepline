@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kevin Harris",
+        "age": 40,
+        "gender": "female",
+        "address": "4821 Janet Estate, Davidland, WI 41151",
+        "phone": "001-709-803-2799",
+        "email": "qperry@example.org",
+        "account": {
+            "account_number": "ee8f00c2-db8b-41d3-81f0-770640e151c5",
+            "balance": 23066.68,
+            "transactions": [
+                {
+                    "date": "2023-04-21",
+                    "description": "Interest",
+                    "amount": 40454.03,
+                    "transaction_id": 14980969
+                },
+                {
+                    "date": "2024-05-29",
+                    "description": "Withdrawal",
+                    "amount": 14645.79,
+                    "transaction_id": 33017878
+                },
+                {
+                    "date": "2023-06-27",
+                    "description": "Deposit",
+                    "amount": 39676.54,
+                    "transaction_id": 4315495
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Deposit",
+                    "amount": 22800.0,
+                    "transaction_id": 119503979
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Interest",
+                    "amount": 24857.53,
+                    "transaction_id": 93726912
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mr. Timothy Dixon",
+        "age": 57,
+        "gender": "female",
+        "address": "0722 Bruce Haven Suite 019, Jodytown, VA 69320",
+        "phone": "3308489356",
+        "email": "tina97@example.net",
+        "account": {
+            "account_number": "2ba72255-82d6-40a0-914e-b5917294c2c8",
+            "balance": 37338.54,
+            "transactions": [
+                {
+                    "date": "2023-02-17",
+                    "description": "Deposit",
+                    "amount": 42559.12,
+                    "transaction_id": 89697665
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Deposit",
+                    "amount": 36056.15,
+                    "transaction_id": 78670441
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Withdrawal",
+                    "amount": 22032.98,
+                    "transaction_id": 75505834
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Deposit",
+                    "amount": 23824.38,
+                    "transaction_id": 73376394
+                },
+                {
+                    "date": "2024-07-13",
+                    "description": "Interest",
+                    "amount": 37286.44,
+                    "transaction_id": 61421453
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Adam Cortez",
+        "age": 74,
+        "gender": "female",
+        "address": "0631 Caitlin Parkway, Erinchester, PW 56621",
+        "phone": "4446145469",
+        "email": "rivassarah@example.com",
+        "account": {
+            "account_number": "dca8eba6-ed82-4ad4-949f-2e8849724c3c",
+            "balance": 8395.44,
+            "transactions": [
+                {
+                    "date": "2022-10-26",
+                    "description": "Withdrawal",
+                    "amount": 11808.05,
+                    "transaction_id": 14753634
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Interest",
+                    "amount": 19215.46,
+                    "transaction_id": 46746702
+                },
+                {
+                    "date": "2024-05-25",
+                    "description": "Withdrawal",
+                    "amount": 12010.1,
+                    "transaction_id": 29260260
+                },
+                {
+                    "date": "2024-03-12",
+                    "description": "Withdrawal",
+                    "amount": 15360.09,
+                    "transaction_id": 100330815
+                }
+            ]
+        }
+    }
+}

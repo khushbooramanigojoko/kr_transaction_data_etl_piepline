@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 66,
+        "gender": "female",
+        "address": "122 Holmes Alley Apt. 146, Cindychester, CO 52021",
+        "phone": "(443)389-7587",
+        "email": "mary54@example.com",
+        "account": {
+            "account_number": "d048df38-7203-4250-8c10-71e5a6ae38ce",
+            "balance": 17704.48,
+            "transactions": [
+                {
+                    "date": "2022-11-14",
+                    "description": "Withdrawal",
+                    "amount": -4624.7,
+                    "transaction_id": 51557908
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Interest",
+                    "amount": -3178.16,
+                    "transaction_id": 96847447
+                }
+            ]
+        }
+    }
+}

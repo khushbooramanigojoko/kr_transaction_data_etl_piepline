@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Emily Torres",
+        "age": 57,
+        "gender": "female",
+        "address": "0102 Benson Landing, Lake Joannchester, AK 86378",
+        "phone": "685.488.1551",
+        "email": "haysmaria@example.org",
+        "account": {
+            "account_number": "c1a35b0d-4921-4b09-8b81-013e9fdf9187",
+            "balance": 7119.43,
+            "transactions": [
+                {
+                    "date": "2024-08-11",
+                    "description": "Deposit",
+                    "amount": 16469.45,
+                    "transaction_id": 119947236
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Deposit",
+                    "amount": 44770.17,
+                    "transaction_id": 68895710
+                },
+                {
+                    "date": "2023-04-05",
+                    "description": "Interest",
+                    "amount": 44604.6,
+                    "transaction_id": 95142223
+                }
+            ]
+        }
+    }
+}

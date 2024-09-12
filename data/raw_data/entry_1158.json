@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Emily Pope",
+        "age": 46,
+        "gender": "male",
+        "address": "13199 Michael Street, Johnsonview, DE 02469",
+        "phone": "626.418.2652x96256",
+        "email": "blairlouis@example.com",
+        "account": {
+            "account_number": "0c5118ad-c189-437e-b4f8-d035551cad9d",
+            "balance": 13349.94,
+            "transactions": [
+                {
+                    "date": "2023-10-12",
+                    "description": "Withdrawal",
+                    "amount": 2189.51,
+                    "transaction_id": 107803172
+                }
+            ]
+        }
+    }
+}

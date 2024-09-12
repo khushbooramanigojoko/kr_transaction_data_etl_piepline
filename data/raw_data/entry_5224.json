@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Todd Blair",
+        "age": 98,
+        "gender": "female",
+        "address": "3775 Tonya Ways Apt. 697, Port Michael, PR 81091",
+        "phone": "001-698-262-4526x150",
+        "email": "alexislee@example.org",
+        "account": {
+            "account_number": "15ef6d83-1434-4e2a-bb4e-a5e8562609eb",
+            "balance": 23513.2,
+            "transactions": [
+                {
+                    "date": "2024-05-23",
+                    "description": "Withdrawal",
+                    "amount": 4987.19,
+                    "transaction_id": 50131471
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jennifer Flores",
+        "age": 67,
+        "gender": "male",
+        "address": "49661 Pratt Land, Port Erin, NE 04983",
+        "phone": "2656096310",
+        "email": "vvaughn@example.com",
+        "account": {
+            "account_number": "36c6acad-9dc2-4c8f-a97d-2d341c476a8c",
+            "balance": 7731.04,
+            "transactions": [
+                {
+                    "date": "2023-10-15",
+                    "description": "Withdrawal",
+                    "amount": 22442.95,
+                    "transaction_id": 53358087
+                }
+            ]
+        }
+    }
+}

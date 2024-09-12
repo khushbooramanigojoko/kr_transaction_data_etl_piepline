@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Adam Benton",
+        "age": 55,
+        "gender": "female",
+        "address": "9941 Beasley Route Suite 873, North Kenneth, WV 82080",
+        "phone": "676-926-4004",
+        "email": "susan33@example.com",
+        "account": {
+            "account_number": "6f1b092b-e8a8-4985-a2e4-a5bd0895b0e4",
+            "balance": 30955.99,
+            "transactions": [
+                {
+                    "date": "2022-10-10",
+                    "description": "Withdrawal",
+                    "amount": 20356.57,
+                    "transaction_id": 107048323
+                }
+            ]
+        }
+    }
+}

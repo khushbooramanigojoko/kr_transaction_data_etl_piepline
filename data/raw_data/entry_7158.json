@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joshua Richard",
+        "age": 74,
+        "gender": "male",
+        "address": "65711 Avila Underpass Suite 005, Ortizview, OK 33404",
+        "phone": "251.234.1589",
+        "email": "caitlynscott@example.com",
+        "account": {
+            "account_number": "7c6c37e4-72f8-4ad6-813a-768e7f1bb50a",
+            "balance": 4095.94,
+            "transactions": [
+                {
+                    "date": "2023-01-09",
+                    "description": "Deposit",
+                    "amount": 34250.46,
+                    "transaction_id": 100330474
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Deposit",
+                    "amount": 45170.92,
+                    "transaction_id": 16264487
+                }
+            ]
+        }
+    }
+}

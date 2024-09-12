@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jason Carter",
+        "age": 70,
+        "gender": "male",
+        "address": "823 Horton Corner, South Adriana, DC 99140",
+        "phone": "+1-880-354-6561x90409",
+        "email": "vmiller@example.net",
+        "account": {
+            "account_number": "018de142-e18e-4523-a58b-063832a3b86e",
+            "balance": -26964.51,
+            "transactions": [
+                {
+                    "date": "2023-08-06",
+                    "description": "Interest",
+                    "amount": 3818.51,
+                    "transaction_id": 1819096
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Withdrawal",
+                    "amount": 4703.41,
+                    "transaction_id": 8303518
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Withdrawal",
+                    "amount": -1266.51,
+                    "transaction_id": 90275373
+                }
+            ]
+        }
+    }
+}

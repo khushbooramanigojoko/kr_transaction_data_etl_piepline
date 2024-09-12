@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Heather Moreno",
+        "age": 55,
+        "gender": "female",
+        "address": "78834 Holly Isle Apt. 249, South Edwardmouth, OH 52122",
+        "phone": "+1-503-993-6469",
+        "email": "pollardmichelle@example.org",
+        "account": {
+            "account_number": "4e311833-acd1-4c10-9e8c-d10c230f65de",
+            "balance": 45001.47,
+            "transactions": [
+                {
+                    "date": "2023-11-15",
+                    "description": "Withdrawal",
+                    "amount": 3149.68,
+                    "transaction_id": 5817908
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Deposit",
+                    "amount": 27873.55,
+                    "transaction_id": 68740189
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christopher Carter",
+        "age": 47,
+        "gender": "female",
+        "address": "3092 Jessica Drive, New Anthonyhaven, NY 44448",
+        "phone": "773.308.7762",
+        "email": "pattersonallison@example.net",
+        "account": {
+            "account_number": "5201978e-9ea0-4b16-ab9f-32ea096d36a3",
+            "balance": 10325.88,
+            "transactions": [
+                {
+                    "date": "2023-06-12",
+                    "description": "Deposit",
+                    "amount": 23048.84,
+                    "transaction_id": 38098021
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Interest",
+                    "amount": 6370.27,
+                    "transaction_id": 40515719
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Deposit",
+                    "amount": 46650.04,
+                    "transaction_id": 28117540
+                },
+                {
+                    "date": "2024-07-25",
+                    "description": "Withdrawal",
+                    "amount": 2635.25,
+                    "transaction_id": 56602068
+                }
+            ]
+        }
+    }
+}

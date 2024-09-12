@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lori Stevens PhD",
+        "age": 35,
+        "gender": "female",
+        "address": "5554 Lauren Viaduct Suite 220, Grimesshire, SC 12504",
+        "phone": "3906718262",
+        "email": "julie72@example.org",
+        "account": {
+            "account_number": "094d5f60-97ac-44c2-8c7b-3373a1b3cbff",
+            "balance": 23222.18,
+            "transactions": [
+                {
+                    "date": "2024-07-31",
+                    "description": "Interest",
+                    "amount": 29459.86,
+                    "transaction_id": 37628517
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Withdrawal",
+                    "amount": 3782.49,
+                    "transaction_id": 94033772
+                }
+            ]
+        }
+    }
+}

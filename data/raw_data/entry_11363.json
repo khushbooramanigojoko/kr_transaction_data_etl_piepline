@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 93,
+        "gender": "female",
+        "address": "671 Danielle Lodge Apt. 811, West Amanda, DE 72897",
+        "phone": "(895)723-2607x155",
+        "email": "allenchristopher@example.com",
+        "account": {
+            "account_number": "977f88cb-0ea6-4261-aebc-d53d0dd00270",
+            "balance": 28185.82,
+            "transactions": [
+                {
+                    "date": "2023-03-20",
+                    "description": "Deposit",
+                    "amount": 467.4,
+                    "transaction_id": 83916202
+                }
+            ]
+        }
+    }
+}

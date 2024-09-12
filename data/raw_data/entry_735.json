@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Alex Harrison",
+        "age": 99,
+        "gender": "female",
+        "address": "PSC 0565, Box 9403, APO AA 03507",
+        "phone": "001-807-718-9193x45744",
+        "email": "rlopez@example.net",
+        "account": {
+            "account_number": "7d4d05a6-291d-4848-a405-dfb1decb29eb",
+            "balance": 33805.61,
+            "transactions": [
+                {
+                    "date": "2024-05-24",
+                    "description": "Withdrawal",
+                    "amount": 15513.88,
+                    "transaction_id": 68127127
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Deposit",
+                    "amount": 46920.2,
+                    "transaction_id": 15054796
+                },
+                {
+                    "date": "2024-08-15",
+                    "description": "Deposit",
+                    "amount": 42090.41,
+                    "transaction_id": 47180678
+                }
+            ]
+        }
+    }
+}

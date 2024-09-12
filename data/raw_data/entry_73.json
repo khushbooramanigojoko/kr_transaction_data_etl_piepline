@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kimberly Santos",
+        "age": 25,
+        "gender": "male",
+        "address": "458 Christopher Mountain, Douglasland, SC 41609",
+        "phone": "(461)826-5026",
+        "email": "willie53@example.com",
+        "account": {
+            "account_number": "100707d2-ce73-47a7-a683-75980c5c8f7a",
+            "balance": 16517.06,
+            "transactions": [
+                {
+                    "date": "2024-08-16",
+                    "description": "Interest",
+                    "amount": 12720.25,
+                    "transaction_id": 32636292
+                },
+                {
+                    "date": "2023-12-13",
+                    "description": "Deposit",
+                    "amount": 38679.14,
+                    "transaction_id": 66686259
+                },
+                {
+                    "date": "2024-01-23",
+                    "description": "Deposit",
+                    "amount": 37153.86,
+                    "transaction_id": 112373390
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Deposit",
+                    "amount": 40605.5,
+                    "transaction_id": 70147439
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Interest",
+                    "amount": 2839.41,
+                    "transaction_id": 64033879
+                }
+            ]
+        }
+    }
+}

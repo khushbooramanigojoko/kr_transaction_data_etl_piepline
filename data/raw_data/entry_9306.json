@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Keith Phillips",
+        "age": 32,
+        "gender": "female",
+        "address": "07419 Scott Underpass, New Ronaldport, WI 20531",
+        "phone": "+1-261-578-2581",
+        "email": "weberlisa@example.com",
+        "account": {
+            "account_number": "814e1424-ca42-4ce7-8d05-e827f481e99b",
+            "balance": -19023.84,
+            "transactions": [
+                {
+                    "date": "2023-10-04",
+                    "description": "Withdrawal",
+                    "amount": 882.92,
+                    "transaction_id": 93247806
+                }
+            ]
+        }
+    }
+}

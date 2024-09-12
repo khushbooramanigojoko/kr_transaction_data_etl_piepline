@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Angel Williams",
+        "age": 39,
+        "gender": "male",
+        "address": "065 Wilson Trace, Mccoyville, NJ 76470",
+        "phone": "+1-986-960-3008x45986",
+        "email": "calvinbarron@example.org",
+        "account": {
+            "account_number": "c890f30a-0598-4612-b6bc-5cb189a76f51",
+            "balance": -10628.01,
+            "transactions": [
+                {
+                    "date": "2022-09-28",
+                    "description": "Deposit",
+                    "amount": 4332.51,
+                    "transaction_id": 93959358
+                },
+                {
+                    "date": "2024-02-23",
+                    "description": "Withdrawal",
+                    "amount": 2376.27,
+                    "transaction_id": 55588171
+                },
+                {
+                    "date": "2024-04-06",
+                    "description": "Deposit",
+                    "amount": -2754.41,
+                    "transaction_id": 59180403
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Interest",
+                    "amount": -1073.91,
+                    "transaction_id": 26228406
+                }
+            ]
+        }
+    }
+}

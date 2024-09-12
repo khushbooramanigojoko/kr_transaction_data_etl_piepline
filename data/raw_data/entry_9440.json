@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 51,
+        "gender": "male",
+        "address": "252 Weaver Walk Apt. 438, Lake Darrylport, VA 60433",
+        "phone": "282-683-8174",
+        "email": "cdixon@example.net",
+        "account": {
+            "account_number": "ca184f2d-8461-4fb5-8ceb-4a3a774eb59f",
+            "balance": 33501.1,
+            "transactions": [
+                {
+                    "date": "2023-04-11",
+                    "description": "Interest",
+                    "amount": 4032.86,
+                    "transaction_id": 111190079
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Withdrawal",
+                    "amount": 2549.41,
+                    "transaction_id": 52823955
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Gina Cross",
+        "age": 60,
+        "gender": "male",
+        "address": "USNS Mendoza, FPO AP 46365",
+        "phone": "964.695.4531x4604",
+        "email": "ricehannah@example.net",
+        "account": {
+            "account_number": "cb5934b4-72aa-416b-90a7-ddecc5d42cfa",
+            "balance": 4092.77,
+            "transactions": [
+                {
+                    "date": "2023-01-10",
+                    "description": "Withdrawal",
+                    "amount": 28983.1,
+                    "transaction_id": 78486200
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Withdrawal",
+                    "amount": 8645.42,
+                    "transaction_id": 22169913
+                },
+                {
+                    "date": "2023-04-30",
+                    "description": "Withdrawal",
+                    "amount": 40741.79,
+                    "transaction_id": 61496117
+                },
+                {
+                    "date": "2022-11-07",
+                    "description": "Interest",
+                    "amount": 8713.64,
+                    "transaction_id": 84987402
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dawn Yoder",
+        "age": 61,
+        "gender": "female",
+        "address": "2560 Anita Plains Apt. 386, Darrylview, ME 53430",
+        "phone": "2572639372",
+        "email": "baileylisa@example.net",
+        "account": {
+            "account_number": "81322fc5-d350-4526-91c6-4bbb5df39d39",
+            "balance": 22718.49,
+            "transactions": [
+                {
+                    "date": "2022-10-20",
+                    "description": "Deposit",
+                    "amount": 12038.97,
+                    "transaction_id": 111184114
+                }
+            ]
+        }
+    }
+}

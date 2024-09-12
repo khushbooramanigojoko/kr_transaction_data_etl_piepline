@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 75,
+        "gender": "male",
+        "address": "Unit 0307 Box 7423, DPO AP 33553",
+        "phone": "972.758.0309x9545",
+        "email": "kara91@example.com",
+        "account": {
+            "account_number": "60113adf-57bc-4834-9d02-ba8238b1d3fa",
+            "balance": 6196.08,
+            "transactions": [
+                {
+                    "date": "2022-12-02",
+                    "description": "Withdrawal",
+                    "amount": -111.51,
+                    "transaction_id": 26771206
+                },
+                {
+                    "date": "2022-11-14",
+                    "description": "Interest",
+                    "amount": -4737.18,
+                    "transaction_id": 3911387
+                },
+                {
+                    "date": "2024-03-11",
+                    "description": "Deposit",
+                    "amount": -3672.38,
+                    "transaction_id": 119709805
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Deposit",
+                    "amount": -1057.21,
+                    "transaction_id": 78574594
+                }
+            ]
+        }
+    }
+}

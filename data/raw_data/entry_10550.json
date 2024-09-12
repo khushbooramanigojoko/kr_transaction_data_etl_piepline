@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Gregory Harris",
+        "age": 49,
+        "gender": "male",
+        "address": "949 Johnson Junction, North Jon, WI 27922",
+        "phone": "782-286-4587x28732",
+        "email": "alisonjoyce@example.net",
+        "account": {
+            "account_number": "cf71cba9-283f-4ab7-aaa5-e31fe19774a5",
+            "balance": -33282.57,
+            "transactions": [
+                {
+                    "date": "2024-06-24",
+                    "description": "Withdrawal",
+                    "amount": 3809.96,
+                    "transaction_id": 42356397
+                }
+            ]
+        }
+    }
+}

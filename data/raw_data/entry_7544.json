@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Melissa Burns",
+        "age": 74,
+        "gender": "female",
+        "address": "2135 Martin Greens, Davistown, SC 82217",
+        "phone": "608-551-7369x321",
+        "email": "ronald49@example.net",
+        "account": {
+            "account_number": "63294cec-3cc6-4e2a-87ce-98b590f117ed",
+            "balance": 32388.11,
+            "transactions": [
+                {
+                    "date": "2023-06-10",
+                    "description": "Deposit",
+                    "amount": 34896.73,
+                    "transaction_id": 36852044
+                }
+            ]
+        }
+    }
+}

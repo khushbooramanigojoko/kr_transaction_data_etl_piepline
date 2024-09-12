@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christopher Carey",
+        "age": 48,
+        "gender": "male",
+        "address": "3533 Mitchell Bypass Suite 321, Rosalesfurt, WV 97631",
+        "phone": "001-995-333-9738x796",
+        "email": "cgilmore@example.com",
+        "account": {
+            "account_number": "48fb1467-9b46-4fac-9368-09d8838beb42",
+            "balance": 32071.82,
+            "transactions": [
+                {
+                    "date": "2024-04-20",
+                    "description": "Withdrawal",
+                    "amount": 13658.99,
+                    "transaction_id": 93199080
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Interest",
+                    "amount": 29018.02,
+                    "transaction_id": 58874534
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Interest",
+                    "amount": 2075.73,
+                    "transaction_id": 14618273
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Interest",
+                    "amount": 27081.43,
+                    "transaction_id": 27591250
+                }
+            ]
+        }
+    }
+}

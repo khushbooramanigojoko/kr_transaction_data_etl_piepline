@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mrs. Anita Christian",
+        "age": 32,
+        "gender": "female",
+        "address": "8726 Maria Manors Suite 309, Edwardhaven, TX 25593",
+        "phone": "223.263.8287",
+        "email": "ryan33@example.org",
+        "account": {
+            "account_number": "67cf9149-5d1a-4bf0-83d1-e0b3cb801c4c",
+            "balance": 38538.15,
+            "transactions": [
+                {
+                    "date": "2024-03-22",
+                    "description": "Withdrawal",
+                    "amount": 23964.95,
+                    "transaction_id": 27262007
+                },
+                {
+                    "date": "2023-08-06",
+                    "description": "Interest",
+                    "amount": 6766.74,
+                    "transaction_id": 29847114
+                }
+            ]
+        }
+    }
+}

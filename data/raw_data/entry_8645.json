@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sara Romero",
+        "age": 23,
+        "gender": "male",
+        "address": "743 Jeremy Courts Apt. 603, North Gerald, FL 35304",
+        "phone": "530-797-9920x93108",
+        "email": "matthewvincent@example.net",
+        "account": {
+            "account_number": "cc9e3880-e4de-4837-9910-c7f5a0ab7171",
+            "balance": 8139.88,
+            "transactions": [
+                {
+                    "date": "2024-03-22",
+                    "description": "Withdrawal",
+                    "amount": 42516.83,
+                    "transaction_id": 77935620
+                },
+                {
+                    "date": "2022-09-19",
+                    "description": "Withdrawal",
+                    "amount": 28399.13,
+                    "transaction_id": 33789679
+                }
+            ]
+        }
+    }
+}

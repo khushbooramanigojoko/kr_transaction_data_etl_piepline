@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Heather Clark",
+        "age": 87,
+        "gender": "male",
+        "address": "435 Carpenter Highway, Smithfurt, ME 00880",
+        "phone": "001-203-978-0758x528",
+        "email": "luisvazquez@example.com",
+        "account": {
+            "account_number": "55efcd50-a3c8-44b5-94dd-b4466ac8e690",
+            "balance": 24437.16,
+            "transactions": [
+                {
+                    "date": "2022-09-30",
+                    "description": "Withdrawal",
+                    "amount": 49357.32,
+                    "transaction_id": 3228134
+                },
+                {
+                    "date": "2024-05-20",
+                    "description": "Interest",
+                    "amount": 5467.43,
+                    "transaction_id": 20673929
+                },
+                {
+                    "date": "2023-09-21",
+                    "description": "Interest",
+                    "amount": 9678.75,
+                    "transaction_id": 53353951
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Interest",
+                    "amount": 13367.19,
+                    "transaction_id": 96960207
+                }
+            ]
+        }
+    }
+}

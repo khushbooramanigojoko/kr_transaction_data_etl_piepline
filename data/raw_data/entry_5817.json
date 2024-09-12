@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jonathan Barker",
+        "age": 99,
+        "gender": "female",
+        "address": "147 Mcgrath Lock, Emmaview, MT 36479",
+        "phone": "001-501-371-6253x9483",
+        "email": "tammyphillips@example.org",
+        "account": {
+            "account_number": "b5415a81-dff3-4909-a836-f06d0d5bc2af",
+            "balance": 6503.89,
+            "transactions": [
+                {
+                    "date": "2023-09-02",
+                    "description": "Interest",
+                    "amount": 34781.92,
+                    "transaction_id": 2831080
+                }
+            ]
+        }
+    }
+}

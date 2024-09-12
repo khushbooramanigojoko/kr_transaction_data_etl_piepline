@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amber Burton",
+        "age": 59,
+        "gender": "female",
+        "address": "19266 Emily Walk Apt. 807, Port Laurachester, FM 73577",
+        "phone": "881-679-3619x2281",
+        "email": "ahorton@example.net",
+        "account": {
+            "account_number": "7f235202-bd7a-4af9-8f9a-f169a9762b86",
+            "balance": -23818.78,
+            "transactions": [
+                {
+                    "date": "2024-03-06",
+                    "description": "Deposit",
+                    "amount": -1552.75,
+                    "transaction_id": 100199801
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Interest",
+                    "amount": -986.14,
+                    "transaction_id": 77802041
+                }
+            ]
+        }
+    }
+}

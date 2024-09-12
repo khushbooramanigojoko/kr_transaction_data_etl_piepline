@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 40,
+        "gender": "male",
+        "address": "4196 Catherine Keys Suite 658, Jonmouth, IL 85269",
+        "phone": "346-851-7994x024",
+        "email": "mmiller@example.org",
+        "account": {
+            "account_number": "f3094072-095e-46dd-b28b-8601bda669ff",
+            "balance": 33140.66,
+            "transactions": [
+                {
+                    "date": "2022-11-03",
+                    "description": "Interest",
+                    "amount": -1907.0,
+                    "transaction_id": 74828481
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Interest",
+                    "amount": 734.93,
+                    "transaction_id": 37454406
+                },
+                {
+                    "date": "2023-11-05",
+                    "description": "Deposit",
+                    "amount": -3246.6,
+                    "transaction_id": 46895901
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tamara Sims",
+        "age": 83,
+        "gender": "male",
+        "address": "27198 Edwards Track, New Maryshire, WA 07394",
+        "phone": "001-933-342-0445",
+        "email": "zjordan@example.com",
+        "account": {
+            "account_number": "6d442e7d-1de3-4527-b2b8-f60c44990aa9",
+            "balance": 39594.34,
+            "transactions": [
+                {
+                    "date": "2023-04-09",
+                    "description": "Deposit",
+                    "amount": 23016.13,
+                    "transaction_id": 73993762
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Withdrawal",
+                    "amount": 39684.17,
+                    "transaction_id": 80455089
+                }
+            ]
+        }
+    }
+}

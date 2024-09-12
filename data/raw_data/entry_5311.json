@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sarah Ware",
+        "age": 59,
+        "gender": "male",
+        "address": "456 Rodriguez Cove Suite 552, Floresfurt, TN 87327",
+        "phone": "299.992.0185x12014",
+        "email": "stuartlewis@example.net",
+        "account": {
+            "account_number": "bba35ed4-e0b5-484f-83e8-fab265688a5f",
+            "balance": 32771.89,
+            "transactions": [
+                {
+                    "date": "2024-03-23",
+                    "description": "Interest",
+                    "amount": 47634.3,
+                    "transaction_id": 32583249
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Clayton Edwards",
+        "age": 37,
+        "gender": "male",
+        "address": "32067 Stewart Burg Suite 595, Huffberg, AK 96190",
+        "phone": "384.828.9303",
+        "email": "jacob99@example.net",
+        "account": {
+            "account_number": "d5388392-af6b-4a68-8b76-622018f26499",
+            "balance": 35929.97,
+            "transactions": [
+                {
+                    "date": "2023-10-23",
+                    "description": "Deposit",
+                    "amount": 20493.71,
+                    "transaction_id": 81356203
+                },
+                {
+                    "date": "2023-11-11",
+                    "description": "Deposit",
+                    "amount": 26032.24,
+                    "transaction_id": 11283731
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Deposit",
+                    "amount": 20200.94,
+                    "transaction_id": 91962370
+                },
+                {
+                    "date": "2024-05-17",
+                    "description": "Deposit",
+                    "amount": 17824.13,
+                    "transaction_id": 5633960
+                },
+                {
+                    "date": "2023-09-30",
+                    "description": "Withdrawal",
+                    "amount": 47054.23,
+                    "transaction_id": 38331716
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alexa Fox",
+        "age": 30,
+        "gender": "male",
+        "address": "1043 Joshua Brooks, Lake Shawnchester, GA 45004",
+        "phone": "547-674-5323x284",
+        "email": "allisonlucero@example.com",
+        "account": {
+            "account_number": "c9ff194e-ca9c-4093-99ac-8e1b980bfa0c",
+            "balance": 27126.01,
+            "transactions": [
+                {
+                    "date": "2024-08-14",
+                    "description": "Withdrawal",
+                    "amount": 13646.94,
+                    "transaction_id": 119452188
+                }
+            ]
+        }
+    }
+}

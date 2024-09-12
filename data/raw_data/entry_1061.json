@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ashley Rodriguez",
+        "age": 43,
+        "gender": "female",
+        "address": "359 Rodriguez Walk Suite 849, Leview, AS 38329",
+        "phone": "001-277-835-4799x612",
+        "email": "lisa05@example.org",
+        "account": {
+            "account_number": "1b6a17ff-b711-4bdf-a720-239d88a5cec2",
+            "balance": 3606.12,
+            "transactions": [
+                {
+                    "date": "2022-12-11",
+                    "description": "Withdrawal",
+                    "amount": 20146.77,
+                    "transaction_id": 55971728
+                }
+            ]
+        }
+    }
+}

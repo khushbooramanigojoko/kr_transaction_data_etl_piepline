@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mark Ayala",
+        "age": 43,
+        "gender": "female",
+        "address": "939 Michelle Views, Howellborough, NE 18688",
+        "phone": "633-665-8517x31157",
+        "email": "hunterconnor@example.com",
+        "account": {
+            "account_number": "6ebc0fd4-e598-4f15-8572-69207e1944b1",
+            "balance": 7772.07,
+            "transactions": [
+                {
+                    "date": "2024-02-23",
+                    "description": "Withdrawal",
+                    "amount": 18398.39,
+                    "transaction_id": 118500578
+                },
+                {
+                    "date": "2022-09-22",
+                    "description": "Interest",
+                    "amount": 45742.02,
+                    "transaction_id": 18983785
+                }
+            ]
+        }
+    }
+}

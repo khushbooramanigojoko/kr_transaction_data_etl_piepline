@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Cook",
+        "age": 40,
+        "gender": "female",
+        "address": "994 Dana Inlet Apt. 659, South Tinastad, PR 22910",
+        "phone": "899-766-8461",
+        "email": "jenny77@example.net",
+        "account": {
+            "account_number": "c630bc99-980c-4eb1-b7b9-0246368dbe97",
+            "balance": -36880.29,
+            "transactions": [
+                {
+                    "date": "2023-12-31",
+                    "description": "Withdrawal",
+                    "amount": -979.58,
+                    "transaction_id": 110246836
+                },
+                {
+                    "date": "2024-06-10",
+                    "description": "Withdrawal",
+                    "amount": 4938.65,
+                    "transaction_id": 85556689
+                },
+                {
+                    "date": "2023-09-01",
+                    "description": "Withdrawal",
+                    "amount": -1168.34,
+                    "transaction_id": 119455462
+                },
+                {
+                    "date": "2023-06-26",
+                    "description": "Interest",
+                    "amount": 1940.03,
+                    "transaction_id": 5975715
+                }
+            ]
+        }
+    }
+}

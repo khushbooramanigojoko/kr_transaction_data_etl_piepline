@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jennifer Henry",
+        "age": 35,
+        "gender": "female",
+        "address": "1920 Luna Pines Suite 403, Wrighttown, SC 74617",
+        "phone": "001-560-285-3685x45956",
+        "email": "james06@example.org",
+        "account": {
+            "account_number": "15a4622f-852d-435e-8a8d-dd8add89601e",
+            "balance": -38891.01,
+            "transactions": [
+                {
+                    "date": "2023-09-09",
+                    "description": "Interest",
+                    "amount": 2346.16,
+                    "transaction_id": 118133923
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Withdrawal",
+                    "amount": 1748.21,
+                    "transaction_id": 38750066
+                },
+                {
+                    "date": "2024-05-03",
+                    "description": "Interest",
+                    "amount": 4985.38,
+                    "transaction_id": 76088757
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kenneth Hall",
+        "age": 42,
+        "gender": "male",
+        "address": "00164 Hull Crest Apt. 934, North Nicole, MN 29969",
+        "phone": "+1-741-850-1047x55131",
+        "email": "qdavis@example.com",
+        "account": {
+            "account_number": "33a890fe-0d53-4328-8b40-adeea3448d2c",
+            "balance": 47570.66,
+            "transactions": [
+                {
+                    "date": "2022-09-19",
+                    "description": "Withdrawal",
+                    "amount": 18652.77,
+                    "transaction_id": 87078882
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Withdrawal",
+                    "amount": 14681.59,
+                    "transaction_id": 52928352
+                },
+                {
+                    "date": "2024-01-06",
+                    "description": "Deposit",
+                    "amount": 43088.92,
+                    "transaction_id": 21461377
+                },
+                {
+                    "date": "2022-11-19",
+                    "description": "Interest",
+                    "amount": 46370.71,
+                    "transaction_id": 45946843
+                }
+            ]
+        }
+    }
+}

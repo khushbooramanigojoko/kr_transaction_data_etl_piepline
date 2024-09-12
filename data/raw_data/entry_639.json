@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Timothy Martinez",
+        "age": 58,
+        "gender": "female",
+        "address": "PSC 9068, Box 0996, APO AE 72520",
+        "phone": "6765242526",
+        "email": "lwolf@example.net",
+        "account": {
+            "account_number": "04312149-3b0b-444c-926f-f15e1e180c28",
+            "balance": 15499.23,
+            "transactions": [
+                {
+                    "date": "2023-03-04",
+                    "description": "Withdrawal",
+                    "amount": 45960.65,
+                    "transaction_id": 118701061
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Deposit",
+                    "amount": 44223.35,
+                    "transaction_id": 108467323
+                }
+            ]
+        }
+    }
+}

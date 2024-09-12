@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 93,
+        "gender": "male",
+        "address": "1311 Kristin Ford Suite 769, West Jean, NJ 12094",
+        "phone": "001-802-893-5407x673",
+        "email": "lisarodriguez@example.net",
+        "account": {
+            "account_number": "03f441f7-cb42-4aca-b3ac-0ab463fb4b4d",
+            "balance": 19727.02,
+            "transactions": [
+                {
+                    "date": "2023-04-14",
+                    "description": "Withdrawal",
+                    "amount": 995.11,
+                    "transaction_id": 95399452
+                },
+                {
+                    "date": "2024-03-25",
+                    "description": "Deposit",
+                    "amount": 4278.42,
+                    "transaction_id": 34736474
+                },
+                {
+                    "date": "2023-04-03",
+                    "description": "Deposit",
+                    "amount": 3789.66,
+                    "transaction_id": 17860091
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Interest",
+                    "amount": -2217.45,
+                    "transaction_id": 14050996
+                }
+            ]
+        }
+    }
+}

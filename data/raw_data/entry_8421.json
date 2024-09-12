@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jermaine Phillips",
+        "age": 43,
+        "gender": "female",
+        "address": "8327 Ruiz Station, Gonzalezstad, UT 46945",
+        "phone": "+1-499-589-2725x529",
+        "email": "prestondestiny@example.org",
+        "account": {
+            "account_number": "5dd22817-7d69-4b60-92aa-0d3faf065009",
+            "balance": 35523.09,
+            "transactions": [
+                {
+                    "date": "2023-11-16",
+                    "description": "Withdrawal",
+                    "amount": 15626.68,
+                    "transaction_id": 25224347
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Interest",
+                    "amount": 28434.0,
+                    "transaction_id": 12591146
+                },
+                {
+                    "date": "2023-09-06",
+                    "description": "Withdrawal",
+                    "amount": 46176.29,
+                    "transaction_id": 109607941
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Deposit",
+                    "amount": 5151.67,
+                    "transaction_id": 11347414
+                }
+            ]
+        }
+    }
+}

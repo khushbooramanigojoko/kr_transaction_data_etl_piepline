@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Zachary Hernandez",
+        "age": 43,
+        "gender": "male",
+        "address": "11751 Thomas Plains, New William, IA 98372",
+        "phone": "497.499.2721",
+        "email": "barbara43@example.net",
+        "account": {
+            "account_number": "bbdbfc1f-94aa-468b-aeae-f658af23a9b5",
+            "balance": 17767.44,
+            "transactions": [
+                {
+                    "date": "2023-12-07",
+                    "description": "Withdrawal",
+                    "amount": 29638.64,
+                    "transaction_id": 100913253
+                },
+                {
+                    "date": "2023-10-04",
+                    "description": "Interest",
+                    "amount": 16735.49,
+                    "transaction_id": 60203928
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Deposit",
+                    "amount": 48794.54,
+                    "transaction_id": 51716148
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": 19624.54,
+                    "transaction_id": 90594409
+                },
+                {
+                    "date": "2023-02-25",
+                    "description": "Withdrawal",
+                    "amount": 18696.66,
+                    "transaction_id": 12246910
+                }
+            ]
+        }
+    }
+}

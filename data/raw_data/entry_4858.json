@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jeffrey James",
+        "age": 54,
+        "gender": "female",
+        "address": "768 Kevin Park, Port Williamside, MN 46757",
+        "phone": "576.203.6270x4698",
+        "email": "allisonrogers@example.com",
+        "account": {
+            "account_number": "54138d8f-a0be-44e5-86aa-2c10198730eb",
+            "balance": 38180.38,
+            "transactions": [
+                {
+                    "date": "2024-03-20",
+                    "description": "Interest",
+                    "amount": 36796.72,
+                    "transaction_id": 30661285
+                }
+            ]
+        }
+    }
+}

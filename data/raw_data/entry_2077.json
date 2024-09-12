@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Stephanie Mcmahon",
+        "age": 53,
+        "gender": "male",
+        "address": "USNV Foster, FPO AA 69139",
+        "phone": "3004434370",
+        "email": "msexton@example.com",
+        "account": {
+            "account_number": "760772c4-9fc2-4399-9356-6086eda39899",
+            "balance": 8662.6,
+            "transactions": [
+                {
+                    "date": "2024-02-09",
+                    "description": "Withdrawal",
+                    "amount": 14741.05,
+                    "transaction_id": 109717863
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Withdrawal",
+                    "amount": 20760.53,
+                    "transaction_id": 5899558
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Interest",
+                    "amount": 1456.06,
+                    "transaction_id": 38827911
+                }
+            ]
+        }
+    }
+}

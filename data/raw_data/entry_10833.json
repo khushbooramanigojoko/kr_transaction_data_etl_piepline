@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Courtney Chambers",
+        "age": 73,
+        "gender": "male",
+        "address": "8991 Todd Meadows, West Angelaport, FM 05450",
+        "phone": "477-942-0153x2668",
+        "email": "aprilwatson@example.net",
+        "account": {
+            "account_number": "8bdaf006-efd5-4523-b0b6-0f39a96a4be9",
+            "balance": -1284.63,
+            "transactions": [
+                {
+                    "date": "2022-12-07",
+                    "description": "Interest",
+                    "amount": 2788.88,
+                    "transaction_id": 110507227
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Withdrawal",
+                    "amount": -4815.61,
+                    "transaction_id": 109934804
+                }
+            ]
+        }
+    }
+}

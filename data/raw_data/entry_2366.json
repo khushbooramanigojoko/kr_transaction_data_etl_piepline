@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Derek Moore",
+        "age": 36,
+        "gender": "female",
+        "address": "6668 Marshall Stream Suite 540, Lake James, VT 36736",
+        "phone": "864.297.1059x2092",
+        "email": "jacobphillips@example.org",
+        "account": {
+            "account_number": "f236eb5f-fba8-4b4c-ae2a-0ad1d83a7330",
+            "balance": 41782.01,
+            "transactions": [
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": 5730.78,
+                    "transaction_id": 73807034
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Deposit",
+                    "amount": 21345.1,
+                    "transaction_id": 35666475
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Interest",
+                    "amount": 11603.31,
+                    "transaction_id": 119098372
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Interest",
+                    "amount": 46590.01,
+                    "transaction_id": 12595085
+                }
+            ]
+        }
+    }
+}

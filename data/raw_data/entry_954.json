@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mrs. Ashley Wells",
+        "age": 38,
+        "gender": "female",
+        "address": "87044 Joseph Cape Apt. 126, Port Jennifer, NH 59657",
+        "phone": "851-304-6062",
+        "email": "friedmanmary@example.org",
+        "account": {
+            "account_number": "e3e81636-c55f-4147-a243-de7504891dc4",
+            "balance": 34709.61,
+            "transactions": [
+                {
+                    "date": "2024-02-10",
+                    "description": "Withdrawal",
+                    "amount": 16371.73,
+                    "transaction_id": 86024754
+                },
+                {
+                    "date": "2023-04-12",
+                    "description": "Withdrawal",
+                    "amount": 9506.43,
+                    "transaction_id": 92541449
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Interest",
+                    "amount": 48513.87,
+                    "transaction_id": 45190231
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Deposit",
+                    "amount": 26831.12,
+                    "transaction_id": 90775440
+                },
+                {
+                    "date": "2024-04-15",
+                    "description": "Withdrawal",
+                    "amount": 15924.53,
+                    "transaction_id": 39857901
+                }
+            ]
+        }
+    }
+}

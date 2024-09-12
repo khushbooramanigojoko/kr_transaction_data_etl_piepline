@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rhonda Jones",
+        "age": 92,
+        "gender": "female",
+        "address": "6102 Mclaughlin Neck Suite 739, Port Brianshire, GA 06741",
+        "phone": "528.779.4111x462",
+        "email": "rwhite@example.net",
+        "account": {
+            "account_number": "38200c39-7df3-42bb-a359-640eff345233",
+            "balance": 31579.42,
+            "transactions": [
+                {
+                    "date": "2023-04-09",
+                    "description": "Withdrawal",
+                    "amount": 4478.53,
+                    "transaction_id": 90577925
+                }
+            ]
+        }
+    }
+}

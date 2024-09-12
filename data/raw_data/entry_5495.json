@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Melinda Thompson",
+        "age": 24,
+        "gender": "male",
+        "address": "966 Brandon Mount Suite 442, Port Beth, DE 77499",
+        "phone": "5827466675",
+        "email": "lesterkimberly@example.com",
+        "account": {
+            "account_number": "f894cabd-d258-4552-a5fc-938acb8ae3be",
+            "balance": 4213.67,
+            "transactions": [
+                {
+                    "date": "2024-04-28",
+                    "description": "Deposit",
+                    "amount": 42765.11,
+                    "transaction_id": 85833285
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Interest",
+                    "amount": 25545.64,
+                    "transaction_id": 42107427
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Interest",
+                    "amount": 45751.93,
+                    "transaction_id": 54182387
+                },
+                {
+                    "date": "2024-08-15",
+                    "description": "Interest",
+                    "amount": 46158.26,
+                    "transaction_id": 36356230
+                },
+                {
+                    "date": "2023-07-24",
+                    "description": "Interest",
+                    "amount": 42212.68,
+                    "transaction_id": 28572937
+                }
+            ]
+        }
+    }
+}

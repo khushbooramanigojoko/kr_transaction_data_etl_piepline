@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Theodore Mata",
+        "age": 19,
+        "gender": "male",
+        "address": "75005 Martin Hill, West Mckenzie, HI 74879",
+        "phone": "(846)876-8832x795",
+        "email": "davidberry@example.org",
+        "account": {
+            "account_number": "116f0a37-e7e7-44ad-9922-cc1f5c59c4b2",
+            "balance": 33090.9,
+            "transactions": [
+                {
+                    "date": "2023-02-27",
+                    "description": "Interest",
+                    "amount": 11157.62,
+                    "transaction_id": 63541341
+                },
+                {
+                    "date": "2023-02-21",
+                    "description": "Deposit",
+                    "amount": 16921.06,
+                    "transaction_id": 37639310
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Deposit",
+                    "amount": 16956.18,
+                    "transaction_id": 20485358
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Deposit",
+                    "amount": 44289.74,
+                    "transaction_id": 51318452
+                },
+                {
+                    "date": "2023-07-04",
+                    "description": "Interest",
+                    "amount": 39734.36,
+                    "transaction_id": 41136194
+                }
+            ]
+        }
+    }
+}

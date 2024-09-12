@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Felicia Martin",
+        "age": 94,
+        "gender": "female",
+        "address": "181 Stacey Parkways, Port Jeffreyhaven, WA 55744",
+        "phone": "(626)592-3105",
+        "email": "abailey@example.com",
+        "account": {
+            "account_number": "046f5fa1-e5b4-4df3-b75a-c3a30c7271db",
+            "balance": 36735.03,
+            "transactions": [
+                {
+                    "date": "2023-03-01",
+                    "description": "Interest",
+                    "amount": 34486.91,
+                    "transaction_id": 24259442
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Deposit",
+                    "amount": 40228.67,
+                    "transaction_id": 55719414
+                },
+                {
+                    "date": "2023-03-19",
+                    "description": "Deposit",
+                    "amount": 11594.78,
+                    "transaction_id": 4757329
+                },
+                {
+                    "date": "2023-01-09",
+                    "description": "Deposit",
+                    "amount": 17941.06,
+                    "transaction_id": 25371488
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Interest",
+                    "amount": 5669.63,
+                    "transaction_id": 108732926
+                }
+            ]
+        }
+    }
+}

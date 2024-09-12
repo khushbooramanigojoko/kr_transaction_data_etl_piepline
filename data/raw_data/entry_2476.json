@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Maureen Cervantes",
+        "age": 74,
+        "gender": "female",
+        "address": "803 Paul Parkways, Johnnymouth, NY 29676",
+        "phone": "001-285-506-0539",
+        "email": "michelechang@example.com",
+        "account": {
+            "account_number": "3699f81e-605e-4b0e-952e-bc073dd918f6",
+            "balance": 28151.82,
+            "transactions": [
+                {
+                    "date": "2023-08-31",
+                    "description": "Interest",
+                    "amount": 39879.01,
+                    "transaction_id": 115753588
+                },
+                {
+                    "date": "2024-04-17",
+                    "description": "Withdrawal",
+                    "amount": 47209.53,
+                    "transaction_id": 21950431
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Deposit",
+                    "amount": 45106.51,
+                    "transaction_id": 44130870
+                }
+            ]
+        }
+    }
+}

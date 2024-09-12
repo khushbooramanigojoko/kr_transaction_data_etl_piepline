@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "James Floyd",
+        "age": 20,
+        "gender": "female",
+        "address": "647 Sarah Station, West Danieltown, KY 25513",
+        "phone": "(596)513-8645x85899",
+        "email": "pgill@example.net",
+        "account": {
+            "account_number": "f1d630db-25a2-4042-8500-dcaa6894e29c",
+            "balance": 30133.29,
+            "transactions": [
+                {
+                    "date": "2022-09-22",
+                    "description": "Withdrawal",
+                    "amount": 17766.13,
+                    "transaction_id": 100830228
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Deposit",
+                    "amount": 3390.52,
+                    "transaction_id": 109450052
+                },
+                {
+                    "date": "2024-08-03",
+                    "description": "Interest",
+                    "amount": 35444.45,
+                    "transaction_id": 90092561
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Emily Rodriguez",
+        "age": 68,
+        "gender": "female",
+        "address": "2378 Velez Centers Apt. 512, Farleychester, AK 15460",
+        "phone": "+1-553-801-3967x0681",
+        "email": "phillipspencer@example.org",
+        "account": {
+            "account_number": "e7f781f7-8cf6-42ce-8124-bb6054862748",
+            "balance": 16276.83,
+            "transactions": [
+                {
+                    "date": "2022-11-25",
+                    "description": "Withdrawal",
+                    "amount": 45942.34,
+                    "transaction_id": 84643768
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Deposit",
+                    "amount": 34154.0,
+                    "transaction_id": 53191804
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Interest",
+                    "amount": 28380.05,
+                    "transaction_id": 58789418
+                }
+            ]
+        }
+    }
+}

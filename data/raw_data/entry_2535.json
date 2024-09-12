@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Julie Graves",
+        "age": 92,
+        "gender": "male",
+        "address": "Unit 1056 Box 5559, DPO AE 26001",
+        "phone": "8876422913",
+        "email": "andersontimothy@example.org",
+        "account": {
+            "account_number": "2241c873-72b8-4204-b562-e3b159babac0",
+            "balance": 31637.56,
+            "transactions": [
+                {
+                    "date": "2023-05-23",
+                    "description": "Deposit",
+                    "amount": 33411.7,
+                    "transaction_id": 98846114
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Withdrawal",
+                    "amount": 4065.73,
+                    "transaction_id": 1282990
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Interest",
+                    "amount": 28952.1,
+                    "transaction_id": 80893897
+                },
+                {
+                    "date": "2024-03-15",
+                    "description": "Interest",
+                    "amount": 2759.48,
+                    "transaction_id": 2480287
+                },
+                {
+                    "date": "2024-06-14",
+                    "description": "Interest",
+                    "amount": 10139.11,
+                    "transaction_id": 106694270
+                }
+            ]
+        }
+    }
+}

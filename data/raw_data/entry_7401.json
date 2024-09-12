@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ryan Rogers",
+        "age": 82,
+        "gender": "female",
+        "address": "95891 Henry Run Suite 321, Susanfort, AS 48248",
+        "phone": "(339)581-1969x715",
+        "email": "rubiorobert@example.org",
+        "account": {
+            "account_number": "14289557-637d-41ed-b540-c318f4667893",
+            "balance": 30531.8,
+            "transactions": [
+                {
+                    "date": "2024-05-04",
+                    "description": "Withdrawal",
+                    "amount": 13049.29,
+                    "transaction_id": 64834164
+                },
+                {
+                    "date": "2024-05-03",
+                    "description": "Interest",
+                    "amount": 13493.79,
+                    "transaction_id": 72525758
+                }
+            ]
+        }
+    }
+}

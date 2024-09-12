@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Patty Mcclure",
+        "age": 78,
+        "gender": "female",
+        "address": "80546 Ochoa Wells, New Brenda, ID 35838",
+        "phone": "+1-955-311-5493x7658",
+        "email": "jason69@example.org",
+        "account": {
+            "account_number": "92361912-3ac8-4a6e-85b7-242325881ca4",
+            "balance": 7789.84,
+            "transactions": [
+                {
+                    "date": "2024-08-22",
+                    "description": "Interest",
+                    "amount": 33594.74,
+                    "transaction_id": 43939661
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Withdrawal",
+                    "amount": 10620.31,
+                    "transaction_id": 77390489
+                }
+            ]
+        }
+    }
+}

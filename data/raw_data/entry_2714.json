@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jill Kidd",
+        "age": 88,
+        "gender": "female",
+        "address": "PSC 0451, Box 4992, APO AP 01902",
+        "phone": "638.779.3154x6419",
+        "email": "janice30@example.org",
+        "account": {
+            "account_number": "c5264d3b-9e1c-475a-8e72-c2802b06cec8",
+            "balance": 9735.16,
+            "transactions": [
+                {
+                    "date": "2023-09-09",
+                    "description": "Withdrawal",
+                    "amount": 34868.09,
+                    "transaction_id": 28216071
+                },
+                {
+                    "date": "2024-02-06",
+                    "description": "Interest",
+                    "amount": 31799.24,
+                    "transaction_id": 28784153
+                },
+                {
+                    "date": "2024-01-18",
+                    "description": "Deposit",
+                    "amount": 23526.74,
+                    "transaction_id": 88139187
+                }
+            ]
+        }
+    }
+}

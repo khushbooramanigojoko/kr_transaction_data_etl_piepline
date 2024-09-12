@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Erin Fry",
+        "age": 51,
+        "gender": "female",
+        "address": "11123 Alexander Brooks, South Mario, NC 27121",
+        "phone": "9907960098",
+        "email": "mcdanieljessica@example.com",
+        "account": {
+            "account_number": "9809cfa8-2659-4bb8-8852-0868a06905a9",
+            "balance": 45274.89,
+            "transactions": [
+                {
+                    "date": "2022-09-10",
+                    "description": "Deposit",
+                    "amount": 21471.97,
+                    "transaction_id": 63644940
+                }
+            ]
+        }
+    }
+}

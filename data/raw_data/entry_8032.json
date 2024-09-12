@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Scott Shelton",
+        "age": 96,
+        "gender": "male",
+        "address": "065 Jason Garden Suite 755, Walkerstad, NV 04148",
+        "phone": "6004466623",
+        "email": "stephenskathleen@example.com",
+        "account": {
+            "account_number": "48ad1196-04e5-4517-90d6-2b65e6f79d83",
+            "balance": 15146.6,
+            "transactions": [
+                {
+                    "date": "2023-02-12",
+                    "description": "Deposit",
+                    "amount": 5800.7,
+                    "transaction_id": 49070518
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Interest",
+                    "amount": 14038.93,
+                    "transaction_id": 78678870
+                }
+            ]
+        }
+    }
+}

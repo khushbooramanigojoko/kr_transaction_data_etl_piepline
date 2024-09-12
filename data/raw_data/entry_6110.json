@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Douglas Harrison",
+        "age": 29,
+        "gender": "female",
+        "address": "00533 Curtis Trail Suite 035, Spencerland, MP 02457",
+        "phone": "5007485835",
+        "email": "kaufmanraymond@example.org",
+        "account": {
+            "account_number": "0af0f4b9-33c3-4a3a-881d-f3aed79afbc8",
+            "balance": 2745.14,
+            "transactions": [
+                {
+                    "date": "2024-01-25",
+                    "description": "Interest",
+                    "amount": 18290.97,
+                    "transaction_id": 28669711
+                },
+                {
+                    "date": "2023-07-25",
+                    "description": "Interest",
+                    "amount": 8872.11,
+                    "transaction_id": 55786801
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Withdrawal",
+                    "amount": 6851.76,
+                    "transaction_id": 5416057
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Deposit",
+                    "amount": 47882.43,
+                    "transaction_id": 55133818
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Interest",
+                    "amount": 2196.08,
+                    "transaction_id": 67762582
+                }
+            ]
+        }
+    }
+}

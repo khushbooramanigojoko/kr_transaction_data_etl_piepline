@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Gina Martin",
+        "age": 51,
+        "gender": "female",
+        "address": "461 Marc Fork Suite 373, New Jonathanshire, FL 51788",
+        "phone": "001-629-426-2498",
+        "email": "drobinson@example.com",
+        "account": {
+            "account_number": "a8b01b76-e4df-4c36-91d7-a2e269c33212",
+            "balance": 42188.12,
+            "transactions": [
+                {
+                    "date": "2024-01-28",
+                    "description": "Withdrawal",
+                    "amount": 33140.76,
+                    "transaction_id": 26568936
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Deposit",
+                    "amount": 37541.81,
+                    "transaction_id": 41145702
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Withdrawal",
+                    "amount": 45327.25,
+                    "transaction_id": 11393624
+                },
+                {
+                    "date": "2023-12-19",
+                    "description": "Deposit",
+                    "amount": 34659.42,
+                    "transaction_id": 69790916
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Deposit",
+                    "amount": 24860.51,
+                    "transaction_id": 28556215
+                }
+            ]
+        }
+    }
+}

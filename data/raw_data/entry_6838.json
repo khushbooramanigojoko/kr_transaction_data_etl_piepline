@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Adam Molina",
+        "age": 29,
+        "gender": "female",
+        "address": "97588 Christina Lodge Suite 226, Lunaland, SC 52380",
+        "phone": "(830)599-4142x982",
+        "email": "thomasrichard@example.com",
+        "account": {
+            "account_number": "4e99e997-1190-40e0-a2c8-6ede4b69cc74",
+            "balance": 31053.83,
+            "transactions": [
+                {
+                    "date": "2023-03-18",
+                    "description": "Deposit",
+                    "amount": 5090.31,
+                    "transaction_id": 53812408
+                }
+            ]
+        }
+    }
+}

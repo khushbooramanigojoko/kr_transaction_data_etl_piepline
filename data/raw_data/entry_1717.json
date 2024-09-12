@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Antonio Pitts",
+        "age": 72,
+        "gender": "male",
+        "address": "Unit 1831 Box 9388, DPO AE 57607",
+        "phone": "001-403-232-1707x574",
+        "email": "holmespatricia@example.org",
+        "account": {
+            "account_number": "e4914cf7-df33-4451-bfcb-537cf3459424",
+            "balance": 26996.11,
+            "transactions": [
+                {
+                    "date": "2024-07-21",
+                    "description": "Deposit",
+                    "amount": 30221.16,
+                    "transaction_id": 30829452
+                },
+                {
+                    "date": "2023-06-28",
+                    "description": "Deposit",
+                    "amount": 41437.72,
+                    "transaction_id": 111439220
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Withdrawal",
+                    "amount": 45540.68,
+                    "transaction_id": 39234100
+                }
+            ]
+        }
+    }
+}

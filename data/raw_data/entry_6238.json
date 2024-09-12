@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Alexander Lin",
+        "age": 32,
+        "gender": "female",
+        "address": "470 Winters Manors Suite 551, Smithmouth, NY 09024",
+        "phone": "(716)561-1702x8796",
+        "email": "timothyperez@example.org",
+        "account": {
+            "account_number": "9052d65a-7163-41b7-8d94-a88b3c8fa728",
+            "balance": 26159.89,
+            "transactions": [
+                {
+                    "date": "2022-11-16",
+                    "description": "Deposit",
+                    "amount": 39431.68,
+                    "transaction_id": 53659430
+                },
+                {
+                    "date": "2022-11-24",
+                    "description": "Withdrawal",
+                    "amount": 22617.71,
+                    "transaction_id": 83479318
+                }
+            ]
+        }
+    }
+}

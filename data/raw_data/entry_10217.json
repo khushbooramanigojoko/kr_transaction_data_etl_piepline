@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 30,
+        "gender": "male",
+        "address": "55455 Singh View Suite 397, Morrowside, AL 46058",
+        "phone": "830.722.6064",
+        "email": "rhonda05@example.org",
+        "account": {
+            "account_number": "90d9c5b1-48b7-4f7a-876c-b93ede7f82d7",
+            "balance": 30790.37,
+            "transactions": [
+                {
+                    "date": "2023-05-03",
+                    "description": "Deposit",
+                    "amount": 4815.56,
+                    "transaction_id": 49500994
+                }
+            ]
+        }
+    }
+}

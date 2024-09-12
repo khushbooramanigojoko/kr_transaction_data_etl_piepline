@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Smith",
+        "age": 48,
+        "gender": "female",
+        "address": "71126 Shaffer Mountain Suite 267, Marcoburgh, MN 48619",
+        "phone": "929-430-4036x70002",
+        "email": "carrie17@example.net",
+        "account": {
+            "account_number": "1b821ee6-de71-48c4-a503-a0c285d18e77",
+            "balance": 27733.45,
+            "transactions": [
+                {
+                    "date": "2024-04-07",
+                    "description": "Withdrawal",
+                    "amount": 29318.87,
+                    "transaction_id": 59491140
+                }
+            ]
+        }
+    }
+}

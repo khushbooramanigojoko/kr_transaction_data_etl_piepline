@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Shari Walker",
+        "age": 76,
+        "gender": "female",
+        "address": "81401 Joshua Cove Apt. 277, West Francesside, WV 07266",
+        "phone": "486-560-8285",
+        "email": "jeffreymartinez@example.com",
+        "account": {
+            "account_number": "1a1ee608-f694-4ae6-8792-1f668c35c331",
+            "balance": 24040.51,
+            "transactions": [
+                {
+                    "date": "2023-01-13",
+                    "description": "Interest",
+                    "amount": 11417.07,
+                    "transaction_id": 65616256
+                }
+            ]
+        }
+    }
+}

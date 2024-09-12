@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kelly Perez",
+        "age": 41,
+        "gender": "male",
+        "address": "2846 Evan Park Apt. 721, Lake Kenneth, FM 89204",
+        "phone": "+1-949-715-3499x9748",
+        "email": "joel46@example.org",
+        "account": {
+            "account_number": "310fb73f-cfd7-47b8-8213-5e341a38e0ba",
+            "balance": 30108.94,
+            "transactions": [
+                {
+                    "date": "2023-01-01",
+                    "description": "Withdrawal",
+                    "amount": 18067.57,
+                    "transaction_id": 36929270
+                }
+            ]
+        }
+    }
+}

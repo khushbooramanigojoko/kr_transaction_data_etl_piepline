@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Carol Miller",
+        "age": 43,
+        "gender": "female",
+        "address": "0917 Fields Loaf, East Raymond, OK 42431",
+        "phone": "(505)506-9186x8920",
+        "email": "ernestmills@example.org",
+        "account": {
+            "account_number": "ca684965-1fe4-41ba-8886-8810062566cf",
+            "balance": 4406.79,
+            "transactions": [
+                {
+                    "date": "2022-12-24",
+                    "description": "Deposit",
+                    "amount": 27875.17,
+                    "transaction_id": 69921391
+                },
+                {
+                    "date": "2024-02-10",
+                    "description": "Deposit",
+                    "amount": 35327.54,
+                    "transaction_id": 90455086
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Interest",
+                    "amount": 35324.25,
+                    "transaction_id": 30667446
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Withdrawal",
+                    "amount": 26090.68,
+                    "transaction_id": 10277153
+                },
+                {
+                    "date": "2023-04-03",
+                    "description": "Withdrawal",
+                    "amount": 446.93,
+                    "transaction_id": 69548561
+                }
+            ]
+        }
+    }
+}

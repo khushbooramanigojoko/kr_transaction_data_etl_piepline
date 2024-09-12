@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Johnson",
+        "age": 26,
+        "gender": "female",
+        "address": "8515 Chase Locks Suite 898, New Aaron, MH 32283",
+        "phone": "583.735.4081x7705",
+        "email": "reneebrady@example.com",
+        "account": {
+            "account_number": "bf389855-91d3-4598-878f-d3a5ba78d333",
+            "balance": 45287.85,
+            "transactions": [
+                {
+                    "date": "2023-02-26",
+                    "description": "Deposit",
+                    "amount": 32668.21,
+                    "transaction_id": 108392655
+                },
+                {
+                    "date": "2022-10-18",
+                    "description": "Withdrawal",
+                    "amount": 42215.12,
+                    "transaction_id": 113839815
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Deposit",
+                    "amount": 21984.18,
+                    "transaction_id": 29129746
+                },
+                {
+                    "date": "2024-03-20",
+                    "description": "Deposit",
+                    "amount": 23752.79,
+                    "transaction_id": 99768050
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Interest",
+                    "amount": 36274.88,
+                    "transaction_id": 48903191
+                }
+            ]
+        }
+    }
+}

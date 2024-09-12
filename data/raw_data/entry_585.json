@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joshua Lynch",
+        "age": 82,
+        "gender": "male",
+        "address": "43544 Schmidt Road Apt. 154, Dianaburgh, GA 98601",
+        "phone": "289.792.3187x037",
+        "email": "kmccullough@example.com",
+        "account": {
+            "account_number": "dbf46c8e-3b1b-4deb-a0d5-c1edad1324f6",
+            "balance": 37868.04,
+            "transactions": [
+                {
+                    "date": "2023-01-26",
+                    "description": "Withdrawal",
+                    "amount": 16870.5,
+                    "transaction_id": 12521516
+                },
+                {
+                    "date": "2024-06-17",
+                    "description": "Deposit",
+                    "amount": 24171.83,
+                    "transaction_id": 50704454
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Interest",
+                    "amount": 37326.84,
+                    "transaction_id": 68734528
+                }
+            ]
+        }
+    }
+}

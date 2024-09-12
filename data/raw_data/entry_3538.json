@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sarah Garcia",
+        "age": 55,
+        "gender": "female",
+        "address": "Unit 7475 Box 2539, DPO AA 79571",
+        "phone": "813.277.9680x8985",
+        "email": "williamerickson@example.net",
+        "account": {
+            "account_number": "e3f9d27c-d8b2-4ce2-854a-93f9163fa666",
+            "balance": 38191.86,
+            "transactions": [
+                {
+                    "date": "2023-01-18",
+                    "description": "Interest",
+                    "amount": 35006.92,
+                    "transaction_id": 89524008
+                }
+            ]
+        }
+    }
+}

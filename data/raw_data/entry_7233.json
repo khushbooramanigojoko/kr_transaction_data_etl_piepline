@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rhonda Beltran",
+        "age": 21,
+        "gender": "male",
+        "address": "USCGC Olsen, FPO AA 59664",
+        "phone": "473.356.9646x334",
+        "email": "phillipsdaniel@example.net",
+        "account": {
+            "account_number": "0a675537-73a7-489c-84d6-b23357c314cf",
+            "balance": 2976.65,
+            "transactions": [
+                {
+                    "date": "2023-11-11",
+                    "description": "Interest",
+                    "amount": 36174.2,
+                    "transaction_id": 27628899
+                }
+            ]
+        }
+    }
+}

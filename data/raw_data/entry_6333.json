@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joe Moore",
+        "age": 72,
+        "gender": "female",
+        "address": "165 Martinez Mountains, Mariebury, KS 54638",
+        "phone": "(465)782-3532x294",
+        "email": "egarner@example.com",
+        "account": {
+            "account_number": "c4e5f9ec-6e01-40b1-a61f-8d2234709a4e",
+            "balance": 49425.14,
+            "transactions": [
+                {
+                    "date": "2024-05-20",
+                    "description": "Deposit",
+                    "amount": 26654.52,
+                    "transaction_id": 102881535
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Withdrawal",
+                    "amount": 17910.32,
+                    "transaction_id": 100827843
+                }
+            ]
+        }
+    }
+}

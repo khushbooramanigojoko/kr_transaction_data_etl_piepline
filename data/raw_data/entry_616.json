@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Caitlyn Mcdaniel",
+        "age": 50,
+        "gender": "male",
+        "address": "918 Kevin Port Apt. 822, Drewfurt, TN 76594",
+        "phone": "+1-861-774-5813x11251",
+        "email": "william46@example.com",
+        "account": {
+            "account_number": "f77100e6-5050-4dbe-bc9f-27d05e6a3048",
+            "balance": 41374.4,
+            "transactions": [
+                {
+                    "date": "2023-01-27",
+                    "description": "Deposit",
+                    "amount": 5322.64,
+                    "transaction_id": 72200883
+                }
+            ]
+        }
+    }
+}

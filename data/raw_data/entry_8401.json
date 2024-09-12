@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tina Obrien",
+        "age": 84,
+        "gender": "female",
+        "address": "009 Baker Inlet Suite 011, New Ronald, AR 10135",
+        "phone": "996-507-0512x523",
+        "email": "ewilliamson@example.com",
+        "account": {
+            "account_number": "9eab1041-7f88-4ae0-a86c-977b2f73c1c7",
+            "balance": 16337.98,
+            "transactions": [
+                {
+                    "date": "2023-11-07",
+                    "description": "Withdrawal",
+                    "amount": 22375.78,
+                    "transaction_id": 86509437
+                },
+                {
+                    "date": "2023-09-04",
+                    "description": "Interest",
+                    "amount": 41432.57,
+                    "transaction_id": 7192165
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Interest",
+                    "amount": 1414.9,
+                    "transaction_id": 65940392
+                },
+                {
+                    "date": "2022-12-29",
+                    "description": "Deposit",
+                    "amount": 43101.89,
+                    "transaction_id": 88485404
+                }
+            ]
+        }
+    }
+}

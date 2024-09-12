@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alex Goodman DDS",
+        "age": 80,
+        "gender": "male",
+        "address": "215 Garrett Stravenue, Port Jeffreymouth, MI 70199",
+        "phone": "674.989.7569x0314",
+        "email": "dblake@example.org",
+        "account": {
+            "account_number": "1f82848c-3346-4027-866b-a5fb01973447",
+            "balance": 48798.4,
+            "transactions": [
+                {
+                    "date": "2023-09-02",
+                    "description": "Interest",
+                    "amount": 42556.57,
+                    "transaction_id": 23042070
+                }
+            ]
+        }
+    }
+}

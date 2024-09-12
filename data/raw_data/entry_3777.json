@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Scott Conrad",
+        "age": 46,
+        "gender": "female",
+        "address": "USNS Hess, FPO AA 89667",
+        "phone": "991.657.0502",
+        "email": "lawrence49@example.net",
+        "account": {
+            "account_number": "1feab1fa-0d7f-4085-a512-41a7e62f8b6e",
+            "balance": 21620.54,
+            "transactions": [
+                {
+                    "date": "2022-10-08",
+                    "description": "Deposit",
+                    "amount": 32515.71,
+                    "transaction_id": 115291345
+                }
+            ]
+        }
+    }
+}

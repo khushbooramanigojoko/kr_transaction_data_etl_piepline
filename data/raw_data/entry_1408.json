@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Shannon Barajas",
+        "age": 89,
+        "gender": "female",
+        "address": "839 Tom Cliff Suite 815, East Michael, GA 80636",
+        "phone": "(373)783-9730x52841",
+        "email": "mitchelljean@example.org",
+        "account": {
+            "account_number": "4ad2ef29-d4f3-4694-ab3a-5d492d8f25a9",
+            "balance": 23285.55,
+            "transactions": [
+                {
+                    "date": "2024-06-30",
+                    "description": "Interest",
+                    "amount": 7503.84,
+                    "transaction_id": 88069948
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Withdrawal",
+                    "amount": 9658.73,
+                    "transaction_id": 103240662
+                },
+                {
+                    "date": "2023-01-08",
+                    "description": "Deposit",
+                    "amount": 36988.89,
+                    "transaction_id": 89545120
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Deposit",
+                    "amount": 40986.81,
+                    "transaction_id": 24838460
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Interest",
+                    "amount": 48802.56,
+                    "transaction_id": 92670587
+                }
+            ]
+        }
+    }
+}

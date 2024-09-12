@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Barrett",
+        "age": 87,
+        "gender": "female",
+        "address": "916 Smith Valleys, Martinbury, AL 26086",
+        "phone": "980-468-2802",
+        "email": "ssmith@example.net",
+        "account": {
+            "account_number": "a0d37b36-57e1-4b25-908c-68384e2eb270",
+            "balance": 35046.39,
+            "transactions": [
+                {
+                    "date": "2024-01-27",
+                    "description": "Withdrawal",
+                    "amount": 43702.51,
+                    "transaction_id": 10933584
+                },
+                {
+                    "date": "2023-07-10",
+                    "description": "Deposit",
+                    "amount": 34992.81,
+                    "transaction_id": 27642813
+                }
+            ]
+        }
+    }
+}

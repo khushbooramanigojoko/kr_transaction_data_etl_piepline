@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Adam Smith",
+        "age": 44,
+        "gender": "male",
+        "address": "9118 Hutchinson Keys Apt. 580, Brandonburgh, DE 87251",
+        "phone": "302-788-8930x263",
+        "email": "james14@example.net",
+        "account": {
+            "account_number": "1879cc22-6989-4c08-b659-7ecd4e898f86",
+            "balance": 18474.37,
+            "transactions": [
+                {
+                    "date": "2024-05-30",
+                    "description": "Deposit",
+                    "amount": 45301.14,
+                    "transaction_id": 88190871
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Interest",
+                    "amount": 48445.83,
+                    "transaction_id": 115055878
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Withdrawal",
+                    "amount": 39363.98,
+                    "transaction_id": 106164917
+                }
+            ]
+        }
+    }
+}

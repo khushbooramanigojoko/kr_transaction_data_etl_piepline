@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Andrew Little",
+        "age": 28,
+        "gender": "male",
+        "address": "398 Pamela Green, Lake Heather, LA 32163",
+        "phone": "7547356212",
+        "email": "ujenkins@example.com",
+        "account": {
+            "account_number": "05269782-4332-4c3b-a9e2-293f3ba4170c",
+            "balance": 23338.35,
+            "transactions": [
+                {
+                    "date": "2023-06-07",
+                    "description": "Deposit",
+                    "amount": 11307.96,
+                    "transaction_id": 3997921
+                },
+                {
+                    "date": "2024-08-25",
+                    "description": "Deposit",
+                    "amount": 37897.73,
+                    "transaction_id": 47390111
+                },
+                {
+                    "date": "2023-03-06",
+                    "description": "Interest",
+                    "amount": 36336.84,
+                    "transaction_id": 26496387
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Deposit",
+                    "amount": 31625.13,
+                    "transaction_id": 15576273
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Deposit",
+                    "amount": 33482.48,
+                    "transaction_id": 112824467
+                }
+            ]
+        }
+    }
+}

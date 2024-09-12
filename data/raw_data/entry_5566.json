@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jessica Logan",
+        "age": 73,
+        "gender": "female",
+        "address": "385 Rosales Canyon Apt. 532, Port Michael, WV 61227",
+        "phone": "475.828.7095x159",
+        "email": "nguyencolton@example.com",
+        "account": {
+            "account_number": "36b105a8-a7a7-4010-a408-e195356149b3",
+            "balance": 26253.52,
+            "transactions": [
+                {
+                    "date": "2024-08-08",
+                    "description": "Interest",
+                    "amount": 43560.63,
+                    "transaction_id": 40695241
+                },
+                {
+                    "date": "2024-02-26",
+                    "description": "Interest",
+                    "amount": 21809.08,
+                    "transaction_id": 16010158
+                }
+            ]
+        }
+    }
+}

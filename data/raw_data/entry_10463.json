@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jeffery Christensen",
+        "age": 40,
+        "gender": "female",
+        "address": "79170 Watts Glens Suite 464, Lake Jonathan, MS 94808",
+        "phone": "858.901.1997x03772",
+        "email": "brettrodriguez@example.net",
+        "account": {
+            "account_number": "d8fb6349-f826-4ee4-bc3a-5751a94e78b7",
+            "balance": -31055.93,
+            "transactions": [
+                {
+                    "date": "2022-11-10",
+                    "description": "Interest",
+                    "amount": 4474.5,
+                    "transaction_id": 104722205
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Withdrawal",
+                    "amount": 4690.25,
+                    "transaction_id": 43671025
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Interest",
+                    "amount": -2534.95,
+                    "transaction_id": 27937131
+                }
+            ]
+        }
+    }
+}

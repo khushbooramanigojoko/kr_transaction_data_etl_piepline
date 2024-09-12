@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "James Ramos",
+        "age": 64,
+        "gender": "male",
+        "address": "970 Moore Dam, Port Amber, CO 28554",
+        "phone": "+1-988-797-5394x5419",
+        "email": "richardwood@example.com",
+        "account": {
+            "account_number": "1a4423f7-9646-4068-b206-1344b880c53b",
+            "balance": 8272.44,
+            "transactions": [
+                {
+                    "date": "2022-12-26",
+                    "description": "Interest",
+                    "amount": 4751.04,
+                    "transaction_id": 42674094
+                },
+                {
+                    "date": "2023-12-08",
+                    "description": "Interest",
+                    "amount": 10636.29,
+                    "transaction_id": 6959860
+                }
+            ]
+        }
+    }
+}

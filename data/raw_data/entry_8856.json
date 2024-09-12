@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joseph Villarreal",
+        "age": 21,
+        "gender": "female",
+        "address": "929 Aaron Lights, Traceychester, AZ 72190",
+        "phone": "729-519-0079",
+        "email": "joseshaw@example.com",
+        "account": {
+            "account_number": "76f22758-c607-4e5f-bfc5-a4580d0d5892",
+            "balance": -36631.39,
+            "transactions": [
+                {
+                    "date": "2023-12-02",
+                    "description": "Deposit",
+                    "amount": 3620.85,
+                    "transaction_id": 99882535
+                },
+                {
+                    "date": "2023-08-12",
+                    "description": "Deposit",
+                    "amount": -3414.89,
+                    "transaction_id": 42834433
+                }
+            ]
+        }
+    }
+}

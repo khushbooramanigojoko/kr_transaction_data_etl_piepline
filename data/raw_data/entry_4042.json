@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Victoria Mendez",
+        "age": 97,
+        "gender": "male",
+        "address": "89943 Christine Common Suite 071, Lauraview, ID 54145",
+        "phone": "663-474-8724",
+        "email": "tracy50@example.org",
+        "account": {
+            "account_number": "a8faf57b-996f-429e-aefe-6f9651a34b4a",
+            "balance": 25613.99,
+            "transactions": [
+                {
+                    "date": "2023-07-16",
+                    "description": "Deposit",
+                    "amount": 33190.05,
+                    "transaction_id": 12743540
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Interest",
+                    "amount": 24105.17,
+                    "transaction_id": 10433147
+                },
+                {
+                    "date": "2022-12-03",
+                    "description": "Interest",
+                    "amount": 7597.25,
+                    "transaction_id": 5680715
+                }
+            ]
+        }
+    }
+}

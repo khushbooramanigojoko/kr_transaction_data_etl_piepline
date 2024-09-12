@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jasmine Alexander",
+        "age": 82,
+        "gender": "male",
+        "address": "491 Adam Rapid Apt. 459, Adamstown, NH 06627",
+        "phone": "(765)466-0557",
+        "email": "torresjose@example.net",
+        "account": {
+            "account_number": "32d98d69-28ea-4c52-bf41-f0c567150d13",
+            "balance": 28401.9,
+            "transactions": [
+                {
+                    "date": "2023-04-29",
+                    "description": "Interest",
+                    "amount": 41175.65,
+                    "transaction_id": 11232626
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Deposit",
+                    "amount": 28350.19,
+                    "transaction_id": 31652766
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Interest",
+                    "amount": 28164.99,
+                    "transaction_id": 48843718
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Withdrawal",
+                    "amount": 23186.4,
+                    "transaction_id": 9296345
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Withdrawal",
+                    "amount": 47903.47,
+                    "transaction_id": 90466738
+                }
+            ]
+        }
+    }
+}

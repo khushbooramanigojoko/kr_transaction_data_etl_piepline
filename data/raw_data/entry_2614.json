@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brenda Lopez",
+        "age": 99,
+        "gender": "female",
+        "address": "21538 Hayes Brooks Suite 830, Gomezville, NV 94447",
+        "phone": "983-730-5976",
+        "email": "larry06@example.org",
+        "account": {
+            "account_number": "f640f71d-b5ab-4dfb-8d85-d579c38f14d4",
+            "balance": 7111.47,
+            "transactions": [
+                {
+                    "date": "2023-06-22",
+                    "description": "Interest",
+                    "amount": 10025.37,
+                    "transaction_id": 115998570
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Withdrawal",
+                    "amount": 31951.5,
+                    "transaction_id": 32640403
+                }
+            ]
+        }
+    }
+}

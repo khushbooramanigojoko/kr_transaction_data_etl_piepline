@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Erica Wise",
+        "age": 27,
+        "gender": "female",
+        "address": "USCGC Sanchez, FPO AA 75371",
+        "phone": "671-227-2529",
+        "email": "eringarcia@example.org",
+        "account": {
+            "account_number": "ffe84cd3-dba9-452e-aace-8f52fa63f8b5",
+            "balance": 24776.21,
+            "transactions": [
+                {
+                    "date": "2023-07-23",
+                    "description": "Interest",
+                    "amount": 18336.33,
+                    "transaction_id": 59172074
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Deposit",
+                    "amount": 8370.04,
+                    "transaction_id": 99717259
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Nicholas Mendoza",
+        "age": 63,
+        "gender": "male",
+        "address": "71736 Jeffrey Corner, Port Ryan, SC 03791",
+        "phone": "001-823-611-8335x93977",
+        "email": "brownian@example.com",
+        "account": {
+            "account_number": "6770469f-0f5c-4fe1-8e62-08b63a7352ec",
+            "balance": 41104.28,
+            "transactions": [
+                {
+                    "date": "2024-01-19",
+                    "description": "Deposit",
+                    "amount": 21244.82,
+                    "transaction_id": 68066204
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Deposit",
+                    "amount": 49006.37,
+                    "transaction_id": 77596688
+                },
+                {
+                    "date": "2024-04-01",
+                    "description": "Interest",
+                    "amount": 29115.19,
+                    "transaction_id": 69614704
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Robert French",
+        "age": 67,
+        "gender": "female",
+        "address": "97833 Farmer Creek, Roberttown, NH 67358",
+        "phone": "001-433-532-6665x676",
+        "email": "drodriguez@example.org",
+        "account": {
+            "account_number": "b09b3e74-32e5-417f-bd63-96f1b20bbbad",
+            "balance": 6011.13,
+            "transactions": [
+                {
+                    "date": "2023-12-22",
+                    "description": "Interest",
+                    "amount": 35525.81,
+                    "transaction_id": 116831790
+                }
+            ]
+        }
+    }
+}

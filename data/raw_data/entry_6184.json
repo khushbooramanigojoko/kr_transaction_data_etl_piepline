@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Angela Mcdonald",
+        "age": 87,
+        "gender": "female",
+        "address": "047 Daniel Valleys, Port Michael, NE 08735",
+        "phone": "876.430.8156",
+        "email": "cruzsabrina@example.com",
+        "account": {
+            "account_number": "a78e0446-1ff0-43f6-b08f-f94cb6b79a84",
+            "balance": 43224.32,
+            "transactions": [
+                {
+                    "date": "2024-06-25",
+                    "description": "Withdrawal",
+                    "amount": 30357.88,
+                    "transaction_id": 95689946
+                },
+                {
+                    "date": "2023-03-11",
+                    "description": "Withdrawal",
+                    "amount": 37605.64,
+                    "transaction_id": 11826314
+                }
+            ]
+        }
+    }
+}

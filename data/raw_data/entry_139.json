@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Dr. Jacqueline Kelly",
+        "age": 69,
+        "gender": "female",
+        "address": "89424 Wilson Park, Johnberg, VT 42131",
+        "phone": "+1-636-293-0529x4986",
+        "email": "umitchell@example.org",
+        "account": {
+            "account_number": "bd2a2501-ee2b-4894-a6ec-1f66592660fb",
+            "balance": 19813.89,
+            "transactions": [
+                {
+                    "date": "2023-07-31",
+                    "description": "Withdrawal",
+                    "amount": 13051.81,
+                    "transaction_id": 67030655
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Interest",
+                    "amount": 34578.3,
+                    "transaction_id": 42750933
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Withdrawal",
+                    "amount": 16268.09,
+                    "transaction_id": 83680193
+                }
+            ]
+        }
+    }
+}

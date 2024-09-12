@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Karen Burch",
+        "age": 42,
+        "gender": "male",
+        "address": "42278 Mary Lane, West Janettown, MH 51370",
+        "phone": "421.758.1280",
+        "email": "julielowe@example.org",
+        "account": {
+            "account_number": "e0634289-2edd-4895-afeb-fcc98f137bd1",
+            "balance": 16235.88,
+            "transactions": [
+                {
+                    "date": "2022-09-02",
+                    "description": "Deposit",
+                    "amount": 39253.05,
+                    "transaction_id": 79424482
+                },
+                {
+                    "date": "2022-11-01",
+                    "description": "Deposit",
+                    "amount": 20299.47,
+                    "transaction_id": 71205304
+                }
+            ]
+        }
+    }
+}

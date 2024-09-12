@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jessica Holmes",
+        "age": 74,
+        "gender": "male",
+        "address": "8023 Watson Plaza, East Kathrynborough, ID 81046",
+        "phone": "001-287-720-0201",
+        "email": "vmckee@example.net",
+        "account": {
+            "account_number": "166b2d1c-d438-4482-84eb-0884975da10a",
+            "balance": 14421.31,
+            "transactions": [
+                {
+                    "date": "2023-02-16",
+                    "description": "Deposit",
+                    "amount": 46716.13,
+                    "transaction_id": 14060962
+                },
+                {
+                    "date": "2023-10-16",
+                    "description": "Withdrawal",
+                    "amount": 26163.16,
+                    "transaction_id": 80490435
+                },
+                {
+                    "date": "2024-08-15",
+                    "description": "Withdrawal",
+                    "amount": 34933.03,
+                    "transaction_id": 113651906
+                }
+            ]
+        }
+    }
+}

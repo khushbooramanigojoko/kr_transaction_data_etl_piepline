@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Blake Davis",
+        "age": 23,
+        "gender": "male",
+        "address": "9858 Fields Meadow Suite 789, Thompsonmouth, LA 51935",
+        "phone": "858.877.0528x27467",
+        "email": "thomasanderson@example.com",
+        "account": {
+            "account_number": "0661234b-8a18-4021-9696-3d83b0cf69a5",
+            "balance": 30027.62,
+            "transactions": [
+                {
+                    "date": "2023-12-08",
+                    "description": "Withdrawal",
+                    "amount": 36854.86,
+                    "transaction_id": 90087088
+                }
+            ]
+        }
+    }
+}

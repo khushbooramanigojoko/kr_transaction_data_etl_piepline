@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Aaron Flores",
+        "age": 34,
+        "gender": "female",
+        "address": "32660 Shelly Trace, Martintown, FM 46695",
+        "phone": "864.731.7319x0594",
+        "email": "madison18@example.com",
+        "account": {
+            "account_number": "ccc16d67-17ce-495a-890c-e9a6a7a2f0c3",
+            "balance": -22125.66,
+            "transactions": [
+                {
+                    "date": "2024-07-04",
+                    "description": "Interest",
+                    "amount": 4528.68,
+                    "transaction_id": 24627026
+                }
+            ]
+        }
+    }
+}

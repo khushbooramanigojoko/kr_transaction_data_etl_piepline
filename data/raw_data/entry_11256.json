@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 59,
+        "gender": "female",
+        "address": "0330 John Parks Apt. 892, Aaronbury, MI 85176",
+        "phone": "762.978.0322",
+        "email": "rachel01@example.com",
+        "account": {
+            "account_number": "da4a1941-be93-4954-84dc-d55076681929",
+            "balance": 43619.09,
+            "transactions": [
+                {
+                    "date": "2023-05-14",
+                    "description": "Interest",
+                    "amount": -3140.04,
+                    "transaction_id": 57792582
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Deposit",
+                    "amount": 347.57,
+                    "transaction_id": 12968728
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Withdrawal",
+                    "amount": -4148.83,
+                    "transaction_id": 69437298
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Interest",
+                    "amount": -1673.5,
+                    "transaction_id": 57807669
+                }
+            ]
+        }
+    }
+}

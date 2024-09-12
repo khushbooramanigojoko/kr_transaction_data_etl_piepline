@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Nicole Wolfe",
+        "age": 98,
+        "gender": "female",
+        "address": "836 Michael Bypass Suite 555, Hendricksland, MD 01366",
+        "phone": "(336)781-5594x25349",
+        "email": "cookjason@example.org",
+        "account": {
+            "account_number": "7ab52ac9-52fd-4785-9dfd-5c7f3724871b",
+            "balance": 23220.74,
+            "transactions": [
+                {
+                    "date": "2023-05-14",
+                    "description": "Deposit",
+                    "amount": 17250.72,
+                    "transaction_id": 43243658
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Withdrawal",
+                    "amount": 3638.19,
+                    "transaction_id": 66177257
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Deposit",
+                    "amount": 13761.51,
+                    "transaction_id": 67993577
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Steven Barajas",
+        "age": 44,
+        "gender": "male",
+        "address": "227 Ferguson Key Apt. 173, Lake Beth, FL 08373",
+        "phone": "001-255-463-3050x508",
+        "email": "hawkinsmark@example.org",
+        "account": {
+            "account_number": "d632fdea-27c7-487b-9860-dca18f51b3e2",
+            "balance": 39056.31,
+            "transactions": [
+                {
+                    "date": "2024-04-18",
+                    "description": "Withdrawal",
+                    "amount": 15238.29,
+                    "transaction_id": 43234555
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Interest",
+                    "amount": 37846.4,
+                    "transaction_id": 17627329
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Interest",
+                    "amount": 29087.93,
+                    "transaction_id": 50663150
+                }
+            ]
+        }
+    }
+}

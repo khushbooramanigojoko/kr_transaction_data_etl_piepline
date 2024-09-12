@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Lori Hansen",
+        "age": 62,
+        "gender": "male",
+        "address": "403 Schmidt Passage Apt. 222, Greenfort, MS 85679",
+        "phone": "(225)427-8969",
+        "email": "rperry@example.net",
+        "account": {
+            "account_number": "f09d2b72-715a-401b-905d-813cf0df75d3",
+            "balance": 41171.76,
+            "transactions": [
+                {
+                    "date": "2023-06-05",
+                    "description": "Interest",
+                    "amount": 29165.61,
+                    "transaction_id": 13668606
+                },
+                {
+                    "date": "2023-06-26",
+                    "description": "Deposit",
+                    "amount": 7727.1,
+                    "transaction_id": 74709218
+                },
+                {
+                    "date": "2022-12-22",
+                    "description": "Interest",
+                    "amount": 41848.69,
+                    "transaction_id": 78834605
+                },
+                {
+                    "date": "2024-04-10",
+                    "description": "Deposit",
+                    "amount": 24850.13,
+                    "transaction_id": 71319071
+                },
+                {
+                    "date": "2023-04-14",
+                    "description": "Withdrawal",
+                    "amount": 2470.45,
+                    "transaction_id": 60669423
+                }
+            ]
+        }
+    }
+}

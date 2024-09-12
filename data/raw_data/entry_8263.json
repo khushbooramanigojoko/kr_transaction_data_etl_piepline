@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Leslie Mcdonald",
+        "age": 27,
+        "gender": "male",
+        "address": "USNS Clark, FPO AE 30584",
+        "phone": "517-882-6216",
+        "email": "abrown@example.org",
+        "account": {
+            "account_number": "5d6f5b96-6c78-4a53-8f90-2ae52190347f",
+            "balance": 28758.48,
+            "transactions": [
+                {
+                    "date": "2023-01-25",
+                    "description": "Deposit",
+                    "amount": 28331.05,
+                    "transaction_id": 47664191
+                }
+            ]
+        }
+    }
+}

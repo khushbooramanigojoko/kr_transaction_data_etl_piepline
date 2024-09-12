@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 64,
+        "gender": "female",
+        "address": "925 Lynch Freeway Apt. 723, Jaclynview, OK 60389",
+        "phone": "298.612.7590x2384",
+        "email": "eric50@example.com",
+        "account": {
+            "account_number": "7159ef87-1930-4568-b899-36157feedfb8",
+            "balance": 40559.81,
+            "transactions": [
+                {
+                    "date": "2024-04-23",
+                    "description": "Interest",
+                    "amount": 4980.99,
+                    "transaction_id": 119803517
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Withdrawal",
+                    "amount": 4690.18,
+                    "transaction_id": 17531471
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Withdrawal",
+                    "amount": -2484.55,
+                    "transaction_id": 40530528
+                }
+            ]
+        }
+    }
+}

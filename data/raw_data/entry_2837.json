@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Rachel Davis",
+        "age": 41,
+        "gender": "male",
+        "address": "75430 Antonio Island Suite 540, Williamsshire, VA 78050",
+        "phone": "598-739-1531x50313",
+        "email": "rhall@example.org",
+        "account": {
+            "account_number": "b88fbd3c-7950-4125-b2dd-8d18d34c0284",
+            "balance": 40164.81,
+            "transactions": [
+                {
+                    "date": "2023-11-17",
+                    "description": "Interest",
+                    "amount": 36720.51,
+                    "transaction_id": 112863990
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Deposit",
+                    "amount": 7664.06,
+                    "transaction_id": 99010786
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Deposit",
+                    "amount": 10242.85,
+                    "transaction_id": 69073178
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Interest",
+                    "amount": 6691.98,
+                    "transaction_id": 109376963
+                },
+                {
+                    "date": "2023-12-21",
+                    "description": "Deposit",
+                    "amount": 42840.66,
+                    "transaction_id": 32959576
+                }
+            ]
+        }
+    }
+}

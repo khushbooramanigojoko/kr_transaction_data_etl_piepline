@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "James Roberson",
+        "age": 67,
+        "gender": "female",
+        "address": "822 Ryan Park Apt. 268, Lake Loriberg, VT 76962",
+        "phone": "(449)710-3765x94618",
+        "email": "mitchellyolanda@example.com",
+        "account": {
+            "account_number": "78dcfc23-2f69-49ab-b79d-44af56f03be1",
+            "balance": 33650.95,
+            "transactions": [
+                {
+                    "date": "2024-06-11",
+                    "description": "Deposit",
+                    "amount": 37601.52,
+                    "transaction_id": 25015228
+                },
+                {
+                    "date": "2024-06-20",
+                    "description": "Deposit",
+                    "amount": 9728.81,
+                    "transaction_id": 93502428
+                },
+                {
+                    "date": "2022-12-20",
+                    "description": "Deposit",
+                    "amount": 25330.2,
+                    "transaction_id": 75518741
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Interest",
+                    "amount": 47729.79,
+                    "transaction_id": 17557811
+                }
+            ]
+        }
+    }
+}

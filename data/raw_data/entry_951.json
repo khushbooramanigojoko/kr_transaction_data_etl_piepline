@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jonathan Richards",
+        "age": 46,
+        "gender": "female",
+        "address": "193 Scott Mission Apt. 434, South Courtneyshire, ME 03573",
+        "phone": "(615)350-9739x3333",
+        "email": "xalexander@example.com",
+        "account": {
+            "account_number": "6c5fca99-6bcb-4c98-9383-9d01cec2f688",
+            "balance": 47707.08,
+            "transactions": [
+                {
+                    "date": "2023-05-19",
+                    "description": "Withdrawal",
+                    "amount": 1335.02,
+                    "transaction_id": 108907695
+                }
+            ]
+        }
+    }
+}

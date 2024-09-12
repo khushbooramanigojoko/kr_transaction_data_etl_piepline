@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jeffrey Simpson",
+        "age": 82,
+        "gender": "female",
+        "address": "71229 Williams Drive Suite 022, Jessicaside, CT 97947",
+        "phone": "771-249-6472x489",
+        "email": "heather46@example.com",
+        "account": {
+            "account_number": "dca8356f-d90a-4cda-9372-de9f57a9fb27",
+            "balance": -38366.59,
+            "transactions": [
+                {
+                    "date": "2024-07-03",
+                    "description": "Interest",
+                    "amount": -2232.24,
+                    "transaction_id": 115263357
+                },
+                {
+                    "date": "2024-06-21",
+                    "description": "Deposit",
+                    "amount": 1467.31,
+                    "transaction_id": 43586619
+                }
+            ]
+        }
+    }
+}

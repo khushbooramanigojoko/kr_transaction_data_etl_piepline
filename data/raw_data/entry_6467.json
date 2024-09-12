@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alex Walker",
+        "age": 26,
+        "gender": "female",
+        "address": "6224 Kelly Parkway Suite 248, New Jenniferside, IA 98520",
+        "phone": "732.971.3049",
+        "email": "jennifer24@example.org",
+        "account": {
+            "account_number": "9d43e68f-0df5-4475-be25-1ea44eb86afa",
+            "balance": 38715.74,
+            "transactions": [
+                {
+                    "date": "2024-06-29",
+                    "description": "Withdrawal",
+                    "amount": 2023.39,
+                    "transaction_id": 14619050
+                },
+                {
+                    "date": "2024-03-26",
+                    "description": "Withdrawal",
+                    "amount": 20866.45,
+                    "transaction_id": 102428076
+                },
+                {
+                    "date": "2024-03-05",
+                    "description": "Interest",
+                    "amount": 7608.96,
+                    "transaction_id": 55763318
+                },
+                {
+                    "date": "2024-03-20",
+                    "description": "Deposit",
+                    "amount": 34043.82,
+                    "transaction_id": 36160227
+                }
+            ]
+        }
+    }
+}

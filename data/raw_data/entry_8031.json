@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Matthew Gonzalez",
+        "age": 53,
+        "gender": "female",
+        "address": "227 Jenkins Extensions, East Kentfurt, VT 37428",
+        "phone": "210-882-1764",
+        "email": "barbara80@example.org",
+        "account": {
+            "account_number": "db9daa68-39ee-447a-8313-bfc506a6a99e",
+            "balance": 17213.74,
+            "transactions": [
+                {
+                    "date": "2023-09-29",
+                    "description": "Interest",
+                    "amount": 32793.36,
+                    "transaction_id": 97420468
+                },
+                {
+                    "date": "2023-09-24",
+                    "description": "Deposit",
+                    "amount": 34662.27,
+                    "transaction_id": 10958125
+                },
+                {
+                    "date": "2023-02-18",
+                    "description": "Interest",
+                    "amount": 38840.4,
+                    "transaction_id": 103695716
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Withdrawal",
+                    "amount": 36521.52,
+                    "transaction_id": 100588974
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Deposit",
+                    "amount": 19386.12,
+                    "transaction_id": 21316102
+                }
+            ]
+        }
+    }
+}

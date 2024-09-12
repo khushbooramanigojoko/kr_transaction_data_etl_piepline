@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Elizabeth Ford",
+        "age": 40,
+        "gender": "male",
+        "address": "USNS Robbins, FPO AA 45457",
+        "phone": "645-397-3421x75367",
+        "email": "andrea37@example.org",
+        "account": {
+            "account_number": "2485b951-e4aa-456c-8eea-4eec9c641586",
+            "balance": 40492.6,
+            "transactions": [
+                {
+                    "date": "2024-02-12",
+                    "description": "Deposit",
+                    "amount": 41523.75,
+                    "transaction_id": 54483050
+                },
+                {
+                    "date": "2023-09-21",
+                    "description": "Withdrawal",
+                    "amount": 38334.1,
+                    "transaction_id": 45818314
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Deposit",
+                    "amount": 4810.33,
+                    "transaction_id": 97276327
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Withdrawal",
+                    "amount": 33303.09,
+                    "transaction_id": 24004535
+                }
+            ]
+        }
+    }
+}

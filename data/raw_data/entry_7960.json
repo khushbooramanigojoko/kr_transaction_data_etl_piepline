@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joanna Lee",
+        "age": 94,
+        "gender": "female",
+        "address": "181 Zachary Ford Suite 393, Jeffreyfort, CO 30506",
+        "phone": "524-250-8003x1302",
+        "email": "rebecca41@example.org",
+        "account": {
+            "account_number": "37f090ed-9f32-4844-9d3d-7d22de1f119d",
+            "balance": 20346.1,
+            "transactions": [
+                {
+                    "date": "2022-12-18",
+                    "description": "Deposit",
+                    "amount": 13246.85,
+                    "transaction_id": 101461478
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Withdrawal",
+                    "amount": 14525.16,
+                    "transaction_id": 47136072
+                }
+            ]
+        }
+    }
+}

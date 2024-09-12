@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Phillip Thomas",
+        "age": 38,
+        "gender": "female",
+        "address": "9119 Sharon Passage Suite 072, West Heidimouth, OR 10248",
+        "phone": "+1-623-880-6432x65492",
+        "email": "dmartin@example.com",
+        "account": {
+            "account_number": "a09f42c2-5532-4910-abf7-e11667646e89",
+            "balance": 23427.45,
+            "transactions": [
+                {
+                    "date": "2024-07-24",
+                    "description": "Deposit",
+                    "amount": 31247.21,
+                    "transaction_id": 112952371
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Deposit",
+                    "amount": 42691.87,
+                    "transaction_id": 31414666
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Interest",
+                    "amount": 47694.97,
+                    "transaction_id": 74736252
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Withdrawal",
+                    "amount": 6845.16,
+                    "transaction_id": 55490297
+                }
+            ]
+        }
+    }
+}

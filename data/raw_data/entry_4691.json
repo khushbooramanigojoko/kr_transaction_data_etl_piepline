@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Wilson",
+        "age": 94,
+        "gender": "female",
+        "address": "411 Janice Tunnel, Katiebury, RI 03249",
+        "phone": "(417)923-0424x1838",
+        "email": "stephensscott@example.org",
+        "account": {
+            "account_number": "b207fd1a-03db-4c8a-be9e-fe2824cec089",
+            "balance": 27860.09,
+            "transactions": [
+                {
+                    "date": "2023-01-09",
+                    "description": "Deposit",
+                    "amount": 36102.01,
+                    "transaction_id": 88730325
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Withdrawal",
+                    "amount": 45832.41,
+                    "transaction_id": 35902150
+                }
+            ]
+        }
+    }
+}

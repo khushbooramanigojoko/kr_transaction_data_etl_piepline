@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Rebecca Bryant",
+        "age": 55,
+        "gender": "male",
+        "address": "1126 Taylor Via, Rodriguezton, AS 48830",
+        "phone": "001-508-251-7346",
+        "email": "richardmiller@example.com",
+        "account": {
+            "account_number": "cf15b0c8-6cd0-46fd-8012-ea7327a8ba08",
+            "balance": -18347.6,
+            "transactions": [
+                {
+                    "date": "2023-10-16",
+                    "description": "Deposit",
+                    "amount": -4412.37,
+                    "transaction_id": 33849716
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Interest",
+                    "amount": -3284.81,
+                    "transaction_id": 38976189
+                }
+            ]
+        }
+    }
+}

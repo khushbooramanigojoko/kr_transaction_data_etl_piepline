@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Cindy Buchanan",
+        "age": 54,
+        "gender": "female",
+        "address": "246 Davis Parks Apt. 857, Mcclureberg, WV 36626",
+        "phone": "443.383.4418",
+        "email": "cwhite@example.org",
+        "account": {
+            "account_number": "d784da3f-3b6b-4ad6-855d-186489bfb9bb",
+            "balance": 10577.73,
+            "transactions": [
+                {
+                    "date": "2022-10-31",
+                    "description": "Interest",
+                    "amount": 41448.41,
+                    "transaction_id": 82531909
+                },
+                {
+                    "date": "2022-11-17",
+                    "description": "Deposit",
+                    "amount": 18386.9,
+                    "transaction_id": 33961500
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jessica Mcgrath",
+        "age": 65,
+        "gender": "female",
+        "address": "30434 Jones Hollow, Gloverview, NH 67238",
+        "phone": "(279)558-1529",
+        "email": "rvargas@example.net",
+        "account": {
+            "account_number": "71eb1311-1d62-4419-a303-97b503d8d437",
+            "balance": -10051.28,
+            "transactions": [
+                {
+                    "date": "2023-08-22",
+                    "description": "Deposit",
+                    "amount": 1386.85,
+                    "transaction_id": 31894701
+                },
+                {
+                    "date": "2023-01-29",
+                    "description": "Interest",
+                    "amount": 2259.73,
+                    "transaction_id": 3311154
+                },
+                {
+                    "date": "2023-04-01",
+                    "description": "Withdrawal",
+                    "amount": 4963.25,
+                    "transaction_id": 60758795
+                }
+            ]
+        }
+    }
+}

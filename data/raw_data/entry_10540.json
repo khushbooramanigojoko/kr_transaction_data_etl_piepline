@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kayla Harrison",
+        "age": 22,
+        "gender": "male",
+        "address": "Unit 9824 Box 9252, DPO AE 24272",
+        "phone": "639-891-1192x528",
+        "email": "timothy52@example.net",
+        "account": {
+            "account_number": "6cac1361-846f-4ecc-8927-5341bc12b45b",
+            "balance": -7749.85,
+            "transactions": [
+                {
+                    "date": "2023-05-16",
+                    "description": "Withdrawal",
+                    "amount": 799.4,
+                    "transaction_id": 66470973
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Interest",
+                    "amount": -121.63,
+                    "transaction_id": 97657286
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Withdrawal",
+                    "amount": 3869.18,
+                    "transaction_id": 12217704
+                },
+                {
+                    "date": "2022-11-10",
+                    "description": "Deposit",
+                    "amount": 3143.45,
+                    "transaction_id": 60836392
+                }
+            ]
+        }
+    }
+}

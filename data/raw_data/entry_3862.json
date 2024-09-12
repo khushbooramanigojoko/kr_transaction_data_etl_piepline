@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Eric Martinez",
+        "age": 34,
+        "gender": "male",
+        "address": "1204 Rios Walk, Masonstad, OH 49147",
+        "phone": "001-773-405-7802x183",
+        "email": "victorhorn@example.com",
+        "account": {
+            "account_number": "83e9c9e0-453e-456f-a108-9741cb9d490f",
+            "balance": 36462.14,
+            "transactions": [
+                {
+                    "date": "2023-11-27",
+                    "description": "Interest",
+                    "amount": 26000.02,
+                    "transaction_id": 10707025
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Interest",
+                    "amount": 2309.08,
+                    "transaction_id": 19963416
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Withdrawal",
+                    "amount": 8108.19,
+                    "transaction_id": 91973637
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Interest",
+                    "amount": 13489.89,
+                    "transaction_id": 53310338
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Withdrawal",
+                    "amount": 16810.13,
+                    "transaction_id": 25588105
+                }
+            ]
+        }
+    }
+}

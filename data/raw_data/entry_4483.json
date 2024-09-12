@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Marie Gardner",
+        "age": 31,
+        "gender": "female",
+        "address": "592 Danny Flat Apt. 750, Tonyastad, HI 60816",
+        "phone": "+1-365-358-8745",
+        "email": "jonathanjackson@example.net",
+        "account": {
+            "account_number": "c3a32458-abf0-4a89-b7b0-532d7097224e",
+            "balance": 48371.44,
+            "transactions": [
+                {
+                    "date": "2023-04-25",
+                    "description": "Interest",
+                    "amount": 47318.85,
+                    "transaction_id": 91037154
+                },
+                {
+                    "date": "2022-09-28",
+                    "description": "Deposit",
+                    "amount": 13702.65,
+                    "transaction_id": 63956501
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Johnson",
+        "age": 91,
+        "gender": "male",
+        "address": "PSC 2139, Box 1101, APO AA 89926",
+        "phone": "+1-554-604-7513",
+        "email": "brooke31@example.com",
+        "account": {
+            "account_number": "2f6e99e3-0323-4c07-ad57-af57b37f1822",
+            "balance": 2602.07,
+            "transactions": [
+                {
+                    "date": "2023-08-12",
+                    "description": "Interest",
+                    "amount": 46588.34,
+                    "transaction_id": 57425758
+                },
+                {
+                    "date": "2023-04-04",
+                    "description": "Withdrawal",
+                    "amount": 14127.49,
+                    "transaction_id": 13474193
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Withdrawal",
+                    "amount": 34193.35,
+                    "transaction_id": 54226630
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Withdrawal",
+                    "amount": 48183.38,
+                    "transaction_id": 88932849
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Deposit",
+                    "amount": 43386.74,
+                    "transaction_id": 37515753
+                }
+            ]
+        }
+    }
+}

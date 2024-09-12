@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Stephen Black II",
+        "age": 87,
+        "gender": "female",
+        "address": "08112 Jeremy Road Suite 551, Mooreton, CT 51643",
+        "phone": "323.398.0865",
+        "email": "patriciasmith@example.net",
+        "account": {
+            "account_number": "7fc52bb7-2b97-438c-b3fa-00d8beec0ee9",
+            "balance": 43964.71,
+            "transactions": [
+                {
+                    "date": "2023-01-20",
+                    "description": "Withdrawal",
+                    "amount": 1560.2,
+                    "transaction_id": 84211176
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Interest",
+                    "amount": 41687.84,
+                    "transaction_id": 51838216
+                },
+                {
+                    "date": "2024-04-04",
+                    "description": "Withdrawal",
+                    "amount": 28493.17,
+                    "transaction_id": 85043435
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Withdrawal",
+                    "amount": 23598.57,
+                    "transaction_id": 28274438
+                },
+                {
+                    "date": "2023-02-27",
+                    "description": "Deposit",
+                    "amount": 31176.88,
+                    "transaction_id": 94284030
+                }
+            ]
+        }
+    }
+}

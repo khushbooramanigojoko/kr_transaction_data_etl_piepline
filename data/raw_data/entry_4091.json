@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sara Harmon",
+        "age": 73,
+        "gender": "male",
+        "address": "01668 Murray Mount, Gabrielleport, NC 61335",
+        "phone": "985.488.0933x40859",
+        "email": "glen62@example.org",
+        "account": {
+            "account_number": "516e1e94-1f9b-4fe9-b705-698915fb66da",
+            "balance": 7111.86,
+            "transactions": [
+                {
+                    "date": "2024-02-06",
+                    "description": "Deposit",
+                    "amount": 5401.81,
+                    "transaction_id": 57027317
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Interest",
+                    "amount": 2096.31,
+                    "transaction_id": 110163843
+                },
+                {
+                    "date": "2023-11-08",
+                    "description": "Interest",
+                    "amount": 29413.18,
+                    "transaction_id": 5918511
+                },
+                {
+                    "date": "2023-03-30",
+                    "description": "Deposit",
+                    "amount": 18054.8,
+                    "transaction_id": 40678319
+                }
+            ]
+        }
+    }
+}

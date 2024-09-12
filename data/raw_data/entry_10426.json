@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ryan Castro",
+        "age": 39,
+        "gender": "male",
+        "address": "Unit 7532 Box 8176, DPO AA 35175",
+        "phone": "642-660-1346x007",
+        "email": "lthompson@example.com",
+        "account": {
+            "account_number": "66907781-ddad-4e2d-8c5e-752d8e2307e0",
+            "balance": -11287.2,
+            "transactions": [
+                {
+                    "date": "2023-09-01",
+                    "description": "Interest",
+                    "amount": 2451.06,
+                    "transaction_id": 50010928
+                }
+            ]
+        }
+    }
+}

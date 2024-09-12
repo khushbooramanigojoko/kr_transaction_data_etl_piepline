@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christine Cox",
+        "age": 66,
+        "gender": "female",
+        "address": "9769 Richard Views, Danielchester, ID 57271",
+        "phone": "+1-652-717-1164",
+        "email": "nleonard@example.com",
+        "account": {
+            "account_number": "31c41036-edda-4b35-a4c3-009732cb7e8d",
+            "balance": 23973.08,
+            "transactions": [
+                {
+                    "date": "2023-08-08",
+                    "description": "Deposit",
+                    "amount": 42510.44,
+                    "transaction_id": 1032507
+                },
+                {
+                    "date": "2023-03-11",
+                    "description": "Interest",
+                    "amount": 19165.14,
+                    "transaction_id": 45235598
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Deposit",
+                    "amount": 15244.71,
+                    "transaction_id": 46384345
+                },
+                {
+                    "date": "2023-06-20",
+                    "description": "Deposit",
+                    "amount": 42485.17,
+                    "transaction_id": 97445569
+                },
+                {
+                    "date": "2024-02-23",
+                    "description": "Withdrawal",
+                    "amount": 14218.38,
+                    "transaction_id": 13268934
+                }
+            ]
+        }
+    }
+}

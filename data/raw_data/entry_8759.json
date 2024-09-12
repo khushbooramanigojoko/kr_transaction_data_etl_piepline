@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 85,
+        "gender": "female",
+        "address": "9705 Arias Park Apt. 370, Port Melissa, ND 04506",
+        "phone": "763.538.5405x6761",
+        "email": "hhughes@example.net",
+        "account": {
+            "account_number": "650d8cf8-850b-4f42-b61a-f99e7e97f1cd",
+            "balance": 20436.57,
+            "transactions": [
+                {
+                    "date": "2023-11-22",
+                    "description": "Interest",
+                    "amount": -2970.27,
+                    "transaction_id": 73260494
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Deposit",
+                    "amount": -3070.25,
+                    "transaction_id": 28781803
+                },
+                {
+                    "date": "2023-10-30",
+                    "description": "Interest",
+                    "amount": -1932.36,
+                    "transaction_id": 15330176
+                },
+                {
+                    "date": "2023-08-21",
+                    "description": "Interest",
+                    "amount": 1353.04,
+                    "transaction_id": 73558749
+                },
+                {
+                    "date": "2024-08-19",
+                    "description": "Interest",
+                    "amount": 4106.01,
+                    "transaction_id": 4800604
+                }
+            ]
+        }
+    }
+}

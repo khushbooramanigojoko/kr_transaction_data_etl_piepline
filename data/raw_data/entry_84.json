@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Antonio Harmon",
+        "age": 83,
+        "gender": "male",
+        "address": "73293 Thomas Burg Apt. 706, North Rebekahberg, GU 15140",
+        "phone": "748-532-2352x422",
+        "email": "mbaxter@example.net",
+        "account": {
+            "account_number": "feb50ae1-5c98-43db-b105-dd7cb50eb721",
+            "balance": 19544.97,
+            "transactions": [
+                {
+                    "date": "2022-10-24",
+                    "description": "Withdrawal",
+                    "amount": 39000.22,
+                    "transaction_id": 6190033
+                }
+            ]
+        }
+    }
+}

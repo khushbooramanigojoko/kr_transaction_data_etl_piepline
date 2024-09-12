@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Gene Cox",
+        "age": 84,
+        "gender": "female",
+        "address": "7296 Donna Unions Apt. 554, Stevenport, WV 84929",
+        "phone": "+1-692-342-2218x51227",
+        "email": "jasonbowen@example.org",
+        "account": {
+            "account_number": "3b56e830-d9b6-477c-908b-ede876e4e1ac",
+            "balance": -49276.75,
+            "transactions": [
+                {
+                    "date": "2023-01-31",
+                    "description": "Deposit",
+                    "amount": 4319.39,
+                    "transaction_id": 63068804
+                },
+                {
+                    "date": "2024-01-25",
+                    "description": "Deposit",
+                    "amount": -1591.5,
+                    "transaction_id": 30642814
+                }
+            ]
+        }
+    }
+}

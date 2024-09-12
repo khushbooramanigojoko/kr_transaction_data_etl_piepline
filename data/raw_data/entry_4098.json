@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Laura Brewer",
+        "age": 52,
+        "gender": "male",
+        "address": "06844 Bryant Forest, Mariaborough, PA 74988",
+        "phone": "001-549-527-4381",
+        "email": "michael28@example.org",
+        "account": {
+            "account_number": "127b87aa-3995-497a-a32a-398d6fe2ec7a",
+            "balance": 37442.21,
+            "transactions": [
+                {
+                    "date": "2024-08-21",
+                    "description": "Interest",
+                    "amount": 41787.57,
+                    "transaction_id": 97796595
+                },
+                {
+                    "date": "2024-04-23",
+                    "description": "Deposit",
+                    "amount": 7237.11,
+                    "transaction_id": 42031525
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Deposit",
+                    "amount": 3152.52,
+                    "transaction_id": 55600334
+                }
+            ]
+        }
+    }
+}

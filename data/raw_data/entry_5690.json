@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Amy Meadows",
+        "age": 32,
+        "gender": "male",
+        "address": "62698 Brown Underpass Apt. 586, Benjaminside, KY 78647",
+        "phone": "953.772.0980x43619",
+        "email": "jeffreycobb@example.com",
+        "account": {
+            "account_number": "28d14322-2d19-4577-a328-ad7a60fd9b67",
+            "balance": 26241.71,
+            "transactions": [
+                {
+                    "date": "2023-10-05",
+                    "description": "Deposit",
+                    "amount": 42120.28,
+                    "transaction_id": 37512352
+                },
+                {
+                    "date": "2022-12-04",
+                    "description": "Withdrawal",
+                    "amount": 11242.04,
+                    "transaction_id": 3945693
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Withdrawal",
+                    "amount": 11895.44,
+                    "transaction_id": 77260481
+                }
+            ]
+        }
+    }
+}

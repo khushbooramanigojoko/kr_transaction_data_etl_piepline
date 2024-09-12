@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jose Montgomery",
+        "age": 58,
+        "gender": "female",
+        "address": "75908 Sarah Coves Suite 744, Christinahaven, RI 06515",
+        "phone": "284-855-9571x9489",
+        "email": "paulgardner@example.com",
+        "account": {
+            "account_number": "3fee616e-c090-43ff-aa69-42de7df49d97",
+            "balance": -4202.5,
+            "transactions": [
+                {
+                    "date": "2024-08-01",
+                    "description": "Withdrawal",
+                    "amount": -4004.81,
+                    "transaction_id": 61055103
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Withdrawal",
+                    "amount": 2722.26,
+                    "transaction_id": 56991116
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Deposit",
+                    "amount": 4825.71,
+                    "transaction_id": 65401685
+                },
+                {
+                    "date": "2023-12-08",
+                    "description": "Withdrawal",
+                    "amount": -4840.0,
+                    "transaction_id": 40933972
+                },
+                {
+                    "date": "2022-09-30",
+                    "description": "Withdrawal",
+                    "amount": 4381.84,
+                    "transaction_id": 1221584
+                }
+            ]
+        }
+    }
+}

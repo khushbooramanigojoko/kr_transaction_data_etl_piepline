@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tanya Gutierrez",
+        "age": 18,
+        "gender": "male",
+        "address": "Unit 3476 Box 6047, DPO AE 99950",
+        "phone": "+1-930-996-4751x7750",
+        "email": "lucas85@example.com",
+        "account": {
+            "account_number": "c4e2afb7-b424-4be8-bd97-b2c0ded4e160",
+            "balance": 13493.3,
+            "transactions": [
+                {
+                    "date": "2024-01-02",
+                    "description": "Withdrawal",
+                    "amount": 20702.05,
+                    "transaction_id": 85832987
+                },
+                {
+                    "date": "2023-07-22",
+                    "description": "Deposit",
+                    "amount": 7150.12,
+                    "transaction_id": 17183115
+                }
+            ]
+        }
+    }
+}

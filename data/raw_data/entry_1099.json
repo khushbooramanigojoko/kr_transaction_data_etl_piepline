@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "John Moss",
+        "age": 61,
+        "gender": "male",
+        "address": "776 Haley Club Apt. 949, East Larry, MD 28115",
+        "phone": "+1-263-230-2972x0411",
+        "email": "tthomas@example.org",
+        "account": {
+            "account_number": "4e3670b7-c2f5-4b79-91f2-b3df613af073",
+            "balance": 29276.27,
+            "transactions": [
+                {
+                    "date": "2023-07-12",
+                    "description": "Deposit",
+                    "amount": 762.28,
+                    "transaction_id": 98601896
+                },
+                {
+                    "date": "2023-08-26",
+                    "description": "Deposit",
+                    "amount": 20920.52,
+                    "transaction_id": 84585280
+                }
+            ]
+        }
+    }
+}

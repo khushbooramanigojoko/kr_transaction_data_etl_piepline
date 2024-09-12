@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brandon Moore",
+        "age": 60,
+        "gender": "male",
+        "address": "013 Turner Park Suite 662, Williamstad, DE 43487",
+        "phone": "001-313-919-9024x935",
+        "email": "jamesreese@example.com",
+        "account": {
+            "account_number": "cabe3c1c-9c5a-498d-a58f-a92a58926121",
+            "balance": 14860.62,
+            "transactions": [
+                {
+                    "date": "2024-03-13",
+                    "description": "Withdrawal",
+                    "amount": 31688.9,
+                    "transaction_id": 30234490
+                },
+                {
+                    "date": "2024-02-25",
+                    "description": "Withdrawal",
+                    "amount": 7231.73,
+                    "transaction_id": 28733722
+                },
+                {
+                    "date": "2022-11-21",
+                    "description": "Deposit",
+                    "amount": 20024.49,
+                    "transaction_id": 1184799
+                },
+                {
+                    "date": "2024-06-05",
+                    "description": "Interest",
+                    "amount": 2420.46,
+                    "transaction_id": 28742001
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Deposit",
+                    "amount": 39264.9,
+                    "transaction_id": 34518732
+                }
+            ]
+        }
+    }
+}

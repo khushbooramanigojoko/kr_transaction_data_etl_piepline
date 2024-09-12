@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Melissa Graham",
+        "age": 85,
+        "gender": "male",
+        "address": "3337 Wright Mews Suite 793, Lake Richardmouth, MD 12630",
+        "phone": "7585601292",
+        "email": "mitchellthomas@example.net",
+        "account": {
+            "account_number": "fe40b6b1-aab6-4885-ad7e-63232e0b8a87",
+            "balance": 25866.17,
+            "transactions": [
+                {
+                    "date": "2024-08-18",
+                    "description": "Withdrawal",
+                    "amount": 2318.13,
+                    "transaction_id": 100187976
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Withdrawal",
+                    "amount": 465.23,
+                    "transaction_id": 50071936
+                }
+            ]
+        }
+    }
+}

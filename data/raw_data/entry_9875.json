@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 44,
+        "gender": "female",
+        "address": "846 Adam Mall, South Rebekahshire, FM 90606",
+        "phone": "(329)857-8818x93896",
+        "email": "roberto28@example.org",
+        "account": {
+            "account_number": "250b0c80-c1a0-47a1-8565-715ff06671de",
+            "balance": 38483.96,
+            "transactions": [
+                {
+                    "date": "2023-05-02",
+                    "description": "Interest",
+                    "amount": -3266.94,
+                    "transaction_id": 9619554
+                },
+                {
+                    "date": "2024-03-05",
+                    "description": "Withdrawal",
+                    "amount": 290.07,
+                    "transaction_id": 15560122
+                }
+            ]
+        }
+    }
+}

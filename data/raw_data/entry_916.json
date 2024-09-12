@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Chelsea Phillips",
+        "age": 62,
+        "gender": "male",
+        "address": "8885 Allen Groves, Wendyville, ID 32840",
+        "phone": "408.909.6722x456",
+        "email": "maria29@example.com",
+        "account": {
+            "account_number": "85d9fe70-c84a-4336-96a4-c93cd62d0e6c",
+            "balance": 35047.11,
+            "transactions": [
+                {
+                    "date": "2024-07-21",
+                    "description": "Deposit",
+                    "amount": 9446.07,
+                    "transaction_id": 105819979
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Withdrawal",
+                    "amount": 35176.06,
+                    "transaction_id": 28367257
+                },
+                {
+                    "date": "2022-10-20",
+                    "description": "Deposit",
+                    "amount": 14272.59,
+                    "transaction_id": 97889010
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Withdrawal",
+                    "amount": 25105.06,
+                    "transaction_id": 72591371
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Withdrawal",
+                    "amount": 42247.52,
+                    "transaction_id": 35603074
+                }
+            ]
+        }
+    }
+}

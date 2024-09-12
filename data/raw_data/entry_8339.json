@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Emily Shepherd",
+        "age": 65,
+        "gender": "female",
+        "address": "203 Marie Burgs, Jordanborough, OR 97583",
+        "phone": "244.544.3224x77488",
+        "email": "vchapman@example.net",
+        "account": {
+            "account_number": "6122d89d-2c21-4b80-9e8c-d587f2818833",
+            "balance": 39958.47,
+            "transactions": [
+                {
+                    "date": "2024-01-27",
+                    "description": "Deposit",
+                    "amount": 24673.75,
+                    "transaction_id": 118390243
+                }
+            ]
+        }
+    }
+}

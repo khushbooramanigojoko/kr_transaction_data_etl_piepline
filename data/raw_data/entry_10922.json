@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jordan Nelson",
+        "age": 74,
+        "gender": "male",
+        "address": "57548 Thompson Port Suite 456, East Danielle, NY 15633",
+        "phone": "7352103516",
+        "email": "dawsonaaron@example.com",
+        "account": {
+            "account_number": "935d25d8-7c0a-40d3-bf88-f5883be83639",
+            "balance": -28127.19,
+            "transactions": [
+                {
+                    "date": "2023-06-19",
+                    "description": "Interest",
+                    "amount": -4823.42,
+                    "transaction_id": 86204395
+                },
+                {
+                    "date": "2023-08-22",
+                    "description": "Deposit",
+                    "amount": 2977.44,
+                    "transaction_id": 111727212
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Interest",
+                    "amount": 2881.32,
+                    "transaction_id": 42355570
+                }
+            ]
+        }
+    }
+}

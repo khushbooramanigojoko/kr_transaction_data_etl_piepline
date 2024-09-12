@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Frank Graham",
+        "age": 72,
+        "gender": "female",
+        "address": "01092 Alexander Dale, Hernandezville, VA 51308",
+        "phone": "683-413-6580x83327",
+        "email": "leewatts@example.com",
+        "account": {
+            "account_number": "563d875e-0c99-4839-9337-e703177d3b2a",
+            "balance": 25698.23,
+            "transactions": [
+                {
+                    "date": "2023-03-30",
+                    "description": "Deposit",
+                    "amount": 4736.12,
+                    "transaction_id": 66221885
+                }
+            ]
+        }
+    }
+}

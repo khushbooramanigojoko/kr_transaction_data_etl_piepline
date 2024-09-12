@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Richard Rogers",
+        "age": 89,
+        "gender": "female",
+        "address": "624 Rodriguez Brooks Suite 346, Edwardfurt, OH 01337",
+        "phone": "420.224.6843",
+        "email": "mdean@example.com",
+        "account": {
+            "account_number": "cea87c0b-44f5-45a6-a490-a8b2669a5d9d",
+            "balance": 16860.58,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Deposit",
+                    "amount": 16107.6,
+                    "transaction_id": 103501617
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "David Powell",
+        "age": 39,
+        "gender": "male",
+        "address": "9531 Stephens Fords, Craigmouth, NC 20777",
+        "phone": "6934895448",
+        "email": "owensjennifer@example.net",
+        "account": {
+            "account_number": "ac7fbdeb-3358-48de-8cd7-6d60fc4d438b",
+            "balance": 41441.21,
+            "transactions": [
+                {
+                    "date": "2023-01-18",
+                    "description": "Withdrawal",
+                    "amount": 1615.95,
+                    "transaction_id": 100448315
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Interest",
+                    "amount": 19223.17,
+                    "transaction_id": 18873672
+                }
+            ]
+        }
+    }
+}

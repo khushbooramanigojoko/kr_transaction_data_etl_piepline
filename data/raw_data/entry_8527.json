@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Perkins",
+        "age": 60,
+        "gender": "male",
+        "address": "496 Rojas Manor Suite 036, North Richardburgh, WV 25673",
+        "phone": "877.723.1609x2454",
+        "email": "michael01@example.com",
+        "account": {
+            "account_number": "a78e04aa-7dad-415e-b6bc-7f040d41f48c",
+            "balance": 22915.47,
+            "transactions": [
+                {
+                    "date": "2024-07-06",
+                    "description": "Deposit",
+                    "amount": 28288.27,
+                    "transaction_id": 17193279
+                }
+            ]
+        }
+    }
+}

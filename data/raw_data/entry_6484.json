@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christopher Howard",
+        "age": 53,
+        "gender": "male",
+        "address": "37906 White Oval, Trevinoport, PW 89653",
+        "phone": "+1-575-681-8326x649",
+        "email": "ibranch@example.net",
+        "account": {
+            "account_number": "471ce88d-954e-4abf-81e8-da38fea42b9f",
+            "balance": 27183.62,
+            "transactions": [
+                {
+                    "date": "2023-04-19",
+                    "description": "Interest",
+                    "amount": 3976.95,
+                    "transaction_id": 75520456
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Deposit",
+                    "amount": 46392.37,
+                    "transaction_id": 10371825
+                },
+                {
+                    "date": "2023-01-22",
+                    "description": "Withdrawal",
+                    "amount": 47095.96,
+                    "transaction_id": 46076798
+                },
+                {
+                    "date": "2024-05-19",
+                    "description": "Interest",
+                    "amount": 30447.94,
+                    "transaction_id": 95321028
+                },
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": 31005.51,
+                    "transaction_id": 19530938
+                }
+            ]
+        }
+    }
+}

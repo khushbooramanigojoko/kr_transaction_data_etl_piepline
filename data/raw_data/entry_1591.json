@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "David George",
+        "age": 42,
+        "gender": "female",
+        "address": "474 Ferguson Port, Joannmouth, AR 74630",
+        "phone": "459.841.1070x35089",
+        "email": "ksalas@example.net",
+        "account": {
+            "account_number": "d4aa53df-0fa1-44f4-b44e-b6e6549a5fe0",
+            "balance": 39748.25,
+            "transactions": [
+                {
+                    "date": "2023-10-02",
+                    "description": "Withdrawal",
+                    "amount": 29622.5,
+                    "transaction_id": 59641319
+                },
+                {
+                    "date": "2023-03-10",
+                    "description": "Withdrawal",
+                    "amount": 7371.73,
+                    "transaction_id": 103198824
+                },
+                {
+                    "date": "2023-01-09",
+                    "description": "Withdrawal",
+                    "amount": 3014.04,
+                    "transaction_id": 59269099
+                },
+                {
+                    "date": "2023-09-01",
+                    "description": "Interest",
+                    "amount": 13098.95,
+                    "transaction_id": 75908719
+                }
+            ]
+        }
+    }
+}

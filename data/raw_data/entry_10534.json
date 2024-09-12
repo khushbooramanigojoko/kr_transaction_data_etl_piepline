@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 20,
+        "gender": "male",
+        "address": "904 Donna Loaf Apt. 067, New Courtney, MT 61703",
+        "phone": "748.762.9855x093",
+        "email": "wilsonvickie@example.net",
+        "account": {
+            "account_number": "c2246587-074f-43a0-a01b-a55fa29bedc4",
+            "balance": 11844.39,
+            "transactions": [
+                {
+                    "date": "2024-08-04",
+                    "description": "Withdrawal",
+                    "amount": -809.14,
+                    "transaction_id": 8684535
+                }
+            ]
+        }
+    }
+}

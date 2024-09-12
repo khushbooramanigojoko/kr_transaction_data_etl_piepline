@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Chad Wheeler",
+        "age": 90,
+        "gender": "male",
+        "address": "677 Stacy Mill Suite 012, Joshuaville, TX 73944",
+        "phone": "(721)239-8832x1130",
+        "email": "zlamb@example.org",
+        "account": {
+            "account_number": "ec34e9ec-bf1e-45f1-93e4-d0fc0444b0f6",
+            "balance": 43053.8,
+            "transactions": [
+                {
+                    "date": "2022-11-02",
+                    "description": "Deposit",
+                    "amount": 20713.34,
+                    "transaction_id": 110724588
+                },
+                {
+                    "date": "2023-01-01",
+                    "description": "Deposit",
+                    "amount": 18380.59,
+                    "transaction_id": 11973935
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Interest",
+                    "amount": 24270.64,
+                    "transaction_id": 55187857
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Interest",
+                    "amount": 20624.96,
+                    "transaction_id": 45575258
+                },
+                {
+                    "date": "2022-10-03",
+                    "description": "Deposit",
+                    "amount": 6825.15,
+                    "transaction_id": 59871664
+                }
+            ]
+        }
+    }
+}

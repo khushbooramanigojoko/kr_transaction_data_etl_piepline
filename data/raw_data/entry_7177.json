@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dr. Wendy Evans",
+        "age": 45,
+        "gender": "male",
+        "address": "474 White Street, Maryhaven, OH 55248",
+        "phone": "001-273-549-3911",
+        "email": "deborahnguyen@example.org",
+        "account": {
+            "account_number": "0ef96cd9-68f0-43c4-8f1c-ccbe0bc70a89",
+            "balance": 22489.05,
+            "transactions": [
+                {
+                    "date": "2023-01-22",
+                    "description": "Interest",
+                    "amount": 6307.07,
+                    "transaction_id": 84020319
+                }
+            ]
+        }
+    }
+}

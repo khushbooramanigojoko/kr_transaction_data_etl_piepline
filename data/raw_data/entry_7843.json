@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Danielle Hahn",
+        "age": 83,
+        "gender": "male",
+        "address": "353 Collier Street, Garciastad, PA 97058",
+        "phone": "299-858-1546x97737",
+        "email": "pharris@example.com",
+        "account": {
+            "account_number": "0baf7271-6440-4336-a6ee-b553bcf39877",
+            "balance": 24732.23,
+            "transactions": [
+                {
+                    "date": "2023-12-11",
+                    "description": "Withdrawal",
+                    "amount": 9561.87,
+                    "transaction_id": 117555873
+                },
+                {
+                    "date": "2023-07-31",
+                    "description": "Deposit",
+                    "amount": 45097.34,
+                    "transaction_id": 5701572
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Deposit",
+                    "amount": 7442.28,
+                    "transaction_id": 75816571
+                }
+            ]
+        }
+    }
+}

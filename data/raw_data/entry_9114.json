@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 70,
+        "gender": "female",
+        "address": "8783 Paul Lodge Suite 790, Suttonbury, MN 86460",
+        "phone": "(243)386-2531",
+        "email": "pandrews@example.com",
+        "account": {
+            "account_number": "e87fcb18-e509-4750-bcd1-70ce43e4fbe4",
+            "balance": 13217.97,
+            "transactions": [
+                {
+                    "date": "2023-10-28",
+                    "description": "Interest",
+                    "amount": -1641.97,
+                    "transaction_id": 115907912
+                },
+                {
+                    "date": "2024-08-17",
+                    "description": "Interest",
+                    "amount": -1330.44,
+                    "transaction_id": 110379295
+                },
+                {
+                    "date": "2024-01-27",
+                    "description": "Withdrawal",
+                    "amount": -1651.98,
+                    "transaction_id": 70438082
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Withdrawal",
+                    "amount": 4289.18,
+                    "transaction_id": 23869376
+                },
+                {
+                    "date": "2024-08-10",
+                    "description": "Withdrawal",
+                    "amount": -4159.2,
+                    "transaction_id": 58110416
+                }
+            ]
+        }
+    }
+}

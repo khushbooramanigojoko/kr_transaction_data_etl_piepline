@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jonathan Rogers",
+        "age": 68,
+        "gender": "male",
+        "address": "0044 Michael Corners Apt. 656, Port Michael, NV 42570",
+        "phone": "(668)288-6295x02411",
+        "email": "cynthiaevans@example.com",
+        "account": {
+            "account_number": "69002d95-deac-47e1-aaa9-32be8d473274",
+            "balance": 8730.02,
+            "transactions": [
+                {
+                    "date": "2022-12-30",
+                    "description": "Interest",
+                    "amount": 4762.5,
+                    "transaction_id": 2249949
+                },
+                {
+                    "date": "2023-10-14",
+                    "description": "Interest",
+                    "amount": 5011.97,
+                    "transaction_id": 15743433
+                }
+            ]
+        }
+    }
+}

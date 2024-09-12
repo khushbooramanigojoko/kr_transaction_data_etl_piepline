@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Samantha Johnson",
+        "age": 93,
+        "gender": "female",
+        "address": "98618 Snyder Lake Suite 022, Hallfort, FL 57216",
+        "phone": "201-258-4869x26554",
+        "email": "jamesmoran@example.org",
+        "account": {
+            "account_number": "8c1e64ac-5bf4-4712-bfdf-97762c13e1d2",
+            "balance": -40358.51,
+            "transactions": [
+                {
+                    "date": "2024-04-14",
+                    "description": "Interest",
+                    "amount": 2460.55,
+                    "transaction_id": 42159960
+                },
+                {
+                    "date": "2023-04-01",
+                    "description": "Withdrawal",
+                    "amount": -1221.58,
+                    "transaction_id": 3674699
+                },
+                {
+                    "date": "2024-03-30",
+                    "description": "Interest",
+                    "amount": -4189.52,
+                    "transaction_id": 112824086
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Interest",
+                    "amount": -2642.44,
+                    "transaction_id": 13629978
+                }
+            ]
+        }
+    }
+}

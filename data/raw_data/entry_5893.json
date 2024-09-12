@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sarah Mahoney",
+        "age": 42,
+        "gender": "female",
+        "address": "55181 Bennett Point, North Kimberg, MI 02603",
+        "phone": "299-611-4541x186",
+        "email": "shieldspreston@example.com",
+        "account": {
+            "account_number": "be016854-3e34-41a9-a986-6c3e978c992b",
+            "balance": 37287.52,
+            "transactions": [
+                {
+                    "date": "2023-11-21",
+                    "description": "Withdrawal",
+                    "amount": 44052.44,
+                    "transaction_id": 7521561
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Interest",
+                    "amount": 26307.15,
+                    "transaction_id": 109471830
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Deposit",
+                    "amount": 36385.79,
+                    "transaction_id": 117041385
+                }
+            ]
+        }
+    }
+}

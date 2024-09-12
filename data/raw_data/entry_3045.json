@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kurt Diaz",
+        "age": 84,
+        "gender": "female",
+        "address": "97377 Wade Islands Suite 388, Christophershire, NH 09996",
+        "phone": "978-760-0533x273",
+        "email": "robert17@example.org",
+        "account": {
+            "account_number": "3fab5930-b2c4-4677-9bf4-3208cc59fad5",
+            "balance": 20900.92,
+            "transactions": [
+                {
+                    "date": "2023-02-16",
+                    "description": "Interest",
+                    "amount": 44456.19,
+                    "transaction_id": 22981355
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Withdrawal",
+                    "amount": 20630.04,
+                    "transaction_id": 93684640
+                },
+                {
+                    "date": "2023-12-08",
+                    "description": "Withdrawal",
+                    "amount": 46615.0,
+                    "transaction_id": 13376234
+                },
+                {
+                    "date": "2024-05-13",
+                    "description": "Interest",
+                    "amount": 3882.32,
+                    "transaction_id": 68171504
+                },
+                {
+                    "date": "2023-09-21",
+                    "description": "Interest",
+                    "amount": 31496.14,
+                    "transaction_id": 55619511
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Megan Todd",
+        "age": 41,
+        "gender": "male",
+        "address": "USS Cruz, FPO AA 96240",
+        "phone": "7804445989",
+        "email": "stephaniefuller@example.com",
+        "account": {
+            "account_number": "ea99ee0a-2cea-4e81-86f2-fcaee4437f37",
+            "balance": 41594.19,
+            "transactions": [
+                {
+                    "date": "2023-01-07",
+                    "description": "Withdrawal",
+                    "amount": 6289.23,
+                    "transaction_id": 59581754
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Deposit",
+                    "amount": 41735.6,
+                    "transaction_id": 34473761
+                }
+            ]
+        }
+    }
+}

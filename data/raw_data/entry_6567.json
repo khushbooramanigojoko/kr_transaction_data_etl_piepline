@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Robbins",
+        "age": 72,
+        "gender": "female",
+        "address": "5926 Rebecca Dam Suite 208, Santiagoside, AR 97116",
+        "phone": "(565)667-3773x399",
+        "email": "ulowery@example.net",
+        "account": {
+            "account_number": "67027f65-a8c1-4622-8550-bd4b6cf79708",
+            "balance": 41462.22,
+            "transactions": [
+                {
+                    "date": "2023-05-10",
+                    "description": "Interest",
+                    "amount": 19022.41,
+                    "transaction_id": 108542222
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Withdrawal",
+                    "amount": 24751.43,
+                    "transaction_id": 31970644
+                },
+                {
+                    "date": "2024-08-14",
+                    "description": "Deposit",
+                    "amount": 7050.01,
+                    "transaction_id": 9002641
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Withdrawal",
+                    "amount": 45329.27,
+                    "transaction_id": 38619742
+                }
+            ]
+        }
+    }
+}

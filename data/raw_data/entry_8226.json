@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "James Warner",
+        "age": 39,
+        "gender": "female",
+        "address": "62557 Christine Lane Apt. 181, Annamouth, IA 71150",
+        "phone": "471-809-1272x3579",
+        "email": "nguyenmegan@example.org",
+        "account": {
+            "account_number": "5c420e76-81c6-472d-a4df-099f6717d159",
+            "balance": 5747.59,
+            "transactions": [
+                {
+                    "date": "2023-08-15",
+                    "description": "Interest",
+                    "amount": 29128.42,
+                    "transaction_id": 85697582
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Interest",
+                    "amount": 49612.04,
+                    "transaction_id": 10180359
+                }
+            ]
+        }
+    }
+}

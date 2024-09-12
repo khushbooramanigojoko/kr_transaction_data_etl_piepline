@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joshua Rogers",
+        "age": 96,
+        "gender": "male",
+        "address": "64220 Pugh Landing, Christopherborough, MI 89538",
+        "phone": "(208)789-7893x93093",
+        "email": "eric49@example.com",
+        "account": {
+            "account_number": "f9d19543-8a4e-4f42-a9b8-af47b311c576",
+            "balance": 38323.88,
+            "transactions": [
+                {
+                    "date": "2024-02-17",
+                    "description": "Deposit",
+                    "amount": 11044.39,
+                    "transaction_id": 84614437
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Withdrawal",
+                    "amount": 12665.8,
+                    "transaction_id": 40692316
+                },
+                {
+                    "date": "2024-06-28",
+                    "description": "Interest",
+                    "amount": 2390.71,
+                    "transaction_id": 103884189
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Deposit",
+                    "amount": 33283.15,
+                    "transaction_id": 39272672
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Travis Glenn",
+        "age": 62,
+        "gender": "female",
+        "address": "215 Ramirez Crossroad, Lake Lisafurt, NV 90039",
+        "phone": "(359)467-9581",
+        "email": "espinozalinda@example.com",
+        "account": {
+            "account_number": "910d79b3-ed52-4525-8bf5-3a72f765e2cf",
+            "balance": 25330.18,
+            "transactions": [
+                {
+                    "date": "2022-11-09",
+                    "description": "Withdrawal",
+                    "amount": 45940.19,
+                    "transaction_id": 77114960
+                }
+            ]
+        }
+    }
+}

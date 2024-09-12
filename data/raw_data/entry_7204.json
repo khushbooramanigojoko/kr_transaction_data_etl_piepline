@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Heather Owens",
+        "age": 70,
+        "gender": "male",
+        "address": "PSC 8749, Box 8486, APO AA 16809",
+        "phone": "+1-739-955-4949x0060",
+        "email": "paynepatricia@example.com",
+        "account": {
+            "account_number": "b84afdb9-bc18-4a00-ae65-6c806f65821a",
+            "balance": 39217.56,
+            "transactions": [
+                {
+                    "date": "2023-03-17",
+                    "description": "Deposit",
+                    "amount": 33822.72,
+                    "transaction_id": 18679091
+                }
+            ]
+        }
+    }
+}

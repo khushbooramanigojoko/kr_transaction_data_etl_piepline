@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 91,
+        "gender": "male",
+        "address": "535 Perry Hollow, Lake Allen, MT 94511",
+        "phone": "318-985-0107x244",
+        "email": "andreacarr@example.com",
+        "account": {
+            "account_number": "1d2a8599-811b-406e-ace1-c44d4cc3cf04",
+            "balance": 48581.99,
+            "transactions": [
+                {
+                    "date": "2023-04-05",
+                    "description": "Withdrawal",
+                    "amount": 1204.01,
+                    "transaction_id": 42385284
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Interest",
+                    "amount": 4397.71,
+                    "transaction_id": 102802377
+                },
+                {
+                    "date": "2023-06-07",
+                    "description": "Interest",
+                    "amount": 3435.7,
+                    "transaction_id": 81841896
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Deposit",
+                    "amount": -1163.45,
+                    "transaction_id": 104763268
+                },
+                {
+                    "date": "2024-01-31",
+                    "description": "Withdrawal",
+                    "amount": -1592.15,
+                    "transaction_id": 13472173
+                }
+            ]
+        }
+    }
+}

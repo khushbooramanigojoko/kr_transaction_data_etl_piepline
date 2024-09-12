@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brandon Harris",
+        "age": 33,
+        "gender": "female",
+        "address": "039 Harper Prairie Apt. 931, West Victoria, CA 76832",
+        "phone": "(323)749-7304x4975",
+        "email": "ndelgado@example.net",
+        "account": {
+            "account_number": "1ff66d99-4555-4a18-b961-e0c715af518b",
+            "balance": 8140.36,
+            "transactions": [
+                {
+                    "date": "2023-02-02",
+                    "description": "Deposit",
+                    "amount": 12386.47,
+                    "transaction_id": 65248112
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Interest",
+                    "amount": 15680.91,
+                    "transaction_id": 40089015
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Interest",
+                    "amount": 8337.44,
+                    "transaction_id": 18788690
+                },
+                {
+                    "date": "2023-08-01",
+                    "description": "Withdrawal",
+                    "amount": 36226.26,
+                    "transaction_id": 119658058
+                },
+                {
+                    "date": "2023-07-13",
+                    "description": "Withdrawal",
+                    "amount": 3736.13,
+                    "transaction_id": 57122949
+                }
+            ]
+        }
+    }
+}

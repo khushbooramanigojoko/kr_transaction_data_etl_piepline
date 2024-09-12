@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sarah Bowman",
+        "age": 30,
+        "gender": "male",
+        "address": "086 Mary Crossroad Apt. 150, Lake Peter, MN 90431",
+        "phone": "+1-519-225-5956x1970",
+        "email": "latoyawilliams@example.net",
+        "account": {
+            "account_number": "1c1a56f8-ed9c-4c8f-b424-ee0e5fed7590",
+            "balance": 10491.82,
+            "transactions": [
+                {
+                    "date": "2023-06-02",
+                    "description": "Withdrawal",
+                    "amount": 11153.02,
+                    "transaction_id": 112287797
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Deposit",
+                    "amount": 31757.68,
+                    "transaction_id": 5882894
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Withdrawal",
+                    "amount": 10705.16,
+                    "transaction_id": 86496146
+                }
+            ]
+        }
+    }
+}

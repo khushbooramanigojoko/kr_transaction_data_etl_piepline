@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kelly Neal PhD",
+        "age": 84,
+        "gender": "male",
+        "address": "799 Alan Gateway Apt. 390, Jasminebury, GA 02552",
+        "phone": "001-659-810-3302x18441",
+        "email": "melanieflores@example.org",
+        "account": {
+            "account_number": "bac0c77a-cb44-46d6-8258-54c4b0346504",
+            "balance": 34071.79,
+            "transactions": [
+                {
+                    "date": "2023-04-22",
+                    "description": "Interest",
+                    "amount": 39911.44,
+                    "transaction_id": 87765263
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Withdrawal",
+                    "amount": 1766.62,
+                    "transaction_id": 118974020
+                },
+                {
+                    "date": "2023-05-04",
+                    "description": "Withdrawal",
+                    "amount": 11963.77,
+                    "transaction_id": 29226413
+                },
+                {
+                    "date": "2024-05-26",
+                    "description": "Deposit",
+                    "amount": 40982.25,
+                    "transaction_id": 87276493
+                }
+            ]
+        }
+    }
+}

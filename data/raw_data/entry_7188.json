@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Melinda Butler",
+        "age": 43,
+        "gender": "female",
+        "address": "483 Riley Union Apt. 339, Loganbury, AZ 72603",
+        "phone": "+1-590-472-8356",
+        "email": "pcox@example.com",
+        "account": {
+            "account_number": "d7929f0c-cea3-4e5d-9bbf-e757425aa2ce",
+            "balance": 11065.98,
+            "transactions": [
+                {
+                    "date": "2023-03-14",
+                    "description": "Deposit",
+                    "amount": 45006.87,
+                    "transaction_id": 107420966
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Withdrawal",
+                    "amount": 10222.78,
+                    "transaction_id": 20657057
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Erica Simmons",
+        "age": 85,
+        "gender": "male",
+        "address": "622 Mendoza Lights, Phillipsport, AS 49702",
+        "phone": "001-205-839-8590x0870",
+        "email": "jameswatkins@example.com",
+        "account": {
+            "account_number": "854e7d1a-2554-4a01-81b6-33459c3735ec",
+            "balance": 33982.86,
+            "transactions": [
+                {
+                    "date": "2022-10-18",
+                    "description": "Interest",
+                    "amount": 45986.92,
+                    "transaction_id": 34108732
+                },
+                {
+                    "date": "2024-08-16",
+                    "description": "Deposit",
+                    "amount": 35235.29,
+                    "transaction_id": 19528058
+                },
+                {
+                    "date": "2024-07-24",
+                    "description": "Withdrawal",
+                    "amount": 13118.48,
+                    "transaction_id": 85385734
+                },
+                {
+                    "date": "2023-10-05",
+                    "description": "Interest",
+                    "amount": 22178.77,
+                    "transaction_id": 8216807
+                }
+            ]
+        }
+    }
+}

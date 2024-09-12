@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Nicole Medina MD",
+        "age": 47,
+        "gender": "female",
+        "address": "6303 Oconnor Spur, Port Josephfurt, MO 67514",
+        "phone": "735.752.3974",
+        "email": "kelleyjasmin@example.net",
+        "account": {
+            "account_number": "d531699c-9a28-4d08-8efa-e3456c973d05",
+            "balance": 21654.49,
+            "transactions": [
+                {
+                    "date": "2023-04-04",
+                    "description": "Withdrawal",
+                    "amount": 28530.96,
+                    "transaction_id": 16781850
+                },
+                {
+                    "date": "2023-07-06",
+                    "description": "Interest",
+                    "amount": 16570.21,
+                    "transaction_id": 59852971
+                }
+            ]
+        }
+    }
+}

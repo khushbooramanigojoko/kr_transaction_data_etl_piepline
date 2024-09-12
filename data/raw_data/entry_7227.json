@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dorothy Cole",
+        "age": 46,
+        "gender": "female",
+        "address": "20826 Carter Ways Apt. 179, Leahhaven, FM 97946",
+        "phone": "001-572-683-1931x296",
+        "email": "dpark@example.com",
+        "account": {
+            "account_number": "63fad270-85cd-4dd9-aac6-99278d2f5c8f",
+            "balance": 4607.4,
+            "transactions": [
+                {
+                    "date": "2023-01-10",
+                    "description": "Withdrawal",
+                    "amount": 25892.9,
+                    "transaction_id": 80687432
+                },
+                {
+                    "date": "2023-09-29",
+                    "description": "Interest",
+                    "amount": 6129.96,
+                    "transaction_id": 53834627
+                },
+                {
+                    "date": "2024-03-05",
+                    "description": "Interest",
+                    "amount": 21359.49,
+                    "transaction_id": 115186989
+                },
+                {
+                    "date": "2023-04-22",
+                    "description": "Withdrawal",
+                    "amount": 46337.19,
+                    "transaction_id": 23888048
+                }
+            ]
+        }
+    }
+}

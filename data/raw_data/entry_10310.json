@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kenneth Hall",
+        "age": 52,
+        "gender": "female",
+        "address": "Unit 3385 Box 1919, DPO AA 80377",
+        "phone": "960-790-0268x271",
+        "email": "kgallegos@example.org",
+        "account": {
+            "account_number": "9d689edb-3329-49c3-8f48-29faef4c8977",
+            "balance": -10734.06,
+            "transactions": [
+                {
+                    "date": "2022-10-18",
+                    "description": "Interest",
+                    "amount": 1349.04,
+                    "transaction_id": 106895084
+                },
+                {
+                    "date": "2024-02-26",
+                    "description": "Deposit",
+                    "amount": 2471.86,
+                    "transaction_id": 59870726
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Deposit",
+                    "amount": 3448.05,
+                    "transaction_id": 29842232
+                },
+                {
+                    "date": "2023-02-23",
+                    "description": "Withdrawal",
+                    "amount": 1539.64,
+                    "transaction_id": 23481492
+                },
+                {
+                    "date": "2023-10-30",
+                    "description": "Interest",
+                    "amount": -4987.04,
+                    "transaction_id": 6502541
+                }
+            ]
+        }
+    }
+}

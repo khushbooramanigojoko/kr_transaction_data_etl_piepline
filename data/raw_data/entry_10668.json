@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 18,
+        "gender": "female",
+        "address": "2730 Carolyn Cape, East Timothyfurt, WI 44701",
+        "phone": "873-640-5625x0419",
+        "email": "shawnmorris@example.com",
+        "account": {
+            "account_number": "95491d01-427c-46e2-8ad3-15719ec550c8",
+            "balance": 26650.23,
+            "transactions": [
+                {
+                    "date": "2024-03-03",
+                    "description": "Withdrawal",
+                    "amount": -375.91,
+                    "transaction_id": 27163285
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Withdrawal",
+                    "amount": -3689.74,
+                    "transaction_id": 12334817
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Deposit",
+                    "amount": 3144.02,
+                    "transaction_id": 117774650
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Russell",
+        "age": 24,
+        "gender": "female",
+        "address": "319 Sylvia Place, Baldwinchester, WI 52947",
+        "phone": "5912831945",
+        "email": "bradfordbenjamin@example.net",
+        "account": {
+            "account_number": "724f0df3-e348-4e30-8b1f-81f59844097c",
+            "balance": 3508.81,
+            "transactions": [
+                {
+                    "date": "2022-12-29",
+                    "description": "Withdrawal",
+                    "amount": 39329.34,
+                    "transaction_id": 115911200
+                },
+                {
+                    "date": "2023-05-22",
+                    "description": "Interest",
+                    "amount": 13617.9,
+                    "transaction_id": 108224714
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Deposit",
+                    "amount": 16190.53,
+                    "transaction_id": 67591014
+                },
+                {
+                    "date": "2023-04-24",
+                    "description": "Interest",
+                    "amount": 37112.98,
+                    "transaction_id": 41649709
+                }
+            ]
+        }
+    }
+}

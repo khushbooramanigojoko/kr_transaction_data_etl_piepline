@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Walter Stanley",
+        "age": 88,
+        "gender": "female",
+        "address": "Unit 1632 Box 5856, DPO AA 30445",
+        "phone": "+1-954-968-6921",
+        "email": "marcjackson@example.net",
+        "account": {
+            "account_number": "c5087aa6-29de-49fc-9da3-5e5ad9e1b2d9",
+            "balance": 35770.89,
+            "transactions": [
+                {
+                    "date": "2022-11-23",
+                    "description": "Deposit",
+                    "amount": 13033.72,
+                    "transaction_id": 75739560
+                }
+            ]
+        }
+    }
+}

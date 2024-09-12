@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Bryan Benson",
+        "age": 94,
+        "gender": "male",
+        "address": "795 Stacy Shores, East Angelashire, IL 85622",
+        "phone": "361-521-5845x5783",
+        "email": "bhoward@example.net",
+        "account": {
+            "account_number": "b9e737b9-c301-48d1-a1db-311e8b2e0300",
+            "balance": 30669.79,
+            "transactions": [
+                {
+                    "date": "2024-08-13",
+                    "description": "Withdrawal",
+                    "amount": 8524.48,
+                    "transaction_id": 109597425
+                }
+            ]
+        }
+    }
+}

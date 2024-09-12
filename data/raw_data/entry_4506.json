@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Caleb Jones",
+        "age": 88,
+        "gender": "male",
+        "address": "7340 Robert Port, Michaelville, PR 37532",
+        "phone": "7279207504",
+        "email": "ruizlaurie@example.com",
+        "account": {
+            "account_number": "94d40897-cd75-4574-9245-8e7b3b576d2c",
+            "balance": 47553.72,
+            "transactions": [
+                {
+                    "date": "2023-01-25",
+                    "description": "Interest",
+                    "amount": 7300.97,
+                    "transaction_id": 106401221
+                },
+                {
+                    "date": "2024-08-11",
+                    "description": "Withdrawal",
+                    "amount": 9931.44,
+                    "transaction_id": 96580855
+                }
+            ]
+        }
+    }
+}

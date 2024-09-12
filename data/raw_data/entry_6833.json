@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Emily Orozco",
+        "age": 51,
+        "gender": "male",
+        "address": "3558 Michael Centers, Barneschester, LA 06478",
+        "phone": "001-919-686-1776",
+        "email": "erinsimmons@example.org",
+        "account": {
+            "account_number": "03101933-13c6-4351-9302-0a89cf23309f",
+            "balance": 4953.75,
+            "transactions": [
+                {
+                    "date": "2022-11-23",
+                    "description": "Withdrawal",
+                    "amount": 16277.85,
+                    "transaction_id": 34527353
+                },
+                {
+                    "date": "2023-02-01",
+                    "description": "Interest",
+                    "amount": 46439.84,
+                    "transaction_id": 57323058
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Deposit",
+                    "amount": 20578.67,
+                    "transaction_id": 42102323
+                },
+                {
+                    "date": "2024-03-24",
+                    "description": "Withdrawal",
+                    "amount": 38724.54,
+                    "transaction_id": 12365384
+                },
+                {
+                    "date": "2023-11-04",
+                    "description": "Interest",
+                    "amount": 48635.29,
+                    "transaction_id": 87725437
+                }
+            ]
+        }
+    }
+}

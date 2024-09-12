@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Scott Bailey",
+        "age": 85,
+        "gender": "female",
+        "address": "PSC 4349, Box 6209, APO AA 98924",
+        "phone": "(528)384-8408x63278",
+        "email": "rasmussenpamela@example.com",
+        "account": {
+            "account_number": "e6d4e427-9eec-40b1-820a-d513f8c77690",
+            "balance": 8672.98,
+            "transactions": [
+                {
+                    "date": "2024-08-12",
+                    "description": "Interest",
+                    "amount": 27804.51,
+                    "transaction_id": 35193780
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Deposit",
+                    "amount": 2220.21,
+                    "transaction_id": 46081482
+                },
+                {
+                    "date": "2024-06-07",
+                    "description": "Interest",
+                    "amount": 26382.3,
+                    "transaction_id": 42272768
+                }
+            ]
+        }
+    }
+}

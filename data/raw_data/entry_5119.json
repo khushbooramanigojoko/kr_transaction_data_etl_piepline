@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Yvette Smith",
+        "age": 76,
+        "gender": "male",
+        "address": "9918 Wagner Turnpike, South Donnaport, ID 99776",
+        "phone": "001-420-813-4471x2228",
+        "email": "vlynn@example.com",
+        "account": {
+            "account_number": "2a94cfcf-df4b-47f7-829a-fb9a4df78deb",
+            "balance": 4372.34,
+            "transactions": [
+                {
+                    "date": "2023-10-28",
+                    "description": "Interest",
+                    "amount": 49252.55,
+                    "transaction_id": 20087989
+                },
+                {
+                    "date": "2022-10-20",
+                    "description": "Interest",
+                    "amount": 5838.1,
+                    "transaction_id": 12070900
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Deposit",
+                    "amount": 15510.76,
+                    "transaction_id": 90140858
+                }
+            ]
+        }
+    }
+}

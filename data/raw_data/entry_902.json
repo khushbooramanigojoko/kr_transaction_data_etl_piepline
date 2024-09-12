@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Justin Gutierrez",
+        "age": 88,
+        "gender": "female",
+        "address": "38869 Cook Bypass Apt. 359, Williamsport, PW 16314",
+        "phone": "4639741682",
+        "email": "kenneth46@example.org",
+        "account": {
+            "account_number": "9ea2756e-3fa9-4d17-8925-a50d887e753d",
+            "balance": 29202.96,
+            "transactions": [
+                {
+                    "date": "2023-04-17",
+                    "description": "Withdrawal",
+                    "amount": 13166.76,
+                    "transaction_id": 73080985
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Interest",
+                    "amount": 9406.61,
+                    "transaction_id": 55165763
+                },
+                {
+                    "date": "2023-04-26",
+                    "description": "Withdrawal",
+                    "amount": 26514.25,
+                    "transaction_id": 21948856
+                },
+                {
+                    "date": "2022-10-21",
+                    "description": "Deposit",
+                    "amount": 18957.4,
+                    "transaction_id": 17771156
+                }
+            ]
+        }
+    }
+}

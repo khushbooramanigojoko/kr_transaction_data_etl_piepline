@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kenneth Lucas",
+        "age": 65,
+        "gender": "female",
+        "address": "67693 Wilson Dale Suite 326, Kirkside, KY 09401",
+        "phone": "386-589-6961x059",
+        "email": "rwhite@example.org",
+        "account": {
+            "account_number": "0fdd0011-d602-4a2e-b1a6-252882f994b7",
+            "balance": -38177.47,
+            "transactions": [
+                {
+                    "date": "2023-06-21",
+                    "description": "Deposit",
+                    "amount": -3431.3,
+                    "transaction_id": 41469944
+                },
+                {
+                    "date": "2023-04-01",
+                    "description": "Interest",
+                    "amount": 3123.49,
+                    "transaction_id": 33720105
+                }
+            ]
+        }
+    }
+}

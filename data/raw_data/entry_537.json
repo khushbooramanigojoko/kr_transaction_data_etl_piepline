@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brenda Swanson",
+        "age": 87,
+        "gender": "female",
+        "address": "214 Jones Mills, Colleenview, NC 93727",
+        "phone": "3556135076",
+        "email": "alexandra09@example.net",
+        "account": {
+            "account_number": "4605afa8-9843-47b1-9452-93da76df4267",
+            "balance": 5371.93,
+            "transactions": [
+                {
+                    "date": "2023-02-08",
+                    "description": "Interest",
+                    "amount": 31596.65,
+                    "transaction_id": 47237610
+                },
+                {
+                    "date": "2023-09-01",
+                    "description": "Withdrawal",
+                    "amount": 46382.77,
+                    "transaction_id": 5282345
+                },
+                {
+                    "date": "2024-03-19",
+                    "description": "Deposit",
+                    "amount": 30573.31,
+                    "transaction_id": 97110896
+                },
+                {
+                    "date": "2022-11-24",
+                    "description": "Interest",
+                    "amount": 28498.17,
+                    "transaction_id": 96996707
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 21,
+        "gender": "female",
+        "address": "41893 Wang Drive, Lake Maria, SC 77240",
+        "phone": "419.648.6199x40282",
+        "email": "nicolele@example.org",
+        "account": {
+            "account_number": "b3ed4125-ed1b-4887-b383-688ae9eb0e39",
+            "balance": 29955.84,
+            "transactions": [
+                {
+                    "date": "2024-08-04",
+                    "description": "Interest",
+                    "amount": 3280.42,
+                    "transaction_id": 49307153
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Deposit",
+                    "amount": 4834.44,
+                    "transaction_id": 26077869
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Interest",
+                    "amount": 1975.39,
+                    "transaction_id": 64642512
+                },
+                {
+                    "date": "2023-12-08",
+                    "description": "Withdrawal",
+                    "amount": -3360.15,
+                    "transaction_id": 42759395
+                }
+            ]
+        }
+    }
+}

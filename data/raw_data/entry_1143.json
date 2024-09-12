@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ruben Edwards",
+        "age": 72,
+        "gender": "male",
+        "address": "Unit 8395 Box 9405, DPO AA 28393",
+        "phone": "+1-420-435-9116x736",
+        "email": "pbutler@example.org",
+        "account": {
+            "account_number": "c4996507-b190-48a8-a7b0-86a2fc0540df",
+            "balance": 29176.24,
+            "transactions": [
+                {
+                    "date": "2023-04-11",
+                    "description": "Interest",
+                    "amount": 41807.65,
+                    "transaction_id": 86703459
+                },
+                {
+                    "date": "2023-10-18",
+                    "description": "Interest",
+                    "amount": 30679.44,
+                    "transaction_id": 64700496
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Withdrawal",
+                    "amount": 41462.8,
+                    "transaction_id": 23113447
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Withdrawal",
+                    "amount": 35375.56,
+                    "transaction_id": 90805440
+                },
+                {
+                    "date": "2024-04-24",
+                    "description": "Interest",
+                    "amount": 10707.75,
+                    "transaction_id": 74692731
+                }
+            ]
+        }
+    }
+}

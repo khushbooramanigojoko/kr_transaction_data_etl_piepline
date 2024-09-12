@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kyle Kramer",
+        "age": 19,
+        "gender": "male",
+        "address": "41736 Mary Terrace Apt. 605, Danielfort, TX 44416",
+        "phone": "001-908-286-8305x688",
+        "email": "susanyoung@example.com",
+        "account": {
+            "account_number": "4d670f22-2f79-4867-8a49-7b9cc351130b",
+            "balance": 48357.79,
+            "transactions": [
+                {
+                    "date": "2023-04-02",
+                    "description": "Interest",
+                    "amount": 44789.48,
+                    "transaction_id": 4422194
+                },
+                {
+                    "date": "2023-04-18",
+                    "description": "Withdrawal",
+                    "amount": 7105.45,
+                    "transaction_id": 47493127
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Interest",
+                    "amount": 19456.48,
+                    "transaction_id": 112261904
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Deposit",
+                    "amount": 30397.71,
+                    "transaction_id": 66569629
+                }
+            ]
+        }
+    }
+}

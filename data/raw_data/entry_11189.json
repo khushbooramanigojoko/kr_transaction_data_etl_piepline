@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Heather Knight",
+        "age": 61,
+        "gender": "female",
+        "address": "USS Allen, FPO AA 63032",
+        "phone": "+1-697-485-8405x630",
+        "email": "jeffrey38@example.com",
+        "account": {
+            "account_number": "b78291a1-4741-4f87-a383-d30493e097e6",
+            "balance": -37779.28,
+            "transactions": [
+                {
+                    "date": "2024-05-16",
+                    "description": "Interest",
+                    "amount": -2263.44,
+                    "transaction_id": 109107893
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Interest",
+                    "amount": -2686.28,
+                    "transaction_id": 88984759
+                }
+            ]
+        }
+    }
+}

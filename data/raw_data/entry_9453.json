@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jessica Schmidt",
+        "age": 43,
+        "gender": "female",
+        "address": "PSC 0619, Box 9470, APO AE 14909",
+        "phone": "824.487.0946x31086",
+        "email": "andrewmoody@example.org",
+        "account": {
+            "account_number": "b55ac45a-34d5-4dc6-9572-7f32956d6235",
+            "balance": -45188.85,
+            "transactions": [
+                {
+                    "date": "2023-05-13",
+                    "description": "Deposit",
+                    "amount": 529.98,
+                    "transaction_id": 14600332
+                }
+            ]
+        }
+    }
+}

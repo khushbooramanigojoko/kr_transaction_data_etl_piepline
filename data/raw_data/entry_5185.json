@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Debra Ruiz",
+        "age": 91,
+        "gender": "female",
+        "address": "41973 Miranda Cliff Apt. 244, East Henrytown, OR 28136",
+        "phone": "001-525-826-5365x8550",
+        "email": "abigailjames@example.org",
+        "account": {
+            "account_number": "a780f86e-6110-4d57-99b9-8c7d71264252",
+            "balance": 1465.02,
+            "transactions": [
+                {
+                    "date": "2022-11-12",
+                    "description": "Withdrawal",
+                    "amount": 30477.92,
+                    "transaction_id": 8009544
+                },
+                {
+                    "date": "2023-04-11",
+                    "description": "Deposit",
+                    "amount": 10799.96,
+                    "transaction_id": 11745093
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Deposit",
+                    "amount": 2661.66,
+                    "transaction_id": 77292052
+                },
+                {
+                    "date": "2024-08-09",
+                    "description": "Interest",
+                    "amount": 39972.16,
+                    "transaction_id": 11019048
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Withdrawal",
+                    "amount": 8173.14,
+                    "transaction_id": 49518529
+                }
+            ]
+        }
+    }
+}

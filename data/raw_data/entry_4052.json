@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Courtney Williams",
+        "age": 31,
+        "gender": "female",
+        "address": "19893 Levine Drive Apt. 183, Lake Rachel, WV 35247",
+        "phone": "872-810-0771",
+        "email": "wilcoxwhitney@example.com",
+        "account": {
+            "account_number": "0f141362-f3de-405d-b3d1-65ce1f25df55",
+            "balance": 3060.56,
+            "transactions": [
+                {
+                    "date": "2024-02-15",
+                    "description": "Deposit",
+                    "amount": 4358.36,
+                    "transaction_id": 26312841
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Withdrawal",
+                    "amount": 29021.8,
+                    "transaction_id": 103330421
+                }
+            ]
+        }
+    }
+}

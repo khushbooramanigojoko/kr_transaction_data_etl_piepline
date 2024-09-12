@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "John Scott",
+        "age": 35,
+        "gender": "female",
+        "address": "USNV Lucas, FPO AA 53573",
+        "phone": "+1-965-779-1144",
+        "email": "madelinereynolds@example.org",
+        "account": {
+            "account_number": "2da07670-4463-4e14-a75a-3e70e3088a79",
+            "balance": 5886.57,
+            "transactions": [
+                {
+                    "date": "2024-03-03",
+                    "description": "Deposit",
+                    "amount": 22200.72,
+                    "transaction_id": 17594084
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Interest",
+                    "amount": 26446.07,
+                    "transaction_id": 98278638
+                },
+                {
+                    "date": "2022-11-07",
+                    "description": "Interest",
+                    "amount": 5069.79,
+                    "transaction_id": 53574389
+                }
+            ]
+        }
+    }
+}

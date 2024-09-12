@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 52,
+        "gender": "female",
+        "address": "851 Dennis Camp Apt. 067, Lonniestad, HI 82572",
+        "phone": "+1-464-215-1164x09379",
+        "email": "christopherlewis@example.com",
+        "account": {
+            "account_number": "35210394-c54b-41c1-bc03-287852aba5ea",
+            "balance": 38305.67,
+            "transactions": [
+                {
+                    "date": "2024-08-21",
+                    "description": "Deposit",
+                    "amount": -3090.88,
+                    "transaction_id": 3419726
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Interest",
+                    "amount": -1815.4,
+                    "transaction_id": 97823879
+                }
+            ]
+        }
+    }
+}

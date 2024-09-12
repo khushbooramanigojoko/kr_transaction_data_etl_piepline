@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Shawn Mcconnell",
+        "age": 77,
+        "gender": "male",
+        "address": "USCGC Ramirez, FPO AP 55548",
+        "phone": "2838815777",
+        "email": "jeffreyheath@example.com",
+        "account": {
+            "account_number": "21dbb53f-a7f4-4a2b-9d5a-ab7c6bd812b6",
+            "balance": 45334.3,
+            "transactions": [
+                {
+                    "date": "2024-04-02",
+                    "description": "Deposit",
+                    "amount": 27037.49,
+                    "transaction_id": 103698969
+                },
+                {
+                    "date": "2023-07-30",
+                    "description": "Withdrawal",
+                    "amount": 14385.32,
+                    "transaction_id": 109716400
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Deposit",
+                    "amount": 25765.62,
+                    "transaction_id": 12234714
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Interest",
+                    "amount": 40331.19,
+                    "transaction_id": 10300183
+                },
+                {
+                    "date": "2024-04-06",
+                    "description": "Deposit",
+                    "amount": 13604.16,
+                    "transaction_id": 97743456
+                }
+            ]
+        }
+    }
+}

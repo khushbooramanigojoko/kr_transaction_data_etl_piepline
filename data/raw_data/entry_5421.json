@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Brown",
+        "age": 24,
+        "gender": "female",
+        "address": "650 Davis Orchard Suite 926, West Brianstad, NM 69564",
+        "phone": "844.586.3774x0109",
+        "email": "ryan46@example.net",
+        "account": {
+            "account_number": "4eb17014-5044-4cbc-9300-69cbaae67a63",
+            "balance": 25936.77,
+            "transactions": [
+                {
+                    "date": "2022-10-04",
+                    "description": "Withdrawal",
+                    "amount": 19312.94,
+                    "transaction_id": 112624779
+                }
+            ]
+        }
+    }
+}

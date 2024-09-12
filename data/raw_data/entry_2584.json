@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kathleen Hall MD",
+        "age": 32,
+        "gender": "female",
+        "address": "406 Sara Fall Suite 009, Davidshire, MI 62432",
+        "phone": "941.508.1583x91638",
+        "email": "chloebooth@example.org",
+        "account": {
+            "account_number": "cdcc54b4-da05-41ce-9414-088ea98d1575",
+            "balance": 8409.96,
+            "transactions": [
+                {
+                    "date": "2024-03-07",
+                    "description": "Deposit",
+                    "amount": 17585.05,
+                    "transaction_id": 59730625
+                }
+            ]
+        }
+    }
+}

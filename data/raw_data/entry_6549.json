@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sandra Ayers",
+        "age": 61,
+        "gender": "female",
+        "address": "389 Donna View Suite 089, Michaelland, TN 27295",
+        "phone": "+1-240-559-6675x05835",
+        "email": "jimmywilkinson@example.org",
+        "account": {
+            "account_number": "792ec30b-2e4d-4b0a-a0f2-cadc34e7544f",
+            "balance": 11075.07,
+            "transactions": [
+                {
+                    "date": "2024-06-08",
+                    "description": "Deposit",
+                    "amount": 6347.98,
+                    "transaction_id": 57029262
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Deposit",
+                    "amount": 49861.74,
+                    "transaction_id": 81512826
+                },
+                {
+                    "date": "2023-09-09",
+                    "description": "Withdrawal",
+                    "amount": 9402.21,
+                    "transaction_id": 110507234
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Interest",
+                    "amount": 21870.1,
+                    "transaction_id": 4057626
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Interest",
+                    "amount": 34593.2,
+                    "transaction_id": 99086308
+                }
+            ]
+        }
+    }
+}

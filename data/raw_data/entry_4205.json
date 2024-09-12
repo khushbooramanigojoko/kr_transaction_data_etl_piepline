@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Daniel Johnson",
+        "age": 44,
+        "gender": "male",
+        "address": "84529 Shannon Lights, Port Karaton, VI 52131",
+        "phone": "+1-343-423-4234x701",
+        "email": "fuentesjonathan@example.com",
+        "account": {
+            "account_number": "6990ce18-0a0e-4faf-a9af-62f7879b44f9",
+            "balance": 32474.61,
+            "transactions": [
+                {
+                    "date": "2023-06-01",
+                    "description": "Deposit",
+                    "amount": 6101.79,
+                    "transaction_id": 109771290
+                },
+                {
+                    "date": "2022-11-04",
+                    "description": "Withdrawal",
+                    "amount": 7068.64,
+                    "transaction_id": 27102239
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Deposit",
+                    "amount": 42761.03,
+                    "transaction_id": 50629001
+                }
+            ]
+        }
+    }
+}

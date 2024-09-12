@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dennis Howell",
+        "age": 62,
+        "gender": "male",
+        "address": "584 Brittany Alley, East Lauren, WI 68684",
+        "phone": "001-413-322-3680x2704",
+        "email": "bondcarolyn@example.org",
+        "account": {
+            "account_number": "211d3541-c533-46f3-ba1b-e2b7d91586d2",
+            "balance": 31333.56,
+            "transactions": [
+                {
+                    "date": "2023-06-19",
+                    "description": "Deposit",
+                    "amount": 28544.41,
+                    "transaction_id": 92095604
+                },
+                {
+                    "date": "2023-12-06",
+                    "description": "Deposit",
+                    "amount": 43100.06,
+                    "transaction_id": 66446231
+                },
+                {
+                    "date": "2023-07-03",
+                    "description": "Deposit",
+                    "amount": 4519.57,
+                    "transaction_id": 45082357
+                },
+                {
+                    "date": "2023-05-25",
+                    "description": "Withdrawal",
+                    "amount": 24308.78,
+                    "transaction_id": 26474712
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Withdrawal",
+                    "amount": 26667.35,
+                    "transaction_id": 67743999
+                }
+            ]
+        }
+    }
+}

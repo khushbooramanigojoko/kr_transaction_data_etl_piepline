@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Bianca Morris",
+        "age": 43,
+        "gender": "male",
+        "address": "75950 Timothy Stream Apt. 167, Amandashire, ME 53618",
+        "phone": "7699718337",
+        "email": "martinhannah@example.com",
+        "account": {
+            "account_number": "01df5501-97f4-4880-b606-edd7d20117ad",
+            "balance": 35265.68,
+            "transactions": [
+                {
+                    "date": "2023-05-20",
+                    "description": "Deposit",
+                    "amount": 23370.57,
+                    "transaction_id": 87301047
+                },
+                {
+                    "date": "2023-04-15",
+                    "description": "Interest",
+                    "amount": 47007.4,
+                    "transaction_id": 4700538
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Withdrawal",
+                    "amount": 21556.35,
+                    "transaction_id": 93490878
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Deposit",
+                    "amount": 1902.46,
+                    "transaction_id": 92062578
+                },
+                {
+                    "date": "2023-04-19",
+                    "description": "Deposit",
+                    "amount": 43239.5,
+                    "transaction_id": 16266376
+                }
+            ]
+        }
+    }
+}

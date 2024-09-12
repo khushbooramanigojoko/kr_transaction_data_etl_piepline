@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Courtney Williams",
+        "age": 96,
+        "gender": "male",
+        "address": "654 Daniels Village Suite 226, Joshuaburgh, AS 39811",
+        "phone": "001-834-758-5546x9257",
+        "email": "traceyparsons@example.com",
+        "account": {
+            "account_number": "dad18030-abfb-40b7-8b97-bd3c3748ddf6",
+            "balance": 44112.27,
+            "transactions": [
+                {
+                    "date": "2023-01-12",
+                    "description": "Withdrawal",
+                    "amount": 23837.11,
+                    "transaction_id": 71632455
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Withdrawal",
+                    "amount": 47306.8,
+                    "transaction_id": 1634673
+                },
+                {
+                    "date": "2024-02-19",
+                    "description": "Withdrawal",
+                    "amount": 13356.15,
+                    "transaction_id": 109318597
+                },
+                {
+                    "date": "2023-01-15",
+                    "description": "Interest",
+                    "amount": 6780.7,
+                    "transaction_id": 110848512
+                },
+                {
+                    "date": "2024-04-04",
+                    "description": "Deposit",
+                    "amount": 43522.88,
+                    "transaction_id": 76189620
+                }
+            ]
+        }
+    }
+}

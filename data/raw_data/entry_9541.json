@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 60,
+        "gender": "female",
+        "address": "821 Sara Vista, Lake Tara, NH 66070",
+        "phone": "001-898-277-9322",
+        "email": "xnavarro@example.net",
+        "account": {
+            "account_number": "3a57a92d-fc61-4c23-892d-af387cb87a20",
+            "balance": 39644.38,
+            "transactions": [
+                {
+                    "date": "2023-12-31",
+                    "description": "Interest",
+                    "amount": -4313.89,
+                    "transaction_id": 12991928
+                },
+                {
+                    "date": "2022-09-20",
+                    "description": "Withdrawal",
+                    "amount": -4669.71,
+                    "transaction_id": 4461531
+                },
+                {
+                    "date": "2024-05-19",
+                    "description": "Deposit",
+                    "amount": -1712.43,
+                    "transaction_id": 3180536
+                },
+                {
+                    "date": "2023-07-04",
+                    "description": "Deposit",
+                    "amount": -1478.58,
+                    "transaction_id": 61346659
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Interest",
+                    "amount": -3408.67,
+                    "transaction_id": 117667110
+                }
+            ]
+        }
+    }
+}

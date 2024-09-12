@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Connie Johnson",
+        "age": 62,
+        "gender": "male",
+        "address": "43841 Lisa Glens Apt. 970, Craigborough, NY 19853",
+        "phone": "001-518-358-9341x692",
+        "email": "victor78@example.org",
+        "account": {
+            "account_number": "9f9d38d2-f4bb-4e64-ac1c-1a240fa00bdf",
+            "balance": 8352.01,
+            "transactions": [
+                {
+                    "date": "2024-01-26",
+                    "description": "Deposit",
+                    "amount": 31683.77,
+                    "transaction_id": 61195902
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Withdrawal",
+                    "amount": 39296.85,
+                    "transaction_id": 28771835
+                },
+                {
+                    "date": "2023-08-06",
+                    "description": "Deposit",
+                    "amount": 39284.53,
+                    "transaction_id": 112927929
+                },
+                {
+                    "date": "2023-04-17",
+                    "description": "Deposit",
+                    "amount": 22357.73,
+                    "transaction_id": 79011691
+                }
+            ]
+        }
+    }
+}

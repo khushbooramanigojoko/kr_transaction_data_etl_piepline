@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Eric Elliott",
+        "age": 29,
+        "gender": "male",
+        "address": "74485 Burns Villages Suite 629, Jonesview, RI 34543",
+        "phone": "001-751-818-8626x00542",
+        "email": "kperry@example.com",
+        "account": {
+            "account_number": "39e56b84-312b-4450-9762-670f2fdf8fbe",
+            "balance": 22587.39,
+            "transactions": [
+                {
+                    "date": "2024-04-10",
+                    "description": "Withdrawal",
+                    "amount": 40645.48,
+                    "transaction_id": 15862039
+                }
+            ]
+        }
+    }
+}

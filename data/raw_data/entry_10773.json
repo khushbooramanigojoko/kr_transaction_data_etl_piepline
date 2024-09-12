@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Leon Figueroa",
+        "age": 41,
+        "gender": "male",
+        "address": "13401 Jamie Prairie, Sandovalview, GU 33998",
+        "phone": "+1-210-743-0032x9011",
+        "email": "hturner@example.com",
+        "account": {
+            "account_number": "a98c5972-f519-4ca3-af0d-4a0880c095a2",
+            "balance": -6902.96,
+            "transactions": [
+                {
+                    "date": "2024-02-23",
+                    "description": "Withdrawal",
+                    "amount": 1674.55,
+                    "transaction_id": 83475476
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Deposit",
+                    "amount": -4065.48,
+                    "transaction_id": 4238349
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Withdrawal",
+                    "amount": 2572.28,
+                    "transaction_id": 10147829
+                }
+            ]
+        }
+    }
+}

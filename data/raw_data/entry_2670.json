@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lisa Turner",
+        "age": 77,
+        "gender": "male",
+        "address": "35065 Mcdonald Stream, Port Aaron, MI 12734",
+        "phone": "8875559034",
+        "email": "wtrujillo@example.com",
+        "account": {
+            "account_number": "013df140-2340-494f-89e4-888031e8a97b",
+            "balance": 20648.35,
+            "transactions": [
+                {
+                    "date": "2023-10-17",
+                    "description": "Deposit",
+                    "amount": 15246.86,
+                    "transaction_id": 111415971
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Deposit",
+                    "amount": 27426.41,
+                    "transaction_id": 108330538
+                }
+            ]
+        }
+    }
+}

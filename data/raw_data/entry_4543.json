@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Steven Bennett",
+        "age": 99,
+        "gender": "male",
+        "address": "95825 Curry Branch Suite 235, West Jessicahaven, MI 02006",
+        "phone": "(681)324-9224x110",
+        "email": "kimjones@example.net",
+        "account": {
+            "account_number": "71786d06-59e4-44cd-9425-aefcae935fc4",
+            "balance": 9512.12,
+            "transactions": [
+                {
+                    "date": "2022-10-13",
+                    "description": "Withdrawal",
+                    "amount": 15164.55,
+                    "transaction_id": 21414312
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Deposit",
+                    "amount": 49959.55,
+                    "transaction_id": 39167802
+                }
+            ]
+        }
+    }
+}

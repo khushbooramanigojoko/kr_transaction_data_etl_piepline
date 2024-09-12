@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Juan Garrison",
+        "age": 52,
+        "gender": "female",
+        "address": "33038 Mary Isle Apt. 142, Morriston, MI 29531",
+        "phone": "001-857-204-9375x65275",
+        "email": "morgan08@example.com",
+        "account": {
+            "account_number": "1c3398d6-0204-432d-bda5-a691b0188281",
+            "balance": 9409.37,
+            "transactions": [
+                {
+                    "date": "2022-10-11",
+                    "description": "Deposit",
+                    "amount": 26629.98,
+                    "transaction_id": 56214705
+                }
+            ]
+        }
+    }
+}

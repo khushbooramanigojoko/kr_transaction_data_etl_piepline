@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Richard Pugh",
+        "age": 77,
+        "gender": "female",
+        "address": "310 Garcia Wall, North Ericborough, ID 24881",
+        "phone": "(755)229-8222",
+        "email": "harrisrebecca@example.net",
+        "account": {
+            "account_number": "d2ae5ab6-3f0f-40e0-adf3-27345665a36c",
+            "balance": 18492.52,
+            "transactions": [
+                {
+                    "date": "2024-04-26",
+                    "description": "Interest",
+                    "amount": 4054.26,
+                    "transaction_id": 65673820
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Deposit",
+                    "amount": 9273.52,
+                    "transaction_id": 43322861
+                },
+                {
+                    "date": "2023-03-02",
+                    "description": "Deposit",
+                    "amount": 11383.27,
+                    "transaction_id": 25952536
+                },
+                {
+                    "date": "2024-08-12",
+                    "description": "Deposit",
+                    "amount": 31550.29,
+                    "transaction_id": 73283081
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Withdrawal",
+                    "amount": 27027.28,
+                    "transaction_id": 77523406
+                }
+            ]
+        }
+    }
+}

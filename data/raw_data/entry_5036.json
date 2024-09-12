@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kimberly Roberts",
+        "age": 36,
+        "gender": "male",
+        "address": "76969 Clark Cape Apt. 287, Port Christopher, VI 64373",
+        "phone": "2063936168",
+        "email": "kromero@example.net",
+        "account": {
+            "account_number": "83303f2b-5441-4095-9dc4-2cacbe612d5b",
+            "balance": 26815.13,
+            "transactions": [
+                {
+                    "date": "2023-04-07",
+                    "description": "Withdrawal",
+                    "amount": 35101.26,
+                    "transaction_id": 115689551
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Deposit",
+                    "amount": 45148.06,
+                    "transaction_id": 45517872
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Withdrawal",
+                    "amount": 44528.39,
+                    "transaction_id": 21313348
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Deposit",
+                    "amount": 7808.08,
+                    "transaction_id": 26018072
+                }
+            ]
+        }
+    }
+}

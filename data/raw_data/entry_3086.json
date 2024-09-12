@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sheila Foster",
+        "age": 84,
+        "gender": "female",
+        "address": "53746 Kelly Loaf, South Nicole, NV 65716",
+        "phone": "788-236-3192",
+        "email": "ogonzalez@example.com",
+        "account": {
+            "account_number": "57aea8ea-41b2-4aa4-937e-9c7a470a851b",
+            "balance": 8967.61,
+            "transactions": [
+                {
+                    "date": "2023-07-14",
+                    "description": "Deposit",
+                    "amount": 48722.74,
+                    "transaction_id": 105739830
+                },
+                {
+                    "date": "2022-11-19",
+                    "description": "Withdrawal",
+                    "amount": 49288.94,
+                    "transaction_id": 76130556
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Withdrawal",
+                    "amount": 3725.11,
+                    "transaction_id": 64035763
+                },
+                {
+                    "date": "2024-06-30",
+                    "description": "Interest",
+                    "amount": 3451.98,
+                    "transaction_id": 88797686
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Christian Lewis",
+        "age": 35,
+        "gender": "female",
+        "address": "871 Robert Club, Lake Christineview, SC 10473",
+        "phone": "+1-721-724-1247x12574",
+        "email": "larry42@example.net",
+        "account": {
+            "account_number": "cd333cc3-47a7-4932-9769-483bbec4f048",
+            "balance": -48861.82,
+            "transactions": [
+                {
+                    "date": "2023-10-30",
+                    "description": "Withdrawal",
+                    "amount": -3839.48,
+                    "transaction_id": 78566433
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Interest",
+                    "amount": 2135.56,
+                    "transaction_id": 114539337
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Interest",
+                    "amount": -3971.64,
+                    "transaction_id": 106102743
+                }
+            ]
+        }
+    }
+}

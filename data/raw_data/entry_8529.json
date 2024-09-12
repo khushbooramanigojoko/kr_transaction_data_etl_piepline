@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joyce Sanford",
+        "age": 98,
+        "gender": "male",
+        "address": "626 Martin Freeway, New Trevor, MN 18455",
+        "phone": "(204)455-7710x791",
+        "email": "heathergarrett@example.com",
+        "account": {
+            "account_number": "26c39778-9232-49d2-abf4-f935274f9cd4",
+            "balance": 31675.62,
+            "transactions": [
+                {
+                    "date": "2024-08-11",
+                    "description": "Deposit",
+                    "amount": 22973.22,
+                    "transaction_id": 47482334
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Deposit",
+                    "amount": 39947.94,
+                    "transaction_id": 86842338
+                }
+            ]
+        }
+    }
+}

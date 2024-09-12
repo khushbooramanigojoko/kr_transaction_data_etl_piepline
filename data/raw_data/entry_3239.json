@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sherry Mays",
+        "age": 83,
+        "gender": "male",
+        "address": "9699 Kiara Villages, Mirandaview, NE 11277",
+        "phone": "001-664-741-4562x0949",
+        "email": "estrickland@example.org",
+        "account": {
+            "account_number": "6e54a401-41f8-4c15-8431-11ee4608e63b",
+            "balance": 27378.5,
+            "transactions": [
+                {
+                    "date": "2022-12-26",
+                    "description": "Interest",
+                    "amount": 12592.36,
+                    "transaction_id": 105712652
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Deposit",
+                    "amount": 40739.18,
+                    "transaction_id": 38580323
+                }
+            ]
+        }
+    }
+}

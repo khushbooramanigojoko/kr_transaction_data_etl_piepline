@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jay Sweeney",
+        "age": 41,
+        "gender": "female",
+        "address": "Unit 2397 Box 1556, DPO AE 15997",
+        "phone": "529-392-8093x65877",
+        "email": "bbruce@example.net",
+        "account": {
+            "account_number": "572b992f-3017-4016-85a2-cb1703e2e24d",
+            "balance": -8969.35,
+            "transactions": [
+                {
+                    "date": "2024-06-26",
+                    "description": "Interest",
+                    "amount": 4631.03,
+                    "transaction_id": 59083431
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Interest",
+                    "amount": -2672.16,
+                    "transaction_id": 19989308
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Deposit",
+                    "amount": -3300.1,
+                    "transaction_id": 62788939
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Interest",
+                    "amount": 2975.42,
+                    "transaction_id": 53911809
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Interest",
+                    "amount": -3848.63,
+                    "transaction_id": 118337280
+                }
+            ]
+        }
+    }
+}

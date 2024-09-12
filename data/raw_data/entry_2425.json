@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Harry Frey",
+        "age": 90,
+        "gender": "female",
+        "address": "191 Jennifer Ford Suite 285, Jamestown, RI 36662",
+        "phone": "234.733.3497",
+        "email": "douglas77@example.net",
+        "account": {
+            "account_number": "2ffca188-8392-4fad-9ac4-54087c682fab",
+            "balance": 15710.78,
+            "transactions": [
+                {
+                    "date": "2023-08-12",
+                    "description": "Deposit",
+                    "amount": 3940.78,
+                    "transaction_id": 49977624
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Withdrawal",
+                    "amount": 30238.96,
+                    "transaction_id": 64715344
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Deposit",
+                    "amount": 39392.57,
+                    "transaction_id": 27585507
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Interest",
+                    "amount": 37790.34,
+                    "transaction_id": 106940432
+                },
+                {
+                    "date": "2024-01-06",
+                    "description": "Deposit",
+                    "amount": 14192.11,
+                    "transaction_id": 87014369
+                }
+            ]
+        }
+    }
+}

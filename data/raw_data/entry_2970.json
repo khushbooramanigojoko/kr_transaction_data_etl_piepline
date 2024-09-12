@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Denise Weaver",
+        "age": 74,
+        "gender": "female",
+        "address": "USS Hensley, FPO AE 96248",
+        "phone": "001-223-753-7046x25311",
+        "email": "janicewright@example.com",
+        "account": {
+            "account_number": "64b72797-2223-4f06-aeba-757f5996e5cd",
+            "balance": 8913.98,
+            "transactions": [
+                {
+                    "date": "2024-06-28",
+                    "description": "Withdrawal",
+                    "amount": 22397.37,
+                    "transaction_id": 77532168
+                }
+            ]
+        }
+    }
+}

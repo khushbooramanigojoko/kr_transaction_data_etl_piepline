@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ann Scott DVM",
+        "age": 98,
+        "gender": "male",
+        "address": "1903 Andrew Cove, North Elizabethstad, SC 37869",
+        "phone": "001-949-480-3745x5073",
+        "email": "williamsmichelle@example.net",
+        "account": {
+            "account_number": "18d66645-2864-46ab-b215-4330af838503",
+            "balance": 42611.68,
+            "transactions": [
+                {
+                    "date": "2024-01-20",
+                    "description": "Deposit",
+                    "amount": 20330.18,
+                    "transaction_id": 119614149
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Deposit",
+                    "amount": 42973.46,
+                    "transaction_id": 45579804
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Deposit",
+                    "amount": 48951.93,
+                    "transaction_id": 63100596
+                },
+                {
+                    "date": "2023-09-02",
+                    "description": "Withdrawal",
+                    "amount": 30805.28,
+                    "transaction_id": 30297341
+                },
+                {
+                    "date": "2024-06-29",
+                    "description": "Interest",
+                    "amount": 18602.68,
+                    "transaction_id": 79888376
+                }
+            ]
+        }
+    }
+}

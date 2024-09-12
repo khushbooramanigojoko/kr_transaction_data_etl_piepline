@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dustin Huynh",
+        "age": 19,
+        "gender": "male",
+        "address": "1771 Rodney Camp, Owensburgh, NM 31742",
+        "phone": "3696142923",
+        "email": "sabrina33@example.com",
+        "account": {
+            "account_number": "90c2e16c-7893-441f-9b9e-16a1e1780ef4",
+            "balance": 32847.86,
+            "transactions": [
+                {
+                    "date": "2023-08-29",
+                    "description": "Interest",
+                    "amount": 29736.4,
+                    "transaction_id": 38917857
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Murillo",
+        "age": 34,
+        "gender": "female",
+        "address": "8979 Collins Circle, West Paulfort, MT 82010",
+        "phone": "001-537-841-6452",
+        "email": "jasonatkins@example.net",
+        "account": {
+            "account_number": "8ee4dfc1-3b82-4971-9bae-1cb8fb425259",
+            "balance": 1173.55,
+            "transactions": [
+                {
+                    "date": "2024-06-27",
+                    "description": "Interest",
+                    "amount": 33123.34,
+                    "transaction_id": 65348545
+                },
+                {
+                    "date": "2023-09-08",
+                    "description": "Interest",
+                    "amount": 23481.61,
+                    "transaction_id": 5206911
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Deposit",
+                    "amount": 38226.19,
+                    "transaction_id": 14254093
+                },
+                {
+                    "date": "2024-04-21",
+                    "description": "Withdrawal",
+                    "amount": 44275.76,
+                    "transaction_id": 10162720
+                }
+            ]
+        }
+    }
+}

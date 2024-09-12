@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brian James",
+        "age": 78,
+        "gender": "female",
+        "address": "616 Leonard Plain, Lake Misty, IL 11853",
+        "phone": "5045701763",
+        "email": "grimesalicia@example.org",
+        "account": {
+            "account_number": "fe8f0c8c-cbb0-4856-98fd-8d8f64be3d0f",
+            "balance": -16223.32,
+            "transactions": [
+                {
+                    "date": "2023-02-11",
+                    "description": "Interest",
+                    "amount": 4896.45,
+                    "transaction_id": 24510223
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Interest",
+                    "amount": 2661.51,
+                    "transaction_id": 4289959
+                },
+                {
+                    "date": "2023-04-12",
+                    "description": "Withdrawal",
+                    "amount": -3609.88,
+                    "transaction_id": 46520907
+                },
+                {
+                    "date": "2023-05-04",
+                    "description": "Interest",
+                    "amount": 4099.74,
+                    "transaction_id": 111679883
+                },
+                {
+                    "date": "2022-09-20",
+                    "description": "Interest",
+                    "amount": 183.89,
+                    "transaction_id": 95702303
+                }
+            ]
+        }
+    }
+}

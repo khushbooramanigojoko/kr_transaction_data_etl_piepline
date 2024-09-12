@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sharon Vincent",
+        "age": 38,
+        "gender": "female",
+        "address": "2134 Courtney Gardens Suite 203, Michaelburgh, VA 57880",
+        "phone": "209.974.1605x94310",
+        "email": "idavis@example.org",
+        "account": {
+            "account_number": "601ea555-870b-4e8f-88a1-e79d38e7820d",
+            "balance": 4397.42,
+            "transactions": [
+                {
+                    "date": "2024-05-13",
+                    "description": "Interest",
+                    "amount": 14999.36,
+                    "transaction_id": 74361510
+                },
+                {
+                    "date": "2023-11-23",
+                    "description": "Interest",
+                    "amount": 2242.63,
+                    "transaction_id": 54480262
+                }
+            ]
+        }
+    }
+}

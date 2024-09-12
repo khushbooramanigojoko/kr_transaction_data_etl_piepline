@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lisa Young",
+        "age": 18,
+        "gender": "female",
+        "address": "459 Justin Fork, Jonestown, IN 91784",
+        "phone": "457-239-2449x12438",
+        "email": "jjones@example.org",
+        "account": {
+            "account_number": "3ca011eb-769d-44b7-91a7-276bba928b88",
+            "balance": 18605.17,
+            "transactions": [
+                {
+                    "date": "2024-03-04",
+                    "description": "Deposit",
+                    "amount": 34081.5,
+                    "transaction_id": 62696715
+                },
+                {
+                    "date": "2023-09-30",
+                    "description": "Deposit",
+                    "amount": 29539.72,
+                    "transaction_id": 68878325
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Interest",
+                    "amount": 48798.21,
+                    "transaction_id": 29223872
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Interest",
+                    "amount": 49509.63,
+                    "transaction_id": 66535712
+                }
+            ]
+        }
+    }
+}

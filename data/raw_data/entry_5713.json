@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jorge Booth",
+        "age": 58,
+        "gender": "female",
+        "address": "76156 Rivera Prairie, Aaronfort, GA 79500",
+        "phone": "(641)783-3150x79591",
+        "email": "taylorallen@example.com",
+        "account": {
+            "account_number": "e1203284-77ab-4648-a14d-26142cf63cb6",
+            "balance": 5470.13,
+            "transactions": [
+                {
+                    "date": "2024-09-01",
+                    "description": "Interest",
+                    "amount": 33820.96,
+                    "transaction_id": 11757327
+                },
+                {
+                    "date": "2023-04-29",
+                    "description": "Withdrawal",
+                    "amount": 32718.12,
+                    "transaction_id": 16902923
+                }
+            ]
+        }
+    }
+}

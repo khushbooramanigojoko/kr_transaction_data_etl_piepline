@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ralph Collier",
+        "age": 24,
+        "gender": "male",
+        "address": "86199 Andrews Run Apt. 283, New Taylor, OR 58382",
+        "phone": "(438)659-6807x921",
+        "email": "ericanavarro@example.com",
+        "account": {
+            "account_number": "893f7e07-62af-4446-a42c-0177ae545827",
+            "balance": 34180.67,
+            "transactions": [
+                {
+                    "date": "2023-09-21",
+                    "description": "Deposit",
+                    "amount": 46645.19,
+                    "transaction_id": 117004463
+                },
+                {
+                    "date": "2023-01-26",
+                    "description": "Deposit",
+                    "amount": 14391.63,
+                    "transaction_id": 27400448
+                },
+                {
+                    "date": "2024-05-27",
+                    "description": "Interest",
+                    "amount": 43335.74,
+                    "transaction_id": 110443542
+                },
+                {
+                    "date": "2023-09-21",
+                    "description": "Deposit",
+                    "amount": 5805.15,
+                    "transaction_id": 62763386
+                },
+                {
+                    "date": "2023-04-03",
+                    "description": "Withdrawal",
+                    "amount": 24634.16,
+                    "transaction_id": 39094967
+                }
+            ]
+        }
+    }
+}

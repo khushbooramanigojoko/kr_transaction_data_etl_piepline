@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Wendy Luna",
+        "age": 52,
+        "gender": "male",
+        "address": "0428 Samantha Club, New Cherylshire, TN 36937",
+        "phone": "001-551-208-8226x960",
+        "email": "craig34@example.com",
+        "account": {
+            "account_number": "d04abf17-d5b6-4a70-a696-1489305b03cf",
+            "balance": 10460.79,
+            "transactions": [
+                {
+                    "date": "2022-12-25",
+                    "description": "Withdrawal",
+                    "amount": 49643.94,
+                    "transaction_id": 57179381
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Deposit",
+                    "amount": 24083.06,
+                    "transaction_id": 112504575
+                },
+                {
+                    "date": "2024-06-11",
+                    "description": "Deposit",
+                    "amount": 21375.66,
+                    "transaction_id": 101055770
+                },
+                {
+                    "date": "2023-12-11",
+                    "description": "Withdrawal",
+                    "amount": 11222.59,
+                    "transaction_id": 74278099
+                }
+            ]
+        }
+    }
+}

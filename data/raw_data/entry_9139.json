@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Wanda Barron",
+        "age": 74,
+        "gender": "female",
+        "address": "3389 Ballard Port Suite 116, Port Michaelbury, PW 39854",
+        "phone": "(952)629-1455",
+        "email": "thomas75@example.org",
+        "account": {
+            "account_number": "242cf4e8-308c-4fe1-8139-96995cb702ea",
+            "balance": -33681.2,
+            "transactions": [
+                {
+                    "date": "2024-02-01",
+                    "description": "Deposit",
+                    "amount": -3302.41,
+                    "transaction_id": 39846398
+                },
+                {
+                    "date": "2023-07-31",
+                    "description": "Withdrawal",
+                    "amount": 2169.46,
+                    "transaction_id": 113429010
+                },
+                {
+                    "date": "2024-01-30",
+                    "description": "Interest",
+                    "amount": -3505.94,
+                    "transaction_id": 49892706
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Withdrawal",
+                    "amount": -1853.18,
+                    "transaction_id": 34484617
+                },
+                {
+                    "date": "2024-08-22",
+                    "description": "Interest",
+                    "amount": 1221.01,
+                    "transaction_id": 70247513
+                }
+            ]
+        }
+    }
+}

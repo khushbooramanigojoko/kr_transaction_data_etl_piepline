@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 26,
+        "gender": "male",
+        "address": "65251 Huber Street Suite 906, Lake Johnville, MS 63331",
+        "phone": "785.743.5906x059",
+        "email": "holmesjason@example.com",
+        "account": {
+            "account_number": "82feb4c0-0b78-4dfa-9593-bba9c6e2c982",
+            "balance": 34488.54,
+            "transactions": [
+                {
+                    "date": "2023-04-04",
+                    "description": "Withdrawal",
+                    "amount": 3769.35,
+                    "transaction_id": 113774365
+                },
+                {
+                    "date": "2024-04-25",
+                    "description": "Deposit",
+                    "amount": -3190.59,
+                    "transaction_id": 39934806
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Amanda Robinson",
+        "age": 64,
+        "gender": "male",
+        "address": "070 Heidi Mountain, North Albertbury, WI 79368",
+        "phone": "+1-687-288-2072x6088",
+        "email": "jeff74@example.net",
+        "account": {
+            "account_number": "0d7b55ec-9eff-4c26-9833-08b4d1c305c3",
+            "balance": 10576.38,
+            "transactions": [
+                {
+                    "date": "2023-10-08",
+                    "description": "Deposit",
+                    "amount": 25538.13,
+                    "transaction_id": 66544551
+                },
+                {
+                    "date": "2024-04-25",
+                    "description": "Interest",
+                    "amount": 32042.52,
+                    "transaction_id": 33217286
+                },
+                {
+                    "date": "2023-01-10",
+                    "description": "Interest",
+                    "amount": 24036.87,
+                    "transaction_id": 54470608
+                }
+            ]
+        }
+    }
+}

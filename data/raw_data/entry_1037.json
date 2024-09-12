@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Melinda Glover",
+        "age": 53,
+        "gender": "male",
+        "address": "87906 Morgan Center, Kramershire, AS 71863",
+        "phone": "925.940.5832x36846",
+        "email": "kathleen50@example.com",
+        "account": {
+            "account_number": "de4c75a9-acc0-413e-8aef-7d2194ac40e3",
+            "balance": 25750.87,
+            "transactions": [
+                {
+                    "date": "2022-09-30",
+                    "description": "Interest",
+                    "amount": 26338.04,
+                    "transaction_id": 59291031
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Interest",
+                    "amount": 12059.17,
+                    "transaction_id": 21197407
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Interest",
+                    "amount": 40920.86,
+                    "transaction_id": 79390153
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Deposit",
+                    "amount": 23268.55,
+                    "transaction_id": 50818390
+                },
+                {
+                    "date": "2023-01-01",
+                    "description": "Interest",
+                    "amount": 30282.47,
+                    "transaction_id": 88447031
+                }
+            ]
+        }
+    }
+}

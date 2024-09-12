@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Timothy Garcia",
+        "age": 84,
+        "gender": "female",
+        "address": "452 Martinez Pines Suite 230, Melanieshire, NM 54869",
+        "phone": "001-284-867-9318x19321",
+        "email": "mholmes@example.org",
+        "account": {
+            "account_number": "8eb1fc38-3c99-4bfb-81f3-80fab9f5b437",
+            "balance": 38697.34,
+            "transactions": [
+                {
+                    "date": "2024-08-07",
+                    "description": "Withdrawal",
+                    "amount": 17373.15,
+                    "transaction_id": 100533744
+                }
+            ]
+        }
+    }
+}

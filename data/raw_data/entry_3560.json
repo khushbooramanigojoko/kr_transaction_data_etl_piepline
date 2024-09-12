@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mitchell Miller",
+        "age": 88,
+        "gender": "female",
+        "address": "5382 Sharp Village Suite 107, West Maurice, WV 27914",
+        "phone": "+1-519-659-3771x49517",
+        "email": "rmonroe@example.net",
+        "account": {
+            "account_number": "f36edc91-3543-4ebc-945a-4838271d9212",
+            "balance": 37463.06,
+            "transactions": [
+                {
+                    "date": "2023-05-14",
+                    "description": "Deposit",
+                    "amount": 41335.54,
+                    "transaction_id": 90965560
+                },
+                {
+                    "date": "2022-12-04",
+                    "description": "Deposit",
+                    "amount": 18115.15,
+                    "transaction_id": 33365400
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Melissa Miller",
+        "age": 64,
+        "gender": "female",
+        "address": "716 Patty Pine, Millerside, PA 07915",
+        "phone": "(392)392-6344x385",
+        "email": "jerrywhite@example.org",
+        "account": {
+            "account_number": "7731cf08-4e43-4ff4-aad4-9dc12640c0f2",
+            "balance": 42354.17,
+            "transactions": [
+                {
+                    "date": "2023-09-02",
+                    "description": "Withdrawal",
+                    "amount": 631.95,
+                    "transaction_id": 21864899
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Deposit",
+                    "amount": 23619.01,
+                    "transaction_id": 105917795
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Deposit",
+                    "amount": 14171.48,
+                    "transaction_id": 105250386
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Interest",
+                    "amount": 46324.64,
+                    "transaction_id": 13544035
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Deposit",
+                    "amount": 8223.34,
+                    "transaction_id": 9481465
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 37,
+        "gender": "male",
+        "address": "6699 Kevin Loaf Suite 811, Jonesside, VI 04819",
+        "phone": "512.976.3139x612",
+        "email": "richardosborn@example.net",
+        "account": {
+            "account_number": "df488db1-a69b-48b5-9b0d-f991c522c166",
+            "balance": 12148.1,
+            "transactions": [
+                {
+                    "date": "2022-12-08",
+                    "description": "Interest",
+                    "amount": -356.97,
+                    "transaction_id": 58352604
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Withdrawal",
+                    "amount": -1234.93,
+                    "transaction_id": 118140202
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Withdrawal",
+                    "amount": 1857.75,
+                    "transaction_id": 57822866
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Withdrawal",
+                    "amount": -1469.39,
+                    "transaction_id": 101677738
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christina Martinez",
+        "age": 18,
+        "gender": "female",
+        "address": "09391 Swanson Springs Apt. 421, Matthewland, MI 47482",
+        "phone": "3197465860",
+        "email": "rjohnson@example.net",
+        "account": {
+            "account_number": "eb531feb-c545-4277-9387-d189e7ee3a12",
+            "balance": 17079.56,
+            "transactions": [
+                {
+                    "date": "2023-03-29",
+                    "description": "Withdrawal",
+                    "amount": 26289.73,
+                    "transaction_id": 83119391
+                },
+                {
+                    "date": "2024-01-11",
+                    "description": "Deposit",
+                    "amount": 36227.66,
+                    "transaction_id": 73972642
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Interest",
+                    "amount": 46281.57,
+                    "transaction_id": 24038731
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Deposit",
+                    "amount": 20738.75,
+                    "transaction_id": 61025388
+                },
+                {
+                    "date": "2023-01-31",
+                    "description": "Deposit",
+                    "amount": 21165.04,
+                    "transaction_id": 67001262
+                }
+            ]
+        }
+    }
+}

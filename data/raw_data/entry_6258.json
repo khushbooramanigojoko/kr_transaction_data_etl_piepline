@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tracey Mendoza",
+        "age": 21,
+        "gender": "male",
+        "address": "0708 Michael Islands Suite 560, Joseburgh, NC 46346",
+        "phone": "345-867-1461",
+        "email": "aadams@example.com",
+        "account": {
+            "account_number": "c662c6d6-343e-444e-bcfb-5383d57c0fbe",
+            "balance": 25132.24,
+            "transactions": [
+                {
+                    "date": "2024-08-30",
+                    "description": "Interest",
+                    "amount": 17455.4,
+                    "transaction_id": 32858573
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Interest",
+                    "amount": 25019.55,
+                    "transaction_id": 41761639
+                },
+                {
+                    "date": "2022-11-19",
+                    "description": "Withdrawal",
+                    "amount": 40379.62,
+                    "transaction_id": 19437885
+                },
+                {
+                    "date": "2024-06-06",
+                    "description": "Deposit",
+                    "amount": 26517.66,
+                    "transaction_id": 85291476
+                }
+            ]
+        }
+    }
+}

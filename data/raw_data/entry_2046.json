@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Karen Ruiz",
+        "age": 62,
+        "gender": "female",
+        "address": "97633 Grant Lights Suite 157, New Christopher, OH 23208",
+        "phone": "+1-935-921-7537x6819",
+        "email": "russellmonica@example.net",
+        "account": {
+            "account_number": "6f76a698-d31d-4d13-984d-583b8741ee34",
+            "balance": 29210.18,
+            "transactions": [
+                {
+                    "date": "2022-11-03",
+                    "description": "Interest",
+                    "amount": 30755.91,
+                    "transaction_id": 12785627
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Interest",
+                    "amount": 49413.74,
+                    "transaction_id": 4108317
+                }
+            ]
+        }
+    }
+}

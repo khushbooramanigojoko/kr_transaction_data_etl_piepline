@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lauren Larson",
+        "age": 20,
+        "gender": "male",
+        "address": "85990 Acosta Hill, Port Phillipport, MO 47804",
+        "phone": "785-434-6102",
+        "email": "ajordan@example.org",
+        "account": {
+            "account_number": "4f11c155-60cb-40ff-80f8-a53325aed60b",
+            "balance": 18618.36,
+            "transactions": [
+                {
+                    "date": "2023-10-27",
+                    "description": "Deposit",
+                    "amount": 42835.42,
+                    "transaction_id": 50405784
+                },
+                {
+                    "date": "2023-08-29",
+                    "description": "Withdrawal",
+                    "amount": 45927.66,
+                    "transaction_id": 70070058
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Deposit",
+                    "amount": 16231.12,
+                    "transaction_id": 115850920
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Deposit",
+                    "amount": 7659.78,
+                    "transaction_id": 115732516
+                }
+            ]
+        }
+    }
+}

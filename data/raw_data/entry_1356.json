@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph Garcia",
+        "age": 84,
+        "gender": "male",
+        "address": "9381 Lopez Junction, South Savannah, FM 73288",
+        "phone": "(963)391-0820",
+        "email": "robertlopez@example.com",
+        "account": {
+            "account_number": "4a289329-7969-4790-8f18-93f015f3ca63",
+            "balance": 13691.81,
+            "transactions": [
+                {
+                    "date": "2023-11-08",
+                    "description": "Interest",
+                    "amount": 42347.42,
+                    "transaction_id": 40677921
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Deposit",
+                    "amount": 974.39,
+                    "transaction_id": 20939439
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Interest",
+                    "amount": 36342.49,
+                    "transaction_id": 1084513
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Interest",
+                    "amount": 36587.37,
+                    "transaction_id": 71762477
+                }
+            ]
+        }
+    }
+}

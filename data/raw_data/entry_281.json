@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Donald Savage",
+        "age": 74,
+        "gender": "male",
+        "address": "0702 Payne Mountains, Masonview, OR 72810",
+        "phone": "736.595.2263",
+        "email": "zgates@example.org",
+        "account": {
+            "account_number": "f89c5d05-1c37-4fdd-8fdd-dbf997ab2f29",
+            "balance": 34315.9,
+            "transactions": [
+                {
+                    "date": "2023-03-04",
+                    "description": "Withdrawal",
+                    "amount": 46570.67,
+                    "transaction_id": 58066710
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Deposit",
+                    "amount": 4223.95,
+                    "transaction_id": 59871869
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Withdrawal",
+                    "amount": 5243.48,
+                    "transaction_id": 115425024
+                }
+            ]
+        }
+    }
+}

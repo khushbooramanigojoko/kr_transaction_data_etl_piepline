@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Cameron Rodgers",
+        "age": 59,
+        "gender": "male",
+        "address": "69000 Brad Rest Suite 077, Lake Mary, PW 73252",
+        "phone": "844.602.7523x49538",
+        "email": "fschwartz@example.org",
+        "account": {
+            "account_number": "baed4784-8633-4162-b8d7-ef446a41d182",
+            "balance": 9162.69,
+            "transactions": [
+                {
+                    "date": "2023-07-16",
+                    "description": "Withdrawal",
+                    "amount": 11355.83,
+                    "transaction_id": 4436617
+                },
+                {
+                    "date": "2022-09-06",
+                    "description": "Interest",
+                    "amount": 29685.2,
+                    "transaction_id": 11039542
+                },
+                {
+                    "date": "2023-08-30",
+                    "description": "Interest",
+                    "amount": 3387.3,
+                    "transaction_id": 119999386
+                }
+            ]
+        }
+    }
+}

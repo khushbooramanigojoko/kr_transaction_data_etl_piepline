@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 50,
+        "gender": "female",
+        "address": "7865 Harrison Junctions Apt. 753, South Dominique, WA 16617",
+        "phone": "001-840-636-9644",
+        "email": "millertimothy@example.net",
+        "account": {
+            "account_number": "ada2e7eb-8e8c-480a-81f8-28ad5a31fdb4",
+            "balance": 16076.16,
+            "transactions": [
+                {
+                    "date": "2024-01-14",
+                    "description": "Interest",
+                    "amount": 1519.45,
+                    "transaction_id": 48951083
+                }
+            ]
+        }
+    }
+}

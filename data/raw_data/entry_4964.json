@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Leah Williams",
+        "age": 61,
+        "gender": "female",
+        "address": "Unit 1409 Box 0188, DPO AE 77494",
+        "phone": "376.484.7038x7732",
+        "email": "ccunningham@example.net",
+        "account": {
+            "account_number": "8ad3d673-a006-4229-9a0b-b61a32562f49",
+            "balance": 17989.05,
+            "transactions": [
+                {
+                    "date": "2023-07-31",
+                    "description": "Withdrawal",
+                    "amount": 47668.71,
+                    "transaction_id": 65056085
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Smith",
+        "age": 51,
+        "gender": "male",
+        "address": "1053 Robin Alley, Robersonton, NV 22635",
+        "phone": "001-385-906-0547x1516",
+        "email": "carrie09@example.com",
+        "account": {
+            "account_number": "055020c2-f70b-474e-a4c2-5e500cadecb3",
+            "balance": 33711.52,
+            "transactions": [
+                {
+                    "date": "2023-03-16",
+                    "description": "Deposit",
+                    "amount": 38187.22,
+                    "transaction_id": 34332638
+                },
+                {
+                    "date": "2023-02-01",
+                    "description": "Interest",
+                    "amount": 24476.51,
+                    "transaction_id": 38609590
+                },
+                {
+                    "date": "2023-05-17",
+                    "description": "Withdrawal",
+                    "amount": 40348.26,
+                    "transaction_id": 31554468
+                },
+                {
+                    "date": "2022-12-03",
+                    "description": "Withdrawal",
+                    "amount": 48228.49,
+                    "transaction_id": 90222613
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Deposit",
+                    "amount": 37941.6,
+                    "transaction_id": 88567122
+                }
+            ]
+        }
+    }
+}

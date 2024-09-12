@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 44,
+        "gender": "male",
+        "address": "13741 Lisa Ranch Suite 630, East Erinport, MD 51122",
+        "phone": "001-950-562-1454x67126",
+        "email": "robertsisabella@example.org",
+        "account": {
+            "account_number": "39e1dd6a-255f-4a95-9b60-37b1a44329de",
+            "balance": 11580.77,
+            "transactions": [
+                {
+                    "date": "2023-03-02",
+                    "description": "Withdrawal",
+                    "amount": -2702.29,
+                    "transaction_id": 56268681
+                }
+            ]
+        }
+    }
+}

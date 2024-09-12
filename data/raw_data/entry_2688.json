@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kelly Casey",
+        "age": 19,
+        "gender": "male",
+        "address": "18069 Norman Centers, Janetchester, PA 43265",
+        "phone": "208.917.0644x28794",
+        "email": "angel49@example.org",
+        "account": {
+            "account_number": "2b2d30f3-0938-4aab-8a24-4a8f207455bc",
+            "balance": 23717.85,
+            "transactions": [
+                {
+                    "date": "2023-12-21",
+                    "description": "Withdrawal",
+                    "amount": 49773.32,
+                    "transaction_id": 89024966
+                }
+            ]
+        }
+    }
+}

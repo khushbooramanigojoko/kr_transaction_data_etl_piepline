@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 78,
+        "gender": "female",
+        "address": "USNS Anderson, FPO AE 27211",
+        "phone": "001-969-386-5009x6690",
+        "email": "garrettmorrison@example.net",
+        "account": {
+            "account_number": "7c4aa3cc-943b-408d-a2c0-b53e83a147df",
+            "balance": 27327.72,
+            "transactions": [
+                {
+                    "date": "2024-01-24",
+                    "description": "Withdrawal",
+                    "amount": 2249.34,
+                    "transaction_id": 56227636
+                }
+            ]
+        }
+    }
+}

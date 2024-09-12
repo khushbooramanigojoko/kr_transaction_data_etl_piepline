@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "David Mayer",
+        "age": 75,
+        "gender": "male",
+        "address": "139 Karen Island, Coxborough, MO 75475",
+        "phone": "577.432.0231",
+        "email": "josephnguyen@example.com",
+        "account": {
+            "account_number": "38648834-0f34-4226-8e2b-a2a5b458755b",
+            "balance": 22660.38,
+            "transactions": [
+                {
+                    "date": "2023-08-19",
+                    "description": "Deposit",
+                    "amount": 14921.9,
+                    "transaction_id": 5951749
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Deposit",
+                    "amount": 21170.48,
+                    "transaction_id": 114150149
+                }
+            ]
+        }
+    }
+}

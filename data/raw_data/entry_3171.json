@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ryan Morris",
+        "age": 69,
+        "gender": "male",
+        "address": "853 Lowe Creek, East Jasminehaven, AK 04225",
+        "phone": "001-433-461-4104x933",
+        "email": "ericknapp@example.com",
+        "account": {
+            "account_number": "5e579ca7-f937-499d-802b-4bf8a5ba1973",
+            "balance": 15185.02,
+            "transactions": [
+                {
+                    "date": "2024-05-10",
+                    "description": "Withdrawal",
+                    "amount": 40694.93,
+                    "transaction_id": 60484112
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Deposit",
+                    "amount": 48756.5,
+                    "transaction_id": 11759373
+                }
+            ]
+        }
+    }
+}

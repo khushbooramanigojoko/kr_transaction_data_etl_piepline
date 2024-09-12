@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 19,
+        "gender": "male",
+        "address": "PSC 1757, Box 9719, APO AP 78259",
+        "phone": "(303)992-5044x17875",
+        "email": "eric09@example.com",
+        "account": {
+            "account_number": "bf4e6a23-1fa1-40a9-90d1-4436e5b86316",
+            "balance": 13837.62,
+            "transactions": [
+                {
+                    "date": "2023-03-26",
+                    "description": "Withdrawal",
+                    "amount": -3330.3,
+                    "transaction_id": 95669866
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Interest",
+                    "amount": -342.22,
+                    "transaction_id": 117394974
+                },
+                {
+                    "date": "2024-03-12",
+                    "description": "Withdrawal",
+                    "amount": 4402.33,
+                    "transaction_id": 14235333
+                }
+            ]
+        }
+    }
+}

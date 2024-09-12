@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kevin Allen",
+        "age": 77,
+        "gender": "female",
+        "address": "926 Steve Expressway Apt. 840, Welchtown, TX 54796",
+        "phone": "465.509.1081x93187",
+        "email": "debra61@example.net",
+        "account": {
+            "account_number": "190ea997-a73f-49c0-8a04-9e2d51586f89",
+            "balance": 47165.92,
+            "transactions": [
+                {
+                    "date": "2023-05-22",
+                    "description": "Interest",
+                    "amount": 18681.89,
+                    "transaction_id": 113050745
+                },
+                {
+                    "date": "2022-09-29",
+                    "description": "Interest",
+                    "amount": 49143.56,
+                    "transaction_id": 11020725
+                },
+                {
+                    "date": "2023-01-31",
+                    "description": "Withdrawal",
+                    "amount": 37572.32,
+                    "transaction_id": 43444818
+                },
+                {
+                    "date": "2024-08-10",
+                    "description": "Withdrawal",
+                    "amount": 1949.8,
+                    "transaction_id": 51405829
+                }
+            ]
+        }
+    }
+}

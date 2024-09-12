@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Matthew Ford",
+        "age": 26,
+        "gender": "male",
+        "address": "7689 Solomon Knoll, Campbellhaven, SD 50881",
+        "phone": "891.716.0108",
+        "email": "emartinez@example.net",
+        "account": {
+            "account_number": "e19d31a9-1c97-4ba9-a711-c015fa4c3ad5",
+            "balance": 22538.89,
+            "transactions": [
+                {
+                    "date": "2022-09-14",
+                    "description": "Withdrawal",
+                    "amount": 38761.42,
+                    "transaction_id": 50448799
+                },
+                {
+                    "date": "2023-02-21",
+                    "description": "Withdrawal",
+                    "amount": 3510.72,
+                    "transaction_id": 47194939
+                }
+            ]
+        }
+    }
+}

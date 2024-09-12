@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 33,
+        "gender": "female",
+        "address": "278 Steven Rapids Apt. 847, Port James, VI 69781",
+        "phone": "758-868-2941",
+        "email": "brycemay@example.net",
+        "account": {
+            "account_number": "528badab-44d5-4646-806c-d816bc1f41a1",
+            "balance": 18258.74,
+            "transactions": [
+                {
+                    "date": "2023-09-29",
+                    "description": "Interest",
+                    "amount": -1659.92,
+                    "transaction_id": 7853916
+                },
+                {
+                    "date": "2023-04-30",
+                    "description": "Interest",
+                    "amount": 1158.66,
+                    "transaction_id": 10446204
+                }
+            ]
+        }
+    }
+}

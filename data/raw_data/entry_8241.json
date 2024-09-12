@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Larry Martin",
+        "age": 70,
+        "gender": "male",
+        "address": "3763 Williams Ville, West Michelleside, ME 33968",
+        "phone": "424.271.1099x865",
+        "email": "karen24@example.org",
+        "account": {
+            "account_number": "0c2b927c-83ad-47ae-abe6-c9741471bb37",
+            "balance": 10870.13,
+            "transactions": [
+                {
+                    "date": "2023-04-08",
+                    "description": "Interest",
+                    "amount": 2692.8,
+                    "transaction_id": 95683492
+                },
+                {
+                    "date": "2024-06-28",
+                    "description": "Interest",
+                    "amount": 4449.07,
+                    "transaction_id": 27091770
+                },
+                {
+                    "date": "2024-04-10",
+                    "description": "Deposit",
+                    "amount": 45484.7,
+                    "transaction_id": 65357975
+                },
+                {
+                    "date": "2023-01-16",
+                    "description": "Withdrawal",
+                    "amount": 36680.95,
+                    "transaction_id": 5664530
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Yvonne Russell",
+        "age": 46,
+        "gender": "female",
+        "address": "47951 Olson Trail, Walterside, ND 00967",
+        "phone": "(576)342-0272",
+        "email": "beth66@example.com",
+        "account": {
+            "account_number": "bb517cf5-ddab-4026-baa5-c691752f28b1",
+            "balance": -34932.86,
+            "transactions": [
+                {
+                    "date": "2024-08-04",
+                    "description": "Withdrawal",
+                    "amount": -1869.68,
+                    "transaction_id": 51482677
+                }
+            ]
+        }
+    }
+}

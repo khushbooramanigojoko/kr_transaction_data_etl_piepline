@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Matthew Mcgee",
+        "age": 64,
+        "gender": "male",
+        "address": "570 Bryan Trail, South Leslie, KY 27709",
+        "phone": "254.448.8994x49266",
+        "email": "michelleboyd@example.org",
+        "account": {
+            "account_number": "c768be64-598a-4777-81a3-63fa3b27b184",
+            "balance": 49761.13,
+            "transactions": [
+                {
+                    "date": "2023-04-10",
+                    "description": "Interest",
+                    "amount": 40382.76,
+                    "transaction_id": 72550043
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Interest",
+                    "amount": 29154.32,
+                    "transaction_id": 101811304
+                },
+                {
+                    "date": "2023-04-17",
+                    "description": "Withdrawal",
+                    "amount": 25696.94,
+                    "transaction_id": 85465689
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Withdrawal",
+                    "amount": 16174.62,
+                    "transaction_id": 8619652
+                }
+            ]
+        }
+    }
+}

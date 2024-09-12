@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Bryan Mitchell",
+        "age": 36,
+        "gender": "male",
+        "address": "7834 Wong Squares, Johnsonview, MT 23521",
+        "phone": "426-347-7970x451",
+        "email": "ingramalexis@example.net",
+        "account": {
+            "account_number": "1382ea1c-051a-4dad-9045-bf4dfec63736",
+            "balance": 38882.87,
+            "transactions": [
+                {
+                    "date": "2022-10-03",
+                    "description": "Deposit",
+                    "amount": 45159.11,
+                    "transaction_id": 17636829
+                },
+                {
+                    "date": "2023-11-23",
+                    "description": "Withdrawal",
+                    "amount": 19453.03,
+                    "transaction_id": 53922358
+                }
+            ]
+        }
+    }
+}

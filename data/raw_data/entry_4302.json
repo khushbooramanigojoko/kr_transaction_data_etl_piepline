@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Miller",
+        "age": 84,
+        "gender": "male",
+        "address": "342 Tara Springs Apt. 111, Adamshaven, FL 12711",
+        "phone": "910.853.5658x422",
+        "email": "mitchellkayla@example.org",
+        "account": {
+            "account_number": "616e3b9e-4251-4dd4-8f20-a6a34a612e6f",
+            "balance": 6399.98,
+            "transactions": [
+                {
+                    "date": "2023-11-06",
+                    "description": "Interest",
+                    "amount": 38845.36,
+                    "transaction_id": 19712540
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Deposit",
+                    "amount": 5058.41,
+                    "transaction_id": 66008851
+                },
+                {
+                    "date": "2024-01-21",
+                    "description": "Withdrawal",
+                    "amount": 27317.07,
+                    "transaction_id": 85695249
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Interest",
+                    "amount": 29837.05,
+                    "transaction_id": 31589787
+                },
+                {
+                    "date": "2023-01-21",
+                    "description": "Interest",
+                    "amount": 22501.67,
+                    "transaction_id": 31332483
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ronald Murphy",
+        "age": 83,
+        "gender": "male",
+        "address": "03622 Massey Point, South Lisa, WY 35172",
+        "phone": "379.250.3548",
+        "email": "katiedavis@example.org",
+        "account": {
+            "account_number": "916d9ce7-85fe-48b1-b2c5-85d985e4f095",
+            "balance": 19922.6,
+            "transactions": [
+                {
+                    "date": "2023-07-05",
+                    "description": "Withdrawal",
+                    "amount": 35573.28,
+                    "transaction_id": 109600260
+                },
+                {
+                    "date": "2024-04-29",
+                    "description": "Withdrawal",
+                    "amount": 25465.61,
+                    "transaction_id": 10947169
+                },
+                {
+                    "date": "2023-07-08",
+                    "description": "Interest",
+                    "amount": 27009.94,
+                    "transaction_id": 62665677
+                },
+                {
+                    "date": "2024-07-13",
+                    "description": "Interest",
+                    "amount": 30866.19,
+                    "transaction_id": 80839851
+                }
+            ]
+        }
+    }
+}

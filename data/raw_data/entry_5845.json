@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Elliott",
+        "age": 87,
+        "gender": "male",
+        "address": "23972 Herrera Mountain, North Stephaniestad, AR 82468",
+        "phone": "397.825.0004x9443",
+        "email": "robin78@example.org",
+        "account": {
+            "account_number": "30824cd1-340b-41b9-99b4-e05ce745fe22",
+            "balance": 34364.63,
+            "transactions": [
+                {
+                    "date": "2022-11-21",
+                    "description": "Interest",
+                    "amount": 11790.64,
+                    "transaction_id": 49261313
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Withdrawal",
+                    "amount": 22988.18,
+                    "transaction_id": 113644623
+                }
+            ]
+        }
+    }
+}

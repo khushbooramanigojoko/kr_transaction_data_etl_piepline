@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jamie Schroeder",
+        "age": 93,
+        "gender": "female",
+        "address": "581 Rios Pike, South Hannahmouth, OR 30609",
+        "phone": "(599)696-0821",
+        "email": "kathrynevans@example.net",
+        "account": {
+            "account_number": "d95dac33-21b5-40f2-b662-216d1fac8478",
+            "balance": 28656.47,
+            "transactions": [
+                {
+                    "date": "2022-10-17",
+                    "description": "Deposit",
+                    "amount": 11556.31,
+                    "transaction_id": 24494696
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Deposit",
+                    "amount": 49759.7,
+                    "transaction_id": 15046362
+                },
+                {
+                    "date": "2024-09-01",
+                    "description": "Withdrawal",
+                    "amount": 34051.46,
+                    "transaction_id": 99583430
+                },
+                {
+                    "date": "2023-06-30",
+                    "description": "Deposit",
+                    "amount": 30067.11,
+                    "transaction_id": 65108328
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Interest",
+                    "amount": 4217.05,
+                    "transaction_id": 108517815
+                }
+            ]
+        }
+    }
+}

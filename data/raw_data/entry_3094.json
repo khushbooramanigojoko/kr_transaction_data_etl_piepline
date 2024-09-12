@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Steven Hayes",
+        "age": 83,
+        "gender": "male",
+        "address": "3401 Smith Haven, South Wesley, AZ 16828",
+        "phone": "+1-604-937-8040",
+        "email": "annette46@example.org",
+        "account": {
+            "account_number": "b60fab7d-7d23-4ab0-a703-b5bfb8120322",
+            "balance": 34919.15,
+            "transactions": [
+                {
+                    "date": "2023-04-09",
+                    "description": "Interest",
+                    "amount": 44276.56,
+                    "transaction_id": 73448015
+                },
+                {
+                    "date": "2023-08-04",
+                    "description": "Deposit",
+                    "amount": 1335.17,
+                    "transaction_id": 13436767
+                },
+                {
+                    "date": "2024-04-06",
+                    "description": "Deposit",
+                    "amount": 41978.25,
+                    "transaction_id": 42814149
+                },
+                {
+                    "date": "2023-04-20",
+                    "description": "Withdrawal",
+                    "amount": 20319.41,
+                    "transaction_id": 115571069
+                }
+            ]
+        }
+    }
+}

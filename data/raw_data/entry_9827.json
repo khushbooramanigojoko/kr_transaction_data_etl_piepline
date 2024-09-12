@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Benjamin Phillips",
+        "age": 25,
+        "gender": "female",
+        "address": "797 Jefferson Lane, East Elizabeth, VI 49063",
+        "phone": "(256)974-2002",
+        "email": "victoria22@example.com",
+        "account": {
+            "account_number": "61aa6f82-3a2f-41db-bd5b-4c3aa37218d3",
+            "balance": -19987.71,
+            "transactions": [
+                {
+                    "date": "2024-02-18",
+                    "description": "Deposit",
+                    "amount": 3047.04,
+                    "transaction_id": 116745484
+                },
+                {
+                    "date": "2024-04-04",
+                    "description": "Withdrawal",
+                    "amount": 2812.67,
+                    "transaction_id": 7187813
+                },
+                {
+                    "date": "2024-01-21",
+                    "description": "Interest",
+                    "amount": -3429.89,
+                    "transaction_id": 107913547
+                }
+            ]
+        }
+    }
+}

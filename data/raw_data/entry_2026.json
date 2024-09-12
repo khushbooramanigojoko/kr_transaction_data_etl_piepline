@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Wendy Pace",
+        "age": 79,
+        "gender": "female",
+        "address": "87570 Moon Village Suite 978, Jessicastad, FM 20117",
+        "phone": "001-660-763-7785x2323",
+        "email": "martineztimothy@example.com",
+        "account": {
+            "account_number": "634d5b5e-3f2c-4f39-bc06-b29c9490443c",
+            "balance": 6808.31,
+            "transactions": [
+                {
+                    "date": "2024-06-23",
+                    "description": "Withdrawal",
+                    "amount": 7086.23,
+                    "transaction_id": 88051427
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Withdrawal",
+                    "amount": 47083.06,
+                    "transaction_id": 25540333
+                }
+            ]
+        }
+    }
+}

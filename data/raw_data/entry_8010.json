@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joe Smith",
+        "age": 77,
+        "gender": "female",
+        "address": "Unit 1210 Box 8655, DPO AE 00730",
+        "phone": "+1-336-523-3215x2909",
+        "email": "julia10@example.org",
+        "account": {
+            "account_number": "000aee9c-6acb-4329-a640-36b22d73a631",
+            "balance": 43524.81,
+            "transactions": [
+                {
+                    "date": "2023-02-06",
+                    "description": "Withdrawal",
+                    "amount": 4169.44,
+                    "transaction_id": 34845522
+                },
+                {
+                    "date": "2024-07-19",
+                    "description": "Withdrawal",
+                    "amount": 20022.95,
+                    "transaction_id": 49339775
+                },
+                {
+                    "date": "2024-05-04",
+                    "description": "Withdrawal",
+                    "amount": 10009.23,
+                    "transaction_id": 24652550
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Deposit",
+                    "amount": 5106.6,
+                    "transaction_id": 82884485
+                },
+                {
+                    "date": "2023-04-22",
+                    "description": "Withdrawal",
+                    "amount": 22266.54,
+                    "transaction_id": 88922555
+                }
+            ]
+        }
+    }
+}

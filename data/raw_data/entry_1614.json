@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kara Smith",
+        "age": 52,
+        "gender": "male",
+        "address": "627 Byrd Spring, Lake Meredithshire, FM 80726",
+        "phone": "454-956-6079x65871",
+        "email": "palmerolivia@example.net",
+        "account": {
+            "account_number": "634825f8-9acc-401c-ad61-6c94d6fc572e",
+            "balance": 9184.28,
+            "transactions": [
+                {
+                    "date": "2024-01-20",
+                    "description": "Withdrawal",
+                    "amount": 39773.67,
+                    "transaction_id": 10623220
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Interest",
+                    "amount": 4906.93,
+                    "transaction_id": 100935295
+                }
+            ]
+        }
+    }
+}

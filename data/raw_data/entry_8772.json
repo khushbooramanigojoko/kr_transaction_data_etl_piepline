@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joshua Carrillo",
+        "age": 92,
+        "gender": "female",
+        "address": "303 Gregory Green Suite 683, New Paige, MA 83756",
+        "phone": "(301)527-9044x41786",
+        "email": "rbrown@example.net",
+        "account": {
+            "account_number": "cbbaaa64-2b18-4092-a68e-17192c3c902e",
+            "balance": -9468.38,
+            "transactions": [
+                {
+                    "date": "2023-06-04",
+                    "description": "Interest",
+                    "amount": -753.38,
+                    "transaction_id": 82912679
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Deposit",
+                    "amount": 4666.15,
+                    "transaction_id": 102335459
+                },
+                {
+                    "date": "2024-05-04",
+                    "description": "Interest",
+                    "amount": 3191.71,
+                    "transaction_id": 21864668
+                },
+                {
+                    "date": "2024-06-10",
+                    "description": "Withdrawal",
+                    "amount": 4921.28,
+                    "transaction_id": 92901260
+                },
+                {
+                    "date": "2022-12-11",
+                    "description": "Deposit",
+                    "amount": 1106.25,
+                    "transaction_id": 116890358
+                }
+            ]
+        }
+    }
+}

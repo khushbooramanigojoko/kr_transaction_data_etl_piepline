@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Heather Flores",
+        "age": 93,
+        "gender": "male",
+        "address": "88244 Craig Expressway, Kellyport, CO 66660",
+        "phone": "4946956051",
+        "email": "kcastro@example.net",
+        "account": {
+            "account_number": "d67b518e-253d-41fa-b14c-1b816cdcb2b3",
+            "balance": 3073.22,
+            "transactions": [
+                {
+                    "date": "2022-12-11",
+                    "description": "Withdrawal",
+                    "amount": 7644.03,
+                    "transaction_id": 53345284
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Deposit",
+                    "amount": 22712.18,
+                    "transaction_id": 105535357
+                },
+                {
+                    "date": "2023-01-15",
+                    "description": "Interest",
+                    "amount": 41053.35,
+                    "transaction_id": 19350732
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Withdrawal",
+                    "amount": 40308.42,
+                    "transaction_id": 56386365
+                }
+            ]
+        }
+    }
+}

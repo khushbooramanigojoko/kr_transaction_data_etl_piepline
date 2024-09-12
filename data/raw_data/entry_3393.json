@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jennifer Levine",
+        "age": 28,
+        "gender": "female",
+        "address": "44743 Burns Pine, New Melissabury, ND 79622",
+        "phone": "+1-701-766-0527x0922",
+        "email": "thomasjohnson@example.org",
+        "account": {
+            "account_number": "58601874-7c90-4e3e-8354-31abfc235f63",
+            "balance": 42774.86,
+            "transactions": [
+                {
+                    "date": "2023-01-21",
+                    "description": "Deposit",
+                    "amount": 22425.35,
+                    "transaction_id": 74404668
+                },
+                {
+                    "date": "2024-03-19",
+                    "description": "Deposit",
+                    "amount": 31992.66,
+                    "transaction_id": 70954069
+                }
+            ]
+        }
+    }
+}

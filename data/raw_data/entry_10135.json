@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 20,
+        "gender": "female",
+        "address": "499 Kimberly Springs, Duffyborough, VT 28294",
+        "phone": "001-991-343-7483x5383",
+        "email": "jenniferdixon@example.com",
+        "account": {
+            "account_number": "b3421151-65b0-4aa3-affd-6f5df1a302ba",
+            "balance": 22433.78,
+            "transactions": [
+                {
+                    "date": "2022-11-25",
+                    "description": "Deposit",
+                    "amount": -4473.66,
+                    "transaction_id": 84836364
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Deposit",
+                    "amount": -4036.01,
+                    "transaction_id": 31682410
+                },
+                {
+                    "date": "2023-05-17",
+                    "description": "Withdrawal",
+                    "amount": -234.3,
+                    "transaction_id": 19563638
+                },
+                {
+                    "date": "2024-05-19",
+                    "description": "Withdrawal",
+                    "amount": -605.6,
+                    "transaction_id": 78090726
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Salinas",
+        "age": 75,
+        "gender": "female",
+        "address": "08680 Carey Drive Suite 206, Port Heatherview, LA 73939",
+        "phone": "+1-273-921-9146x29665",
+        "email": "dgarcia@example.org",
+        "account": {
+            "account_number": "91c6452c-4aff-4696-b77a-8fdc54d748b2",
+            "balance": -16546.18,
+            "transactions": [
+                {
+                    "date": "2022-11-09",
+                    "description": "Interest",
+                    "amount": -4028.99,
+                    "transaction_id": 49076425
+                },
+                {
+                    "date": "2023-10-08",
+                    "description": "Interest",
+                    "amount": -938.56,
+                    "transaction_id": 65937025
+                },
+                {
+                    "date": "2023-02-13",
+                    "description": "Deposit",
+                    "amount": 3864.08,
+                    "transaction_id": 54603175
+                },
+                {
+                    "date": "2023-04-11",
+                    "description": "Interest",
+                    "amount": -1652.66,
+                    "transaction_id": 67753501
+                }
+            ]
+        }
+    }
+}

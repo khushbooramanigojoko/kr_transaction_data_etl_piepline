@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Timothy Walker",
+        "age": 30,
+        "gender": "male",
+        "address": "777 Lauren Stravenue Apt. 375, Evelynland, WI 23101",
+        "phone": "568.427.6791",
+        "email": "xmcconnell@example.org",
+        "account": {
+            "account_number": "e6419495-2544-4d2f-ba69-8d002cbc6680",
+            "balance": 16140.24,
+            "transactions": [
+                {
+                    "date": "2024-02-10",
+                    "description": "Withdrawal",
+                    "amount": 26669.26,
+                    "transaction_id": 117701001
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Casey Kelly",
+        "age": 28,
+        "gender": "female",
+        "address": "3940 Michael Stravenue, Port Davidview, LA 29060",
+        "phone": "706.236.8335x459",
+        "email": "jasoncole@example.org",
+        "account": {
+            "account_number": "921bffac-9fe9-4c86-850c-306f5d0f58b1",
+            "balance": -42934.81,
+            "transactions": [
+                {
+                    "date": "2023-12-09",
+                    "description": "Deposit",
+                    "amount": -2540.03,
+                    "transaction_id": 66899952
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Interest",
+                    "amount": 3390.0,
+                    "transaction_id": 15483712
+                },
+                {
+                    "date": "2023-05-10",
+                    "description": "Interest",
+                    "amount": 153.49,
+                    "transaction_id": 93325428
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Interest",
+                    "amount": -1558.05,
+                    "transaction_id": 107957122
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Interest",
+                    "amount": -3437.63,
+                    "transaction_id": 1126803
+                }
+            ]
+        }
+    }
+}

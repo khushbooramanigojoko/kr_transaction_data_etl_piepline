@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "James Robinson",
+        "age": 49,
+        "gender": "female",
+        "address": "967 Ashley Orchard Apt. 264, Andersonview, MH 78935",
+        "phone": "(879)653-9871x041",
+        "email": "oneillbrandon@example.com",
+        "account": {
+            "account_number": "521fee95-63d0-40cd-a91d-86aa076a8114",
+            "balance": 43320.74,
+            "transactions": [
+                {
+                    "date": "2023-01-08",
+                    "description": "Interest",
+                    "amount": 15567.08,
+                    "transaction_id": 24605548
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Withdrawal",
+                    "amount": 10889.61,
+                    "transaction_id": 108438795
+                },
+                {
+                    "date": "2023-11-16",
+                    "description": "Deposit",
+                    "amount": 37889.39,
+                    "transaction_id": 88051221
+                },
+                {
+                    "date": "2022-11-05",
+                    "description": "Deposit",
+                    "amount": 36461.2,
+                    "transaction_id": 103244715
+                }
+            ]
+        }
+    }
+}

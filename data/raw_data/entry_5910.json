@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Shelly Miller",
+        "age": 27,
+        "gender": "female",
+        "address": "235 Duke Lodge, Gutierrezshire, IA 76054",
+        "phone": "257-996-4746x993",
+        "email": "tvalencia@example.net",
+        "account": {
+            "account_number": "16f5eede-6b8e-4a78-b255-fe695d5dd952",
+            "balance": 4199.88,
+            "transactions": [
+                {
+                    "date": "2023-03-27",
+                    "description": "Deposit",
+                    "amount": 18054.55,
+                    "transaction_id": 102987673
+                },
+                {
+                    "date": "2024-02-20",
+                    "description": "Interest",
+                    "amount": 39782.38,
+                    "transaction_id": 98857594
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 81,
+        "gender": "male",
+        "address": "178 Williams Ramp Suite 704, Jennifertown, PA 79227",
+        "phone": "551-839-3782x1983",
+        "email": "saraparker@example.net",
+        "account": {
+            "account_number": "9dc0092c-c56d-4e3c-a6cd-a441703df068",
+            "balance": 13751.63,
+            "transactions": [
+                {
+                    "date": "2023-02-03",
+                    "description": "Deposit",
+                    "amount": 1606.07,
+                    "transaction_id": 24877751
+                },
+                {
+                    "date": "2023-01-21",
+                    "description": "Interest",
+                    "amount": -3493.97,
+                    "transaction_id": 106637401
+                }
+            ]
+        }
+    }
+}

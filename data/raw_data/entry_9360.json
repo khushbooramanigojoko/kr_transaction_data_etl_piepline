@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 42,
+        "gender": "male",
+        "address": "13669 Carmen Wall Apt. 015, Port Margarettown, GU 62103",
+        "phone": "218-653-1495x65147",
+        "email": "holtjessica@example.org",
+        "account": {
+            "account_number": "fab2bdb5-135d-4041-8f3f-e188e7f1deac",
+            "balance": 24229.65,
+            "transactions": [
+                {
+                    "date": "2023-12-07",
+                    "description": "Deposit",
+                    "amount": -1434.99,
+                    "transaction_id": 49633645
+                },
+                {
+                    "date": "2022-11-08",
+                    "description": "Deposit",
+                    "amount": -4718.51,
+                    "transaction_id": 115837609
+                }
+            ]
+        }
+    }
+}

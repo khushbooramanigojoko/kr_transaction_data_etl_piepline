@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Laura Ross",
+        "age": 54,
+        "gender": "female",
+        "address": "2271 Michelle Terrace Suite 963, Frankhaven, WA 56755",
+        "phone": "981-580-4230x2419",
+        "email": "gallowaylindsay@example.com",
+        "account": {
+            "account_number": "e9f92cfd-15b9-4ab6-a9b5-81c020d5201d",
+            "balance": -17020.82,
+            "transactions": [
+                {
+                    "date": "2024-04-30",
+                    "description": "Withdrawal",
+                    "amount": 226.47,
+                    "transaction_id": 23948264
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Withdrawal",
+                    "amount": -1583.38,
+                    "transaction_id": 110267545
+                },
+                {
+                    "date": "2023-01-13",
+                    "description": "Deposit",
+                    "amount": 857.11,
+                    "transaction_id": 107822989
+                }
+            ]
+        }
+    }
+}

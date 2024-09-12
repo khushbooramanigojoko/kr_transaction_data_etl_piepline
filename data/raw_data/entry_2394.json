@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Andrea Campbell",
+        "age": 60,
+        "gender": "male",
+        "address": "41214 Graham Mount, Morganbury, RI 40891",
+        "phone": "5355877579",
+        "email": "margaretelliott@example.net",
+        "account": {
+            "account_number": "d2967527-5c51-4fab-964b-287673022fb9",
+            "balance": 10957.2,
+            "transactions": [
+                {
+                    "date": "2022-11-03",
+                    "description": "Withdrawal",
+                    "amount": 48997.16,
+                    "transaction_id": 58912414
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Deposit",
+                    "amount": 17519.32,
+                    "transaction_id": 41091065
+                }
+            ]
+        }
+    }
+}

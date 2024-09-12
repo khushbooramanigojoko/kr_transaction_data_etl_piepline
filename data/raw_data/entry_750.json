@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jamie Barnes",
+        "age": 20,
+        "gender": "male",
+        "address": "711 Pamela Extension, West Jesse, AL 03751",
+        "phone": "001-260-232-4867x740",
+        "email": "allenmichelle@example.com",
+        "account": {
+            "account_number": "e81580d7-8787-4807-9f95-209d75d879e1",
+            "balance": 16498.82,
+            "transactions": [
+                {
+                    "date": "2024-01-22",
+                    "description": "Interest",
+                    "amount": 34142.98,
+                    "transaction_id": 76418911
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Deposit",
+                    "amount": 10144.41,
+                    "transaction_id": 67807852
+                },
+                {
+                    "date": "2022-09-06",
+                    "description": "Interest",
+                    "amount": 36601.21,
+                    "transaction_id": 34313161
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Todd James",
+        "age": 83,
+        "gender": "female",
+        "address": "02644 Thomas Locks Apt. 932, Adamstown, KY 50898",
+        "phone": "520-681-6441x2343",
+        "email": "parkerkatrina@example.net",
+        "account": {
+            "account_number": "cff76432-4221-453d-af5e-58111d5cd3e0",
+            "balance": -464.01,
+            "transactions": [
+                {
+                    "date": "2024-03-22",
+                    "description": "Interest",
+                    "amount": -2980.09,
+                    "transaction_id": 52837259
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Keith Bowman",
+        "age": 88,
+        "gender": "male",
+        "address": "8991 Fleming Court, Hughesfort, OH 56868",
+        "phone": "(710)893-9169x34365",
+        "email": "taylordorothy@example.net",
+        "account": {
+            "account_number": "f172c87e-250f-4991-b36d-9ef471214051",
+            "balance": 25001.77,
+            "transactions": [
+                {
+                    "date": "2024-05-25",
+                    "description": "Interest",
+                    "amount": 27037.67,
+                    "transaction_id": 117204729
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Deposit",
+                    "amount": 45700.32,
+                    "transaction_id": 56104490
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Withdrawal",
+                    "amount": 42534.59,
+                    "transaction_id": 31097573
+                },
+                {
+                    "date": "2023-07-14",
+                    "description": "Withdrawal",
+                    "amount": 10983.35,
+                    "transaction_id": 115710158
+                }
+            ]
+        }
+    }
+}

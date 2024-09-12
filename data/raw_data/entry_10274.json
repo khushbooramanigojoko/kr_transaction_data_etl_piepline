@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 86,
+        "gender": "female",
+        "address": "24334 Jaime Lodge, East Dana, MS 27148",
+        "phone": "411.684.2343x7210",
+        "email": "sara12@example.com",
+        "account": {
+            "account_number": "7f961019-a7c5-4fd3-a2b5-4e9005ef3155",
+            "balance": 27189.75,
+            "transactions": [
+                {
+                    "date": "2024-08-13",
+                    "description": "Deposit",
+                    "amount": -2943.28,
+                    "transaction_id": 32224924
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Interest",
+                    "amount": 4618.06,
+                    "transaction_id": 33296740
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Interest",
+                    "amount": 2348.17,
+                    "transaction_id": 86730709
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Withdrawal",
+                    "amount": 3693.44,
+                    "transaction_id": 76903939
+                },
+                {
+                    "date": "2023-04-03",
+                    "description": "Deposit",
+                    "amount": -340.43,
+                    "transaction_id": 32200691
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Anthony Ramirez",
+        "age": 32,
+        "gender": "female",
+        "address": "325 White Heights, Woodfurt, RI 46797",
+        "phone": "(972)636-3163",
+        "email": "jmyers@example.net",
+        "account": {
+            "account_number": "2b62fa98-71c7-49b6-ba2a-83086f140156",
+            "balance": 43176.51,
+            "transactions": [
+                {
+                    "date": "2023-04-22",
+                    "description": "Deposit",
+                    "amount": 15761.72,
+                    "transaction_id": 75856008
+                }
+            ]
+        }
+    }
+}

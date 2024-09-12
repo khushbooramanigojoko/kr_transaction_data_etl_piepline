@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Grace Taylor",
+        "age": 86,
+        "gender": "male",
+        "address": "9386 Weber Isle, New Karen, ID 22429",
+        "phone": "(276)445-2138x66552",
+        "email": "singhkevin@example.net",
+        "account": {
+            "account_number": "e2daa1f5-4100-4f5b-befe-8e7951bef8a8",
+            "balance": 24918.92,
+            "transactions": [
+                {
+                    "date": "2023-06-10",
+                    "description": "Withdrawal",
+                    "amount": 44018.84,
+                    "transaction_id": 116662902
+                }
+            ]
+        }
+    }
+}

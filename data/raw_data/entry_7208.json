@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kathy Morgan",
+        "age": 75,
+        "gender": "female",
+        "address": "86040 Mark Trail, Cameronmouth, NE 88089",
+        "phone": "001-925-203-6255x606",
+        "email": "dustinbooker@example.net",
+        "account": {
+            "account_number": "84644242-a995-4f07-87b7-b256200b72e0",
+            "balance": 1589.03,
+            "transactions": [
+                {
+                    "date": "2023-12-16",
+                    "description": "Deposit",
+                    "amount": 48239.34,
+                    "transaction_id": 106175366
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Interest",
+                    "amount": 6656.68,
+                    "transaction_id": 57104532
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tammy Phillips",
+        "age": 68,
+        "gender": "male",
+        "address": "9173 Atkinson Square, North Allison, PW 94819",
+        "phone": "001-328-717-2440",
+        "email": "stanleygarrison@example.net",
+        "account": {
+            "account_number": "2d675136-c13c-4c5b-8a1e-28ce0e976a97",
+            "balance": 45911.12,
+            "transactions": [
+                {
+                    "date": "2024-01-30",
+                    "description": "Deposit",
+                    "amount": 45564.83,
+                    "transaction_id": 104219695
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Withdrawal",
+                    "amount": 15392.53,
+                    "transaction_id": 85823583
+                },
+                {
+                    "date": "2023-01-08",
+                    "description": "Withdrawal",
+                    "amount": 2814.86,
+                    "transaction_id": 68263409
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Withdrawal",
+                    "amount": 16128.02,
+                    "transaction_id": 22801423
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Matthew Newton",
+        "age": 43,
+        "gender": "male",
+        "address": "7239 Gonzalez Lodge Suite 016, Lambertshire, WA 67181",
+        "phone": "001-261-556-1321",
+        "email": "gwalsh@example.net",
+        "account": {
+            "account_number": "f4fea95f-36bf-4f38-906d-eb7bcb0f6199",
+            "balance": 8451.48,
+            "transactions": [
+                {
+                    "date": "2023-08-22",
+                    "description": "Interest",
+                    "amount": 15111.56,
+                    "transaction_id": 41475107
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Withdrawal",
+                    "amount": 4884.94,
+                    "transaction_id": 117423420
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Interest",
+                    "amount": 29311.26,
+                    "transaction_id": 35771277
+                },
+                {
+                    "date": "2023-08-21",
+                    "description": "Interest",
+                    "amount": 37027.77,
+                    "transaction_id": 86695231
+                }
+            ]
+        }
+    }
+}

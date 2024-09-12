@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mark Weber",
+        "age": 65,
+        "gender": "female",
+        "address": "3832 Brittany Lights, Carrollborough, LA 78864",
+        "phone": "+1-955-398-3906x78786",
+        "email": "derekzuniga@example.net",
+        "account": {
+            "account_number": "ed8350cb-d483-4eeb-beca-3593bf9d3b41",
+            "balance": 37675.9,
+            "transactions": [
+                {
+                    "date": "2023-06-08",
+                    "description": "Withdrawal",
+                    "amount": 2001.34,
+                    "transaction_id": 35614356
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Interest",
+                    "amount": 20963.66,
+                    "transaction_id": 79735304
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Withdrawal",
+                    "amount": 31453.2,
+                    "transaction_id": 72523784
+                },
+                {
+                    "date": "2024-05-21",
+                    "description": "Deposit",
+                    "amount": 14629.03,
+                    "transaction_id": 43031394
+                }
+            ]
+        }
+    }
+}

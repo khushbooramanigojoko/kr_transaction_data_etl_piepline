@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mary Doyle",
+        "age": 46,
+        "gender": "male",
+        "address": "763 Ross Plains, Garyfort, MH 94256",
+        "phone": "(444)329-3421",
+        "email": "michaellynn@example.org",
+        "account": {
+            "account_number": "a2d1e3b0-56c3-4319-a6f6-e3e904b36d64",
+            "balance": 7525.34,
+            "transactions": [
+                {
+                    "date": "2024-06-15",
+                    "description": "Interest",
+                    "amount": 27243.83,
+                    "transaction_id": 39474067
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Withdrawal",
+                    "amount": 44429.8,
+                    "transaction_id": 75976705
+                },
+                {
+                    "date": "2024-06-21",
+                    "description": "Deposit",
+                    "amount": 7653.1,
+                    "transaction_id": 9249979
+                }
+            ]
+        }
+    }
+}

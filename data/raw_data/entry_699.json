@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kevin Howard",
+        "age": 64,
+        "gender": "female",
+        "address": "397 Roy Landing, Evanfort, ME 12520",
+        "phone": "(389)234-7404x9976",
+        "email": "fryshane@example.net",
+        "account": {
+            "account_number": "5bcb9a82-ee56-4e97-92d9-399d31a85e1d",
+            "balance": 7591.87,
+            "transactions": [
+                {
+                    "date": "2022-10-23",
+                    "description": "Deposit",
+                    "amount": 20280.05,
+                    "transaction_id": 109631925
+                },
+                {
+                    "date": "2022-10-11",
+                    "description": "Deposit",
+                    "amount": 22100.63,
+                    "transaction_id": 70456543
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Interest",
+                    "amount": 35335.16,
+                    "transaction_id": 100870653
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Deposit",
+                    "amount": 31984.29,
+                    "transaction_id": 23168862
+                },
+                {
+                    "date": "2024-08-23",
+                    "description": "Interest",
+                    "amount": 48171.46,
+                    "transaction_id": 8329511
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Susan Morgan",
+        "age": 89,
+        "gender": "male",
+        "address": "26834 Perez Groves Suite 937, East Susanburgh, TX 69441",
+        "phone": "616.991.8170",
+        "email": "sotojack@example.org",
+        "account": {
+            "account_number": "0c362aca-803f-4f28-baee-593d135d2864",
+            "balance": 15076.33,
+            "transactions": [
+                {
+                    "date": "2022-09-03",
+                    "description": "Interest",
+                    "amount": 40938.08,
+                    "transaction_id": 104163356
+                },
+                {
+                    "date": "2022-11-01",
+                    "description": "Deposit",
+                    "amount": 20452.5,
+                    "transaction_id": 43348218
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Interest",
+                    "amount": 31548.49,
+                    "transaction_id": 11182485
+                }
+            ]
+        }
+    }
+}

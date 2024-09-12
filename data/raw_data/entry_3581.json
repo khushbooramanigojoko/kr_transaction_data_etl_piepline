@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "James Patel",
+        "age": 20,
+        "gender": "female",
+        "address": "50006 Kendra Harbors, South Joel, MN 90562",
+        "phone": "+1-811-428-1986x73579",
+        "email": "johnathan04@example.org",
+        "account": {
+            "account_number": "17117cd2-29d7-4635-93ff-dcdca7b12370",
+            "balance": 31677.0,
+            "transactions": [
+                {
+                    "date": "2023-09-28",
+                    "description": "Deposit",
+                    "amount": 44055.8,
+                    "transaction_id": 64850388
+                }
+            ]
+        }
+    }
+}

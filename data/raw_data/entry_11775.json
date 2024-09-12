@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 56,
+        "gender": "female",
+        "address": "8034 Cheyenne Causeway Apt. 428, North Amy, ND 81396",
+        "phone": "554-404-3127x0105",
+        "email": "yflores@example.org",
+        "account": {
+            "account_number": "cee1fba5-2055-4b3a-98be-4c7c595b24a2",
+            "balance": 15343.53,
+            "transactions": [
+                {
+                    "date": "2024-06-21",
+                    "description": "Withdrawal",
+                    "amount": -394.44,
+                    "transaction_id": 105922544
+                },
+                {
+                    "date": "2022-11-29",
+                    "description": "Withdrawal",
+                    "amount": -3833.69,
+                    "transaction_id": 22111674
+                }
+            ]
+        }
+    }
+}

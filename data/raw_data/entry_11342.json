@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 71,
+        "gender": "female",
+        "address": "43439 Melanie Oval, West Donna, IN 90494",
+        "phone": "(357)230-2528",
+        "email": "elizabethtaylor@example.net",
+        "account": {
+            "account_number": "f333002d-753b-444a-90c2-f414a1804c11",
+            "balance": 9409.37,
+            "transactions": [
+                {
+                    "date": "2023-11-04",
+                    "description": "Deposit",
+                    "amount": -1790.03,
+                    "transaction_id": 12956511
+                },
+                {
+                    "date": "2023-03-08",
+                    "description": "Withdrawal",
+                    "amount": -4581.31,
+                    "transaction_id": 110349305
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Interest",
+                    "amount": -4355.61,
+                    "transaction_id": 107835038
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Marcus Jones",
+        "age": 19,
+        "gender": "male",
+        "address": "05166 Michelle Wall, Davisport, MN 93229",
+        "phone": "455-329-5211",
+        "email": "francis33@example.com",
+        "account": {
+            "account_number": "c86cf922-08d9-44ad-9207-b1069ad81399",
+            "balance": 36044.66,
+            "transactions": [
+                {
+                    "date": "2023-06-12",
+                    "description": "Withdrawal",
+                    "amount": 33536.92,
+                    "transaction_id": 22312129
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Deposit",
+                    "amount": 22066.9,
+                    "transaction_id": 49139710
+                }
+            ]
+        }
+    }
+}

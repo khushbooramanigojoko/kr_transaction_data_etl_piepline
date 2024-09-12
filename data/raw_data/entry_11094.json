@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 72,
+        "gender": "female",
+        "address": "986 Rosales Ports, Markshire, AR 46248",
+        "phone": "001-333-738-6796x3726",
+        "email": "amber50@example.com",
+        "account": {
+            "account_number": "bef2b7d7-2019-470d-8b0b-e63fcef6efcd",
+            "balance": 7759.03,
+            "transactions": [
+                {
+                    "date": "2023-10-08",
+                    "description": "Withdrawal",
+                    "amount": 232.13,
+                    "transaction_id": 73061203
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Deposit",
+                    "amount": 2566.75,
+                    "transaction_id": 45741038
+                },
+                {
+                    "date": "2023-04-24",
+                    "description": "Withdrawal",
+                    "amount": -770.82,
+                    "transaction_id": 64813754
+                }
+            ]
+        }
+    }
+}

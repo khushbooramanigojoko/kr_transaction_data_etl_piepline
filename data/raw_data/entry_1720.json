@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brian Mitchell",
+        "age": 32,
+        "gender": "female",
+        "address": "646 Kenneth Forges, North Sharonberg, PA 16303",
+        "phone": "(482)865-4877x6669",
+        "email": "gregory97@example.org",
+        "account": {
+            "account_number": "711aea9c-e76d-43be-ad8f-0db8e561345c",
+            "balance": 20285.12,
+            "transactions": [
+                {
+                    "date": "2023-08-17",
+                    "description": "Interest",
+                    "amount": 24517.78,
+                    "transaction_id": 82278251
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Withdrawal",
+                    "amount": 1388.87,
+                    "transaction_id": 41506060
+                }
+            ]
+        }
+    }
+}

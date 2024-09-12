@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nancy Morrow",
+        "age": 38,
+        "gender": "female",
+        "address": "98812 Hodge Corners, Nicoleview, CA 73541",
+        "phone": "890-709-5763",
+        "email": "beckchristina@example.org",
+        "account": {
+            "account_number": "86ccd691-bad5-4836-b092-22b4dcb60052",
+            "balance": 34504.07,
+            "transactions": [
+                {
+                    "date": "2024-04-30",
+                    "description": "Interest",
+                    "amount": 31020.99,
+                    "transaction_id": 15235769
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Interest",
+                    "amount": 11048.6,
+                    "transaction_id": 42218957
+                },
+                {
+                    "date": "2024-03-07",
+                    "description": "Interest",
+                    "amount": 15160.52,
+                    "transaction_id": 60461544
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Withdrawal",
+                    "amount": 2730.99,
+                    "transaction_id": 61715652
+                },
+                {
+                    "date": "2023-09-07",
+                    "description": "Interest",
+                    "amount": 11952.62,
+                    "transaction_id": 76538407
+                }
+            ]
+        }
+    }
+}

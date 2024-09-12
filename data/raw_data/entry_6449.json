@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jessica Phillips",
+        "age": 27,
+        "gender": "male",
+        "address": "13539 Rebecca Pine, Ericatown, AK 31426",
+        "phone": "216-702-9220",
+        "email": "lovepaul@example.com",
+        "account": {
+            "account_number": "a031049a-832f-4b39-8230-7ad01bc97f6a",
+            "balance": 25892.42,
+            "transactions": [
+                {
+                    "date": "2024-01-13",
+                    "description": "Interest",
+                    "amount": 39170.54,
+                    "transaction_id": 11354011
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Dr. Chad Cunningham",
+        "age": 83,
+        "gender": "female",
+        "address": "44807 Yolanda Avenue, Greenberg, MP 94147",
+        "phone": "685.330.4363",
+        "email": "jacksontracy@example.net",
+        "account": {
+            "account_number": "737b778a-e731-4978-90be-aeaab201eaf7",
+            "balance": 26881.01,
+            "transactions": [
+                {
+                    "date": "2023-01-16",
+                    "description": "Deposit",
+                    "amount": 26636.89,
+                    "transaction_id": 52393329
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Deposit",
+                    "amount": 14780.02,
+                    "transaction_id": 101808572
+                },
+                {
+                    "date": "2023-09-15",
+                    "description": "Withdrawal",
+                    "amount": 26543.52,
+                    "transaction_id": 10027384
+                }
+            ]
+        }
+    }
+}

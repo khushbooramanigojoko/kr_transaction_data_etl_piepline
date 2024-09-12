@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dakota Johnson",
+        "age": 54,
+        "gender": "male",
+        "address": "78095 Wilson Bypass, Howelltown, VA 36830",
+        "phone": "719-720-1346x680",
+        "email": "ybailey@example.org",
+        "account": {
+            "account_number": "3c782406-b42e-4eab-ad6c-7838441676c3",
+            "balance": 2641.25,
+            "transactions": [
+                {
+                    "date": "2023-03-01",
+                    "description": "Deposit",
+                    "amount": 20696.59,
+                    "transaction_id": 98674944
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Interest",
+                    "amount": 5386.22,
+                    "transaction_id": 20226286
+                },
+                {
+                    "date": "2023-11-27",
+                    "description": "Withdrawal",
+                    "amount": 38213.26,
+                    "transaction_id": 56017713
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Interest",
+                    "amount": 20309.6,
+                    "transaction_id": 8037432
+                },
+                {
+                    "date": "2022-10-19",
+                    "description": "Withdrawal",
+                    "amount": 21740.16,
+                    "transaction_id": 57126255
+                }
+            ]
+        }
+    }
+}

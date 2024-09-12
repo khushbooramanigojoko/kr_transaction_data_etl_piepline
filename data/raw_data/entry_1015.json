@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Davenport",
+        "age": 95,
+        "gender": "female",
+        "address": "118 Brianna Lights Suite 433, New Judith, IA 58611",
+        "phone": "001-924-754-4348x25256",
+        "email": "laura15@example.org",
+        "account": {
+            "account_number": "61d9d5ba-3573-41a2-a5ac-e6fbc1522168",
+            "balance": 24790.86,
+            "transactions": [
+                {
+                    "date": "2023-09-04",
+                    "description": "Deposit",
+                    "amount": 30224.87,
+                    "transaction_id": 57036327
+                },
+                {
+                    "date": "2024-03-05",
+                    "description": "Deposit",
+                    "amount": 15547.11,
+                    "transaction_id": 7335763
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Deposit",
+                    "amount": 35185.47,
+                    "transaction_id": 84845397
+                },
+                {
+                    "date": "2023-11-04",
+                    "description": "Interest",
+                    "amount": 5816.51,
+                    "transaction_id": 55764036
+                }
+            ]
+        }
+    }
+}

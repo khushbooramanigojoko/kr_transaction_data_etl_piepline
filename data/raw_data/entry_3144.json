@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Patricia Orr",
+        "age": 27,
+        "gender": "male",
+        "address": "2057 Lisa Flat, Fosterchester, TN 46364",
+        "phone": "001-222-206-8271x068",
+        "email": "jose71@example.org",
+        "account": {
+            "account_number": "5bb655b7-b336-4ad6-91fd-94a611e2c995",
+            "balance": 34345.06,
+            "transactions": [
+                {
+                    "date": "2023-05-08",
+                    "description": "Withdrawal",
+                    "amount": 42949.89,
+                    "transaction_id": 12258135
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Todd Adams",
+        "age": 44,
+        "gender": "male",
+        "address": "413 Kerr Dam Apt. 797, Lake Briannaberg, AS 33209",
+        "phone": "537-633-1914x935",
+        "email": "lindarobles@example.org",
+        "account": {
+            "account_number": "22e764e6-4d7a-4348-8e9d-2ecf3f89fd08",
+            "balance": 11614.94,
+            "transactions": [
+                {
+                    "date": "2023-07-14",
+                    "description": "Deposit",
+                    "amount": 2244.46,
+                    "transaction_id": 23808346
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Interest",
+                    "amount": 48973.61,
+                    "transaction_id": 119184514
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Withdrawal",
+                    "amount": 10531.85,
+                    "transaction_id": 83034526
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Withdrawal",
+                    "amount": 563.65,
+                    "transaction_id": 110408687
+                }
+            ]
+        }
+    }
+}

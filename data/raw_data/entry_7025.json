@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Terry Anderson",
+        "age": 87,
+        "gender": "female",
+        "address": "9324 Howard Road, Arielview, CA 89137",
+        "phone": "(286)733-4542x70229",
+        "email": "veronica70@example.net",
+        "account": {
+            "account_number": "c5941e3e-7f0a-428e-873d-ba247656eb04",
+            "balance": 31311.59,
+            "transactions": [
+                {
+                    "date": "2023-01-03",
+                    "description": "Deposit",
+                    "amount": 30061.59,
+                    "transaction_id": 104709504
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": 24891.0,
+                    "transaction_id": 22305654
+                },
+                {
+                    "date": "2023-11-11",
+                    "description": "Withdrawal",
+                    "amount": 11613.68,
+                    "transaction_id": 26161418
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Withdrawal",
+                    "amount": 36746.51,
+                    "transaction_id": 67651297
+                },
+                {
+                    "date": "2023-02-18",
+                    "description": "Interest",
+                    "amount": 6899.91,
+                    "transaction_id": 57333241
+                }
+            ]
+        }
+    }
+}

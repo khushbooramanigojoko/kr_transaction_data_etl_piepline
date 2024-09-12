@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "William Scott",
+        "age": 36,
+        "gender": "male",
+        "address": "9735 Sherri Pike Apt. 171, Freemanport, DE 80883",
+        "phone": "302.513.4710x598",
+        "email": "vmonroe@example.com",
+        "account": {
+            "account_number": "bf55abea-b2be-48ca-85f9-4921ba5a7567",
+            "balance": 7004.26,
+            "transactions": [
+                {
+                    "date": "2023-05-18",
+                    "description": "Interest",
+                    "amount": 43473.52,
+                    "transaction_id": 6796034
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "James Moore",
+        "age": 29,
+        "gender": "female",
+        "address": "47503 Karen Fields Apt. 156, East Elizabeth, ND 81796",
+        "phone": "9433497613",
+        "email": "isaiah00@example.net",
+        "account": {
+            "account_number": "080e184b-b217-4a45-942e-b8bd4133c38b",
+            "balance": -29150.17,
+            "transactions": [
+                {
+                    "date": "2023-07-28",
+                    "description": "Deposit",
+                    "amount": -739.85,
+                    "transaction_id": 99939639
+                },
+                {
+                    "date": "2023-02-08",
+                    "description": "Deposit",
+                    "amount": 4849.47,
+                    "transaction_id": 111666210
+                },
+                {
+                    "date": "2024-05-13",
+                    "description": "Interest",
+                    "amount": -3475.9,
+                    "transaction_id": 43515960
+                },
+                {
+                    "date": "2023-11-28",
+                    "description": "Withdrawal",
+                    "amount": 1294.21,
+                    "transaction_id": 40032606
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joshua Reynolds",
+        "age": 28,
+        "gender": "male",
+        "address": "59259 Jose Manors Apt. 096, North Caleb, DE 81811",
+        "phone": "(838)585-2382",
+        "email": "cassandra47@example.com",
+        "account": {
+            "account_number": "37847c2f-f585-4537-bff7-573cb20dadf4",
+            "balance": -49070.07,
+            "transactions": [
+                {
+                    "date": "2023-01-04",
+                    "description": "Withdrawal",
+                    "amount": -3340.91,
+                    "transaction_id": 95993132
+                },
+                {
+                    "date": "2024-06-26",
+                    "description": "Interest",
+                    "amount": 4423.94,
+                    "transaction_id": 60021184
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Withdrawal",
+                    "amount": -56.76,
+                    "transaction_id": 25997427
+                }
+            ]
+        }
+    }
+}

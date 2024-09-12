@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sara Adams",
+        "age": 25,
+        "gender": "male",
+        "address": "22985 Matthew Burg Apt. 875, Anthonystad, ND 38533",
+        "phone": "980.884.6225x5958",
+        "email": "jacksonmichael@example.org",
+        "account": {
+            "account_number": "26379164-45db-4e6f-a05f-988688625aad",
+            "balance": 23376.44,
+            "transactions": [
+                {
+                    "date": "2024-07-04",
+                    "description": "Interest",
+                    "amount": 19023.48,
+                    "transaction_id": 14828039
+                },
+                {
+                    "date": "2024-03-01",
+                    "description": "Interest",
+                    "amount": 40343.14,
+                    "transaction_id": 119503719
+                }
+            ]
+        }
+    }
+}

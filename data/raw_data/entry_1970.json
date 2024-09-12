@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alicia Valdez",
+        "age": 80,
+        "gender": "male",
+        "address": "280 Richards Cliffs, Brianport, TX 79755",
+        "phone": "6075662761",
+        "email": "allen29@example.net",
+        "account": {
+            "account_number": "211462c8-e2d6-424f-96a4-99690feaed73",
+            "balance": 25510.25,
+            "transactions": [
+                {
+                    "date": "2022-12-27",
+                    "description": "Withdrawal",
+                    "amount": 2840.04,
+                    "transaction_id": 89433006
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Deposit",
+                    "amount": 25343.65,
+                    "transaction_id": 119398613
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Withdrawal",
+                    "amount": 19664.87,
+                    "transaction_id": 47674225
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Deposit",
+                    "amount": 45795.04,
+                    "transaction_id": 26497850
+                }
+            ]
+        }
+    }
+}

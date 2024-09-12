@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amanda Frye",
+        "age": 50,
+        "gender": "male",
+        "address": "050 Marshall Radial, West Leah, NH 82927",
+        "phone": "517-756-6912x286",
+        "email": "susan01@example.org",
+        "account": {
+            "account_number": "e4841546-0b04-447d-8a6e-0ea2d4f7ef1d",
+            "balance": 39776.3,
+            "transactions": [
+                {
+                    "date": "2023-07-26",
+                    "description": "Withdrawal",
+                    "amount": 41496.81,
+                    "transaction_id": 58218658
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Deposit",
+                    "amount": 30522.26,
+                    "transaction_id": 110305302
+                }
+            ]
+        }
+    }
+}

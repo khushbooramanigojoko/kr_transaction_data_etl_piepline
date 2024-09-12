@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jessica Palmer",
+        "age": 97,
+        "gender": "female",
+        "address": "3849 Pitts Ville Apt. 742, West Dustin, MH 66560",
+        "phone": "909.804.8479x938",
+        "email": "rosstiffany@example.net",
+        "account": {
+            "account_number": "4dedeb87-f209-4394-a772-b02196a817e6",
+            "balance": 40526.88,
+            "transactions": [
+                {
+                    "date": "2023-11-10",
+                    "description": "Deposit",
+                    "amount": 15032.43,
+                    "transaction_id": 32080494
+                }
+            ]
+        }
+    }
+}

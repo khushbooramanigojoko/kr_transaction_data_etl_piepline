@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jason Hoffman",
+        "age": 23,
+        "gender": "male",
+        "address": "97407 Grace Loop Apt. 084, East Denise, IN 72079",
+        "phone": "+1-746-498-4039",
+        "email": "torreswhitney@example.net",
+        "account": {
+            "account_number": "3ce7dfbb-a634-4477-ae02-e18121dadf5c",
+            "balance": 44172.11,
+            "transactions": [
+                {
+                    "date": "2022-11-30",
+                    "description": "Deposit",
+                    "amount": 8277.72,
+                    "transaction_id": 22074455
+                },
+                {
+                    "date": "2023-08-31",
+                    "description": "Deposit",
+                    "amount": 26759.7,
+                    "transaction_id": 69208805
+                },
+                {
+                    "date": "2023-11-10",
+                    "description": "Withdrawal",
+                    "amount": 885.11,
+                    "transaction_id": 96117284
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Withdrawal",
+                    "amount": 28792.6,
+                    "transaction_id": 37258289
+                },
+                {
+                    "date": "2023-12-11",
+                    "description": "Interest",
+                    "amount": 40336.39,
+                    "transaction_id": 81886549
+                }
+            ]
+        }
+    }
+}

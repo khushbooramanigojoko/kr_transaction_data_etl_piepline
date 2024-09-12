@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alison King",
+        "age": 58,
+        "gender": "female",
+        "address": "422 Kathleen Common, West Shanechester, NM 20019",
+        "phone": "+1-523-661-6876",
+        "email": "lbennett@example.org",
+        "account": {
+            "account_number": "ced1ba5f-8572-4f0b-8052-5626cba86ed0",
+            "balance": 34484.5,
+            "transactions": [
+                {
+                    "date": "2023-03-24",
+                    "description": "Withdrawal",
+                    "amount": 18754.66,
+                    "transaction_id": 14975899
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Withdrawal",
+                    "amount": 36777.97,
+                    "transaction_id": 79241816
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Withdrawal",
+                    "amount": 45155.19,
+                    "transaction_id": 42600352
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Interest",
+                    "amount": 34771.14,
+                    "transaction_id": 5348476
+                }
+            ]
+        }
+    }
+}

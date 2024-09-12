@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Micheal Rose",
+        "age": 95,
+        "gender": "female",
+        "address": "PSC 9827, Box 5943, APO AA 92801",
+        "phone": "6739936931",
+        "email": "harrisdiana@example.com",
+        "account": {
+            "account_number": "405e6b5b-f6f4-47f7-a1ca-92ecf5c8fac1",
+            "balance": 39984.79,
+            "transactions": [
+                {
+                    "date": "2023-09-23",
+                    "description": "Interest",
+                    "amount": 47840.64,
+                    "transaction_id": 62291405
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Withdrawal",
+                    "amount": 1233.77,
+                    "transaction_id": 43363569
+                },
+                {
+                    "date": "2023-05-10",
+                    "description": "Interest",
+                    "amount": 19113.08,
+                    "transaction_id": 119445065
+                },
+                {
+                    "date": "2023-09-15",
+                    "description": "Deposit",
+                    "amount": 173.43,
+                    "transaction_id": 93022008
+                },
+                {
+                    "date": "2023-08-29",
+                    "description": "Interest",
+                    "amount": 24956.68,
+                    "transaction_id": 99111639
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ethan Rivas",
+        "age": 85,
+        "gender": "female",
+        "address": "0438 Beck Flat Suite 247, East Meganstad, ND 25370",
+        "phone": "473.630.4485x74159",
+        "email": "rachelpowell@example.com",
+        "account": {
+            "account_number": "56bb9ffb-cd52-4f12-ba78-ec98c3b066f8",
+            "balance": 31329.63,
+            "transactions": [
+                {
+                    "date": "2024-07-25",
+                    "description": "Withdrawal",
+                    "amount": 36924.22,
+                    "transaction_id": 14503360
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Withdrawal",
+                    "amount": 41024.79,
+                    "transaction_id": 65456175
+                }
+            ]
+        }
+    }
+}

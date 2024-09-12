@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jeremy Brown",
+        "age": 47,
+        "gender": "female",
+        "address": "4190 Kristine Loaf Apt. 319, Port Justinville, GU 49898",
+        "phone": "484.926.3078x1211",
+        "email": "joseph95@example.net",
+        "account": {
+            "account_number": "3072c7d1-a4c8-4a1b-9b69-e65a65d6310c",
+            "balance": -7870.58,
+            "transactions": [
+                {
+                    "date": "2023-12-21",
+                    "description": "Interest",
+                    "amount": 1180.79,
+                    "transaction_id": 74432391
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Deposit",
+                    "amount": -3583.68,
+                    "transaction_id": 25626708
+                },
+                {
+                    "date": "2023-09-02",
+                    "description": "Deposit",
+                    "amount": 2039.37,
+                    "transaction_id": 102514509
+                }
+            ]
+        }
+    }
+}

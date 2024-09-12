@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kelly Benson",
+        "age": 29,
+        "gender": "male",
+        "address": "7695 Taylor Plains, South Kenneth, NE 29150",
+        "phone": "347-527-0787x727",
+        "email": "anthonyclarke@example.com",
+        "account": {
+            "account_number": "94be0391-b6b3-40a5-9114-501f344b5b71",
+            "balance": 15942.78,
+            "transactions": [
+                {
+                    "date": "2022-12-07",
+                    "description": "Interest",
+                    "amount": 24739.96,
+                    "transaction_id": 82036294
+                }
+            ]
+        }
+    }
+}

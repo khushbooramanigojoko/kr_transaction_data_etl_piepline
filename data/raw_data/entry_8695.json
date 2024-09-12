@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Juan Washington",
+        "age": 74,
+        "gender": "female",
+        "address": "38419 Jenkins Plaza Apt. 112, Alexville, AZ 04831",
+        "phone": "534.926.3096",
+        "email": "gardnerjulie@example.net",
+        "account": {
+            "account_number": "059b31b2-a453-4d6e-9a79-93793a58c827",
+            "balance": 17686.16,
+            "transactions": [
+                {
+                    "date": "2022-11-10",
+                    "description": "Deposit",
+                    "amount": 36692.84,
+                    "transaction_id": 43032835
+                },
+                {
+                    "date": "2023-08-22",
+                    "description": "Withdrawal",
+                    "amount": 44268.67,
+                    "transaction_id": 21342159
+                },
+                {
+                    "date": "2023-01-11",
+                    "description": "Interest",
+                    "amount": 897.55,
+                    "transaction_id": 104651590
+                },
+                {
+                    "date": "2024-06-26",
+                    "description": "Interest",
+                    "amount": 17478.77,
+                    "transaction_id": 45394230
+                }
+            ]
+        }
+    }
+}

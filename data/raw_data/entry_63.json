@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Anthony Stafford",
+        "age": 77,
+        "gender": "male",
+        "address": "USNS Stephens, FPO AA 68244",
+        "phone": "001-819-257-6293x636",
+        "email": "stacywolf@example.org",
+        "account": {
+            "account_number": "68a9645a-62e7-44a8-8060-c6ca9f042d74",
+            "balance": 22019.19,
+            "transactions": [
+                {
+                    "date": "2023-06-20",
+                    "description": "Withdrawal",
+                    "amount": 11008.52,
+                    "transaction_id": 4392953
+                },
+                {
+                    "date": "2022-10-20",
+                    "description": "Interest",
+                    "amount": 25357.08,
+                    "transaction_id": 6094487
+                },
+                {
+                    "date": "2023-09-28",
+                    "description": "Deposit",
+                    "amount": 3115.42,
+                    "transaction_id": 14444203
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Withdrawal",
+                    "amount": 4315.01,
+                    "transaction_id": 76869820
+                }
+            ]
+        }
+    }
+}

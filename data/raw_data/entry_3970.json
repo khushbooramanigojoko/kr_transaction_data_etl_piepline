@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Maria Black",
+        "age": 42,
+        "gender": "male",
+        "address": "0646 Michael Glens, Anthonyview, GU 05083",
+        "phone": "001-226-459-4384",
+        "email": "stevenswilliam@example.com",
+        "account": {
+            "account_number": "f6d343a9-467c-4151-9eef-7b4fc6bc9a23",
+            "balance": 8546.75,
+            "transactions": [
+                {
+                    "date": "2024-02-04",
+                    "description": "Withdrawal",
+                    "amount": 45526.76,
+                    "transaction_id": 39501926
+                },
+                {
+                    "date": "2024-08-19",
+                    "description": "Deposit",
+                    "amount": 22659.67,
+                    "transaction_id": 118665445
+                }
+            ]
+        }
+    }
+}

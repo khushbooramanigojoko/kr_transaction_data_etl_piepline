@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Bryan Carter",
+        "age": 72,
+        "gender": "female",
+        "address": "7507 Christopher Street, South Katherine, AR 63856",
+        "phone": "967.534.8979x067",
+        "email": "christopher15@example.org",
+        "account": {
+            "account_number": "6f11b0ce-7961-4c3f-85cb-a8c4bcb66073",
+            "balance": 25451.7,
+            "transactions": [
+                {
+                    "date": "2023-01-19",
+                    "description": "Withdrawal",
+                    "amount": 14734.45,
+                    "transaction_id": 9858220
+                }
+            ]
+        }
+    }
+}

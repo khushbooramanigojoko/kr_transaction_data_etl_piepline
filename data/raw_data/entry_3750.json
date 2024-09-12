@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Theresa Hendricks",
+        "age": 53,
+        "gender": "male",
+        "address": "47183 Alison Plain, New Alicia, ND 64030",
+        "phone": "+1-233-990-8451x69986",
+        "email": "deborah52@example.net",
+        "account": {
+            "account_number": "60a80726-64af-4fca-a349-d259fd63f2f5",
+            "balance": 25665.23,
+            "transactions": [
+                {
+                    "date": "2023-06-19",
+                    "description": "Deposit",
+                    "amount": 11305.96,
+                    "transaction_id": 65812555
+                }
+            ]
+        }
+    }
+}

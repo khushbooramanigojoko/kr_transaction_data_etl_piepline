@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "William Ball",
+        "age": 72,
+        "gender": "female",
+        "address": "3265 Kyle Pike Apt. 168, Christopherbury, ND 60455",
+        "phone": "596-333-5864",
+        "email": "elizabeth10@example.com",
+        "account": {
+            "account_number": "ee54ef21-72eb-4468-ab73-b6bb829e5445",
+            "balance": 7983.83,
+            "transactions": [
+                {
+                    "date": "2022-09-25",
+                    "description": "Deposit",
+                    "amount": 35901.52,
+                    "transaction_id": 64359098
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Henry",
+        "age": 80,
+        "gender": "male",
+        "address": "417 Hammond Square, Ashleychester, WI 70180",
+        "phone": "591.509.1944x6525",
+        "email": "cbrady@example.com",
+        "account": {
+            "account_number": "5d0622b1-fb36-4160-aa4e-bd9eea4beeba",
+            "balance": 30811.98,
+            "transactions": [
+                {
+                    "date": "2024-02-11",
+                    "description": "Withdrawal",
+                    "amount": 33912.09,
+                    "transaction_id": 27569058
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Withdrawal",
+                    "amount": 7934.23,
+                    "transaction_id": 67965981
+                },
+                {
+                    "date": "2023-05-30",
+                    "description": "Deposit",
+                    "amount": 49414.26,
+                    "transaction_id": 81402320
+                },
+                {
+                    "date": "2022-11-13",
+                    "description": "Deposit",
+                    "amount": 21710.38,
+                    "transaction_id": 37994813
+                },
+                {
+                    "date": "2023-06-26",
+                    "description": "Withdrawal",
+                    "amount": 1832.45,
+                    "transaction_id": 112918964
+                }
+            ]
+        }
+    }
+}

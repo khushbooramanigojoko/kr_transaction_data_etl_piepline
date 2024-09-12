@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Andrea Perez",
+        "age": 21,
+        "gender": "female",
+        "address": "37601 Joshua Shores Apt. 488, South Jennifertown, WA 41896",
+        "phone": "647-389-3216x5136",
+        "email": "khamilton@example.org",
+        "account": {
+            "account_number": "31e95258-945f-4ae7-a012-41ebbdb78a2a",
+            "balance": -36372.53,
+            "transactions": [
+                {
+                    "date": "2023-09-20",
+                    "description": "Withdrawal",
+                    "amount": 3833.53,
+                    "transaction_id": 71983605
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Deposit",
+                    "amount": 264.43,
+                    "transaction_id": 82646778
+                }
+            ]
+        }
+    }
+}

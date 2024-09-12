@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Katrina Brown",
+        "age": 28,
+        "gender": "male",
+        "address": "23045 Lindsey Points, Davidborough, ME 44637",
+        "phone": "(787)795-8074",
+        "email": "hugheserin@example.com",
+        "account": {
+            "account_number": "fd154a27-4771-451b-bf34-8d672d7e061f",
+            "balance": 8056.83,
+            "transactions": [
+                {
+                    "date": "2024-08-16",
+                    "description": "Interest",
+                    "amount": 19290.79,
+                    "transaction_id": 51085796
+                },
+                {
+                    "date": "2022-11-11",
+                    "description": "Interest",
+                    "amount": 32001.33,
+                    "transaction_id": 47320708
+                },
+                {
+                    "date": "2024-05-13",
+                    "description": "Withdrawal",
+                    "amount": 17457.17,
+                    "transaction_id": 70009833
+                }
+            ]
+        }
+    }
+}

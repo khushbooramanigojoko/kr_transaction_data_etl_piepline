@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Lisa Elliott",
+        "age": 80,
+        "gender": "female",
+        "address": "393 Nguyen Knoll Apt. 396, South Peggymouth, AS 75991",
+        "phone": "223-480-0762x1402",
+        "email": "lesliepotter@example.com",
+        "account": {
+            "account_number": "2f1e22fc-fbe2-4ad7-b56f-6de7f2333a8c",
+            "balance": 13428.27,
+            "transactions": [
+                {
+                    "date": "2023-01-27",
+                    "description": "Withdrawal",
+                    "amount": 17118.42,
+                    "transaction_id": 107094469
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Interest",
+                    "amount": 43159.24,
+                    "transaction_id": 107997182
+                },
+                {
+                    "date": "2024-04-25",
+                    "description": "Deposit",
+                    "amount": 36711.18,
+                    "transaction_id": 73166780
+                }
+            ]
+        }
+    }
+}

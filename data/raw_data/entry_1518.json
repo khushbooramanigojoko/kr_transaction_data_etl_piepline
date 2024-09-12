@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Katherine Mitchell",
+        "age": 43,
+        "gender": "female",
+        "address": "44533 Barnes Lodge, Hernandezfurt, RI 53256",
+        "phone": "937.447.7410x4352",
+        "email": "adamslawrence@example.net",
+        "account": {
+            "account_number": "542c00cc-5562-4b52-b6c2-dff132515da2",
+            "balance": 46130.02,
+            "transactions": [
+                {
+                    "date": "2023-12-21",
+                    "description": "Deposit",
+                    "amount": 23355.46,
+                    "transaction_id": 14107706
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Interest",
+                    "amount": 8809.24,
+                    "transaction_id": 52229333
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Interest",
+                    "amount": 15839.1,
+                    "transaction_id": 109860822
+                },
+                {
+                    "date": "2023-10-20",
+                    "description": "Deposit",
+                    "amount": 10993.53,
+                    "transaction_id": 60758943
+                }
+            ]
+        }
+    }
+}

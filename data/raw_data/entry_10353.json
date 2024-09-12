@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "female",
+        "address": "5630 Paul Squares, Bonniefort, AR 54928",
+        "phone": "517-286-0899x866",
+        "email": "hbanks@example.org",
+        "account": {
+            "account_number": "1673b9af-c148-442e-ad8d-096ef3240ab0",
+            "balance": 48129.02,
+            "transactions": [
+                {
+                    "date": "2024-01-23",
+                    "description": "Withdrawal",
+                    "amount": -2617.76,
+                    "transaction_id": 43235340
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Interest",
+                    "amount": 1682.56,
+                    "transaction_id": 111392622
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Withdrawal",
+                    "amount": -1333.76,
+                    "transaction_id": 30574815
+                },
+                {
+                    "date": "2023-01-13",
+                    "description": "Deposit",
+                    "amount": -3842.64,
+                    "transaction_id": 49290891
+                },
+                {
+                    "date": "2023-05-27",
+                    "description": "Withdrawal",
+                    "amount": 4799.21,
+                    "transaction_id": 102841628
+                }
+            ]
+        }
+    }
+}

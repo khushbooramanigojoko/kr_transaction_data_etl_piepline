@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nicole Ferguson",
+        "age": 38,
+        "gender": "female",
+        "address": "6743 Casey Pine Suite 099, Flemingport, FL 17367",
+        "phone": "6996030034",
+        "email": "marie66@example.org",
+        "account": {
+            "account_number": "152a0089-1ed0-49a9-9326-94bc06829169",
+            "balance": 18693.09,
+            "transactions": [
+                {
+                    "date": "2022-09-03",
+                    "description": "Deposit",
+                    "amount": 16013.98,
+                    "transaction_id": 12644502
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Withdrawal",
+                    "amount": 38367.64,
+                    "transaction_id": 95252298
+                },
+                {
+                    "date": "2022-12-22",
+                    "description": "Interest",
+                    "amount": 14458.7,
+                    "transaction_id": 47591651
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Withdrawal",
+                    "amount": 39090.93,
+                    "transaction_id": 53639512
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Deposit",
+                    "amount": 9183.57,
+                    "transaction_id": 24496379
+                }
+            ]
+        }
+    }
+}

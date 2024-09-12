@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Nathan Dunn",
+        "age": 28,
+        "gender": "male",
+        "address": "137 Wayne Forks Suite 314, Lake Cynthia, TX 29429",
+        "phone": "420.804.1542x3488",
+        "email": "robertsondanny@example.org",
+        "account": {
+            "account_number": "5e9398f0-dc99-47ce-b968-ed47f98c1e96",
+            "balance": 1823.14,
+            "transactions": [
+                {
+                    "date": "2024-07-11",
+                    "description": "Deposit",
+                    "amount": 21979.26,
+                    "transaction_id": 16002735
+                }
+            ]
+        }
+    }
+}

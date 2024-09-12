@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Wendy Baker",
+        "age": 94,
+        "gender": "male",
+        "address": "PSC 4124, Box 9557, APO AP 92380",
+        "phone": "+1-617-419-3724",
+        "email": "dennisrodriguez@example.com",
+        "account": {
+            "account_number": "7ebbf30e-0b8e-4ece-ada7-953942d8dd26",
+            "balance": -27858.94,
+            "transactions": [
+                {
+                    "date": "2024-08-05",
+                    "description": "Withdrawal",
+                    "amount": -4803.32,
+                    "transaction_id": 63349537
+                },
+                {
+                    "date": "2024-02-21",
+                    "description": "Interest",
+                    "amount": 430.14,
+                    "transaction_id": 11313130
+                },
+                {
+                    "date": "2023-10-19",
+                    "description": "Withdrawal",
+                    "amount": 2288.01,
+                    "transaction_id": 90568765
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Interest",
+                    "amount": 4619.93,
+                    "transaction_id": 88977114
+                },
+                {
+                    "date": "2024-03-10",
+                    "description": "Deposit",
+                    "amount": -2462.66,
+                    "transaction_id": 38242042
+                }
+            ]
+        }
+    }
+}

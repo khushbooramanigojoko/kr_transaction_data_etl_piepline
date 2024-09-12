@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brian Warren",
+        "age": 53,
+        "gender": "male",
+        "address": "32574 Mayer Road, Changville, ND 11319",
+        "phone": "(381)976-8836",
+        "email": "lovesusan@example.org",
+        "account": {
+            "account_number": "f8c857ff-eb77-4e68-8ee8-d5cb5ee02b9f",
+            "balance": 28924.06,
+            "transactions": [
+                {
+                    "date": "2023-12-06",
+                    "description": "Interest",
+                    "amount": 18137.09,
+                    "transaction_id": 25466061
+                },
+                {
+                    "date": "2023-01-29",
+                    "description": "Withdrawal",
+                    "amount": 35243.38,
+                    "transaction_id": 104583608
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Interest",
+                    "amount": 44547.35,
+                    "transaction_id": 46285093
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Deposit",
+                    "amount": 28090.1,
+                    "transaction_id": 99583605
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 52,
+        "gender": "male",
+        "address": "USNV Johnson, FPO AA 64209",
+        "phone": "532-954-0735x667",
+        "email": "jwatts@example.net",
+        "account": {
+            "account_number": "c8aa23f7-9637-480e-9e6b-7a74a680b888",
+            "balance": 19199.65,
+            "transactions": [
+                {
+                    "date": "2023-12-08",
+                    "description": "Interest",
+                    "amount": -2138.32,
+                    "transaction_id": 54250454
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Interest",
+                    "amount": -3659.68,
+                    "transaction_id": 69905589
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Deposit",
+                    "amount": -1081.5,
+                    "transaction_id": 83053977
+                }
+            ]
+        }
+    }
+}

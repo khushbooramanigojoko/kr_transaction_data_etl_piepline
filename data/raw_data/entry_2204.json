@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Julie Pratt",
+        "age": 81,
+        "gender": "male",
+        "address": "255 Justin Trafficway Suite 851, New Angelafurt, MD 90051",
+        "phone": "460.309.3251x597",
+        "email": "raymondharris@example.net",
+        "account": {
+            "account_number": "a30e54ce-22c1-4016-b58b-55c5ab484786",
+            "balance": 1414.72,
+            "transactions": [
+                {
+                    "date": "2022-10-02",
+                    "description": "Deposit",
+                    "amount": 7146.14,
+                    "transaction_id": 72855134
+                }
+            ]
+        }
+    }
+}

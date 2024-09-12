@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Casey Garcia",
+        "age": 20,
+        "gender": "female",
+        "address": "150 Wilson Spurs, Floresside, MD 39802",
+        "phone": "9896910088",
+        "email": "scottryan@example.org",
+        "account": {
+            "account_number": "db5a89f6-c657-4bf1-8652-4e7c8d2106da",
+            "balance": 18009.05,
+            "transactions": [
+                {
+                    "date": "2023-07-21",
+                    "description": "Interest",
+                    "amount": 31484.61,
+                    "transaction_id": 105050608
+                }
+            ]
+        }
+    }
+}

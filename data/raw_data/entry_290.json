@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Cheryl Ross",
+        "age": 36,
+        "gender": "male",
+        "address": "07353 Newman Run, Natashaburgh, NH 35460",
+        "phone": "(611)908-1508x40276",
+        "email": "nsmith@example.com",
+        "account": {
+            "account_number": "3d848248-69ba-4d37-b257-794b8e8cfd7b",
+            "balance": 12733.04,
+            "transactions": [
+                {
+                    "date": "2024-01-02",
+                    "description": "Interest",
+                    "amount": 44302.03,
+                    "transaction_id": 110122121
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Deposit",
+                    "amount": 1318.96,
+                    "transaction_id": 6635810
+                },
+                {
+                    "date": "2023-02-26",
+                    "description": "Withdrawal",
+                    "amount": 47411.07,
+                    "transaction_id": 51882619
+                }
+            ]
+        }
+    }
+}

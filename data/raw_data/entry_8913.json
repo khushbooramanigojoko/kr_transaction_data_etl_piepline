@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Bradley Gonzalez",
+        "age": 67,
+        "gender": "female",
+        "address": "9375 Sosa Wall, West Steveburgh, KY 57884",
+        "phone": "367.419.1961",
+        "email": "joshuavelez@example.net",
+        "account": {
+            "account_number": "0d9f8808-c51d-4345-8a43-8e3b377365c2",
+            "balance": -43935.18,
+            "transactions": [
+                {
+                    "date": "2023-11-21",
+                    "description": "Withdrawal",
+                    "amount": -967.8,
+                    "transaction_id": 113163059
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Deposit",
+                    "amount": -1672.26,
+                    "transaction_id": 19169153
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Interest",
+                    "amount": 1392.93,
+                    "transaction_id": 113471224
+                }
+            ]
+        }
+    }
+}

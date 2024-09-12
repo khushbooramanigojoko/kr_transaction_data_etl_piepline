@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 59,
+        "gender": "male",
+        "address": "182 Quinn Mountain, East Christopher, RI 23351",
+        "phone": "426-256-2645x53842",
+        "email": "justinfisher@example.net",
+        "account": {
+            "account_number": "33084bc8-76cb-4ce5-8151-bd62d88d194e",
+            "balance": 8966.27,
+            "transactions": [
+                {
+                    "date": "2023-09-05",
+                    "description": "Interest",
+                    "amount": -2820.08,
+                    "transaction_id": 56758933
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Withdrawal",
+                    "amount": 4465.04,
+                    "transaction_id": 41316848
+                }
+            ]
+        }
+    }
+}

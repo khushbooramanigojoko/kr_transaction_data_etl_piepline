@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dennis Smith",
+        "age": 54,
+        "gender": "male",
+        "address": "34462 Mark Rapids, Jacobhaven, WY 71427",
+        "phone": "(898)227-7391",
+        "email": "brayjames@example.com",
+        "account": {
+            "account_number": "9370e0c2-30b4-4ad1-b20e-1dc02c06ad8c",
+            "balance": 10377.65,
+            "transactions": [
+                {
+                    "date": "2023-06-24",
+                    "description": "Interest",
+                    "amount": 33476.15,
+                    "transaction_id": 75918852
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Deposit",
+                    "amount": 13651.56,
+                    "transaction_id": 54456429
+                },
+                {
+                    "date": "2023-06-05",
+                    "description": "Withdrawal",
+                    "amount": 4562.96,
+                    "transaction_id": 58899072
+                },
+                {
+                    "date": "2023-04-01",
+                    "description": "Interest",
+                    "amount": 7092.17,
+                    "transaction_id": 68900859
+                }
+            ]
+        }
+    }
+}

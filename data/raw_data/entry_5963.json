@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Diana Guerra",
+        "age": 82,
+        "gender": "male",
+        "address": "3885 Sanchez Flats Suite 133, Castilloton, MO 95966",
+        "phone": "275-298-1723",
+        "email": "pkent@example.com",
+        "account": {
+            "account_number": "0a11cc20-afb3-4df2-bd23-5b0d2a5fbd20",
+            "balance": 12043.95,
+            "transactions": [
+                {
+                    "date": "2024-03-10",
+                    "description": "Withdrawal",
+                    "amount": 27386.13,
+                    "transaction_id": 83612320
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Interest",
+                    "amount": 35040.48,
+                    "transaction_id": 7063192
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Withdrawal",
+                    "amount": 7398.66,
+                    "transaction_id": 16848171
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Deposit",
+                    "amount": 28484.88,
+                    "transaction_id": 48259820
+                },
+                {
+                    "date": "2023-03-19",
+                    "description": "Deposit",
+                    "amount": 6152.37,
+                    "transaction_id": 57262362
+                }
+            ]
+        }
+    }
+}

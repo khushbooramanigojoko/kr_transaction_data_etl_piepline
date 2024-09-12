@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sean Cruz",
+        "age": 46,
+        "gender": "male",
+        "address": "899 Sanchez Island, Velasquezfurt, NE 43810",
+        "phone": "(726)457-3990",
+        "email": "melissa73@example.org",
+        "account": {
+            "account_number": "f33b72f4-c8dd-4ed2-b909-158e0d7ade63",
+            "balance": 49958.31,
+            "transactions": [
+                {
+                    "date": "2024-03-08",
+                    "description": "Interest",
+                    "amount": 31305.08,
+                    "transaction_id": 26463574
+                },
+                {
+                    "date": "2024-05-24",
+                    "description": "Interest",
+                    "amount": 13931.96,
+                    "transaction_id": 106116967
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Interest",
+                    "amount": 10717.73,
+                    "transaction_id": 67120204
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Deposit",
+                    "amount": 18558.2,
+                    "transaction_id": 90141793
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Withdrawal",
+                    "amount": 11177.37,
+                    "transaction_id": 6481776
+                }
+            ]
+        }
+    }
+}

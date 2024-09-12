@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jessica Ramirez",
+        "age": 44,
+        "gender": "male",
+        "address": "226 Baker Junction Apt. 522, Lake Rebeccahaven, OK 94927",
+        "phone": "+1-696-410-5077x590",
+        "email": "lori73@example.net",
+        "account": {
+            "account_number": "f3bb2ba7-4870-4037-89f3-367d09048ca4",
+            "balance": 9424.17,
+            "transactions": [
+                {
+                    "date": "2023-08-28",
+                    "description": "Interest",
+                    "amount": 45737.4,
+                    "transaction_id": 71287507
+                },
+                {
+                    "date": "2022-09-27",
+                    "description": "Withdrawal",
+                    "amount": 12841.08,
+                    "transaction_id": 118937714
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Interest",
+                    "amount": 40463.64,
+                    "transaction_id": 66463962
+                },
+                {
+                    "date": "2022-11-11",
+                    "description": "Withdrawal",
+                    "amount": 34158.51,
+                    "transaction_id": 94740817
+                },
+                {
+                    "date": "2024-01-20",
+                    "description": "Deposit",
+                    "amount": 3266.31,
+                    "transaction_id": 22476654
+                }
+            ]
+        }
+    }
+}

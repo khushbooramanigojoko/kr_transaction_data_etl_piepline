@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 51,
+        "gender": "male",
+        "address": "PSC 8771, Box 1781, APO AP 46153",
+        "phone": "334-898-6840x52884",
+        "email": "samuel51@example.com",
+        "account": {
+            "account_number": "b6cacd06-0436-4128-82b5-e3f0a7d74f79",
+            "balance": 39122.13,
+            "transactions": [
+                {
+                    "date": "2024-03-16",
+                    "description": "Deposit",
+                    "amount": -4728.27,
+                    "transaction_id": 42285993
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Interest",
+                    "amount": -4779.6,
+                    "transaction_id": 64328692
+                },
+                {
+                    "date": "2023-04-04",
+                    "description": "Deposit",
+                    "amount": -4024.17,
+                    "transaction_id": 54963104
+                },
+                {
+                    "date": "2023-06-08",
+                    "description": "Deposit",
+                    "amount": 2345.3,
+                    "transaction_id": 13678254
+                }
+            ]
+        }
+    }
+}

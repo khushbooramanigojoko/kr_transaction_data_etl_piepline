@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jamie Freeman",
+        "age": 25,
+        "gender": "female",
+        "address": "2017 Fisher Pine Suite 718, Richardchester, FL 47421",
+        "phone": "331-242-5594",
+        "email": "brownwilliam@example.org",
+        "account": {
+            "account_number": "58c35dfe-52e4-436a-a905-b9d711b6224b",
+            "balance": 3095.52,
+            "transactions": [
+                {
+                    "date": "2024-08-05",
+                    "description": "Interest",
+                    "amount": 14351.19,
+                    "transaction_id": 38404934
+                },
+                {
+                    "date": "2023-10-14",
+                    "description": "Deposit",
+                    "amount": 19226.15,
+                    "transaction_id": 71250303
+                }
+            ]
+        }
+    }
+}

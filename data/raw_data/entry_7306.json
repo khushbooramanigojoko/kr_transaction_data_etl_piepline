@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stacey Williams",
+        "age": 27,
+        "gender": "male",
+        "address": "239 Misty Shores, New Blakeville, SD 42021",
+        "phone": "579-891-0338x763",
+        "email": "kaylacrawford@example.com",
+        "account": {
+            "account_number": "7bc84970-d702-469c-8931-3a37880e4182",
+            "balance": 40967.15,
+            "transactions": [
+                {
+                    "date": "2023-09-20",
+                    "description": "Withdrawal",
+                    "amount": 49553.59,
+                    "transaction_id": 109153721
+                }
+            ]
+        }
+    }
+}

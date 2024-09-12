@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Victoria Guerrero",
+        "age": 19,
+        "gender": "male",
+        "address": "059 Rogers Islands Apt. 717, Cooperstad, NJ 30742",
+        "phone": "001-964-875-2533x65272",
+        "email": "marythornton@example.com",
+        "account": {
+            "account_number": "567e2fd9-4c4d-4b4e-b69f-b70992363993",
+            "balance": 19938.95,
+            "transactions": [
+                {
+                    "date": "2024-06-16",
+                    "description": "Deposit",
+                    "amount": 45259.77,
+                    "transaction_id": 5293084
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Deposit",
+                    "amount": 47386.46,
+                    "transaction_id": 63976085
+                }
+            ]
+        }
+    }
+}

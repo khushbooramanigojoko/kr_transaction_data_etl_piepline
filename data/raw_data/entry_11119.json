@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alexis Lopez",
+        "age": 79,
+        "gender": "male",
+        "address": "578 Bass Ville, Christopherland, WY 03892",
+        "phone": "+1-200-648-7759x6084",
+        "email": "careyalejandro@example.com",
+        "account": {
+            "account_number": "4f910414-f8ed-458d-aa1e-7805f480e9cb",
+            "balance": -3087.31,
+            "transactions": [
+                {
+                    "date": "2023-05-11",
+                    "description": "Interest",
+                    "amount": -3846.99,
+                    "transaction_id": 49484010
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Interest",
+                    "amount": -686.36,
+                    "transaction_id": 19846266
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Deposit",
+                    "amount": 530.06,
+                    "transaction_id": 45861710
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Interest",
+                    "amount": 1636.75,
+                    "transaction_id": 64879694
+                }
+            ]
+        }
+    }
+}

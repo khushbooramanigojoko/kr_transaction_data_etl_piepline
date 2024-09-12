@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brian Benitez",
+        "age": 25,
+        "gender": "female",
+        "address": "286 Molly Villages, Davidborough, AR 36450",
+        "phone": "+1-249-601-4770",
+        "email": "michael54@example.org",
+        "account": {
+            "account_number": "d4b45ec3-6c80-4ab6-8335-8bac39bf4612",
+            "balance": 12604.69,
+            "transactions": [
+                {
+                    "date": "2023-02-14",
+                    "description": "Deposit",
+                    "amount": 11096.88,
+                    "transaction_id": 68553996
+                },
+                {
+                    "date": "2024-01-27",
+                    "description": "Interest",
+                    "amount": 20929.83,
+                    "transaction_id": 85111414
+                },
+                {
+                    "date": "2023-06-26",
+                    "description": "Deposit",
+                    "amount": 45780.93,
+                    "transaction_id": 37002739
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Deposit",
+                    "amount": 36210.52,
+                    "transaction_id": 5489514
+                },
+                {
+                    "date": "2024-04-09",
+                    "description": "Deposit",
+                    "amount": 36061.21,
+                    "transaction_id": 72662547
+                }
+            ]
+        }
+    }
+}

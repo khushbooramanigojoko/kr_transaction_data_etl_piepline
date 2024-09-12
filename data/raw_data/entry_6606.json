@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Janet Morrison",
+        "age": 94,
+        "gender": "male",
+        "address": "024 Tyler Stravenue, North Zacharymouth, VI 03411",
+        "phone": "+1-648-517-4698",
+        "email": "michaelmichael@example.org",
+        "account": {
+            "account_number": "26282c47-0c64-448b-a742-18d16ef71500",
+            "balance": 23148.46,
+            "transactions": [
+                {
+                    "date": "2022-11-18",
+                    "description": "Deposit",
+                    "amount": 5387.22,
+                    "transaction_id": 44616330
+                }
+            ]
+        }
+    }
+}

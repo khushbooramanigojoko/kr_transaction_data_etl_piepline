@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kenneth Escobar",
+        "age": 32,
+        "gender": "female",
+        "address": "025 Gonzalez Parkway Apt. 492, Longmouth, MH 43947",
+        "phone": "753-597-1122",
+        "email": "valerie77@example.net",
+        "account": {
+            "account_number": "75fc0f6d-ffa5-4b17-8109-32ef79d6fbe3",
+            "balance": 17727.77,
+            "transactions": [
+                {
+                    "date": "2024-07-30",
+                    "description": "Withdrawal",
+                    "amount": 3829.23,
+                    "transaction_id": 58687917
+                },
+                {
+                    "date": "2023-10-01",
+                    "description": "Withdrawal",
+                    "amount": 17169.15,
+                    "transaction_id": 27632316
+                }
+            ]
+        }
+    }
+}

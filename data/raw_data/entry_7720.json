@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Steven May",
+        "age": 66,
+        "gender": "female",
+        "address": "550 Autumn Trafficway, Dayhaven, KY 33908",
+        "phone": "(567)819-7300x06861",
+        "email": "troyholt@example.com",
+        "account": {
+            "account_number": "efe8fbad-6d13-4b8e-987c-d0aa45601913",
+            "balance": 36681.34,
+            "transactions": [
+                {
+                    "date": "2022-12-21",
+                    "description": "Deposit",
+                    "amount": 13223.36,
+                    "transaction_id": 72503899
+                },
+                {
+                    "date": "2024-08-03",
+                    "description": "Withdrawal",
+                    "amount": 44987.28,
+                    "transaction_id": 38162942
+                }
+            ]
+        }
+    }
+}

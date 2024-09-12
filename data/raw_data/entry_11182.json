@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Hannah Barrett",
+        "age": 93,
+        "gender": "male",
+        "address": "461 Jade Island Apt. 232, Nathanberg, NJ 87195",
+        "phone": "532.509.6918",
+        "email": "daniel21@example.net",
+        "account": {
+            "account_number": "aa6a96a3-5b74-4c6b-b23b-8f2717f4f446",
+            "balance": -41577.05,
+            "transactions": [
+                {
+                    "date": "2024-01-20",
+                    "description": "Deposit",
+                    "amount": 1065.57,
+                    "transaction_id": 3353236
+                }
+            ]
+        }
+    }
+}

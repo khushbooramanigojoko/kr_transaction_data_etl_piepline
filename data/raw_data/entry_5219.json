@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Natasha Price",
+        "age": 66,
+        "gender": "male",
+        "address": "98605 Jamie Ridge Suite 330, South Crystalview, MA 28814",
+        "phone": "+1-658-438-8815x55860",
+        "email": "wallermary@example.org",
+        "account": {
+            "account_number": "d5e0a27c-9f40-4dd4-ab72-7e73ec623556",
+            "balance": 4622.61,
+            "transactions": [
+                {
+                    "date": "2022-10-15",
+                    "description": "Withdrawal",
+                    "amount": 47114.98,
+                    "transaction_id": 98473038
+                },
+                {
+                    "date": "2024-06-29",
+                    "description": "Interest",
+                    "amount": 47869.49,
+                    "transaction_id": 85545881
+                },
+                {
+                    "date": "2023-04-15",
+                    "description": "Deposit",
+                    "amount": 25004.91,
+                    "transaction_id": 1201659
+                }
+            ]
+        }
+    }
+}

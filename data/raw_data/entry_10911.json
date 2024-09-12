@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 55,
+        "gender": "female",
+        "address": "799 Schultz Shoal, New Christian, PR 01500",
+        "phone": "784.447.2901x67548",
+        "email": "richardhenderson@example.org",
+        "account": {
+            "account_number": "a7d2e2a2-8f88-48a9-9c8b-aec7529bcbcd",
+            "balance": 17341.22,
+            "transactions": [
+                {
+                    "date": "2023-02-06",
+                    "description": "Deposit",
+                    "amount": 1607.42,
+                    "transaction_id": 1468858
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Deposit",
+                    "amount": 3147.83,
+                    "transaction_id": 89833412
+                },
+                {
+                    "date": "2023-04-28",
+                    "description": "Withdrawal",
+                    "amount": -3265.22,
+                    "transaction_id": 51769241
+                },
+                {
+                    "date": "2023-09-14",
+                    "description": "Deposit",
+                    "amount": -4971.78,
+                    "transaction_id": 2696767
+                }
+            ]
+        }
+    }
+}

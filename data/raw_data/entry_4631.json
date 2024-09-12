@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mr. Michael Stevens",
+        "age": 64,
+        "gender": "male",
+        "address": "07250 Davis Wells Suite 969, Harveyshire, RI 66424",
+        "phone": "798.201.7993x6631",
+        "email": "ujones@example.com",
+        "account": {
+            "account_number": "64bd4bf3-4c93-4164-b902-e36bf9f22e0e",
+            "balance": 22124.18,
+            "transactions": [
+                {
+                    "date": "2023-07-21",
+                    "description": "Interest",
+                    "amount": 28816.79,
+                    "transaction_id": 93450092
+                },
+                {
+                    "date": "2023-03-11",
+                    "description": "Withdrawal",
+                    "amount": 23811.7,
+                    "transaction_id": 45118613
+                },
+                {
+                    "date": "2022-11-13",
+                    "description": "Deposit",
+                    "amount": 49975.46,
+                    "transaction_id": 28557364
+                },
+                {
+                    "date": "2022-11-29",
+                    "description": "Withdrawal",
+                    "amount": 46690.22,
+                    "transaction_id": 101889501
+                }
+            ]
+        }
+    }
+}

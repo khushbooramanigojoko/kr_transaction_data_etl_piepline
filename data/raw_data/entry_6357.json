@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Patricia Johnson",
+        "age": 47,
+        "gender": "female",
+        "address": "593 Stephanie Road Suite 170, Potterland, WA 49840",
+        "phone": "782.474.4325x0985",
+        "email": "richard96@example.com",
+        "account": {
+            "account_number": "915ffaac-37b7-481d-a083-41846a169be1",
+            "balance": 42269.09,
+            "transactions": [
+                {
+                    "date": "2024-05-05",
+                    "description": "Interest",
+                    "amount": 47805.39,
+                    "transaction_id": 86633907
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Deposit",
+                    "amount": 44027.99,
+                    "transaction_id": 80203547
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Withdrawal",
+                    "amount": 8452.87,
+                    "transaction_id": 94650217
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Withdrawal",
+                    "amount": 23517.66,
+                    "transaction_id": 65159469
+                }
+            ]
+        }
+    }
+}

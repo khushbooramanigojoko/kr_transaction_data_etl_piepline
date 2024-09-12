@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Natalie Williamson",
+        "age": 22,
+        "gender": "male",
+        "address": "65760 Erica Unions Suite 122, Michaelton, PA 53548",
+        "phone": "001-234-247-2303x707",
+        "email": "mcoleman@example.net",
+        "account": {
+            "account_number": "28e24229-48d4-42c8-8896-388dfee4c571",
+            "balance": -15223.96,
+            "transactions": [
+                {
+                    "date": "2023-11-13",
+                    "description": "Interest",
+                    "amount": 4526.59,
+                    "transaction_id": 107664993
+                },
+                {
+                    "date": "2024-08-06",
+                    "description": "Interest",
+                    "amount": 4101.78,
+                    "transaction_id": 15116754
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Interest",
+                    "amount": 3927.22,
+                    "transaction_id": 58818421
+                },
+                {
+                    "date": "2023-10-01",
+                    "description": "Withdrawal",
+                    "amount": -3106.54,
+                    "transaction_id": 96039921
+                }
+            ]
+        }
+    }
+}

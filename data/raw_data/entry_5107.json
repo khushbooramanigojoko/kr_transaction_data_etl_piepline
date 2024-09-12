@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Bonnie Malone",
+        "age": 57,
+        "gender": "female",
+        "address": "907 Knight Trail Suite 359, Christineport, VI 22748",
+        "phone": "338.649.7767",
+        "email": "slarson@example.net",
+        "account": {
+            "account_number": "da052d6c-ca39-4133-b180-cc6bca0c9cd4",
+            "balance": 39173.4,
+            "transactions": [
+                {
+                    "date": "2024-06-13",
+                    "description": "Deposit",
+                    "amount": 33881.88,
+                    "transaction_id": 38965667
+                },
+                {
+                    "date": "2023-07-30",
+                    "description": "Interest",
+                    "amount": 45601.43,
+                    "transaction_id": 116217324
+                }
+            ]
+        }
+    }
+}

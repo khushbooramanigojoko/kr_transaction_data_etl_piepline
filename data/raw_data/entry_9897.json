@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 69,
+        "gender": "male",
+        "address": "28581 Ryan Land Apt. 075, Patricktown, MH 92482",
+        "phone": "740.968.8531x06300",
+        "email": "jsmith@example.org",
+        "account": {
+            "account_number": "8035c406-5610-494f-92f1-ae280275a5e1",
+            "balance": 44504.75,
+            "transactions": [
+                {
+                    "date": "2023-06-28",
+                    "description": "Withdrawal",
+                    "amount": -777.62,
+                    "transaction_id": 47440235
+                },
+                {
+                    "date": "2024-02-21",
+                    "description": "Deposit",
+                    "amount": -3312.15,
+                    "transaction_id": 56913791
+                }
+            ]
+        }
+    }
+}

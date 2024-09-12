@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kendra Richardson",
+        "age": 35,
+        "gender": "male",
+        "address": "Unit 2226 Box 4936, DPO AA 69975",
+        "phone": "678-954-4638",
+        "email": "kelly66@example.com",
+        "account": {
+            "account_number": "7ce0bd32-f1f7-4bf4-b55d-2da56dcf7c25",
+            "balance": 34115.71,
+            "transactions": [
+                {
+                    "date": "2024-05-29",
+                    "description": "Interest",
+                    "amount": 36040.06,
+                    "transaction_id": 14491483
+                },
+                {
+                    "date": "2023-11-07",
+                    "description": "Withdrawal",
+                    "amount": 48824.84,
+                    "transaction_id": 112345615
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Deposit",
+                    "amount": 46493.89,
+                    "transaction_id": 63940866
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Deposit",
+                    "amount": 6373.42,
+                    "transaction_id": 70032905
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Withdrawal",
+                    "amount": 7990.29,
+                    "transaction_id": 64222641
+                }
+            ]
+        }
+    }
+}

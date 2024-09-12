@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Aaron Perkins",
+        "age": 93,
+        "gender": "male",
+        "address": "3193 James Run, West Anne, MS 62235",
+        "phone": "+1-360-322-7382x1867",
+        "email": "davidhoffman@example.org",
+        "account": {
+            "account_number": "52def570-b6b6-4fdd-bb1a-4f468f58b92f",
+            "balance": -5745.95,
+            "transactions": [
+                {
+                    "date": "2023-09-15",
+                    "description": "Deposit",
+                    "amount": -3737.54,
+                    "transaction_id": 24774682
+                },
+                {
+                    "date": "2024-06-17",
+                    "description": "Interest",
+                    "amount": -4431.77,
+                    "transaction_id": 16554916
+                },
+                {
+                    "date": "2024-06-20",
+                    "description": "Withdrawal",
+                    "amount": -2699.6,
+                    "transaction_id": 59698078
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Interest",
+                    "amount": -4386.68,
+                    "transaction_id": 23925529
+                }
+            ]
+        }
+    }
+}

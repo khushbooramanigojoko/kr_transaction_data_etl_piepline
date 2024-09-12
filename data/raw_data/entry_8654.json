@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Nicole Reynolds",
+        "age": 28,
+        "gender": "male",
+        "address": "33743 Amy Manor Suite 907, Port Ashley, TX 22517",
+        "phone": "(560)292-3383",
+        "email": "michael36@example.net",
+        "account": {
+            "account_number": "6df5d001-0be9-4459-98f8-f56ae78cc764",
+            "balance": 36271.18,
+            "transactions": [
+                {
+                    "date": "2022-11-11",
+                    "description": "Withdrawal",
+                    "amount": 11553.06,
+                    "transaction_id": 49728775
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Interest",
+                    "amount": 45134.72,
+                    "transaction_id": 64842590
+                }
+            ]
+        }
+    }
+}

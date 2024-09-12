@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Robert Gibbs",
+        "age": 32,
+        "gender": "female",
+        "address": "Unit 3510 Box 4101, DPO AE 07459",
+        "phone": "001-988-338-9514x14534",
+        "email": "kingmary@example.com",
+        "account": {
+            "account_number": "d8afc9a4-ab69-435f-a4a4-c17b0419362b",
+            "balance": 35606.16,
+            "transactions": [
+                {
+                    "date": "2022-10-18",
+                    "description": "Deposit",
+                    "amount": 25929.08,
+                    "transaction_id": 59145216
+                },
+                {
+                    "date": "2023-09-21",
+                    "description": "Deposit",
+                    "amount": 28284.86,
+                    "transaction_id": 99614025
+                }
+            ]
+        }
+    }
+}

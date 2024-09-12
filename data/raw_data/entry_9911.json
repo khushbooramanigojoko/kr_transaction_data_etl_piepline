@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tiffany Brown",
+        "age": 27,
+        "gender": "female",
+        "address": "92230 Sandra Terrace, Kellyhaven, CO 70851",
+        "phone": "7235826066",
+        "email": "linda61@example.org",
+        "account": {
+            "account_number": "1c500fc4-3199-48d6-9126-ab365f32e214",
+            "balance": -14521.39,
+            "transactions": [
+                {
+                    "date": "2024-02-08",
+                    "description": "Deposit",
+                    "amount": -1705.9,
+                    "transaction_id": 44117727
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Interest",
+                    "amount": -3987.95,
+                    "transaction_id": 94154506
+                },
+                {
+                    "date": "2023-03-20",
+                    "description": "Deposit",
+                    "amount": -3042.11,
+                    "transaction_id": 87050762
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Interest",
+                    "amount": 1003.45,
+                    "transaction_id": 10282149
+                }
+            ]
+        }
+    }
+}

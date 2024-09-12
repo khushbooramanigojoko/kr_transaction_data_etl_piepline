@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Micheal Olson Jr.",
+        "age": 57,
+        "gender": "female",
+        "address": "419 Ronald Crest, North Anthonyshire, PA 36981",
+        "phone": "738.672.0732",
+        "email": "agibson@example.org",
+        "account": {
+            "account_number": "a2946158-f860-4d11-8c13-b6e79b5f3c5a",
+            "balance": 21396.54,
+            "transactions": [
+                {
+                    "date": "2023-10-30",
+                    "description": "Interest",
+                    "amount": 4938.96,
+                    "transaction_id": 109591015
+                },
+                {
+                    "date": "2024-06-05",
+                    "description": "Withdrawal",
+                    "amount": 7346.29,
+                    "transaction_id": 8704057
+                }
+            ]
+        }
+    }
+}

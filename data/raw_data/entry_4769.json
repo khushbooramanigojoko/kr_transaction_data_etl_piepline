@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Julian Thornton MD",
+        "age": 25,
+        "gender": "male",
+        "address": "693 Curtis Spring Apt. 571, Port Amanda, MA 75066",
+        "phone": "6604498790",
+        "email": "danielle48@example.net",
+        "account": {
+            "account_number": "c18357c6-7fd6-452f-96da-21d430b8d4c3",
+            "balance": 6438.88,
+            "transactions": [
+                {
+                    "date": "2022-11-29",
+                    "description": "Withdrawal",
+                    "amount": 40092.89,
+                    "transaction_id": 111150085
+                },
+                {
+                    "date": "2024-04-01",
+                    "description": "Interest",
+                    "amount": 45932.75,
+                    "transaction_id": 71012777
+                }
+            ]
+        }
+    }
+}

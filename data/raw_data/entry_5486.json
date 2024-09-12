@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Elizabeth Mitchell",
+        "age": 93,
+        "gender": "male",
+        "address": "55823 Sarah Circle Apt. 248, Chadville, AZ 10857",
+        "phone": "237-531-2562x0178",
+        "email": "quinndaniel@example.org",
+        "account": {
+            "account_number": "c0d5f361-ac0a-4569-b335-ed7f2a16761e",
+            "balance": 35510.24,
+            "transactions": [
+                {
+                    "date": "2022-11-15",
+                    "description": "Withdrawal",
+                    "amount": 42406.8,
+                    "transaction_id": 78169839
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Withdrawal",
+                    "amount": 49433.57,
+                    "transaction_id": 34426163
+                },
+                {
+                    "date": "2023-01-24",
+                    "description": "Withdrawal",
+                    "amount": 1310.34,
+                    "transaction_id": 52256352
+                },
+                {
+                    "date": "2023-02-26",
+                    "description": "Interest",
+                    "amount": 20093.44,
+                    "transaction_id": 28670391
+                }
+            ]
+        }
+    }
+}

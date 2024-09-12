@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Johnathan Gross MD",
+        "age": 75,
+        "gender": "female",
+        "address": "5191 Joseph Union Apt. 037, Cochranchester, NM 47007",
+        "phone": "001-902-664-7818x58562",
+        "email": "emily96@example.com",
+        "account": {
+            "account_number": "848b6172-7077-405b-a196-2b13398423a5",
+            "balance": 46798.65,
+            "transactions": [
+                {
+                    "date": "2023-06-10",
+                    "description": "Deposit",
+                    "amount": 45120.79,
+                    "transaction_id": 8558001
+                }
+            ]
+        }
+    }
+}

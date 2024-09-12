@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Laura Landry",
+        "age": 19,
+        "gender": "male",
+        "address": "347 William Orchard, Watsonshire, NE 93351",
+        "phone": "+1-909-711-4572x05140",
+        "email": "donaldhill@example.net",
+        "account": {
+            "account_number": "b09a340f-241f-4ead-a0c6-cae43f109aaa",
+            "balance": 30676.32,
+            "transactions": [
+                {
+                    "date": "2024-07-25",
+                    "description": "Withdrawal",
+                    "amount": 6876.91,
+                    "transaction_id": 81027891
+                },
+                {
+                    "date": "2023-06-12",
+                    "description": "Withdrawal",
+                    "amount": 44381.68,
+                    "transaction_id": 40284069
+                }
+            ]
+        }
+    }
+}

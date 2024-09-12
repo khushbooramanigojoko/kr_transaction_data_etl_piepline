@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Antonio Liu",
+        "age": 36,
+        "gender": "female",
+        "address": "62843 Pope Forest Apt. 759, Kristinborough, KY 82328",
+        "phone": "311-649-1929x470",
+        "email": "jennifer00@example.com",
+        "account": {
+            "account_number": "7ed3e7a1-ac97-4109-80f9-3a1807e8b874",
+            "balance": 24870.22,
+            "transactions": [
+                {
+                    "date": "2023-02-25",
+                    "description": "Withdrawal",
+                    "amount": 21905.71,
+                    "transaction_id": 82706941
+                }
+            ]
+        }
+    }
+}

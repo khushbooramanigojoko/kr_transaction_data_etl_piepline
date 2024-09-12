@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mr. Matthew Garcia IV",
+        "age": 49,
+        "gender": "male",
+        "address": "24991 Gross Ranch Suite 473, East Jessicafort, AL 65718",
+        "phone": "(453)267-9473x76164",
+        "email": "rowepeggy@example.net",
+        "account": {
+            "account_number": "3324fa6a-1f33-48b1-8ca7-8afbe1070c19",
+            "balance": 10165.82,
+            "transactions": [
+                {
+                    "date": "2023-08-21",
+                    "description": "Withdrawal",
+                    "amount": 45837.07,
+                    "transaction_id": 105209453
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Withdrawal",
+                    "amount": 30072.93,
+                    "transaction_id": 102336851
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Withdrawal",
+                    "amount": 14852.28,
+                    "transaction_id": 47604094
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Withdrawal",
+                    "amount": 301.8,
+                    "transaction_id": 69860069
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Denise Patrick",
+        "age": 96,
+        "gender": "male",
+        "address": "Unit 5074 Box 4468, DPO AA 51370",
+        "phone": "001-424-954-3140x355",
+        "email": "brett82@example.com",
+        "account": {
+            "account_number": "dcc6325c-651b-4813-bbda-505d7f438dd9",
+            "balance": 13602.7,
+            "transactions": [
+                {
+                    "date": "2024-08-07",
+                    "description": "Withdrawal",
+                    "amount": 7290.24,
+                    "transaction_id": 114794524
+                }
+            ]
+        }
+    }
+}

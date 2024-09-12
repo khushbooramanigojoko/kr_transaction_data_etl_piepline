@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jose Mcbride",
+        "age": 46,
+        "gender": "male",
+        "address": "62953 Rebecca Villages, East Marcusmouth, SC 66119",
+        "phone": "309.714.8226",
+        "email": "elizabethhansen@example.com",
+        "account": {
+            "account_number": "9f34319e-7c29-43e4-8fba-0310ae191ecd",
+            "balance": 17604.96,
+            "transactions": [
+                {
+                    "date": "2022-10-16",
+                    "description": "Interest",
+                    "amount": 48302.05,
+                    "transaction_id": 49090614
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Deposit",
+                    "amount": 41882.39,
+                    "transaction_id": 57049602
+                },
+                {
+                    "date": "2023-01-11",
+                    "description": "Deposit",
+                    "amount": 42656.73,
+                    "transaction_id": 57354107
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Withdrawal",
+                    "amount": 16631.97,
+                    "transaction_id": 40322565
+                },
+                {
+                    "date": "2024-08-03",
+                    "description": "Interest",
+                    "amount": 31949.63,
+                    "transaction_id": 98142643
+                }
+            ]
+        }
+    }
+}

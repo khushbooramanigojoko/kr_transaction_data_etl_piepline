@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jennifer Smith",
+        "age": 55,
+        "gender": "male",
+        "address": "USS Lynch, FPO AE 12390",
+        "phone": "624-444-8686x73113",
+        "email": "williamholmes@example.com",
+        "account": {
+            "account_number": "cee6d12d-1ebc-4603-9635-5d1f1fda4665",
+            "balance": 17900.4,
+            "transactions": [
+                {
+                    "date": "2023-11-07",
+                    "description": "Deposit",
+                    "amount": 14514.12,
+                    "transaction_id": 32670743
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Deposit",
+                    "amount": 27520.8,
+                    "transaction_id": 81801998
+                },
+                {
+                    "date": "2024-06-08",
+                    "description": "Withdrawal",
+                    "amount": 37324.52,
+                    "transaction_id": 76666486
+                }
+            ]
+        }
+    }
+}

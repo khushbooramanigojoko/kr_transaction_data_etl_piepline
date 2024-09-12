@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Douglas Rodriguez",
+        "age": 25,
+        "gender": "female",
+        "address": "245 Erin Views Suite 268, Katiemouth, CO 42591",
+        "phone": "+1-351-348-5825x77871",
+        "email": "bryantsteven@example.net",
+        "account": {
+            "account_number": "127c8bb6-59d2-4c1b-9e32-ae479f28bd88",
+            "balance": 41192.97,
+            "transactions": [
+                {
+                    "date": "2022-10-18",
+                    "description": "Interest",
+                    "amount": 2750.64,
+                    "transaction_id": 67861482
+                },
+                {
+                    "date": "2023-03-23",
+                    "description": "Interest",
+                    "amount": 48167.7,
+                    "transaction_id": 108574929
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Deposit",
+                    "amount": 44214.82,
+                    "transaction_id": 26319126
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Withdrawal",
+                    "amount": 17634.84,
+                    "transaction_id": 22609378
+                }
+            ]
+        }
+    }
+}

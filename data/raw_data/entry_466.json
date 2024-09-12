@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Terry Erickson",
+        "age": 34,
+        "gender": "male",
+        "address": "8536 Jane Isle Suite 638, Daisystad, MO 37852",
+        "phone": "(831)486-5963",
+        "email": "judyshepard@example.net",
+        "account": {
+            "account_number": "3e26d314-231b-477e-8078-620b32f8e6a7",
+            "balance": 29522.67,
+            "transactions": [
+                {
+                    "date": "2024-05-03",
+                    "description": "Withdrawal",
+                    "amount": 36956.18,
+                    "transaction_id": 33922900
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Withdrawal",
+                    "amount": 32081.01,
+                    "transaction_id": 74973725
+                }
+            ]
+        }
+    }
+}

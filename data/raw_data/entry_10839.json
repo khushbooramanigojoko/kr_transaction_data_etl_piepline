@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Courtney Benton",
+        "age": 56,
+        "gender": "male",
+        "address": "USCGC Schultz, FPO AP 05570",
+        "phone": "642.882.0756x08649",
+        "email": "kenneth15@example.net",
+        "account": {
+            "account_number": "70d28947-404f-4404-aa43-71a427c0c401",
+            "balance": -10886.44,
+            "transactions": [
+                {
+                    "date": "2023-01-15",
+                    "description": "Withdrawal",
+                    "amount": 3114.36,
+                    "transaction_id": 21685260
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Interest",
+                    "amount": -3047.3,
+                    "transaction_id": 90461725
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Withdrawal",
+                    "amount": 625.29,
+                    "transaction_id": 57838755
+                },
+                {
+                    "date": "2022-10-03",
+                    "description": "Withdrawal",
+                    "amount": -4432.25,
+                    "transaction_id": 25461530
+                },
+                {
+                    "date": "2023-08-28",
+                    "description": "Withdrawal",
+                    "amount": -3444.77,
+                    "transaction_id": 29301204
+                }
+            ]
+        }
+    }
+}

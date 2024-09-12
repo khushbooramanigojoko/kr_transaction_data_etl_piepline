@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 26,
+        "gender": "male",
+        "address": "8797 Garrett Track Suite 822, New Jean, KY 22151",
+        "phone": "449.272.8149x378",
+        "email": "valenzuelapamela@example.org",
+        "account": {
+            "account_number": "bb48993b-e2e2-47f4-acc9-4c7cba1398ad",
+            "balance": 23192.6,
+            "transactions": [
+                {
+                    "date": "2023-04-24",
+                    "description": "Deposit",
+                    "amount": 1262.04,
+                    "transaction_id": 43117016
+                },
+                {
+                    "date": "2023-01-29",
+                    "description": "Interest",
+                    "amount": 767.34,
+                    "transaction_id": 64287409
+                }
+            ]
+        }
+    }
+}

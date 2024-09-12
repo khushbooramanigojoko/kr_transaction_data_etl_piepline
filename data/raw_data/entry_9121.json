@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mary Gardner",
+        "age": 39,
+        "gender": "male",
+        "address": "57518 Koch Street, Paulborough, NV 26615",
+        "phone": "+1-993-814-7636x10627",
+        "email": "joshuawalsh@example.com",
+        "account": {
+            "account_number": "0f5de09d-0e18-4e60-b755-33a35b2ca595",
+            "balance": -48099.43,
+            "transactions": [
+                {
+                    "date": "2024-03-02",
+                    "description": "Withdrawal",
+                    "amount": -448.18,
+                    "transaction_id": 112331439
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Interest",
+                    "amount": 2095.87,
+                    "transaction_id": 105974166
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Interest",
+                    "amount": -2539.39,
+                    "transaction_id": 64759524
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Interest",
+                    "amount": -2534.22,
+                    "transaction_id": 30551205
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Deposit",
+                    "amount": -2032.65,
+                    "transaction_id": 110490834
+                }
+            ]
+        }
+    }
+}

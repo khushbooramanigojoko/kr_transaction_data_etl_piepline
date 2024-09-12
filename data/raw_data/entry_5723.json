@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Rebecca Hanson",
+        "age": 52,
+        "gender": "female",
+        "address": "19953 Becker Vista Apt. 747, Summersburgh, VI 65453",
+        "phone": "214.545.8517",
+        "email": "crystal87@example.com",
+        "account": {
+            "account_number": "25b7f9bd-c40e-42e1-a371-19a95c058932",
+            "balance": 5631.11,
+            "transactions": [
+                {
+                    "date": "2022-10-04",
+                    "description": "Withdrawal",
+                    "amount": 38529.86,
+                    "transaction_id": 4745993
+                },
+                {
+                    "date": "2024-01-27",
+                    "description": "Deposit",
+                    "amount": 9888.01,
+                    "transaction_id": 75513644
+                }
+            ]
+        }
+    }
+}

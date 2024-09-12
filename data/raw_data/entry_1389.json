@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jim Davis",
+        "age": 96,
+        "gender": "female",
+        "address": "18793 Ruiz Gateway Apt. 492, West Jasminechester, FL 93592",
+        "phone": "(812)497-0504x0277",
+        "email": "ubarber@example.com",
+        "account": {
+            "account_number": "d78420f6-068d-4cb7-b2c7-0b4b6113ba54",
+            "balance": 24295.17,
+            "transactions": [
+                {
+                    "date": "2023-01-04",
+                    "description": "Withdrawal",
+                    "amount": 30605.23,
+                    "transaction_id": 115039800
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Withdrawal",
+                    "amount": 40182.87,
+                    "transaction_id": 43404214
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Deposit",
+                    "amount": 30992.84,
+                    "transaction_id": 83422587
+                }
+            ]
+        }
+    }
+}

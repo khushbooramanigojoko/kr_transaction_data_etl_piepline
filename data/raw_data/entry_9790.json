@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 89,
+        "gender": "male",
+        "address": "874 Jones Stravenue Apt. 074, Ruthstad, PR 47661",
+        "phone": "965-455-3893x700",
+        "email": "johnadams@example.com",
+        "account": {
+            "account_number": "135d6211-9a9b-462b-aa19-565798356813",
+            "balance": 38339.18,
+            "transactions": [
+                {
+                    "date": "2023-04-06",
+                    "description": "Deposit",
+                    "amount": 204.26,
+                    "transaction_id": 12881877
+                },
+                {
+                    "date": "2023-06-04",
+                    "description": "Deposit",
+                    "amount": 4173.4,
+                    "transaction_id": 111755656
+                },
+                {
+                    "date": "2023-02-10",
+                    "description": "Interest",
+                    "amount": -2447.37,
+                    "transaction_id": 113248432
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Interest",
+                    "amount": 3532.58,
+                    "transaction_id": 15346177
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Interest",
+                    "amount": 4833.84,
+                    "transaction_id": 89635073
+                }
+            ]
+        }
+    }
+}

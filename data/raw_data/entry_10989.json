@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Matthew Quinn",
+        "age": 36,
+        "gender": "male",
+        "address": "3537 Wilkinson Mountain, Frankstad, MI 01821",
+        "phone": "(405)514-2646x3753",
+        "email": "larsonjohn@example.com",
+        "account": {
+            "account_number": "c469b30a-ae44-48b1-ba60-b316b3eeaca3",
+            "balance": -41792.64,
+            "transactions": [
+                {
+                    "date": "2024-01-09",
+                    "description": "Deposit",
+                    "amount": -3018.21,
+                    "transaction_id": 79507755
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Deposit",
+                    "amount": 2372.42,
+                    "transaction_id": 67412394
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Withdrawal",
+                    "amount": -582.8,
+                    "transaction_id": 48580770
+                },
+                {
+                    "date": "2022-10-19",
+                    "description": "Deposit",
+                    "amount": 3277.37,
+                    "transaction_id": 31129420
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Thomas Winters",
+        "age": 79,
+        "gender": "male",
+        "address": "28012 Candace Mountains, North Barbarabury, PW 50759",
+        "phone": "563.805.4085",
+        "email": "darylclark@example.net",
+        "account": {
+            "account_number": "c5feb70f-d377-4849-a2c6-9e365fac49ec",
+            "balance": 45940.2,
+            "transactions": [
+                {
+                    "date": "2023-11-07",
+                    "description": "Interest",
+                    "amount": 41546.72,
+                    "transaction_id": 115764612
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Deposit",
+                    "amount": 24016.15,
+                    "transaction_id": 71566377
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Withdrawal",
+                    "amount": 36785.65,
+                    "transaction_id": 106447510
+                },
+                {
+                    "date": "2023-08-05",
+                    "description": "Interest",
+                    "amount": 15167.24,
+                    "transaction_id": 37785626
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Withdrawal",
+                    "amount": 36232.29,
+                    "transaction_id": 116305408
+                }
+            ]
+        }
+    }
+}

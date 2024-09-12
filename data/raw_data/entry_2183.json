@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mary Meyer",
+        "age": 31,
+        "gender": "female",
+        "address": "5416 Jacqueline Cape Suite 490, Loribury, AK 25838",
+        "phone": "001-860-222-8939",
+        "email": "millerjason@example.com",
+        "account": {
+            "account_number": "a2f872bc-b6d6-4669-b9ea-1da31653fc3f",
+            "balance": 29820.25,
+            "transactions": [
+                {
+                    "date": "2023-05-16",
+                    "description": "Withdrawal",
+                    "amount": 46755.72,
+                    "transaction_id": 40698045
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Deposit",
+                    "amount": 17507.05,
+                    "transaction_id": 27756375
+                },
+                {
+                    "date": "2023-05-30",
+                    "description": "Deposit",
+                    "amount": 41392.95,
+                    "transaction_id": 93254154
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Interest",
+                    "amount": 37028.79,
+                    "transaction_id": 48373461
+                }
+            ]
+        }
+    }
+}

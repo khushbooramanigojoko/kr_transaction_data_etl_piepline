@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jonathan Thompson",
+        "age": 18,
+        "gender": "male",
+        "address": "1570 Hubbard Forges Apt. 645, Petersonstad, MS 16359",
+        "phone": "935-585-6160x25542",
+        "email": "hicksashley@example.org",
+        "account": {
+            "account_number": "c84c24fd-b3ce-4c3d-aec9-9e431dde2845",
+            "balance": 33442.03,
+            "transactions": [
+                {
+                    "date": "2023-11-02",
+                    "description": "Deposit",
+                    "amount": 28469.62,
+                    "transaction_id": 35237497
+                },
+                {
+                    "date": "2024-08-25",
+                    "description": "Withdrawal",
+                    "amount": 40664.59,
+                    "transaction_id": 74976538
+                },
+                {
+                    "date": "2023-06-23",
+                    "description": "Withdrawal",
+                    "amount": 23945.78,
+                    "transaction_id": 91007029
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Deposit",
+                    "amount": 45255.95,
+                    "transaction_id": 82636274
+                }
+            ]
+        }
+    }
+}

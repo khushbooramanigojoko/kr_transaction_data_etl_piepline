@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brandy Whitaker",
+        "age": 72,
+        "gender": "female",
+        "address": "33758 Leah Branch, Ariasville, LA 40326",
+        "phone": "+1-702-336-4185x470",
+        "email": "imartin@example.com",
+        "account": {
+            "account_number": "50bdb61e-00dc-4454-9af3-e353509aaada",
+            "balance": 38736.95,
+            "transactions": [
+                {
+                    "date": "2024-02-02",
+                    "description": "Interest",
+                    "amount": 30859.56,
+                    "transaction_id": 33274839
+                },
+                {
+                    "date": "2023-01-15",
+                    "description": "Interest",
+                    "amount": 28073.77,
+                    "transaction_id": 79927304
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Deposit",
+                    "amount": 36068.76,
+                    "transaction_id": 37303780
+                },
+                {
+                    "date": "2022-10-10",
+                    "description": "Deposit",
+                    "amount": 8691.91,
+                    "transaction_id": 25121168
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Interest",
+                    "amount": 14441.79,
+                    "transaction_id": 1328376
+                }
+            ]
+        }
+    }
+}

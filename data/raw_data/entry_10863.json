@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 45,
+        "gender": "male",
+        "address": "54038 Sharon Manors Apt. 173, West Alyssaville, MA 40438",
+        "phone": "580-829-4559x675",
+        "email": "ernestgriffin@example.org",
+        "account": {
+            "account_number": "9bb98f12-af49-4da6-aec8-114945ed2673",
+            "balance": 2237.76,
+            "transactions": [
+                {
+                    "date": "2023-03-25",
+                    "description": "Interest",
+                    "amount": 4425.46,
+                    "transaction_id": 102934209
+                }
+            ]
+        }
+    }
+}

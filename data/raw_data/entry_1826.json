@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Marshall",
+        "age": 97,
+        "gender": "female",
+        "address": "94933 Desiree Lane, Frederickstad, PR 14384",
+        "phone": "935-716-7935x82587",
+        "email": "nancycox@example.net",
+        "account": {
+            "account_number": "319c87e5-c100-49c6-997e-f455be36a722",
+            "balance": 25531.77,
+            "transactions": [
+                {
+                    "date": "2022-11-19",
+                    "description": "Interest",
+                    "amount": 21061.81,
+                    "transaction_id": 40727062
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Deposit",
+                    "amount": 6224.83,
+                    "transaction_id": 94735863
+                },
+                {
+                    "date": "2023-12-31",
+                    "description": "Deposit",
+                    "amount": 42249.55,
+                    "transaction_id": 83835787
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Deposit",
+                    "amount": 34204.14,
+                    "transaction_id": 76915397
+                },
+                {
+                    "date": "2022-11-11",
+                    "description": "Deposit",
+                    "amount": 15386.74,
+                    "transaction_id": 24586582
+                }
+            ]
+        }
+    }
+}

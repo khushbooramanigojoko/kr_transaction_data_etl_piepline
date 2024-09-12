@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Carly Campbell",
+        "age": 27,
+        "gender": "female",
+        "address": "487 Lee Mount, Saunderstown, AL 14317",
+        "phone": "450-606-9254",
+        "email": "contrerasjennifer@example.net",
+        "account": {
+            "account_number": "b8fd4dc3-b3da-4b2a-a1f6-38fdd416c01f",
+            "balance": 18661.46,
+            "transactions": [
+                {
+                    "date": "2023-02-11",
+                    "description": "Interest",
+                    "amount": 44779.27,
+                    "transaction_id": 25194103
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Interest",
+                    "amount": 8114.02,
+                    "transaction_id": 15634610
+                }
+            ]
+        }
+    }
+}

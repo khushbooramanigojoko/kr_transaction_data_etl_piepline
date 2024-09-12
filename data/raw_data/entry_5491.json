@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brian Hill",
+        "age": 89,
+        "gender": "male",
+        "address": "57240 Lori River, Lake Gina, ME 29418",
+        "phone": "(901)331-1516",
+        "email": "sanchezarthur@example.com",
+        "account": {
+            "account_number": "45a2a042-8436-466a-82ac-312da0c0593a",
+            "balance": 3780.19,
+            "transactions": [
+                {
+                    "date": "2023-06-13",
+                    "description": "Interest",
+                    "amount": 1429.85,
+                    "transaction_id": 57951696
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Deposit",
+                    "amount": 8333.43,
+                    "transaction_id": 54774768
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Withdrawal",
+                    "amount": 4846.11,
+                    "transaction_id": 52240426
+                },
+                {
+                    "date": "2023-01-14",
+                    "description": "Withdrawal",
+                    "amount": 39248.99,
+                    "transaction_id": 24922332
+                }
+            ]
+        }
+    }
+}

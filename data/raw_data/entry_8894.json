@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 19,
+        "gender": "female",
+        "address": "7704 Scott Avenue Suite 550, West Scott, PA 73552",
+        "phone": "6142686382",
+        "email": "brandonmedina@example.org",
+        "account": {
+            "account_number": "c7d853fe-50c5-4427-a6ef-bdb8a72630f2",
+            "balance": 12474.03,
+            "transactions": [
+                {
+                    "date": "2022-12-18",
+                    "description": "Deposit",
+                    "amount": -3211.72,
+                    "transaction_id": 105818529
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Angela Hardy",
+        "age": 79,
+        "gender": "male",
+        "address": "49151 Jessica Courts Apt. 028, Teresaport, NJ 62349",
+        "phone": "(275)862-6406x1653",
+        "email": "oholder@example.org",
+        "account": {
+            "account_number": "74f0b685-5836-47c1-ab3d-edacbcf72f2c",
+            "balance": 32507.25,
+            "transactions": [
+                {
+                    "date": "2023-06-07",
+                    "description": "Interest",
+                    "amount": 42232.77,
+                    "transaction_id": 24910253
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Withdrawal",
+                    "amount": 28006.96,
+                    "transaction_id": 33791236
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Interest",
+                    "amount": 9469.51,
+                    "transaction_id": 89319303
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 20,
+        "gender": "male",
+        "address": "557 Marshall Island Apt. 787, North Brian, FL 71291",
+        "phone": "(614)606-3648",
+        "email": "palmermonica@example.com",
+        "account": {
+            "account_number": "b9907b98-6f04-43eb-b035-b56a993bdc2f",
+            "balance": 11052.18,
+            "transactions": [
+                {
+                    "date": "2023-11-25",
+                    "description": "Withdrawal",
+                    "amount": -916.04,
+                    "transaction_id": 23311746
+                },
+                {
+                    "date": "2024-02-03",
+                    "description": "Withdrawal",
+                    "amount": 2946.88,
+                    "transaction_id": 3925899
+                }
+            ]
+        }
+    }
+}

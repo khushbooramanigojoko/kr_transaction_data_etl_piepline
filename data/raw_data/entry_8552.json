@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amanda Mitchell",
+        "age": 61,
+        "gender": "female",
+        "address": "PSC 5778, Box 1704, APO AA 16261",
+        "phone": "439-226-0165x048",
+        "email": "serranowanda@example.org",
+        "account": {
+            "account_number": "7656fb76-6d2a-47f5-b091-41ad49d71f4d",
+            "balance": 41264.44,
+            "transactions": [
+                {
+                    "date": "2023-08-01",
+                    "description": "Withdrawal",
+                    "amount": 23948.22,
+                    "transaction_id": 116698695
+                },
+                {
+                    "date": "2023-08-06",
+                    "description": "Interest",
+                    "amount": 39298.25,
+                    "transaction_id": 89770762
+                }
+            ]
+        }
+    }
+}

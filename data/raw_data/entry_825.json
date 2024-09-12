@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alison Phillips",
+        "age": 87,
+        "gender": "female",
+        "address": "4916 Adrian Port, Williamsburgh, OH 23640",
+        "phone": "+1-340-542-7408x26063",
+        "email": "jennifer02@example.com",
+        "account": {
+            "account_number": "b6d07a1d-44b8-45f3-8f10-ef1078df03b0",
+            "balance": 28297.3,
+            "transactions": [
+                {
+                    "date": "2022-09-22",
+                    "description": "Interest",
+                    "amount": 46976.25,
+                    "transaction_id": 67995938
+                }
+            ]
+        }
+    }
+}

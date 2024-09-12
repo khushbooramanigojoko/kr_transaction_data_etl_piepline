@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christopher Lewis",
+        "age": 90,
+        "gender": "female",
+        "address": "19141 Cox Summit, Joycemouth, ME 55018",
+        "phone": "3244954810",
+        "email": "patelclaudia@example.com",
+        "account": {
+            "account_number": "86010b6d-d862-4020-8555-6de6dfd6f4ec",
+            "balance": 48888.71,
+            "transactions": [
+                {
+                    "date": "2024-05-28",
+                    "description": "Interest",
+                    "amount": 4866.19,
+                    "transaction_id": 69019503
+                },
+                {
+                    "date": "2024-01-20",
+                    "description": "Interest",
+                    "amount": 43447.41,
+                    "transaction_id": 39641974
+                },
+                {
+                    "date": "2024-04-29",
+                    "description": "Withdrawal",
+                    "amount": 14321.19,
+                    "transaction_id": 117976451
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Withdrawal",
+                    "amount": 32892.55,
+                    "transaction_id": 96355999
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Withdrawal",
+                    "amount": 34264.51,
+                    "transaction_id": 60373939
+                }
+            ]
+        }
+    }
+}

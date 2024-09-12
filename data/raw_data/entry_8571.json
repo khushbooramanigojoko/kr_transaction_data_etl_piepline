@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Margaret Smith",
+        "age": 34,
+        "gender": "female",
+        "address": "357 Jennifer Roads, North Jonathantown, VT 17059",
+        "phone": "642-814-9770x75917",
+        "email": "jordanstephen@example.org",
+        "account": {
+            "account_number": "561c2b86-ea1c-47e2-88ec-b7f903fe5e0a",
+            "balance": 17893.0,
+            "transactions": [
+                {
+                    "date": "2024-06-04",
+                    "description": "Deposit",
+                    "amount": 41593.35,
+                    "transaction_id": 22322196
+                }
+            ]
+        }
+    }
+}

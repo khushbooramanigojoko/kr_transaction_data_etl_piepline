@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "David Smith",
+        "age": 38,
+        "gender": "male",
+        "address": "14907 Rebekah Loop Apt. 275, North Ericfort, IL 41491",
+        "phone": "696-355-6252x437",
+        "email": "lisa38@example.net",
+        "account": {
+            "account_number": "64b3ec9a-b3d0-4502-a10e-14ea6a2b5ecc",
+            "balance": -15682.75,
+            "transactions": [
+                {
+                    "date": "2022-09-17",
+                    "description": "Withdrawal",
+                    "amount": -979.54,
+                    "transaction_id": 24533884
+                },
+                {
+                    "date": "2023-11-21",
+                    "description": "Deposit",
+                    "amount": 4476.78,
+                    "transaction_id": 6952880
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Interest",
+                    "amount": -3840.54,
+                    "transaction_id": 110979590
+                }
+            ]
+        }
+    }
+}

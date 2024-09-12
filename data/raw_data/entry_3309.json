@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tina Elliott",
+        "age": 59,
+        "gender": "male",
+        "address": "200 Wanda Ports, North Edward, WI 53005",
+        "phone": "6224867145",
+        "email": "kenneth88@example.org",
+        "account": {
+            "account_number": "c3f19919-c3e1-4aee-a0c6-8c31a4c62e32",
+            "balance": 22620.39,
+            "transactions": [
+                {
+                    "date": "2023-03-01",
+                    "description": "Deposit",
+                    "amount": 22789.4,
+                    "transaction_id": 5183527
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Withdrawal",
+                    "amount": 19096.71,
+                    "transaction_id": 84342168
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Interest",
+                    "amount": 30540.31,
+                    "transaction_id": 40583562
+                },
+                {
+                    "date": "2023-07-10",
+                    "description": "Interest",
+                    "amount": 46967.93,
+                    "transaction_id": 9554966
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Deposit",
+                    "amount": 18837.79,
+                    "transaction_id": 26279456
+                }
+            ]
+        }
+    }
+}

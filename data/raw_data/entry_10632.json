@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Juan Reese",
+        "age": 74,
+        "gender": "female",
+        "address": "9446 Howard Wall, Brandonmouth, MD 60079",
+        "phone": "923-254-4763x0759",
+        "email": "prattmichele@example.net",
+        "account": {
+            "account_number": "89cd3b7d-0a7e-4516-a968-cbf3b9d21903",
+            "balance": -49273.02,
+            "transactions": [
+                {
+                    "date": "2023-06-13",
+                    "description": "Interest",
+                    "amount": 1927.89,
+                    "transaction_id": 35726471
+                }
+            ]
+        }
+    }
+}

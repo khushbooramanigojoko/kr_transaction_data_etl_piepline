@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Gabriel Welch",
+        "age": 54,
+        "gender": "female",
+        "address": "7260 Matthews Road Suite 291, North Kendra, AS 34173",
+        "phone": "(746)969-8472x02393",
+        "email": "comptonleslie@example.org",
+        "account": {
+            "account_number": "9632bcc8-c76e-4b5f-825b-e2f9a9bb391e",
+            "balance": 35323.96,
+            "transactions": [
+                {
+                    "date": "2023-07-31",
+                    "description": "Deposit",
+                    "amount": 41079.9,
+                    "transaction_id": 31042283
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jonathan Nguyen",
+        "age": 72,
+        "gender": "female",
+        "address": "Unit 7470 Box 3790, DPO AA 89428",
+        "phone": "699.285.9925x60042",
+        "email": "reginald09@example.net",
+        "account": {
+            "account_number": "15916417-b7bc-4b3e-8d85-843f594d4f48",
+            "balance": 1401.14,
+            "transactions": [
+                {
+                    "date": "2022-10-12",
+                    "description": "Deposit",
+                    "amount": 12839.75,
+                    "transaction_id": 117433488
+                }
+            ]
+        }
+    }
+}

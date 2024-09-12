@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "male",
+        "address": "8947 Paul Prairie Suite 111, Port Jessica, MH 66798",
+        "phone": "9682003068",
+        "email": "justin06@example.org",
+        "account": {
+            "account_number": "6911dcbd-cb2e-4f41-984a-7d870560dcc1",
+            "balance": 23098.83,
+            "transactions": [
+                {
+                    "date": "2023-06-16",
+                    "description": "Interest",
+                    "amount": 4011.69,
+                    "transaction_id": 66616583
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Interest",
+                    "amount": 4399.06,
+                    "transaction_id": 55794484
+                },
+                {
+                    "date": "2023-03-05",
+                    "description": "Withdrawal",
+                    "amount": -3195.67,
+                    "transaction_id": 4626098
+                },
+                {
+                    "date": "2024-04-06",
+                    "description": "Interest",
+                    "amount": -603.53,
+                    "transaction_id": 8369855
+                }
+            ]
+        }
+    }
+}

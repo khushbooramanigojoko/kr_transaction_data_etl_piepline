@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dalton Wright",
+        "age": 99,
+        "gender": "female",
+        "address": "066 Chavez Fields Suite 099, Jeffreyberg, VT 39129",
+        "phone": "001-388-997-5282x2910",
+        "email": "rmcdaniel@example.com",
+        "account": {
+            "account_number": "de513bfe-b0e7-4264-b932-2c5c7aa2673b",
+            "balance": 24338.74,
+            "transactions": [
+                {
+                    "date": "2024-03-28",
+                    "description": "Withdrawal",
+                    "amount": 2547.17,
+                    "transaction_id": 101713022
+                },
+                {
+                    "date": "2023-04-22",
+                    "description": "Deposit",
+                    "amount": 5299.18,
+                    "transaction_id": 80632377
+                },
+                {
+                    "date": "2024-02-18",
+                    "description": "Interest",
+                    "amount": 15590.68,
+                    "transaction_id": 62563123
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Withdrawal",
+                    "amount": 4275.51,
+                    "transaction_id": 63771740
+                },
+                {
+                    "date": "2024-07-07",
+                    "description": "Interest",
+                    "amount": 32329.34,
+                    "transaction_id": 47038886
+                }
+            ]
+        }
+    }
+}

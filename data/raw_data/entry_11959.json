@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Anthony Mcbride",
+        "age": 47,
+        "gender": "female",
+        "address": "190 Whitney View, North Williamberg, CA 05098",
+        "phone": "982-924-7836",
+        "email": "jeff62@example.com",
+        "account": {
+            "account_number": "52f499fa-bbcd-4f0b-abdd-7f420c92d009",
+            "balance": 38690.29,
+            "transactions": [
+                {
+                    "date": "2023-04-29",
+                    "description": "Interest",
+                    "amount": 48034.29,
+                    "transaction_id": 5720033
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Withdrawal",
+                    "amount": 20131.9,
+                    "transaction_id": 59770709
+                },
+                {
+                    "date": "2024-01-20",
+                    "description": "Deposit",
+                    "amount": 18553.25,
+                    "transaction_id": 47148096
+                },
+                {
+                    "date": "2024-02-28",
+                    "description": "Withdrawal",
+                    "amount": 7101.37,
+                    "transaction_id": 106113593
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 58,
+        "gender": "female",
+        "address": "50427 Anthony Crescent Apt. 935, Lake Paul, PR 73323",
+        "phone": "2907101456",
+        "email": "fcampbell@example.net",
+        "account": {
+            "account_number": "aa4e28f8-8135-4234-b2a3-c12fa86c9075",
+            "balance": 5194.07,
+            "transactions": [
+                {
+                    "date": "2022-12-05",
+                    "description": "Withdrawal",
+                    "amount": 4511.68,
+                    "transaction_id": 51758245
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Withdrawal",
+                    "amount": -1185.76,
+                    "transaction_id": 110661575
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Withdrawal",
+                    "amount": -4075.36,
+                    "transaction_id": 84264490
+                },
+                {
+                    "date": "2024-05-08",
+                    "description": "Interest",
+                    "amount": -4303.93,
+                    "transaction_id": 17689440
+                },
+                {
+                    "date": "2024-06-14",
+                    "description": "Deposit",
+                    "amount": -1607.89,
+                    "transaction_id": 16738500
+                }
+            ]
+        }
+    }
+}

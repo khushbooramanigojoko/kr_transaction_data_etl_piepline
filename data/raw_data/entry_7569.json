@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Ramsey",
+        "age": 63,
+        "gender": "male",
+        "address": "3443 Harvey Oval, South Michael, MP 16474",
+        "phone": "001-598-886-0534",
+        "email": "randallpatrick@example.org",
+        "account": {
+            "account_number": "d4665799-d2a9-4d6d-8e33-90f42e05e199",
+            "balance": 31095.43,
+            "transactions": [
+                {
+                    "date": "2023-09-03",
+                    "description": "Interest",
+                    "amount": 23221.11,
+                    "transaction_id": 94180972
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Interest",
+                    "amount": 49044.1,
+                    "transaction_id": 72198144
+                },
+                {
+                    "date": "2024-01-23",
+                    "description": "Interest",
+                    "amount": 4216.86,
+                    "transaction_id": 87717093
+                },
+                {
+                    "date": "2023-08-06",
+                    "description": "Withdrawal",
+                    "amount": 36198.75,
+                    "transaction_id": 75292699
+                }
+            ]
+        }
+    }
+}

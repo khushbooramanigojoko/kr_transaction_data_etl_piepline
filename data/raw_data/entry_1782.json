@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Rhonda Roberts",
+        "age": 23,
+        "gender": "female",
+        "address": "1537 Ryan Well Apt. 520, Haasland, IA 94286",
+        "phone": "(913)965-6248",
+        "email": "olsensydney@example.org",
+        "account": {
+            "account_number": "f3a97e91-d59d-4eaa-827d-bf24a8ca2be7",
+            "balance": 42101.97,
+            "transactions": [
+                {
+                    "date": "2024-03-02",
+                    "description": "Withdrawal",
+                    "amount": 36055.43,
+                    "transaction_id": 62842806
+                },
+                {
+                    "date": "2024-04-10",
+                    "description": "Interest",
+                    "amount": 18909.7,
+                    "transaction_id": 103791481
+                }
+            ]
+        }
+    }
+}

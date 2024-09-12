@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Diane Flynn",
+        "age": 35,
+        "gender": "male",
+        "address": "01231 Miller Fort Apt. 495, North Danielbury, WI 60805",
+        "phone": "4019264007",
+        "email": "walter04@example.net",
+        "account": {
+            "account_number": "da066059-efae-4398-9e5e-ca7f6faf992d",
+            "balance": 48747.17,
+            "transactions": [
+                {
+                    "date": "2022-11-21",
+                    "description": "Deposit",
+                    "amount": 45912.68,
+                    "transaction_id": 95724949
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Deposit",
+                    "amount": 16530.16,
+                    "transaction_id": 1121206
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Betty Mitchell",
+        "age": 30,
+        "gender": "male",
+        "address": "74416 Mcdonald Fall, Hayesport, NJ 83960",
+        "phone": "(618)549-9119",
+        "email": "sallison@example.net",
+        "account": {
+            "account_number": "2c80442b-9d26-4d16-9215-dd77abd19179",
+            "balance": 36600.62,
+            "transactions": [
+                {
+                    "date": "2023-10-26",
+                    "description": "Withdrawal",
+                    "amount": 31083.12,
+                    "transaction_id": 61122223
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Withdrawal",
+                    "amount": 24561.32,
+                    "transaction_id": 92245631
+                }
+            ]
+        }
+    }
+}

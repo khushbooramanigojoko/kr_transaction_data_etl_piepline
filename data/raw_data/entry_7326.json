@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ryan Hardy",
+        "age": 24,
+        "gender": "male",
+        "address": "141 Bush Ways Apt. 919, Williamchester, VI 55053",
+        "phone": "+1-606-625-2541x1945",
+        "email": "gravesbarbara@example.net",
+        "account": {
+            "account_number": "ba1f573d-3914-4920-b631-6c988de277dc",
+            "balance": 19577.96,
+            "transactions": [
+                {
+                    "date": "2023-03-30",
+                    "description": "Deposit",
+                    "amount": 5183.72,
+                    "transaction_id": 53823581
+                },
+                {
+                    "date": "2024-01-19",
+                    "description": "Interest",
+                    "amount": 28431.44,
+                    "transaction_id": 11828515
+                }
+            ]
+        }
+    }
+}

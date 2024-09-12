@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christina Garza",
+        "age": 56,
+        "gender": "female",
+        "address": "PSC 3414, Box 3445, APO AP 03007",
+        "phone": "001-908-602-7569",
+        "email": "kimberlycraig@example.org",
+        "account": {
+            "account_number": "04861a29-b5e1-40d3-b13f-6cc2237b6adc",
+            "balance": 5628.76,
+            "transactions": [
+                {
+                    "date": "2024-08-16",
+                    "description": "Interest",
+                    "amount": 24695.59,
+                    "transaction_id": 33557624
+                },
+                {
+                    "date": "2022-11-27",
+                    "description": "Withdrawal",
+                    "amount": 25365.04,
+                    "transaction_id": 59150023
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Withdrawal",
+                    "amount": 17604.83,
+                    "transaction_id": 39559821
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Interest",
+                    "amount": 41786.53,
+                    "transaction_id": 31102757
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Withdrawal",
+                    "amount": 14033.54,
+                    "transaction_id": 69902842
+                }
+            ]
+        }
+    }
+}

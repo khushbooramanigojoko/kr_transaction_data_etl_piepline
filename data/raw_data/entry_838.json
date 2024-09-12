@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Erica Martinez",
+        "age": 66,
+        "gender": "male",
+        "address": "2458 Alvarez Flats Apt. 020, Port Joseph, ME 36788",
+        "phone": "3196359305",
+        "email": "steven13@example.org",
+        "account": {
+            "account_number": "861ebfc4-5933-4dd1-a4d3-fce648d66981",
+            "balance": 12735.95,
+            "transactions": [
+                {
+                    "date": "2024-02-19",
+                    "description": "Withdrawal",
+                    "amount": 31865.69,
+                    "transaction_id": 52032671
+                },
+                {
+                    "date": "2023-06-04",
+                    "description": "Withdrawal",
+                    "amount": 13022.28,
+                    "transaction_id": 24312600
+                }
+            ]
+        }
+    }
+}

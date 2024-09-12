@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Adrian Miller",
+        "age": 91,
+        "gender": "female",
+        "address": "792 Barbara Canyon, West Michaelville, MI 16303",
+        "phone": "(855)451-3903",
+        "email": "ronnieeaton@example.com",
+        "account": {
+            "account_number": "2285ace7-1d46-439f-b5a1-f3e317ab050c",
+            "balance": -11671.22,
+            "transactions": [
+                {
+                    "date": "2023-05-22",
+                    "description": "Withdrawal",
+                    "amount": 4025.43,
+                    "transaction_id": 20136381
+                },
+                {
+                    "date": "2022-11-19",
+                    "description": "Withdrawal",
+                    "amount": 4593.3,
+                    "transaction_id": 80453580
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Deposit",
+                    "amount": -3455.5,
+                    "transaction_id": 53155922
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Deposit",
+                    "amount": -700.76,
+                    "transaction_id": 52057384
+                }
+            ]
+        }
+    }
+}

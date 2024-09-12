@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tracy Sanders",
+        "age": 69,
+        "gender": "female",
+        "address": "53915 Tricia Harbor Apt. 378, Danielstad, PW 17937",
+        "phone": "001-274-411-6442x42701",
+        "email": "calderonjasmine@example.com",
+        "account": {
+            "account_number": "8d5f8850-2502-4419-bc86-d40d487c39b7",
+            "balance": 27229.46,
+            "transactions": [
+                {
+                    "date": "2023-10-09",
+                    "description": "Deposit",
+                    "amount": 29080.04,
+                    "transaction_id": 24707287
+                }
+            ]
+        }
+    }
+}

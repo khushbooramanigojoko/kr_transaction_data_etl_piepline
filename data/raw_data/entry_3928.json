@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Dylan Davis",
+        "age": 44,
+        "gender": "male",
+        "address": "3745 Taylor Divide, Port Jennyton, FM 26116",
+        "phone": "(471)922-3876",
+        "email": "wrightkelly@example.org",
+        "account": {
+            "account_number": "c64c4fc2-2036-4b24-a444-5c1e89bd1ac6",
+            "balance": 11458.47,
+            "transactions": [
+                {
+                    "date": "2024-05-26",
+                    "description": "Interest",
+                    "amount": 44189.82,
+                    "transaction_id": 1266052
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Interest",
+                    "amount": 13123.79,
+                    "transaction_id": 80048580
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Interest",
+                    "amount": 25345.99,
+                    "transaction_id": 53095316
+                }
+            ]
+        }
+    }
+}

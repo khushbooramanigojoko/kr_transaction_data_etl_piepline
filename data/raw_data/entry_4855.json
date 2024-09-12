@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Marc Rich",
+        "age": 36,
+        "gender": "female",
+        "address": "102 Leslie Terrace Apt. 910, New Jamesside, OR 42897",
+        "phone": "001-481-782-1704",
+        "email": "hannahramos@example.com",
+        "account": {
+            "account_number": "8c05d97b-d639-4620-a217-e9d7e5e56c3e",
+            "balance": 36478.61,
+            "transactions": [
+                {
+                    "date": "2024-03-27",
+                    "description": "Deposit",
+                    "amount": 17590.79,
+                    "transaction_id": 24832805
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Interest",
+                    "amount": 7648.42,
+                    "transaction_id": 30933394
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Deposit",
+                    "amount": 20176.53,
+                    "transaction_id": 28765872
+                },
+                {
+                    "date": "2023-01-24",
+                    "description": "Withdrawal",
+                    "amount": 40106.22,
+                    "transaction_id": 47933488
+                }
+            ]
+        }
+    }
+}

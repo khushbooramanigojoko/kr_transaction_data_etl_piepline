@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Leah Gonzales",
+        "age": 30,
+        "gender": "male",
+        "address": "17972 Macias Center Suite 845, North Carlosfurt, PA 69472",
+        "phone": "9458151563",
+        "email": "wangcrystal@example.org",
+        "account": {
+            "account_number": "5df2bf36-1644-49bf-b7f1-75b49fada935",
+            "balance": 24022.06,
+            "transactions": [
+                {
+                    "date": "2023-01-28",
+                    "description": "Interest",
+                    "amount": 17380.44,
+                    "transaction_id": 61775631
+                }
+            ]
+        }
+    }
+}

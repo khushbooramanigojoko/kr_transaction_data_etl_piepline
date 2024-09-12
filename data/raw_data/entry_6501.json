@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Laurie Atkinson",
+        "age": 48,
+        "gender": "female",
+        "address": "79705 Brown Junctions, New April, TX 65485",
+        "phone": "001-550-497-7429x5199",
+        "email": "millsmark@example.org",
+        "account": {
+            "account_number": "72b7851d-5d8e-4068-ba6c-3cc1ea486259",
+            "balance": 36326.61,
+            "transactions": [
+                {
+                    "date": "2023-04-29",
+                    "description": "Interest",
+                    "amount": 19019.05,
+                    "transaction_id": 19808187
+                }
+            ]
+        }
+    }
+}

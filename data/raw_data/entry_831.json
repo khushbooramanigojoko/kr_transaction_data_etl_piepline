@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mary Norris",
+        "age": 94,
+        "gender": "male",
+        "address": "0935 Dennis Grove, North Stephentown, FM 50373",
+        "phone": "001-431-561-6380",
+        "email": "eobrien@example.net",
+        "account": {
+            "account_number": "af7f20b1-901e-4397-8a47-4bcf367e6c52",
+            "balance": 13253.65,
+            "transactions": [
+                {
+                    "date": "2023-09-20",
+                    "description": "Deposit",
+                    "amount": 16199.6,
+                    "transaction_id": 96342037
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Interest",
+                    "amount": 7376.91,
+                    "transaction_id": 35893168
+                },
+                {
+                    "date": "2023-08-17",
+                    "description": "Withdrawal",
+                    "amount": 22774.82,
+                    "transaction_id": 101266027
+                },
+                {
+                    "date": "2024-03-20",
+                    "description": "Interest",
+                    "amount": 1262.31,
+                    "transaction_id": 51021145
+                }
+            ]
+        }
+    }
+}

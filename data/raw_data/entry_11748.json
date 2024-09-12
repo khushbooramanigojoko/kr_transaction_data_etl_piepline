@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Jacobson",
+        "age": 23,
+        "gender": "female",
+        "address": "564 Kimberly Canyon, Patricialand, HI 36543",
+        "phone": "001-833-753-8059",
+        "email": "fisherlisa@example.com",
+        "account": {
+            "account_number": "86a11b67-ea9d-460d-8c7e-c5f93fb6c4cc",
+            "balance": -39420.29,
+            "transactions": [
+                {
+                    "date": "2024-08-18",
+                    "description": "Withdrawal",
+                    "amount": -1490.16,
+                    "transaction_id": 101966596
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Interest",
+                    "amount": 1132.0,
+                    "transaction_id": 52505889
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Interest",
+                    "amount": 1092.93,
+                    "transaction_id": 27247871
+                },
+                {
+                    "date": "2023-12-13",
+                    "description": "Withdrawal",
+                    "amount": 2532.17,
+                    "transaction_id": 3663979
+                }
+            ]
+        }
+    }
+}

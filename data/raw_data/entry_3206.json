@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Henry Nelson",
+        "age": 89,
+        "gender": "female",
+        "address": "0461 Martinez Alley Apt. 388, Mccormickton, ME 28634",
+        "phone": "+1-732-844-4559x11996",
+        "email": "christopher41@example.com",
+        "account": {
+            "account_number": "b8aa9dd3-1ebf-4d64-893f-155cdb8817fc",
+            "balance": 40085.96,
+            "transactions": [
+                {
+                    "date": "2024-06-15",
+                    "description": "Interest",
+                    "amount": 47558.61,
+                    "transaction_id": 34327661
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Withdrawal",
+                    "amount": 43918.06,
+                    "transaction_id": 55687794
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Withdrawal",
+                    "amount": 26056.79,
+                    "transaction_id": 7258224
+                },
+                {
+                    "date": "2023-09-15",
+                    "description": "Deposit",
+                    "amount": 5039.85,
+                    "transaction_id": 87944588
+                }
+            ]
+        }
+    }
+}

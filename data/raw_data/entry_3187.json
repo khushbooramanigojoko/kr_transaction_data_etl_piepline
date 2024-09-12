@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kelly Carter",
+        "age": 21,
+        "gender": "male",
+        "address": "4378 Diaz Spring, West Monique, KS 68032",
+        "phone": "001-916-356-0954x008",
+        "email": "ruizamy@example.com",
+        "account": {
+            "account_number": "6bddd9de-0ee5-450b-ab24-a3e0e3465393",
+            "balance": 23862.67,
+            "transactions": [
+                {
+                    "date": "2023-12-11",
+                    "description": "Withdrawal",
+                    "amount": 24046.68,
+                    "transaction_id": 33250276
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Deposit",
+                    "amount": 32955.32,
+                    "transaction_id": 38530565
+                }
+            ]
+        }
+    }
+}

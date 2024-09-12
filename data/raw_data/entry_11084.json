@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Leslie Solis",
+        "age": 28,
+        "gender": "male",
+        "address": "6269 Johnson Meadow, Jacquelinestad, NH 73024",
+        "phone": "974.454.9706",
+        "email": "waltersmiguel@example.com",
+        "account": {
+            "account_number": "fb9531d6-1923-45e5-9f67-8645a0f2fc21",
+            "balance": -1362.47,
+            "transactions": [
+                {
+                    "date": "2024-04-22",
+                    "description": "Withdrawal",
+                    "amount": -4225.83,
+                    "transaction_id": 14932290
+                }
+            ]
+        }
+    }
+}

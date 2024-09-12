@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Emma Roberts",
+        "age": 62,
+        "gender": "female",
+        "address": "29909 Jamie Parkways Apt. 359, Port Cody, WV 48582",
+        "phone": "(691)448-2988",
+        "email": "jonathan02@example.com",
+        "account": {
+            "account_number": "64794715-5900-4e82-95f4-ba06688ef3f5",
+            "balance": 31891.85,
+            "transactions": [
+                {
+                    "date": "2022-10-19",
+                    "description": "Deposit",
+                    "amount": 36668.11,
+                    "transaction_id": 118928129
+                }
+            ]
+        }
+    }
+}

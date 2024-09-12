@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Thomas Hunter",
+        "age": 46,
+        "gender": "female",
+        "address": "04271 Carter Loaf, West George, CO 90360",
+        "phone": "8793773767",
+        "email": "lisavazquez@example.org",
+        "account": {
+            "account_number": "a3c9b092-b238-4978-b47f-1d2d25d6a1f1",
+            "balance": 12284.32,
+            "transactions": [
+                {
+                    "date": "2023-02-13",
+                    "description": "Interest",
+                    "amount": 42788.79,
+                    "transaction_id": 97592649
+                }
+            ]
+        }
+    }
+}

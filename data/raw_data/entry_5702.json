@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dr. Derek Parrish",
+        "age": 91,
+        "gender": "male",
+        "address": "148 Rubio Ville, South Tracyview, NH 08541",
+        "phone": "001-923-885-5474x122",
+        "email": "laramelanie@example.net",
+        "account": {
+            "account_number": "c0be2427-a3c8-4b5c-bf14-d36c35072fd3",
+            "balance": 10463.52,
+            "transactions": [
+                {
+                    "date": "2022-12-27",
+                    "description": "Deposit",
+                    "amount": 13769.58,
+                    "transaction_id": 115782641
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Deposit",
+                    "amount": 41827.35,
+                    "transaction_id": 57310399
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Deposit",
+                    "amount": 19436.06,
+                    "transaction_id": 47874124
+                },
+                {
+                    "date": "2023-12-13",
+                    "description": "Deposit",
+                    "amount": 11753.56,
+                    "transaction_id": 66278497
+                }
+            ]
+        }
+    }
+}

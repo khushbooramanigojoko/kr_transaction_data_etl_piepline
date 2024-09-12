@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jenna Henderson",
+        "age": 68,
+        "gender": "female",
+        "address": "7504 Parker Bypass Apt. 178, Lesliefurt, VT 18498",
+        "phone": "408.684.5996x76828",
+        "email": "deborahsmith@example.net",
+        "account": {
+            "account_number": "ee234083-8018-487e-abbc-7e9017753bf1",
+            "balance": 17453.47,
+            "transactions": [
+                {
+                    "date": "2023-02-18",
+                    "description": "Interest",
+                    "amount": 34106.75,
+                    "transaction_id": 50136731
+                },
+                {
+                    "date": "2023-08-08",
+                    "description": "Deposit",
+                    "amount": 29025.37,
+                    "transaction_id": 91084989
+                }
+            ]
+        }
+    }
+}

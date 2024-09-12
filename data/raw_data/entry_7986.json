@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kari Montes",
+        "age": 79,
+        "gender": "female",
+        "address": "3462 Miller Extension Suite 329, Port Jeffery, RI 62078",
+        "phone": "001-452-984-1610x63380",
+        "email": "charleserickson@example.com",
+        "account": {
+            "account_number": "b30f4c50-4bb7-4964-a6b9-2312cdd9a259",
+            "balance": 41361.67,
+            "transactions": [
+                {
+                    "date": "2023-11-06",
+                    "description": "Interest",
+                    "amount": 42982.3,
+                    "transaction_id": 80474722
+                },
+                {
+                    "date": "2024-07-14",
+                    "description": "Deposit",
+                    "amount": 33550.73,
+                    "transaction_id": 2823999
+                },
+                {
+                    "date": "2023-04-10",
+                    "description": "Interest",
+                    "amount": 23261.02,
+                    "transaction_id": 37865565
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Withdrawal",
+                    "amount": 13463.85,
+                    "transaction_id": 74570377
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michael Kelly",
+        "age": 68,
+        "gender": "female",
+        "address": "973 Joseph Hollow Apt. 310, South Karabury, VI 70480",
+        "phone": "668-239-3178x32740",
+        "email": "zperez@example.com",
+        "account": {
+            "account_number": "178c0305-9f0b-43a4-b5ea-6b2ff2569e97",
+            "balance": 48285.9,
+            "transactions": [
+                {
+                    "date": "2024-05-04",
+                    "description": "Withdrawal",
+                    "amount": 35065.19,
+                    "transaction_id": 38949520
+                }
+            ]
+        }
+    }
+}

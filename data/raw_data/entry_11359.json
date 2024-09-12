@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 47,
+        "gender": "female",
+        "address": "70118 Hutchinson Branch, East Davidview, ID 67443",
+        "phone": "596-601-7766",
+        "email": "jessica63@example.com",
+        "account": {
+            "account_number": "f95e8ff8-f62e-486f-8840-da7a76b3a787",
+            "balance": 25565.19,
+            "transactions": [
+                {
+                    "date": "2024-07-18",
+                    "description": "Interest",
+                    "amount": -3732.98,
+                    "transaction_id": 82014121
+                },
+                {
+                    "date": "2023-01-27",
+                    "description": "Withdrawal",
+                    "amount": -486.26,
+                    "transaction_id": 52460286
+                },
+                {
+                    "date": "2023-07-25",
+                    "description": "Interest",
+                    "amount": 374.6,
+                    "transaction_id": 117903762
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Deposit",
+                    "amount": 2780.66,
+                    "transaction_id": 109903443
+                }
+            ]
+        }
+    }
+}

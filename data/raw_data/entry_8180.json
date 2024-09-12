@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jared Baker",
+        "age": 59,
+        "gender": "male",
+        "address": "0264 Omar Plains Suite 633, Vanessaton, GU 58348",
+        "phone": "278.787.6703x256",
+        "email": "lkennedy@example.org",
+        "account": {
+            "account_number": "4c4db85a-24d4-407a-a686-bcb15ec03943",
+            "balance": 32685.62,
+            "transactions": [
+                {
+                    "date": "2023-11-02",
+                    "description": "Withdrawal",
+                    "amount": 29401.07,
+                    "transaction_id": 102045283
+                },
+                {
+                    "date": "2023-06-25",
+                    "description": "Interest",
+                    "amount": 38257.56,
+                    "transaction_id": 94826771
+                }
+            ]
+        }
+    }
+}

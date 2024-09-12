@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Derek Thompson",
+        "age": 59,
+        "gender": "female",
+        "address": "593 Sarah Meadow Suite 436, Stephaniestad, WY 48386",
+        "phone": "6143506167",
+        "email": "cphillips@example.com",
+        "account": {
+            "account_number": "9f8274c6-f554-41b2-b27e-2b6c7243a99f",
+            "balance": 18350.0,
+            "transactions": [
+                {
+                    "date": "2024-02-19",
+                    "description": "Interest",
+                    "amount": 49462.92,
+                    "transaction_id": 7954536
+                },
+                {
+                    "date": "2024-04-15",
+                    "description": "Deposit",
+                    "amount": 38437.58,
+                    "transaction_id": 111543615
+                },
+                {
+                    "date": "2023-04-10",
+                    "description": "Deposit",
+                    "amount": 49044.88,
+                    "transaction_id": 92685766
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Interest",
+                    "amount": 18774.89,
+                    "transaction_id": 54496675
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Withdrawal",
+                    "amount": 1996.93,
+                    "transaction_id": 109197538
+                }
+            ]
+        }
+    }
+}

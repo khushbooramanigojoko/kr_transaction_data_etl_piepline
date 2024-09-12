@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jennifer Bowers",
+        "age": 41,
+        "gender": "male",
+        "address": "3874 Elizabeth Divide Apt. 972, Jessicahaven, MT 88841",
+        "phone": "(971)885-5247x837",
+        "email": "flee@example.net",
+        "account": {
+            "account_number": "f3ac83e7-78cb-4e1a-b9f3-6467f0bd03fe",
+            "balance": 5062.82,
+            "transactions": [
+                {
+                    "date": "2023-03-21",
+                    "description": "Interest",
+                    "amount": 14462.48,
+                    "transaction_id": 68565248
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Withdrawal",
+                    "amount": 15273.04,
+                    "transaction_id": 18259264
+                }
+            ]
+        }
+    }
+}

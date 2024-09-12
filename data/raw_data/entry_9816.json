@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 84,
+        "gender": "female",
+        "address": "109 Johnson Crossing Suite 360, North Deannaville, OK 36702",
+        "phone": "(709)900-5976",
+        "email": "byrdbeth@example.com",
+        "account": {
+            "account_number": "865fcf7d-2cbc-469e-b318-da386046a058",
+            "balance": 21898.52,
+            "transactions": [
+                {
+                    "date": "2023-10-04",
+                    "description": "Withdrawal",
+                    "amount": -4422.59,
+                    "transaction_id": 57449638
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Withdrawal",
+                    "amount": -578.52,
+                    "transaction_id": 63687197
+                },
+                {
+                    "date": "2022-11-22",
+                    "description": "Deposit",
+                    "amount": 1250.29,
+                    "transaction_id": 41660715
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Interest",
+                    "amount": -1463.07,
+                    "transaction_id": 2339403
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Interest",
+                    "amount": -490.69,
+                    "transaction_id": 3155347
+                }
+            ]
+        }
+    }
+}

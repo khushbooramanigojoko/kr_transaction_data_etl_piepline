@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Johnson",
+        "age": 89,
+        "gender": "female",
+        "address": "2665 Jackson Harbors, Lake Markchester, FM 61038",
+        "phone": "630.548.1001",
+        "email": "timothy76@example.com",
+        "account": {
+            "account_number": "337a723d-668f-4f9d-a52f-f9c94d3f2645",
+            "balance": 42686.26,
+            "transactions": [
+                {
+                    "date": "2023-07-25",
+                    "description": "Interest",
+                    "amount": 22927.73,
+                    "transaction_id": 29699448
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Interest",
+                    "amount": 4986.91,
+                    "transaction_id": 38816887
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Deposit",
+                    "amount": 43049.82,
+                    "transaction_id": 86509776
+                },
+                {
+                    "date": "2023-06-04",
+                    "description": "Interest",
+                    "amount": 33859.85,
+                    "transaction_id": 48972838
+                },
+                {
+                    "date": "2023-04-26",
+                    "description": "Withdrawal",
+                    "amount": 38608.95,
+                    "transaction_id": 106171597
+                }
+            ]
+        }
+    }
+}

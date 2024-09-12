@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 35,
+        "gender": "female",
+        "address": "73916 Scott Run Apt. 949, Port Marc, AR 65739",
+        "phone": "001-363-956-3238",
+        "email": "smithbryan@example.org",
+        "account": {
+            "account_number": "c9a62937-1ba3-4cf1-8f56-f1caf09b0abe",
+            "balance": 20878.51,
+            "transactions": [
+                {
+                    "date": "2024-01-16",
+                    "description": "Deposit",
+                    "amount": 1024.24,
+                    "transaction_id": 15896530
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Withdrawal",
+                    "amount": 3911.53,
+                    "transaction_id": 47078247
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Deposit",
+                    "amount": -1118.83,
+                    "transaction_id": 63423275
+                },
+                {
+                    "date": "2023-10-10",
+                    "description": "Interest",
+                    "amount": 152.04,
+                    "transaction_id": 35592039
+                }
+            ]
+        }
+    }
+}

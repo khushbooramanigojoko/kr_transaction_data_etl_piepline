@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Holland",
+        "age": 67,
+        "gender": "female",
+        "address": "614 Rebecca Motorway Apt. 398, Port Elizabeth, MP 58777",
+        "phone": "+1-738-603-8123x664",
+        "email": "cynthia67@example.net",
+        "account": {
+            "account_number": "49c36214-7e00-41fd-9d9e-8da30188e3fa",
+            "balance": 4028.63,
+            "transactions": [
+                {
+                    "date": "2023-11-10",
+                    "description": "Withdrawal",
+                    "amount": 45596.1,
+                    "transaction_id": 76649828
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Interest",
+                    "amount": 35079.88,
+                    "transaction_id": 20795310
+                },
+                {
+                    "date": "2024-08-22",
+                    "description": "Interest",
+                    "amount": 17267.06,
+                    "transaction_id": 56293252
+                }
+            ]
+        }
+    }
+}

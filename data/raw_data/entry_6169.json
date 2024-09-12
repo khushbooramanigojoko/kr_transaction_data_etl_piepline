@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dominique Hodges",
+        "age": 94,
+        "gender": "female",
+        "address": "86411 Garcia Trail, East James, WI 39596",
+        "phone": "001-717-705-7383",
+        "email": "powerschelsea@example.net",
+        "account": {
+            "account_number": "b7cd65d2-bbbe-417e-beb5-9f56548ddd6d",
+            "balance": 35551.86,
+            "transactions": [
+                {
+                    "date": "2024-08-13",
+                    "description": "Withdrawal",
+                    "amount": 34567.32,
+                    "transaction_id": 41823467
+                },
+                {
+                    "date": "2023-02-01",
+                    "description": "Deposit",
+                    "amount": 3787.75,
+                    "transaction_id": 65200045
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Interest",
+                    "amount": 13336.49,
+                    "transaction_id": 32974251
+                },
+                {
+                    "date": "2023-11-08",
+                    "description": "Deposit",
+                    "amount": 26454.03,
+                    "transaction_id": 69700754
+                }
+            ]
+        }
+    }
+}

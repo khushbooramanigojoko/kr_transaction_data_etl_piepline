@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Amanda Burns",
+        "age": 49,
+        "gender": "male",
+        "address": "65167 Osborne Avenue Suite 921, Michelleville, AK 56093",
+        "phone": "428.748.2169x867",
+        "email": "lorrainegregory@example.net",
+        "account": {
+            "account_number": "dd3dc6aa-8898-4b4e-a2aa-b8f58edeafc2",
+            "balance": 40467.63,
+            "transactions": [
+                {
+                    "date": "2023-07-08",
+                    "description": "Interest",
+                    "amount": 41638.06,
+                    "transaction_id": 19455194
+                },
+                {
+                    "date": "2024-07-23",
+                    "description": "Withdrawal",
+                    "amount": 19427.96,
+                    "transaction_id": 89392895
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Interest",
+                    "amount": 252.98,
+                    "transaction_id": 103589920
+                }
+            ]
+        }
+    }
+}

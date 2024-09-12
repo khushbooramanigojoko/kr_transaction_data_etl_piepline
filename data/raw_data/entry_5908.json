@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kimberly Jones",
+        "age": 64,
+        "gender": "male",
+        "address": "302 Goodwin Stream Apt. 396, South Kimberly, MO 93708",
+        "phone": "8934372940",
+        "email": "millerdavid@example.net",
+        "account": {
+            "account_number": "d906b887-100a-4450-bfd0-3215bd0e0d8e",
+            "balance": 24299.37,
+            "transactions": [
+                {
+                    "date": "2023-01-21",
+                    "description": "Interest",
+                    "amount": 312.75,
+                    "transaction_id": 43548936
+                }
+            ]
+        }
+    }
+}

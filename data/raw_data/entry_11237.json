@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 63,
+        "gender": "male",
+        "address": "72860 Walsh Hollow Apt. 866, West Cheryl, IN 53704",
+        "phone": "+1-467-702-7000x316",
+        "email": "carriecook@example.net",
+        "account": {
+            "account_number": "300402bc-b6e3-4a51-aca0-dbb52194e888",
+            "balance": 27616.9,
+            "transactions": [
+                {
+                    "date": "2024-07-02",
+                    "description": "Deposit",
+                    "amount": 4371.83,
+                    "transaction_id": 111350632
+                },
+                {
+                    "date": "2024-06-21",
+                    "description": "Withdrawal",
+                    "amount": -2300.31,
+                    "transaction_id": 35002448
+                }
+            ]
+        }
+    }
+}

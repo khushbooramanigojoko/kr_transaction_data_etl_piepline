@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 68,
+        "gender": "male",
+        "address": "2738 Garcia Forge Apt. 144, New Gavin, RI 88738",
+        "phone": "+1-255-971-6518",
+        "email": "vromero@example.org",
+        "account": {
+            "account_number": "a6eca48f-172d-4569-aaad-a33a994158ea",
+            "balance": 13133.97,
+            "transactions": [
+                {
+                    "date": "2024-06-13",
+                    "description": "Interest",
+                    "amount": -140.07,
+                    "transaction_id": 31806821
+                }
+            ]
+        }
+    }
+}

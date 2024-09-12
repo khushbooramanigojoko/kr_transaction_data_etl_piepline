@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brian Diaz",
+        "age": 83,
+        "gender": "male",
+        "address": "1828 Brown Wall Apt. 891, Lake Christopherstad, LA 80529",
+        "phone": "349.410.9497x6869",
+        "email": "smithsamuel@example.com",
+        "account": {
+            "account_number": "1c85d71e-1282-4233-ab8a-034accab3d73",
+            "balance": 14735.01,
+            "transactions": [
+                {
+                    "date": "2023-03-14",
+                    "description": "Deposit",
+                    "amount": 26868.34,
+                    "transaction_id": 15978772
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Interest",
+                    "amount": 40610.92,
+                    "transaction_id": 80993699
+                }
+            ]
+        }
+    }
+}

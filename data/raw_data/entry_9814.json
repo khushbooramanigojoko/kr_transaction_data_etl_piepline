@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 26,
+        "gender": "male",
+        "address": "69822 Jackson Walk, Valentinemouth, SD 99642",
+        "phone": "9065146566",
+        "email": "vthompson@example.com",
+        "account": {
+            "account_number": "1646c2cc-1315-43d7-8232-f934da5fa2a1",
+            "balance": 9248.08,
+            "transactions": [
+                {
+                    "date": "2023-10-17",
+                    "description": "Withdrawal",
+                    "amount": -4591.61,
+                    "transaction_id": 113412617
+                },
+                {
+                    "date": "2024-07-16",
+                    "description": "Withdrawal",
+                    "amount": -953.58,
+                    "transaction_id": 82296413
+                },
+                {
+                    "date": "2024-05-19",
+                    "description": "Deposit",
+                    "amount": -2829.08,
+                    "transaction_id": 76158183
+                }
+            ]
+        }
+    }
+}

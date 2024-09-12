@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Anna Silva",
+        "age": 72,
+        "gender": "male",
+        "address": "90563 Adam Manors, Crystalstad, IN 31654",
+        "phone": "(879)691-6697x68227",
+        "email": "ywright@example.net",
+        "account": {
+            "account_number": "42bce446-4f5a-4a8f-a84e-5b4d660ae992",
+            "balance": -12817.49,
+            "transactions": [
+                {
+                    "date": "2023-09-13",
+                    "description": "Interest",
+                    "amount": -1913.79,
+                    "transaction_id": 67582600
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Interest",
+                    "amount": 449.44,
+                    "transaction_id": 15472656
+                },
+                {
+                    "date": "2023-12-31",
+                    "description": "Deposit",
+                    "amount": -4062.92,
+                    "transaction_id": 11698488
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Withdrawal",
+                    "amount": 3845.79,
+                    "transaction_id": 68907081
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Interest",
+                    "amount": -4958.33,
+                    "transaction_id": 109184182
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Martha Taylor",
+        "age": 18,
+        "gender": "male",
+        "address": "41937 Melissa Burgs, Lake Jonathanville, SC 52356",
+        "phone": "+1-337-360-4828x60465",
+        "email": "ychristensen@example.com",
+        "account": {
+            "account_number": "bed64dfe-5705-48c3-a765-405c3224afa9",
+            "balance": 23213.29,
+            "transactions": [
+                {
+                    "date": "2023-08-04",
+                    "description": "Withdrawal",
+                    "amount": 47944.36,
+                    "transaction_id": 13677621
+                }
+            ]
+        }
+    }
+}

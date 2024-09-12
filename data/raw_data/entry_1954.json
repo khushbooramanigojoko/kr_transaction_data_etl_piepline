@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sonya Graves",
+        "age": 29,
+        "gender": "male",
+        "address": "724 Hall Streets Suite 083, New Andrew, VA 52446",
+        "phone": "(487)763-6463x66590",
+        "email": "vanderson@example.org",
+        "account": {
+            "account_number": "cf9562f6-0b07-43db-b2f4-40a5707bdc8a",
+            "balance": 48183.39,
+            "transactions": [
+                {
+                    "date": "2023-05-04",
+                    "description": "Interest",
+                    "amount": 11574.99,
+                    "transaction_id": 37861277
+                }
+            ]
+        }
+    }
+}

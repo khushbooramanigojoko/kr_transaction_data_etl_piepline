@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brenda Ryan",
+        "age": 75,
+        "gender": "female",
+        "address": "69155 Denise Parks Suite 482, West Marissa, GU 44957",
+        "phone": "8717427348",
+        "email": "james70@example.org",
+        "account": {
+            "account_number": "29ed837b-b76e-40bd-a284-330f325f7a7e",
+            "balance": -18066.56,
+            "transactions": [
+                {
+                    "date": "2023-06-21",
+                    "description": "Deposit",
+                    "amount": -1156.58,
+                    "transaction_id": 96647086
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Withdrawal",
+                    "amount": 3680.08,
+                    "transaction_id": 81620282
+                }
+            ]
+        }
+    }
+}

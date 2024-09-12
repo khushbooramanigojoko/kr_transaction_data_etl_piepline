@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Heather Dominguez",
+        "age": 25,
+        "gender": "male",
+        "address": "2120 Kim Motorway, Williamshire, AZ 30710",
+        "phone": "001-210-584-6497x6724",
+        "email": "cameronyork@example.net",
+        "account": {
+            "account_number": "50848aeb-fc32-46dd-bdb1-199c116ec024",
+            "balance": 7932.24,
+            "transactions": [
+                {
+                    "date": "2024-06-17",
+                    "description": "Deposit",
+                    "amount": 3305.52,
+                    "transaction_id": 11007416
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Deposit",
+                    "amount": 47249.33,
+                    "transaction_id": 10095236
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Interest",
+                    "amount": 36251.88,
+                    "transaction_id": 6528824
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Katie Hughes",
+        "age": 54,
+        "gender": "female",
+        "address": "2497 Flynn Causeway Apt. 162, East Andrea, SC 51848",
+        "phone": "625.283.7837x0541",
+        "email": "jwolf@example.net",
+        "account": {
+            "account_number": "95864920-5ee5-4654-bb45-9bfcd332103e",
+            "balance": 26398.49,
+            "transactions": [
+                {
+                    "date": "2024-04-20",
+                    "description": "Deposit",
+                    "amount": 39399.8,
+                    "transaction_id": 74631000
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Interest",
+                    "amount": 9800.34,
+                    "transaction_id": 36676308
+                }
+            ]
+        }
+    }
+}

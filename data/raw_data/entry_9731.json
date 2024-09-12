@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 39,
+        "gender": "male",
+        "address": "48063 John Road Suite 506, Lake Christina, ME 16015",
+        "phone": "2037658904",
+        "email": "pbarton@example.org",
+        "account": {
+            "account_number": "8e311563-a7b8-4ffc-8c86-ef9e728f6318",
+            "balance": 40323.48,
+            "transactions": [
+                {
+                    "date": "2022-09-11",
+                    "description": "Interest",
+                    "amount": -197.02,
+                    "transaction_id": 39478584
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Interest",
+                    "amount": 3111.37,
+                    "transaction_id": 6142553
+                },
+                {
+                    "date": "2022-09-02",
+                    "description": "Interest",
+                    "amount": 1279.55,
+                    "transaction_id": 33969181
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Deposit",
+                    "amount": 450.64,
+                    "transaction_id": 103406863
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Valdez",
+        "age": 23,
+        "gender": "male",
+        "address": "2252 Brandon Common Apt. 267, Brettfort, NM 55183",
+        "phone": "9736572307",
+        "email": "hernandezrachel@example.net",
+        "account": {
+            "account_number": "e75848a9-97c0-4fd8-8d37-e8eaacabaf72",
+            "balance": 8532.33,
+            "transactions": [
+                {
+                    "date": "2023-08-22",
+                    "description": "Interest",
+                    "amount": 37123.77,
+                    "transaction_id": 18993001
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Deposit",
+                    "amount": 43626.06,
+                    "transaction_id": 97232260
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Deposit",
+                    "amount": 30718.55,
+                    "transaction_id": 2951903
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Interest",
+                    "amount": 5765.94,
+                    "transaction_id": 26196178
+                }
+            ]
+        }
+    }
+}

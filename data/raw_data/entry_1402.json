@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Elizabeth Williams",
+        "age": 24,
+        "gender": "female",
+        "address": "8933 Ronald Inlet, North Randy, CT 39134",
+        "phone": "+1-658-204-9318x693",
+        "email": "kadams@example.org",
+        "account": {
+            "account_number": "23f2b370-222b-48c1-84b1-351f7a607e2f",
+            "balance": 36373.38,
+            "transactions": [
+                {
+                    "date": "2023-09-03",
+                    "description": "Withdrawal",
+                    "amount": 23266.03,
+                    "transaction_id": 49331788
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Withdrawal",
+                    "amount": 18482.9,
+                    "transaction_id": 43107655
+                }
+            ]
+        }
+    }
+}

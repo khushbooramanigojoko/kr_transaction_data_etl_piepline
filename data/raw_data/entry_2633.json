@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Jones",
+        "age": 66,
+        "gender": "female",
+        "address": "8747 James Lodge, New Brooke, PW 57872",
+        "phone": "(404)281-5454x782",
+        "email": "pamelapetersen@example.net",
+        "account": {
+            "account_number": "7e765c40-4470-487e-b2b3-f8dee8ef874f",
+            "balance": 7076.61,
+            "transactions": [
+                {
+                    "date": "2024-01-18",
+                    "description": "Deposit",
+                    "amount": 20827.74,
+                    "transaction_id": 30847843
+                },
+                {
+                    "date": "2022-10-13",
+                    "description": "Deposit",
+                    "amount": 9266.32,
+                    "transaction_id": 8680993
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Deposit",
+                    "amount": 6596.55,
+                    "transaction_id": 25675257
+                },
+                {
+                    "date": "2024-03-26",
+                    "description": "Deposit",
+                    "amount": 48276.8,
+                    "transaction_id": 104133537
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Deposit",
+                    "amount": 12096.61,
+                    "transaction_id": 109664828
+                }
+            ]
+        }
+    }
+}

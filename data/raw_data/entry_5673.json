@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nancy Webster MD",
+        "age": 23,
+        "gender": "male",
+        "address": "PSC 0968, Box 6209, APO AA 88789",
+        "phone": "001-454-587-2513x9746",
+        "email": "cdeleon@example.org",
+        "account": {
+            "account_number": "3b9f3320-869b-4010-83ae-40e593f629f4",
+            "balance": 36458.06,
+            "transactions": [
+                {
+                    "date": "2023-11-18",
+                    "description": "Deposit",
+                    "amount": 4710.95,
+                    "transaction_id": 8734398
+                },
+                {
+                    "date": "2022-11-27",
+                    "description": "Deposit",
+                    "amount": 6503.03,
+                    "transaction_id": 70453872
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Withdrawal",
+                    "amount": 34034.04,
+                    "transaction_id": 87684102
+                },
+                {
+                    "date": "2023-12-21",
+                    "description": "Deposit",
+                    "amount": 39161.56,
+                    "transaction_id": 74139257
+                },
+                {
+                    "date": "2024-08-15",
+                    "description": "Withdrawal",
+                    "amount": 10150.36,
+                    "transaction_id": 52637070
+                }
+            ]
+        }
+    }
+}

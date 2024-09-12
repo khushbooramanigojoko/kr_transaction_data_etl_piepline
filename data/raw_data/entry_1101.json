@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Timothy Hughes",
+        "age": 58,
+        "gender": "male",
+        "address": "6367 Evans Station Suite 459, New Lawrence, FM 96814",
+        "phone": "(362)635-1364x621",
+        "email": "qmccullough@example.net",
+        "account": {
+            "account_number": "86e98b95-427a-43d6-9426-30b96f711502",
+            "balance": 13450.94,
+            "transactions": [
+                {
+                    "date": "2023-02-08",
+                    "description": "Interest",
+                    "amount": 12502.84,
+                    "transaction_id": 95202439
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Deposit",
+                    "amount": 39249.39,
+                    "transaction_id": 3663647
+                },
+                {
+                    "date": "2023-08-24",
+                    "description": "Withdrawal",
+                    "amount": 37671.63,
+                    "transaction_id": 72111424
+                }
+            ]
+        }
+    }
+}

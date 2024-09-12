@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Martin Miller",
+        "age": 30,
+        "gender": "male",
+        "address": "243 Lee Forges Apt. 687, Lake Tyler, AZ 42610",
+        "phone": "(609)506-9319",
+        "email": "michael60@example.com",
+        "account": {
+            "account_number": "ecaea339-9451-46d5-9f23-1fb2b8eddd40",
+            "balance": 12258.11,
+            "transactions": [
+                {
+                    "date": "2023-07-14",
+                    "description": "Interest",
+                    "amount": 41745.63,
+                    "transaction_id": 35263691
+                },
+                {
+                    "date": "2024-01-30",
+                    "description": "Withdrawal",
+                    "amount": 30901.38,
+                    "transaction_id": 94816677
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Deposit",
+                    "amount": 45632.53,
+                    "transaction_id": 58162910
+                },
+                {
+                    "date": "2023-07-12",
+                    "description": "Withdrawal",
+                    "amount": 45422.45,
+                    "transaction_id": 69499618
+                }
+            ]
+        }
+    }
+}

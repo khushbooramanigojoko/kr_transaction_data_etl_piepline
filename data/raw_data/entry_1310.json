@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kayla Hurst",
+        "age": 61,
+        "gender": "male",
+        "address": "83130 Raymond Estate, South John, UT 32586",
+        "phone": "+1-401-980-0860x6120",
+        "email": "gregory52@example.net",
+        "account": {
+            "account_number": "7786913a-b5f9-4b75-a32e-12a607b09186",
+            "balance": 32306.63,
+            "transactions": [
+                {
+                    "date": "2023-12-26",
+                    "description": "Deposit",
+                    "amount": 12712.68,
+                    "transaction_id": 47943011
+                },
+                {
+                    "date": "2024-03-31",
+                    "description": "Withdrawal",
+                    "amount": 39348.96,
+                    "transaction_id": 56228242
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Interest",
+                    "amount": 25069.88,
+                    "transaction_id": 114745694
+                },
+                {
+                    "date": "2022-09-22",
+                    "description": "Deposit",
+                    "amount": 17906.42,
+                    "transaction_id": 92016699
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Withdrawal",
+                    "amount": 40484.21,
+                    "transaction_id": 40834785
+                }
+            ]
+        }
+    }
+}

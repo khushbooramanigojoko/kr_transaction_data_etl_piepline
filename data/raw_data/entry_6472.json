@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jennifer Gates",
+        "age": 50,
+        "gender": "male",
+        "address": "80255 Jackson Fall Suite 420, West Geraldside, NJ 92123",
+        "phone": "436-825-6460",
+        "email": "dawnlowe@example.net",
+        "account": {
+            "account_number": "06bf30c2-9842-4634-a0fb-eb03ed7f64f8",
+            "balance": 37743.09,
+            "transactions": [
+                {
+                    "date": "2024-07-24",
+                    "description": "Interest",
+                    "amount": 3027.26,
+                    "transaction_id": 119861536
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Deposit",
+                    "amount": 45453.0,
+                    "transaction_id": 75540417
+                },
+                {
+                    "date": "2023-04-20",
+                    "description": "Withdrawal",
+                    "amount": 29765.69,
+                    "transaction_id": 49162957
+                },
+                {
+                    "date": "2023-07-30",
+                    "description": "Interest",
+                    "amount": 31536.59,
+                    "transaction_id": 86046731
+                }
+            ]
+        }
+    }
+}

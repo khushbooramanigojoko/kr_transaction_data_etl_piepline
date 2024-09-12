@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 58,
+        "gender": "female",
+        "address": "834 Natalie Harbors Suite 256, Angelaberg, KS 30958",
+        "phone": "205.716.2730x2103",
+        "email": "davissteven@example.org",
+        "account": {
+            "account_number": "3ecc27de-e5a7-4685-8774-835673a937eb",
+            "balance": 14655.73,
+            "transactions": [
+                {
+                    "date": "2024-03-18",
+                    "description": "Withdrawal",
+                    "amount": -1309.72,
+                    "transaction_id": 77585653
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Deposit",
+                    "amount": -4078.34,
+                    "transaction_id": 27981523
+                },
+                {
+                    "date": "2023-03-04",
+                    "description": "Withdrawal",
+                    "amount": 599.82,
+                    "transaction_id": 108544137
+                },
+                {
+                    "date": "2024-03-24",
+                    "description": "Interest",
+                    "amount": -3212.91,
+                    "transaction_id": 13922667
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Interest",
+                    "amount": 3210.23,
+                    "transaction_id": 77530270
+                }
+            ]
+        }
+    }
+}

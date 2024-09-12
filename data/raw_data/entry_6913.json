@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tyler Simmons",
+        "age": 39,
+        "gender": "female",
+        "address": "Unit 3159 Box 0318, DPO AA 78349",
+        "phone": "001-732-867-2312x9936",
+        "email": "thomas41@example.org",
+        "account": {
+            "account_number": "bf79e78f-9788-4ac9-b0ce-0b27115689b7",
+            "balance": 19369.46,
+            "transactions": [
+                {
+                    "date": "2024-08-11",
+                    "description": "Withdrawal",
+                    "amount": 31624.99,
+                    "transaction_id": 10736293
+                }
+            ]
+        }
+    }
+}

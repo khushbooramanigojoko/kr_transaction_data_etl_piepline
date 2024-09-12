@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Margaret James",
+        "age": 23,
+        "gender": "male",
+        "address": "97613 Castillo Flats, Jerryhaven, DC 14411",
+        "phone": "787-890-2475x442",
+        "email": "egutierrez@example.com",
+        "account": {
+            "account_number": "56beddfc-f08a-4619-a464-3d2fad810804",
+            "balance": 46251.99,
+            "transactions": [
+                {
+                    "date": "2022-09-05",
+                    "description": "Interest",
+                    "amount": 22837.05,
+                    "transaction_id": 25211543
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Deposit",
+                    "amount": 36819.15,
+                    "transaction_id": 8743113
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Deposit",
+                    "amount": 7943.29,
+                    "transaction_id": 66577886
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Withdrawal",
+                    "amount": 9857.83,
+                    "transaction_id": 29722291
+                },
+                {
+                    "date": "2024-02-06",
+                    "description": "Deposit",
+                    "amount": 2078.28,
+                    "transaction_id": 113555047
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Thomas Simpson",
+        "age": 65,
+        "gender": "male",
+        "address": "398 Charles Motorway, Brownmouth, AS 65447",
+        "phone": "345-826-4894",
+        "email": "josephjohnson@example.org",
+        "account": {
+            "account_number": "f01a5399-70f1-4f79-b370-c1ab834f4da1",
+            "balance": 5867.01,
+            "transactions": [
+                {
+                    "date": "2024-03-19",
+                    "description": "Withdrawal",
+                    "amount": 27465.85,
+                    "transaction_id": 110778570
+                }
+            ]
+        }
+    }
+}

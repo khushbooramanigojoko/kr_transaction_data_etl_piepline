@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Stacey Booth",
+        "age": 32,
+        "gender": "male",
+        "address": "3485 Barnett Expressway Suite 449, West Christophertown, VI 62204",
+        "phone": "560.242.7648",
+        "email": "robbinssteven@example.com",
+        "account": {
+            "account_number": "2c62eda1-d09a-46a9-988b-03fbf39b2d93",
+            "balance": 20218.53,
+            "transactions": [
+                {
+                    "date": "2022-09-09",
+                    "description": "Withdrawal",
+                    "amount": 5379.32,
+                    "transaction_id": 29120208
+                },
+                {
+                    "date": "2024-06-17",
+                    "description": "Interest",
+                    "amount": 24943.01,
+                    "transaction_id": 72345289
+                },
+                {
+                    "date": "2023-02-14",
+                    "description": "Deposit",
+                    "amount": 21764.84,
+                    "transaction_id": 84991029
+                }
+            ]
+        }
+    }
+}

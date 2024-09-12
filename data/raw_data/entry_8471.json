@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Erika Gonzalez",
+        "age": 56,
+        "gender": "male",
+        "address": "1602 Morris Way, West Jerryhaven, FL 62392",
+        "phone": "287-423-6369x7825",
+        "email": "rhaas@example.net",
+        "account": {
+            "account_number": "f835115a-34b1-49b2-8996-7fcb6b5bc2b8",
+            "balance": 3813.16,
+            "transactions": [
+                {
+                    "date": "2023-11-29",
+                    "description": "Deposit",
+                    "amount": 26270.79,
+                    "transaction_id": 90668388
+                },
+                {
+                    "date": "2023-08-17",
+                    "description": "Deposit",
+                    "amount": 13403.81,
+                    "transaction_id": 43305060
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Deposit",
+                    "amount": 14585.75,
+                    "transaction_id": 109666034
+                },
+                {
+                    "date": "2024-07-21",
+                    "description": "Withdrawal",
+                    "amount": 39388.23,
+                    "transaction_id": 62848018
+                }
+            ]
+        }
+    }
+}

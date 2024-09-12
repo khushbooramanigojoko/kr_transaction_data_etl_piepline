@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 75,
+        "gender": "female",
+        "address": "84405 Payne Lights, West John, MP 98701",
+        "phone": "001-570-354-0788x374",
+        "email": "michellerivera@example.org",
+        "account": {
+            "account_number": "abcb31b9-caf8-48c0-b2f5-266eac2f600b",
+            "balance": 10519.48,
+            "transactions": [
+                {
+                    "date": "2022-09-11",
+                    "description": "Interest",
+                    "amount": -2574.35,
+                    "transaction_id": 57665018
+                },
+                {
+                    "date": "2024-07-29",
+                    "description": "Withdrawal",
+                    "amount": 1487.04,
+                    "transaction_id": 116623391
+                }
+            ]
+        }
+    }
+}

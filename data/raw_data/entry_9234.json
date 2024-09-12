@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jeffrey Baker",
+        "age": 56,
+        "gender": "female",
+        "address": "816 Amy Extension Apt. 023, East Lauren, CA 26028",
+        "phone": "001-305-408-5571x33162",
+        "email": "parkerbonnie@example.org",
+        "account": {
+            "account_number": "18dc7edf-cc5a-4e05-99c4-6db9cdd73e6b",
+            "balance": -3484.27,
+            "transactions": [
+                {
+                    "date": "2023-01-25",
+                    "description": "Withdrawal",
+                    "amount": -697.16,
+                    "transaction_id": 71425943
+                }
+            ]
+        }
+    }
+}

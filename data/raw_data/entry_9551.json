@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 94,
+        "gender": "female",
+        "address": "87425 Jacob Extension Suite 714, Lake Troyberg, OK 99343",
+        "phone": "7789871175",
+        "email": "keith87@example.net",
+        "account": {
+            "account_number": "e65939c6-c87b-4a12-80ff-35b5d99f8666",
+            "balance": 8341.91,
+            "transactions": [
+                {
+                    "date": "2023-08-25",
+                    "description": "Deposit",
+                    "amount": -2004.61,
+                    "transaction_id": 49407673
+                },
+                {
+                    "date": "2022-12-10",
+                    "description": "Deposit",
+                    "amount": 4717.28,
+                    "transaction_id": 29409668
+                },
+                {
+                    "date": "2023-04-05",
+                    "description": "Interest",
+                    "amount": -236.74,
+                    "transaction_id": 28867680
+                },
+                {
+                    "date": "2022-11-11",
+                    "description": "Deposit",
+                    "amount": 4670.5,
+                    "transaction_id": 20484516
+                }
+            ]
+        }
+    }
+}

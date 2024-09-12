@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Erin Warner",
+        "age": 50,
+        "gender": "female",
+        "address": "923 Salazar Fork, Lake Maria, MS 70909",
+        "phone": "530-734-0452x787",
+        "email": "fordashley@example.net",
+        "account": {
+            "account_number": "fb2d4201-587d-43df-a571-20d6af9897f3",
+            "balance": 2421.51,
+            "transactions": [
+                {
+                    "date": "2022-11-18",
+                    "description": "Interest",
+                    "amount": 16713.83,
+                    "transaction_id": 35298239
+                },
+                {
+                    "date": "2024-01-19",
+                    "description": "Interest",
+                    "amount": 30774.84,
+                    "transaction_id": 46916586
+                },
+                {
+                    "date": "2023-01-10",
+                    "description": "Deposit",
+                    "amount": 20255.41,
+                    "transaction_id": 14524970
+                },
+                {
+                    "date": "2023-10-08",
+                    "description": "Deposit",
+                    "amount": 8014.48,
+                    "transaction_id": 116392688
+                },
+                {
+                    "date": "2023-11-18",
+                    "description": "Deposit",
+                    "amount": 22093.56,
+                    "transaction_id": 18169164
+                }
+            ]
+        }
+    }
+}

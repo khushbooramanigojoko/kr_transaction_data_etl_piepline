@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mark Woodward",
+        "age": 98,
+        "gender": "male",
+        "address": "043 Russell Hill, Ortizland, OR 35012",
+        "phone": "(418)555-1919",
+        "email": "qward@example.com",
+        "account": {
+            "account_number": "3324df71-de1e-4dda-904f-f71ba864e121",
+            "balance": 35952.23,
+            "transactions": [
+                {
+                    "date": "2024-06-11",
+                    "description": "Interest",
+                    "amount": 34524.55,
+                    "transaction_id": 63187762
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jimmy French",
+        "age": 35,
+        "gender": "female",
+        "address": "310 Courtney Groves Apt. 524, Richardview, OH 22395",
+        "phone": "+1-368-712-4762x9763",
+        "email": "jortiz@example.org",
+        "account": {
+            "account_number": "d673a5d2-db92-4716-a7bd-697a06ae3786",
+            "balance": -2696.79,
+            "transactions": [
+                {
+                    "date": "2023-11-01",
+                    "description": "Interest",
+                    "amount": 4819.95,
+                    "transaction_id": 50907119
+                },
+                {
+                    "date": "2024-07-03",
+                    "description": "Withdrawal",
+                    "amount": -1595.14,
+                    "transaction_id": 44609597
+                }
+            ]
+        }
+    }
+}

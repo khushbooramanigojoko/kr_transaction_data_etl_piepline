@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Shannon Hicks",
+        "age": 36,
+        "gender": "male",
+        "address": "631 Kelsey Manor Apt. 837, Morrisville, VA 54734",
+        "phone": "(712)925-1451",
+        "email": "thompsonjeffrey@example.com",
+        "account": {
+            "account_number": "71e389be-1c71-4605-979b-742baa7d2554",
+            "balance": 24252.93,
+            "transactions": [
+                {
+                    "date": "2023-03-11",
+                    "description": "Deposit",
+                    "amount": 42333.05,
+                    "transaction_id": 83399639
+                },
+                {
+                    "date": "2023-11-28",
+                    "description": "Interest",
+                    "amount": 4731.98,
+                    "transaction_id": 16497723
+                },
+                {
+                    "date": "2024-01-30",
+                    "description": "Withdrawal",
+                    "amount": 38333.82,
+                    "transaction_id": 4601841
+                }
+            ]
+        }
+    }
+}

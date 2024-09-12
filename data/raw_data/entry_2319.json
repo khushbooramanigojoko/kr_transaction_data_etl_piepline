@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Summer Ellis",
+        "age": 35,
+        "gender": "male",
+        "address": "PSC 9858, Box 1443, APO AA 35034",
+        "phone": "237-911-3533x153",
+        "email": "mitchell73@example.org",
+        "account": {
+            "account_number": "00691e03-359d-4cc7-91c0-edf65fe99924",
+            "balance": 46674.41,
+            "transactions": [
+                {
+                    "date": "2023-02-21",
+                    "description": "Withdrawal",
+                    "amount": 25824.98,
+                    "transaction_id": 18134866
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Deposit",
+                    "amount": 12620.04,
+                    "transaction_id": 7200707
+                },
+                {
+                    "date": "2022-10-20",
+                    "description": "Interest",
+                    "amount": 27738.73,
+                    "transaction_id": 109273811
+                },
+                {
+                    "date": "2024-01-02",
+                    "description": "Interest",
+                    "amount": 31255.49,
+                    "transaction_id": 68258450
+                },
+                {
+                    "date": "2023-01-31",
+                    "description": "Interest",
+                    "amount": 21545.77,
+                    "transaction_id": 64811965
+                }
+            ]
+        }
+    }
+}

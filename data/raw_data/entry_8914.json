@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Green",
+        "age": 87,
+        "gender": "female",
+        "address": "USNV Bryant, FPO AA 11173",
+        "phone": "775.204.9118x2736",
+        "email": "cheryl62@example.net",
+        "account": {
+            "account_number": "8475cde8-a369-480e-8749-3b58e1251921",
+            "balance": -16544.07,
+            "transactions": [
+                {
+                    "date": "2024-02-01",
+                    "description": "Interest",
+                    "amount": -2845.44,
+                    "transaction_id": 87947851
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Interest",
+                    "amount": 3490.91,
+                    "transaction_id": 27395509
+                },
+                {
+                    "date": "2024-04-23",
+                    "description": "Deposit",
+                    "amount": 4997.58,
+                    "transaction_id": 38212461
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Withdrawal",
+                    "amount": -1935.71,
+                    "transaction_id": 75224250
+                }
+            ]
+        }
+    }
+}

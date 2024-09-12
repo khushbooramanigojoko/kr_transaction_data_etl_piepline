@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mark Gray",
+        "age": 88,
+        "gender": "female",
+        "address": "2979 Woodard Field, Garciaside, WI 07509",
+        "phone": "761.841.4577x47314",
+        "email": "robert41@example.org",
+        "account": {
+            "account_number": "3a07fe06-d5fa-479f-bc86-e33682abc7cd",
+            "balance": 2470.21,
+            "transactions": [
+                {
+                    "date": "2024-03-29",
+                    "description": "Interest",
+                    "amount": 38717.66,
+                    "transaction_id": 89177239
+                }
+            ]
+        }
+    }
+}

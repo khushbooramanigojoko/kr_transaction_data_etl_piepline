@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Deborah Dorsey",
+        "age": 44,
+        "gender": "male",
+        "address": "8390 Mitchell Ports Suite 950, Spencerburgh, AR 38218",
+        "phone": "384.357.0718",
+        "email": "irobinson@example.net",
+        "account": {
+            "account_number": "7bec8497-7903-4ce4-b188-9c565c767963",
+            "balance": 40731.74,
+            "transactions": [
+                {
+                    "date": "2024-07-16",
+                    "description": "Withdrawal",
+                    "amount": 6298.77,
+                    "transaction_id": 90187082
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Deposit",
+                    "amount": 9446.45,
+                    "transaction_id": 95363760
+                },
+                {
+                    "date": "2024-07-25",
+                    "description": "Withdrawal",
+                    "amount": 45833.36,
+                    "transaction_id": 7978000
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Interest",
+                    "amount": 5532.84,
+                    "transaction_id": 87149461
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Withdrawal",
+                    "amount": 25427.77,
+                    "transaction_id": 72919471
+                }
+            ]
+        }
+    }
+}

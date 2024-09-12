@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Johnathan Baker",
+        "age": 29,
+        "gender": "male",
+        "address": "86497 Timothy Freeway Apt. 398, Duncanport, ND 09831",
+        "phone": "+1-906-791-7344x3567",
+        "email": "jason81@example.com",
+        "account": {
+            "account_number": "4b842a10-d1c0-4e81-8cbb-75b747138d7b",
+            "balance": 22211.95,
+            "transactions": [
+                {
+                    "date": "2024-05-23",
+                    "description": "Withdrawal",
+                    "amount": 39267.76,
+                    "transaction_id": 55042984
+                },
+                {
+                    "date": "2023-06-18",
+                    "description": "Interest",
+                    "amount": 38898.21,
+                    "transaction_id": 106935923
+                }
+            ]
+        }
+    }
+}

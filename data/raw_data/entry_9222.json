@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 52,
+        "gender": "male",
+        "address": "9761 Curtis Pike, Port Garrettborough, ID 23613",
+        "phone": "001-321-790-4540x0816",
+        "email": "bradleytimothy@example.org",
+        "account": {
+            "account_number": "6c1ac818-8441-461f-bd7e-4d578cb112ee",
+            "balance": 24139.69,
+            "transactions": [
+                {
+                    "date": "2024-02-18",
+                    "description": "Deposit",
+                    "amount": -2571.54,
+                    "transaction_id": 41209872
+                },
+                {
+                    "date": "2023-09-01",
+                    "description": "Withdrawal",
+                    "amount": -4879.64,
+                    "transaction_id": 48802647
+                }
+            ]
+        }
+    }
+}

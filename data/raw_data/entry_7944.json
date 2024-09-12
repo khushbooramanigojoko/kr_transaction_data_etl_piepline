@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ryan Coleman",
+        "age": 55,
+        "gender": "female",
+        "address": "663 Porter Glen Apt. 298, South Larry, KY 14121",
+        "phone": "001-984-900-5385x402",
+        "email": "barbara60@example.org",
+        "account": {
+            "account_number": "1cf80290-09e2-4939-9b00-d77f1f25eeaa",
+            "balance": 15981.59,
+            "transactions": [
+                {
+                    "date": "2022-12-20",
+                    "description": "Withdrawal",
+                    "amount": 31354.78,
+                    "transaction_id": 39631556
+                }
+            ]
+        }
+    }
+}

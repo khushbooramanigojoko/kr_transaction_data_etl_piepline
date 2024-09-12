@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 67,
+        "gender": "male",
+        "address": "USNV Guzman, FPO AP 81159",
+        "phone": "+1-752-897-6660x37626",
+        "email": "louismartinez@example.net",
+        "account": {
+            "account_number": "1b790ad1-33ec-49cb-bb55-7b371f1604eb",
+            "balance": 29476.73,
+            "transactions": [
+                {
+                    "date": "2024-01-11",
+                    "description": "Interest",
+                    "amount": -4202.5,
+                    "transaction_id": 38940257
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Interest",
+                    "amount": -1493.58,
+                    "transaction_id": 1925748
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Withdrawal",
+                    "amount": -2344.38,
+                    "transaction_id": 6722553
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Withdrawal",
+                    "amount": 3705.38,
+                    "transaction_id": 58600380
+                },
+                {
+                    "date": "2023-01-29",
+                    "description": "Withdrawal",
+                    "amount": 3317.34,
+                    "transaction_id": 81726807
+                }
+            ]
+        }
+    }
+}

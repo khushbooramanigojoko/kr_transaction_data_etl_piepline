@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "James Cortez",
+        "age": 67,
+        "gender": "female",
+        "address": "2940 Lisa Ports, South Brian, IL 33573",
+        "phone": "+1-808-560-5816x201",
+        "email": "joneswanda@example.com",
+        "account": {
+            "account_number": "3d183c5f-5b65-41ae-95e7-173f0590e0ed",
+            "balance": 27244.26,
+            "transactions": [
+                {
+                    "date": "2024-03-07",
+                    "description": "Withdrawal",
+                    "amount": 26098.94,
+                    "transaction_id": 80312618
+                },
+                {
+                    "date": "2023-10-10",
+                    "description": "Interest",
+                    "amount": 28190.23,
+                    "transaction_id": 107872877
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Interest",
+                    "amount": 49440.04,
+                    "transaction_id": 94925029
+                }
+            ]
+        }
+    }
+}

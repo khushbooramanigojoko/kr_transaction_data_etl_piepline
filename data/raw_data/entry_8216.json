@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Samantha Smith",
+        "age": 27,
+        "gender": "male",
+        "address": "039 Andrew Lodge, Penaborough, SC 46872",
+        "phone": "(506)711-8917x62912",
+        "email": "theresa77@example.com",
+        "account": {
+            "account_number": "5d3869c7-896c-4448-a576-be03507e4690",
+            "balance": 14893.2,
+            "transactions": [
+                {
+                    "date": "2023-02-09",
+                    "description": "Deposit",
+                    "amount": 4729.89,
+                    "transaction_id": 70237673
+                }
+            ]
+        }
+    }
+}

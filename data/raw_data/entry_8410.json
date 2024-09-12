@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Patricia Scott",
+        "age": 22,
+        "gender": "female",
+        "address": "258 Young Pines, Pierceview, NY 60512",
+        "phone": "+1-335-413-8817x0710",
+        "email": "rlambert@example.org",
+        "account": {
+            "account_number": "4cd88c55-377e-47c0-b52e-d3d4c568b5b7",
+            "balance": 47066.3,
+            "transactions": [
+                {
+                    "date": "2023-12-21",
+                    "description": "Deposit",
+                    "amount": 18536.2,
+                    "transaction_id": 34821066
+                }
+            ]
+        }
+    }
+}

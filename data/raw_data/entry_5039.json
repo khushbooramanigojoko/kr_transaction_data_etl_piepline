@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Amanda Wilson",
+        "age": 19,
+        "gender": "female",
+        "address": "6185 Bonilla Prairie, Andersonstad, AK 10782",
+        "phone": "(280)264-1227",
+        "email": "evansaaron@example.net",
+        "account": {
+            "account_number": "639463a5-b9c0-435c-9974-de61505b9a89",
+            "balance": 17168.11,
+            "transactions": [
+                {
+                    "date": "2023-05-14",
+                    "description": "Withdrawal",
+                    "amount": 22557.98,
+                    "transaction_id": 40503405
+                },
+                {
+                    "date": "2023-09-01",
+                    "description": "Deposit",
+                    "amount": 23682.43,
+                    "transaction_id": 43613542
+                },
+                {
+                    "date": "2023-01-16",
+                    "description": "Deposit",
+                    "amount": 32154.68,
+                    "transaction_id": 99727060
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Withdrawal",
+                    "amount": 1470.15,
+                    "transaction_id": 11041469
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Withdrawal",
+                    "amount": 27731.08,
+                    "transaction_id": 101340559
+                }
+            ]
+        }
+    }
+}

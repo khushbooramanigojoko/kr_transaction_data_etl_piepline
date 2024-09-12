@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 22,
+        "gender": "female",
+        "address": "Unit 2015 Box 8981, DPO AA 50684",
+        "phone": "627.363.4615x851",
+        "email": "tiffanyward@example.net",
+        "account": {
+            "account_number": "ff64662f-965d-4824-b443-d668c604df61",
+            "balance": 38742.67,
+            "transactions": [
+                {
+                    "date": "2023-03-03",
+                    "description": "Interest",
+                    "amount": 310.14,
+                    "transaction_id": 112314867
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Leslie Hancock",
+        "age": 44,
+        "gender": "male",
+        "address": "169 Kelly Mountains Suite 422, Port Carlos, PW 58713",
+        "phone": "699.726.1306x73407",
+        "email": "novaklisa@example.org",
+        "account": {
+            "account_number": "9ef7d454-a6db-4662-be28-c0e76b42b169",
+            "balance": 34460.17,
+            "transactions": [
+                {
+                    "date": "2022-12-25",
+                    "description": "Withdrawal",
+                    "amount": 48663.59,
+                    "transaction_id": 83771689
+                },
+                {
+                    "date": "2024-06-25",
+                    "description": "Withdrawal",
+                    "amount": 19875.31,
+                    "transaction_id": 19709272
+                }
+            ]
+        }
+    }
+}

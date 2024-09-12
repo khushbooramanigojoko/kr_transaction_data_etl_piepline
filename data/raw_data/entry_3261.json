@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sean Mueller",
+        "age": 52,
+        "gender": "female",
+        "address": "82021 Thomas Plaza Suite 039, North Kellyshire, SC 12991",
+        "phone": "546.874.1139x173",
+        "email": "nyoung@example.com",
+        "account": {
+            "account_number": "8f8a3609-2830-4da9-8e54-e3d000ac4e13",
+            "balance": 14073.88,
+            "transactions": [
+                {
+                    "date": "2024-02-10",
+                    "description": "Withdrawal",
+                    "amount": 21343.8,
+                    "transaction_id": 18208980
+                },
+                {
+                    "date": "2022-09-28",
+                    "description": "Deposit",
+                    "amount": 2860.51,
+                    "transaction_id": 112721632
+                }
+            ]
+        }
+    }
+}

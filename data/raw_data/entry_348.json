@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jack Mitchell",
+        "age": 63,
+        "gender": "female",
+        "address": "235 Bowers Ford, Lake Terri, NC 82325",
+        "phone": "(291)372-3006x87919",
+        "email": "alexander07@example.org",
+        "account": {
+            "account_number": "19a79bf1-ebd4-4d26-aaca-2f9b9ba4e051",
+            "balance": 18986.75,
+            "transactions": [
+                {
+                    "date": "2023-11-03",
+                    "description": "Interest",
+                    "amount": 19462.5,
+                    "transaction_id": 32715776
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Deposit",
+                    "amount": 25590.45,
+                    "transaction_id": 27077586
+                },
+                {
+                    "date": "2022-09-27",
+                    "description": "Interest",
+                    "amount": 11747.57,
+                    "transaction_id": 31389788
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Interest",
+                    "amount": 5328.7,
+                    "transaction_id": 42680523
+                },
+                {
+                    "date": "2023-09-11",
+                    "description": "Deposit",
+                    "amount": 43137.23,
+                    "transaction_id": 26104641
+                }
+            ]
+        }
+    }
+}

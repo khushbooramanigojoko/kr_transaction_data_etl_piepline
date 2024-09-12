@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Matthew Hester",
+        "age": 89,
+        "gender": "male",
+        "address": "434 Elizabeth Forge Suite 883, Stevenburgh, AZ 42647",
+        "phone": "881-295-3882",
+        "email": "danielmartinez@example.org",
+        "account": {
+            "account_number": "884ff4c1-8154-4393-bad1-0c0bb5af13b2",
+            "balance": 3014.89,
+            "transactions": [
+                {
+                    "date": "2023-12-10",
+                    "description": "Interest",
+                    "amount": 36702.38,
+                    "transaction_id": 27985467
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Withdrawal",
+                    "amount": 39677.79,
+                    "transaction_id": 25729972
+                },
+                {
+                    "date": "2024-05-30",
+                    "description": "Interest",
+                    "amount": 33565.29,
+                    "transaction_id": 15811764
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Interest",
+                    "amount": 29005.01,
+                    "transaction_id": 103675790
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jodi Johnson",
+        "age": 41,
+        "gender": "male",
+        "address": "201 Rose Isle, South Heatherburgh, MN 44373",
+        "phone": "+1-807-238-1288x15628",
+        "email": "martinezjanet@example.com",
+        "account": {
+            "account_number": "65dd7f84-5301-4a6e-b8ef-d9a95f5188c7",
+            "balance": -33826.99,
+            "transactions": [
+                {
+                    "date": "2024-08-30",
+                    "description": "Interest",
+                    "amount": -708.57,
+                    "transaction_id": 40968530
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Deposit",
+                    "amount": -4419.46,
+                    "transaction_id": 82554504
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Deposit",
+                    "amount": 3724.14,
+                    "transaction_id": 33428199
+                }
+            ]
+        }
+    }
+}

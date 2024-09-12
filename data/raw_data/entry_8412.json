@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Monica Scott",
+        "age": 77,
+        "gender": "male",
+        "address": "4353 Abigail Roads, Port Jasonberg, FL 03149",
+        "phone": "+1-621-683-2499x7699",
+        "email": "melissajenkins@example.org",
+        "account": {
+            "account_number": "d96c4879-aa86-402a-aac6-60844f505cc0",
+            "balance": 16724.4,
+            "transactions": [
+                {
+                    "date": "2023-07-23",
+                    "description": "Deposit",
+                    "amount": 1561.05,
+                    "transaction_id": 29306472
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Deposit",
+                    "amount": 26103.69,
+                    "transaction_id": 84751015
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Withdrawal",
+                    "amount": 1124.45,
+                    "transaction_id": 36413621
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Withdrawal",
+                    "amount": 35323.1,
+                    "transaction_id": 58437591
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Interest",
+                    "amount": 28102.67,
+                    "transaction_id": 54316751
+                }
+            ]
+        }
+    }
+}

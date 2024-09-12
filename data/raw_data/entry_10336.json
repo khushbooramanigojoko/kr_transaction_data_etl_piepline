@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Donald Torres",
+        "age": 57,
+        "gender": "female",
+        "address": "9431 Austin Ranch, Port Timothy, GA 03991",
+        "phone": "+1-480-597-0672",
+        "email": "jessicakelley@example.net",
+        "account": {
+            "account_number": "f21be525-72ae-4cc0-a0e2-13943816258d",
+            "balance": -39788.33,
+            "transactions": [
+                {
+                    "date": "2022-12-18",
+                    "description": "Deposit",
+                    "amount": 4551.95,
+                    "transaction_id": 101623170
+                }
+            ]
+        }
+    }
+}

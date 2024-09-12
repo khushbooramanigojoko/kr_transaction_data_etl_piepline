@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Andrea Kelly",
+        "age": 43,
+        "gender": "male",
+        "address": "4257 Avila Drive, Vickihaven, MD 47678",
+        "phone": "429.759.6966x19483",
+        "email": "ngarcia@example.org",
+        "account": {
+            "account_number": "58711e4e-ff86-4a01-867a-a7a3aeef397a",
+            "balance": 14650.78,
+            "transactions": [
+                {
+                    "date": "2022-10-12",
+                    "description": "Withdrawal",
+                    "amount": 41228.07,
+                    "transaction_id": 2116019
+                }
+            ]
+        }
+    }
+}

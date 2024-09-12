@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Barbara Miller",
+        "age": 99,
+        "gender": "female",
+        "address": "531 Melissa Ville Suite 953, Alejandrofurt, MS 43022",
+        "phone": "+1-382-739-8616x2632",
+        "email": "escobarlisa@example.net",
+        "account": {
+            "account_number": "bab9ca6a-e76a-4710-8005-e3c446179c1d",
+            "balance": 24712.38,
+            "transactions": [
+                {
+                    "date": "2023-11-03",
+                    "description": "Withdrawal",
+                    "amount": 40795.49,
+                    "transaction_id": 46317947
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Deposit",
+                    "amount": 29203.26,
+                    "transaction_id": 116992627
+                }
+            ]
+        }
+    }
+}

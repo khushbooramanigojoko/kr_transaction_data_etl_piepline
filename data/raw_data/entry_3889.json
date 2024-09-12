@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jennifer Mcknight",
+        "age": 91,
+        "gender": "female",
+        "address": "274 Rose Glen, Port Mariaville, UT 89169",
+        "phone": "2458929230",
+        "email": "whitney73@example.net",
+        "account": {
+            "account_number": "2bb287d8-e2c4-44a7-8cae-6baf588f1c7a",
+            "balance": 1463.18,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Deposit",
+                    "amount": 29484.48,
+                    "transaction_id": 27744727
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Interest",
+                    "amount": 10116.13,
+                    "transaction_id": 68332369
+                }
+            ]
+        }
+    }
+}

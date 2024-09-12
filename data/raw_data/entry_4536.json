@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mr. Derrick Gonzalez MD",
+        "age": 28,
+        "gender": "male",
+        "address": "828 Carrillo Village Suite 196, Philipport, NV 84516",
+        "phone": "810-855-1530x92231",
+        "email": "lewisclaire@example.com",
+        "account": {
+            "account_number": "e9a960b3-c766-4761-88e9-abfb17d928b1",
+            "balance": 6366.75,
+            "transactions": [
+                {
+                    "date": "2023-04-01",
+                    "description": "Withdrawal",
+                    "amount": 33435.38,
+                    "transaction_id": 72376246
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Withdrawal",
+                    "amount": 14027.37,
+                    "transaction_id": 73340911
+                },
+                {
+                    "date": "2022-11-10",
+                    "description": "Withdrawal",
+                    "amount": 21050.67,
+                    "transaction_id": 105932091
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Interest",
+                    "amount": 7994.85,
+                    "transaction_id": 113473590
+                },
+                {
+                    "date": "2023-09-06",
+                    "description": "Deposit",
+                    "amount": 28295.94,
+                    "transaction_id": 36893363
+                }
+            ]
+        }
+    }
+}

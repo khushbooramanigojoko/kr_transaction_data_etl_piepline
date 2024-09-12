@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Debbie Owen",
+        "age": 97,
+        "gender": "male",
+        "address": "58662 Cindy Roads, South Christopher, NH 65588",
+        "phone": "907-345-8643x744",
+        "email": "tiffany60@example.org",
+        "account": {
+            "account_number": "7c1010cf-2b67-446b-a480-99074fd08dce",
+            "balance": 5542.55,
+            "transactions": [
+                {
+                    "date": "2023-09-02",
+                    "description": "Withdrawal",
+                    "amount": 30365.9,
+                    "transaction_id": 100433404
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Withdrawal",
+                    "amount": 40433.77,
+                    "transaction_id": 101087952
+                }
+            ]
+        }
+    }
+}

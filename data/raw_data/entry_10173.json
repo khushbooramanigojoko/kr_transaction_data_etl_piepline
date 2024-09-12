@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Sanders",
+        "age": 67,
+        "gender": "female",
+        "address": "39746 Martin Shore, North Robert, VT 15951",
+        "phone": "+1-905-408-0041",
+        "email": "petergreen@example.net",
+        "account": {
+            "account_number": "0c71b056-fb5a-4466-9758-1782db9976cc",
+            "balance": -31084.72,
+            "transactions": [
+                {
+                    "date": "2022-12-15",
+                    "description": "Interest",
+                    "amount": -2437.82,
+                    "transaction_id": 50113784
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Deposit",
+                    "amount": 2397.06,
+                    "transaction_id": 113802419
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Withdrawal",
+                    "amount": -224.24,
+                    "transaction_id": 19006387
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Deposit",
+                    "amount": 337.3,
+                    "transaction_id": 41014496
+                },
+                {
+                    "date": "2023-10-18",
+                    "description": "Deposit",
+                    "amount": 550.27,
+                    "transaction_id": 97648014
+                }
+            ]
+        }
+    }
+}

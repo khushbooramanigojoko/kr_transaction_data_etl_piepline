@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dr. Chase Bradley",
+        "age": 82,
+        "gender": "female",
+        "address": "73113 Garcia Plain, Port Angela, GU 59959",
+        "phone": "(241)809-3821x2440",
+        "email": "fsmith@example.net",
+        "account": {
+            "account_number": "9263909d-a33a-46ac-9d4d-7a200ffc9012",
+            "balance": -20630.73,
+            "transactions": [
+                {
+                    "date": "2024-01-08",
+                    "description": "Deposit",
+                    "amount": 3176.98,
+                    "transaction_id": 30173931
+                },
+                {
+                    "date": "2023-12-18",
+                    "description": "Deposit",
+                    "amount": -819.58,
+                    "transaction_id": 79033968
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Deposit",
+                    "amount": 2024.55,
+                    "transaction_id": 101449217
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Deposit",
+                    "amount": 2446.59,
+                    "transaction_id": 73259027
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Withdrawal",
+                    "amount": -2972.75,
+                    "transaction_id": 35569354
+                }
+            ]
+        }
+    }
+}

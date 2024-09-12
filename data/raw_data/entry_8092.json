@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sarah Arnold",
+        "age": 79,
+        "gender": "female",
+        "address": "244 Michael Course, Cynthiastad, CT 55728",
+        "phone": "+1-643-322-2748x060",
+        "email": "adam34@example.org",
+        "account": {
+            "account_number": "5fa31a8f-bac7-4e9c-aa03-0f930ccacf8e",
+            "balance": 17335.71,
+            "transactions": [
+                {
+                    "date": "2023-04-17",
+                    "description": "Interest",
+                    "amount": 23342.15,
+                    "transaction_id": 100942572
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Interest",
+                    "amount": 19935.4,
+                    "transaction_id": 15453114
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Deposit",
+                    "amount": 11441.23,
+                    "transaction_id": 25166984
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Interest",
+                    "amount": 38986.44,
+                    "transaction_id": 118325201
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Deposit",
+                    "amount": 25363.88,
+                    "transaction_id": 23818537
+                }
+            ]
+        }
+    }
+}

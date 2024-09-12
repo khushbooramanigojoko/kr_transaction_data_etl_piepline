@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alexa Ramirez",
+        "age": 21,
+        "gender": "female",
+        "address": "196 Lindsey Trail, Lake Victoriafurt, PW 39178",
+        "phone": "+1-439-202-4796x701",
+        "email": "ddoyle@example.org",
+        "account": {
+            "account_number": "9e12b3b7-b1b7-49df-8eb6-00b6461e8b32",
+            "balance": 17569.82,
+            "transactions": [
+                {
+                    "date": "2023-02-18",
+                    "description": "Interest",
+                    "amount": 47035.24,
+                    "transaction_id": 4067323
+                },
+                {
+                    "date": "2023-01-21",
+                    "description": "Deposit",
+                    "amount": 13324.96,
+                    "transaction_id": 99437931
+                },
+                {
+                    "date": "2022-09-29",
+                    "description": "Withdrawal",
+                    "amount": 32432.35,
+                    "transaction_id": 117680046
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Interest",
+                    "amount": 38995.49,
+                    "transaction_id": 21908565
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Julie Davis",
+        "age": 66,
+        "gender": "male",
+        "address": "5523 Robert Neck Apt. 719, East Elijah, NM 32657",
+        "phone": "001-753-540-2339x15068",
+        "email": "gbarton@example.net",
+        "account": {
+            "account_number": "62a36508-7c4a-4649-b96d-8a4560319c2a",
+            "balance": 8028.39,
+            "transactions": [
+                {
+                    "date": "2023-01-18",
+                    "description": "Interest",
+                    "amount": 23273.4,
+                    "transaction_id": 103075857
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Interest",
+                    "amount": 9928.83,
+                    "transaction_id": 47049654
+                },
+                {
+                    "date": "2023-04-18",
+                    "description": "Deposit",
+                    "amount": 6123.78,
+                    "transaction_id": 71979696
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Interest",
+                    "amount": 25595.37,
+                    "transaction_id": 35377689
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Deposit",
+                    "amount": 42871.26,
+                    "transaction_id": 77390514
+                }
+            ]
+        }
+    }
+}

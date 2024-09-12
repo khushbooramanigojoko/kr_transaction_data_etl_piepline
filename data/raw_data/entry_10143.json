@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tiffany Peterson",
+        "age": 46,
+        "gender": "male",
+        "address": "541 Finley Plains Suite 535, South Brittanytown, MT 03728",
+        "phone": "945.276.4109x254",
+        "email": "sandersjanice@example.org",
+        "account": {
+            "account_number": "be85720a-6f3a-4454-8129-34a1d9e71aa6",
+            "balance": -26213.86,
+            "transactions": [
+                {
+                    "date": "2022-09-14",
+                    "description": "Deposit",
+                    "amount": 1775.85,
+                    "transaction_id": 50352162
+                },
+                {
+                    "date": "2024-08-14",
+                    "description": "Withdrawal",
+                    "amount": 4493.57,
+                    "transaction_id": 19042153
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Withdrawal",
+                    "amount": 2310.85,
+                    "transaction_id": 30628891
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Withdrawal",
+                    "amount": 3944.22,
+                    "transaction_id": 30065960
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Interest",
+                    "amount": -2384.46,
+                    "transaction_id": 97420683
+                }
+            ]
+        }
+    }
+}

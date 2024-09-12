@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jeffrey Porter",
+        "age": 69,
+        "gender": "female",
+        "address": "89337 Durham Corners Apt. 184, Hallchester, MH 53483",
+        "phone": "+1-342-212-1614x740",
+        "email": "steven46@example.org",
+        "account": {
+            "account_number": "46e6abea-04ab-410c-bda7-552f623ea153",
+            "balance": 12470.39,
+            "transactions": [
+                {
+                    "date": "2023-06-20",
+                    "description": "Withdrawal",
+                    "amount": 894.27,
+                    "transaction_id": 67256654
+                },
+                {
+                    "date": "2023-04-28",
+                    "description": "Deposit",
+                    "amount": 37069.8,
+                    "transaction_id": 112562152
+                },
+                {
+                    "date": "2024-08-15",
+                    "description": "Withdrawal",
+                    "amount": 28322.99,
+                    "transaction_id": 2147504
+                },
+                {
+                    "date": "2024-07-26",
+                    "description": "Interest",
+                    "amount": 8129.46,
+                    "transaction_id": 105333461
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kara Allen",
+        "age": 55,
+        "gender": "male",
+        "address": "828 Brandy Land Apt. 582, Johnport, MD 80084",
+        "phone": "001-585-415-3721",
+        "email": "cynthiaharris@example.com",
+        "account": {
+            "account_number": "00fdd7ce-113d-4ac0-9056-c928b5984e03",
+            "balance": 42603.3,
+            "transactions": [
+                {
+                    "date": "2024-08-24",
+                    "description": "Deposit",
+                    "amount": 22270.86,
+                    "transaction_id": 110318119
+                },
+                {
+                    "date": "2024-02-11",
+                    "description": "Deposit",
+                    "amount": 47445.69,
+                    "transaction_id": 117280401
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Deposit",
+                    "amount": 33153.4,
+                    "transaction_id": 42629233
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Deposit",
+                    "amount": 40654.54,
+                    "transaction_id": 3539416
+                }
+            ]
+        }
+    }
+}

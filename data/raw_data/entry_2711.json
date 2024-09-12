@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "John Lang",
+        "age": 80,
+        "gender": "male",
+        "address": "PSC 7908, Box 1266, APO AE 23255",
+        "phone": "(784)528-5608x15379",
+        "email": "sarahschneider@example.org",
+        "account": {
+            "account_number": "90a0b3ce-5dfe-408b-a7fa-75834bf0d339",
+            "balance": 47186.81,
+            "transactions": [
+                {
+                    "date": "2023-01-05",
+                    "description": "Deposit",
+                    "amount": 43099.23,
+                    "transaction_id": 66982419
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Withdrawal",
+                    "amount": 34345.79,
+                    "transaction_id": 9924763
+                }
+            ]
+        }
+    }
+}

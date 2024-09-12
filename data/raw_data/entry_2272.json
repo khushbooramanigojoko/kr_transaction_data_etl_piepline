@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tommy Hudson",
+        "age": 48,
+        "gender": "female",
+        "address": "4259 Munoz Oval, Saundersview, AL 07783",
+        "phone": "897.845.4603x504",
+        "email": "johnsonamber@example.org",
+        "account": {
+            "account_number": "315ee772-d867-4089-94fd-78b0687ef015",
+            "balance": 17746.79,
+            "transactions": [
+                {
+                    "date": "2022-10-29",
+                    "description": "Withdrawal",
+                    "amount": 19245.91,
+                    "transaction_id": 35164992
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Interest",
+                    "amount": 43076.78,
+                    "transaction_id": 69835369
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Interest",
+                    "amount": 16735.63,
+                    "transaction_id": 58795192
+                },
+                {
+                    "date": "2022-12-11",
+                    "description": "Deposit",
+                    "amount": 49334.91,
+                    "transaction_id": 98366533
+                }
+            ]
+        }
+    }
+}

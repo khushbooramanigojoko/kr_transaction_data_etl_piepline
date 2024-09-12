@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jamie Colon",
+        "age": 92,
+        "gender": "male",
+        "address": "351 Colin Place Suite 306, Port Michele, UT 24920",
+        "phone": "001-745-782-7683x804",
+        "email": "hickssophia@example.org",
+        "account": {
+            "account_number": "4252a742-5d2c-4374-9a79-59b76b763295",
+            "balance": 16002.48,
+            "transactions": [
+                {
+                    "date": "2024-02-21",
+                    "description": "Withdrawal",
+                    "amount": 20133.1,
+                    "transaction_id": 77886008
+                }
+            ]
+        }
+    }
+}

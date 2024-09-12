@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Hernandez",
+        "age": 81,
+        "gender": "female",
+        "address": "55620 Julia Radial Apt. 724, Jessicamouth, VI 29575",
+        "phone": "001-573-465-1064",
+        "email": "hartmansarah@example.net",
+        "account": {
+            "account_number": "579dff75-94ce-4bbf-8a1d-ce5ac2692a49",
+            "balance": 10694.72,
+            "transactions": [
+                {
+                    "date": "2022-12-01",
+                    "description": "Withdrawal",
+                    "amount": 30230.23,
+                    "transaction_id": 84661556
+                },
+                {
+                    "date": "2023-01-26",
+                    "description": "Withdrawal",
+                    "amount": 8718.03,
+                    "transaction_id": 78669270
+                }
+            ]
+        }
+    }
+}

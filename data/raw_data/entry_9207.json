@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christian Stone",
+        "age": 59,
+        "gender": "female",
+        "address": "1544 Stephenson Village, Port Scottview, OK 62518",
+        "phone": "(592)409-5657",
+        "email": "ryanaaron@example.org",
+        "account": {
+            "account_number": "b02d2f9b-a041-4f0e-bb65-6891e0eff156",
+            "balance": -29650.03,
+            "transactions": [
+                {
+                    "date": "2024-06-19",
+                    "description": "Interest",
+                    "amount": -3351.69,
+                    "transaction_id": 35487274
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Interest",
+                    "amount": -2123.23,
+                    "transaction_id": 96323797
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Interest",
+                    "amount": 2422.77,
+                    "transaction_id": 16792156
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Interest",
+                    "amount": -3648.48,
+                    "transaction_id": 65702450
+                },
+                {
+                    "date": "2023-01-23",
+                    "description": "Interest",
+                    "amount": 3802.12,
+                    "transaction_id": 42038938
+                }
+            ]
+        }
+    }
+}

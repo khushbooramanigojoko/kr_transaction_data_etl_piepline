@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Madison Simmons",
+        "age": 51,
+        "gender": "female",
+        "address": "581 Taylor Vista Suite 979, Richardsonchester, CA 15289",
+        "phone": "(719)581-9195",
+        "email": "dwaynebrown@example.org",
+        "account": {
+            "account_number": "8af5ea8b-5163-4f3a-967e-e25d670beb2c",
+            "balance": -47940.99,
+            "transactions": [
+                {
+                    "date": "2023-10-24",
+                    "description": "Deposit",
+                    "amount": -2878.48,
+                    "transaction_id": 56677104
+                },
+                {
+                    "date": "2024-08-09",
+                    "description": "Interest",
+                    "amount": -868.48,
+                    "transaction_id": 11542615
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Withdrawal",
+                    "amount": 4417.72,
+                    "transaction_id": 66272822
+                }
+            ]
+        }
+    }
+}

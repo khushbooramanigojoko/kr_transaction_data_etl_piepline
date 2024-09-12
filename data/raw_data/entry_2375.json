@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Teresa Gutierrez",
+        "age": 73,
+        "gender": "female",
+        "address": "01168 Hernandez Ports Apt. 660, Wrightview, OK 20248",
+        "phone": "363-795-3871x82579",
+        "email": "erin98@example.net",
+        "account": {
+            "account_number": "721496e5-27fd-4f19-ac78-88217e06d400",
+            "balance": 25998.3,
+            "transactions": [
+                {
+                    "date": "2024-08-02",
+                    "description": "Deposit",
+                    "amount": 9867.4,
+                    "transaction_id": 66482935
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Interest",
+                    "amount": 18823.74,
+                    "transaction_id": 12626400
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Withdrawal",
+                    "amount": 38452.64,
+                    "transaction_id": 6002351
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Deposit",
+                    "amount": 4243.01,
+                    "transaction_id": 37233268
+                }
+            ]
+        }
+    }
+}

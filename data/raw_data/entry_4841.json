@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dr. Nicole Cohen",
+        "age": 71,
+        "gender": "female",
+        "address": "06856 Howe Drive Apt. 505, Lake Tony, ND 07009",
+        "phone": "001-817-313-4309x933",
+        "email": "brittneygonzalez@example.com",
+        "account": {
+            "account_number": "91ef1306-90d8-4cb9-a5f6-54d0cc1593fe",
+            "balance": 47839.86,
+            "transactions": [
+                {
+                    "date": "2023-08-09",
+                    "description": "Deposit",
+                    "amount": 22179.94,
+                    "transaction_id": 53207605
+                },
+                {
+                    "date": "2023-10-01",
+                    "description": "Interest",
+                    "amount": 43105.73,
+                    "transaction_id": 46923915
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Withdrawal",
+                    "amount": 3457.79,
+                    "transaction_id": 115007213
+                },
+                {
+                    "date": "2024-08-20",
+                    "description": "Interest",
+                    "amount": 33462.35,
+                    "transaction_id": 119423550
+                }
+            ]
+        }
+    }
+}

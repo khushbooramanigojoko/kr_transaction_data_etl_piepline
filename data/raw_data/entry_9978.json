@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Renee Rodgers",
+        "age": 68,
+        "gender": "female",
+        "address": "2022 Sarah Road, North Elizabeth, MP 14748",
+        "phone": "001-896-213-6335x9258",
+        "email": "georgegreen@example.com",
+        "account": {
+            "account_number": "87c9845a-c67e-4a74-8681-7d9da20718d2",
+            "balance": -9820.11,
+            "transactions": [
+                {
+                    "date": "2024-06-26",
+                    "description": "Deposit",
+                    "amount": 4061.44,
+                    "transaction_id": 16693331
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Interest",
+                    "amount": 3969.48,
+                    "transaction_id": 90157063
+                }
+            ]
+        }
+    }
+}

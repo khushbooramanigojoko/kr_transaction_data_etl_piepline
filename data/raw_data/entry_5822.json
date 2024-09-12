@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christopher Hancock",
+        "age": 42,
+        "gender": "female",
+        "address": "76796 Michael Haven Apt. 822, Danielshire, NH 29426",
+        "phone": "315.550.6232",
+        "email": "terri45@example.org",
+        "account": {
+            "account_number": "541b5409-9624-4f16-8d9f-ee98565c40ec",
+            "balance": 5214.64,
+            "transactions": [
+                {
+                    "date": "2023-01-21",
+                    "description": "Deposit",
+                    "amount": 47079.92,
+                    "transaction_id": 106406089
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Withdrawal",
+                    "amount": 12872.82,
+                    "transaction_id": 74601161
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Withdrawal",
+                    "amount": 44750.37,
+                    "transaction_id": 66569551
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Interest",
+                    "amount": 24518.05,
+                    "transaction_id": 72502808
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Interest",
+                    "amount": 28689.59,
+                    "transaction_id": 108626970
+                }
+            ]
+        }
+    }
+}

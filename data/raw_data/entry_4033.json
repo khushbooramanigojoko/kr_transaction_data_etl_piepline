@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rebecca Crane",
+        "age": 44,
+        "gender": "male",
+        "address": "64924 Jones Unions Apt. 137, Caitlynburgh, NH 80341",
+        "phone": "289.944.8506x23523",
+        "email": "christophermiller@example.com",
+        "account": {
+            "account_number": "20f5a168-26a1-4435-b72f-109d99bcf49f",
+            "balance": 23983.14,
+            "transactions": [
+                {
+                    "date": "2023-05-18",
+                    "description": "Interest",
+                    "amount": 43717.63,
+                    "transaction_id": 70724033
+                }
+            ]
+        }
+    }
+}

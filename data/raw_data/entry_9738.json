@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Bradley Reese",
+        "age": 80,
+        "gender": "female",
+        "address": "6131 Nancy Plaza, North Andrew, IA 99755",
+        "phone": "2585615252",
+        "email": "saunderscaleb@example.net",
+        "account": {
+            "account_number": "b373cb55-896e-4b2f-8fab-25c2eaa952d8",
+            "balance": -21107.07,
+            "transactions": [
+                {
+                    "date": "2024-04-27",
+                    "description": "Withdrawal",
+                    "amount": -2524.36,
+                    "transaction_id": 106678120
+                }
+            ]
+        }
+    }
+}

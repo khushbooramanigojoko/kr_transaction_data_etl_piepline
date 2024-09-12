@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 44,
+        "gender": "male",
+        "address": "725 Amy Road Suite 704, Santosbury, TN 19417",
+        "phone": "001-565-808-6078",
+        "email": "kenneth82@example.net",
+        "account": {
+            "account_number": "b9996d59-a205-4f8e-8299-8eb0bb07f13b",
+            "balance": 10029.89,
+            "transactions": [
+                {
+                    "date": "2024-02-07",
+                    "description": "Withdrawal",
+                    "amount": 4071.05,
+                    "transaction_id": 82713978
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Withdrawal",
+                    "amount": 2181.74,
+                    "transaction_id": 9057059
+                }
+            ]
+        }
+    }
+}

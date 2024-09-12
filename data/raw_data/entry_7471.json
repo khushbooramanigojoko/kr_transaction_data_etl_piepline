@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Austin Lowe",
+        "age": 77,
+        "gender": "male",
+        "address": "58357 Colleen Lodge, Monroeport, DC 30561",
+        "phone": "001-411-242-5938x5529",
+        "email": "daniel41@example.net",
+        "account": {
+            "account_number": "7041544b-3149-4660-b39b-31465fa11d52",
+            "balance": 24387.53,
+            "transactions": [
+                {
+                    "date": "2023-03-02",
+                    "description": "Withdrawal",
+                    "amount": 34987.71,
+                    "transaction_id": 104720129
+                },
+                {
+                    "date": "2022-12-21",
+                    "description": "Deposit",
+                    "amount": 26512.78,
+                    "transaction_id": 59105823
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Deposit",
+                    "amount": 19981.9,
+                    "transaction_id": 13575389
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Deposit",
+                    "amount": 12366.82,
+                    "transaction_id": 73451450
+                }
+            ]
+        }
+    }
+}

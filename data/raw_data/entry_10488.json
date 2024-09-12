@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 32,
+        "gender": "female",
+        "address": "58020 Jason Grove, Lake Samanthafurt, MO 55653",
+        "phone": "301.673.1088x398",
+        "email": "mrobbins@example.com",
+        "account": {
+            "account_number": "71b80c5e-dd8c-45d6-abd7-d5946d7e4287",
+            "balance": 19936.11,
+            "transactions": [
+                {
+                    "date": "2023-12-20",
+                    "description": "Interest",
+                    "amount": 1079.46,
+                    "transaction_id": 112294674
+                },
+                {
+                    "date": "2023-10-12",
+                    "description": "Deposit",
+                    "amount": -2351.17,
+                    "transaction_id": 111144528
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Deposit",
+                    "amount": -1266.72,
+                    "transaction_id": 54150970
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Deposit",
+                    "amount": 3853.88,
+                    "transaction_id": 30928562
+                },
+                {
+                    "date": "2024-05-07",
+                    "description": "Interest",
+                    "amount": -782.28,
+                    "transaction_id": 67943505
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Zachary Hart",
+        "age": 71,
+        "gender": "female",
+        "address": "40300 Moss Flats Suite 631, Vanceview, PW 21320",
+        "phone": "764.428.0632",
+        "email": "robertslindsey@example.net",
+        "account": {
+            "account_number": "4ff3df37-11c7-46d2-8dad-d54ff018000d",
+            "balance": 7245.89,
+            "transactions": [
+                {
+                    "date": "2023-11-03",
+                    "description": "Deposit",
+                    "amount": 18939.6,
+                    "transaction_id": 43161974
+                }
+            ]
+        }
+    }
+}

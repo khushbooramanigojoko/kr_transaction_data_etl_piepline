@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Craig Wood",
+        "age": 38,
+        "gender": "female",
+        "address": "27009 Tanya Overpass, Audreyview, MT 53528",
+        "phone": "+1-596-351-8248",
+        "email": "hannah69@example.org",
+        "account": {
+            "account_number": "9d821464-c26c-4ec2-acda-10b30c502c7d",
+            "balance": 19272.76,
+            "transactions": [
+                {
+                    "date": "2024-06-29",
+                    "description": "Deposit",
+                    "amount": 44595.91,
+                    "transaction_id": 8765171
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Deposit",
+                    "amount": 15492.42,
+                    "transaction_id": 18535308
+                }
+            ]
+        }
+    }
+}

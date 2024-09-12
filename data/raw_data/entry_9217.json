@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Keith Brown",
+        "age": 74,
+        "gender": "male",
+        "address": "1547 Juan Wall, Thompsonbury, MI 83137",
+        "phone": "540.221.9586x186",
+        "email": "jon21@example.net",
+        "account": {
+            "account_number": "577a5251-9123-4934-b609-7e8dc88e70db",
+            "balance": -25090.78,
+            "transactions": [
+                {
+                    "date": "2023-09-21",
+                    "description": "Withdrawal",
+                    "amount": 1608.78,
+                    "transaction_id": 79507844
+                }
+            ]
+        }
+    }
+}

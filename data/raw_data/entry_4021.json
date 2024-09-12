@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Lisa Garcia",
+        "age": 22,
+        "gender": "male",
+        "address": "39019 Andrew Turnpike Suite 628, Haynesport, SC 10906",
+        "phone": "+1-296-970-5180x985",
+        "email": "mooremelissa@example.com",
+        "account": {
+            "account_number": "ffb2aaad-8608-42a6-bef3-52bb7310d60e",
+            "balance": 8130.87,
+            "transactions": [
+                {
+                    "date": "2024-05-04",
+                    "description": "Interest",
+                    "amount": 31421.86,
+                    "transaction_id": 93199432
+                },
+                {
+                    "date": "2024-08-23",
+                    "description": "Interest",
+                    "amount": 2753.04,
+                    "transaction_id": 2985011
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Interest",
+                    "amount": 48537.09,
+                    "transaction_id": 114132457
+                }
+            ]
+        }
+    }
+}

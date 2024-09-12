@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "female",
+        "address": "21550 Valencia Harbor Suite 990, North Anthony, OK 19874",
+        "phone": "962-208-4127",
+        "email": "swarren@example.com",
+        "account": {
+            "account_number": "243f0805-e259-4c80-abd4-7e5d671e6b51",
+            "balance": 46832.44,
+            "transactions": [
+                {
+                    "date": "2023-05-08",
+                    "description": "Deposit",
+                    "amount": -1845.77,
+                    "transaction_id": 41675957
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Colton Weber",
+        "age": 94,
+        "gender": "male",
+        "address": "0085 Latasha Flats, Jessicaburgh, LA 66839",
+        "phone": "(716)819-0385x71047",
+        "email": "gcline@example.org",
+        "account": {
+            "account_number": "d27805aa-21fd-4c18-8526-b0ad1ceb72de",
+            "balance": 29812.93,
+            "transactions": [
+                {
+                    "date": "2023-01-13",
+                    "description": "Deposit",
+                    "amount": 46917.42,
+                    "transaction_id": 84910412
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Interest",
+                    "amount": 17879.0,
+                    "transaction_id": 40180212
+                },
+                {
+                    "date": "2022-09-16",
+                    "description": "Withdrawal",
+                    "amount": 49252.59,
+                    "transaction_id": 82839628
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Interest",
+                    "amount": 25240.23,
+                    "transaction_id": 6754497
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Deposit",
+                    "amount": 47657.83,
+                    "transaction_id": 87051431
+                }
+            ]
+        }
+    }
+}

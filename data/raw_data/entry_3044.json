@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Laura Myers",
+        "age": 33,
+        "gender": "female",
+        "address": "666 Ashley Neck Apt. 510, Davidburgh, NY 24533",
+        "phone": "916.523.7943x18903",
+        "email": "jennifersheppard@example.com",
+        "account": {
+            "account_number": "aa20ac88-9d81-4fc1-bb52-ff1a7b93c4b8",
+            "balance": 46086.96,
+            "transactions": [
+                {
+                    "date": "2023-01-23",
+                    "description": "Interest",
+                    "amount": 48872.51,
+                    "transaction_id": 119869905
+                },
+                {
+                    "date": "2024-03-07",
+                    "description": "Interest",
+                    "amount": 1045.84,
+                    "transaction_id": 12256693
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Deposit",
+                    "amount": 21844.39,
+                    "transaction_id": 93462378
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Interest",
+                    "amount": 30080.71,
+                    "transaction_id": 95412344
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Withdrawal",
+                    "amount": 27852.21,
+                    "transaction_id": 69810167
+                }
+            ]
+        }
+    }
+}

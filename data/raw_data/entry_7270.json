@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jessica Yoder",
+        "age": 89,
+        "gender": "female",
+        "address": "PSC 8541, Box 6731, APO AP 39602",
+        "phone": "823.830.6326x37613",
+        "email": "adam53@example.com",
+        "account": {
+            "account_number": "8cb7cebd-4bc4-49fd-aed8-46151bc7cd2f",
+            "balance": 35311.4,
+            "transactions": [
+                {
+                    "date": "2024-07-25",
+                    "description": "Withdrawal",
+                    "amount": 9869.77,
+                    "transaction_id": 115018382
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Deposit",
+                    "amount": 30884.57,
+                    "transaction_id": 106435074
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Withdrawal",
+                    "amount": 17596.55,
+                    "transaction_id": 45758933
+                },
+                {
+                    "date": "2024-06-11",
+                    "description": "Interest",
+                    "amount": 23868.5,
+                    "transaction_id": 12505306
+                }
+            ]
+        }
+    }
+}

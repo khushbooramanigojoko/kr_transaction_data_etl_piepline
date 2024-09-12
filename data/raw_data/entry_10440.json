@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mr. Wesley Williams PhD",
+        "age": 19,
+        "gender": "male",
+        "address": "42834 Tyler Court Suite 723, Yolandafurt, NH 85544",
+        "phone": "(585)446-3875",
+        "email": "carolinesmith@example.org",
+        "account": {
+            "account_number": "93c7c635-65f6-4b4d-933d-abda2b20aef1",
+            "balance": -5955.93,
+            "transactions": [
+                {
+                    "date": "2022-09-16",
+                    "description": "Withdrawal",
+                    "amount": -521.85,
+                    "transaction_id": 66846837
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Interest",
+                    "amount": -993.68,
+                    "transaction_id": 92325780
+                },
+                {
+                    "date": "2022-12-11",
+                    "description": "Deposit",
+                    "amount": -3728.97,
+                    "transaction_id": 16916307
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Interest",
+                    "amount": -4771.02,
+                    "transaction_id": 31380790
+                }
+            ]
+        }
+    }
+}

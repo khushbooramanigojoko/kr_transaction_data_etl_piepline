@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Evan Burton",
+        "age": 81,
+        "gender": "male",
+        "address": "83202 Valentine Key Apt. 198, Kristenfurt, NE 92230",
+        "phone": "+1-390-736-3819x0926",
+        "email": "ygaines@example.com",
+        "account": {
+            "account_number": "c9dd471e-f062-4892-8480-b14568dd4086",
+            "balance": 39736.48,
+            "transactions": [
+                {
+                    "date": "2024-05-29",
+                    "description": "Withdrawal",
+                    "amount": 48887.37,
+                    "transaction_id": 77920496
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Withdrawal",
+                    "amount": 17012.36,
+                    "transaction_id": 4477750
+                }
+            ]
+        }
+    }
+}

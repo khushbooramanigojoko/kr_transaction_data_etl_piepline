@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sydney Clark",
+        "age": 78,
+        "gender": "male",
+        "address": "328 Johnson Light, New Frederickmouth, CO 45423",
+        "phone": "001-839-810-3776",
+        "email": "ajohnston@example.net",
+        "account": {
+            "account_number": "2b142e41-2285-4a44-b03d-91ff889ea48b",
+            "balance": 7158.68,
+            "transactions": [
+                {
+                    "date": "2023-06-15",
+                    "description": "Deposit",
+                    "amount": 1551.32,
+                    "transaction_id": 7016957
+                }
+            ]
+        }
+    }
+}

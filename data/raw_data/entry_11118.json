@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joseph Cox",
+        "age": 86,
+        "gender": "male",
+        "address": "931 Christopher Groves, Michelletown, CA 52705",
+        "phone": "(331)868-5061",
+        "email": "stephanie84@example.net",
+        "account": {
+            "account_number": "3e78570d-81a0-424b-8b5b-d44288b0d286",
+            "balance": -34853.16,
+            "transactions": [
+                {
+                    "date": "2024-06-30",
+                    "description": "Deposit",
+                    "amount": -998.89,
+                    "transaction_id": 20391205
+                },
+                {
+                    "date": "2024-08-20",
+                    "description": "Withdrawal",
+                    "amount": 4648.19,
+                    "transaction_id": 31077239
+                },
+                {
+                    "date": "2024-08-17",
+                    "description": "Deposit",
+                    "amount": -1459.75,
+                    "transaction_id": 45834719
+                },
+                {
+                    "date": "2023-05-20",
+                    "description": "Deposit",
+                    "amount": 1630.02,
+                    "transaction_id": 15261708
+                },
+                {
+                    "date": "2024-02-20",
+                    "description": "Withdrawal",
+                    "amount": 621.78,
+                    "transaction_id": 102117753
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tammy Fields",
+        "age": 92,
+        "gender": "male",
+        "address": "36938 Hopkins Bridge, Lake Samuelberg, AK 77427",
+        "phone": "+1-815-246-0394x24834",
+        "email": "alexiswilliams@example.com",
+        "account": {
+            "account_number": "0be8458d-6874-4131-a6b9-a21c0ddcbb6e",
+            "balance": 11141.14,
+            "transactions": [
+                {
+                    "date": "2023-07-14",
+                    "description": "Withdrawal",
+                    "amount": 4551.06,
+                    "transaction_id": 11889545
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Withdrawal",
+                    "amount": 16077.45,
+                    "transaction_id": 102231122
+                },
+                {
+                    "date": "2024-05-20",
+                    "description": "Withdrawal",
+                    "amount": 5410.47,
+                    "transaction_id": 103581416
+                },
+                {
+                    "date": "2023-05-03",
+                    "description": "Deposit",
+                    "amount": 7204.34,
+                    "transaction_id": 89040893
+                }
+            ]
+        }
+    }
+}

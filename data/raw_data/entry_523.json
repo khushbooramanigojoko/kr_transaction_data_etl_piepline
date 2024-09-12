@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Alyssa Clark",
+        "age": 81,
+        "gender": "female",
+        "address": "178 Barnes Prairie Apt. 105, North Cindyport, FM 61527",
+        "phone": "575-228-6028x615",
+        "email": "timothy70@example.net",
+        "account": {
+            "account_number": "c46feef2-ae4b-4f5e-862f-ea1c8d06f376",
+            "balance": 49981.83,
+            "transactions": [
+                {
+                    "date": "2023-02-16",
+                    "description": "Deposit",
+                    "amount": 35040.93,
+                    "transaction_id": 88976288
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Withdrawal",
+                    "amount": 36629.41,
+                    "transaction_id": 105154708
+                },
+                {
+                    "date": "2022-09-30",
+                    "description": "Withdrawal",
+                    "amount": 13459.24,
+                    "transaction_id": 107902187
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Deposit",
+                    "amount": 5300.5,
+                    "transaction_id": 13724291
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Withdrawal",
+                    "amount": 42635.21,
+                    "transaction_id": 109083388
+                }
+            ]
+        }
+    }
+}

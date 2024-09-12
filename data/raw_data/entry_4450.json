@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Lynch",
+        "age": 65,
+        "gender": "male",
+        "address": "638 Beth Knoll, Patriciamouth, CT 10463",
+        "phone": "7006703642",
+        "email": "zfranklin@example.org",
+        "account": {
+            "account_number": "c6dddfd0-2aac-415b-84a4-8654dfffbc6f",
+            "balance": 5195.43,
+            "transactions": [
+                {
+                    "date": "2023-06-16",
+                    "description": "Withdrawal",
+                    "amount": 8048.59,
+                    "transaction_id": 99007876
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Deposit",
+                    "amount": 27690.38,
+                    "transaction_id": 109339418
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Deposit",
+                    "amount": 41500.42,
+                    "transaction_id": 74181165
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Deposit",
+                    "amount": 46617.6,
+                    "transaction_id": 40789982
+                },
+                {
+                    "date": "2024-06-21",
+                    "description": "Deposit",
+                    "amount": 26346.98,
+                    "transaction_id": 101422333
+                }
+            ]
+        }
+    }
+}

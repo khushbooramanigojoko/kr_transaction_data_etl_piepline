@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kathleen Henderson",
+        "age": 43,
+        "gender": "female",
+        "address": "3977 Kyle Avenue, Byrdport, FL 86024",
+        "phone": "001-284-389-0008x362",
+        "email": "oshea@example.com",
+        "account": {
+            "account_number": "13d7efb4-a0df-4667-8192-81ff063f8302",
+            "balance": 12601.3,
+            "transactions": [
+                {
+                    "date": "2024-07-31",
+                    "description": "Interest",
+                    "amount": 27482.02,
+                    "transaction_id": 19940938
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Deposit",
+                    "amount": 42773.7,
+                    "transaction_id": 32611595
+                },
+                {
+                    "date": "2024-05-31",
+                    "description": "Deposit",
+                    "amount": 43601.01,
+                    "transaction_id": 37511039
+                },
+                {
+                    "date": "2024-04-04",
+                    "description": "Withdrawal",
+                    "amount": 4410.69,
+                    "transaction_id": 52079767
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Deposit",
+                    "amount": 18149.32,
+                    "transaction_id": 19045805
+                }
+            ]
+        }
+    }
+}

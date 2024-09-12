@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Maria Blackburn",
+        "age": 53,
+        "gender": "female",
+        "address": "6027 Mack Island, South Ianfurt, NV 12269",
+        "phone": "551.380.4922",
+        "email": "rachael20@example.net",
+        "account": {
+            "account_number": "6001f395-3108-4a17-972e-26fb30d8434a",
+            "balance": 5224.71,
+            "transactions": [
+                {
+                    "date": "2023-03-11",
+                    "description": "Interest",
+                    "amount": 1631.36,
+                    "transaction_id": 43061348
+                },
+                {
+                    "date": "2023-04-10",
+                    "description": "Withdrawal",
+                    "amount": 26087.72,
+                    "transaction_id": 67085549
+                },
+                {
+                    "date": "2023-07-14",
+                    "description": "Deposit",
+                    "amount": 24061.91,
+                    "transaction_id": 24304088
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Interest",
+                    "amount": 16619.77,
+                    "transaction_id": 43787728
+                },
+                {
+                    "date": "2023-03-05",
+                    "description": "Deposit",
+                    "amount": 19429.15,
+                    "transaction_id": 68489499
+                }
+            ]
+        }
+    }
+}

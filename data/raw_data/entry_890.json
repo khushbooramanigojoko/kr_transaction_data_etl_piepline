@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Anthony Mills",
+        "age": 61,
+        "gender": "male",
+        "address": "153 Shannon Path, West Catherine, MP 03781",
+        "phone": "001-329-214-4185x3828",
+        "email": "fgilmore@example.net",
+        "account": {
+            "account_number": "adda73eb-a9c8-4414-86e9-7f4f42044044",
+            "balance": 34143.17,
+            "transactions": [
+                {
+                    "date": "2023-04-06",
+                    "description": "Deposit",
+                    "amount": 3808.16,
+                    "transaction_id": 111578780
+                }
+            ]
+        }
+    }
+}

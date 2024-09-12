@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Aaron Cardenas",
+        "age": 31,
+        "gender": "male",
+        "address": "9022 Sims Gateway Suite 234, East Carolyn, KS 16326",
+        "phone": "937.823.6032",
+        "email": "jamie17@example.com",
+        "account": {
+            "account_number": "55fd1f64-4fc2-4aec-b5eb-9040498f6d7e",
+            "balance": 12906.6,
+            "transactions": [
+                {
+                    "date": "2023-04-03",
+                    "description": "Deposit",
+                    "amount": 43294.73,
+                    "transaction_id": 6873492
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Deposit",
+                    "amount": 24118.47,
+                    "transaction_id": 11728872
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Interest",
+                    "amount": 8359.39,
+                    "transaction_id": 110090841
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 76,
+        "gender": "male",
+        "address": "91281 Joshua Islands, South Lisa, GU 37033",
+        "phone": "001-280-549-0900x3519",
+        "email": "daniel83@example.com",
+        "account": {
+            "account_number": "7df8cf5f-786d-42a6-a17c-fbeb0f203b8a",
+            "balance": 17306.53,
+            "transactions": [
+                {
+                    "date": "2024-04-15",
+                    "description": "Withdrawal",
+                    "amount": 2907.37,
+                    "transaction_id": 93802982
+                },
+                {
+                    "date": "2023-02-13",
+                    "description": "Withdrawal",
+                    "amount": 3424.44,
+                    "transaction_id": 11119152
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Interest",
+                    "amount": 699.52,
+                    "transaction_id": 31997669
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Withdrawal",
+                    "amount": -3114.98,
+                    "transaction_id": 46880931
+                }
+            ]
+        }
+    }
+}

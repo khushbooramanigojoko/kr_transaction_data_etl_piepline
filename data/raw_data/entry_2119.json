@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Elizabeth Farrell",
+        "age": 54,
+        "gender": "male",
+        "address": "226 Turner Throughway, Espinozaville, VA 36337",
+        "phone": "001-422-987-6300x75163",
+        "email": "robinsutton@example.org",
+        "account": {
+            "account_number": "e0ab49c4-44b3-4fa8-b8f5-1aaf837d323b",
+            "balance": 17469.11,
+            "transactions": [
+                {
+                    "date": "2024-07-14",
+                    "description": "Interest",
+                    "amount": 40875.11,
+                    "transaction_id": 91624971
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Withdrawal",
+                    "amount": 22108.49,
+                    "transaction_id": 29423595
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Corey Howe",
+        "age": 66,
+        "gender": "female",
+        "address": "USS Stone, FPO AA 46240",
+        "phone": "447.352.5104x7453",
+        "email": "sgeorge@example.com",
+        "account": {
+            "account_number": "f9ad093c-c852-410b-adde-8ced4f6849d9",
+            "balance": -4669.55,
+            "transactions": [
+                {
+                    "date": "2022-12-01",
+                    "description": "Interest",
+                    "amount": -3936.19,
+                    "transaction_id": 94674219
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Deposit",
+                    "amount": -3340.43,
+                    "transaction_id": 87999681
+                }
+            ]
+        }
+    }
+}

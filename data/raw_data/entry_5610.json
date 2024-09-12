@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "James Morris",
+        "age": 82,
+        "gender": "male",
+        "address": "00748 Jason Crossroad Suite 399, Tanyashire, SC 03453",
+        "phone": "989.707.3713x20633",
+        "email": "olsonmichael@example.com",
+        "account": {
+            "account_number": "2db71bac-32b8-4bd1-937d-5f583246e052",
+            "balance": 20184.94,
+            "transactions": [
+                {
+                    "date": "2023-08-20",
+                    "description": "Deposit",
+                    "amount": 15139.09,
+                    "transaction_id": 1329288
+                },
+                {
+                    "date": "2022-11-16",
+                    "description": "Interest",
+                    "amount": 49306.86,
+                    "transaction_id": 17720417
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Interest",
+                    "amount": 28952.16,
+                    "transaction_id": 19891942
+                },
+                {
+                    "date": "2024-04-13",
+                    "description": "Interest",
+                    "amount": 24566.22,
+                    "transaction_id": 68108401
+                }
+            ]
+        }
+    }
+}

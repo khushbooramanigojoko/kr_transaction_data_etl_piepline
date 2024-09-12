@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "John Cooper",
+        "age": 38,
+        "gender": "male",
+        "address": "604 Jeremy Radial Apt. 419, Brightburgh, MH 41193",
+        "phone": "001-927-775-3113x7079",
+        "email": "kimberlyreid@example.net",
+        "account": {
+            "account_number": "1430d7e2-1648-498d-a839-5c1924ede056",
+            "balance": 16448.96,
+            "transactions": [
+                {
+                    "date": "2023-06-09",
+                    "description": "Interest",
+                    "amount": 10713.98,
+                    "transaction_id": 77949429
+                },
+                {
+                    "date": "2024-04-19",
+                    "description": "Withdrawal",
+                    "amount": 17610.13,
+                    "transaction_id": 111505909
+                },
+                {
+                    "date": "2023-05-17",
+                    "description": "Withdrawal",
+                    "amount": 11371.78,
+                    "transaction_id": 97022710
+                }
+            ]
+        }
+    }
+}

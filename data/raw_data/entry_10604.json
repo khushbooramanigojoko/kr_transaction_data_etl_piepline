@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 70,
+        "gender": "male",
+        "address": "814 Tommy Gateway Suite 518, Port Andrewburgh, KY 82086",
+        "phone": "307-720-8470x64500",
+        "email": "milleramy@example.net",
+        "account": {
+            "account_number": "29d2272a-e84f-4042-96ff-3d5d7eb9c638",
+            "balance": 5351.89,
+            "transactions": [
+                {
+                    "date": "2023-12-07",
+                    "description": "Interest",
+                    "amount": -4101.53,
+                    "transaction_id": 9000057
+                },
+                {
+                    "date": "2023-06-28",
+                    "description": "Deposit",
+                    "amount": -3426.14,
+                    "transaction_id": 96009237
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Withdrawal",
+                    "amount": 1661.84,
+                    "transaction_id": 95534801
+                }
+            ]
+        }
+    }
+}

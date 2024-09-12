@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amber Lowe",
+        "age": 58,
+        "gender": "male",
+        "address": "83051 Carlson Wells Suite 486, North Michael, MA 12406",
+        "phone": "+1-581-814-1092",
+        "email": "sonya23@example.net",
+        "account": {
+            "account_number": "bec0e47f-ea65-4a2b-9cd9-03a3c491a1ed",
+            "balance": -42089.24,
+            "transactions": [
+                {
+                    "date": "2023-08-22",
+                    "description": "Interest",
+                    "amount": -1445.38,
+                    "transaction_id": 2292933
+                },
+                {
+                    "date": "2024-04-24",
+                    "description": "Deposit",
+                    "amount": -3236.04,
+                    "transaction_id": 17673503
+                },
+                {
+                    "date": "2024-03-28",
+                    "description": "Withdrawal",
+                    "amount": -1217.57,
+                    "transaction_id": 92220635
+                },
+                {
+                    "date": "2023-01-09",
+                    "description": "Withdrawal",
+                    "amount": -1785.48,
+                    "transaction_id": 18531643
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jose Washington",
+        "age": 73,
+        "gender": "male",
+        "address": "32579 Lori Roads Apt. 521, West Jordan, CT 66703",
+        "phone": "672-321-7711x54983",
+        "email": "scoleman@example.com",
+        "account": {
+            "account_number": "053b7604-dd7d-420c-b532-f816da716301",
+            "balance": 6553.62,
+            "transactions": [
+                {
+                    "date": "2024-04-04",
+                    "description": "Withdrawal",
+                    "amount": 32857.99,
+                    "transaction_id": 112079485
+                }
+            ]
+        }
+    }
+}

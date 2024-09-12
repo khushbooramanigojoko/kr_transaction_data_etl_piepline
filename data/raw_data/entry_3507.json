@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joseph Donaldson",
+        "age": 43,
+        "gender": "male",
+        "address": "05453 Cox Dale Apt. 137, Nathanburgh, IN 16524",
+        "phone": "748.229.9092x380",
+        "email": "tommy03@example.org",
+        "account": {
+            "account_number": "7c2723d0-66ce-40a1-a751-548a7b99a6a8",
+            "balance": 22816.62,
+            "transactions": [
+                {
+                    "date": "2024-02-25",
+                    "description": "Deposit",
+                    "amount": 36947.46,
+                    "transaction_id": 112790813
+                },
+                {
+                    "date": "2023-11-21",
+                    "description": "Withdrawal",
+                    "amount": 44574.54,
+                    "transaction_id": 118618527
+                },
+                {
+                    "date": "2023-08-25",
+                    "description": "Withdrawal",
+                    "amount": 7863.62,
+                    "transaction_id": 39204869
+                }
+            ]
+        }
+    }
+}

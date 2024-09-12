@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Leslie Bailey",
+        "age": 37,
+        "gender": "male",
+        "address": "6279 William Valleys, West Teresaton, OH 32599",
+        "phone": "(887)614-2814",
+        "email": "brian74@example.net",
+        "account": {
+            "account_number": "f9973342-b6b9-4dba-99b8-795303d53c8b",
+            "balance": 11848.23,
+            "transactions": [
+                {
+                    "date": "2024-05-13",
+                    "description": "Deposit",
+                    "amount": 36660.56,
+                    "transaction_id": 11474664
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Deposit",
+                    "amount": 25048.35,
+                    "transaction_id": 20710099
+                },
+                {
+                    "date": "2023-11-10",
+                    "description": "Withdrawal",
+                    "amount": 12080.5,
+                    "transaction_id": 117413701
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Interest",
+                    "amount": 24664.69,
+                    "transaction_id": 65701418
+                }
+            ]
+        }
+    }
+}

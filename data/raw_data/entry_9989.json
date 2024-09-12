@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 21,
+        "gender": "female",
+        "address": "938 Lara Radial Apt. 474, Lake Anthony, NH 39882",
+        "phone": "(513)439-6886x151",
+        "email": "rwright@example.net",
+        "account": {
+            "account_number": "25db7c1a-680d-41a0-be10-9d14426a0ab5",
+            "balance": 20234.07,
+            "transactions": [
+                {
+                    "date": "2022-11-12",
+                    "description": "Interest",
+                    "amount": -4750.34,
+                    "transaction_id": 94317435
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 97,
+        "gender": "male",
+        "address": "53782 Wang Knoll, South Alexisside, VI 00628",
+        "phone": "+1-579-978-6933x350",
+        "email": "vglover@example.net",
+        "account": {
+            "account_number": "d53021b5-d496-45cb-96c4-d5f7e230304b",
+            "balance": 22443.67,
+            "transactions": [
+                {
+                    "date": "2022-09-14",
+                    "description": "Interest",
+                    "amount": -1540.15,
+                    "transaction_id": 108529549
+                }
+            ]
+        }
+    }
+}

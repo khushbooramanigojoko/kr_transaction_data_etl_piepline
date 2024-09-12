@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Victoria Watts",
+        "age": 78,
+        "gender": "female",
+        "address": "2045 Anderson Ferry Suite 157, Harringtonport, PR 72743",
+        "phone": "736.260.6305",
+        "email": "hpatterson@example.com",
+        "account": {
+            "account_number": "c3364f22-2847-416b-8991-afffd311b551",
+            "balance": 45281.35,
+            "transactions": [
+                {
+                    "date": "2023-06-15",
+                    "description": "Interest",
+                    "amount": 38403.63,
+                    "transaction_id": 111989534
+                }
+            ]
+        }
+    }
+}

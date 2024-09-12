@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Gregory Shaw",
+        "age": 86,
+        "gender": "female",
+        "address": "706 Little Bridge Suite 186, Lake Danielle, NE 44277",
+        "phone": "733.539.9333",
+        "email": "brian38@example.net",
+        "account": {
+            "account_number": "0caaa9ad-f305-4ff0-a184-4d3cb326cb73",
+            "balance": 17990.76,
+            "transactions": [
+                {
+                    "date": "2023-11-26",
+                    "description": "Deposit",
+                    "amount": 40473.23,
+                    "transaction_id": 62764175
+                },
+                {
+                    "date": "2023-10-20",
+                    "description": "Withdrawal",
+                    "amount": 9038.59,
+                    "transaction_id": 24007493
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Deposit",
+                    "amount": 4170.42,
+                    "transaction_id": 96379493
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Interest",
+                    "amount": 33012.11,
+                    "transaction_id": 4898612
+                }
+            ]
+        }
+    }
+}

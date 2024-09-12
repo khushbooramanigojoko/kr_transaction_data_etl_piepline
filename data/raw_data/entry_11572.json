@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kathy Buchanan",
+        "age": 55,
+        "gender": "female",
+        "address": "7235 William Dam, East Daniel, IN 29558",
+        "phone": "001-582-646-3809x96749",
+        "email": "fstephens@example.org",
+        "account": {
+            "account_number": "33918421-84d6-409b-a4cf-02830b6e5b8a",
+            "balance": -23935.24,
+            "transactions": [
+                {
+                    "date": "2023-08-07",
+                    "description": "Deposit",
+                    "amount": 1825.84,
+                    "transaction_id": 104480462
+                },
+                {
+                    "date": "2023-11-27",
+                    "description": "Withdrawal",
+                    "amount": 4123.45,
+                    "transaction_id": 56455518
+                },
+                {
+                    "date": "2022-12-02",
+                    "description": "Interest",
+                    "amount": -4527.85,
+                    "transaction_id": 47639213
+                },
+                {
+                    "date": "2023-04-20",
+                    "description": "Deposit",
+                    "amount": 3945.26,
+                    "transaction_id": 65934056
+                },
+                {
+                    "date": "2024-02-27",
+                    "description": "Deposit",
+                    "amount": -655.1,
+                    "transaction_id": 17171837
+                }
+            ]
+        }
+    }
+}

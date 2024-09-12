@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alisha Moran",
+        "age": 88,
+        "gender": "female",
+        "address": "78947 Faulkner Mill, North Barbaraview, WI 07390",
+        "phone": "6006519584",
+        "email": "taylormelanie@example.com",
+        "account": {
+            "account_number": "1d7c8d4a-c04b-4042-b71c-61876b65d528",
+            "balance": 24594.15,
+            "transactions": [
+                {
+                    "date": "2023-10-08",
+                    "description": "Interest",
+                    "amount": 43993.8,
+                    "transaction_id": 78721388
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Interest",
+                    "amount": 22789.23,
+                    "transaction_id": 119540542
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Deposit",
+                    "amount": 42054.6,
+                    "transaction_id": 98021239
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Interest",
+                    "amount": 21185.03,
+                    "transaction_id": 104055694
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Richard Allison",
+        "age": 28,
+        "gender": "male",
+        "address": "19393 Lewis Light Suite 516, East Harold, UT 94110",
+        "phone": "232-910-9247x1946",
+        "email": "samantha25@example.com",
+        "account": {
+            "account_number": "ef967000-3139-446d-9885-3b9849310451",
+            "balance": 39657.78,
+            "transactions": [
+                {
+                    "date": "2023-12-18",
+                    "description": "Withdrawal",
+                    "amount": 46937.05,
+                    "transaction_id": 60985253
+                },
+                {
+                    "date": "2023-01-10",
+                    "description": "Deposit",
+                    "amount": 37241.67,
+                    "transaction_id": 8036462
+                }
+            ]
+        }
+    }
+}

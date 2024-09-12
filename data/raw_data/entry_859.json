@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tamara Gibson",
+        "age": 46,
+        "gender": "male",
+        "address": "371 Brian Landing Suite 672, Port Natasha, MH 04664",
+        "phone": "(594)315-2346x711",
+        "email": "masonchristopher@example.org",
+        "account": {
+            "account_number": "511aebe9-02fe-45e4-94ba-c136bc803623",
+            "balance": 14596.71,
+            "transactions": [
+                {
+                    "date": "2023-02-28",
+                    "description": "Withdrawal",
+                    "amount": 49994.12,
+                    "transaction_id": 67974502
+                }
+            ]
+        }
+    }
+}

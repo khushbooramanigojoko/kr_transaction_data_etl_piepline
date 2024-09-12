@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Pamela Baird",
+        "age": 30,
+        "gender": "male",
+        "address": "33609 Lauren Place, Fernandoside, MS 73703",
+        "phone": "465-572-0108x128",
+        "email": "anthony38@example.com",
+        "account": {
+            "account_number": "d3ebba99-dd97-48c4-812d-c449e39bdb67",
+            "balance": 35754.75,
+            "transactions": [
+                {
+                    "date": "2023-08-03",
+                    "description": "Interest",
+                    "amount": 17393.72,
+                    "transaction_id": 52398119
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Deposit",
+                    "amount": 2348.45,
+                    "transaction_id": 73711017
+                },
+                {
+                    "date": "2022-09-14",
+                    "description": "Deposit",
+                    "amount": 19158.12,
+                    "transaction_id": 28549393
+                },
+                {
+                    "date": "2023-08-26",
+                    "description": "Interest",
+                    "amount": 9540.46,
+                    "transaction_id": 13102685
+                },
+                {
+                    "date": "2023-10-05",
+                    "description": "Deposit",
+                    "amount": 30208.54,
+                    "transaction_id": 110462771
+                }
+            ]
+        }
+    }
+}

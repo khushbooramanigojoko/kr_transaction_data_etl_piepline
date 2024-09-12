@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Dawn Webb",
+        "age": 83,
+        "gender": "male",
+        "address": "925 Allen Tunnel, Port Deborahstad, AS 71442",
+        "phone": "555.906.9972x398",
+        "email": "mmalone@example.org",
+        "account": {
+            "account_number": "8a249cd7-afaf-4ede-922c-5e95dc0046c2",
+            "balance": -10939.91,
+            "transactions": [
+                {
+                    "date": "2023-10-14",
+                    "description": "Interest",
+                    "amount": 1608.78,
+                    "transaction_id": 66013997
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Interest",
+                    "amount": 4596.41,
+                    "transaction_id": 67572791
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Interest",
+                    "amount": 3514.78,
+                    "transaction_id": 56080403
+                }
+            ]
+        }
+    }
+}

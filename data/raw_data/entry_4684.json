@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Seth Gonzalez",
+        "age": 85,
+        "gender": "female",
+        "address": "7278 Brian Landing, Whitemouth, IN 17106",
+        "phone": "372-875-8102x9850",
+        "email": "christopher60@example.net",
+        "account": {
+            "account_number": "5cdef54a-ca93-4963-a1e5-b6c3e0238041",
+            "balance": 15883.28,
+            "transactions": [
+                {
+                    "date": "2023-12-29",
+                    "description": "Interest",
+                    "amount": 24736.99,
+                    "transaction_id": 2134713
+                },
+                {
+                    "date": "2023-09-04",
+                    "description": "Interest",
+                    "amount": 24080.87,
+                    "transaction_id": 70431141
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Withdrawal",
+                    "amount": 38426.26,
+                    "transaction_id": 93686682
+                },
+                {
+                    "date": "2024-05-30",
+                    "description": "Withdrawal",
+                    "amount": 21131.78,
+                    "transaction_id": 112562607
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Deposit",
+                    "amount": 49714.34,
+                    "transaction_id": 50932149
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ariana Villanueva",
+        "age": 40,
+        "gender": "male",
+        "address": "24818 Tran Viaduct Apt. 603, Christinahaven, WV 88807",
+        "phone": "4106865833",
+        "email": "yochoa@example.net",
+        "account": {
+            "account_number": "ce551087-58d4-42c9-9016-fa52b25c7049",
+            "balance": 22238.32,
+            "transactions": [
+                {
+                    "date": "2022-12-30",
+                    "description": "Deposit",
+                    "amount": 7654.77,
+                    "transaction_id": 10938010
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Interest",
+                    "amount": 29819.62,
+                    "transaction_id": 3446264
+                }
+            ]
+        }
+    }
+}

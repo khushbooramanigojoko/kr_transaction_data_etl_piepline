@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Erin Aguilar",
+        "age": 70,
+        "gender": "male",
+        "address": "896 Hamilton Place Apt. 216, Samanthabury, NJ 46344",
+        "phone": "7265993225",
+        "email": "kylewillis@example.org",
+        "account": {
+            "account_number": "16cbbe81-2c52-46fd-82bf-172f3ce3323f",
+            "balance": 18491.33,
+            "transactions": [
+                {
+                    "date": "2023-10-11",
+                    "description": "Interest",
+                    "amount": 29692.98,
+                    "transaction_id": 118916833
+                }
+            ]
+        }
+    }
+}

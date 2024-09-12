@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 82,
+        "gender": "female",
+        "address": "788 Jeremiah Trail, Martinezbury, OR 60407",
+        "phone": "979-575-9488x3369",
+        "email": "paigedillon@example.com",
+        "account": {
+            "account_number": "d58f4954-dd21-44a5-a581-a2ed5d7b80ff",
+            "balance": 27678.1,
+            "transactions": [
+                {
+                    "date": "2023-04-18",
+                    "description": "Withdrawal",
+                    "amount": -314.53,
+                    "transaction_id": 43048301
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Deposit",
+                    "amount": -4071.52,
+                    "transaction_id": 27427557
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Interest",
+                    "amount": 2494.45,
+                    "transaction_id": 76457324
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Withdrawal",
+                    "amount": -167.18,
+                    "transaction_id": 106201085
+                }
+            ]
+        }
+    }
+}

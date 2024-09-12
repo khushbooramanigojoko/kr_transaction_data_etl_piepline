@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dr. Luis Travis MD",
+        "age": 35,
+        "gender": "male",
+        "address": "590 Williams Streets, Port Allen, MO 51182",
+        "phone": "868-970-6438x38217",
+        "email": "michaelwade@example.net",
+        "account": {
+            "account_number": "3e38bfb6-df0f-4c20-8928-82d7c9e8f98a",
+            "balance": 22052.6,
+            "transactions": [
+                {
+                    "date": "2023-02-01",
+                    "description": "Interest",
+                    "amount": 34714.88,
+                    "transaction_id": 31951496
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Denise Diaz",
+        "age": 64,
+        "gender": "female",
+        "address": "61359 Gutierrez Corners, Kelliport, WA 82182",
+        "phone": "+1-870-984-2682x2406",
+        "email": "lhansen@example.net",
+        "account": {
+            "account_number": "903c2906-33e3-4f54-bfdc-7989bc86958b",
+            "balance": 38405.67,
+            "transactions": [
+                {
+                    "date": "2024-01-07",
+                    "description": "Interest",
+                    "amount": 37053.8,
+                    "transaction_id": 101367722
+                },
+                {
+                    "date": "2024-02-13",
+                    "description": "Deposit",
+                    "amount": 19875.0,
+                    "transaction_id": 71208846
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Interest",
+                    "amount": 17534.27,
+                    "transaction_id": 4142810
+                },
+                {
+                    "date": "2023-06-04",
+                    "description": "Deposit",
+                    "amount": 37875.19,
+                    "transaction_id": 11783631
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Interest",
+                    "amount": 49641.3,
+                    "transaction_id": 25301230
+                }
+            ]
+        }
+    }
+}

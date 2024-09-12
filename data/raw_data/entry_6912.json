@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tony Chambers",
+        "age": 62,
+        "gender": "female",
+        "address": "81358 Christian Fields, New Andrewtown, NY 26712",
+        "phone": "221-388-2098x538",
+        "email": "smitherin@example.org",
+        "account": {
+            "account_number": "84332e10-928e-44b9-9dd3-8db947baa89b",
+            "balance": 49138.94,
+            "transactions": [
+                {
+                    "date": "2023-05-27",
+                    "description": "Deposit",
+                    "amount": 35703.81,
+                    "transaction_id": 97724507
+                }
+            ]
+        }
+    }
+}

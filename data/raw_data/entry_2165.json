@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lisa Dickson",
+        "age": 86,
+        "gender": "male",
+        "address": "824 Nelson Inlet, East Christine, AL 47698",
+        "phone": "(538)886-3710x087",
+        "email": "donaldgarrett@example.com",
+        "account": {
+            "account_number": "99666c20-8177-4b18-86e4-c6cb410aa3e4",
+            "balance": 43613.55,
+            "transactions": [
+                {
+                    "date": "2023-08-05",
+                    "description": "Interest",
+                    "amount": 22359.27,
+                    "transaction_id": 38343372
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Deposit",
+                    "amount": 46453.91,
+                    "transaction_id": 89296409
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Withdrawal",
+                    "amount": 8419.28,
+                    "transaction_id": 76290563
+                },
+                {
+                    "date": "2022-09-02",
+                    "description": "Interest",
+                    "amount": 18832.14,
+                    "transaction_id": 2898619
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Manuel Griffin",
+        "age": 98,
+        "gender": "male",
+        "address": "6278 Stark Trafficway, Derrickborough, PA 56059",
+        "phone": "001-477-667-0471",
+        "email": "april80@example.com",
+        "account": {
+            "account_number": "707a8dae-bc35-4b75-b1b1-2e97b3873f97",
+            "balance": 19011.93,
+            "transactions": [
+                {
+                    "date": "2023-11-29",
+                    "description": "Deposit",
+                    "amount": 37919.17,
+                    "transaction_id": 104959145
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Interest",
+                    "amount": 20848.12,
+                    "transaction_id": 25569731
+                }
+            ]
+        }
+    }
+}

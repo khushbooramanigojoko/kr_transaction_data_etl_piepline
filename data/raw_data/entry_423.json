@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jessica Rogers",
+        "age": 25,
+        "gender": "female",
+        "address": "USNS Brown, FPO AP 32529",
+        "phone": "001-256-590-6280x797",
+        "email": "angela26@example.org",
+        "account": {
+            "account_number": "5c7a70da-5fd8-402a-98a6-47f3b75dde42",
+            "balance": 6504.67,
+            "transactions": [
+                {
+                    "date": "2024-07-03",
+                    "description": "Deposit",
+                    "amount": 45466.94,
+                    "transaction_id": 66329229
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Withdrawal",
+                    "amount": 24496.42,
+                    "transaction_id": 48029407
+                },
+                {
+                    "date": "2024-03-29",
+                    "description": "Withdrawal",
+                    "amount": 44525.87,
+                    "transaction_id": 22452770
+                }
+            ]
+        }
+    }
+}

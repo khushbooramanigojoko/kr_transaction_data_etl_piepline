@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joseph Warren",
+        "age": 83,
+        "gender": "female",
+        "address": "025 Marc Greens Apt. 792, Lake Michaelfort, DC 53637",
+        "phone": "+1-554-833-5246x3642",
+        "email": "brentwright@example.org",
+        "account": {
+            "account_number": "cd424141-96db-40ec-a4f3-252bdbce6ef9",
+            "balance": 12039.78,
+            "transactions": [
+                {
+                    "date": "2024-06-30",
+                    "description": "Interest",
+                    "amount": 6554.73,
+                    "transaction_id": 24149793
+                },
+                {
+                    "date": "2023-10-02",
+                    "description": "Withdrawal",
+                    "amount": 6319.91,
+                    "transaction_id": 58188315
+                }
+            ]
+        }
+    }
+}

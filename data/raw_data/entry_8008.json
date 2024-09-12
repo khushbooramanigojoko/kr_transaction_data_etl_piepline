@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Elizabeth Klein",
+        "age": 89,
+        "gender": "female",
+        "address": "1674 Devin Light Apt. 391, Arnoldtown, NJ 78784",
+        "phone": "638-998-8983",
+        "email": "daniel36@example.com",
+        "account": {
+            "account_number": "b4ce2450-d32b-4d2e-b8e0-e3fd7597330b",
+            "balance": 31381.17,
+            "transactions": [
+                {
+                    "date": "2024-03-19",
+                    "description": "Withdrawal",
+                    "amount": 4755.1,
+                    "transaction_id": 71857990
+                }
+            ]
+        }
+    }
+}

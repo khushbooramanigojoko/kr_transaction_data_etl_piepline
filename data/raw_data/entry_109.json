@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Erin Henry",
+        "age": 70,
+        "gender": "female",
+        "address": "6093 Kevin Tunnel, Steinport, TN 40973",
+        "phone": "7844953672",
+        "email": "daydustin@example.org",
+        "account": {
+            "account_number": "b053381e-8341-4663-b989-4f18f6b3434c",
+            "balance": 32464.84,
+            "transactions": [
+                {
+                    "date": "2023-06-14",
+                    "description": "Deposit",
+                    "amount": 49254.5,
+                    "transaction_id": 97877534
+                },
+                {
+                    "date": "2023-04-23",
+                    "description": "Interest",
+                    "amount": 8733.24,
+                    "transaction_id": 89436839
+                },
+                {
+                    "date": "2024-06-11",
+                    "description": "Deposit",
+                    "amount": 32150.49,
+                    "transaction_id": 116065071
+                },
+                {
+                    "date": "2024-06-07",
+                    "description": "Interest",
+                    "amount": 39437.13,
+                    "transaction_id": 1608908
+                },
+                {
+                    "date": "2022-11-05",
+                    "description": "Withdrawal",
+                    "amount": 10559.97,
+                    "transaction_id": 99166255
+                }
+            ]
+        }
+    }
+}

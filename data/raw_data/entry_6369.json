@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Dawn Aguilar",
+        "age": 47,
+        "gender": "female",
+        "address": "14890 Timothy Mountain Apt. 737, South Crystalstad, MI 07493",
+        "phone": "(647)595-2712x11085",
+        "email": "alicia96@example.com",
+        "account": {
+            "account_number": "9e9c54de-c049-46bd-b425-17ca2a6c6dcb",
+            "balance": 9473.83,
+            "transactions": [
+                {
+                    "date": "2022-09-24",
+                    "description": "Deposit",
+                    "amount": 24064.79,
+                    "transaction_id": 2182151
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Interest",
+                    "amount": 7800.66,
+                    "transaction_id": 102968185
+                }
+            ]
+        }
+    }
+}

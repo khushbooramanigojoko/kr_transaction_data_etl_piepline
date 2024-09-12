@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kyle Taylor",
+        "age": 39,
+        "gender": "male",
+        "address": "604 Waller Lodge, New Tonyaville, SD 37135",
+        "phone": "(765)531-2309",
+        "email": "zbutler@example.com",
+        "account": {
+            "account_number": "e22944da-3b12-4e78-a882-8cf8a08c638c",
+            "balance": 15571.01,
+            "transactions": [
+                {
+                    "date": "2022-10-24",
+                    "description": "Deposit",
+                    "amount": 33807.31,
+                    "transaction_id": 2726367
+                }
+            ]
+        }
+    }
+}

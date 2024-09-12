@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Caitlin Stark",
+        "age": 62,
+        "gender": "female",
+        "address": "PSC 1920, Box 6612, APO AA 81147",
+        "phone": "001-861-489-0668x0966",
+        "email": "harrisrodney@example.com",
+        "account": {
+            "account_number": "53a34c57-07fc-4cda-8e34-b136fd58c641",
+            "balance": 26066.78,
+            "transactions": [
+                {
+                    "date": "2023-02-14",
+                    "description": "Withdrawal",
+                    "amount": 43729.52,
+                    "transaction_id": 53270549
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Interest",
+                    "amount": 13910.33,
+                    "transaction_id": 38104601
+                },
+                {
+                    "date": "2024-04-01",
+                    "description": "Withdrawal",
+                    "amount": 24219.84,
+                    "transaction_id": 97338434
+                },
+                {
+                    "date": "2023-10-09",
+                    "description": "Interest",
+                    "amount": 32905.05,
+                    "transaction_id": 73497730
+                }
+            ]
+        }
+    }
+}

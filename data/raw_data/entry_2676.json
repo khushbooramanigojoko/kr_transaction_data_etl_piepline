@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Samantha Sutton",
+        "age": 54,
+        "gender": "female",
+        "address": "36514 Zachary Creek, Davidborough, RI 77665",
+        "phone": "395.651.7143",
+        "email": "leonardruben@example.net",
+        "account": {
+            "account_number": "5af135a4-79fe-428f-b4c1-d571f51db9b1",
+            "balance": 31293.22,
+            "transactions": [
+                {
+                    "date": "2023-04-25",
+                    "description": "Interest",
+                    "amount": 1691.5,
+                    "transaction_id": 4945128
+                }
+            ]
+        }
+    }
+}

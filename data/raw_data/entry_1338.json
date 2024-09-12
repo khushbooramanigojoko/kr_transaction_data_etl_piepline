@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Scott Davis",
+        "age": 92,
+        "gender": "female",
+        "address": "971 Anderson Spur, Kellytown, MP 61816",
+        "phone": "891.629.7654x36051",
+        "email": "smonroe@example.org",
+        "account": {
+            "account_number": "fa43e3f0-a1ef-4639-b253-4ec05dfc7ad4",
+            "balance": 9063.85,
+            "transactions": [
+                {
+                    "date": "2024-07-15",
+                    "description": "Withdrawal",
+                    "amount": 277.84,
+                    "transaction_id": 14095232
+                },
+                {
+                    "date": "2023-04-29",
+                    "description": "Withdrawal",
+                    "amount": 12493.32,
+                    "transaction_id": 19717538
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Withdrawal",
+                    "amount": 42222.19,
+                    "transaction_id": 29571010
+                },
+                {
+                    "date": "2024-08-10",
+                    "description": "Deposit",
+                    "amount": 37543.69,
+                    "transaction_id": 113389002
+                },
+                {
+                    "date": "2024-01-30",
+                    "description": "Deposit",
+                    "amount": 32763.23,
+                    "transaction_id": 79102002
+                }
+            ]
+        }
+    }
+}

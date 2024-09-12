@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Samantha Garcia",
+        "age": 86,
+        "gender": "female",
+        "address": "888 Goodman Haven, Aliciahaven, MS 25397",
+        "phone": "613-872-0609",
+        "email": "victoriahanson@example.net",
+        "account": {
+            "account_number": "b087f2a8-695f-4f5d-a3ec-93e4ecaa34b4",
+            "balance": 14983.06,
+            "transactions": [
+                {
+                    "date": "2023-10-08",
+                    "description": "Interest",
+                    "amount": 45865.54,
+                    "transaction_id": 112137377
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brandon White",
+        "age": 65,
+        "gender": "male",
+        "address": "5956 Daniel Field Apt. 228, Lake Tiffanyfort, MO 14822",
+        "phone": "9113012683",
+        "email": "erinhall@example.com",
+        "account": {
+            "account_number": "593528f7-abbd-4d2f-825c-abfbd70d43ae",
+            "balance": -47275.79,
+            "transactions": [
+                {
+                    "date": "2023-11-13",
+                    "description": "Withdrawal",
+                    "amount": 38.78,
+                    "transaction_id": 41667363
+                }
+            ]
+        }
+    }
+}

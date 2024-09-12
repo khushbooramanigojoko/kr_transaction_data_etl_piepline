@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kelli Webb",
+        "age": 27,
+        "gender": "male",
+        "address": "22787 Omar Throughway, North Pamela, LA 63589",
+        "phone": "(307)968-6198x84021",
+        "email": "walshrobert@example.com",
+        "account": {
+            "account_number": "d3f96877-dbd3-42d6-9d33-97bad1784419",
+            "balance": 33363.88,
+            "transactions": [
+                {
+                    "date": "2024-02-11",
+                    "description": "Deposit",
+                    "amount": 22377.39,
+                    "transaction_id": 52568515
+                }
+            ]
+        }
+    }
+}

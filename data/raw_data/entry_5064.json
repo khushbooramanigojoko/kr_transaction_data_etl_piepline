@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph Maldonado",
+        "age": 35,
+        "gender": "female",
+        "address": "6135 Matthew Route, South Joshua, WI 56217",
+        "phone": "+1-569-301-0436x690",
+        "email": "torresmichele@example.com",
+        "account": {
+            "account_number": "9ac70e23-c7d9-4d24-8f06-5ea5256df984",
+            "balance": 14543.06,
+            "transactions": [
+                {
+                    "date": "2023-02-16",
+                    "description": "Withdrawal",
+                    "amount": 15784.37,
+                    "transaction_id": 40829493
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Interest",
+                    "amount": 34441.6,
+                    "transaction_id": 42951944
+                },
+                {
+                    "date": "2023-01-31",
+                    "description": "Withdrawal",
+                    "amount": 15362.32,
+                    "transaction_id": 45684585
+                },
+                {
+                    "date": "2023-01-23",
+                    "description": "Interest",
+                    "amount": 32259.89,
+                    "transaction_id": 66108886
+                }
+            ]
+        }
+    }
+}

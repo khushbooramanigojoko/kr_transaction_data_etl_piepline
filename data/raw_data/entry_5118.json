@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Laura Andrews",
+        "age": 75,
+        "gender": "male",
+        "address": "PSC 6361, Box 5736, APO AA 46608",
+        "phone": "+1-399-652-0023",
+        "email": "joseph13@example.org",
+        "account": {
+            "account_number": "3864af3a-e0fb-4744-b842-23c3b3d781fc",
+            "balance": 45816.89,
+            "transactions": [
+                {
+                    "date": "2023-07-23",
+                    "description": "Deposit",
+                    "amount": 40414.4,
+                    "transaction_id": 30103875
+                },
+                {
+                    "date": "2023-07-12",
+                    "description": "Interest",
+                    "amount": 32072.76,
+                    "transaction_id": 79700566
+                },
+                {
+                    "date": "2023-05-20",
+                    "description": "Deposit",
+                    "amount": 14532.26,
+                    "transaction_id": 109013053
+                },
+                {
+                    "date": "2022-10-10",
+                    "description": "Withdrawal",
+                    "amount": 43369.39,
+                    "transaction_id": 56198858
+                }
+            ]
+        }
+    }
+}

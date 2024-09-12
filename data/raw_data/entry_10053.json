@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 60,
+        "gender": "female",
+        "address": "7195 Zachary River Apt. 921, East Bridget, NH 72824",
+        "phone": "525.298.7153",
+        "email": "christopher29@example.org",
+        "account": {
+            "account_number": "b62cbf0d-61f6-4dbb-8db6-a89bca0d73a6",
+            "balance": 38317.97,
+            "transactions": [
+                {
+                    "date": "2024-08-31",
+                    "description": "Withdrawal",
+                    "amount": -2936.66,
+                    "transaction_id": 67128990
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Interest",
+                    "amount": 3314.66,
+                    "transaction_id": 37185252
+                },
+                {
+                    "date": "2024-06-20",
+                    "description": "Interest",
+                    "amount": -1665.24,
+                    "transaction_id": 75418559
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Withdrawal",
+                    "amount": 364.48,
+                    "transaction_id": 89354219
+                }
+            ]
+        }
+    }
+}

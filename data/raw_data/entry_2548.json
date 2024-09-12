@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Gibson",
+        "age": 68,
+        "gender": "male",
+        "address": "00529 Heather Terrace, Bruceview, NE 17162",
+        "phone": "+1-305-367-1235x35852",
+        "email": "cbrooks@example.net",
+        "account": {
+            "account_number": "ac0d5994-ef3c-416f-a5b5-3b36de889f01",
+            "balance": 20492.25,
+            "transactions": [
+                {
+                    "date": "2023-04-22",
+                    "description": "Interest",
+                    "amount": 17513.99,
+                    "transaction_id": 66843736
+                },
+                {
+                    "date": "2022-09-30",
+                    "description": "Deposit",
+                    "amount": 7399.85,
+                    "transaction_id": 87804126
+                }
+            ]
+        }
+    }
+}

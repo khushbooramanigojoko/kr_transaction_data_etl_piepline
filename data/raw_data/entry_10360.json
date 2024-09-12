@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 46,
+        "gender": "male",
+        "address": "79192 Rodriguez Key Apt. 752, Port Robert, PW 79432",
+        "phone": "001-688-709-7648x8286",
+        "email": "wolfanthony@example.org",
+        "account": {
+            "account_number": "515e89fd-e823-4efd-9a00-bb353163d75e",
+            "balance": 17400.14,
+            "transactions": [
+                {
+                    "date": "2023-05-09",
+                    "description": "Deposit",
+                    "amount": -1335.4,
+                    "transaction_id": 102612585
+                }
+            ]
+        }
+    }
+}

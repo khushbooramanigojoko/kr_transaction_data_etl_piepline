@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Heidi Aguilar",
+        "age": 62,
+        "gender": "female",
+        "address": "PSC 8539, Box 6175, APO AA 37658",
+        "phone": "2874211510",
+        "email": "daniel72@example.com",
+        "account": {
+            "account_number": "97362988-94ca-4908-ae7d-c57e945c200e",
+            "balance": 11454.59,
+            "transactions": [
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": 15146.32,
+                    "transaction_id": 90271126
+                }
+            ]
+        }
+    }
+}

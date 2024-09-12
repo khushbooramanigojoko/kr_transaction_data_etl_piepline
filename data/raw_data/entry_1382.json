@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Heather Davis",
+        "age": 84,
+        "gender": "female",
+        "address": "8367 Hart Alley, North Mark, NH 15513",
+        "phone": "(656)876-7105x397",
+        "email": "gonzalezgeoffrey@example.com",
+        "account": {
+            "account_number": "4bc90130-7af4-43d5-aad8-f71560a3940a",
+            "balance": 11218.76,
+            "transactions": [
+                {
+                    "date": "2023-06-29",
+                    "description": "Interest",
+                    "amount": 36413.83,
+                    "transaction_id": 119278207
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jay Smith",
+        "age": 82,
+        "gender": "female",
+        "address": "431 Renee Flats, Powersville, HI 47568",
+        "phone": "379-725-0417x49666",
+        "email": "charlesmoore@example.net",
+        "account": {
+            "account_number": "b1b79f88-0c9c-4ba8-b7ec-f39a3418e6e9",
+            "balance": -27355.15,
+            "transactions": [
+                {
+                    "date": "2024-06-16",
+                    "description": "Interest",
+                    "amount": -230.92,
+                    "transaction_id": 11473319
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Deposit",
+                    "amount": -4228.55,
+                    "transaction_id": 25092540
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Withdrawal",
+                    "amount": 4290.09,
+                    "transaction_id": 8228880
+                },
+                {
+                    "date": "2022-11-07",
+                    "description": "Deposit",
+                    "amount": -1295.71,
+                    "transaction_id": 70955660
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Deposit",
+                    "amount": 495.36,
+                    "transaction_id": 47340319
+                }
+            ]
+        }
+    }
+}

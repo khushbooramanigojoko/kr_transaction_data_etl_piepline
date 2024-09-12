@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Rodriguez",
+        "age": 93,
+        "gender": "male",
+        "address": "354 Wade Flats Apt. 048, Jessicastad, VT 59402",
+        "phone": "4332026077",
+        "email": "bwhite@example.org",
+        "account": {
+            "account_number": "e2682949-0e71-4351-b06a-fb069ec26e96",
+            "balance": 39674.4,
+            "transactions": [
+                {
+                    "date": "2023-10-31",
+                    "description": "Withdrawal",
+                    "amount": 19542.63,
+                    "transaction_id": 49699780
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Withdrawal",
+                    "amount": 47206.47,
+                    "transaction_id": 65509830
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Interest",
+                    "amount": 42102.38,
+                    "transaction_id": 99416165
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Interest",
+                    "amount": 47094.83,
+                    "transaction_id": 18419980
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Deposit",
+                    "amount": 40735.91,
+                    "transaction_id": 119033794
+                }
+            ]
+        }
+    }
+}

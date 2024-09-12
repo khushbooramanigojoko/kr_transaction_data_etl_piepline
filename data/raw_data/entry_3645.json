@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Laura Williamson",
+        "age": 74,
+        "gender": "female",
+        "address": "4266 Dunlap Harbors Suite 948, Michaelborough, PA 10602",
+        "phone": "001-532-698-0262x096",
+        "email": "garciamelanie@example.net",
+        "account": {
+            "account_number": "dae5f609-12fe-4319-840a-92736d2b4f8c",
+            "balance": 19429.75,
+            "transactions": [
+                {
+                    "date": "2023-02-20",
+                    "description": "Deposit",
+                    "amount": 27400.22,
+                    "transaction_id": 119542744
+                },
+                {
+                    "date": "2023-12-29",
+                    "description": "Deposit",
+                    "amount": 10422.68,
+                    "transaction_id": 12894419
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Withdrawal",
+                    "amount": 20301.05,
+                    "transaction_id": 1205315
+                },
+                {
+                    "date": "2022-09-06",
+                    "description": "Interest",
+                    "amount": 19627.03,
+                    "transaction_id": 22177114
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Interest",
+                    "amount": 22666.57,
+                    "transaction_id": 68652120
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Duffy",
+        "age": 24,
+        "gender": "male",
+        "address": "13668 Wise Greens, East Sean, TX 65401",
+        "phone": "001-783-870-4193",
+        "email": "christopher50@example.org",
+        "account": {
+            "account_number": "77f76e04-0d58-4075-93f4-1cb7122ad0d3",
+            "balance": 24956.33,
+            "transactions": [
+                {
+                    "date": "2023-01-01",
+                    "description": "Withdrawal",
+                    "amount": 48657.17,
+                    "transaction_id": 23419196
+                }
+            ]
+        }
+    }
+}

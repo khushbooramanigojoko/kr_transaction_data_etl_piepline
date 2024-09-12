@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Emily Conner",
+        "age": 32,
+        "gender": "male",
+        "address": "98409 Howell Trafficway, Rebeccahaven, TN 23282",
+        "phone": "+1-855-812-6058",
+        "email": "savannah43@example.com",
+        "account": {
+            "account_number": "9349bb35-4672-4dbc-8b5c-00b2515ac72c",
+            "balance": 3323.28,
+            "transactions": [
+                {
+                    "date": "2023-08-04",
+                    "description": "Interest",
+                    "amount": 11150.41,
+                    "transaction_id": 17474631
+                },
+                {
+                    "date": "2024-03-07",
+                    "description": "Deposit",
+                    "amount": 26539.36,
+                    "transaction_id": 7560836
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Deposit",
+                    "amount": 39487.63,
+                    "transaction_id": 111426320
+                },
+                {
+                    "date": "2023-05-07",
+                    "description": "Deposit",
+                    "amount": 427.26,
+                    "transaction_id": 72634588
+                }
+            ]
+        }
+    }
+}

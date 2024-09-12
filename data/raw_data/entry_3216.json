@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Victor Rivera",
+        "age": 75,
+        "gender": "male",
+        "address": "56406 Samantha Expressway, Taraville, NM 55180",
+        "phone": "+1-533-963-8274x06804",
+        "email": "scottcampbell@example.net",
+        "account": {
+            "account_number": "6ac4bbc2-13f1-4c6d-b185-fa418e3fc2df",
+            "balance": 38450.61,
+            "transactions": [
+                {
+                    "date": "2023-11-10",
+                    "description": "Deposit",
+                    "amount": 5642.85,
+                    "transaction_id": 73841679
+                },
+                {
+                    "date": "2022-10-27",
+                    "description": "Interest",
+                    "amount": 45494.86,
+                    "transaction_id": 35941286
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Withdrawal",
+                    "amount": 34467.49,
+                    "transaction_id": 27241271
+                }
+            ]
+        }
+    }
+}

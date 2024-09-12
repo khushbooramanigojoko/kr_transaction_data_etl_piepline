@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Pamela Elliott",
+        "age": 72,
+        "gender": "female",
+        "address": "USCGC Smith, FPO AA 65413",
+        "phone": "(470)718-8392",
+        "email": "wmoore@example.net",
+        "account": {
+            "account_number": "686a995f-9ceb-4406-98e9-fc163c531ca7",
+            "balance": -36154.25,
+            "transactions": [
+                {
+                    "date": "2023-08-23",
+                    "description": "Deposit",
+                    "amount": -47.94,
+                    "transaction_id": 51314340
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Deposit",
+                    "amount": 1546.4,
+                    "transaction_id": 48014516
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Deposit",
+                    "amount": -1052.46,
+                    "transaction_id": 33124880
+                },
+                {
+                    "date": "2023-11-16",
+                    "description": "Withdrawal",
+                    "amount": -1256.95,
+                    "transaction_id": 2758856
+                }
+            ]
+        }
+    }
+}

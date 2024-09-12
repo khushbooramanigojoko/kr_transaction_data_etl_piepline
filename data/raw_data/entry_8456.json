@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Gary Brown",
+        "age": 28,
+        "gender": "female",
+        "address": "154 Paul Harbors, North Courtney, CT 19984",
+        "phone": "505-639-7371x928",
+        "email": "jessica36@example.com",
+        "account": {
+            "account_number": "6678a9f5-f178-4941-b9eb-5d810bb94977",
+            "balance": 26651.63,
+            "transactions": [
+                {
+                    "date": "2024-04-20",
+                    "description": "Deposit",
+                    "amount": 47865.8,
+                    "transaction_id": 112220702
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Deposit",
+                    "amount": 26583.34,
+                    "transaction_id": 52717983
+                },
+                {
+                    "date": "2024-01-27",
+                    "description": "Deposit",
+                    "amount": 45416.64,
+                    "transaction_id": 24328535
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Withdrawal",
+                    "amount": 42930.14,
+                    "transaction_id": 102195188
+                },
+                {
+                    "date": "2022-11-01",
+                    "description": "Deposit",
+                    "amount": 13282.49,
+                    "transaction_id": 40648326
+                }
+            ]
+        }
+    }
+}

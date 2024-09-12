@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Valerie Chan",
+        "age": 95,
+        "gender": "female",
+        "address": "717 Farmer Light, South Ryan, AL 07413",
+        "phone": "299.377.4723",
+        "email": "jasonward@example.com",
+        "account": {
+            "account_number": "93380cf0-c5a3-4f48-ab05-34fed717d015",
+            "balance": 26263.04,
+            "transactions": [
+                {
+                    "date": "2024-01-08",
+                    "description": "Deposit",
+                    "amount": 43527.0,
+                    "transaction_id": 81984807
+                },
+                {
+                    "date": "2022-09-05",
+                    "description": "Withdrawal",
+                    "amount": 24963.33,
+                    "transaction_id": 104994015
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Interest",
+                    "amount": 10998.33,
+                    "transaction_id": 56660156
+                },
+                {
+                    "date": "2024-05-21",
+                    "description": "Interest",
+                    "amount": 43387.56,
+                    "transaction_id": 100960498
+                }
+            ]
+        }
+    }
+}

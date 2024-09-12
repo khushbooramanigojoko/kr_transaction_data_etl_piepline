@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lisa Strong",
+        "age": 76,
+        "gender": "female",
+        "address": "PSC 8869, Box 8125, APO AP 86349",
+        "phone": "9245846092",
+        "email": "valdezjeffrey@example.org",
+        "account": {
+            "account_number": "fac7e342-8002-4c3e-9ff5-18fb6c19577d",
+            "balance": 1370.55,
+            "transactions": [
+                {
+                    "date": "2024-08-25",
+                    "description": "Interest",
+                    "amount": 11540.07,
+                    "transaction_id": 86150694
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Interest",
+                    "amount": 35205.02,
+                    "transaction_id": 71750241
+                }
+            ]
+        }
+    }
+}

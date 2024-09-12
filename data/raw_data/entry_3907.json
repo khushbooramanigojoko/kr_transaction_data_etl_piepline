@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christine Hammond",
+        "age": 64,
+        "gender": "female",
+        "address": "1250 Edwards Glens Suite 281, Cruzton, NC 14583",
+        "phone": "(463)610-7948x91219",
+        "email": "jeffreysmith@example.net",
+        "account": {
+            "account_number": "a3f73141-b9e4-484f-9869-7d74dd0af722",
+            "balance": 14951.31,
+            "transactions": [
+                {
+                    "date": "2023-09-26",
+                    "description": "Deposit",
+                    "amount": 14900.04,
+                    "transaction_id": 73194180
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Deposit",
+                    "amount": 8956.55,
+                    "transaction_id": 113600641
+                }
+            ]
+        }
+    }
+}

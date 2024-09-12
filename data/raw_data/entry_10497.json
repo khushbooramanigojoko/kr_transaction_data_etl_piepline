@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 32,
+        "gender": "male",
+        "address": "Unit 6130 Box 7526, DPO AA 14805",
+        "phone": "705-238-6822x142",
+        "email": "christinaestes@example.org",
+        "account": {
+            "account_number": "c726c2b0-7b8c-4de1-a54b-3adb3218523d",
+            "balance": 41849.57,
+            "transactions": [
+                {
+                    "date": "2023-07-03",
+                    "description": "Interest",
+                    "amount": -3381.2,
+                    "transaction_id": 48666968
+                },
+                {
+                    "date": "2023-04-29",
+                    "description": "Deposit",
+                    "amount": -3187.21,
+                    "transaction_id": 111416279
+                }
+            ]
+        }
+    }
+}

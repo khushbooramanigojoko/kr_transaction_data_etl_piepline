@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jeremiah Harvey",
+        "age": 54,
+        "gender": "female",
+        "address": "505 Brown Fort Suite 203, Katherinemouth, SC 88674",
+        "phone": "001-640-825-2341x33674",
+        "email": "idavis@example.net",
+        "account": {
+            "account_number": "44a14a4a-40d1-4a20-a22b-b0c473b26ddc",
+            "balance": 18249.9,
+            "transactions": [
+                {
+                    "date": "2023-07-11",
+                    "description": "Withdrawal",
+                    "amount": 9250.79,
+                    "transaction_id": 23177332
+                },
+                {
+                    "date": "2024-03-22",
+                    "description": "Interest",
+                    "amount": 12935.41,
+                    "transaction_id": 76061215
+                },
+                {
+                    "date": "2023-09-06",
+                    "description": "Deposit",
+                    "amount": 34087.85,
+                    "transaction_id": 91652309
+                }
+            ]
+        }
+    }
+}

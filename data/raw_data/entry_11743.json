@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nathan Zamora",
+        "age": 63,
+        "gender": "male",
+        "address": "PSC 9901, Box 8737, APO AE 94099",
+        "phone": "+1-445-933-9344",
+        "email": "mark56@example.com",
+        "account": {
+            "account_number": "e2117627-3f89-4852-9665-af62df5ddedc",
+            "balance": -5871.63,
+            "transactions": [
+                {
+                    "date": "2024-03-30",
+                    "description": "Withdrawal",
+                    "amount": -2468.82,
+                    "transaction_id": 109538912
+                },
+                {
+                    "date": "2023-06-03",
+                    "description": "Withdrawal",
+                    "amount": 3435.55,
+                    "transaction_id": 60978316
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Withdrawal",
+                    "amount": 3240.68,
+                    "transaction_id": 41547007
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Withdrawal",
+                    "amount": -3350.82,
+                    "transaction_id": 65927140
+                },
+                {
+                    "date": "2024-01-25",
+                    "description": "Interest",
+                    "amount": 1796.07,
+                    "transaction_id": 115753466
+                }
+            ]
+        }
+    }
+}

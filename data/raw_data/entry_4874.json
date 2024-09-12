@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Keith Merritt",
+        "age": 70,
+        "gender": "female",
+        "address": "1879 Williams Road Suite 846, North Susanside, TX 04169",
+        "phone": "(901)369-8998x1638",
+        "email": "charles04@example.org",
+        "account": {
+            "account_number": "a3ed06f5-e312-4d16-9329-c38a0934aa2f",
+            "balance": 33068.53,
+            "transactions": [
+                {
+                    "date": "2024-06-06",
+                    "description": "Withdrawal",
+                    "amount": 3008.25,
+                    "transaction_id": 6464902
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Deposit",
+                    "amount": 3025.61,
+                    "transaction_id": 67873592
+                }
+            ]
+        }
+    }
+}

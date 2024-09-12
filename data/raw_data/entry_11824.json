@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 72,
+        "gender": "female",
+        "address": "813 Sara Ferry Apt. 535, Port Angelview, WV 26073",
+        "phone": "5058728116",
+        "email": "nancyrasmussen@example.com",
+        "account": {
+            "account_number": "e7ddad70-40f1-45d4-981c-4d367099b43f",
+            "balance": 27033.4,
+            "transactions": [
+                {
+                    "date": "2023-08-22",
+                    "description": "Withdrawal",
+                    "amount": 2392.59,
+                    "transaction_id": 68256088
+                },
+                {
+                    "date": "2023-09-30",
+                    "description": "Deposit",
+                    "amount": -148.56,
+                    "transaction_id": 18696964
+                }
+            ]
+        }
+    }
+}

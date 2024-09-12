@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Amber Smith",
+        "age": 45,
+        "gender": "male",
+        "address": "19271 Erica Mountains, Port Henry, WI 84268",
+        "phone": "233.827.7793",
+        "email": "joseph66@example.net",
+        "account": {
+            "account_number": "af6b4d9d-df66-4438-b63c-a528d91aedc5",
+            "balance": 20499.12,
+            "transactions": [
+                {
+                    "date": "2022-09-27",
+                    "description": "Withdrawal",
+                    "amount": 36544.34,
+                    "transaction_id": 102488825
+                },
+                {
+                    "date": "2023-08-30",
+                    "description": "Deposit",
+                    "amount": 44120.94,
+                    "transaction_id": 100077620
+                },
+                {
+                    "date": "2023-01-08",
+                    "description": "Deposit",
+                    "amount": 6905.57,
+                    "transaction_id": 108382299
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Interest",
+                    "amount": 161.34,
+                    "transaction_id": 53781105
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Withdrawal",
+                    "amount": 9823.11,
+                    "transaction_id": 7493238
+                }
+            ]
+        }
+    }
+}

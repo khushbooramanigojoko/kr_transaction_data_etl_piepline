@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Russell Walters",
+        "age": 80,
+        "gender": "male",
+        "address": "5383 Brown Mountain Suite 033, Codyhaven, WY 09269",
+        "phone": "989-368-5666",
+        "email": "wendymiller@example.net",
+        "account": {
+            "account_number": "2b553626-2d1f-4abd-8ae5-d21ab2fe1444",
+            "balance": -35880.19,
+            "transactions": [
+                {
+                    "date": "2023-05-27",
+                    "description": "Interest",
+                    "amount": 1034.97,
+                    "transaction_id": 37764044
+                },
+                {
+                    "date": "2023-12-19",
+                    "description": "Withdrawal",
+                    "amount": -4130.42,
+                    "transaction_id": 24019817
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Deposit",
+                    "amount": -2206.84,
+                    "transaction_id": 61379235
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Interest",
+                    "amount": 1837.57,
+                    "transaction_id": 83208240
+                },
+                {
+                    "date": "2023-05-20",
+                    "description": "Withdrawal",
+                    "amount": -3396.52,
+                    "transaction_id": 103499768
+                }
+            ]
+        }
+    }
+}

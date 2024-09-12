@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 49,
+        "gender": "male",
+        "address": "3956 Flores Valleys, North Juliabury, UT 08330",
+        "phone": "+1-684-513-3090",
+        "email": "john39@example.org",
+        "account": {
+            "account_number": "577e3bfd-1e6c-453a-b538-be3f7c8dfe9a",
+            "balance": 36580.22,
+            "transactions": [
+                {
+                    "date": "2023-05-30",
+                    "description": "Deposit",
+                    "amount": -1836.83,
+                    "transaction_id": 53783995
+                },
+                {
+                    "date": "2023-09-21",
+                    "description": "Deposit",
+                    "amount": 2010.9,
+                    "transaction_id": 83186065
+                }
+            ]
+        }
+    }
+}

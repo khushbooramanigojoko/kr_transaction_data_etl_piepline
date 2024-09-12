@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Russell Hill",
+        "age": 79,
+        "gender": "female",
+        "address": "2067 Austin Turnpike Apt. 920, Jefferyside, AZ 80555",
+        "phone": "+1-651-377-3445x449",
+        "email": "weeksricardo@example.org",
+        "account": {
+            "account_number": "98086213-709a-47ed-9bf8-1ce0f47f7d6d",
+            "balance": 44837.45,
+            "transactions": [
+                {
+                    "date": "2023-05-02",
+                    "description": "Deposit",
+                    "amount": 8090.25,
+                    "transaction_id": 91883916
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Deposit",
+                    "amount": 18428.25,
+                    "transaction_id": 90205403
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Deposit",
+                    "amount": 39670.32,
+                    "transaction_id": 55663853
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Withdrawal",
+                    "amount": 9754.14,
+                    "transaction_id": 118760523
+                },
+                {
+                    "date": "2024-03-14",
+                    "description": "Deposit",
+                    "amount": 16616.83,
+                    "transaction_id": 42574398
+                }
+            ]
+        }
+    }
+}

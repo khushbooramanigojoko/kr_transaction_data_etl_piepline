@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 97,
+        "gender": "male",
+        "address": "99125 Mcclure Radial, East Lisaburgh, MP 31911",
+        "phone": "923.621.1028x144",
+        "email": "bsolis@example.net",
+        "account": {
+            "account_number": "08df7f4f-8f8c-4b4d-8d37-b7aa44c8d9ad",
+            "balance": 16203.19,
+            "transactions": [
+                {
+                    "date": "2022-10-01",
+                    "description": "Interest",
+                    "amount": -3082.88,
+                    "transaction_id": 95379256
+                },
+                {
+                    "date": "2023-10-19",
+                    "description": "Withdrawal",
+                    "amount": -3300.46,
+                    "transaction_id": 79155846
+                },
+                {
+                    "date": "2022-11-24",
+                    "description": "Withdrawal",
+                    "amount": -94.21,
+                    "transaction_id": 57863127
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Withdrawal",
+                    "amount": -3278.49,
+                    "transaction_id": 35984867
+                },
+                {
+                    "date": "2023-11-08",
+                    "description": "Deposit",
+                    "amount": -4427.06,
+                    "transaction_id": 51816876
+                }
+            ]
+        }
+    }
+}

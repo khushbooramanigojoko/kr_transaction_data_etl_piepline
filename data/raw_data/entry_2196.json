@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Thomas Hodges",
+        "age": 45,
+        "gender": "female",
+        "address": "278 Brandon Causeway Suite 856, Lopezchester, MD 16576",
+        "phone": "913-654-8210x73548",
+        "email": "wileyrachel@example.net",
+        "account": {
+            "account_number": "e58da805-58a1-4109-978a-4bac1fc4ffc5",
+            "balance": 24204.57,
+            "transactions": [
+                {
+                    "date": "2023-07-29",
+                    "description": "Interest",
+                    "amount": 35284.68,
+                    "transaction_id": 87476781
+                },
+                {
+                    "date": "2023-01-26",
+                    "description": "Deposit",
+                    "amount": 27598.85,
+                    "transaction_id": 75486801
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Deposit",
+                    "amount": 24570.49,
+                    "transaction_id": 30236632
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Deposit",
+                    "amount": 28674.47,
+                    "transaction_id": 4857711
+                },
+                {
+                    "date": "2024-02-11",
+                    "description": "Interest",
+                    "amount": 11396.59,
+                    "transaction_id": 115772154
+                }
+            ]
+        }
+    }
+}

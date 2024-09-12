@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jeremy Adams",
+        "age": 86,
+        "gender": "male",
+        "address": "996 Reed Manors, Martinborough, NC 23333",
+        "phone": "+1-857-831-9312x111",
+        "email": "jesusshaw@example.org",
+        "account": {
+            "account_number": "977c389e-3c93-46da-8ad0-d7253a799fb4",
+            "balance": 13319.96,
+            "transactions": [
+                {
+                    "date": "2023-12-04",
+                    "description": "Interest",
+                    "amount": 44259.44,
+                    "transaction_id": 2937609
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Deposit",
+                    "amount": 41681.9,
+                    "transaction_id": 66546424
+                },
+                {
+                    "date": "2024-05-27",
+                    "description": "Deposit",
+                    "amount": 36188.89,
+                    "transaction_id": 114049698
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Deposit",
+                    "amount": 41889.55,
+                    "transaction_id": 4682480
+                }
+            ]
+        }
+    }
+}

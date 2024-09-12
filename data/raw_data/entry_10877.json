@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 50,
+        "gender": "female",
+        "address": "PSC 1226, Box 2652, APO AE 74359",
+        "phone": "715.263.8807x558",
+        "email": "singletonlauren@example.com",
+        "account": {
+            "account_number": "9052208e-705d-46fd-b08b-d65a791f912c",
+            "balance": 26868.97,
+            "transactions": [
+                {
+                    "date": "2023-05-06",
+                    "description": "Deposit",
+                    "amount": -4046.02,
+                    "transaction_id": 20209117
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Withdrawal",
+                    "amount": -3502.85,
+                    "transaction_id": 81703778
+                }
+            ]
+        }
+    }
+}

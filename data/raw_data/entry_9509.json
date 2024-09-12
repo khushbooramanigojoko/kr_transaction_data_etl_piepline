@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 20,
+        "gender": "male",
+        "address": "USS Luna, FPO AA 66644",
+        "phone": "(503)543-0268",
+        "email": "bjohnson@example.net",
+        "account": {
+            "account_number": "33bab9ac-ed99-4e8a-a800-086f0d08e314",
+            "balance": 39081.0,
+            "transactions": [
+                {
+                    "date": "2023-08-29",
+                    "description": "Withdrawal",
+                    "amount": -1335.29,
+                    "transaction_id": 64875347
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": -2000.89,
+                    "transaction_id": 118255727
+                },
+                {
+                    "date": "2023-03-29",
+                    "description": "Deposit",
+                    "amount": -1503.71,
+                    "transaction_id": 75560796
+                },
+                {
+                    "date": "2023-08-17",
+                    "description": "Deposit",
+                    "amount": 4510.09,
+                    "transaction_id": 82576761
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Deposit",
+                    "amount": -852.15,
+                    "transaction_id": 110909534
+                }
+            ]
+        }
+    }
+}

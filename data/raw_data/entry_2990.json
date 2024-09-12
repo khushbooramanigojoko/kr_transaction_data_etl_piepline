@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jonathan Smith",
+        "age": 78,
+        "gender": "male",
+        "address": "USS Maxwell, FPO AP 64031",
+        "phone": "+1-402-723-0449x6819",
+        "email": "lauracarter@example.com",
+        "account": {
+            "account_number": "38e983d2-ed68-4cd0-bd17-e8f3b5d06b9f",
+            "balance": 16205.56,
+            "transactions": [
+                {
+                    "date": "2024-07-31",
+                    "description": "Withdrawal",
+                    "amount": 32423.11,
+                    "transaction_id": 33338267
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rachel Pearson",
+        "age": 71,
+        "gender": "male",
+        "address": "74219 Emily Springs Suite 060, South Donald, CO 89804",
+        "phone": "5692039865",
+        "email": "wromero@example.net",
+        "account": {
+            "account_number": "dc4c66db-1cf7-43a2-ba45-23b035f9bcb3",
+            "balance": 17285.13,
+            "transactions": [
+                {
+                    "date": "2023-07-30",
+                    "description": "Deposit",
+                    "amount": 31974.37,
+                    "transaction_id": 22907849
+                }
+            ]
+        }
+    }
+}

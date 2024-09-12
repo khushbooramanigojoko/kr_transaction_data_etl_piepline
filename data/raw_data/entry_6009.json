@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Chelsea Rose",
+        "age": 48,
+        "gender": "female",
+        "address": "270 Rocha Trail Suite 824, Campbellchester, LA 80397",
+        "phone": "(732)567-5294",
+        "email": "bsmith@example.com",
+        "account": {
+            "account_number": "6ef73bba-92a7-41e5-b96f-3d93497c4574",
+            "balance": 38009.9,
+            "transactions": [
+                {
+                    "date": "2022-11-18",
+                    "description": "Withdrawal",
+                    "amount": 47052.65,
+                    "transaction_id": 82298063
+                }
+            ]
+        }
+    }
+}

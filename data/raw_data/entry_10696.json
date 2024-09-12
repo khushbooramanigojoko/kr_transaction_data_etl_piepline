@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Luis Wallace",
+        "age": 53,
+        "gender": "female",
+        "address": "9972 Grant Valleys, Kevinshire, KY 75957",
+        "phone": "990.315.1293x35479",
+        "email": "millerbrittney@example.net",
+        "account": {
+            "account_number": "5e34634e-2169-4039-b937-fe48b49c209f",
+            "balance": -4142.26,
+            "transactions": [
+                {
+                    "date": "2024-04-13",
+                    "description": "Deposit",
+                    "amount": 4860.16,
+                    "transaction_id": 108880324
+                },
+                {
+                    "date": "2024-05-17",
+                    "description": "Withdrawal",
+                    "amount": 2607.55,
+                    "transaction_id": 91866311
+                }
+            ]
+        }
+    }
+}

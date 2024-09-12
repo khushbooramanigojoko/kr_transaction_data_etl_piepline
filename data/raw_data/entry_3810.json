@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Evelyn Paul",
+        "age": 37,
+        "gender": "male",
+        "address": "73363 Cain Drive, South Staceyhaven, MN 72972",
+        "phone": "480.414.4024x4604",
+        "email": "whiteheather@example.com",
+        "account": {
+            "account_number": "a0fab987-9a63-4c0e-b1d3-8b107d778348",
+            "balance": 43041.8,
+            "transactions": [
+                {
+                    "date": "2023-06-19",
+                    "description": "Deposit",
+                    "amount": 7209.51,
+                    "transaction_id": 3160450
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Interest",
+                    "amount": 26626.19,
+                    "transaction_id": 97333829
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Deposit",
+                    "amount": 7380.82,
+                    "transaction_id": 2796465
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Withdrawal",
+                    "amount": 25441.64,
+                    "transaction_id": 25638857
+                }
+            ]
+        }
+    }
+}

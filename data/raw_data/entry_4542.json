@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Richard Reed",
+        "age": 77,
+        "gender": "female",
+        "address": "7805 Burns Crescent, Dannymouth, MT 45876",
+        "phone": "8104368846",
+        "email": "petercunningham@example.net",
+        "account": {
+            "account_number": "af1e7aec-05d5-476b-95de-8c9f3fd66e8e",
+            "balance": 25190.97,
+            "transactions": [
+                {
+                    "date": "2023-11-08",
+                    "description": "Deposit",
+                    "amount": 26524.35,
+                    "transaction_id": 114751392
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Deposit",
+                    "amount": 23135.05,
+                    "transaction_id": 116605259
+                }
+            ]
+        }
+    }
+}

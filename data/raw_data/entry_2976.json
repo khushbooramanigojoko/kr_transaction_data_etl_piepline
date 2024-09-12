@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Krista Perez",
+        "age": 50,
+        "gender": "male",
+        "address": "4578 Bell Squares, Cindyton, PR 83385",
+        "phone": "2705484177",
+        "email": "rramirez@example.net",
+        "account": {
+            "account_number": "6c19081a-589e-4343-b875-e5b0b61459e3",
+            "balance": 26528.52,
+            "transactions": [
+                {
+                    "date": "2023-01-05",
+                    "description": "Deposit",
+                    "amount": 34973.68,
+                    "transaction_id": 58707367
+                },
+                {
+                    "date": "2024-07-21",
+                    "description": "Deposit",
+                    "amount": 6168.41,
+                    "transaction_id": 3444666
+                }
+            ]
+        }
+    }
+}

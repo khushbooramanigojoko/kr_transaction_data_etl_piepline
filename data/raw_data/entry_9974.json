@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 86,
+        "gender": "female",
+        "address": "2563 Ramirez Gardens Apt. 005, Stewartland, MT 51759",
+        "phone": "7889768264",
+        "email": "kristen02@example.org",
+        "account": {
+            "account_number": "0cb56443-db5c-4555-be46-ca782adfb523",
+            "balance": 31402.7,
+            "transactions": [
+                {
+                    "date": "2022-12-07",
+                    "description": "Withdrawal",
+                    "amount": 3123.73,
+                    "transaction_id": 32508828
+                },
+                {
+                    "date": "2024-03-22",
+                    "description": "Interest",
+                    "amount": -1866.75,
+                    "transaction_id": 79539103
+                }
+            ]
+        }
+    }
+}

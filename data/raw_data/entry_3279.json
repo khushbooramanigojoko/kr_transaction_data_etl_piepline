@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Knight",
+        "age": 26,
+        "gender": "female",
+        "address": "Unit 9468 Box 8556, DPO AP 04788",
+        "phone": "+1-730-469-0094x960",
+        "email": "nstewart@example.net",
+        "account": {
+            "account_number": "982c3d62-bc69-45ce-aedc-4e92f389cc4b",
+            "balance": 43184.72,
+            "transactions": [
+                {
+                    "date": "2024-02-27",
+                    "description": "Deposit",
+                    "amount": 5032.75,
+                    "transaction_id": 4682353
+                },
+                {
+                    "date": "2024-07-07",
+                    "description": "Deposit",
+                    "amount": 34332.75,
+                    "transaction_id": 41102824
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Deposit",
+                    "amount": 30276.51,
+                    "transaction_id": 19813707
+                },
+                {
+                    "date": "2023-02-03",
+                    "description": "Deposit",
+                    "amount": 7336.42,
+                    "transaction_id": 85276918
+                }
+            ]
+        }
+    }
+}

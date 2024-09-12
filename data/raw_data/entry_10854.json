@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph Morgan",
+        "age": 36,
+        "gender": "male",
+        "address": "547 Amanda Dale, North Jodiport, UT 37034",
+        "phone": "260-877-0580",
+        "email": "daniel19@example.com",
+        "account": {
+            "account_number": "6cccf8f3-6c88-4ec1-b2cb-401d04abbe55",
+            "balance": -5518.17,
+            "transactions": [
+                {
+                    "date": "2023-12-29",
+                    "description": "Withdrawal",
+                    "amount": -2745.06,
+                    "transaction_id": 64356640
+                },
+                {
+                    "date": "2024-03-01",
+                    "description": "Interest",
+                    "amount": 1919.86,
+                    "transaction_id": 17218870
+                },
+                {
+                    "date": "2024-02-18",
+                    "description": "Interest",
+                    "amount": -2828.94,
+                    "transaction_id": 117709875
+                },
+                {
+                    "date": "2023-04-26",
+                    "description": "Interest",
+                    "amount": 2008.48,
+                    "transaction_id": 59446759
+                }
+            ]
+        }
+    }
+}

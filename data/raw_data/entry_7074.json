@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Deborah Mejia",
+        "age": 21,
+        "gender": "male",
+        "address": "350 Susan Neck Apt. 530, Cantrellport, CA 17366",
+        "phone": "426.928.9149",
+        "email": "sotomackenzie@example.org",
+        "account": {
+            "account_number": "b11e7215-9179-4630-8206-1c38dd0b5a58",
+            "balance": 44458.72,
+            "transactions": [
+                {
+                    "date": "2023-10-01",
+                    "description": "Interest",
+                    "amount": 39814.18,
+                    "transaction_id": 27383134
+                }
+            ]
+        }
+    }
+}

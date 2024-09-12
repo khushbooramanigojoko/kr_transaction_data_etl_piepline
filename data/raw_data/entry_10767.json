@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Warren Pittman",
+        "age": 65,
+        "gender": "female",
+        "address": "3721 Anthony Mountains, Kimberlychester, VT 77984",
+        "phone": "(910)277-9011x6821",
+        "email": "kathyrivas@example.net",
+        "account": {
+            "account_number": "f24876d3-dea0-4263-b28e-e24bef2dd806",
+            "balance": -14388.6,
+            "transactions": [
+                {
+                    "date": "2023-05-16",
+                    "description": "Interest",
+                    "amount": -4486.11,
+                    "transaction_id": 93727602
+                },
+                {
+                    "date": "2023-03-08",
+                    "description": "Deposit",
+                    "amount": -3744.03,
+                    "transaction_id": 88208590
+                }
+            ]
+        }
+    }
+}

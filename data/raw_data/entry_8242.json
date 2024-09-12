@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Madeline Scott",
+        "age": 55,
+        "gender": "female",
+        "address": "2246 Brown Crest Suite 898, East Sergio, NM 61971",
+        "phone": "(563)454-9647",
+        "email": "jenniferfields@example.net",
+        "account": {
+            "account_number": "132f0027-046f-491b-ac08-ce6bcd436ef9",
+            "balance": 34598.44,
+            "transactions": [
+                {
+                    "date": "2023-07-16",
+                    "description": "Withdrawal",
+                    "amount": 1926.16,
+                    "transaction_id": 94245892
+                },
+                {
+                    "date": "2024-06-01",
+                    "description": "Interest",
+                    "amount": 10787.02,
+                    "transaction_id": 98087382
+                }
+            ]
+        }
+    }
+}

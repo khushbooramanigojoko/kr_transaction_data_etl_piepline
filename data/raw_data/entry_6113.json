@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jason Hardin",
+        "age": 99,
+        "gender": "female",
+        "address": "05201 Nicholas Course, Lake Michelle, IL 49125",
+        "phone": "973.828.3674x41953",
+        "email": "katherine95@example.org",
+        "account": {
+            "account_number": "5045f9a1-b870-49e1-89bf-ee121db9bb67",
+            "balance": 12939.04,
+            "transactions": [
+                {
+                    "date": "2024-08-25",
+                    "description": "Deposit",
+                    "amount": 8871.53,
+                    "transaction_id": 18395888
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Withdrawal",
+                    "amount": 4975.03,
+                    "transaction_id": 21640035
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Interest",
+                    "amount": 29903.37,
+                    "transaction_id": 55761565
+                },
+                {
+                    "date": "2024-08-22",
+                    "description": "Deposit",
+                    "amount": 46846.77,
+                    "transaction_id": 58190742
+                }
+            ]
+        }
+    }
+}

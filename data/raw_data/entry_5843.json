@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brian Murphy",
+        "age": 83,
+        "gender": "male",
+        "address": "38252 Shannon Stravenue Suite 782, South Dianabury, WV 94382",
+        "phone": "001-216-471-2533",
+        "email": "tadkins@example.org",
+        "account": {
+            "account_number": "0e1df09b-3423-424c-9eca-1e6011179ca3",
+            "balance": 29688.99,
+            "transactions": [
+                {
+                    "date": "2022-09-28",
+                    "description": "Deposit",
+                    "amount": 46110.1,
+                    "transaction_id": 91164926
+                },
+                {
+                    "date": "2024-01-09",
+                    "description": "Interest",
+                    "amount": 8546.35,
+                    "transaction_id": 47257391
+                }
+            ]
+        }
+    }
+}

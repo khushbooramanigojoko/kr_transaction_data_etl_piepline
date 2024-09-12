@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Matthew Miller",
+        "age": 99,
+        "gender": "male",
+        "address": "8080 Mark Port Apt. 890, New Kathleen, FM 09193",
+        "phone": "+1-618-816-5224x313",
+        "email": "luis37@example.com",
+        "account": {
+            "account_number": "caa8ad60-76b5-4be9-a5ef-a9b960997e49",
+            "balance": 21835.77,
+            "transactions": [
+                {
+                    "date": "2024-01-02",
+                    "description": "Interest",
+                    "amount": 5591.08,
+                    "transaction_id": 55686621
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Deposit",
+                    "amount": 40011.3,
+                    "transaction_id": 2459553
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Withdrawal",
+                    "amount": 36371.54,
+                    "transaction_id": 29345858
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Interest",
+                    "amount": 31632.29,
+                    "transaction_id": 99527191
+                }
+            ]
+        }
+    }
+}

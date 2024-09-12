@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jennifer Bridges",
+        "age": 36,
+        "gender": "male",
+        "address": "025 Zuniga Fort, Ashleyside, VA 74083",
+        "phone": "(634)767-2514",
+        "email": "stewartmaxwell@example.com",
+        "account": {
+            "account_number": "7ee13164-62e6-42d0-b035-7d6342560d8d",
+            "balance": 49691.04,
+            "transactions": [
+                {
+                    "date": "2023-06-13",
+                    "description": "Interest",
+                    "amount": 48798.32,
+                    "transaction_id": 79323521
+                }
+            ]
+        }
+    }
+}

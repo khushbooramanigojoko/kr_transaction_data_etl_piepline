@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Christopher Garza",
+        "age": 86,
+        "gender": "male",
+        "address": "98105 Leonard Squares, Andrealand, SC 78607",
+        "phone": "833.919.4482",
+        "email": "caldwelljoseph@example.org",
+        "account": {
+            "account_number": "36d65be6-d146-4f68-a452-6e19189fbde5",
+            "balance": -24105.42,
+            "transactions": [
+                {
+                    "date": "2022-10-03",
+                    "description": "Withdrawal",
+                    "amount": -1770.84,
+                    "transaction_id": 6323078
+                },
+                {
+                    "date": "2022-09-19",
+                    "description": "Interest",
+                    "amount": -1391.91,
+                    "transaction_id": 78056313
+                },
+                {
+                    "date": "2023-10-31",
+                    "description": "Interest",
+                    "amount": 4604.66,
+                    "transaction_id": 6644845
+                }
+            ]
+        }
+    }
+}

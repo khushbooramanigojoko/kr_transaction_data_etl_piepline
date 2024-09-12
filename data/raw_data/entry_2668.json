@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Justin Wong",
+        "age": 38,
+        "gender": "male",
+        "address": "4314 Heather Common, North Rebeccafort, TX 62887",
+        "phone": "258.555.1346x370",
+        "email": "jmartin@example.net",
+        "account": {
+            "account_number": "51216522-9e41-4ac8-8200-b8bfa97c93be",
+            "balance": 47684.95,
+            "transactions": [
+                {
+                    "date": "2023-04-17",
+                    "description": "Interest",
+                    "amount": 39892.35,
+                    "transaction_id": 4748530
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Withdrawal",
+                    "amount": 39081.15,
+                    "transaction_id": 21768618
+                }
+            ]
+        }
+    }
+}

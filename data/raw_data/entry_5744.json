@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Hopkins",
+        "age": 77,
+        "gender": "female",
+        "address": "820 Gallegos Brooks Suite 751, North Briana, NV 50500",
+        "phone": "(964)701-7026",
+        "email": "stanleyjason@example.net",
+        "account": {
+            "account_number": "5cecf0a5-9aa2-4e06-9b18-855eac4d0aea",
+            "balance": 25761.45,
+            "transactions": [
+                {
+                    "date": "2023-09-27",
+                    "description": "Withdrawal",
+                    "amount": 4449.08,
+                    "transaction_id": 42659926
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Withdrawal",
+                    "amount": 2764.57,
+                    "transaction_id": 23675756
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Withdrawal",
+                    "amount": 42778.06,
+                    "transaction_id": 77742305
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Interest",
+                    "amount": 42849.0,
+                    "transaction_id": 6807951
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Interest",
+                    "amount": 2447.8,
+                    "transaction_id": 47320222
+                }
+            ]
+        }
+    }
+}

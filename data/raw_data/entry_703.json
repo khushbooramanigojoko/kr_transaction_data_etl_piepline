@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Samuel Hernandez",
+        "age": 86,
+        "gender": "male",
+        "address": "0853 Mindy Green Apt. 374, Lindseystad, AZ 07114",
+        "phone": "231-600-5674x062",
+        "email": "vlopez@example.net",
+        "account": {
+            "account_number": "f71b94f2-1e7f-4889-b4f8-9559b61392c6",
+            "balance": 15069.87,
+            "transactions": [
+                {
+                    "date": "2022-09-09",
+                    "description": "Withdrawal",
+                    "amount": 43267.73,
+                    "transaction_id": 105724815
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Interest",
+                    "amount": 36216.75,
+                    "transaction_id": 29489732
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Interest",
+                    "amount": 15541.68,
+                    "transaction_id": 20803580
+                },
+                {
+                    "date": "2023-08-22",
+                    "description": "Withdrawal",
+                    "amount": 37703.47,
+                    "transaction_id": 91346634
+                },
+                {
+                    "date": "2022-12-16",
+                    "description": "Interest",
+                    "amount": 37742.64,
+                    "transaction_id": 59380809
+                }
+            ]
+        }
+    }
+}

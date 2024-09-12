@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 60,
+        "gender": "female",
+        "address": "413 Gomez Mission, New Georgeland, GA 20255",
+        "phone": "5448886948",
+        "email": "briana68@example.org",
+        "account": {
+            "account_number": "b3a3ea7b-a8ff-410f-9840-aa7d772b9ee5",
+            "balance": 49234.26,
+            "transactions": [
+                {
+                    "date": "2023-01-29",
+                    "description": "Deposit",
+                    "amount": 4989.11,
+                    "transaction_id": 98162110
+                },
+                {
+                    "date": "2023-11-27",
+                    "description": "Deposit",
+                    "amount": -4029.15,
+                    "transaction_id": 59354156
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Withdrawal",
+                    "amount": -2204.0,
+                    "transaction_id": 112002214
+                },
+                {
+                    "date": "2023-11-23",
+                    "description": "Withdrawal",
+                    "amount": 78.78,
+                    "transaction_id": 99505765
+                },
+                {
+                    "date": "2022-09-23",
+                    "description": "Interest",
+                    "amount": 3549.84,
+                    "transaction_id": 23584908
+                }
+            ]
+        }
+    }
+}

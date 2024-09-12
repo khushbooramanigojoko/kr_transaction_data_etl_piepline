@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Autumn Hodge",
+        "age": 19,
+        "gender": "female",
+        "address": "14957 Harris Trail Apt. 680, East Robert, TN 73187",
+        "phone": "261.524.4697",
+        "email": "smithbrian@example.net",
+        "account": {
+            "account_number": "b0fb2ab1-fc17-4cd2-8b69-ca3197368258",
+            "balance": -40377.74,
+            "transactions": [
+                {
+                    "date": "2022-10-26",
+                    "description": "Interest",
+                    "amount": -131.27,
+                    "transaction_id": 33228431
+                },
+                {
+                    "date": "2024-03-05",
+                    "description": "Deposit",
+                    "amount": 4660.39,
+                    "transaction_id": 114105233
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Briggs",
+        "age": 70,
+        "gender": "male",
+        "address": "7378 Mike Forks, Lake Jennifer, KS 43617",
+        "phone": "(549)804-3820x6635",
+        "email": "emilyrobinson@example.org",
+        "account": {
+            "account_number": "a2cb3eca-29b2-45e8-9ccc-06202dbd061c",
+            "balance": -18913.71,
+            "transactions": [
+                {
+                    "date": "2024-02-28",
+                    "description": "Interest",
+                    "amount": 3542.17,
+                    "transaction_id": 76904562
+                },
+                {
+                    "date": "2023-12-23",
+                    "description": "Interest",
+                    "amount": -3393.27,
+                    "transaction_id": 80515948
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Interest",
+                    "amount": -2195.61,
+                    "transaction_id": 102905067
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Emily Kim",
+        "age": 33,
+        "gender": "male",
+        "address": "289 Ronald Shoal, Sarahberg, MP 81568",
+        "phone": "001-533-878-3556x318",
+        "email": "perrychapman@example.org",
+        "account": {
+            "account_number": "07af3040-c9cf-441c-aeb5-49ed63cdaf4b",
+            "balance": 46341.43,
+            "transactions": [
+                {
+                    "date": "2022-11-07",
+                    "description": "Withdrawal",
+                    "amount": 17617.2,
+                    "transaction_id": 49040583
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Interest",
+                    "amount": 39171.8,
+                    "transaction_id": 37716355
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Interest",
+                    "amount": 41075.29,
+                    "transaction_id": 56852418
+                }
+            ]
+        }
+    }
+}

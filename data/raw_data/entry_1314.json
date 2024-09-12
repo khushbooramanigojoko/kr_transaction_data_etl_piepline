@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jason Parker",
+        "age": 53,
+        "gender": "male",
+        "address": "358 David Mountain, Jamesstad, DC 19943",
+        "phone": "001-563-686-6633x538",
+        "email": "jlong@example.org",
+        "account": {
+            "account_number": "69fdab6a-a6ff-40bd-b11c-95dc16e3db01",
+            "balance": 8320.87,
+            "transactions": [
+                {
+                    "date": "2023-11-23",
+                    "description": "Deposit",
+                    "amount": 43997.07,
+                    "transaction_id": 98456992
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Deposit",
+                    "amount": 26428.95,
+                    "transaction_id": 74574722
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Interest",
+                    "amount": 32732.99,
+                    "transaction_id": 8634885
+                },
+                {
+                    "date": "2024-01-08",
+                    "description": "Withdrawal",
+                    "amount": 3377.73,
+                    "transaction_id": 16117958
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Interest",
+                    "amount": 39945.75,
+                    "transaction_id": 50003411
+                }
+            ]
+        }
+    }
+}

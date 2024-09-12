@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Curtis Mullen",
+        "age": 22,
+        "gender": "female",
+        "address": "8320 Gary Drives, Lake Melissashire, SC 81253",
+        "phone": "001-921-460-3464x81298",
+        "email": "joshuaolson@example.com",
+        "account": {
+            "account_number": "40c64cfe-ebbc-4af7-87df-cefde7c425b2",
+            "balance": 8236.93,
+            "transactions": [
+                {
+                    "date": "2022-11-23",
+                    "description": "Deposit",
+                    "amount": 20211.17,
+                    "transaction_id": 11188166
+                },
+                {
+                    "date": "2023-12-05",
+                    "description": "Withdrawal",
+                    "amount": 2168.93,
+                    "transaction_id": 80381344
+                }
+            ]
+        }
+    }
+}

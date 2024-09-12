@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Pamela Thomas",
+        "age": 96,
+        "gender": "male",
+        "address": "906 Collier Curve Suite 569, North Maryland, MD 95136",
+        "phone": "923-778-5328",
+        "email": "ldavis@example.com",
+        "account": {
+            "account_number": "9abbfc1f-9dd3-4784-8a45-585e24fa5876",
+            "balance": 23712.56,
+            "transactions": [
+                {
+                    "date": "2023-09-27",
+                    "description": "Interest",
+                    "amount": 49968.03,
+                    "transaction_id": 33863202
+                },
+                {
+                    "date": "2024-06-20",
+                    "description": "Deposit",
+                    "amount": 42067.24,
+                    "transaction_id": 54326242
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Deposit",
+                    "amount": 6935.76,
+                    "transaction_id": 90671902
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Deposit",
+                    "amount": 44380.49,
+                    "transaction_id": 77126333
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Withdrawal",
+                    "amount": 49144.58,
+                    "transaction_id": 28172655
+                }
+            ]
+        }
+    }
+}

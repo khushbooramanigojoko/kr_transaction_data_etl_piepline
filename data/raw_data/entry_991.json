@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Hughes",
+        "age": 36,
+        "gender": "female",
+        "address": "641 Patel Plaza Suite 406, Brownland, ME 53276",
+        "phone": "(442)823-0383x4502",
+        "email": "ashleychavez@example.net",
+        "account": {
+            "account_number": "4e78851c-9806-42fe-8637-53441cd83280",
+            "balance": 6159.57,
+            "transactions": [
+                {
+                    "date": "2023-04-15",
+                    "description": "Interest",
+                    "amount": 17375.98,
+                    "transaction_id": 14715998
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Withdrawal",
+                    "amount": 24643.27,
+                    "transaction_id": 21283829
+                },
+                {
+                    "date": "2023-10-04",
+                    "description": "Deposit",
+                    "amount": 14977.21,
+                    "transaction_id": 25609732
+                }
+            ]
+        }
+    }
+}

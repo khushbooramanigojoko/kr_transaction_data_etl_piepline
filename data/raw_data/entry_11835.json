@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amanda Winters",
+        "age": 70,
+        "gender": "female",
+        "address": "4899 Baker Springs, Oneillmouth, TX 17909",
+        "phone": "997-513-4441x4145",
+        "email": "jgreen@example.com",
+        "account": {
+            "account_number": "8a14d40e-054b-40c3-8df8-61bc6cfbe551",
+            "balance": -5218.49,
+            "transactions": [
+                {
+                    "date": "2023-05-26",
+                    "description": "Interest",
+                    "amount": -64.33,
+                    "transaction_id": 112085760
+                }
+            ]
+        }
+    }
+}

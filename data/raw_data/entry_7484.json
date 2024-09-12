@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Allison Sheppard",
+        "age": 69,
+        "gender": "female",
+        "address": "15661 Russell Walks, Port Brian, WI 87096",
+        "phone": "322-899-1570",
+        "email": "cookjoshua@example.net",
+        "account": {
+            "account_number": "bb2f833c-7c58-4553-a78a-c64e81fe4c5d",
+            "balance": 19208.72,
+            "transactions": [
+                {
+                    "date": "2023-09-27",
+                    "description": "Deposit",
+                    "amount": 31186.95,
+                    "transaction_id": 51264698
+                }
+            ]
+        }
+    }
+}

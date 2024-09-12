@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ronald Williams Jr.",
+        "age": 65,
+        "gender": "female",
+        "address": "5293 David Falls, East Anthony, ND 63675",
+        "phone": "755.540.8407x98206",
+        "email": "scott40@example.com",
+        "account": {
+            "account_number": "574ae229-d625-4b17-a030-5ab21cd221de",
+            "balance": 13330.34,
+            "transactions": [
+                {
+                    "date": "2023-03-31",
+                    "description": "Interest",
+                    "amount": 43045.96,
+                    "transaction_id": 50239394
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Deposit",
+                    "amount": 3225.68,
+                    "transaction_id": 65383765
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Withdrawal",
+                    "amount": 16733.74,
+                    "transaction_id": 77604993
+                },
+                {
+                    "date": "2022-11-29",
+                    "description": "Interest",
+                    "amount": 43880.74,
+                    "transaction_id": 86984878
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Interest",
+                    "amount": 11164.53,
+                    "transaction_id": 83670571
+                }
+            ]
+        }
+    }
+}

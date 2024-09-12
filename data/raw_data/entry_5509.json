@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jennifer Baker",
+        "age": 69,
+        "gender": "male",
+        "address": "4216 Pitts Pike Suite 707, Hoganshire, MA 47311",
+        "phone": "838-616-3234x0966",
+        "email": "treid@example.com",
+        "account": {
+            "account_number": "2d3f7397-c8a6-4d40-b751-721e387afa48",
+            "balance": 19173.31,
+            "transactions": [
+                {
+                    "date": "2024-08-27",
+                    "description": "Interest",
+                    "amount": 4317.91,
+                    "transaction_id": 111925848
+                },
+                {
+                    "date": "2023-08-08",
+                    "description": "Deposit",
+                    "amount": 49211.11,
+                    "transaction_id": 105735302
+                }
+            ]
+        }
+    }
+}

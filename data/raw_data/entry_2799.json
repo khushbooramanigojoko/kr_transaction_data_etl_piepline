@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lisa Carey",
+        "age": 87,
+        "gender": "female",
+        "address": "353 Scott Stream Apt. 219, Williammouth, WY 79284",
+        "phone": "349-589-9597x2626",
+        "email": "justin69@example.org",
+        "account": {
+            "account_number": "f5e23591-6659-4cc0-97c2-62c78daa2341",
+            "balance": 43624.39,
+            "transactions": [
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": 40193.56,
+                    "transaction_id": 55632744
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Keith Ortiz",
+        "age": 86,
+        "gender": "female",
+        "address": "0540 Barbara Throughway, Gregberg, AR 32639",
+        "phone": "+1-663-522-4216x3622",
+        "email": "antoniosmith@example.com",
+        "account": {
+            "account_number": "0d4b63b3-bdf3-492e-88b6-ae02dbe33a1e",
+            "balance": 45939.79,
+            "transactions": [
+                {
+                    "date": "2023-05-27",
+                    "description": "Withdrawal",
+                    "amount": 2184.87,
+                    "transaction_id": 75068109
+                }
+            ]
+        }
+    }
+}

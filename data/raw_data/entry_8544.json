@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jasmine Gibson",
+        "age": 87,
+        "gender": "female",
+        "address": "800 Tiffany Parkways Suite 968, Harrisonberg, DC 91844",
+        "phone": "(206)891-6773x8516",
+        "email": "sara63@example.org",
+        "account": {
+            "account_number": "ae83eee9-dc23-4de9-a76c-f47169b9a10d",
+            "balance": 11379.75,
+            "transactions": [
+                {
+                    "date": "2024-01-15",
+                    "description": "Deposit",
+                    "amount": 27301.3,
+                    "transaction_id": 112036983
+                },
+                {
+                    "date": "2023-02-13",
+                    "description": "Withdrawal",
+                    "amount": 37277.41,
+                    "transaction_id": 72862604
+                }
+            ]
+        }
+    }
+}

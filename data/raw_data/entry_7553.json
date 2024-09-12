@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joel Ford",
+        "age": 40,
+        "gender": "female",
+        "address": "60584 Coleman Extension, Carrollfort, OK 09239",
+        "phone": "452-964-0974",
+        "email": "robert57@example.net",
+        "account": {
+            "account_number": "3a2118c2-68e7-4f4a-8401-3caa0e95b18c",
+            "balance": 27582.09,
+            "transactions": [
+                {
+                    "date": "2023-07-22",
+                    "description": "Withdrawal",
+                    "amount": 16689.25,
+                    "transaction_id": 60504231
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Withdrawal",
+                    "amount": 525.18,
+                    "transaction_id": 119297045
+                }
+            ]
+        }
+    }
+}

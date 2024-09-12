@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Raymond Rivera",
+        "age": 30,
+        "gender": "male",
+        "address": "9652 Sherri Mission Suite 568, Johnsonton, NY 03187",
+        "phone": "841.572.0034x569",
+        "email": "dwilliams@example.com",
+        "account": {
+            "account_number": "7b3907d1-145c-492a-8d1f-086e5fc8b989",
+            "balance": 38845.77,
+            "transactions": [
+                {
+                    "date": "2024-04-20",
+                    "description": "Withdrawal",
+                    "amount": 6300.7,
+                    "transaction_id": 111622020
+                },
+                {
+                    "date": "2022-10-20",
+                    "description": "Deposit",
+                    "amount": 17545.77,
+                    "transaction_id": 50950728
+                }
+            ]
+        }
+    }
+}

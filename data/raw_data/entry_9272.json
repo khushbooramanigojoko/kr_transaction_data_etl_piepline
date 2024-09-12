@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "William Lee",
+        "age": 68,
+        "gender": "female",
+        "address": "47808 Hayes Terrace Apt. 822, New Stephanie, AR 62013",
+        "phone": "(828)735-6582x86133",
+        "email": "yblake@example.net",
+        "account": {
+            "account_number": "2c7165f8-66bf-460b-bc0f-e2c105524f5a",
+            "balance": -19141.64,
+            "transactions": [
+                {
+                    "date": "2023-10-21",
+                    "description": "Withdrawal",
+                    "amount": -2576.88,
+                    "transaction_id": 22684729
+                }
+            ]
+        }
+    }
+}

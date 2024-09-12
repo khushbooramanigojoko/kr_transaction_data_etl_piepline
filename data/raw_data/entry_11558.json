@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tamara Merritt",
+        "age": 32,
+        "gender": "male",
+        "address": "5700 Jeffery Light, Whitakerfurt, MI 28730",
+        "phone": "236.435.1339x2965",
+        "email": "ricky34@example.net",
+        "account": {
+            "account_number": "957611ca-3fb5-4d3c-b42e-f37a09c37406",
+            "balance": -13089.53,
+            "transactions": [
+                {
+                    "date": "2023-11-02",
+                    "description": "Withdrawal",
+                    "amount": 4464.83,
+                    "transaction_id": 119764982
+                },
+                {
+                    "date": "2024-03-09",
+                    "description": "Interest",
+                    "amount": 4204.37,
+                    "transaction_id": 20730496
+                },
+                {
+                    "date": "2023-01-22",
+                    "description": "Deposit",
+                    "amount": -4134.26,
+                    "transaction_id": 55506631
+                }
+            ]
+        }
+    }
+}

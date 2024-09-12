@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Steven Smith",
+        "age": 58,
+        "gender": "female",
+        "address": "63524 Guzman Hollow Apt. 181, Port Brian, GA 98728",
+        "phone": "582-714-0764x379",
+        "email": "annemoran@example.com",
+        "account": {
+            "account_number": "b1c31487-7acc-4ee0-8c1a-7c926efeccc9",
+            "balance": 7117.34,
+            "transactions": [
+                {
+                    "date": "2023-11-28",
+                    "description": "Deposit",
+                    "amount": 30289.24,
+                    "transaction_id": 108357944
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Interest",
+                    "amount": 40073.23,
+                    "transaction_id": 106698282
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Deposit",
+                    "amount": 41092.17,
+                    "transaction_id": 4455608
+                },
+                {
+                    "date": "2023-02-10",
+                    "description": "Interest",
+                    "amount": 23800.88,
+                    "transaction_id": 115432810
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Interest",
+                    "amount": 14732.31,
+                    "transaction_id": 118982627
+                }
+            ]
+        }
+    }
+}

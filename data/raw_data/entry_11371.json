@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rhonda Cortez",
+        "age": 87,
+        "gender": "male",
+        "address": "93234 Cynthia Rest, Moniqueburgh, CO 79657",
+        "phone": "345-391-0503x665",
+        "email": "susan85@example.com",
+        "account": {
+            "account_number": "0599fe68-76fd-4059-970b-25f178c55cf4",
+            "balance": -45985.15,
+            "transactions": [
+                {
+                    "date": "2023-04-24",
+                    "description": "Deposit",
+                    "amount": 577.79,
+                    "transaction_id": 21093278
+                }
+            ]
+        }
+    }
+}

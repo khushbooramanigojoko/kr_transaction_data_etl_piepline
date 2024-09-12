@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Samuel Walker",
+        "age": 45,
+        "gender": "female",
+        "address": "4666 Peter Forge Apt. 340, Lake Rebeccamouth, AK 16224",
+        "phone": "(376)572-4162x555",
+        "email": "monica13@example.com",
+        "account": {
+            "account_number": "35aea597-e3a7-4488-b56b-b3b68217db75",
+            "balance": 15189.94,
+            "transactions": [
+                {
+                    "date": "2023-02-24",
+                    "description": "Withdrawal",
+                    "amount": 12613.16,
+                    "transaction_id": 73961906
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Withdrawal",
+                    "amount": 43628.8,
+                    "transaction_id": 63033424
+                },
+                {
+                    "date": "2023-10-21",
+                    "description": "Deposit",
+                    "amount": 22144.98,
+                    "transaction_id": 66293437
+                },
+                {
+                    "date": "2023-10-24",
+                    "description": "Withdrawal",
+                    "amount": 34527.04,
+                    "transaction_id": 95027549
+                }
+            ]
+        }
+    }
+}

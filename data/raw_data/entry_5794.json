@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kathleen Osborne",
+        "age": 72,
+        "gender": "female",
+        "address": "229 Aaron Ridges, Port Matthew, IL 35101",
+        "phone": "763.600.2182x68331",
+        "email": "phillipbradley@example.com",
+        "account": {
+            "account_number": "a63bb3d2-35db-401f-bd8e-fd7e550bf4fd",
+            "balance": 26704.88,
+            "transactions": [
+                {
+                    "date": "2023-08-02",
+                    "description": "Interest",
+                    "amount": 20712.96,
+                    "transaction_id": 41573833
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Withdrawal",
+                    "amount": 4525.63,
+                    "transaction_id": 55066640
+                },
+                {
+                    "date": "2024-08-16",
+                    "description": "Withdrawal",
+                    "amount": 46324.62,
+                    "transaction_id": 17937940
+                },
+                {
+                    "date": "2023-08-26",
+                    "description": "Deposit",
+                    "amount": 28620.1,
+                    "transaction_id": 87632157
+                }
+            ]
+        }
+    }
+}

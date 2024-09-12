@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Christopher Hill",
+        "age": 61,
+        "gender": "female",
+        "address": "605 Hopkins Inlet, Taylorview, TX 76623",
+        "phone": "778.816.8915",
+        "email": "vwashington@example.net",
+        "account": {
+            "account_number": "2a95fa7c-06de-467a-94c3-104a3fad703e",
+            "balance": 34915.92,
+            "transactions": [
+                {
+                    "date": "2024-07-15",
+                    "description": "Withdrawal",
+                    "amount": 34907.03,
+                    "transaction_id": 102014535
+                },
+                {
+                    "date": "2024-08-12",
+                    "description": "Interest",
+                    "amount": 25996.36,
+                    "transaction_id": 109225360
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Withdrawal",
+                    "amount": 23702.58,
+                    "transaction_id": 97492523
+                }
+            ]
+        }
+    }
+}

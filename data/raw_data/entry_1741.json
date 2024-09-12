@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kevin Fields",
+        "age": 97,
+        "gender": "male",
+        "address": "4631 Karen Glens Apt. 728, East Mariabury, FM 77885",
+        "phone": "(839)833-2645x334",
+        "email": "clarkbrittany@example.com",
+        "account": {
+            "account_number": "fe591799-6794-4526-8f2b-b07080c9cc7d",
+            "balance": 8732.32,
+            "transactions": [
+                {
+                    "date": "2023-03-19",
+                    "description": "Interest",
+                    "amount": 40189.81,
+                    "transaction_id": 52017600
+                }
+            ]
+        }
+    }
+}

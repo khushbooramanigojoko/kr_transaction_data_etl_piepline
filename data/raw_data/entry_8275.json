@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mary Ramos",
+        "age": 51,
+        "gender": "female",
+        "address": "438 Cross Walk Apt. 678, Allenhaven, KY 16424",
+        "phone": "366-598-6620x659",
+        "email": "dianajohnson@example.net",
+        "account": {
+            "account_number": "2ae46919-b733-4ee3-875e-919c2a1cd5f1",
+            "balance": 38649.04,
+            "transactions": [
+                {
+                    "date": "2023-10-10",
+                    "description": "Interest",
+                    "amount": 30649.4,
+                    "transaction_id": 116425273
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Interest",
+                    "amount": 33842.57,
+                    "transaction_id": 34865305
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Deposit",
+                    "amount": 42469.76,
+                    "transaction_id": 48825207
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Deposit",
+                    "amount": 22129.32,
+                    "transaction_id": 109501774
+                },
+                {
+                    "date": "2024-03-26",
+                    "description": "Withdrawal",
+                    "amount": 10296.4,
+                    "transaction_id": 54971578
+                }
+            ]
+        }
+    }
+}

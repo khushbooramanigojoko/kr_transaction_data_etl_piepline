@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Logan Henderson",
+        "age": 99,
+        "gender": "female",
+        "address": "56669 Oconnor Estates Suite 722, South Tamaraberg, LA 36119",
+        "phone": "+1-947-859-0802x545",
+        "email": "akramer@example.com",
+        "account": {
+            "account_number": "ead60f9c-297e-4173-9c1d-78eadb5195ae",
+            "balance": 30089.54,
+            "transactions": [
+                {
+                    "date": "2023-03-12",
+                    "description": "Deposit",
+                    "amount": 17439.05,
+                    "transaction_id": 50934373
+                },
+                {
+                    "date": "2023-05-25",
+                    "description": "Deposit",
+                    "amount": 9243.54,
+                    "transaction_id": 12659411
+                },
+                {
+                    "date": "2023-08-12",
+                    "description": "Withdrawal",
+                    "amount": 14335.52,
+                    "transaction_id": 46366013
+                },
+                {
+                    "date": "2023-04-03",
+                    "description": "Interest",
+                    "amount": 42980.14,
+                    "transaction_id": 92282611
+                }
+            ]
+        }
+    }
+}

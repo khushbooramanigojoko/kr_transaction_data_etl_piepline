@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amy Alexander",
+        "age": 76,
+        "gender": "female",
+        "address": "19856 Reese Unions Suite 293, New Margaret, CO 41525",
+        "phone": "+1-609-372-7787",
+        "email": "thompsonkeith@example.org",
+        "account": {
+            "account_number": "c245cf5e-1cc2-433a-88d3-7e16ead6bf74",
+            "balance": 42045.81,
+            "transactions": [
+                {
+                    "date": "2023-05-11",
+                    "description": "Withdrawal",
+                    "amount": 20127.13,
+                    "transaction_id": 34567342
+                }
+            ]
+        }
+    }
+}

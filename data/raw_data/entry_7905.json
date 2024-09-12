@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Terri Torres",
+        "age": 73,
+        "gender": "male",
+        "address": "442 Smith Crescent Suite 752, Sanchezfort, HI 06367",
+        "phone": "+1-784-982-2262",
+        "email": "reneemcgee@example.com",
+        "account": {
+            "account_number": "7133445d-6cd5-4a12-8b85-04f91f3a8333",
+            "balance": 26235.49,
+            "transactions": [
+                {
+                    "date": "2024-07-23",
+                    "description": "Deposit",
+                    "amount": 48409.46,
+                    "transaction_id": 97072839
+                }
+            ]
+        }
+    }
+}

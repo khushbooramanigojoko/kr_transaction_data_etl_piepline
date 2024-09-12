@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kenneth Farley DVM",
+        "age": 69,
+        "gender": "male",
+        "address": "545 Alexis Station Apt. 821, West Amyhaven, ID 48677",
+        "phone": "300-519-3415",
+        "email": "njohnson@example.net",
+        "account": {
+            "account_number": "c995df64-f2fa-4a54-bc85-9fa11b7a9658",
+            "balance": 49030.75,
+            "transactions": [
+                {
+                    "date": "2024-01-20",
+                    "description": "Interest",
+                    "amount": 34131.01,
+                    "transaction_id": 49831671
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Withdrawal",
+                    "amount": 9560.85,
+                    "transaction_id": 61735234
+                },
+                {
+                    "date": "2024-05-31",
+                    "description": "Withdrawal",
+                    "amount": 26462.15,
+                    "transaction_id": 65463628
+                }
+            ]
+        }
+    }
+}

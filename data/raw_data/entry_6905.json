@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Marilyn Horn",
+        "age": 69,
+        "gender": "female",
+        "address": "PSC 5729, Box 5759, APO AA 60009",
+        "phone": "(882)927-7932",
+        "email": "olivermark@example.net",
+        "account": {
+            "account_number": "66460514-3413-4149-a8fc-d28245e125b7",
+            "balance": 9023.26,
+            "transactions": [
+                {
+                    "date": "2023-10-22",
+                    "description": "Deposit",
+                    "amount": 10940.11,
+                    "transaction_id": 17002774
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Deposit",
+                    "amount": 4191.43,
+                    "transaction_id": 63286757
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Deposit",
+                    "amount": 31189.69,
+                    "transaction_id": 102282985
+                },
+                {
+                    "date": "2023-11-27",
+                    "description": "Deposit",
+                    "amount": 3569.19,
+                    "transaction_id": 101174712
+                }
+            ]
+        }
+    }
+}

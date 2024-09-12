@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "female",
+        "address": "USNS Wilson, FPO AP 18330",
+        "phone": "001-396-976-3737x5851",
+        "email": "kking@example.com",
+        "account": {
+            "account_number": "31fdd70f-a609-4fa6-9b72-93a1bfe5ca4a",
+            "balance": 45144.19,
+            "transactions": [
+                {
+                    "date": "2023-11-18",
+                    "description": "Withdrawal",
+                    "amount": 63.05,
+                    "transaction_id": 18546119
+                },
+                {
+                    "date": "2024-05-07",
+                    "description": "Withdrawal",
+                    "amount": 1065.49,
+                    "transaction_id": 5499426
+                },
+                {
+                    "date": "2022-09-23",
+                    "description": "Withdrawal",
+                    "amount": -2342.84,
+                    "transaction_id": 9420072
+                },
+                {
+                    "date": "2024-05-17",
+                    "description": "Interest",
+                    "amount": -4818.19,
+                    "transaction_id": 3192293
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Withdrawal",
+                    "amount": 816.05,
+                    "transaction_id": 24147954
+                }
+            ]
+        }
+    }
+}

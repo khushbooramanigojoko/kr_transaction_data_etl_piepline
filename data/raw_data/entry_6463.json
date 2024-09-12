@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Parker",
+        "age": 30,
+        "gender": "male",
+        "address": "Unit 4160 Box 7868, DPO AP 12280",
+        "phone": "+1-205-358-7331x42372",
+        "email": "hannah69@example.net",
+        "account": {
+            "account_number": "35e3621c-08de-440a-885e-20c04f2a5d73",
+            "balance": 47867.47,
+            "transactions": [
+                {
+                    "date": "2023-03-03",
+                    "description": "Withdrawal",
+                    "amount": 39504.92,
+                    "transaction_id": 36772319
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Deposit",
+                    "amount": 27630.29,
+                    "transaction_id": 39246030
+                },
+                {
+                    "date": "2024-02-26",
+                    "description": "Withdrawal",
+                    "amount": 39400.3,
+                    "transaction_id": 36231492
+                },
+                {
+                    "date": "2023-07-30",
+                    "description": "Interest",
+                    "amount": 48898.68,
+                    "transaction_id": 16821431
+                },
+                {
+                    "date": "2023-06-28",
+                    "description": "Interest",
+                    "amount": 47999.78,
+                    "transaction_id": 65088093
+                }
+            ]
+        }
+    }
+}

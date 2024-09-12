@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mary Ruiz",
+        "age": 60,
+        "gender": "male",
+        "address": "USNV Jordan, FPO AA 60288",
+        "phone": "877-782-9557x11482",
+        "email": "mlambert@example.net",
+        "account": {
+            "account_number": "db1e25a8-9b04-441e-b8df-6612bb9b9364",
+            "balance": 28027.59,
+            "transactions": [
+                {
+                    "date": "2024-06-05",
+                    "description": "Deposit",
+                    "amount": 40295.34,
+                    "transaction_id": 9527070
+                },
+                {
+                    "date": "2024-03-28",
+                    "description": "Withdrawal",
+                    "amount": 38320.83,
+                    "transaction_id": 97435086
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Withdrawal",
+                    "amount": 39453.91,
+                    "transaction_id": 33218482
+                },
+                {
+                    "date": "2023-01-13",
+                    "description": "Deposit",
+                    "amount": 44545.97,
+                    "transaction_id": 101425659
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Pamela Taylor",
+        "age": 48,
+        "gender": "female",
+        "address": "4236 Delgado Court, New Scott, MP 25539",
+        "phone": "994.267.2643x16382",
+        "email": "rhondamurphy@example.net",
+        "account": {
+            "account_number": "39ebb929-3022-4c30-bf01-e122d7f4e221",
+            "balance": 47766.46,
+            "transactions": [
+                {
+                    "date": "2024-06-01",
+                    "description": "Deposit",
+                    "amount": 8350.62,
+                    "transaction_id": 117610704
+                }
+            ]
+        }
+    }
+}

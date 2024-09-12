@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mario Perez",
+        "age": 47,
+        "gender": "female",
+        "address": "768 George Greens Suite 371, Williamtown, NY 85929",
+        "phone": "(692)972-2240",
+        "email": "zavalagregory@example.net",
+        "account": {
+            "account_number": "e09cf0a9-2b35-4b21-87ed-88512b564b46",
+            "balance": 27468.23,
+            "transactions": [
+                {
+                    "date": "2022-11-22",
+                    "description": "Interest",
+                    "amount": 26767.83,
+                    "transaction_id": 63573018
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Interest",
+                    "amount": 48871.03,
+                    "transaction_id": 47621239
+                }
+            ]
+        }
+    }
+}

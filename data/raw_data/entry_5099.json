@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kenneth Rose",
+        "age": 98,
+        "gender": "female",
+        "address": "629 Vasquez Plain Suite 923, New Davidfort, LA 40491",
+        "phone": "555-288-8830x00602",
+        "email": "conneralexandra@example.org",
+        "account": {
+            "account_number": "06061d20-1e20-4f91-8302-6ec31a51c189",
+            "balance": 27586.24,
+            "transactions": [
+                {
+                    "date": "2023-07-08",
+                    "description": "Interest",
+                    "amount": 46458.63,
+                    "transaction_id": 113965879
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": 41384.85,
+                    "transaction_id": 5664489
+                },
+                {
+                    "date": "2023-02-10",
+                    "description": "Interest",
+                    "amount": 37945.97,
+                    "transaction_id": 113923056
+                }
+            ]
+        }
+    }
+}

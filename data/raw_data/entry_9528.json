@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 42,
+        "gender": "male",
+        "address": "27867 Mary Locks Apt. 786, Dominguezchester, AR 38111",
+        "phone": "566.513.9514x1072",
+        "email": "donmartinez@example.org",
+        "account": {
+            "account_number": "cbf70c13-997e-494a-8dfe-d66d18d44995",
+            "balance": 34698.75,
+            "transactions": [
+                {
+                    "date": "2024-06-13",
+                    "description": "Deposit",
+                    "amount": 4382.43,
+                    "transaction_id": 55036211
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Interest",
+                    "amount": 3667.42,
+                    "transaction_id": 27433603
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Withdrawal",
+                    "amount": -878.85,
+                    "transaction_id": 56544934
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Withdrawal",
+                    "amount": 99.14,
+                    "transaction_id": 71508729
+                }
+            ]
+        }
+    }
+}

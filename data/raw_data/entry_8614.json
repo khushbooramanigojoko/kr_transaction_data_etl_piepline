@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ashley Lopez",
+        "age": 71,
+        "gender": "male",
+        "address": "13570 Johnston Courts, Jacobburgh, OR 42057",
+        "phone": "534-966-1448",
+        "email": "jessica48@example.net",
+        "account": {
+            "account_number": "9646c7af-5146-4105-a159-6df35960783e",
+            "balance": 36980.39,
+            "transactions": [
+                {
+                    "date": "2024-01-12",
+                    "description": "Interest",
+                    "amount": 38374.98,
+                    "transaction_id": 10595012
+                },
+                {
+                    "date": "2023-07-22",
+                    "description": "Interest",
+                    "amount": 37620.77,
+                    "transaction_id": 51337231
+                },
+                {
+                    "date": "2024-01-10",
+                    "description": "Deposit",
+                    "amount": 32123.2,
+                    "transaction_id": 65299265
+                },
+                {
+                    "date": "2022-09-28",
+                    "description": "Interest",
+                    "amount": 42677.99,
+                    "transaction_id": 24073023
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tiffany Russell",
+        "age": 24,
+        "gender": "male",
+        "address": "241 Kevin Meadow, Kingmouth, CO 90469",
+        "phone": "+1-353-672-7966x080",
+        "email": "mccormickdebbie@example.com",
+        "account": {
+            "account_number": "93642ba4-4046-427c-a9d2-2d1133558175",
+            "balance": -21525.7,
+            "transactions": [
+                {
+                    "date": "2023-05-12",
+                    "description": "Withdrawal",
+                    "amount": -1834.55,
+                    "transaction_id": 67806977
+                }
+            ]
+        }
+    }
+}

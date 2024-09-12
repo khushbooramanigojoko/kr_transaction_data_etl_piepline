@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lee Patel",
+        "age": 22,
+        "gender": "female",
+        "address": "029 Miller Courts Suite 944, Ramirezberg, IL 06506",
+        "phone": "001-265-980-7284",
+        "email": "bellcrystal@example.com",
+        "account": {
+            "account_number": "b37a6825-4b60-4f11-baed-85b27721d390",
+            "balance": -32567.25,
+            "transactions": [
+                {
+                    "date": "2023-02-22",
+                    "description": "Withdrawal",
+                    "amount": -3824.46,
+                    "transaction_id": 17532426
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Interest",
+                    "amount": 1341.7,
+                    "transaction_id": 14155798
+                },
+                {
+                    "date": "2024-01-21",
+                    "description": "Interest",
+                    "amount": 669.01,
+                    "transaction_id": 93905596
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Withdrawal",
+                    "amount": 2269.32,
+                    "transaction_id": 93636931
+                }
+            ]
+        }
+    }
+}

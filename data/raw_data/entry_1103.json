@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brittney Morris",
+        "age": 49,
+        "gender": "female",
+        "address": "09305 Brown Summit Apt. 466, New Matthewstad, AR 08981",
+        "phone": "433.868.0172x520",
+        "email": "anthony95@example.org",
+        "account": {
+            "account_number": "fd1c3e15-3915-42cb-8e8f-f71a9e00ac99",
+            "balance": 41702.84,
+            "transactions": [
+                {
+                    "date": "2023-08-06",
+                    "description": "Withdrawal",
+                    "amount": 45895.96,
+                    "transaction_id": 111446779
+                },
+                {
+                    "date": "2022-09-09",
+                    "description": "Deposit",
+                    "amount": 20683.12,
+                    "transaction_id": 67974992
+                }
+            ]
+        }
+    }
+}

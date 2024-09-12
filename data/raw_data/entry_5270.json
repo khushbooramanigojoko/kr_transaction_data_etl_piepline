@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Edward Gibbs",
+        "age": 36,
+        "gender": "male",
+        "address": "6589 Gardner Crossing, North Jeremystad, AL 45226",
+        "phone": "881.322.7448x0983",
+        "email": "gstark@example.org",
+        "account": {
+            "account_number": "418ca7ce-47ce-4bd7-aba1-6ef1089e1c73",
+            "balance": 24577.83,
+            "transactions": [
+                {
+                    "date": "2023-10-24",
+                    "description": "Deposit",
+                    "amount": 39378.44,
+                    "transaction_id": 11254649
+                },
+                {
+                    "date": "2022-12-10",
+                    "description": "Deposit",
+                    "amount": 14129.62,
+                    "transaction_id": 62795213
+                }
+            ]
+        }
+    }
+}

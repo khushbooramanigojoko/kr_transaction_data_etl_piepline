@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Timothy Carson",
+        "age": 37,
+        "gender": "male",
+        "address": "PSC 4658, Box 2624, APO AP 28860",
+        "phone": "898.355.8514x467",
+        "email": "corybrown@example.net",
+        "account": {
+            "account_number": "4015bd66-b3f2-4ae4-b9a4-3ce6f94ec5dd",
+            "balance": 32337.83,
+            "transactions": [
+                {
+                    "date": "2022-11-13",
+                    "description": "Withdrawal",
+                    "amount": 44815.59,
+                    "transaction_id": 8299971
+                },
+                {
+                    "date": "2022-12-08",
+                    "description": "Interest",
+                    "amount": 34189.8,
+                    "transaction_id": 33313082
+                }
+            ]
+        }
+    }
+}

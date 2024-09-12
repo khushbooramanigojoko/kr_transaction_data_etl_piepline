@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Robert Woods",
+        "age": 46,
+        "gender": "female",
+        "address": "USCGC Travis, FPO AP 50090",
+        "phone": "919-497-9340x446",
+        "email": "bmiller@example.com",
+        "account": {
+            "account_number": "8cfd249a-df80-409d-9ad9-b5271c508bd3",
+            "balance": 43507.07,
+            "transactions": [
+                {
+                    "date": "2024-03-26",
+                    "description": "Interest",
+                    "amount": 25546.43,
+                    "transaction_id": 89011890
+                }
+            ]
+        }
+    }
+}

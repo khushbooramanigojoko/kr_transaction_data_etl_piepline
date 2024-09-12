@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "David Peterson",
+        "age": 83,
+        "gender": "male",
+        "address": "824 Stephens Land, West Brandon, CO 77500",
+        "phone": "(891)483-4821x98911",
+        "email": "ngonzalez@example.net",
+        "account": {
+            "account_number": "b9994687-6fb4-4901-bced-3e0c2cc02f51",
+            "balance": 24664.21,
+            "transactions": [
+                {
+                    "date": "2023-07-19",
+                    "description": "Deposit",
+                    "amount": 3926.43,
+                    "transaction_id": 28810401
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Withdrawal",
+                    "amount": 17104.76,
+                    "transaction_id": 70422046
+                },
+                {
+                    "date": "2023-04-19",
+                    "description": "Deposit",
+                    "amount": 29922.25,
+                    "transaction_id": 2317320
+                },
+                {
+                    "date": "2023-08-03",
+                    "description": "Interest",
+                    "amount": 49402.94,
+                    "transaction_id": 118916749
+                },
+                {
+                    "date": "2024-05-08",
+                    "description": "Interest",
+                    "amount": 40047.52,
+                    "transaction_id": 114869188
+                }
+            ]
+        }
+    }
+}

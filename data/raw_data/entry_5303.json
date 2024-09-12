@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Andrea Williams",
+        "age": 81,
+        "gender": "male",
+        "address": "5285 Lane Springs, North Aaron, FM 69329",
+        "phone": "+1-855-762-8943",
+        "email": "xmolina@example.org",
+        "account": {
+            "account_number": "6be90f46-600e-4877-8f29-8561b2b15c4d",
+            "balance": 36092.34,
+            "transactions": [
+                {
+                    "date": "2023-10-20",
+                    "description": "Withdrawal",
+                    "amount": 25809.48,
+                    "transaction_id": 47720031
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Deposit",
+                    "amount": 45454.8,
+                    "transaction_id": 114604580
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Withdrawal",
+                    "amount": 43875.77,
+                    "transaction_id": 92674549
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Interest",
+                    "amount": 16980.57,
+                    "transaction_id": 79100510
+                },
+                {
+                    "date": "2023-02-18",
+                    "description": "Withdrawal",
+                    "amount": 38103.12,
+                    "transaction_id": 101923144
+                }
+            ]
+        }
+    }
+}

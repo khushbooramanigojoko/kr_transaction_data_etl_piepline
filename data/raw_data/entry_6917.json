@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kimberly Davis",
+        "age": 34,
+        "gender": "male",
+        "address": "95771 Jorge Radial Suite 704, Lopezshire, WI 78286",
+        "phone": "001-906-620-3645",
+        "email": "cordovaleah@example.com",
+        "account": {
+            "account_number": "62e7cf28-7788-40e8-8b43-d26ce078c117",
+            "balance": 18375.64,
+            "transactions": [
+                {
+                    "date": "2024-07-29",
+                    "description": "Deposit",
+                    "amount": 4356.13,
+                    "transaction_id": 11186590
+                },
+                {
+                    "date": "2022-09-23",
+                    "description": "Deposit",
+                    "amount": 3809.79,
+                    "transaction_id": 22532218
+                },
+                {
+                    "date": "2023-10-12",
+                    "description": "Withdrawal",
+                    "amount": 24635.64,
+                    "transaction_id": 76182567
+                },
+                {
+                    "date": "2024-02-08",
+                    "description": "Interest",
+                    "amount": 31256.32,
+                    "transaction_id": 78026404
+                },
+                {
+                    "date": "2023-07-12",
+                    "description": "Deposit",
+                    "amount": 31614.02,
+                    "transaction_id": 67014572
+                }
+            ]
+        }
+    }
+}

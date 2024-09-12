@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Renee Blair",
+        "age": 22,
+        "gender": "male",
+        "address": "1636 Jose Curve Suite 251, East Charles, GA 37442",
+        "phone": "(327)503-6587x963",
+        "email": "mfoster@example.org",
+        "account": {
+            "account_number": "5ca9be9b-a7ee-4a77-a2de-fd2b9051222b",
+            "balance": 33538.77,
+            "transactions": [
+                {
+                    "date": "2023-05-02",
+                    "description": "Deposit",
+                    "amount": 21992.1,
+                    "transaction_id": 95054708
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Deposit",
+                    "amount": 9170.46,
+                    "transaction_id": 97301845
+                }
+            ]
+        }
+    }
+}

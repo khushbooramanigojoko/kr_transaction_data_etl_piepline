@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Anthony Rodriguez",
+        "age": 76,
+        "gender": "female",
+        "address": "7007 Beth Hills, Harveyhaven, ND 77373",
+        "phone": "001-596-655-1671x3095",
+        "email": "clarkjustin@example.com",
+        "account": {
+            "account_number": "d7a9e679-3565-4c77-a26f-01d652c5ae88",
+            "balance": 4191.65,
+            "transactions": [
+                {
+                    "date": "2024-02-10",
+                    "description": "Deposit",
+                    "amount": 2620.22,
+                    "transaction_id": 119467744
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Deposit",
+                    "amount": 40820.49,
+                    "transaction_id": 15297329
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Interest",
+                    "amount": 10477.01,
+                    "transaction_id": 92078854
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Interest",
+                    "amount": 24209.01,
+                    "transaction_id": 100158413
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Withdrawal",
+                    "amount": 21428.87,
+                    "transaction_id": 103281839
+                }
+            ]
+        }
+    }
+}

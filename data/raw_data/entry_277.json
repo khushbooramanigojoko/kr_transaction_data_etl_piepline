@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "George Williams",
+        "age": 18,
+        "gender": "female",
+        "address": "801 Wood Roads, Phillipborough, WV 88399",
+        "phone": "001-276-872-6161x32731",
+        "email": "eayala@example.net",
+        "account": {
+            "account_number": "c6f4d206-c35b-4352-86db-4ec7a16169c2",
+            "balance": 47187.04,
+            "transactions": [
+                {
+                    "date": "2024-05-12",
+                    "description": "Deposit",
+                    "amount": 12486.53,
+                    "transaction_id": 30858588
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Withdrawal",
+                    "amount": 2899.26,
+                    "transaction_id": 81608403
+                },
+                {
+                    "date": "2024-01-06",
+                    "description": "Interest",
+                    "amount": 45033.3,
+                    "transaction_id": 82690625
+                },
+                {
+                    "date": "2023-09-19",
+                    "description": "Withdrawal",
+                    "amount": 17625.56,
+                    "transaction_id": 56973025
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Terry Miller",
+        "age": 42,
+        "gender": "female",
+        "address": "987 Williamson Ford Apt. 655, Rodneyborough, LA 72842",
+        "phone": "404-424-0389x807",
+        "email": "holmesamanda@example.com",
+        "account": {
+            "account_number": "dbf9c142-b632-46e2-a904-b5f1a0223e20",
+            "balance": 23886.76,
+            "transactions": [
+                {
+                    "date": "2023-01-01",
+                    "description": "Interest",
+                    "amount": 48771.47,
+                    "transaction_id": 51884422
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Deposit",
+                    "amount": 28128.26,
+                    "transaction_id": 46212160
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Interest",
+                    "amount": 38409.63,
+                    "transaction_id": 7585647
+                }
+            ]
+        }
+    }
+}

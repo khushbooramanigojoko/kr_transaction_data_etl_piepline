@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kayla Adams",
+        "age": 36,
+        "gender": "female",
+        "address": "5916 Powell Mill Apt. 796, Lake Shelly, AS 43617",
+        "phone": "001-205-767-3118",
+        "email": "melodyallen@example.com",
+        "account": {
+            "account_number": "acbf1f6c-ca35-474e-94db-d85647930256",
+            "balance": 36915.44,
+            "transactions": [
+                {
+                    "date": "2023-08-28",
+                    "description": "Withdrawal",
+                    "amount": 29016.02,
+                    "transaction_id": 40554606
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Deposit",
+                    "amount": 23134.18,
+                    "transaction_id": 13639010
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Deposit",
+                    "amount": 13210.63,
+                    "transaction_id": 50627684
+                },
+                {
+                    "date": "2023-10-29",
+                    "description": "Withdrawal",
+                    "amount": 28971.63,
+                    "transaction_id": 42524325
+                }
+            ]
+        }
+    }
+}

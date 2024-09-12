@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Virginia Maynard",
+        "age": 25,
+        "gender": "female",
+        "address": "02859 Kara Dale, Lake Lisafort, UT 84044",
+        "phone": "912.226.9873",
+        "email": "adam56@example.com",
+        "account": {
+            "account_number": "01b20ff3-9df1-45b9-8733-b759b5d65c02",
+            "balance": 49067.24,
+            "transactions": [
+                {
+                    "date": "2023-03-18",
+                    "description": "Withdrawal",
+                    "amount": 15353.96,
+                    "transaction_id": 86086630
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Withdrawal",
+                    "amount": 33858.71,
+                    "transaction_id": 65597015
+                },
+                {
+                    "date": "2023-07-08",
+                    "description": "Deposit",
+                    "amount": 42170.63,
+                    "transaction_id": 57396612
+                }
+            ]
+        }
+    }
+}

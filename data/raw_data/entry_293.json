@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Molly Johnson",
+        "age": 63,
+        "gender": "male",
+        "address": "96746 Lawrence Trafficway Apt. 576, Davidton, AR 13602",
+        "phone": "001-432-551-0918x4800",
+        "email": "dbrown@example.org",
+        "account": {
+            "account_number": "5b7b1217-0ca8-4bb3-8ae6-c77c8c2bd345",
+            "balance": 18590.52,
+            "transactions": [
+                {
+                    "date": "2024-04-29",
+                    "description": "Withdrawal",
+                    "amount": 41372.57,
+                    "transaction_id": 39963621
+                },
+                {
+                    "date": "2023-03-06",
+                    "description": "Interest",
+                    "amount": 40565.13,
+                    "transaction_id": 22610572
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Deposit",
+                    "amount": 45773.37,
+                    "transaction_id": 44697092
+                },
+                {
+                    "date": "2023-03-23",
+                    "description": "Deposit",
+                    "amount": 24640.08,
+                    "transaction_id": 80643375
+                }
+            ]
+        }
+    }
+}

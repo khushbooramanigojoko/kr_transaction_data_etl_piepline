@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "male",
+        "address": "61289 Randy Land Apt. 287, Watsonfurt, NE 79237",
+        "phone": "(868)642-7003",
+        "email": "westtravis@example.com",
+        "account": {
+            "account_number": "4b9d3de3-212a-45de-a024-65a17d2ae703",
+            "balance": 44759.77,
+            "transactions": [
+                {
+                    "date": "2024-03-03",
+                    "description": "Deposit",
+                    "amount": -553.09,
+                    "transaction_id": 112711113
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Withdrawal",
+                    "amount": -3888.52,
+                    "transaction_id": 39910848
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Withdrawal",
+                    "amount": 70.68,
+                    "transaction_id": 8077168
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Deposit",
+                    "amount": -3497.96,
+                    "transaction_id": 113353376
+                }
+            ]
+        }
+    }
+}

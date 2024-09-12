@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jill Clarke",
+        "age": 33,
+        "gender": "female",
+        "address": "1247 Ward Views Apt. 158, Port Ryan, PR 61761",
+        "phone": "(399)479-5971",
+        "email": "umccoy@example.net",
+        "account": {
+            "account_number": "50d26dae-4a24-4bd1-a910-979c342306ff",
+            "balance": 18889.83,
+            "transactions": [
+                {
+                    "date": "2024-04-30",
+                    "description": "Interest",
+                    "amount": 29976.79,
+                    "transaction_id": 31232345
+                },
+                {
+                    "date": "2023-08-01",
+                    "description": "Deposit",
+                    "amount": 11459.17,
+                    "transaction_id": 55720040
+                },
+                {
+                    "date": "2024-05-19",
+                    "description": "Deposit",
+                    "amount": 39391.01,
+                    "transaction_id": 117576652
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Withdrawal",
+                    "amount": 1945.48,
+                    "transaction_id": 76032879
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Deposit",
+                    "amount": 23831.22,
+                    "transaction_id": 105652502
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 94,
+        "gender": "male",
+        "address": "6483 Ball Vista Apt. 619, Port Sara, NJ 63484",
+        "phone": "001-421-788-4967x16068",
+        "email": "lisa41@example.org",
+        "account": {
+            "account_number": "67b3d89e-f67c-4fbc-b7ac-ce58eb39dbbe",
+            "balance": 29268.88,
+            "transactions": [
+                {
+                    "date": "2023-12-05",
+                    "description": "Deposit",
+                    "amount": -3397.37,
+                    "transaction_id": 10654780
+                },
+                {
+                    "date": "2023-04-29",
+                    "description": "Deposit",
+                    "amount": -3476.96,
+                    "transaction_id": 45373135
+                },
+                {
+                    "date": "2023-11-27",
+                    "description": "Withdrawal",
+                    "amount": -744.27,
+                    "transaction_id": 88952857
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Deposit",
+                    "amount": -100.76,
+                    "transaction_id": 70415318
+                }
+            ]
+        }
+    }
+}

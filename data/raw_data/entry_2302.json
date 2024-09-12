@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Matthew Lopez",
+        "age": 82,
+        "gender": "male",
+        "address": "775 Kenneth Meadows, Weaverstad, VT 75946",
+        "phone": "(876)661-9341",
+        "email": "lisasnyder@example.org",
+        "account": {
+            "account_number": "627a95af-5f85-4553-9627-8894b3f448e6",
+            "balance": 37513.69,
+            "transactions": [
+                {
+                    "date": "2023-09-04",
+                    "description": "Deposit",
+                    "amount": 11656.77,
+                    "transaction_id": 114446097
+                },
+                {
+                    "date": "2023-11-23",
+                    "description": "Withdrawal",
+                    "amount": 20333.53,
+                    "transaction_id": 44952724
+                },
+                {
+                    "date": "2024-02-18",
+                    "description": "Withdrawal",
+                    "amount": 32748.89,
+                    "transaction_id": 86166958
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Interest",
+                    "amount": 32309.43,
+                    "transaction_id": 3667803
+                },
+                {
+                    "date": "2023-07-19",
+                    "description": "Withdrawal",
+                    "amount": 4855.98,
+                    "transaction_id": 27916604
+                }
+            ]
+        }
+    }
+}

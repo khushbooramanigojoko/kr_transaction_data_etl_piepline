@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dennis Tucker",
+        "age": 36,
+        "gender": "female",
+        "address": "4331 Thomas Ramp Suite 175, East Deborah, IL 13295",
+        "phone": "001-217-872-3370x78493",
+        "email": "katherinemccarthy@example.com",
+        "account": {
+            "account_number": "d77987c5-8061-4ef5-aaa9-0ee8db2bf161",
+            "balance": 46302.48,
+            "transactions": [
+                {
+                    "date": "2024-04-05",
+                    "description": "Interest",
+                    "amount": 34132.01,
+                    "transaction_id": 102011787
+                }
+            ]
+        }
+    }
+}

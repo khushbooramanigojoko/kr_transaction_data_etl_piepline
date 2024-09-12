@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 18,
+        "gender": "female",
+        "address": "562 Michael Shoal, Brandimouth, AZ 28125",
+        "phone": "(555)827-2021x72649",
+        "email": "gary59@example.org",
+        "account": {
+            "account_number": "9588b8c7-b963-4151-be29-41320689c968",
+            "balance": 31783.11,
+            "transactions": [
+                {
+                    "date": "2022-12-30",
+                    "description": "Interest",
+                    "amount": -3304.54,
+                    "transaction_id": 78671454
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Withdrawal",
+                    "amount": -506.56,
+                    "transaction_id": 74644797
+                },
+                {
+                    "date": "2024-09-01",
+                    "description": "Deposit",
+                    "amount": -4980.85,
+                    "transaction_id": 118791151
+                },
+                {
+                    "date": "2023-10-25",
+                    "description": "Interest",
+                    "amount": 4385.82,
+                    "transaction_id": 8809508
+                }
+            ]
+        }
+    }
+}

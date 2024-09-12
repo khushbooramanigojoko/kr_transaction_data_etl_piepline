@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 21,
+        "gender": "female",
+        "address": "223 Daniel Tunnel Apt. 554, North Victoria, DC 33144",
+        "phone": "001-324-691-6910x71373",
+        "email": "mariaowens@example.net",
+        "account": {
+            "account_number": "53da0aec-62a8-4f08-99f3-5de20256cbf9",
+            "balance": 38467.37,
+            "transactions": [
+                {
+                    "date": "2023-04-17",
+                    "description": "Withdrawal",
+                    "amount": 4548.99,
+                    "transaction_id": 17165695
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Interest",
+                    "amount": 3714.59,
+                    "transaction_id": 106643943
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Interest",
+                    "amount": 3628.77,
+                    "transaction_id": 99091372
+                },
+                {
+                    "date": "2022-11-12",
+                    "description": "Deposit",
+                    "amount": 1083.44,
+                    "transaction_id": 118630627
+                }
+            ]
+        }
+    }
+}

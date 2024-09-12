@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mike Hill",
+        "age": 46,
+        "gender": "male",
+        "address": "94357 Grace Expressway, Lake Michaelmouth, ID 45584",
+        "phone": "001-864-485-7326",
+        "email": "cfranklin@example.com",
+        "account": {
+            "account_number": "0c64c41c-17d7-47b5-b9f1-53283460517f",
+            "balance": 44365.95,
+            "transactions": [
+                {
+                    "date": "2024-05-12",
+                    "description": "Interest",
+                    "amount": 24081.17,
+                    "transaction_id": 40812380
+                },
+                {
+                    "date": "2023-03-27",
+                    "description": "Withdrawal",
+                    "amount": 44234.15,
+                    "transaction_id": 81670670
+                },
+                {
+                    "date": "2024-05-21",
+                    "description": "Withdrawal",
+                    "amount": 7181.72,
+                    "transaction_id": 68953622
+                },
+                {
+                    "date": "2023-08-25",
+                    "description": "Deposit",
+                    "amount": 28901.94,
+                    "transaction_id": 112903009
+                },
+                {
+                    "date": "2023-04-16",
+                    "description": "Interest",
+                    "amount": 28058.08,
+                    "transaction_id": 82285855
+                }
+            ]
+        }
+    }
+}

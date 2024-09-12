@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Nicole Perez",
+        "age": 51,
+        "gender": "male",
+        "address": "68411 Castro Run Apt. 281, Michaelfort, TN 47551",
+        "phone": "+1-712-882-4607",
+        "email": "nbrown@example.net",
+        "account": {
+            "account_number": "e7eee373-f9f8-48b3-933d-e262286907f5",
+            "balance": 35382.77,
+            "transactions": [
+                {
+                    "date": "2024-06-26",
+                    "description": "Interest",
+                    "amount": 12872.12,
+                    "transaction_id": 57575551
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Weber",
+        "age": 59,
+        "gender": "male",
+        "address": "644 Mcguire Corners Apt. 332, Port Nancyview, NJ 58787",
+        "phone": "(223)887-8756",
+        "email": "dwayneking@example.org",
+        "account": {
+            "account_number": "b1894c49-e484-46d5-a84e-2771d6db8b77",
+            "balance": 17603.55,
+            "transactions": [
+                {
+                    "date": "2024-07-23",
+                    "description": "Interest",
+                    "amount": 39727.01,
+                    "transaction_id": 28276597
+                },
+                {
+                    "date": "2022-11-07",
+                    "description": "Interest",
+                    "amount": 11384.15,
+                    "transaction_id": 113787917
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Interest",
+                    "amount": 28277.13,
+                    "transaction_id": 49690993
+                },
+                {
+                    "date": "2022-12-08",
+                    "description": "Withdrawal",
+                    "amount": 36732.0,
+                    "transaction_id": 21475539
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Withdrawal",
+                    "amount": 39014.67,
+                    "transaction_id": 7174057
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 27,
+        "gender": "female",
+        "address": "8756 Eric Keys, Port Lisa, CT 74809",
+        "phone": "(513)308-0265",
+        "email": "elizabeth32@example.org",
+        "account": {
+            "account_number": "d0a85e61-3176-483d-b365-1febd232155c",
+            "balance": 22915.16,
+            "transactions": [
+                {
+                    "date": "2023-03-23",
+                    "description": "Interest",
+                    "amount": 2039.66,
+                    "transaction_id": 9145027
+                },
+                {
+                    "date": "2023-10-22",
+                    "description": "Deposit",
+                    "amount": 3099.21,
+                    "transaction_id": 80097622
+                },
+                {
+                    "date": "2023-08-01",
+                    "description": "Interest",
+                    "amount": -2980.25,
+                    "transaction_id": 94795619
+                }
+            ]
+        }
+    }
+}

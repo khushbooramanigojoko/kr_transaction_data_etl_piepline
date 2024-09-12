@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joel Clark",
+        "age": 81,
+        "gender": "female",
+        "address": "7530 Thompson Island, Port Bonniefort, HI 03466",
+        "phone": "+1-641-449-0584",
+        "email": "jose33@example.net",
+        "account": {
+            "account_number": "4d4db9a4-ee35-4e3f-94b8-69bd4060a5b2",
+            "balance": 24819.26,
+            "transactions": [
+                {
+                    "date": "2023-02-14",
+                    "description": "Interest",
+                    "amount": 41222.05,
+                    "transaction_id": 7764341
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Deposit",
+                    "amount": 40160.83,
+                    "transaction_id": 29170468
+                },
+                {
+                    "date": "2022-10-25",
+                    "description": "Deposit",
+                    "amount": 30902.04,
+                    "transaction_id": 30016528
+                },
+                {
+                    "date": "2023-07-30",
+                    "description": "Withdrawal",
+                    "amount": 23384.4,
+                    "transaction_id": 87001983
+                }
+            ]
+        }
+    }
+}

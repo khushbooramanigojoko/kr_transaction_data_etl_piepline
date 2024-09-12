@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 33,
+        "gender": "male",
+        "address": "3893 Smith Land Apt. 681, East Nathanton, ND 59578",
+        "phone": "001-789-729-5380x49873",
+        "email": "brandi53@example.com",
+        "account": {
+            "account_number": "7a6bb88a-de7a-4e6f-bcde-09c8138a5a59",
+            "balance": 28592.04,
+            "transactions": [
+                {
+                    "date": "2024-03-02",
+                    "description": "Interest",
+                    "amount": -211.29,
+                    "transaction_id": 66443504
+                }
+            ]
+        }
+    }
+}

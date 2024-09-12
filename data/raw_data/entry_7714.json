@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lori Clark",
+        "age": 76,
+        "gender": "male",
+        "address": "3686 Mark Ridge, Michaelview, AR 00925",
+        "phone": "904.899.3564",
+        "email": "stacey93@example.com",
+        "account": {
+            "account_number": "7fce4df1-e615-4698-9e8f-750e614ecf8e",
+            "balance": 34584.85,
+            "transactions": [
+                {
+                    "date": "2023-05-19",
+                    "description": "Deposit",
+                    "amount": 27075.68,
+                    "transaction_id": 62076768
+                }
+            ]
+        }
+    }
+}

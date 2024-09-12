@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christina Myers",
+        "age": 93,
+        "gender": "female",
+        "address": "1164 Wesley Roads, New Jonathanland, LA 78401",
+        "phone": "2989968333",
+        "email": "jenniferallen@example.net",
+        "account": {
+            "account_number": "4043c3b3-5e09-495c-9931-1ba58e509f9b",
+            "balance": -17406.96,
+            "transactions": [
+                {
+                    "date": "2024-03-20",
+                    "description": "Deposit",
+                    "amount": -1527.1,
+                    "transaction_id": 10183408
+                },
+                {
+                    "date": "2023-01-31",
+                    "description": "Interest",
+                    "amount": 3263.32,
+                    "transaction_id": 34415243
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Withdrawal",
+                    "amount": 2447.4,
+                    "transaction_id": 27569373
+                },
+                {
+                    "date": "2022-11-06",
+                    "description": "Deposit",
+                    "amount": 2175.23,
+                    "transaction_id": 40460275
+                }
+            ]
+        }
+    }
+}

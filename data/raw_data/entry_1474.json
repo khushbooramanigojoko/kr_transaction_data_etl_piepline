@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Scott Banks",
+        "age": 44,
+        "gender": "female",
+        "address": "0591 Jesus Key Suite 395, Josephchester, KS 28930",
+        "phone": "(611)946-3235",
+        "email": "fdavis@example.com",
+        "account": {
+            "account_number": "d6d567eb-b48a-459d-81e4-63bcc5266b3f",
+            "balance": 34144.48,
+            "transactions": [
+                {
+                    "date": "2024-01-04",
+                    "description": "Withdrawal",
+                    "amount": 44239.64,
+                    "transaction_id": 52858634
+                }
+            ]
+        }
+    }
+}

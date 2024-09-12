@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Taylor Cannon",
+        "age": 24,
+        "gender": "female",
+        "address": "016 Soto Alley Apt. 501, Sullivanville, LA 31818",
+        "phone": "(309)671-5088x860",
+        "email": "norma31@example.net",
+        "account": {
+            "account_number": "bfd22fb7-0bf8-4d3e-8df3-4bcbbd3fec91",
+            "balance": 47891.81,
+            "transactions": [
+                {
+                    "date": "2024-07-04",
+                    "description": "Withdrawal",
+                    "amount": 13954.98,
+                    "transaction_id": 59423719
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Withdrawal",
+                    "amount": 16551.89,
+                    "transaction_id": 46649862
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Withdrawal",
+                    "amount": 49071.0,
+                    "transaction_id": 4100984
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Withdrawal",
+                    "amount": 1279.09,
+                    "transaction_id": 107415468
+                }
+            ]
+        }
+    }
+}

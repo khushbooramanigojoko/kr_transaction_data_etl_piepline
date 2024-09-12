@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kyle Garcia",
+        "age": 68,
+        "gender": "male",
+        "address": "5844 Miller Fork, Williamchester, MH 84670",
+        "phone": "+1-641-665-7466",
+        "email": "iperez@example.net",
+        "account": {
+            "account_number": "88fa1e97-3023-41a9-98d0-2ddf861fda1a",
+            "balance": -31271.19,
+            "transactions": [
+                {
+                    "date": "2022-09-16",
+                    "description": "Deposit",
+                    "amount": 1459.38,
+                    "transaction_id": 25149793
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Interest",
+                    "amount": -4367.36,
+                    "transaction_id": 90840169
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Deposit",
+                    "amount": -3296.18,
+                    "transaction_id": 35730064
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Deposit",
+                    "amount": -2344.28,
+                    "transaction_id": 11691369
+                },
+                {
+                    "date": "2022-10-30",
+                    "description": "Withdrawal",
+                    "amount": 1342.61,
+                    "transaction_id": 57772001
+                }
+            ]
+        }
+    }
+}

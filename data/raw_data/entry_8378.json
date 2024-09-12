@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Julie Sexton",
+        "age": 68,
+        "gender": "female",
+        "address": "USNV Villa, FPO AA 77849",
+        "phone": "(485)613-9427x125",
+        "email": "mesparza@example.org",
+        "account": {
+            "account_number": "76719ca8-dbb9-4c11-99f1-2e67e39b746c",
+            "balance": 41313.96,
+            "transactions": [
+                {
+                    "date": "2023-05-02",
+                    "description": "Interest",
+                    "amount": 45587.28,
+                    "transaction_id": 100764510
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Deposit",
+                    "amount": 5785.92,
+                    "transaction_id": 44444165
+                }
+            ]
+        }
+    }
+}

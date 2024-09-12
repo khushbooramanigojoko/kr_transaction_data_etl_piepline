@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "David Daniel",
+        "age": 52,
+        "gender": "female",
+        "address": "78216 Nichole Point Apt. 091, New Roger, IN 73776",
+        "phone": "413.542.8991x830",
+        "email": "brenda11@example.org",
+        "account": {
+            "account_number": "29973167-a33d-40b7-aad5-f634ed91d77a",
+            "balance": 6510.99,
+            "transactions": [
+                {
+                    "date": "2023-01-08",
+                    "description": "Withdrawal",
+                    "amount": 1812.31,
+                    "transaction_id": 83296909
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Deposit",
+                    "amount": 26553.03,
+                    "transaction_id": 78299371
+                }
+            ]
+        }
+    }
+}

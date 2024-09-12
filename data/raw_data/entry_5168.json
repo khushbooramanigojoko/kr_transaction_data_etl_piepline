@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christina Anderson",
+        "age": 20,
+        "gender": "female",
+        "address": "63832 Silva Centers Apt. 128, Christophershire, FL 28687",
+        "phone": "604-619-1531x18141",
+        "email": "danawillis@example.org",
+        "account": {
+            "account_number": "cabaed4d-03cf-47e1-a44c-4107e376d7e0",
+            "balance": 34707.61,
+            "transactions": [
+                {
+                    "date": "2023-09-01",
+                    "description": "Deposit",
+                    "amount": 14933.39,
+                    "transaction_id": 116047638
+                },
+                {
+                    "date": "2023-12-18",
+                    "description": "Deposit",
+                    "amount": 14107.47,
+                    "transaction_id": 36614512
+                },
+                {
+                    "date": "2024-02-28",
+                    "description": "Deposit",
+                    "amount": 27229.43,
+                    "transaction_id": 15996530
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Withdrawal",
+                    "amount": 22635.1,
+                    "transaction_id": 78721052
+                },
+                {
+                    "date": "2023-08-04",
+                    "description": "Interest",
+                    "amount": 24065.18,
+                    "transaction_id": 74882576
+                }
+            ]
+        }
+    }
+}

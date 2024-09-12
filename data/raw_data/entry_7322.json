@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Daniel Mcintosh",
+        "age": 91,
+        "gender": "female",
+        "address": "197 Harrison Stravenue Apt. 951, Thompsonchester, OR 75089",
+        "phone": "(348)915-3382x319",
+        "email": "uboyd@example.org",
+        "account": {
+            "account_number": "0eeb94f6-c9a9-4d3e-a3b3-abae5118282a",
+            "balance": 1609.17,
+            "transactions": [
+                {
+                    "date": "2023-12-12",
+                    "description": "Deposit",
+                    "amount": 22347.94,
+                    "transaction_id": 82546601
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Interest",
+                    "amount": 9735.06,
+                    "transaction_id": 3391269
+                }
+            ]
+        }
+    }
+}

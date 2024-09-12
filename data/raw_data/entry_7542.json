@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Samantha Chavez",
+        "age": 46,
+        "gender": "male",
+        "address": "30043 Mcpherson Roads Apt. 491, Natalieberg, ND 52168",
+        "phone": "766-416-5440x57083",
+        "email": "marshalljesse@example.net",
+        "account": {
+            "account_number": "3cc65ae4-9c24-41ef-992c-ac0426c8d2ba",
+            "balance": 17087.3,
+            "transactions": [
+                {
+                    "date": "2024-02-03",
+                    "description": "Withdrawal",
+                    "amount": 38646.2,
+                    "transaction_id": 19283673
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Withdrawal",
+                    "amount": 16281.77,
+                    "transaction_id": 91718906
+                },
+                {
+                    "date": "2023-02-27",
+                    "description": "Interest",
+                    "amount": 42948.57,
+                    "transaction_id": 27502519
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Deposit",
+                    "amount": 18353.92,
+                    "transaction_id": 109566382
+                }
+            ]
+        }
+    }
+}

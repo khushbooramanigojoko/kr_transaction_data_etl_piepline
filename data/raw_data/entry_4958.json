@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kevin Oconnor",
+        "age": 27,
+        "gender": "male",
+        "address": "79198 Smith Valley Suite 866, West Phillip, PW 89020",
+        "phone": "001-738-551-3153x4865",
+        "email": "kevingiles@example.org",
+        "account": {
+            "account_number": "9dd800fa-e674-4e7a-8aef-73b205898448",
+            "balance": 48364.9,
+            "transactions": [
+                {
+                    "date": "2022-11-20",
+                    "description": "Interest",
+                    "amount": 7044.75,
+                    "transaction_id": 26782477
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Deposit",
+                    "amount": 34773.25,
+                    "transaction_id": 88404316
+                },
+                {
+                    "date": "2022-10-21",
+                    "description": "Deposit",
+                    "amount": 42164.23,
+                    "transaction_id": 41386866
+                }
+            ]
+        }
+    }
+}

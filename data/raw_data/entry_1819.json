@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Rebecca Collins",
+        "age": 62,
+        "gender": "female",
+        "address": "934 Gomez Ridge Apt. 128, New Robert, WY 43252",
+        "phone": "6828816378",
+        "email": "dpark@example.com",
+        "account": {
+            "account_number": "2d9b231f-6062-44ae-8df0-37c64c42d915",
+            "balance": 27588.24,
+            "transactions": [
+                {
+                    "date": "2024-06-28",
+                    "description": "Deposit",
+                    "amount": 1537.9,
+                    "transaction_id": 57348349
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Deposit",
+                    "amount": 24203.98,
+                    "transaction_id": 29326481
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Deposit",
+                    "amount": 37788.53,
+                    "transaction_id": 97602988
+                }
+            ]
+        }
+    }
+}

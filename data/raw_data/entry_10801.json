@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 70,
+        "gender": "male",
+        "address": "48215 Johnson Harbor Apt. 416, Martinberg, NV 12444",
+        "phone": "+1-703-922-0333x28612",
+        "email": "melissa77@example.com",
+        "account": {
+            "account_number": "1adece4c-e2d4-4933-9ff5-e4f83b3bf072",
+            "balance": 1165.68,
+            "transactions": [
+                {
+                    "date": "2022-12-01",
+                    "description": "Withdrawal",
+                    "amount": -3825.69,
+                    "transaction_id": 42064754
+                },
+                {
+                    "date": "2023-10-16",
+                    "description": "Deposit",
+                    "amount": 3232.3,
+                    "transaction_id": 114091973
+                },
+                {
+                    "date": "2023-08-05",
+                    "description": "Withdrawal",
+                    "amount": -1371.16,
+                    "transaction_id": 77629002
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Deposit",
+                    "amount": 2930.21,
+                    "transaction_id": 62824631
+                },
+                {
+                    "date": "2024-08-23",
+                    "description": "Withdrawal",
+                    "amount": -2032.13,
+                    "transaction_id": 39985169
+                }
+            ]
+        }
+    }
+}

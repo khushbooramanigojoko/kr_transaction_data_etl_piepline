@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joshua Jones",
+        "age": 67,
+        "gender": "male",
+        "address": "9530 Frederick Fords Apt. 759, East Zachary, CT 49963",
+        "phone": "3578932699",
+        "email": "zgray@example.net",
+        "account": {
+            "account_number": "3c725699-539f-4dd2-a0e4-b333507fdde9",
+            "balance": 3122.81,
+            "transactions": [
+                {
+                    "date": "2024-08-13",
+                    "description": "Interest",
+                    "amount": 20356.47,
+                    "transaction_id": 45851669
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Deposit",
+                    "amount": 48425.93,
+                    "transaction_id": 33758743
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Deposit",
+                    "amount": 5251.58,
+                    "transaction_id": 109919403
+                },
+                {
+                    "date": "2023-10-24",
+                    "description": "Interest",
+                    "amount": 27994.48,
+                    "transaction_id": 5817924
+                }
+            ]
+        }
+    }
+}

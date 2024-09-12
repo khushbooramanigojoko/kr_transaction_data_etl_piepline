@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jessica Mills",
+        "age": 29,
+        "gender": "female",
+        "address": "USCGC Palmer, FPO AE 97499",
+        "phone": "247.464.7691x97162",
+        "email": "kyle00@example.org",
+        "account": {
+            "account_number": "73f4bb4f-dd26-4104-a608-9d21e3bab07d",
+            "balance": 26391.18,
+            "transactions": [
+                {
+                    "date": "2023-07-12",
+                    "description": "Interest",
+                    "amount": 10037.02,
+                    "transaction_id": 28186243
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Withdrawal",
+                    "amount": 24089.91,
+                    "transaction_id": 110432667
+                },
+                {
+                    "date": "2024-01-29",
+                    "description": "Interest",
+                    "amount": 36449.26,
+                    "transaction_id": 52330314
+                },
+                {
+                    "date": "2024-05-26",
+                    "description": "Interest",
+                    "amount": 17114.57,
+                    "transaction_id": 43269507
+                }
+            ]
+        }
+    }
+}

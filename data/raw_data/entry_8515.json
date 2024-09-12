@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Rebecca Davis",
+        "age": 84,
+        "gender": "male",
+        "address": "3045 Felicia Loaf Suite 351, Petersonchester, WI 69801",
+        "phone": "+1-977-294-0073x39059",
+        "email": "nicolefoster@example.net",
+        "account": {
+            "account_number": "49791e94-0dfd-49dd-a326-4671c1398630",
+            "balance": 26747.02,
+            "transactions": [
+                {
+                    "date": "2024-08-20",
+                    "description": "Deposit",
+                    "amount": 12494.11,
+                    "transaction_id": 39619873
+                },
+                {
+                    "date": "2023-07-13",
+                    "description": "Deposit",
+                    "amount": 18335.42,
+                    "transaction_id": 40111639
+                },
+                {
+                    "date": "2024-07-24",
+                    "description": "Interest",
+                    "amount": 48101.04,
+                    "transaction_id": 21575177
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Deposit",
+                    "amount": 43161.67,
+                    "transaction_id": 38247255
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Withdrawal",
+                    "amount": 4241.13,
+                    "transaction_id": 110782653
+                }
+            ]
+        }
+    }
+}

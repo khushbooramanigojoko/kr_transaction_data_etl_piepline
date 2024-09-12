@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christina Torres",
+        "age": 91,
+        "gender": "female",
+        "address": "Unit 5984 Box 5725, DPO AE 32232",
+        "phone": "575.833.5216",
+        "email": "mariajohnson@example.org",
+        "account": {
+            "account_number": "265dff48-db44-429c-8781-9b10e2fe6bce",
+            "balance": 24095.78,
+            "transactions": [
+                {
+                    "date": "2023-09-16",
+                    "description": "Deposit",
+                    "amount": 29546.45,
+                    "transaction_id": 118395788
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brian Mcmillan",
+        "age": 83,
+        "gender": "female",
+        "address": "72628 Lee Burg Suite 422, South Elizabethland, MP 61746",
+        "phone": "(724)754-9562x1165",
+        "email": "jeremiahreeves@example.net",
+        "account": {
+            "account_number": "530392f9-e77d-4964-aa5c-c7e89030e1bb",
+            "balance": 8413.71,
+            "transactions": [
+                {
+                    "date": "2023-10-01",
+                    "description": "Deposit",
+                    "amount": 38583.3,
+                    "transaction_id": 34688718
+                },
+                {
+                    "date": "2023-12-08",
+                    "description": "Withdrawal",
+                    "amount": 6402.77,
+                    "transaction_id": 42780391
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Withdrawal",
+                    "amount": 25754.19,
+                    "transaction_id": 63020446
+                },
+                {
+                    "date": "2024-03-26",
+                    "description": "Withdrawal",
+                    "amount": 27796.3,
+                    "transaction_id": 47414708
+                }
+            ]
+        }
+    }
+}

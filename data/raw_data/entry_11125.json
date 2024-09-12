@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 78,
+        "gender": "female",
+        "address": "5716 Christina Unions Apt. 202, Olsonchester, NY 70738",
+        "phone": "001-938-513-1101",
+        "email": "jameshill@example.com",
+        "account": {
+            "account_number": "f58a6ddb-6062-4543-be7b-2eaff8161252",
+            "balance": 3598.74,
+            "transactions": [
+                {
+                    "date": "2023-01-15",
+                    "description": "Deposit",
+                    "amount": -3310.88,
+                    "transaction_id": 18507468
+                },
+                {
+                    "date": "2024-03-21",
+                    "description": "Withdrawal",
+                    "amount": -2182.87,
+                    "transaction_id": 47239134
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Interest",
+                    "amount": -142.4,
+                    "transaction_id": 69633552
+                },
+                {
+                    "date": "2023-04-15",
+                    "description": "Interest",
+                    "amount": -2294.91,
+                    "transaction_id": 72172204
+                }
+            ]
+        }
+    }
+}

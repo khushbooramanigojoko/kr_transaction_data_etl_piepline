@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Robert Aguilar",
+        "age": 29,
+        "gender": "female",
+        "address": "USCGC Garcia, FPO AP 20936",
+        "phone": "946.831.9114x04887",
+        "email": "bentleygeorge@example.com",
+        "account": {
+            "account_number": "fe1468f6-f434-46b5-9fae-d2a52aa12afc",
+            "balance": 25370.17,
+            "transactions": [
+                {
+                    "date": "2023-10-30",
+                    "description": "Deposit",
+                    "amount": 5037.88,
+                    "transaction_id": 7606114
+                },
+                {
+                    "date": "2023-05-30",
+                    "description": "Deposit",
+                    "amount": 4536.86,
+                    "transaction_id": 6819102
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Deposit",
+                    "amount": 34654.02,
+                    "transaction_id": 75845824
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Interest",
+                    "amount": 342.87,
+                    "transaction_id": 10622857
+                }
+            ]
+        }
+    }
+}

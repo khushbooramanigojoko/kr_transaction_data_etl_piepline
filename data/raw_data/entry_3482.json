@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jose Serrano",
+        "age": 79,
+        "gender": "female",
+        "address": "0827 Manning Locks Suite 753, Port Joseph, ND 95390",
+        "phone": "(953)859-2913x22697",
+        "email": "santanaelizabeth@example.com",
+        "account": {
+            "account_number": "3ce2e576-f8e4-4708-adaf-ef429e5f1bb1",
+            "balance": 48578.77,
+            "transactions": [
+                {
+                    "date": "2022-09-11",
+                    "description": "Withdrawal",
+                    "amount": 48713.56,
+                    "transaction_id": 14429740
+                },
+                {
+                    "date": "2024-02-03",
+                    "description": "Withdrawal",
+                    "amount": 38695.56,
+                    "transaction_id": 60849815
+                },
+                {
+                    "date": "2023-11-09",
+                    "description": "Interest",
+                    "amount": 40720.62,
+                    "transaction_id": 22558138
+                },
+                {
+                    "date": "2024-02-10",
+                    "description": "Deposit",
+                    "amount": 14980.41,
+                    "transaction_id": 62621043
+                }
+            ]
+        }
+    }
+}

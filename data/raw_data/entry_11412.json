@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 26,
+        "gender": "male",
+        "address": "77095 Castro Views, North Andrewport, NE 21937",
+        "phone": "242-951-5082",
+        "email": "erinwright@example.org",
+        "account": {
+            "account_number": "0e766cf2-29ec-48b6-81c8-9ac733ae10fa",
+            "balance": 6250.26,
+            "transactions": [
+                {
+                    "date": "2022-09-29",
+                    "description": "Interest",
+                    "amount": 2851.69,
+                    "transaction_id": 47590581
+                }
+            ]
+        }
+    }
+}

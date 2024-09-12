@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jerry Cooper",
+        "age": 87,
+        "gender": "male",
+        "address": "433 Kathy Cliffs, Wesleystad, WI 64961",
+        "phone": "+1-775-799-7509x82111",
+        "email": "vargaskathleen@example.com",
+        "account": {
+            "account_number": "7b1f2e4c-c951-492a-9387-5118b8242ab6",
+            "balance": 9471.64,
+            "transactions": [
+                {
+                    "date": "2022-09-22",
+                    "description": "Deposit",
+                    "amount": 6814.14,
+                    "transaction_id": 80310541
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Deposit",
+                    "amount": 18711.12,
+                    "transaction_id": 59506836
+                }
+            ]
+        }
+    }
+}

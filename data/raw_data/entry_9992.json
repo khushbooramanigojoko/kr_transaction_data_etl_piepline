@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mr. Patrick Ortega",
+        "age": 21,
+        "gender": "female",
+        "address": "61563 Perry Walk Apt. 132, North Bryanside, IN 88999",
+        "phone": "+1-563-396-8278",
+        "email": "robert37@example.net",
+        "account": {
+            "account_number": "28ef6c12-60ac-4127-8f52-f450cb0ed46d",
+            "balance": -44125.32,
+            "transactions": [
+                {
+                    "date": "2023-02-02",
+                    "description": "Deposit",
+                    "amount": -240.1,
+                    "transaction_id": 45224130
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Withdrawal",
+                    "amount": -4878.13,
+                    "transaction_id": 118282418
+                }
+            ]
+        }
+    }
+}

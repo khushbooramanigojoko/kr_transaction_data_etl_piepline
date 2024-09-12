@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Charles Cline",
+        "age": 23,
+        "gender": "male",
+        "address": "730 Justin Ridge Apt. 291, New Kelly, HI 40946",
+        "phone": "(496)251-1164",
+        "email": "jessica07@example.com",
+        "account": {
+            "account_number": "a7f29af7-efe1-4a9a-843e-1f0c65841a04",
+            "balance": -22185.12,
+            "transactions": [
+                {
+                    "date": "2023-12-28",
+                    "description": "Interest",
+                    "amount": 443.75,
+                    "transaction_id": 73869438
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Interest",
+                    "amount": 1935.63,
+                    "transaction_id": 27627365
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Deposit",
+                    "amount": -4116.65,
+                    "transaction_id": 10716788
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Interest",
+                    "amount": 2662.48,
+                    "transaction_id": 6977368
+                },
+                {
+                    "date": "2023-10-19",
+                    "description": "Deposit",
+                    "amount": -1657.93,
+                    "transaction_id": 103130407
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "John Jenkins",
+        "age": 75,
+        "gender": "male",
+        "address": "754 Beasley Mountain, Port Stephaniefurt, IA 38851",
+        "phone": "001-336-805-1205x820",
+        "email": "harrisonallison@example.org",
+        "account": {
+            "account_number": "30f18e7d-42a4-4890-ab9b-5ea7e7dcb992",
+            "balance": 8889.48,
+            "transactions": [
+                {
+                    "date": "2023-01-28",
+                    "description": "Withdrawal",
+                    "amount": 30478.1,
+                    "transaction_id": 109618449
+                }
+            ]
+        }
+    }
+}

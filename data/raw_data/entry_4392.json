@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Gomez",
+        "age": 26,
+        "gender": "male",
+        "address": "4865 Johnson Estates, Port Judy, NY 85380",
+        "phone": "(788)816-2322x99852",
+        "email": "bryanmccann@example.com",
+        "account": {
+            "account_number": "ba640d69-3f5e-4e08-8304-8880d1304b80",
+            "balance": 18373.06,
+            "transactions": [
+                {
+                    "date": "2022-10-10",
+                    "description": "Deposit",
+                    "amount": 33630.74,
+                    "transaction_id": 57642572
+                }
+            ]
+        }
+    }
+}

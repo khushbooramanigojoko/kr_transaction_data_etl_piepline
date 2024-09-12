@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 83,
+        "gender": "male",
+        "address": "17861 Terri Shore, Gutierrezchester, MT 74196",
+        "phone": "001-244-220-4275x77959",
+        "email": "faulkneralyssa@example.com",
+        "account": {
+            "account_number": "0b948b92-d59e-41c9-88fb-fc7c2b70f4ff",
+            "balance": 49089.07,
+            "transactions": [
+                {
+                    "date": "2024-03-09",
+                    "description": "Withdrawal",
+                    "amount": -4759.66,
+                    "transaction_id": 53169291
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Withdrawal",
+                    "amount": -2200.5,
+                    "transaction_id": 40464996
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Timothy Smith",
+        "age": 40,
+        "gender": "female",
+        "address": "90251 Duncan River, New Robertbury, NH 66098",
+        "phone": "(693)574-7302",
+        "email": "ltaylor@example.com",
+        "account": {
+            "account_number": "bf3cc583-1699-41ab-bbbb-ee5d690dac49",
+            "balance": -28006.51,
+            "transactions": [
+                {
+                    "date": "2023-02-02",
+                    "description": "Deposit",
+                    "amount": -3132.55,
+                    "transaction_id": 109717725
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Interest",
+                    "amount": -1101.35,
+                    "transaction_id": 82768116
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Withdrawal",
+                    "amount": -1110.37,
+                    "transaction_id": 65213545
+                },
+                {
+                    "date": "2023-05-23",
+                    "description": "Deposit",
+                    "amount": -3262.77,
+                    "transaction_id": 116075260
+                },
+                {
+                    "date": "2024-08-09",
+                    "description": "Deposit",
+                    "amount": -3459.36,
+                    "transaction_id": 37575698
+                }
+            ]
+        }
+    }
+}

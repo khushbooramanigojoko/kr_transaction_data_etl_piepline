@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jim Nguyen",
+        "age": 66,
+        "gender": "male",
+        "address": "403 Thomas Isle Suite 823, Williebury, WI 55097",
+        "phone": "944.289.6265x10395",
+        "email": "donna80@example.net",
+        "account": {
+            "account_number": "72694558-994d-4776-b3d0-0a4386fe4c42",
+            "balance": 34042.29,
+            "transactions": [
+                {
+                    "date": "2022-09-18",
+                    "description": "Withdrawal",
+                    "amount": 23863.19,
+                    "transaction_id": 84292844
+                }
+            ]
+        }
+    }
+}

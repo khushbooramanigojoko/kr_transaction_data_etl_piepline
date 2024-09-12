@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jaime Howell",
+        "age": 24,
+        "gender": "male",
+        "address": "22532 Diaz Spur Apt. 471, New Jenna, AS 33614",
+        "phone": "219.935.8982x75305",
+        "email": "ryanchristopher@example.net",
+        "account": {
+            "account_number": "500c258c-acf3-4fa8-b717-cc630f4b20f4",
+            "balance": 43588.87,
+            "transactions": [
+                {
+                    "date": "2022-09-26",
+                    "description": "Deposit",
+                    "amount": 21554.27,
+                    "transaction_id": 99195122
+                },
+                {
+                    "date": "2023-08-22",
+                    "description": "Withdrawal",
+                    "amount": 42252.79,
+                    "transaction_id": 73990220
+                },
+                {
+                    "date": "2023-10-12",
+                    "description": "Deposit",
+                    "amount": 24354.7,
+                    "transaction_id": 10160949
+                },
+                {
+                    "date": "2024-06-06",
+                    "description": "Interest",
+                    "amount": 30344.3,
+                    "transaction_id": 119397265
+                }
+            ]
+        }
+    }
+}

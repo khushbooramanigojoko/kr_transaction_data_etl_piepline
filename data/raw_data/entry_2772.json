@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joshua Morrison",
+        "age": 80,
+        "gender": "male",
+        "address": "066 Wells Field, Sarahaven, GA 93184",
+        "phone": "(507)879-2786x7131",
+        "email": "gwells@example.net",
+        "account": {
+            "account_number": "0f82e834-e65b-4c8b-b85a-427fffa02f46",
+            "balance": 24536.75,
+            "transactions": [
+                {
+                    "date": "2024-08-16",
+                    "description": "Deposit",
+                    "amount": 16281.63,
+                    "transaction_id": 83650518
+                },
+                {
+                    "date": "2023-03-02",
+                    "description": "Interest",
+                    "amount": 38553.84,
+                    "transaction_id": 5631140
+                },
+                {
+                    "date": "2022-11-23",
+                    "description": "Withdrawal",
+                    "amount": 35372.07,
+                    "transaction_id": 69876596
+                }
+            ]
+        }
+    }
+}

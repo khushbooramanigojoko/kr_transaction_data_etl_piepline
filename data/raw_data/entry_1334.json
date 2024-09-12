@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kelly Sweeney",
+        "age": 18,
+        "gender": "female",
+        "address": "5970 Scott Mount Suite 233, West Joel, MP 29021",
+        "phone": "7508498063",
+        "email": "williamgray@example.net",
+        "account": {
+            "account_number": "ae7f5419-ca41-420c-a986-285c0ff385c6",
+            "balance": 21169.17,
+            "transactions": [
+                {
+                    "date": "2023-04-25",
+                    "description": "Deposit",
+                    "amount": 15268.96,
+                    "transaction_id": 8198866
+                }
+            ]
+        }
+    }
+}

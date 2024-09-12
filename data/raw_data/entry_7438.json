@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joshua Barker",
+        "age": 75,
+        "gender": "female",
+        "address": "8453 Daniel Glen, West Brian, AR 55032",
+        "phone": "651.735.3311x10630",
+        "email": "jaredwatson@example.net",
+        "account": {
+            "account_number": "fca1775f-aa41-4d50-82c2-7294392814bc",
+            "balance": 35028.24,
+            "transactions": [
+                {
+                    "date": "2023-10-19",
+                    "description": "Withdrawal",
+                    "amount": 22565.39,
+                    "transaction_id": 2226491
+                },
+                {
+                    "date": "2024-02-20",
+                    "description": "Deposit",
+                    "amount": 16146.36,
+                    "transaction_id": 84907714
+                }
+            ]
+        }
+    }
+}

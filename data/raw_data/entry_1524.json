@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Barbara Sosa",
+        "age": 83,
+        "gender": "male",
+        "address": "Unit 1824 Box 8175, DPO AE 10455",
+        "phone": "3818714073",
+        "email": "anamyers@example.com",
+        "account": {
+            "account_number": "20fbd425-ad55-403b-8b79-8798672380e0",
+            "balance": 17335.73,
+            "transactions": [
+                {
+                    "date": "2024-02-04",
+                    "description": "Withdrawal",
+                    "amount": 24756.27,
+                    "transaction_id": 85584114
+                }
+            ]
+        }
+    }
+}

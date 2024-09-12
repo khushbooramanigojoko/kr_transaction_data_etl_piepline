@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Evan Kaufman",
+        "age": 37,
+        "gender": "female",
+        "address": "03034 David Lakes, Karenhaven, NC 82220",
+        "phone": "282-939-3216",
+        "email": "ericajones@example.org",
+        "account": {
+            "account_number": "39f34577-3a52-488a-80cc-7b622b8dbab3",
+            "balance": 22443.27,
+            "transactions": [
+                {
+                    "date": "2023-04-23",
+                    "description": "Interest",
+                    "amount": 49802.99,
+                    "transaction_id": 62075116
+                },
+                {
+                    "date": "2022-12-13",
+                    "description": "Deposit",
+                    "amount": 17939.42,
+                    "transaction_id": 51086126
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Interest",
+                    "amount": 30262.51,
+                    "transaction_id": 94262404
+                }
+            ]
+        }
+    }
+}

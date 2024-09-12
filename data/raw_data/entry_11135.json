@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 96,
+        "gender": "female",
+        "address": "786 Henderson Alley, West Heather, PA 75780",
+        "phone": "516.916.7428",
+        "email": "glennroberts@example.org",
+        "account": {
+            "account_number": "95dbefd0-b88f-4a7e-8ea3-123a9878627c",
+            "balance": 27803.11,
+            "transactions": [
+                {
+                    "date": "2022-09-15",
+                    "description": "Deposit",
+                    "amount": 1999.14,
+                    "transaction_id": 6279017
+                },
+                {
+                    "date": "2022-11-18",
+                    "description": "Interest",
+                    "amount": 2082.19,
+                    "transaction_id": 55242803
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Interest",
+                    "amount": 1650.69,
+                    "transaction_id": 87291312
+                }
+            ]
+        }
+    }
+}

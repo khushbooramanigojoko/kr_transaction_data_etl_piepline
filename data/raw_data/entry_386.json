@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Donna Harper",
+        "age": 64,
+        "gender": "female",
+        "address": "544 Derek Turnpike Apt. 135, Amyville, MN 03332",
+        "phone": "(227)466-9609",
+        "email": "tara01@example.com",
+        "account": {
+            "account_number": "c9e34409-2da2-4f0f-96fa-ecd2e17e5181",
+            "balance": 31324.72,
+            "transactions": [
+                {
+                    "date": "2023-06-06",
+                    "description": "Withdrawal",
+                    "amount": 34223.7,
+                    "transaction_id": 93739265
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Withdrawal",
+                    "amount": 45500.26,
+                    "transaction_id": 4663959
+                },
+                {
+                    "date": "2022-09-29",
+                    "description": "Withdrawal",
+                    "amount": 44454.21,
+                    "transaction_id": 30732185
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Withdrawal",
+                    "amount": 14990.54,
+                    "transaction_id": 80853282
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Interest",
+                    "amount": 43336.66,
+                    "transaction_id": 79001644
+                }
+            ]
+        }
+    }
+}

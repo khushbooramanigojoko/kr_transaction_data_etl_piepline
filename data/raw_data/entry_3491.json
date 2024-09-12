@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Patricia Anderson",
+        "age": 26,
+        "gender": "female",
+        "address": "24993 Mccormick Locks, Rodriguezville, VI 82628",
+        "phone": "767-961-1371x30480",
+        "email": "jamieavila@example.org",
+        "account": {
+            "account_number": "a9c5e583-65c8-4917-8020-54f4fb15bdf2",
+            "balance": 24065.9,
+            "transactions": [
+                {
+                    "date": "2023-02-08",
+                    "description": "Interest",
+                    "amount": 39636.14,
+                    "transaction_id": 94912210
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Withdrawal",
+                    "amount": 10815.12,
+                    "transaction_id": 79356870
+                }
+            ]
+        }
+    }
+}

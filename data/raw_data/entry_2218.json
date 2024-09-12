@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jennifer Zimmerman",
+        "age": 67,
+        "gender": "male",
+        "address": "5862 Ortiz Walks, Bellhaven, AL 34776",
+        "phone": "993.481.1415x8725",
+        "email": "qboyd@example.net",
+        "account": {
+            "account_number": "cccb49a2-b08b-4675-a634-b49c85f7daf8",
+            "balance": 47903.66,
+            "transactions": [
+                {
+                    "date": "2023-04-28",
+                    "description": "Withdrawal",
+                    "amount": 24710.7,
+                    "transaction_id": 101492407
+                },
+                {
+                    "date": "2024-05-20",
+                    "description": "Deposit",
+                    "amount": 13120.44,
+                    "transaction_id": 5551332
+                },
+                {
+                    "date": "2022-11-12",
+                    "description": "Deposit",
+                    "amount": 24309.9,
+                    "transaction_id": 36516177
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Interest",
+                    "amount": 22597.86,
+                    "transaction_id": 83356297
+                }
+            ]
+        }
+    }
+}

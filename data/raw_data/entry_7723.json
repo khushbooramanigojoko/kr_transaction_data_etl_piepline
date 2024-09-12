@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Erica Williams",
+        "age": 22,
+        "gender": "male",
+        "address": "USS Taylor, FPO AE 35200",
+        "phone": "(539)354-4270x38390",
+        "email": "edwardweiss@example.com",
+        "account": {
+            "account_number": "c18ffe90-e7b2-466b-bba4-e350e24303c6",
+            "balance": 1816.67,
+            "transactions": [
+                {
+                    "date": "2023-05-12",
+                    "description": "Interest",
+                    "amount": 48766.56,
+                    "transaction_id": 55890865
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jennifer Mccoy",
+        "age": 62,
+        "gender": "female",
+        "address": "06583 James Springs Suite 053, Nancyview, NE 96078",
+        "phone": "800.716.4228x330",
+        "email": "gary08@example.net",
+        "account": {
+            "account_number": "fe655038-3573-4e31-990a-2b7c1cabc5c5",
+            "balance": 23749.26,
+            "transactions": [
+                {
+                    "date": "2023-04-03",
+                    "description": "Interest",
+                    "amount": 7545.45,
+                    "transaction_id": 35439654
+                },
+                {
+                    "date": "2024-01-29",
+                    "description": "Deposit",
+                    "amount": 13972.07,
+                    "transaction_id": 26294968
+                },
+                {
+                    "date": "2022-09-20",
+                    "description": "Withdrawal",
+                    "amount": 34230.54,
+                    "transaction_id": 56627601
+                },
+                {
+                    "date": "2023-06-26",
+                    "description": "Withdrawal",
+                    "amount": 40038.69,
+                    "transaction_id": 90171710
+                }
+            ]
+        }
+    }
+}

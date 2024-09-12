@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brandi Davis",
+        "age": 82,
+        "gender": "female",
+        "address": "5443 Nathan Square Suite 801, Thompsonmouth, SC 93019",
+        "phone": "(541)361-5999",
+        "email": "katiemonroe@example.com",
+        "account": {
+            "account_number": "999ab6ec-1b26-4206-88c6-69138c40c18d",
+            "balance": 12496.13,
+            "transactions": [
+                {
+                    "date": "2024-05-25",
+                    "description": "Withdrawal",
+                    "amount": 10318.4,
+                    "transaction_id": 23013923
+                },
+                {
+                    "date": "2024-05-26",
+                    "description": "Withdrawal",
+                    "amount": 16270.25,
+                    "transaction_id": 47916288
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Interest",
+                    "amount": 46327.71,
+                    "transaction_id": 45473352
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Interest",
+                    "amount": 39302.38,
+                    "transaction_id": 2734704
+                }
+            ]
+        }
+    }
+}

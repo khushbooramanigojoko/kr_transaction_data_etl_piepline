@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Cynthia Morrow",
+        "age": 44,
+        "gender": "female",
+        "address": "98118 Hill Parkway Apt. 350, South Robinmouth, DC 40441",
+        "phone": "488-926-0096",
+        "email": "morenodenise@example.net",
+        "account": {
+            "account_number": "7b4d7541-2cf3-4327-b10e-187e6646075e",
+            "balance": 42525.92,
+            "transactions": [
+                {
+                    "date": "2024-03-24",
+                    "description": "Withdrawal",
+                    "amount": 7089.05,
+                    "transaction_id": 8468085
+                },
+                {
+                    "date": "2024-06-20",
+                    "description": "Interest",
+                    "amount": 39818.51,
+                    "transaction_id": 114196521
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Deposit",
+                    "amount": 36664.36,
+                    "transaction_id": 34158854
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Deposit",
+                    "amount": 29917.94,
+                    "transaction_id": 59887408
+                }
+            ]
+        }
+    }
+}

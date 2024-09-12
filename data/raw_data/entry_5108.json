@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Richard Whitaker",
+        "age": 98,
+        "gender": "female",
+        "address": "92952 Mcmahon Knolls, Jenniferview, AS 63519",
+        "phone": "+1-961-798-7967x7901",
+        "email": "houstonheidi@example.org",
+        "account": {
+            "account_number": "13439767-61f1-437d-9d5f-61d3936a91e1",
+            "balance": 2444.28,
+            "transactions": [
+                {
+                    "date": "2024-03-29",
+                    "description": "Deposit",
+                    "amount": 32011.49,
+                    "transaction_id": 71455680
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Interest",
+                    "amount": 24865.66,
+                    "transaction_id": 70222739
+                }
+            ]
+        }
+    }
+}

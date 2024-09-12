@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Carlos Mcdowell Jr.",
+        "age": 46,
+        "gender": "male",
+        "address": "728 Rivas Creek Apt. 394, East Mitchell, MA 74898",
+        "phone": "2385733475",
+        "email": "joshuaschmidt@example.com",
+        "account": {
+            "account_number": "fa759265-8d93-41a1-8fe6-523c2e880fb5",
+            "balance": 21564.2,
+            "transactions": [
+                {
+                    "date": "2024-08-05",
+                    "description": "Interest",
+                    "amount": 41537.81,
+                    "transaction_id": 55555811
+                },
+                {
+                    "date": "2023-05-16",
+                    "description": "Interest",
+                    "amount": 15994.9,
+                    "transaction_id": 14121644
+                },
+                {
+                    "date": "2023-04-06",
+                    "description": "Deposit",
+                    "amount": 41793.54,
+                    "transaction_id": 117137601
+                },
+                {
+                    "date": "2024-03-28",
+                    "description": "Withdrawal",
+                    "amount": 36428.62,
+                    "transaction_id": 62749008
+                }
+            ]
+        }
+    }
+}

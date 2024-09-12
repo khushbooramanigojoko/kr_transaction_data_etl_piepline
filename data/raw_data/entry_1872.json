@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "David Johnson",
+        "age": 69,
+        "gender": "male",
+        "address": "48475 Rice Viaduct, Dayborough, OR 87776",
+        "phone": "861-305-0789x695",
+        "email": "cgriffin@example.net",
+        "account": {
+            "account_number": "08cf0899-a839-40f8-aa69-1b5b2156d59e",
+            "balance": 38571.01,
+            "transactions": [
+                {
+                    "date": "2023-02-26",
+                    "description": "Deposit",
+                    "amount": 4432.56,
+                    "transaction_id": 108325556
+                },
+                {
+                    "date": "2022-09-09",
+                    "description": "Deposit",
+                    "amount": 33073.4,
+                    "transaction_id": 70432258
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Interest",
+                    "amount": 23749.16,
+                    "transaction_id": 47528994
+                }
+            ]
+        }
+    }
+}

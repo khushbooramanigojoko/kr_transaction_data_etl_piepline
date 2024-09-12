@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 62,
+        "gender": "female",
+        "address": "0497 Leslie Ferry Suite 888, Port James, WA 31390",
+        "phone": "391.786.9786x6391",
+        "email": "lisa85@example.net",
+        "account": {
+            "account_number": "6f23f0a8-8544-425b-9136-b4fd122bf903",
+            "balance": 28401.21,
+            "transactions": [
+                {
+                    "date": "2024-03-02",
+                    "description": "Withdrawal",
+                    "amount": 1487.54,
+                    "transaction_id": 63569002
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Deposit",
+                    "amount": -4255.98,
+                    "transaction_id": 105268190
+                }
+            ]
+        }
+    }
+}

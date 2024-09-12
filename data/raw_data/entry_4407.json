@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joel Lopez",
+        "age": 59,
+        "gender": "female",
+        "address": "7442 Stephanie Wells, Lauramouth, NV 57300",
+        "phone": "(679)583-5712",
+        "email": "jacob55@example.org",
+        "account": {
+            "account_number": "0a6d7b2b-3f79-4572-9e0f-fe2b6d54c255",
+            "balance": 4747.31,
+            "transactions": [
+                {
+                    "date": "2023-08-21",
+                    "description": "Withdrawal",
+                    "amount": 11080.6,
+                    "transaction_id": 12831231
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Withdrawal",
+                    "amount": 8073.72,
+                    "transaction_id": 32607656
+                },
+                {
+                    "date": "2023-07-24",
+                    "description": "Withdrawal",
+                    "amount": 9059.04,
+                    "transaction_id": 59903910
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Withdrawal",
+                    "amount": 41833.12,
+                    "transaction_id": 56515649
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Interest",
+                    "amount": 9524.46,
+                    "transaction_id": 10215568
+                }
+            ]
+        }
+    }
+}

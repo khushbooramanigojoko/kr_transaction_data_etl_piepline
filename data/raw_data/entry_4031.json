@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ashley Johnson",
+        "age": 69,
+        "gender": "female",
+        "address": "7416 Courtney Stream, Maddenside, WY 68354",
+        "phone": "001-747-455-1051x738",
+        "email": "bartlettmichael@example.net",
+        "account": {
+            "account_number": "3405f80d-5ca6-4b1e-a1bb-71f075fc9552",
+            "balance": 43516.01,
+            "transactions": [
+                {
+                    "date": "2022-11-16",
+                    "description": "Interest",
+                    "amount": 25201.29,
+                    "transaction_id": 81390630
+                },
+                {
+                    "date": "2023-07-13",
+                    "description": "Withdrawal",
+                    "amount": 46250.09,
+                    "transaction_id": 38280670
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Withdrawal",
+                    "amount": 1371.21,
+                    "transaction_id": 59209351
+                },
+                {
+                    "date": "2024-07-18",
+                    "description": "Interest",
+                    "amount": 31313.68,
+                    "transaction_id": 105561587
+                }
+            ]
+        }
+    }
+}

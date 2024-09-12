@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph White",
+        "age": 37,
+        "gender": "male",
+        "address": "264 Heather Wells, Clarkmouth, MS 04710",
+        "phone": "001-434-687-2526x8020",
+        "email": "mpaul@example.org",
+        "account": {
+            "account_number": "d0c6a84c-655a-416a-8b0a-5b5ab85259bc",
+            "balance": 43065.85,
+            "transactions": [
+                {
+                    "date": "2023-11-06",
+                    "description": "Deposit",
+                    "amount": 29793.34,
+                    "transaction_id": 65840653
+                },
+                {
+                    "date": "2023-01-16",
+                    "description": "Withdrawal",
+                    "amount": 2695.14,
+                    "transaction_id": 24182473
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Deposit",
+                    "amount": 46555.27,
+                    "transaction_id": 84590562
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Deposit",
+                    "amount": 728.61,
+                    "transaction_id": 33839496
+                }
+            ]
+        }
+    }
+}

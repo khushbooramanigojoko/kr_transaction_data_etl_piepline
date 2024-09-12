@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Taylor White",
+        "age": 19,
+        "gender": "male",
+        "address": "Unit 4869 Box 7149, DPO AA 09743",
+        "phone": "001-285-404-5683x150",
+        "email": "justinaguirre@example.net",
+        "account": {
+            "account_number": "4808147e-52ea-41a3-8125-f059b327ef25",
+            "balance": 34456.22,
+            "transactions": [
+                {
+                    "date": "2023-02-18",
+                    "description": "Deposit",
+                    "amount": 26542.44,
+                    "transaction_id": 71362211
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Interest",
+                    "amount": 43222.67,
+                    "transaction_id": 31993834
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Deposit",
+                    "amount": 48476.72,
+                    "transaction_id": 63585934
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Withdrawal",
+                    "amount": 18081.25,
+                    "transaction_id": 22025890
+                },
+                {
+                    "date": "2023-09-07",
+                    "description": "Interest",
+                    "amount": 34176.71,
+                    "transaction_id": 96165625
+                }
+            ]
+        }
+    }
+}

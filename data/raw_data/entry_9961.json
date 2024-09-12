@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jamie Simon",
+        "age": 73,
+        "gender": "male",
+        "address": "31571 Hamilton Villages, Jensenfort, NM 95363",
+        "phone": "865-568-3808x63026",
+        "email": "danielward@example.org",
+        "account": {
+            "account_number": "68acd469-8d70-424b-9df0-8232df7c39a2",
+            "balance": -45240.25,
+            "transactions": [
+                {
+                    "date": "2024-07-06",
+                    "description": "Interest",
+                    "amount": -1125.39,
+                    "transaction_id": 45559732
+                },
+                {
+                    "date": "2023-02-08",
+                    "description": "Withdrawal",
+                    "amount": 521.94,
+                    "transaction_id": 74158882
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Deposit",
+                    "amount": -4789.92,
+                    "transaction_id": 111895187
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Interest",
+                    "amount": 2845.16,
+                    "transaction_id": 70743893
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Withdrawal",
+                    "amount": 1805.02,
+                    "transaction_id": 75067900
+                }
+            ]
+        }
+    }
+}

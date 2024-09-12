@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amy Jones",
+        "age": 18,
+        "gender": "male",
+        "address": "Unit 9072 Box 4604, DPO AE 81686",
+        "phone": "311.501.8929x62101",
+        "email": "robertsmith@example.org",
+        "account": {
+            "account_number": "babdb6f8-a400-486e-9e02-998405f2a7d8",
+            "balance": 42240.99,
+            "transactions": [
+                {
+                    "date": "2023-06-27",
+                    "description": "Deposit",
+                    "amount": 26272.92,
+                    "transaction_id": 82012250
+                },
+                {
+                    "date": "2022-12-22",
+                    "description": "Interest",
+                    "amount": 19817.77,
+                    "transaction_id": 92562500
+                }
+            ]
+        }
+    }
+}

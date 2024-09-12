@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Randy Marsh",
+        "age": 61,
+        "gender": "male",
+        "address": "21340 Patricia Square, East Jeanne, MN 08864",
+        "phone": "(722)906-0235x03358",
+        "email": "anthonythomas@example.org",
+        "account": {
+            "account_number": "d3c0e96a-57f0-4dd0-afc4-521a53077264",
+            "balance": -49683.9,
+            "transactions": [
+                {
+                    "date": "2023-06-05",
+                    "description": "Interest",
+                    "amount": 1441.18,
+                    "transaction_id": 116314456
+                },
+                {
+                    "date": "2023-07-21",
+                    "description": "Withdrawal",
+                    "amount": -3236.2,
+                    "transaction_id": 67248380
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Interest",
+                    "amount": -3138.75,
+                    "transaction_id": 90055422
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Interest",
+                    "amount": 4241.91,
+                    "transaction_id": 28993649
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Deposit",
+                    "amount": 2486.88,
+                    "transaction_id": 53348935
+                }
+            ]
+        }
+    }
+}

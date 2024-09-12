@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 23,
+        "gender": "male",
+        "address": "3713 Andrea Fork, North Lori, NE 72876",
+        "phone": "(394)219-8856x6185",
+        "email": "sflowers@example.com",
+        "account": {
+            "account_number": "9d073136-6b4c-4a74-8709-f264a5c28dc8",
+            "balance": 24603.93,
+            "transactions": [
+                {
+                    "date": "2023-06-30",
+                    "description": "Interest",
+                    "amount": -1774.1,
+                    "transaction_id": 65004682
+                },
+                {
+                    "date": "2023-04-24",
+                    "description": "Deposit",
+                    "amount": 4751.04,
+                    "transaction_id": 18636163
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Withdrawal",
+                    "amount": -1563.49,
+                    "transaction_id": 94501399
+                },
+                {
+                    "date": "2023-10-08",
+                    "description": "Withdrawal",
+                    "amount": 3672.93,
+                    "transaction_id": 2595792
+                }
+            ]
+        }
+    }
+}

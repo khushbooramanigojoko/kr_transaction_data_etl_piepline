@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Donna Johnson",
+        "age": 20,
+        "gender": "female",
+        "address": "143 Veronica Highway, Joshuamouth, NE 30851",
+        "phone": "(396)512-2182",
+        "email": "arodriguez@example.net",
+        "account": {
+            "account_number": "6f2e4046-aec6-4ddd-93f8-7e4cdf2cfb6b",
+            "balance": 43166.76,
+            "transactions": [
+                {
+                    "date": "2024-06-04",
+                    "description": "Interest",
+                    "amount": 11132.54,
+                    "transaction_id": 62044549
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Deposit",
+                    "amount": 48541.64,
+                    "transaction_id": 107718041
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Withdrawal",
+                    "amount": 46781.45,
+                    "transaction_id": 74677976
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Interest",
+                    "amount": 34788.38,
+                    "transaction_id": 118718667
+                }
+            ]
+        }
+    }
+}

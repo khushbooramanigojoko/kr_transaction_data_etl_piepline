@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Deborah Singh",
+        "age": 88,
+        "gender": "male",
+        "address": "9097 Reese Fall, North Melissa, CO 85670",
+        "phone": "001-237-619-1269",
+        "email": "tmorrison@example.net",
+        "account": {
+            "account_number": "75f96bee-29cc-4ebf-9088-c813e92419e3",
+            "balance": 19672.67,
+            "transactions": [
+                {
+                    "date": "2024-08-03",
+                    "description": "Withdrawal",
+                    "amount": 35915.18,
+                    "transaction_id": 4471767
+                },
+                {
+                    "date": "2023-11-23",
+                    "description": "Withdrawal",
+                    "amount": 32037.64,
+                    "transaction_id": 92962120
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brianna Mercer",
+        "age": 70,
+        "gender": "female",
+        "address": "457 Williams Port, East Randallborough, MP 34594",
+        "phone": "743-296-1846",
+        "email": "bcasey@example.com",
+        "account": {
+            "account_number": "963cf308-fac8-453d-a0ef-2046baacf2c8",
+            "balance": 34352.56,
+            "transactions": [
+                {
+                    "date": "2024-01-02",
+                    "description": "Interest",
+                    "amount": 16074.4,
+                    "transaction_id": 70117202
+                },
+                {
+                    "date": "2023-07-12",
+                    "description": "Interest",
+                    "amount": 20525.87,
+                    "transaction_id": 30869541
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Interest",
+                    "amount": 47451.39,
+                    "transaction_id": 21599302
+                },
+                {
+                    "date": "2024-02-08",
+                    "description": "Withdrawal",
+                    "amount": 40137.27,
+                    "transaction_id": 52442773
+                },
+                {
+                    "date": "2024-04-13",
+                    "description": "Withdrawal",
+                    "amount": 45031.29,
+                    "transaction_id": 35307478
+                }
+            ]
+        }
+    }
+}

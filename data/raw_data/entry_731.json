@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Monica Hernandez",
+        "age": 83,
+        "gender": "female",
+        "address": "Unit 2212 Box 0693, DPO AP 38564",
+        "phone": "8672790042",
+        "email": "nicholas96@example.org",
+        "account": {
+            "account_number": "629850ed-4096-4a93-91d5-4eaaeb7cdcd3",
+            "balance": 41820.74,
+            "transactions": [
+                {
+                    "date": "2023-11-10",
+                    "description": "Deposit",
+                    "amount": 22533.18,
+                    "transaction_id": 93583487
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Interest",
+                    "amount": 21359.15,
+                    "transaction_id": 57505378
+                }
+            ]
+        }
+    }
+}

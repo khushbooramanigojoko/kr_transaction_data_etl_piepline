@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Blake Webb",
+        "age": 30,
+        "gender": "male",
+        "address": "0027 Gomez Shoal Apt. 011, Lake Kimberlymouth, OK 90530",
+        "phone": "812.778.1991x869",
+        "email": "markwhite@example.net",
+        "account": {
+            "account_number": "26f955e5-ebbb-461f-861d-4de3395cc22f",
+            "balance": 30061.21,
+            "transactions": [
+                {
+                    "date": "2022-12-20",
+                    "description": "Interest",
+                    "amount": 8203.64,
+                    "transaction_id": 60795963
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Deposit",
+                    "amount": 16044.15,
+                    "transaction_id": 79342915
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Deposit",
+                    "amount": 15512.65,
+                    "transaction_id": 89558849
+                },
+                {
+                    "date": "2024-01-23",
+                    "description": "Deposit",
+                    "amount": 16084.83,
+                    "transaction_id": 84460218
+                }
+            ]
+        }
+    }
+}

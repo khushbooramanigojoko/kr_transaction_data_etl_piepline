@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brittany King",
+        "age": 89,
+        "gender": "male",
+        "address": "90353 Jeffrey Unions Suite 163, Hallmouth, TN 65248",
+        "phone": "441-739-6996x98650",
+        "email": "glenda08@example.com",
+        "account": {
+            "account_number": "a9d4a6a4-d9f3-472a-9174-6568a869ed55",
+            "balance": 21723.46,
+            "transactions": [
+                {
+                    "date": "2022-12-03",
+                    "description": "Interest",
+                    "amount": 32488.48,
+                    "transaction_id": 5387652
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Deposit",
+                    "amount": 5075.17,
+                    "transaction_id": 50339790
+                }
+            ]
+        }
+    }
+}

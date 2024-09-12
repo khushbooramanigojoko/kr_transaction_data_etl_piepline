@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christopher Wood",
+        "age": 40,
+        "gender": "female",
+        "address": "34907 Jeffrey Shoals Suite 261, Jacksonstad, FM 24921",
+        "phone": "(978)229-6395",
+        "email": "james62@example.org",
+        "account": {
+            "account_number": "b50d5b1f-7c9a-43c5-b2bd-242871bb31cd",
+            "balance": 23077.6,
+            "transactions": [
+                {
+                    "date": "2023-05-12",
+                    "description": "Withdrawal",
+                    "amount": 29300.82,
+                    "transaction_id": 26969007
+                },
+                {
+                    "date": "2023-05-06",
+                    "description": "Deposit",
+                    "amount": 2220.9,
+                    "transaction_id": 119638194
+                },
+                {
+                    "date": "2024-07-03",
+                    "description": "Interest",
+                    "amount": 15996.57,
+                    "transaction_id": 38424884
+                },
+                {
+                    "date": "2024-07-21",
+                    "description": "Withdrawal",
+                    "amount": 37898.08,
+                    "transaction_id": 63198019
+                },
+                {
+                    "date": "2022-11-07",
+                    "description": "Withdrawal",
+                    "amount": 36958.91,
+                    "transaction_id": 60435515
+                }
+            ]
+        }
+    }
+}

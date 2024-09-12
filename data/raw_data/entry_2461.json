@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Sims",
+        "age": 23,
+        "gender": "female",
+        "address": "4656 Barnes Course, Cisnerosmouth, AL 56491",
+        "phone": "570-423-0147x6701",
+        "email": "edwardrandall@example.net",
+        "account": {
+            "account_number": "d1f230a8-f7f0-47a7-9a13-745e2fc5f51e",
+            "balance": 22496.6,
+            "transactions": [
+                {
+                    "date": "2024-05-15",
+                    "description": "Withdrawal",
+                    "amount": 4754.87,
+                    "transaction_id": 15658643
+                },
+                {
+                    "date": "2023-05-19",
+                    "description": "Withdrawal",
+                    "amount": 1590.16,
+                    "transaction_id": 68331572
+                },
+                {
+                    "date": "2023-05-06",
+                    "description": "Withdrawal",
+                    "amount": 44575.3,
+                    "transaction_id": 79255184
+                },
+                {
+                    "date": "2023-06-25",
+                    "description": "Withdrawal",
+                    "amount": 7473.66,
+                    "transaction_id": 25082111
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Deposit",
+                    "amount": 7727.63,
+                    "transaction_id": 38210440
+                }
+            ]
+        }
+    }
+}

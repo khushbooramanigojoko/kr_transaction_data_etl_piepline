@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Robert Gilmore",
+        "age": 96,
+        "gender": "male",
+        "address": "84577 Anderson Meadows, Ryanport, WI 73577",
+        "phone": "597-237-9783x00814",
+        "email": "gsimmons@example.org",
+        "account": {
+            "account_number": "eea215de-7601-4014-9bb1-2e6bb27b4095",
+            "balance": 6797.66,
+            "transactions": [
+                {
+                    "date": "2023-12-13",
+                    "description": "Withdrawal",
+                    "amount": 37029.4,
+                    "transaction_id": 75927738
+                },
+                {
+                    "date": "2023-12-12",
+                    "description": "Withdrawal",
+                    "amount": 40957.93,
+                    "transaction_id": 101404375
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Deposit",
+                    "amount": 12079.92,
+                    "transaction_id": 100820711
+                },
+                {
+                    "date": "2024-02-19",
+                    "description": "Withdrawal",
+                    "amount": 37354.28,
+                    "transaction_id": 112618271
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Withdrawal",
+                    "amount": 9260.71,
+                    "transaction_id": 96268647
+                }
+            ]
+        }
+    }
+}

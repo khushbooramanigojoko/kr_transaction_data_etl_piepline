@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Dustin Arnold",
+        "age": 99,
+        "gender": "female",
+        "address": "201 Jessica Radial Apt. 513, Woodston, RI 96946",
+        "phone": "(450)514-2911",
+        "email": "jasonmorgan@example.org",
+        "account": {
+            "account_number": "aa22a1c1-072a-474f-b96a-064a6c017ec2",
+            "balance": 26381.35,
+            "transactions": [
+                {
+                    "date": "2022-09-25",
+                    "description": "Withdrawal",
+                    "amount": 18159.92,
+                    "transaction_id": 22069945
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Deposit",
+                    "amount": 25594.66,
+                    "transaction_id": 79379845
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Deposit",
+                    "amount": 47714.35,
+                    "transaction_id": 81728487
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Beth Thomas",
+        "age": 86,
+        "gender": "male",
+        "address": "5729 Nguyen Lights, Lake Jose, WI 24372",
+        "phone": "(395)744-3914",
+        "email": "wtaylor@example.net",
+        "account": {
+            "account_number": "4f14326e-9be2-4102-b969-877b36ce6476",
+            "balance": 40274.93,
+            "transactions": [
+                {
+                    "date": "2022-12-20",
+                    "description": "Interest",
+                    "amount": 42075.72,
+                    "transaction_id": 54589678
+                },
+                {
+                    "date": "2024-07-04",
+                    "description": "Withdrawal",
+                    "amount": 32673.32,
+                    "transaction_id": 10565083
+                }
+            ]
+        }
+    }
+}

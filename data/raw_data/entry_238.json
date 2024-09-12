@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jessica Martinez",
+        "age": 90,
+        "gender": "male",
+        "address": "68164 Craig Keys Suite 069, Fostershire, GU 03408",
+        "phone": "4556247842",
+        "email": "samanthacook@example.org",
+        "account": {
+            "account_number": "5aa7ba42-eacc-45e3-9ddd-1d8815b36fe7",
+            "balance": 39702.17,
+            "transactions": [
+                {
+                    "date": "2023-02-18",
+                    "description": "Deposit",
+                    "amount": 32455.31,
+                    "transaction_id": 117990671
+                },
+                {
+                    "date": "2023-04-03",
+                    "description": "Deposit",
+                    "amount": 44244.17,
+                    "transaction_id": 100443548
+                },
+                {
+                    "date": "2024-02-21",
+                    "description": "Interest",
+                    "amount": 10837.0,
+                    "transaction_id": 115251811
+                }
+            ]
+        }
+    }
+}

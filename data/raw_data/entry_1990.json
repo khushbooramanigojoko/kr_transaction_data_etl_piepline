@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Javier Wright",
+        "age": 26,
+        "gender": "female",
+        "address": "6753 Catherine Unions, Port Anthony, OH 41342",
+        "phone": "(570)975-9451",
+        "email": "moorerebecca@example.org",
+        "account": {
+            "account_number": "9c5c692d-cc2d-4ebb-9453-e53f697c5671",
+            "balance": 36580.3,
+            "transactions": [
+                {
+                    "date": "2024-07-14",
+                    "description": "Withdrawal",
+                    "amount": 10137.35,
+                    "transaction_id": 70504965
+                },
+                {
+                    "date": "2024-01-31",
+                    "description": "Deposit",
+                    "amount": 19104.79,
+                    "transaction_id": 32741820
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Withdrawal",
+                    "amount": 30253.93,
+                    "transaction_id": 64530150
+                }
+            ]
+        }
+    }
+}

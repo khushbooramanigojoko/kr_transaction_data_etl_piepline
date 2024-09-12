@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Colton Myers",
+        "age": 95,
+        "gender": "female",
+        "address": "251 Morrison Club Apt. 716, Lake Michael, NC 55035",
+        "phone": "(378)229-3949x44111",
+        "email": "antoniostone@example.com",
+        "account": {
+            "account_number": "ad486004-60ca-4a56-826a-ae85b212f295",
+            "balance": 21771.26,
+            "transactions": [
+                {
+                    "date": "2024-06-07",
+                    "description": "Withdrawal",
+                    "amount": 2514.55,
+                    "transaction_id": 63732764
+                }
+            ]
+        }
+    }
+}

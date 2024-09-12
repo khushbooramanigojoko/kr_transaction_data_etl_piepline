@@ -1,0 +1,136 @@
+{
+    "customer": {
+        "name": "Cassandra Chavez",
+        "age": 90,
+        "gender": "male",
+        "address": "1951 Wade Drives, Matthewland, PW 42619",
+        "phone": "(933)334-8758",
+        "email": "ryan85@example.org",
+        "account": {
+            "account_number": "7a63cd68-d5da-4c05-8c31-3cbf797b6cfd",
+            "balance": 5017.76,
+            "transactions": [
+                {
+                    "date": "2023-10-29",
+                    "description": "Interest",
+                    "amount": 2609.48,
+                    "transaction_id": 108977357
+                },
+                {
+                    "date": "2023-12-21",
+                    "description": "Fee",
+                    "amount": 1446.07,
+                    "transaction_id": 762964970
+                },
+                {
+                    "date": "2024-01-30",
+                    "description": "Fee",
+                    "amount": 975.96,
+                    "transaction_id": 869507399
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Interest",
+                    "amount": 2036.01,
+                    "transaction_id": 521329157
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Fee",
+                    "amount": 2837.28,
+                    "transaction_id": 686282651
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Refund",
+                    "amount": -593.36,
+                    "transaction_id": 496051344
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Purchase",
+                    "amount": 3261.76,
+                    "transaction_id": 677557659
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Interest",
+                    "amount": 2101.97,
+                    "transaction_id": 854011404
+                },
+                {
+                    "date": "2024-05-17",
+                    "description": "Interest",
+                    "amount": 551.85,
+                    "transaction_id": 293607655
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Interest",
+                    "amount": 2965.9,
+                    "transaction_id": 671000274
+                },
+                {
+                    "date": "2023-09-15",
+                    "description": "Refund",
+                    "amount": 702.05,
+                    "transaction_id": 338485365
+                },
+                {
+                    "date": "2024-02-02",
+                    "description": "Purchase",
+                    "amount": 465.49,
+                    "transaction_id": 696307772
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Refund",
+                    "amount": 188.09,
+                    "transaction_id": 277100274
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Interest",
+                    "amount": 891.03,
+                    "transaction_id": 987011668
+                },
+                {
+                    "date": "2024-05-30",
+                    "description": "Fee",
+                    "amount": 1935.25,
+                    "transaction_id": 403990038
+                },
+                {
+                    "date": "2024-07-18",
+                    "description": "Interest",
+                    "amount": 2549.24,
+                    "transaction_id": 360620208
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Refund",
+                    "amount": -653.82,
+                    "transaction_id": 919290528
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Purchase",
+                    "amount": 1750.18,
+                    "transaction_id": 626596150
+                },
+                {
+                    "date": "2024-06-30",
+                    "description": "Fee",
+                    "amount": 83.91,
+                    "transaction_id": 594062004
+                },
+                {
+                    "date": "2024-05-06",
+                    "description": "Fee",
+                    "amount": -70.7,
+                    "transaction_id": 204502073
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Frank Baker DVM",
+        "age": 42,
+        "gender": "male",
+        "address": "1533 Clark Station, Port Cheryl, KY 56253",
+        "phone": "+1-295-309-6707",
+        "email": "slittle@example.net",
+        "account": {
+            "account_number": "bd6c630e-8333-46d5-bc53-840fb56ff187",
+            "balance": 8363.86,
+            "transactions": [
+                {
+                    "date": "2024-07-28",
+                    "description": "Interest",
+                    "amount": 31822.75,
+                    "transaction_id": 46898627
+                },
+                {
+                    "date": "2023-11-09",
+                    "description": "Interest",
+                    "amount": 40776.92,
+                    "transaction_id": 69254820
+                },
+                {
+                    "date": "2023-02-25",
+                    "description": "Withdrawal",
+                    "amount": 574.67,
+                    "transaction_id": 93978546
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Interest",
+                    "amount": 34177.53,
+                    "transaction_id": 70019397
+                },
+                {
+                    "date": "2024-04-11",
+                    "description": "Deposit",
+                    "amount": 34565.15,
+                    "transaction_id": 102196555
+                }
+            ]
+        }
+    }
+}

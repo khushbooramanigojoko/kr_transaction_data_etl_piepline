@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jennifer Harmon",
+        "age": 68,
+        "gender": "female",
+        "address": "912 Burgess Inlet Suite 928, Zavalaport, UT 67351",
+        "phone": "588.419.4418x3874",
+        "email": "danielle26@example.org",
+        "account": {
+            "account_number": "0db543e6-a1a3-4ac0-bce4-9012367391d2",
+            "balance": 31890.72,
+            "transactions": [
+                {
+                    "date": "2023-06-10",
+                    "description": "Deposit",
+                    "amount": 39649.04,
+                    "transaction_id": 88422520
+                },
+                {
+                    "date": "2023-01-07",
+                    "description": "Interest",
+                    "amount": 27915.32,
+                    "transaction_id": 9308303
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Interest",
+                    "amount": 41835.46,
+                    "transaction_id": 72114942
+                },
+                {
+                    "date": "2023-02-21",
+                    "description": "Deposit",
+                    "amount": 6630.69,
+                    "transaction_id": 75343886
+                }
+            ]
+        }
+    }
+}

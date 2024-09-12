@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Debra Graves",
+        "age": 59,
+        "gender": "female",
+        "address": "5692 Hart Road Suite 601, Donaldsonbury, AS 12151",
+        "phone": "342-231-5802x1780",
+        "email": "patriciaharris@example.com",
+        "account": {
+            "account_number": "a90f88c5-acee-42f1-8264-9fd7e85b3480",
+            "balance": 30603.05,
+            "transactions": [
+                {
+                    "date": "2024-03-09",
+                    "description": "Interest",
+                    "amount": 4822.14,
+                    "transaction_id": 100439365
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Interest",
+                    "amount": 15117.96,
+                    "transaction_id": 118628816
+                },
+                {
+                    "date": "2024-05-28",
+                    "description": "Interest",
+                    "amount": 19997.73,
+                    "transaction_id": 26610284
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Withdrawal",
+                    "amount": 11026.37,
+                    "transaction_id": 44986102
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jeffrey Harvey",
+        "age": 81,
+        "gender": "male",
+        "address": "24847 Robert Inlet Suite 883, Colleenhaven, GA 83773",
+        "phone": "2255178658",
+        "email": "sheryl95@example.org",
+        "account": {
+            "account_number": "a2d9e966-c3bc-4299-b7da-7364aee8ef49",
+            "balance": 27039.39,
+            "transactions": [
+                {
+                    "date": "2024-05-30",
+                    "description": "Deposit",
+                    "amount": 13605.43,
+                    "transaction_id": 67858798
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Deposit",
+                    "amount": 24838.65,
+                    "transaction_id": 4685404
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Withdrawal",
+                    "amount": 4263.91,
+                    "transaction_id": 54844694
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Withdrawal",
+                    "amount": 6648.47,
+                    "transaction_id": 76394213
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Rachel Taylor",
+        "age": 88,
+        "gender": "female",
+        "address": "USS Dean, FPO AE 21694",
+        "phone": "001-234-386-8762",
+        "email": "fhernandez@example.org",
+        "account": {
+            "account_number": "edcac4bc-9813-45ad-b434-05d8be35849a",
+            "balance": 3657.26,
+            "transactions": [
+                {
+                    "date": "2023-06-07",
+                    "description": "Interest",
+                    "amount": 33819.47,
+                    "transaction_id": 8885430
+                },
+                {
+                    "date": "2024-03-08",
+                    "description": "Deposit",
+                    "amount": 13012.17,
+                    "transaction_id": 48300035
+                },
+                {
+                    "date": "2022-09-09",
+                    "description": "Withdrawal",
+                    "amount": 42358.16,
+                    "transaction_id": 107281269
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Deposit",
+                    "amount": 43218.46,
+                    "transaction_id": 8270214
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "William Phillips",
+        "age": 53,
+        "gender": "male",
+        "address": "7521 Gomez Mill, West Danside, GA 32795",
+        "phone": "494-921-3000",
+        "email": "rothcharles@example.net",
+        "account": {
+            "account_number": "16680dd5-59cc-4227-9bb6-594252aa156c",
+            "balance": 48169.19,
+            "transactions": [
+                {
+                    "date": "2023-03-18",
+                    "description": "Deposit",
+                    "amount": 21356.98,
+                    "transaction_id": 93482880
+                },
+                {
+                    "date": "2023-02-18",
+                    "description": "Deposit",
+                    "amount": 1485.96,
+                    "transaction_id": 72526952
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Interest",
+                    "amount": 45830.56,
+                    "transaction_id": 115606187
+                }
+            ]
+        }
+    }
+}

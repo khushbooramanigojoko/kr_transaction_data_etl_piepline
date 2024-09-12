@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Chris Wilson",
+        "age": 55,
+        "gender": "male",
+        "address": "165 Christopher Plain, Lake Kari, DC 89279",
+        "phone": "751.802.9757x7105",
+        "email": "qcoleman@example.net",
+        "account": {
+            "account_number": "b1760837-b749-4d00-b01d-b38007790bfd",
+            "balance": 8947.31,
+            "transactions": [
+                {
+                    "date": "2023-01-31",
+                    "description": "Withdrawal",
+                    "amount": 21106.31,
+                    "transaction_id": 30909927
+                }
+            ]
+        }
+    }
+}

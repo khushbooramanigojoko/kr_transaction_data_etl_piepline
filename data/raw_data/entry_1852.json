@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jerry Gardner",
+        "age": 91,
+        "gender": "male",
+        "address": "075 Mike Isle, Harperview, LA 11690",
+        "phone": "+1-677-576-8827",
+        "email": "murphytravis@example.net",
+        "account": {
+            "account_number": "e4ef998e-538c-447d-a015-00d10e2d6b4b",
+            "balance": 14519.67,
+            "transactions": [
+                {
+                    "date": "2023-01-10",
+                    "description": "Withdrawal",
+                    "amount": 15031.85,
+                    "transaction_id": 74449740
+                }
+            ]
+        }
+    }
+}

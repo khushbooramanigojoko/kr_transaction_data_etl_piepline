@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Toni Hawkins",
+        "age": 98,
+        "gender": "female",
+        "address": "11883 Rocha Shores Suite 310, Hayesberg, VI 89634",
+        "phone": "+1-301-658-9658x613",
+        "email": "patricia94@example.net",
+        "account": {
+            "account_number": "b7103eb8-197d-4f77-9d13-7b726cfe9fdd",
+            "balance": 31455.87,
+            "transactions": [
+                {
+                    "date": "2023-04-23",
+                    "description": "Withdrawal",
+                    "amount": 17943.93,
+                    "transaction_id": 51447039
+                }
+            ]
+        }
+    }
+}

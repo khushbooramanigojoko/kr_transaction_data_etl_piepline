@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jon Green",
+        "age": 77,
+        "gender": "male",
+        "address": "0673 Anthony Groves, Washingtonshire, RI 60238",
+        "phone": "829-619-7717x58557",
+        "email": "scottdean@example.org",
+        "account": {
+            "account_number": "4853bf11-557f-42f2-a7ce-449a7d7acbc6",
+            "balance": 23136.18,
+            "transactions": [
+                {
+                    "date": "2023-04-20",
+                    "description": "Withdrawal",
+                    "amount": 49245.61,
+                    "transaction_id": 7448338
+                },
+                {
+                    "date": "2023-10-16",
+                    "description": "Deposit",
+                    "amount": 8407.91,
+                    "transaction_id": 45517229
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Interest",
+                    "amount": 35677.75,
+                    "transaction_id": 69240554
+                },
+                {
+                    "date": "2023-05-22",
+                    "description": "Interest",
+                    "amount": 11942.51,
+                    "transaction_id": 74282138
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Deposit",
+                    "amount": 31892.69,
+                    "transaction_id": 80045180
+                }
+            ]
+        }
+    }
+}

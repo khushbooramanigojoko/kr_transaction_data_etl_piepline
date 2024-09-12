@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Cory Williams",
+        "age": 38,
+        "gender": "female",
+        "address": "43254 Brian Trail, New Carolstad, NE 34933",
+        "phone": "+1-695-380-0966x8749",
+        "email": "pgarcia@example.org",
+        "account": {
+            "account_number": "ab298611-0c47-40c9-a72f-2eb97af7163b",
+            "balance": 29478.35,
+            "transactions": [
+                {
+                    "date": "2024-04-08",
+                    "description": "Interest",
+                    "amount": 5624.87,
+                    "transaction_id": 32685437
+                }
+            ]
+        }
+    }
+}

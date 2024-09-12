@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 37,
+        "gender": "male",
+        "address": "594 Obrien Lodge Suite 882, Catherinefort, WI 95334",
+        "phone": "762.908.1665x2924",
+        "email": "justin40@example.org",
+        "account": {
+            "account_number": "21d24148-86d5-40ac-b4bf-70a8d9f57319",
+            "balance": 48435.8,
+            "transactions": [
+                {
+                    "date": "2024-04-16",
+                    "description": "Interest",
+                    "amount": 840.17,
+                    "transaction_id": 100618427
+                },
+                {
+                    "date": "2023-09-08",
+                    "description": "Deposit",
+                    "amount": 4997.62,
+                    "transaction_id": 118255245
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Withdrawal",
+                    "amount": 3262.97,
+                    "transaction_id": 116736432
+                }
+            ]
+        }
+    }
+}

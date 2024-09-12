@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 58,
+        "gender": "male",
+        "address": "87022 Beasley Extension Apt. 701, Port Reneestad, NE 86626",
+        "phone": "433.770.9013",
+        "email": "bushgary@example.com",
+        "account": {
+            "account_number": "8756692f-dd3b-40e9-8ba3-fe379964b916",
+            "balance": 5549.98,
+            "transactions": [
+                {
+                    "date": "2023-02-04",
+                    "description": "Withdrawal",
+                    "amount": 3132.94,
+                    "transaction_id": 93722844
+                }
+            ]
+        }
+    }
+}

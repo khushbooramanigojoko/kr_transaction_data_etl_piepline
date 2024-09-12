@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Anthony Flores",
+        "age": 56,
+        "gender": "female",
+        "address": "1846 Warner Branch, East Timothy, MD 93251",
+        "phone": "645-603-1471x34455",
+        "email": "michelleramirez@example.net",
+        "account": {
+            "account_number": "50130576-e49f-4602-82ea-bf01546576ab",
+            "balance": -30118.58,
+            "transactions": [
+                {
+                    "date": "2023-02-06",
+                    "description": "Interest",
+                    "amount": 3382.29,
+                    "transaction_id": 79078191
+                }
+            ]
+        }
+    }
+}

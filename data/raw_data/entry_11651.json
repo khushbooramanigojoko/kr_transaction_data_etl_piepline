@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Suzanne Solis",
+        "age": 24,
+        "gender": "male",
+        "address": "673 Bailey Expressway, Monroehaven, OR 45972",
+        "phone": "819-663-6261x2761",
+        "email": "david88@example.org",
+        "account": {
+            "account_number": "bacab9d4-2f28-4071-a2dc-c57e3a224937",
+            "balance": -26726.61,
+            "transactions": [
+                {
+                    "date": "2022-10-30",
+                    "description": "Withdrawal",
+                    "amount": -2779.85,
+                    "transaction_id": 44348780
+                },
+                {
+                    "date": "2023-10-19",
+                    "description": "Deposit",
+                    "amount": 50.03,
+                    "transaction_id": 66214745
+                }
+            ]
+        }
+    }
+}

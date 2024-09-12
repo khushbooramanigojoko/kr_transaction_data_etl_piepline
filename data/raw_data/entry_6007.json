@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joel Riley",
+        "age": 77,
+        "gender": "female",
+        "address": "56636 Lane Radial Suite 952, Blackwellstad, CT 00756",
+        "phone": "7246929727",
+        "email": "djohnson@example.net",
+        "account": {
+            "account_number": "737dedbb-28c2-4b2e-8309-1f609709b428",
+            "balance": 40994.26,
+            "transactions": [
+                {
+                    "date": "2022-12-15",
+                    "description": "Deposit",
+                    "amount": 40395.83,
+                    "transaction_id": 3172166
+                }
+            ]
+        }
+    }
+}

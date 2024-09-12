@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Cynthia Murphy",
+        "age": 99,
+        "gender": "male",
+        "address": "94446 Rebecca Track Apt. 778, North Charlesbury, WY 17367",
+        "phone": "001-888-370-9493",
+        "email": "rebeccadelgado@example.org",
+        "account": {
+            "account_number": "a8db2387-142f-4aac-94ec-a9f97b894ab7",
+            "balance": 21552.86,
+            "transactions": [
+                {
+                    "date": "2023-12-25",
+                    "description": "Withdrawal",
+                    "amount": 4976.05,
+                    "transaction_id": 3387676
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Deposit",
+                    "amount": 44330.07,
+                    "transaction_id": 107521584
+                },
+                {
+                    "date": "2023-01-24",
+                    "description": "Interest",
+                    "amount": 156.56,
+                    "transaction_id": 23941045
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Interest",
+                    "amount": 49468.5,
+                    "transaction_id": 20974001
+                },
+                {
+                    "date": "2023-05-06",
+                    "description": "Withdrawal",
+                    "amount": 22552.06,
+                    "transaction_id": 81880487
+                }
+            ]
+        }
+    }
+}

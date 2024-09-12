@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 56,
+        "gender": "male",
+        "address": "USNS George, FPO AP 03892",
+        "phone": "698.797.9760",
+        "email": "briannadavenport@example.net",
+        "account": {
+            "account_number": "9a0bf5a6-967a-4f70-80cb-896e5bc1cbe6",
+            "balance": 31181.86,
+            "transactions": [
+                {
+                    "date": "2023-03-14",
+                    "description": "Withdrawal",
+                    "amount": -3555.18,
+                    "transaction_id": 77689090
+                }
+            ]
+        }
+    }
+}

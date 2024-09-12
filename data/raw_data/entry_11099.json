@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 64,
+        "gender": "female",
+        "address": "586 Joseph Parkways, Jessicaville, PA 48954",
+        "phone": "3685823628",
+        "email": "jasminejohnson@example.net",
+        "account": {
+            "account_number": "84282a51-7baf-45a3-8d9c-308684f40163",
+            "balance": 11687.92,
+            "transactions": [
+                {
+                    "date": "2024-04-18",
+                    "description": "Interest",
+                    "amount": -4889.2,
+                    "transaction_id": 78016095
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Withdrawal",
+                    "amount": 3707.18,
+                    "transaction_id": 18127505
+                },
+                {
+                    "date": "2023-11-03",
+                    "description": "Withdrawal",
+                    "amount": -2855.98,
+                    "transaction_id": 105755348
+                }
+            ]
+        }
+    }
+}

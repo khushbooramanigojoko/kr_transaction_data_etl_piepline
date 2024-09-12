@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Francisco Palmer",
+        "age": 50,
+        "gender": "male",
+        "address": "70233 Andrea Track Apt. 204, West Andrew, NE 14385",
+        "phone": "362-606-9126x876",
+        "email": "gutierrezalexander@example.net",
+        "account": {
+            "account_number": "213441d5-9cfa-44ce-970a-3ddb060283d3",
+            "balance": 6151.74,
+            "transactions": [
+                {
+                    "date": "2023-04-26",
+                    "description": "Deposit",
+                    "amount": 39579.67,
+                    "transaction_id": 86804713
+                }
+            ]
+        }
+    }
+}

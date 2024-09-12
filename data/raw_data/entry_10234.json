@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Colleen Miller",
+        "age": 55,
+        "gender": "male",
+        "address": "500 William Canyon Apt. 771, East Jenniferville, OR 73221",
+        "phone": "627.369.9761",
+        "email": "porterabigail@example.org",
+        "account": {
+            "account_number": "ac172950-1027-40a4-8869-0b0ddcb6fdac",
+            "balance": -46659.31,
+            "transactions": [
+                {
+                    "date": "2024-07-14",
+                    "description": "Interest",
+                    "amount": -2959.31,
+                    "transaction_id": 45913343
+                },
+                {
+                    "date": "2024-01-24",
+                    "description": "Deposit",
+                    "amount": 3701.1,
+                    "transaction_id": 74837912
+                }
+            ]
+        }
+    }
+}

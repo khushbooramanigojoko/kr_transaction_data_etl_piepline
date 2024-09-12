@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mallory Clayton",
+        "age": 69,
+        "gender": "male",
+        "address": "7492 Rebecca Bypass Apt. 261, East Jennifer, OR 37442",
+        "phone": "312.488.0689x94602",
+        "email": "hkelly@example.com",
+        "account": {
+            "account_number": "1c35e1f8-5572-4cce-b7bc-b70ff883feed",
+            "balance": 46289.34,
+            "transactions": [
+                {
+                    "date": "2022-12-06",
+                    "description": "Withdrawal",
+                    "amount": 10590.99,
+                    "transaction_id": 35419181
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Withdrawal",
+                    "amount": 20240.66,
+                    "transaction_id": 108393400
+                },
+                {
+                    "date": "2022-09-11",
+                    "description": "Deposit",
+                    "amount": 38557.93,
+                    "transaction_id": 86802927
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Interest",
+                    "amount": 34171.66,
+                    "transaction_id": 62013616
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Interest",
+                    "amount": 4815.58,
+                    "transaction_id": 85959682
+                }
+            ]
+        }
+    }
+}

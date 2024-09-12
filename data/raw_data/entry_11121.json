@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 91,
+        "gender": "female",
+        "address": "60827 Deborah Summit, East Bobbyburgh, NH 73447",
+        "phone": "338-844-9114",
+        "email": "zingram@example.org",
+        "account": {
+            "account_number": "cb47cd07-ced6-4494-97d3-52f99024beeb",
+            "balance": 7886.82,
+            "transactions": [
+                {
+                    "date": "2022-11-15",
+                    "description": "Deposit",
+                    "amount": -511.14,
+                    "transaction_id": 29980193
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Interest",
+                    "amount": 2103.75,
+                    "transaction_id": 31093922
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joshua Chavez",
+        "age": 96,
+        "gender": "female",
+        "address": "Unit 9469 Box 6999, DPO AA 56810",
+        "phone": "241.782.5498x732",
+        "email": "donna06@example.com",
+        "account": {
+            "account_number": "0b94a2a1-bc8f-4336-9ec9-10d672bdf9e6",
+            "balance": 4653.11,
+            "transactions": [
+                {
+                    "date": "2023-01-31",
+                    "description": "Withdrawal",
+                    "amount": 31891.42,
+                    "transaction_id": 22119448
+                },
+                {
+                    "date": "2023-09-07",
+                    "description": "Withdrawal",
+                    "amount": 17943.0,
+                    "transaction_id": 62103500
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Withdrawal",
+                    "amount": 41017.29,
+                    "transaction_id": 58217901
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Grace Day",
+        "age": 73,
+        "gender": "female",
+        "address": "85367 Brown Locks, North Aprilshire, MD 28280",
+        "phone": "(230)685-0557",
+        "email": "rsanchez@example.net",
+        "account": {
+            "account_number": "43abffc5-0509-43c8-922b-8caa0e9fdf81",
+            "balance": -23035.38,
+            "transactions": [
+                {
+                    "date": "2023-07-27",
+                    "description": "Deposit",
+                    "amount": 4736.63,
+                    "transaction_id": 91534746
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Interest",
+                    "amount": -2291.75,
+                    "transaction_id": 19233149
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Withdrawal",
+                    "amount": -1448.14,
+                    "transaction_id": 4863979
+                }
+            ]
+        }
+    }
+}

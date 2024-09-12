@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Gordon",
+        "age": 38,
+        "gender": "male",
+        "address": "028 Anna Plaza, Scottside, KS 40799",
+        "phone": "439-994-4749x12055",
+        "email": "jasonriley@example.com",
+        "account": {
+            "account_number": "c9a6d9b3-5d2b-4996-b0e2-360218702a1e",
+            "balance": 7089.06,
+            "transactions": [
+                {
+                    "date": "2024-05-06",
+                    "description": "Interest",
+                    "amount": 4042.93,
+                    "transaction_id": 57003790
+                },
+                {
+                    "date": "2023-12-20",
+                    "description": "Withdrawal",
+                    "amount": 26017.73,
+                    "transaction_id": 63041991
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Withdrawal",
+                    "amount": 39302.57,
+                    "transaction_id": 92144994
+                },
+                {
+                    "date": "2023-10-05",
+                    "description": "Interest",
+                    "amount": 24470.21,
+                    "transaction_id": 93762336
+                }
+            ]
+        }
+    }
+}

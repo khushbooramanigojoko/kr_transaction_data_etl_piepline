@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jeffrey Alexander",
+        "age": 87,
+        "gender": "female",
+        "address": "4174 Kevin Highway, North Micheal, IA 47895",
+        "phone": "+1-539-549-2080x422",
+        "email": "laurarivers@example.org",
+        "account": {
+            "account_number": "8fc23a98-af41-4241-9e98-c43847ab910d",
+            "balance": 46593.4,
+            "transactions": [
+                {
+                    "date": "2023-09-26",
+                    "description": "Deposit",
+                    "amount": 35495.48,
+                    "transaction_id": 66507358
+                },
+                {
+                    "date": "2022-10-30",
+                    "description": "Deposit",
+                    "amount": 2457.86,
+                    "transaction_id": 83020595
+                },
+                {
+                    "date": "2022-12-20",
+                    "description": "Interest",
+                    "amount": 40602.45,
+                    "transaction_id": 53803319
+                },
+                {
+                    "date": "2023-04-23",
+                    "description": "Withdrawal",
+                    "amount": 30151.1,
+                    "transaction_id": 11137074
+                }
+            ]
+        }
+    }
+}

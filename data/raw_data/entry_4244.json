@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Thomas Reed",
+        "age": 97,
+        "gender": "male",
+        "address": "3065 Kelsey Squares, Lake Jeanneside, AK 72976",
+        "phone": "706-894-4897",
+        "email": "annfuller@example.com",
+        "account": {
+            "account_number": "f84faaa9-f661-498a-880e-3307ff85ac04",
+            "balance": 45923.2,
+            "transactions": [
+                {
+                    "date": "2022-11-28",
+                    "description": "Withdrawal",
+                    "amount": 36674.39,
+                    "transaction_id": 47078699
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Deposit",
+                    "amount": 32489.67,
+                    "transaction_id": 108746352
+                },
+                {
+                    "date": "2024-04-06",
+                    "description": "Interest",
+                    "amount": 13285.69,
+                    "transaction_id": 80525742
+                },
+                {
+                    "date": "2023-12-06",
+                    "description": "Interest",
+                    "amount": 4340.56,
+                    "transaction_id": 16866658
+                }
+            ]
+        }
+    }
+}

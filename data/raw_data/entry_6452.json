@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Shari West",
+        "age": 53,
+        "gender": "male",
+        "address": "486 Matthew Point Suite 907, Sharonville, WY 86462",
+        "phone": "718-363-0057x71555",
+        "email": "jose68@example.net",
+        "account": {
+            "account_number": "5c041426-2f7a-4489-990f-40c54e5c6370",
+            "balance": 9706.72,
+            "transactions": [
+                {
+                    "date": "2023-03-31",
+                    "description": "Deposit",
+                    "amount": 35210.56,
+                    "transaction_id": 7009112
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Deposit",
+                    "amount": 28613.01,
+                    "transaction_id": 86155294
+                }
+            ]
+        }
+    }
+}

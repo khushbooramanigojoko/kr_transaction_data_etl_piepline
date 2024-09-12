@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Matthew Henry",
+        "age": 44,
+        "gender": "female",
+        "address": "6069 John Ways, Johnburgh, FM 67662",
+        "phone": "370.885.7443x2736",
+        "email": "holly06@example.org",
+        "account": {
+            "account_number": "71052cb1-d77b-4789-9bf2-de910912a5be",
+            "balance": 31225.1,
+            "transactions": [
+                {
+                    "date": "2023-09-26",
+                    "description": "Withdrawal",
+                    "amount": 15949.95,
+                    "transaction_id": 60492235
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Withdrawal",
+                    "amount": 38734.38,
+                    "transaction_id": 98809519
+                },
+                {
+                    "date": "2023-10-08",
+                    "description": "Interest",
+                    "amount": 10858.61,
+                    "transaction_id": 5500133
+                }
+            ]
+        }
+    }
+}

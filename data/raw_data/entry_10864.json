@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 97,
+        "gender": "female",
+        "address": "5124 Williams Groves, Melissaborough, UT 81828",
+        "phone": "001-762-928-7743",
+        "email": "webbbrenda@example.com",
+        "account": {
+            "account_number": "6ce6ac74-1206-4e42-8c5d-aad8f58ce1fd",
+            "balance": 26403.66,
+            "transactions": [
+                {
+                    "date": "2022-11-18",
+                    "description": "Deposit",
+                    "amount": 1608.85,
+                    "transaction_id": 16136918
+                }
+            ]
+        }
+    }
+}

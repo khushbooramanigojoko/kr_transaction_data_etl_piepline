@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Adams",
+        "age": 83,
+        "gender": "male",
+        "address": "858 Angela Ville Apt. 780, Matthewland, CO 63131",
+        "phone": "6894529947",
+        "email": "williambarnes@example.com",
+        "account": {
+            "account_number": "c6396f0e-0084-4cc6-9e10-704bdd9beeaf",
+            "balance": 16882.3,
+            "transactions": [
+                {
+                    "date": "2022-12-25",
+                    "description": "Interest",
+                    "amount": 18852.56,
+                    "transaction_id": 22583912
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Withdrawal",
+                    "amount": 44714.51,
+                    "transaction_id": 47052008
+                },
+                {
+                    "date": "2023-05-06",
+                    "description": "Withdrawal",
+                    "amount": 23084.31,
+                    "transaction_id": 10798356
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Interest",
+                    "amount": 8804.73,
+                    "transaction_id": 77078537
+                },
+                {
+                    "date": "2022-11-07",
+                    "description": "Interest",
+                    "amount": 19111.11,
+                    "transaction_id": 87821733
+                }
+            ]
+        }
+    }
+}

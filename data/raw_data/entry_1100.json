@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "David Collins",
+        "age": 27,
+        "gender": "male",
+        "address": "448 Atkins Harbor Apt. 178, South Leslie, NM 99032",
+        "phone": "+1-749-419-0328x68668",
+        "email": "corey04@example.com",
+        "account": {
+            "account_number": "06a18dfc-fc2e-4d17-938d-bad7f73778a8",
+            "balance": 48627.35,
+            "transactions": [
+                {
+                    "date": "2024-08-22",
+                    "description": "Deposit",
+                    "amount": 2978.79,
+                    "transaction_id": 14431584
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Interest",
+                    "amount": 25222.19,
+                    "transaction_id": 77058510
+                },
+                {
+                    "date": "2024-02-10",
+                    "description": "Interest",
+                    "amount": 16796.57,
+                    "transaction_id": 118354074
+                },
+                {
+                    "date": "2023-01-20",
+                    "description": "Deposit",
+                    "amount": 3519.02,
+                    "transaction_id": 118018937
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Interest",
+                    "amount": 19417.94,
+                    "transaction_id": 23836008
+                }
+            ]
+        }
+    }
+}

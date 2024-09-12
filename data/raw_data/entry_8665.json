@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Carol Fletcher",
+        "age": 95,
+        "gender": "male",
+        "address": "63250 Barnett Mountain, East Eric, CT 90246",
+        "phone": "810-298-9900",
+        "email": "mary29@example.com",
+        "account": {
+            "account_number": "600a7d26-2c43-4707-b6ed-c6654b0bdbc4",
+            "balance": 13566.58,
+            "transactions": [
+                {
+                    "date": "2023-02-17",
+                    "description": "Withdrawal",
+                    "amount": 43391.93,
+                    "transaction_id": 83550210
+                }
+            ]
+        }
+    }
+}

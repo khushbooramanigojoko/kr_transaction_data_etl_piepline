@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dwayne Harrison",
+        "age": 28,
+        "gender": "female",
+        "address": "745 Joshua Springs Suite 752, Millerhaven, IN 53195",
+        "phone": "292-553-7826x24176",
+        "email": "pcrosby@example.com",
+        "account": {
+            "account_number": "c0afc903-f5b0-48a6-9235-6885fb093d91",
+            "balance": 9162.12,
+            "transactions": [
+                {
+                    "date": "2023-07-26",
+                    "description": "Deposit",
+                    "amount": 34402.11,
+                    "transaction_id": 4623499
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Deposit",
+                    "amount": 4714.05,
+                    "transaction_id": 24552781
+                },
+                {
+                    "date": "2024-03-23",
+                    "description": "Withdrawal",
+                    "amount": 15188.15,
+                    "transaction_id": 15819595
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Withdrawal",
+                    "amount": 31081.02,
+                    "transaction_id": 67244356
+                }
+            ]
+        }
+    }
+}

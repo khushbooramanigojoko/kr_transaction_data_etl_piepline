@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brenda Walker",
+        "age": 66,
+        "gender": "male",
+        "address": "8934 William Isle, North Angelabury, AZ 09094",
+        "phone": "(903)649-9708x05308",
+        "email": "rmurphy@example.org",
+        "account": {
+            "account_number": "3ec1f817-68f0-42a3-8979-3f7a3c94cf69",
+            "balance": -31303.73,
+            "transactions": [
+                {
+                    "date": "2024-01-16",
+                    "description": "Withdrawal",
+                    "amount": -852.93,
+                    "transaction_id": 19146585
+                },
+                {
+                    "date": "2024-06-26",
+                    "description": "Interest",
+                    "amount": 4305.13,
+                    "transaction_id": 81371138
+                }
+            ]
+        }
+    }
+}

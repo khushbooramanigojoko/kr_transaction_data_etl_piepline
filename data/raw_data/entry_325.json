@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brooke Walsh",
+        "age": 71,
+        "gender": "female",
+        "address": "1031 Angela Ramp Apt. 534, West Alvinbury, IN 39627",
+        "phone": "519-758-7488x40022",
+        "email": "monicagarrett@example.org",
+        "account": {
+            "account_number": "b9472d50-6914-4860-8254-a493b51837f3",
+            "balance": 28111.2,
+            "transactions": [
+                {
+                    "date": "2024-05-03",
+                    "description": "Withdrawal",
+                    "amount": 21632.71,
+                    "transaction_id": 94718533
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Withdrawal",
+                    "amount": 35679.99,
+                    "transaction_id": 10375986
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Interest",
+                    "amount": 3156.97,
+                    "transaction_id": 78831196
+                },
+                {
+                    "date": "2023-10-21",
+                    "description": "Withdrawal",
+                    "amount": 21913.65,
+                    "transaction_id": 14136856
+                }
+            ]
+        }
+    }
+}

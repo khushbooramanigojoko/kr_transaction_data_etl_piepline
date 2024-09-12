@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Scott Pruitt",
+        "age": 59,
+        "gender": "female",
+        "address": "8410 Christopher Center, Joshuahaven, DE 49240",
+        "phone": "545.984.4663x72442",
+        "email": "crystalvilla@example.com",
+        "account": {
+            "account_number": "2147e797-b06e-4a39-90d3-57a73a4e9f33",
+            "balance": 44472.65,
+            "transactions": [
+                {
+                    "date": "2023-02-28",
+                    "description": "Deposit",
+                    "amount": 22977.56,
+                    "transaction_id": 23709362
+                },
+                {
+                    "date": "2023-06-05",
+                    "description": "Withdrawal",
+                    "amount": 37693.95,
+                    "transaction_id": 3360637
+                },
+                {
+                    "date": "2023-01-07",
+                    "description": "Deposit",
+                    "amount": 5754.93,
+                    "transaction_id": 77699996
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Matthew Shields",
+        "age": 42,
+        "gender": "male",
+        "address": "918 Danielle Path Apt. 612, New Jessemouth, MS 11737",
+        "phone": "334.457.2595",
+        "email": "tammyhernandez@example.net",
+        "account": {
+            "account_number": "a0286c67-c606-42b3-89c0-87ff38d5ec5e",
+            "balance": 40164.44,
+            "transactions": [
+                {
+                    "date": "2022-11-23",
+                    "description": "Deposit",
+                    "amount": 27576.18,
+                    "transaction_id": 6723511
+                },
+                {
+                    "date": "2022-11-29",
+                    "description": "Interest",
+                    "amount": 27280.02,
+                    "transaction_id": 92777619
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Dawn Castillo",
+        "age": 56,
+        "gender": "female",
+        "address": "106 Woods Lane Apt. 225, Lake Williamstad, MI 96222",
+        "phone": "516.778.5421x3039",
+        "email": "bethpierce@example.com",
+        "account": {
+            "account_number": "484e1811-ea02-423a-ad16-e2d0c0489677",
+            "balance": 36593.05,
+            "transactions": [
+                {
+                    "date": "2024-08-04",
+                    "description": "Withdrawal",
+                    "amount": 2592.95,
+                    "transaction_id": 4290784
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Deposit",
+                    "amount": 26121.27,
+                    "transaction_id": 17707410
+                }
+            ]
+        }
+    }
+}

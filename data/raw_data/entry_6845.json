@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Susan Young",
+        "age": 53,
+        "gender": "female",
+        "address": "21257 Nathan Islands Apt. 879, South Ericaland, SD 99700",
+        "phone": "+1-222-901-0107x2305",
+        "email": "kstevens@example.org",
+        "account": {
+            "account_number": "c398f099-c82f-44e7-a50f-8afa24911d12",
+            "balance": 46550.39,
+            "transactions": [
+                {
+                    "date": "2023-07-22",
+                    "description": "Deposit",
+                    "amount": 21387.63,
+                    "transaction_id": 87080249
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Deposit",
+                    "amount": 44041.9,
+                    "transaction_id": 71820092
+                },
+                {
+                    "date": "2024-03-20",
+                    "description": "Interest",
+                    "amount": 40925.47,
+                    "transaction_id": 5634863
+                },
+                {
+                    "date": "2024-04-10",
+                    "description": "Withdrawal",
+                    "amount": 17799.77,
+                    "transaction_id": 46166292
+                }
+            ]
+        }
+    }
+}

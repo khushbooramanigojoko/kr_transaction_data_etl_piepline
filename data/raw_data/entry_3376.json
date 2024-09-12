@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "April Reed",
+        "age": 89,
+        "gender": "male",
+        "address": "5568 Smith Neck, Thomasville, AZ 15135",
+        "phone": "(280)641-6586",
+        "email": "morrisdana@example.com",
+        "account": {
+            "account_number": "773d5388-fdfe-4f7d-899e-578d7d39a64a",
+            "balance": 46115.05,
+            "transactions": [
+                {
+                    "date": "2023-05-05",
+                    "description": "Interest",
+                    "amount": 15232.73,
+                    "transaction_id": 33541569
+                }
+            ]
+        }
+    }
+}

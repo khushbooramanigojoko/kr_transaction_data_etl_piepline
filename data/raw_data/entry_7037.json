@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tim Skinner",
+        "age": 20,
+        "gender": "female",
+        "address": "6187 Wong Mission Suite 450, North Margaret, MA 52105",
+        "phone": "(524)368-4078",
+        "email": "piercenicole@example.com",
+        "account": {
+            "account_number": "6304f5da-ef83-4150-a72c-8cb64353eaf0",
+            "balance": 28820.47,
+            "transactions": [
+                {
+                    "date": "2024-08-23",
+                    "description": "Interest",
+                    "amount": 13229.84,
+                    "transaction_id": 18383102
+                }
+            ]
+        }
+    }
+}

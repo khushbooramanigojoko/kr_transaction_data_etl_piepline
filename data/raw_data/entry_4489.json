@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kelly Brown",
+        "age": 59,
+        "gender": "male",
+        "address": "4517 Melanie Groves, New Philipstad, FM 13290",
+        "phone": "8435748974",
+        "email": "amartinez@example.com",
+        "account": {
+            "account_number": "8d0258df-ab9c-4b7e-80dc-f98d2731d53f",
+            "balance": 8608.28,
+            "transactions": [
+                {
+                    "date": "2023-04-04",
+                    "description": "Deposit",
+                    "amount": 19898.43,
+                    "transaction_id": 52466392
+                },
+                {
+                    "date": "2022-09-04",
+                    "description": "Deposit",
+                    "amount": 31358.37,
+                    "transaction_id": 110587372
+                },
+                {
+                    "date": "2022-11-14",
+                    "description": "Withdrawal",
+                    "amount": 19738.84,
+                    "transaction_id": 24287521
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Interest",
+                    "amount": 44978.32,
+                    "transaction_id": 13282309
+                }
+            ]
+        }
+    }
+}

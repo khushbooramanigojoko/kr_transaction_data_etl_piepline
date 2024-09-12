@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 18,
+        "gender": "female",
+        "address": "1130 Holly Heights, Victoriabury, MI 87110",
+        "phone": "001-239-514-9751x8930",
+        "email": "davidadams@example.net",
+        "account": {
+            "account_number": "d6ecc270-9e64-4478-8e12-10fc5bc73cae",
+            "balance": 2282.71,
+            "transactions": [
+                {
+                    "date": "2023-08-19",
+                    "description": "Withdrawal",
+                    "amount": -2139.66,
+                    "transaction_id": 1872259
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Interest",
+                    "amount": -445.34,
+                    "transaction_id": 59255138
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Withdrawal",
+                    "amount": -2319.56,
+                    "transaction_id": 7831209
+                },
+                {
+                    "date": "2024-07-13",
+                    "description": "Interest",
+                    "amount": 911.81,
+                    "transaction_id": 6932813
+                },
+                {
+                    "date": "2022-12-09",
+                    "description": "Interest",
+                    "amount": -2204.28,
+                    "transaction_id": 65900825
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Dr. Suzanne Richards MD",
+        "age": 25,
+        "gender": "female",
+        "address": "25888 Rivera Prairie, Adamshaven, WV 69727",
+        "phone": "001-744-590-1213x246",
+        "email": "ybell@example.org",
+        "account": {
+            "account_number": "a240da67-e103-48a1-b36c-ef48e7085952",
+            "balance": 18635.76,
+            "transactions": [
+                {
+                    "date": "2024-05-01",
+                    "description": "Interest",
+                    "amount": 10934.02,
+                    "transaction_id": 6230503
+                },
+                {
+                    "date": "2024-07-27",
+                    "description": "Withdrawal",
+                    "amount": 12016.41,
+                    "transaction_id": 86644111
+                }
+            ]
+        }
+    }
+}

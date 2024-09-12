@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ashley Sutton",
+        "age": 58,
+        "gender": "female",
+        "address": "3515 Barajas Oval Suite 219, Hayeshaven, MA 76991",
+        "phone": "001-810-682-7565x2881",
+        "email": "tstewart@example.net",
+        "account": {
+            "account_number": "6a11ce3f-bcd9-4ebc-bc66-f7b930449c07",
+            "balance": 27621.67,
+            "transactions": [
+                {
+                    "date": "2023-10-07",
+                    "description": "Withdrawal",
+                    "amount": 20136.12,
+                    "transaction_id": 35875177
+                },
+                {
+                    "date": "2023-05-04",
+                    "description": "Withdrawal",
+                    "amount": 28860.28,
+                    "transaction_id": 18814393
+                },
+                {
+                    "date": "2024-03-10",
+                    "description": "Withdrawal",
+                    "amount": 28613.04,
+                    "transaction_id": 59885691
+                },
+                {
+                    "date": "2024-03-21",
+                    "description": "Deposit",
+                    "amount": 43239.38,
+                    "transaction_id": 106421243
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brian Welch DVM",
+        "age": 60,
+        "gender": "male",
+        "address": "63629 Davis Islands, Greenefurt, PA 80098",
+        "phone": "666-731-6090x21439",
+        "email": "sarah42@example.org",
+        "account": {
+            "account_number": "0dd7e065-7a50-4ff2-b409-30d38e74c9b2",
+            "balance": 9517.34,
+            "transactions": [
+                {
+                    "date": "2024-02-20",
+                    "description": "Withdrawal",
+                    "amount": 22812.79,
+                    "transaction_id": 118167355
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Deposit",
+                    "amount": 32972.64,
+                    "transaction_id": 111337074
+                },
+                {
+                    "date": "2023-05-20",
+                    "description": "Withdrawal",
+                    "amount": 9374.36,
+                    "transaction_id": 71824726
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Deposit",
+                    "amount": 48810.57,
+                    "transaction_id": 59346682
+                }
+            ]
+        }
+    }
+}

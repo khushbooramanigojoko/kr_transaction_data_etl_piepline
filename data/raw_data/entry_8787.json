@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Laurie Lopez",
+        "age": 53,
+        "gender": "male",
+        "address": "508 Lisa Brooks, South Jennifermouth, OK 80823",
+        "phone": "001-496-833-4894x14523",
+        "email": "davisjeanette@example.net",
+        "account": {
+            "account_number": "707a626c-52aa-48bd-b6ab-39ac3c60b2b0",
+            "balance": -39440.32,
+            "transactions": [
+                {
+                    "date": "2024-01-26",
+                    "description": "Interest",
+                    "amount": -3800.47,
+                    "transaction_id": 98625268
+                },
+                {
+                    "date": "2024-02-23",
+                    "description": "Withdrawal",
+                    "amount": 171.83,
+                    "transaction_id": 79353963
+                }
+            ]
+        }
+    }
+}

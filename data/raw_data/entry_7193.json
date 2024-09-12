@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Maria Velasquez",
+        "age": 19,
+        "gender": "male",
+        "address": "32453 Ferguson Motorway Apt. 121, Erinshire, ME 44011",
+        "phone": "001-797-855-5011x099",
+        "email": "pwagner@example.org",
+        "account": {
+            "account_number": "61c0ae68-f42c-4662-b715-a0cf17030c13",
+            "balance": 7555.21,
+            "transactions": [
+                {
+                    "date": "2022-12-02",
+                    "description": "Interest",
+                    "amount": 32252.47,
+                    "transaction_id": 14814114
+                },
+                {
+                    "date": "2024-05-12",
+                    "description": "Withdrawal",
+                    "amount": 10301.32,
+                    "transaction_id": 118629622
+                }
+            ]
+        }
+    }
+}

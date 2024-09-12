@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 30,
+        "gender": "male",
+        "address": "97102 James Mountains, South Rebeccatown, NJ 22008",
+        "phone": "(478)254-9722x82949",
+        "email": "ysparks@example.net",
+        "account": {
+            "account_number": "7f8145de-ad03-4e7a-a326-212318b3dba5",
+            "balance": 49382.53,
+            "transactions": [
+                {
+                    "date": "2023-07-20",
+                    "description": "Withdrawal",
+                    "amount": -2849.48,
+                    "transaction_id": 109278770
+                },
+                {
+                    "date": "2023-01-14",
+                    "description": "Deposit",
+                    "amount": 3684.25,
+                    "transaction_id": 48046157
+                },
+                {
+                    "date": "2023-03-24",
+                    "description": "Deposit",
+                    "amount": -4686.51,
+                    "transaction_id": 73736469
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Withdrawal",
+                    "amount": 999.41,
+                    "transaction_id": 108792794
+                }
+            ]
+        }
+    }
+}

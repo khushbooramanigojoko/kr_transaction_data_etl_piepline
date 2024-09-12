@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Evelyn Weaver",
+        "age": 27,
+        "gender": "male",
+        "address": "4418 Brian Shoal, Waynemouth, HI 35382",
+        "phone": "(656)278-7639x82406",
+        "email": "robertevans@example.org",
+        "account": {
+            "account_number": "20a6cb92-7a74-4bb4-9f89-87a516715e02",
+            "balance": 13712.72,
+            "transactions": [
+                {
+                    "date": "2023-06-08",
+                    "description": "Interest",
+                    "amount": 44048.83,
+                    "transaction_id": 11528451
+                }
+            ]
+        }
+    }
+}

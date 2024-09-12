@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amy Wong",
+        "age": 59,
+        "gender": "male",
+        "address": "784 Jennifer Neck, Port Charles, UT 81843",
+        "phone": "991-566-0204",
+        "email": "xavier86@example.org",
+        "account": {
+            "account_number": "c42020d4-0ecf-4844-aca3-09d406ea13c7",
+            "balance": 9716.24,
+            "transactions": [
+                {
+                    "date": "2022-09-28",
+                    "description": "Withdrawal",
+                    "amount": 36178.27,
+                    "transaction_id": 22013187
+                }
+            ]
+        }
+    }
+}

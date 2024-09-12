@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Leah Webster",
+        "age": 24,
+        "gender": "female",
+        "address": "94637 Keller Groves Suite 135, Garciashire, KS 43429",
+        "phone": "(854)389-8507x315",
+        "email": "paulschroeder@example.net",
+        "account": {
+            "account_number": "1ff0ef29-9482-4edf-b960-2cd48f2c45c1",
+            "balance": 5416.36,
+            "transactions": [
+                {
+                    "date": "2024-01-22",
+                    "description": "Withdrawal",
+                    "amount": 26507.31,
+                    "transaction_id": 13757352
+                },
+                {
+                    "date": "2024-06-02",
+                    "description": "Interest",
+                    "amount": 21526.96,
+                    "transaction_id": 12075619
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Withdrawal",
+                    "amount": 29471.42,
+                    "transaction_id": 77753739
+                }
+            ]
+        }
+    }
+}

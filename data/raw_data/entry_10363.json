@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 80,
+        "gender": "female",
+        "address": "449 Elizabeth Lane, East Heather, DE 26856",
+        "phone": "001-250-825-0398x9731",
+        "email": "emily58@example.org",
+        "account": {
+            "account_number": "a5ecf547-1741-49f5-bac6-e3b273b84574",
+            "balance": 40540.37,
+            "transactions": [
+                {
+                    "date": "2023-05-31",
+                    "description": "Interest",
+                    "amount": 533.15,
+                    "transaction_id": 5513333
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Deposit",
+                    "amount": -2532.0,
+                    "transaction_id": 109632095
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Withdrawal",
+                    "amount": -3061.28,
+                    "transaction_id": 36045784
+                },
+                {
+                    "date": "2023-08-28",
+                    "description": "Interest",
+                    "amount": -3098.83,
+                    "transaction_id": 18434602
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 78,
+        "gender": "male",
+        "address": "PSC 9333, Box 6629, APO AP 82527",
+        "phone": "688.529.0584",
+        "email": "jmorgan@example.org",
+        "account": {
+            "account_number": "c06ac642-501a-4d8e-b565-d890d325fe18",
+            "balance": 39201.53,
+            "transactions": [
+                {
+                    "date": "2022-11-15",
+                    "description": "Deposit",
+                    "amount": 2510.68,
+                    "transaction_id": 103077521
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Withdrawal",
+                    "amount": -608.75,
+                    "transaction_id": 92058350
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Withdrawal",
+                    "amount": -4503.55,
+                    "transaction_id": 78913677
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Withdrawal",
+                    "amount": -953.02,
+                    "transaction_id": 66393751
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Deposit",
+                    "amount": 262.75,
+                    "transaction_id": 82527111
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Caroline Garcia",
+        "age": 32,
+        "gender": "male",
+        "address": "PSC 5792, Box 6041, APO AA 93716",
+        "phone": "572.369.9416x577",
+        "email": "sullivanchristopher@example.com",
+        "account": {
+            "account_number": "0170cb1c-b3cb-4d41-8a07-421751d0301a",
+            "balance": -41976.0,
+            "transactions": [
+                {
+                    "date": "2022-12-01",
+                    "description": "Deposit",
+                    "amount": -1113.7,
+                    "transaction_id": 93166867
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Deposit",
+                    "amount": 2391.46,
+                    "transaction_id": 88854595
+                },
+                {
+                    "date": "2024-06-30",
+                    "description": "Interest",
+                    "amount": -4596.85,
+                    "transaction_id": 68454657
+                }
+            ]
+        }
+    }
+}

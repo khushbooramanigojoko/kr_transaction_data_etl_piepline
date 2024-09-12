@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ashley Peterson",
+        "age": 25,
+        "gender": "female",
+        "address": "6567 Nancy River Apt. 069, Johntown, PA 94805",
+        "phone": "001-487-792-9308x08740",
+        "email": "williamhiggins@example.net",
+        "account": {
+            "account_number": "5f51896c-772e-4919-8677-b74bfd886cb7",
+            "balance": 21345.95,
+            "transactions": [
+                {
+                    "date": "2023-05-22",
+                    "description": "Withdrawal",
+                    "amount": 49377.58,
+                    "transaction_id": 71907459
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Interest",
+                    "amount": 17655.89,
+                    "transaction_id": 80408286
+                },
+                {
+                    "date": "2022-12-26",
+                    "description": "Withdrawal",
+                    "amount": 15537.86,
+                    "transaction_id": 9896157
+                },
+                {
+                    "date": "2024-01-06",
+                    "description": "Withdrawal",
+                    "amount": 18637.67,
+                    "transaction_id": 109625929
+                }
+            ]
+        }
+    }
+}

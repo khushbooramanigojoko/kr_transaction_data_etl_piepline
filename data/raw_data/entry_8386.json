@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Marcus Wood",
+        "age": 49,
+        "gender": "male",
+        "address": "2500 Kelsey Groves Apt. 542, New Wesley, MD 82705",
+        "phone": "001-984-347-3481x494",
+        "email": "walkerkimberly@example.org",
+        "account": {
+            "account_number": "6d7b14a8-0d76-4e41-8555-ee46e23aa1ba",
+            "balance": 38364.57,
+            "transactions": [
+                {
+                    "date": "2024-02-22",
+                    "description": "Withdrawal",
+                    "amount": 1327.75,
+                    "transaction_id": 52849227
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Withdrawal",
+                    "amount": 47633.37,
+                    "transaction_id": 91028772
+                },
+                {
+                    "date": "2023-09-29",
+                    "description": "Deposit",
+                    "amount": 22909.86,
+                    "transaction_id": 58047861
+                },
+                {
+                    "date": "2023-04-15",
+                    "description": "Withdrawal",
+                    "amount": 45318.35,
+                    "transaction_id": 49322587
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Withdrawal",
+                    "amount": 29270.23,
+                    "transaction_id": 42070215
+                }
+            ]
+        }
+    }
+}

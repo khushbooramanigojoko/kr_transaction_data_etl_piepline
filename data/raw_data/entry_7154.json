@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Angela Snyder",
+        "age": 86,
+        "gender": "male",
+        "address": "Unit 7321 Box 0774, DPO AE 79291",
+        "phone": "645.569.2482x625",
+        "email": "todd59@example.org",
+        "account": {
+            "account_number": "2bbd6afa-a262-4cd8-bece-2640f2e586f4",
+            "balance": 12435.07,
+            "transactions": [
+                {
+                    "date": "2022-12-15",
+                    "description": "Deposit",
+                    "amount": 7016.53,
+                    "transaction_id": 3427397
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Interest",
+                    "amount": 30037.64,
+                    "transaction_id": 102735374
+                }
+            ]
+        }
+    }
+}

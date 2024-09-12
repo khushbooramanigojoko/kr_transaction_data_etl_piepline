@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "David Thompson",
+        "age": 32,
+        "gender": "male",
+        "address": "197 James Crossing Suite 587, Stevenborough, OK 92424",
+        "phone": "599-713-7358x6750",
+        "email": "dbailey@example.org",
+        "account": {
+            "account_number": "a4893f1b-20c4-4b66-be66-f63df1a1fd53",
+            "balance": -47360.28,
+            "transactions": [
+                {
+                    "date": "2024-03-19",
+                    "description": "Interest",
+                    "amount": -1490.93,
+                    "transaction_id": 20404711
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Deposit",
+                    "amount": -693.65,
+                    "transaction_id": 72059175
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Withdrawal",
+                    "amount": 0.2,
+                    "transaction_id": 2655296
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Deposit",
+                    "amount": -3074.19,
+                    "transaction_id": 41880787
+                }
+            ]
+        }
+    }
+}

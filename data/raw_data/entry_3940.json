@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Anthony Jones",
+        "age": 34,
+        "gender": "female",
+        "address": "1751 Ayala Curve, South Laura, MA 45713",
+        "phone": "(784)831-6444x2504",
+        "email": "darmstrong@example.com",
+        "account": {
+            "account_number": "cdb38634-e68d-42d2-9ad7-e3a729f462b2",
+            "balance": 5918.68,
+            "transactions": [
+                {
+                    "date": "2024-05-07",
+                    "description": "Withdrawal",
+                    "amount": 23295.55,
+                    "transaction_id": 92736762
+                }
+            ]
+        }
+    }
+}

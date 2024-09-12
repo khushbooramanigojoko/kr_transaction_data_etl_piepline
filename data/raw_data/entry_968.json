@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "David Perry",
+        "age": 72,
+        "gender": "female",
+        "address": "USNS Barry, FPO AA 66737",
+        "phone": "915.419.1212",
+        "email": "qgarrison@example.com",
+        "account": {
+            "account_number": "d99340d9-a296-4fa4-9a43-9b2390246f3f",
+            "balance": 15464.75,
+            "transactions": [
+                {
+                    "date": "2023-09-20",
+                    "description": "Interest",
+                    "amount": 2561.36,
+                    "transaction_id": 21812177
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Withdrawal",
+                    "amount": 15764.81,
+                    "transaction_id": 113249122
+                }
+            ]
+        }
+    }
+}

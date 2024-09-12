@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Dr. Caleb Edwards Jr.",
+        "age": 58,
+        "gender": "female",
+        "address": "USNS Rivas, FPO AA 69168",
+        "phone": "001-395-574-1109x0558",
+        "email": "xstuart@example.org",
+        "account": {
+            "account_number": "476b8979-98a7-470a-8b19-28c60a59923e",
+            "balance": 29905.13,
+            "transactions": [
+                {
+                    "date": "2022-09-25",
+                    "description": "Interest",
+                    "amount": 16747.18,
+                    "transaction_id": 108295624
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Deposit",
+                    "amount": 6475.16,
+                    "transaction_id": 99135675
+                }
+            ]
+        }
+    }
+}

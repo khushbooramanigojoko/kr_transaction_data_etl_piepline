@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Teresa Sims",
+        "age": 47,
+        "gender": "male",
+        "address": "598 Moran Extension, North Elizabeth, MA 25219",
+        "phone": "403-205-1523",
+        "email": "ehickman@example.com",
+        "account": {
+            "account_number": "fa4be57f-8abd-437c-82d5-836b1adddc68",
+            "balance": -20485.51,
+            "transactions": [
+                {
+                    "date": "2024-01-24",
+                    "description": "Deposit",
+                    "amount": 3863.32,
+                    "transaction_id": 25815267
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Interest",
+                    "amount": 4438.45,
+                    "transaction_id": 117703263
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Withdrawal",
+                    "amount": 2928.23,
+                    "transaction_id": 96527316
+                }
+            ]
+        }
+    }
+}

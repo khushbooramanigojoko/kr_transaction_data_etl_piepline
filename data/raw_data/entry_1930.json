@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ricky Bryant",
+        "age": 69,
+        "gender": "male",
+        "address": "2738 Tiffany Rapid, Christopherfort, HI 06269",
+        "phone": "001-743-258-1988x8553",
+        "email": "nicoledean@example.com",
+        "account": {
+            "account_number": "3fb31b82-e58b-4c50-807c-0300970227a8",
+            "balance": 15700.38,
+            "transactions": [
+                {
+                    "date": "2024-04-17",
+                    "description": "Interest",
+                    "amount": 23666.64,
+                    "transaction_id": 79838656
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Interest",
+                    "amount": 2856.12,
+                    "transaction_id": 98657319
+                },
+                {
+                    "date": "2023-07-21",
+                    "description": "Deposit",
+                    "amount": 43815.16,
+                    "transaction_id": 62823075
+                },
+                {
+                    "date": "2023-04-04",
+                    "description": "Interest",
+                    "amount": 2182.79,
+                    "transaction_id": 40097824
+                },
+                {
+                    "date": "2023-08-21",
+                    "description": "Deposit",
+                    "amount": 21993.28,
+                    "transaction_id": 105319799
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joe Walker",
+        "age": 53,
+        "gender": "female",
+        "address": "72792 James Summit, Masonburgh, WA 24744",
+        "phone": "3186919187",
+        "email": "jonestimothy@example.org",
+        "account": {
+            "account_number": "9e5dea02-34a7-4c9b-a54a-7f5223b5a5e5",
+            "balance": -30648.85,
+            "transactions": [
+                {
+                    "date": "2023-07-22",
+                    "description": "Interest",
+                    "amount": 4599.32,
+                    "transaction_id": 67837197
+                },
+                {
+                    "date": "2023-07-30",
+                    "description": "Deposit",
+                    "amount": 2239.26,
+                    "transaction_id": 93840438
+                }
+            ]
+        }
+    }
+}

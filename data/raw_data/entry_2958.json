@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Eric Miller",
+        "age": 46,
+        "gender": "female",
+        "address": "96757 Gibson Knoll, North Mary, IL 64653",
+        "phone": "001-259-576-6206x30823",
+        "email": "smeyer@example.org",
+        "account": {
+            "account_number": "a7fa8e28-4b1f-4b6c-95ea-a30d13b55d69",
+            "balance": 24668.22,
+            "transactions": [
+                {
+                    "date": "2023-10-31",
+                    "description": "Withdrawal",
+                    "amount": 41179.76,
+                    "transaction_id": 83853008
+                },
+                {
+                    "date": "2023-12-06",
+                    "description": "Withdrawal",
+                    "amount": 4624.59,
+                    "transaction_id": 3953961
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Deposit",
+                    "amount": 42493.81,
+                    "transaction_id": 74426979
+                },
+                {
+                    "date": "2023-04-11",
+                    "description": "Interest",
+                    "amount": 34774.82,
+                    "transaction_id": 97280715
+                },
+                {
+                    "date": "2022-10-25",
+                    "description": "Interest",
+                    "amount": 16176.93,
+                    "transaction_id": 61237210
+                }
+            ]
+        }
+    }
+}

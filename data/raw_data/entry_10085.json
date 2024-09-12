@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 53,
+        "gender": "female",
+        "address": "747 Vargas Mills Suite 139, Thomasview, WI 56671",
+        "phone": "(348)507-3531x0940",
+        "email": "scott35@example.net",
+        "account": {
+            "account_number": "10ecf1a0-09f5-4071-a995-152643389af0",
+            "balance": 29332.98,
+            "transactions": [
+                {
+                    "date": "2024-04-29",
+                    "description": "Deposit",
+                    "amount": -3658.44,
+                    "transaction_id": 4677213
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Withdrawal",
+                    "amount": 693.99,
+                    "transaction_id": 94261027
+                }
+            ]
+        }
+    }
+}

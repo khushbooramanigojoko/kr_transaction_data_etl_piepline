@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Anita Freeman",
+        "age": 44,
+        "gender": "female",
+        "address": "6692 Fox Rapid Suite 456, South Sheena, PW 99058",
+        "phone": "4413721143",
+        "email": "thomashaynes@example.net",
+        "account": {
+            "account_number": "ee393780-0df0-4406-840b-2f7b77c5ecb4",
+            "balance": -27676.44,
+            "transactions": [
+                {
+                    "date": "2024-07-16",
+                    "description": "Deposit",
+                    "amount": -4498.51,
+                    "transaction_id": 105501061
+                },
+                {
+                    "date": "2022-09-04",
+                    "description": "Withdrawal",
+                    "amount": 2974.64,
+                    "transaction_id": 30576192
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brent Martin",
+        "age": 60,
+        "gender": "female",
+        "address": "6106 David Harbor Apt. 675, Brandonstad, SD 52127",
+        "phone": "+1-861-736-8134x644",
+        "email": "angelacampbell@example.com",
+        "account": {
+            "account_number": "d2db8e25-66e3-401c-9aa8-d3c71ac5050b",
+            "balance": 25736.69,
+            "transactions": [
+                {
+                    "date": "2022-11-22",
+                    "description": "Deposit",
+                    "amount": 41647.29,
+                    "transaction_id": 61007301
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Interest",
+                    "amount": 26844.35,
+                    "transaction_id": 60698037
+                }
+            ]
+        }
+    }
+}

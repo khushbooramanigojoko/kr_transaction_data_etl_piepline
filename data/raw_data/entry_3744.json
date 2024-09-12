@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Smith",
+        "age": 47,
+        "gender": "male",
+        "address": "Unit 2798 Box 6724, DPO AA 01104",
+        "phone": "001-752-873-1190x3144",
+        "email": "chasebrian@example.net",
+        "account": {
+            "account_number": "c2efee1d-5492-48e2-ba66-33296c0cdc8c",
+            "balance": 9284.05,
+            "transactions": [
+                {
+                    "date": "2023-12-30",
+                    "description": "Interest",
+                    "amount": 43790.36,
+                    "transaction_id": 33172230
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Interest",
+                    "amount": 5236.04,
+                    "transaction_id": 42735497
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Deposit",
+                    "amount": 23029.24,
+                    "transaction_id": 76164581
+                },
+                {
+                    "date": "2024-03-26",
+                    "description": "Interest",
+                    "amount": 38455.89,
+                    "transaction_id": 27909051
+                }
+            ]
+        }
+    }
+}

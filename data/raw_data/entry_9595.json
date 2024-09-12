@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Holly Smith",
+        "age": 58,
+        "gender": "male",
+        "address": "PSC 7988, Box 8099, APO AE 99353",
+        "phone": "266.830.5156x00022",
+        "email": "johnsonjessica@example.com",
+        "account": {
+            "account_number": "89b92276-dbdb-4462-a412-a83689bd0b36",
+            "balance": -8694.41,
+            "transactions": [
+                {
+                    "date": "2023-10-22",
+                    "description": "Interest",
+                    "amount": 1288.51,
+                    "transaction_id": 88627805
+                },
+                {
+                    "date": "2023-10-11",
+                    "description": "Deposit",
+                    "amount": -4162.69,
+                    "transaction_id": 64014346
+                }
+            ]
+        }
+    }
+}

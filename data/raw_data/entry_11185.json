@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 83,
+        "gender": "female",
+        "address": "34877 Moran Freeway, Mooreberg, WI 67183",
+        "phone": "431-698-2935x93992",
+        "email": "lauren91@example.org",
+        "account": {
+            "account_number": "af4b9232-24d2-4fea-b7f7-d35982394a99",
+            "balance": 36253.8,
+            "transactions": [
+                {
+                    "date": "2022-11-27",
+                    "description": "Withdrawal",
+                    "amount": -3865.57,
+                    "transaction_id": 102373745
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Withdrawal",
+                    "amount": -3179.96,
+                    "transaction_id": 68554591
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Interest",
+                    "amount": 647.86,
+                    "transaction_id": 38249524
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Interest",
+                    "amount": -749.9,
+                    "transaction_id": 59078958
+                },
+                {
+                    "date": "2023-11-23",
+                    "description": "Withdrawal",
+                    "amount": -431.02,
+                    "transaction_id": 47065195
+                }
+            ]
+        }
+    }
+}

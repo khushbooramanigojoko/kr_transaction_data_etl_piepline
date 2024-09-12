@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tiffany Howard",
+        "age": 84,
+        "gender": "male",
+        "address": "6177 Powell Plains Apt. 211, South Jermaineport, MT 52855",
+        "phone": "001-933-331-6223x254",
+        "email": "katie30@example.org",
+        "account": {
+            "account_number": "906d60d2-6149-4de4-843c-1ac5f161eee3",
+            "balance": 15246.47,
+            "transactions": [
+                {
+                    "date": "2023-07-04",
+                    "description": "Withdrawal",
+                    "amount": 28199.25,
+                    "transaction_id": 41193830
+                }
+            ]
+        }
+    }
+}

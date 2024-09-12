@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sheri Atkinson",
+        "age": 39,
+        "gender": "female",
+        "address": "3245 Hannah Groves, South Mario, LA 72880",
+        "phone": "+1-853-383-2945x737",
+        "email": "zstrickland@example.net",
+        "account": {
+            "account_number": "e442fed4-a9fa-4b0c-bd26-a01493e1776f",
+            "balance": 11423.23,
+            "transactions": [
+                {
+                    "date": "2023-07-27",
+                    "description": "Withdrawal",
+                    "amount": 38527.22,
+                    "transaction_id": 78042578
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dr. Karen Williams",
+        "age": 27,
+        "gender": "female",
+        "address": "2258 Samantha Branch Apt. 369, Randallborough, NC 81538",
+        "phone": "783-671-4058",
+        "email": "jackson14@example.org",
+        "account": {
+            "account_number": "29ac734d-4252-4960-90fd-faf0a84c9457",
+            "balance": 36007.69,
+            "transactions": [
+                {
+                    "date": "2023-10-04",
+                    "description": "Withdrawal",
+                    "amount": 5541.31,
+                    "transaction_id": 42791192
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Interest",
+                    "amount": 26309.04,
+                    "transaction_id": 68670205
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Deposit",
+                    "amount": 21552.48,
+                    "transaction_id": 54002923
+                },
+                {
+                    "date": "2022-12-08",
+                    "description": "Deposit",
+                    "amount": 14612.23,
+                    "transaction_id": 66401846
+                },
+                {
+                    "date": "2022-10-12",
+                    "description": "Withdrawal",
+                    "amount": 31466.74,
+                    "transaction_id": 114980933
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 75,
+        "gender": "male",
+        "address": "591 Mary Plains, West Jeffery, PR 16714",
+        "phone": "724.612.5991",
+        "email": "jeffreyking@example.com",
+        "account": {
+            "account_number": "d3fa61ce-74a2-4db4-a178-1b25b2f3b5bb",
+            "balance": 2998.54,
+            "transactions": [
+                {
+                    "date": "2024-01-16",
+                    "description": "Interest",
+                    "amount": 2471.36,
+                    "transaction_id": 67775102
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Interest",
+                    "amount": 3414.81,
+                    "transaction_id": 63208987
+                },
+                {
+                    "date": "2023-10-08",
+                    "description": "Deposit",
+                    "amount": -245.84,
+                    "transaction_id": 57134096
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Withdrawal",
+                    "amount": -3551.9,
+                    "transaction_id": 32993809
+                },
+                {
+                    "date": "2024-07-27",
+                    "description": "Withdrawal",
+                    "amount": 815.87,
+                    "transaction_id": 47373638
+                }
+            ]
+        }
+    }
+}

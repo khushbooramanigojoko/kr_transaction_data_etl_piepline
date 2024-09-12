@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Sullivan",
+        "age": 84,
+        "gender": "female",
+        "address": "USCGC Cox, FPO AA 98568",
+        "phone": "387-896-6949x65340",
+        "email": "eileenlawrence@example.org",
+        "account": {
+            "account_number": "a7598269-71e7-4370-809b-29797bbc9203",
+            "balance": 24886.69,
+            "transactions": [
+                {
+                    "date": "2023-09-28",
+                    "description": "Withdrawal",
+                    "amount": 39099.29,
+                    "transaction_id": 46879925
+                },
+                {
+                    "date": "2023-07-31",
+                    "description": "Deposit",
+                    "amount": 3906.38,
+                    "transaction_id": 61752625
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Interest",
+                    "amount": 44666.36,
+                    "transaction_id": 50711076
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Interest",
+                    "amount": 10357.63,
+                    "transaction_id": 26394847
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Deposit",
+                    "amount": 563.42,
+                    "transaction_id": 54503227
+                }
+            ]
+        }
+    }
+}

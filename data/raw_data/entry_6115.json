@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Noah Marks",
+        "age": 29,
+        "gender": "female",
+        "address": "845 Lopez Rue, Hallville, IL 13879",
+        "phone": "+1-936-443-8891x9339",
+        "email": "holsen@example.com",
+        "account": {
+            "account_number": "fb043b73-cb3f-4f7a-867d-24fefc76329e",
+            "balance": 48988.64,
+            "transactions": [
+                {
+                    "date": "2024-04-26",
+                    "description": "Withdrawal",
+                    "amount": 38017.05,
+                    "transaction_id": 20186652
+                }
+            ]
+        }
+    }
+}

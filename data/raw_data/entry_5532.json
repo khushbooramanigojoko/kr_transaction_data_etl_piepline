@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Robert Gonzales",
+        "age": 29,
+        "gender": "female",
+        "address": "4519 Higgins Avenue Suite 197, Richardshire, MO 53848",
+        "phone": "774-512-9202x024",
+        "email": "laurie23@example.org",
+        "account": {
+            "account_number": "c8f69d99-f215-4e4a-b3f2-29457a5bd691",
+            "balance": 17710.88,
+            "transactions": [
+                {
+                    "date": "2022-11-18",
+                    "description": "Interest",
+                    "amount": 29785.05,
+                    "transaction_id": 85125738
+                },
+                {
+                    "date": "2024-05-17",
+                    "description": "Interest",
+                    "amount": 47666.82,
+                    "transaction_id": 70145283
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Interest",
+                    "amount": 713.02,
+                    "transaction_id": 87273126
+                }
+            ]
+        }
+    }
+}

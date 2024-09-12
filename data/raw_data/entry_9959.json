@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 40,
+        "gender": "female",
+        "address": "Unit 0431 Box 0872, DPO AP 86888",
+        "phone": "(878)647-4544x7268",
+        "email": "williamharmon@example.net",
+        "account": {
+            "account_number": "543a956e-6028-422b-b7c6-1b13086253f0",
+            "balance": 46239.47,
+            "transactions": [
+                {
+                    "date": "2022-10-02",
+                    "description": "Withdrawal",
+                    "amount": 1137.83,
+                    "transaction_id": 119740703
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Deposit",
+                    "amount": -2161.31,
+                    "transaction_id": 95783158
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Deposit",
+                    "amount": 4872.37,
+                    "transaction_id": 27205989
+                }
+            ]
+        }
+    }
+}

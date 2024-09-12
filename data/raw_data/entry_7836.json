@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Katrina Watson",
+        "age": 99,
+        "gender": "male",
+        "address": "655 Julie Bypass, New Christinaview, PW 49706",
+        "phone": "001-828-342-3666x8054",
+        "email": "charles35@example.org",
+        "account": {
+            "account_number": "b1460ecb-68e0-45a7-9305-e1bf79d33ae2",
+            "balance": 6865.84,
+            "transactions": [
+                {
+                    "date": "2024-08-23",
+                    "description": "Deposit",
+                    "amount": 2831.84,
+                    "transaction_id": 12194225
+                }
+            ]
+        }
+    }
+}

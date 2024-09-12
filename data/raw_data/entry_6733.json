@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Charles Beasley",
+        "age": 88,
+        "gender": "female",
+        "address": "USS Wilson, FPO AE 08212",
+        "phone": "(266)895-8982x069",
+        "email": "andreatravis@example.net",
+        "account": {
+            "account_number": "36e6f19c-40ac-4f94-80e3-e8221159032c",
+            "balance": 41116.08,
+            "transactions": [
+                {
+                    "date": "2023-05-15",
+                    "description": "Withdrawal",
+                    "amount": 47355.49,
+                    "transaction_id": 118402369
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Withdrawal",
+                    "amount": 45510.68,
+                    "transaction_id": 107233468
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Deposit",
+                    "amount": 33038.13,
+                    "transaction_id": 99330786
+                },
+                {
+                    "date": "2024-07-21",
+                    "description": "Withdrawal",
+                    "amount": 7423.86,
+                    "transaction_id": 11539451
+                },
+                {
+                    "date": "2024-06-25",
+                    "description": "Deposit",
+                    "amount": 6443.58,
+                    "transaction_id": 74352432
+                }
+            ]
+        }
+    }
+}

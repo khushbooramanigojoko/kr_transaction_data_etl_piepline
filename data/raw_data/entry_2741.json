@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Anthony Castro",
+        "age": 60,
+        "gender": "male",
+        "address": "35382 Harris Trafficway Suite 957, Newmanport, GU 19173",
+        "phone": "412.455.1855x0396",
+        "email": "elizabeth45@example.org",
+        "account": {
+            "account_number": "453e6608-536b-47ee-a52a-4e9dd81c1d91",
+            "balance": 21083.34,
+            "transactions": [
+                {
+                    "date": "2024-05-10",
+                    "description": "Interest",
+                    "amount": 19892.42,
+                    "transaction_id": 47515121
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Interest",
+                    "amount": 18811.87,
+                    "transaction_id": 97608431
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Deposit",
+                    "amount": 34100.03,
+                    "transaction_id": 56033988
+                },
+                {
+                    "date": "2024-04-17",
+                    "description": "Withdrawal",
+                    "amount": 20900.06,
+                    "transaction_id": 15154678
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tony Pugh",
+        "age": 36,
+        "gender": "male",
+        "address": "2095 Rasmussen Square, New Barryfurt, GU 69782",
+        "phone": "541-823-2739x892",
+        "email": "gregorybentley@example.net",
+        "account": {
+            "account_number": "210f2d8e-2094-454a-816d-cd482750ab43",
+            "balance": 20745.0,
+            "transactions": [
+                {
+                    "date": "2023-04-08",
+                    "description": "Deposit",
+                    "amount": 19639.43,
+                    "transaction_id": 3116639
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Withdrawal",
+                    "amount": 8102.34,
+                    "transaction_id": 66489360
+                }
+            ]
+        }
+    }
+}

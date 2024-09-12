@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 68,
+        "gender": "female",
+        "address": "86178 David Parkways Apt. 273, Katelynview, MH 81554",
+        "phone": "001-649-978-5128",
+        "email": "christopherdillon@example.com",
+        "account": {
+            "account_number": "c802e66f-f411-408d-8bce-6395e12c4c1a",
+            "balance": 40038.49,
+            "transactions": [
+                {
+                    "date": "2024-03-15",
+                    "description": "Withdrawal",
+                    "amount": -2485.23,
+                    "transaction_id": 58378457
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Withdrawal",
+                    "amount": -2690.27,
+                    "transaction_id": 53692664
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Samantha Harrison",
+        "age": 71,
+        "gender": "male",
+        "address": "450 Madison Ports Suite 405, Annetown, FL 75317",
+        "phone": "5768630157",
+        "email": "zcole@example.net",
+        "account": {
+            "account_number": "7454782a-8102-4215-a898-2f6aaa91a3d9",
+            "balance": 2328.48,
+            "transactions": [
+                {
+                    "date": "2023-10-03",
+                    "description": "Interest",
+                    "amount": 26425.94,
+                    "transaction_id": 43115764
+                },
+                {
+                    "date": "2023-01-21",
+                    "description": "Withdrawal",
+                    "amount": 30811.35,
+                    "transaction_id": 29016921
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Withdrawal",
+                    "amount": 2522.55,
+                    "transaction_id": 65954108
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Interest",
+                    "amount": 38847.76,
+                    "transaction_id": 61138263
+                }
+            ]
+        }
+    }
+}

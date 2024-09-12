@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ashley Gaines",
+        "age": 31,
+        "gender": "female",
+        "address": "8268 Sanchez Squares Suite 919, Danielland, NC 67488",
+        "phone": "968.327.3296",
+        "email": "heathercruz@example.net",
+        "account": {
+            "account_number": "8523671a-eef2-4463-9044-a546892922ba",
+            "balance": 1230.45,
+            "transactions": [
+                {
+                    "date": "2023-06-09",
+                    "description": "Deposit",
+                    "amount": 6922.86,
+                    "transaction_id": 118649977
+                },
+                {
+                    "date": "2023-11-12",
+                    "description": "Interest",
+                    "amount": 44652.06,
+                    "transaction_id": 80815188
+                },
+                {
+                    "date": "2024-01-08",
+                    "description": "Withdrawal",
+                    "amount": 894.14,
+                    "transaction_id": 40887178
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Deposit",
+                    "amount": 49604.92,
+                    "transaction_id": 64633833
+                },
+                {
+                    "date": "2023-08-26",
+                    "description": "Withdrawal",
+                    "amount": 49195.84,
+                    "transaction_id": 92783415
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Shawn Hunter",
+        "age": 36,
+        "gender": "male",
+        "address": "28628 Matthew Path Suite 616, Justinview, FL 67203",
+        "phone": "363.686.1333x313",
+        "email": "sconley@example.org",
+        "account": {
+            "account_number": "e75b6b97-74c6-45fc-92a9-bbe88103f31d",
+            "balance": 6397.29,
+            "transactions": [
+                {
+                    "date": "2024-04-08",
+                    "description": "Interest",
+                    "amount": 18036.86,
+                    "transaction_id": 45632874
+                },
+                {
+                    "date": "2022-10-20",
+                    "description": "Interest",
+                    "amount": 35483.58,
+                    "transaction_id": 71579541
+                },
+                {
+                    "date": "2024-03-15",
+                    "description": "Interest",
+                    "amount": 25437.26,
+                    "transaction_id": 118996724
+                },
+                {
+                    "date": "2024-03-23",
+                    "description": "Deposit",
+                    "amount": 36364.99,
+                    "transaction_id": 21338337
+                },
+                {
+                    "date": "2023-05-15",
+                    "description": "Interest",
+                    "amount": 47058.76,
+                    "transaction_id": 86639726
+                }
+            ]
+        }
+    }
+}

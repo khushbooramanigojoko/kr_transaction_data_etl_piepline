@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michele Gross",
+        "age": 25,
+        "gender": "female",
+        "address": "76504 Melissa Haven Apt. 075, East Darylland, KS 56657",
+        "phone": "959.873.8855x703",
+        "email": "douglasblanchard@example.org",
+        "account": {
+            "account_number": "7b5eccfd-d1e2-4bb3-8858-63a884f43ed5",
+            "balance": 42131.87,
+            "transactions": [
+                {
+                    "date": "2023-02-01",
+                    "description": "Deposit",
+                    "amount": 15679.71,
+                    "transaction_id": 21662939
+                },
+                {
+                    "date": "2024-09-01",
+                    "description": "Interest",
+                    "amount": 15065.68,
+                    "transaction_id": 71415612
+                }
+            ]
+        }
+    }
+}

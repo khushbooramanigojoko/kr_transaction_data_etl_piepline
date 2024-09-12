@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sandra Sullivan",
+        "age": 81,
+        "gender": "male",
+        "address": "Unit 6483 Box 8698, DPO AE 30021",
+        "phone": "(683)363-0255",
+        "email": "taylorlong@example.org",
+        "account": {
+            "account_number": "bd0acb0d-5aae-48df-81cb-19b7cc7b3d2a",
+            "balance": 28538.81,
+            "transactions": [
+                {
+                    "date": "2022-12-05",
+                    "description": "Withdrawal",
+                    "amount": 27697.27,
+                    "transaction_id": 56311660
+                },
+                {
+                    "date": "2023-04-22",
+                    "description": "Interest",
+                    "amount": 35183.53,
+                    "transaction_id": 112991966
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Deposit",
+                    "amount": 31779.73,
+                    "transaction_id": 32573123
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Withdrawal",
+                    "amount": 16273.8,
+                    "transaction_id": 75462577
+                },
+                {
+                    "date": "2023-08-25",
+                    "description": "Withdrawal",
+                    "amount": 11217.48,
+                    "transaction_id": 19340365
+                }
+            ]
+        }
+    }
+}

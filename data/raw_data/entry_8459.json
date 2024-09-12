@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Maxwell",
+        "age": 87,
+        "gender": "male",
+        "address": "2045 Campos Camp Apt. 634, East Timothy, WI 61655",
+        "phone": "001-577-347-0554",
+        "email": "cherylfriedman@example.net",
+        "account": {
+            "account_number": "dba03a23-6265-462c-a31b-43f1fa2c328e",
+            "balance": 33032.77,
+            "transactions": [
+                {
+                    "date": "2023-05-14",
+                    "description": "Withdrawal",
+                    "amount": 30798.5,
+                    "transaction_id": 34904712
+                },
+                {
+                    "date": "2023-08-17",
+                    "description": "Withdrawal",
+                    "amount": 38750.64,
+                    "transaction_id": 74213266
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Withdrawal",
+                    "amount": 6040.0,
+                    "transaction_id": 47508186
+                },
+                {
+                    "date": "2023-06-23",
+                    "description": "Deposit",
+                    "amount": 7551.46,
+                    "transaction_id": 25872432
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Deposit",
+                    "amount": 38249.58,
+                    "transaction_id": 46417222
+                }
+            ]
+        }
+    }
+}

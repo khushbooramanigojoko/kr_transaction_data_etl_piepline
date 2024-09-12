@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Hampton",
+        "age": 68,
+        "gender": "male",
+        "address": "770 Rosario Landing Apt. 823, Stanleyside, MD 18150",
+        "phone": "001-723-255-7267x033",
+        "email": "joshuanguyen@example.org",
+        "account": {
+            "account_number": "cc483b73-71d7-4bb4-9420-ff147c8d3ea9",
+            "balance": -16887.84,
+            "transactions": [
+                {
+                    "date": "2022-10-17",
+                    "description": "Deposit",
+                    "amount": 1403.07,
+                    "transaction_id": 73181146
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Deposit",
+                    "amount": 4152.53,
+                    "transaction_id": 73080643
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Withdrawal",
+                    "amount": -1587.45,
+                    "transaction_id": 75467828
+                },
+                {
+                    "date": "2024-07-14",
+                    "description": "Withdrawal",
+                    "amount": -2636.73,
+                    "transaction_id": 105835662
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Interest",
+                    "amount": 755.73,
+                    "transaction_id": 111853321
+                }
+            ]
+        }
+    }
+}

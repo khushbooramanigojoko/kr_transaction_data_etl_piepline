@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Walter Andrews",
+        "age": 62,
+        "gender": "female",
+        "address": "94567 Smith Plaza Apt. 032, West Bryanberg, MD 94368",
+        "phone": "501-444-0208x80819",
+        "email": "kimberlystone@example.net",
+        "account": {
+            "account_number": "166d87da-093f-4206-8ad6-483c88ebcd81",
+            "balance": 37736.52,
+            "transactions": [
+                {
+                    "date": "2024-03-23",
+                    "description": "Interest",
+                    "amount": 33759.34,
+                    "transaction_id": 75010489
+                },
+                {
+                    "date": "2023-03-10",
+                    "description": "Interest",
+                    "amount": 31943.63,
+                    "transaction_id": 42788311
+                }
+            ]
+        }
+    }
+}

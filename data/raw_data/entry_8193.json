@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Thomas Young",
+        "age": 98,
+        "gender": "male",
+        "address": "05544 Kenneth Island Apt. 143, East Michael, TX 83710",
+        "phone": "410.642.8686",
+        "email": "hunter91@example.net",
+        "account": {
+            "account_number": "603cdc57-d3b2-4c14-9bac-047753d8d35c",
+            "balance": 38015.49,
+            "transactions": [
+                {
+                    "date": "2024-08-22",
+                    "description": "Interest",
+                    "amount": 21148.72,
+                    "transaction_id": 19119509
+                },
+                {
+                    "date": "2024-04-04",
+                    "description": "Withdrawal",
+                    "amount": 34268.98,
+                    "transaction_id": 43237882
+                },
+                {
+                    "date": "2024-01-02",
+                    "description": "Interest",
+                    "amount": 24389.96,
+                    "transaction_id": 37697184
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Interest",
+                    "amount": 43429.2,
+                    "transaction_id": 37516029
+                }
+            ]
+        }
+    }
+}

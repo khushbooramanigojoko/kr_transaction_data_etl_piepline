@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 60,
+        "gender": "male",
+        "address": "70985 Joseph Dale, North Angela, OR 17224",
+        "phone": "862-479-5604x7985",
+        "email": "staceysmith@example.org",
+        "account": {
+            "account_number": "a6c90c3a-33e6-40d5-a888-3e2c77532d84",
+            "balance": 4232.5,
+            "transactions": [
+                {
+                    "date": "2024-01-08",
+                    "description": "Deposit",
+                    "amount": 532.74,
+                    "transaction_id": 95275876
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jillian Barnes",
+        "age": 22,
+        "gender": "male",
+        "address": "52079 Benjamin Green, Contrerasville, HI 10453",
+        "phone": "+1-560-625-5704",
+        "email": "jeremycruz@example.com",
+        "account": {
+            "account_number": "98e009e1-0748-43dc-b908-608afc5d30d1",
+            "balance": 45763.52,
+            "transactions": [
+                {
+                    "date": "2024-06-26",
+                    "description": "Interest",
+                    "amount": 1344.23,
+                    "transaction_id": 27650797
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Withdrawal",
+                    "amount": 14613.39,
+                    "transaction_id": 70429206
+                },
+                {
+                    "date": "2024-08-17",
+                    "description": "Interest",
+                    "amount": 23393.53,
+                    "transaction_id": 43915874
+                }
+            ]
+        }
+    }
+}

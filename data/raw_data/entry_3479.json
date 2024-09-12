@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Marissa Cook",
+        "age": 56,
+        "gender": "female",
+        "address": "520 Tyrone Hill, East Elizabeth, IN 78681",
+        "phone": "(475)410-4090x39206",
+        "email": "castanedalinda@example.net",
+        "account": {
+            "account_number": "50c941af-d58a-4e6d-be60-529d00634280",
+            "balance": 14884.31,
+            "transactions": [
+                {
+                    "date": "2022-09-17",
+                    "description": "Withdrawal",
+                    "amount": 24553.82,
+                    "transaction_id": 99289363
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Interest",
+                    "amount": 1105.38,
+                    "transaction_id": 73089112
+                },
+                {
+                    "date": "2022-09-29",
+                    "description": "Interest",
+                    "amount": 1333.84,
+                    "transaction_id": 16899659
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Deposit",
+                    "amount": 31322.48,
+                    "transaction_id": 2279895
+                }
+            ]
+        }
+    }
+}

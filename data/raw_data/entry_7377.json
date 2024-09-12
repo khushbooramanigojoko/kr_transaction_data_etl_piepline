@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sandra Le",
+        "age": 47,
+        "gender": "male",
+        "address": "16742 Makayla Crossing Suite 968, Mcneilside, NC 41095",
+        "phone": "790.552.4275",
+        "email": "marcus31@example.com",
+        "account": {
+            "account_number": "473f9200-4eaf-4ade-9f3a-2700c6b226cc",
+            "balance": 14209.0,
+            "transactions": [
+                {
+                    "date": "2024-07-12",
+                    "description": "Withdrawal",
+                    "amount": 2301.61,
+                    "transaction_id": 15177122
+                },
+                {
+                    "date": "2022-12-21",
+                    "description": "Deposit",
+                    "amount": 42609.89,
+                    "transaction_id": 19813865
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Interest",
+                    "amount": 14188.1,
+                    "transaction_id": 113141815
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Interest",
+                    "amount": 26486.27,
+                    "transaction_id": 59263177
+                },
+                {
+                    "date": "2023-08-17",
+                    "description": "Interest",
+                    "amount": 12888.95,
+                    "transaction_id": 66795043
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joshua Clark",
+        "age": 46,
+        "gender": "male",
+        "address": "611 Ward Isle Suite 711, New Bryceville, GU 58897",
+        "phone": "(640)936-0790",
+        "email": "nashnicole@example.net",
+        "account": {
+            "account_number": "e5f8ddd7-5cc9-49fe-a668-897004c8af71",
+            "balance": 23858.27,
+            "transactions": [
+                {
+                    "date": "2023-01-02",
+                    "description": "Deposit",
+                    "amount": 27253.75,
+                    "transaction_id": 16863683
+                },
+                {
+                    "date": "2023-09-29",
+                    "description": "Interest",
+                    "amount": 3143.95,
+                    "transaction_id": 55113496
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Interest",
+                    "amount": 4997.96,
+                    "transaction_id": 11120300
+                }
+            ]
+        }
+    }
+}

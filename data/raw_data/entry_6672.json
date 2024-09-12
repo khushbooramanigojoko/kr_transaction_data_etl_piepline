@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Hayes",
+        "age": 55,
+        "gender": "male",
+        "address": "0687 Ryan Light, New John, PA 69386",
+        "phone": "(540)406-2684x628",
+        "email": "davelambert@example.com",
+        "account": {
+            "account_number": "b479363d-d811-424b-9af9-deb52ff86413",
+            "balance": 45033.3,
+            "transactions": [
+                {
+                    "date": "2023-05-15",
+                    "description": "Deposit",
+                    "amount": 39866.51,
+                    "transaction_id": 50305261
+                }
+            ]
+        }
+    }
+}

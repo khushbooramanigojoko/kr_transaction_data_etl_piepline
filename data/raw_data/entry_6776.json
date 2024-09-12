@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Melanie Carr",
+        "age": 98,
+        "gender": "male",
+        "address": "87498 Sanchez Square, Smithport, WA 50644",
+        "phone": "3328303215",
+        "email": "qphillips@example.com",
+        "account": {
+            "account_number": "6219466f-7c28-49d9-a437-c2c2719160e2",
+            "balance": 40773.03,
+            "transactions": [
+                {
+                    "date": "2023-10-04",
+                    "description": "Interest",
+                    "amount": 31542.73,
+                    "transaction_id": 88421040
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Withdrawal",
+                    "amount": 32043.73,
+                    "transaction_id": 48048796
+                }
+            ]
+        }
+    }
+}

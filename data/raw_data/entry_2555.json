@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Stephanie Howe",
+        "age": 53,
+        "gender": "female",
+        "address": "203 Kim Neck, Heiditon, NJ 00849",
+        "phone": "001-207-878-5537x5498",
+        "email": "vtyler@example.net",
+        "account": {
+            "account_number": "b4a43ddc-6434-41e1-b9cd-5796b857d86d",
+            "balance": 25221.11,
+            "transactions": [
+                {
+                    "date": "2024-04-09",
+                    "description": "Withdrawal",
+                    "amount": 14044.31,
+                    "transaction_id": 62333521
+                },
+                {
+                    "date": "2023-05-30",
+                    "description": "Deposit",
+                    "amount": 49629.46,
+                    "transaction_id": 108077725
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Withdrawal",
+                    "amount": 2580.31,
+                    "transaction_id": 77008017
+                },
+                {
+                    "date": "2022-10-03",
+                    "description": "Deposit",
+                    "amount": 23639.92,
+                    "transaction_id": 80712682
+                },
+                {
+                    "date": "2023-05-23",
+                    "description": "Withdrawal",
+                    "amount": 12159.86,
+                    "transaction_id": 119280648
+                }
+            ]
+        }
+    }
+}

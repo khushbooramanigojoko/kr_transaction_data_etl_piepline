@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tammy Reed",
+        "age": 57,
+        "gender": "female",
+        "address": "9698 Gary Run Suite 596, Johnsonmouth, NJ 98606",
+        "phone": "303-752-3918",
+        "email": "laura94@example.net",
+        "account": {
+            "account_number": "c2c32643-99f8-4f65-a6e4-273c147b6115",
+            "balance": 1116.43,
+            "transactions": [
+                {
+                    "date": "2023-01-29",
+                    "description": "Withdrawal",
+                    "amount": 40514.71,
+                    "transaction_id": 23254634
+                },
+                {
+                    "date": "2023-12-21",
+                    "description": "Interest",
+                    "amount": 15149.68,
+                    "transaction_id": 67366742
+                },
+                {
+                    "date": "2024-06-14",
+                    "description": "Deposit",
+                    "amount": 26212.46,
+                    "transaction_id": 90972299
+                },
+                {
+                    "date": "2023-11-03",
+                    "description": "Withdrawal",
+                    "amount": 40241.16,
+                    "transaction_id": 13638563
+                }
+            ]
+        }
+    }
+}

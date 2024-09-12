@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tonya Riggs",
+        "age": 48,
+        "gender": "female",
+        "address": "51673 Wright Circle Suite 488, South Mark, MD 71490",
+        "phone": "2045336993",
+        "email": "andrewlewis@example.org",
+        "account": {
+            "account_number": "d603722a-b7c4-4089-98f3-c46011c3c98d",
+            "balance": 11536.73,
+            "transactions": [
+                {
+                    "date": "2023-07-29",
+                    "description": "Deposit",
+                    "amount": 25153.09,
+                    "transaction_id": 118056045
+                }
+            ]
+        }
+    }
+}

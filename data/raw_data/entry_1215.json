@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ronald Kaiser Jr.",
+        "age": 58,
+        "gender": "female",
+        "address": "029 Marcia Center, Dawnville, MD 82973",
+        "phone": "346.612.2675x068",
+        "email": "garnold@example.net",
+        "account": {
+            "account_number": "d491e42a-b970-4e37-9bdf-104c3880ca78",
+            "balance": 42570.09,
+            "transactions": [
+                {
+                    "date": "2023-01-29",
+                    "description": "Withdrawal",
+                    "amount": 12192.28,
+                    "transaction_id": 7634038
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Interest",
+                    "amount": 11898.35,
+                    "transaction_id": 17264006
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Interest",
+                    "amount": 48261.75,
+                    "transaction_id": 25613465
+                },
+                {
+                    "date": "2024-07-25",
+                    "description": "Deposit",
+                    "amount": 36354.76,
+                    "transaction_id": 53273698
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Deposit",
+                    "amount": 37469.8,
+                    "transaction_id": 67125772
+                }
+            ]
+        }
+    }
+}

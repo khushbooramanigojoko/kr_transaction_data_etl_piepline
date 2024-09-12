@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Huerta",
+        "age": 61,
+        "gender": "male",
+        "address": "9421 Bethany Road Apt. 385, Rebeccaland, LA 95244",
+        "phone": "780-583-9462x3226",
+        "email": "carriebarry@example.com",
+        "account": {
+            "account_number": "1f774271-c360-4c16-ad2f-58312661d0b9",
+            "balance": 21654.8,
+            "transactions": [
+                {
+                    "date": "2023-05-07",
+                    "description": "Withdrawal",
+                    "amount": 1766.88,
+                    "transaction_id": 7879141
+                },
+                {
+                    "date": "2024-04-15",
+                    "description": "Interest",
+                    "amount": 14763.99,
+                    "transaction_id": 36701120
+                }
+            ]
+        }
+    }
+}

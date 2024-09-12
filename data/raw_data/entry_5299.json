@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "James Waller",
+        "age": 40,
+        "gender": "male",
+        "address": "979 Olsen Meadows, Samueltown, KY 65971",
+        "phone": "680-772-0765x006",
+        "email": "jaimestewart@example.net",
+        "account": {
+            "account_number": "a895530e-ea23-44d6-8f4b-5b4bf7302bf7",
+            "balance": 46884.89,
+            "transactions": [
+                {
+                    "date": "2022-12-21",
+                    "description": "Deposit",
+                    "amount": 30896.46,
+                    "transaction_id": 103279487
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Interest",
+                    "amount": 22405.06,
+                    "transaction_id": 5831903
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Withdrawal",
+                    "amount": 31200.89,
+                    "transaction_id": 78828954
+                }
+            ]
+        }
+    }
+}

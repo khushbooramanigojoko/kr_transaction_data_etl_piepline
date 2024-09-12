@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Seth Thomas",
+        "age": 36,
+        "gender": "male",
+        "address": "98495 Derek Circles Suite 299, New Patricia, PR 25136",
+        "phone": "+1-560-547-9242x09488",
+        "email": "chavezadrian@example.org",
+        "account": {
+            "account_number": "a5b8a930-7217-4d70-ac41-57dcd3a206c8",
+            "balance": 6788.63,
+            "transactions": [
+                {
+                    "date": "2024-03-27",
+                    "description": "Interest",
+                    "amount": 39170.52,
+                    "transaction_id": 45806518
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Deposit",
+                    "amount": 9271.64,
+                    "transaction_id": 119102142
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Deposit",
+                    "amount": 20323.88,
+                    "transaction_id": 44945600
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Interest",
+                    "amount": 46878.48,
+                    "transaction_id": 114316825
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Deposit",
+                    "amount": 27744.44,
+                    "transaction_id": 6996206
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Allison Gaines",
+        "age": 77,
+        "gender": "male",
+        "address": "889 Bennett Vista, Port Craigton, AZ 26125",
+        "phone": "530.451.0367x574",
+        "email": "brandonyoder@example.org",
+        "account": {
+            "account_number": "ac2842a5-9ad0-45b2-89e3-96b45312d4bf",
+            "balance": 26226.0,
+            "transactions": [
+                {
+                    "date": "2022-09-19",
+                    "description": "Interest",
+                    "amount": 44372.52,
+                    "transaction_id": 31382407
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Deposit",
+                    "amount": 12100.72,
+                    "transaction_id": 83473457
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Interest",
+                    "amount": 11900.52,
+                    "transaction_id": 111721132
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Timothy Robinson",
+        "age": 31,
+        "gender": "female",
+        "address": "0978 Richard Valleys Suite 814, Jessicamouth, LA 25576",
+        "phone": "001-736-583-7497x918",
+        "email": "marthamurray@example.net",
+        "account": {
+            "account_number": "32d44c08-a6ac-4307-909d-9da81131a2f0",
+            "balance": 4862.54,
+            "transactions": [
+                {
+                    "date": "2022-10-05",
+                    "description": "Interest",
+                    "amount": 13144.58,
+                    "transaction_id": 4696852
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Interest",
+                    "amount": 1370.59,
+                    "transaction_id": 42303851
+                }
+            ]
+        }
+    }
+}

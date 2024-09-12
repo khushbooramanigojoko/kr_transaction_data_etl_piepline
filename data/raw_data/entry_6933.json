@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lydia Williams",
+        "age": 96,
+        "gender": "female",
+        "address": "666 Myers Highway, New Catherine, AS 61577",
+        "phone": "758-902-8185",
+        "email": "susanking@example.org",
+        "account": {
+            "account_number": "7af7072f-0fde-4861-b1f5-3a0d028e9131",
+            "balance": 27809.29,
+            "transactions": [
+                {
+                    "date": "2024-06-18",
+                    "description": "Interest",
+                    "amount": 21765.9,
+                    "transaction_id": 40929654
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Withdrawal",
+                    "amount": 29980.69,
+                    "transaction_id": 94730390
+                }
+            ]
+        }
+    }
+}

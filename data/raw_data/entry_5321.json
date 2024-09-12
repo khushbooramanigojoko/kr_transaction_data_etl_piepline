@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "George Walls",
+        "age": 52,
+        "gender": "female",
+        "address": "394 Lester River, East Douglas, AK 33102",
+        "phone": "+1-879-768-9467x1450",
+        "email": "cervanteskelly@example.org",
+        "account": {
+            "account_number": "10c5b1b3-50a6-42ab-8807-4477ce56256a",
+            "balance": 47962.56,
+            "transactions": [
+                {
+                    "date": "2023-05-29",
+                    "description": "Deposit",
+                    "amount": 16437.26,
+                    "transaction_id": 69311297
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Interest",
+                    "amount": 32088.28,
+                    "transaction_id": 94419391
+                },
+                {
+                    "date": "2024-06-13",
+                    "description": "Withdrawal",
+                    "amount": 44944.14,
+                    "transaction_id": 101691287
+                },
+                {
+                    "date": "2023-04-10",
+                    "description": "Deposit",
+                    "amount": 47875.29,
+                    "transaction_id": 119364832
+                },
+                {
+                    "date": "2023-06-28",
+                    "description": "Deposit",
+                    "amount": 10722.67,
+                    "transaction_id": 109173478
+                }
+            ]
+        }
+    }
+}

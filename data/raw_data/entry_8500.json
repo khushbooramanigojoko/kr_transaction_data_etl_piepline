@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Regina Holland",
+        "age": 80,
+        "gender": "male",
+        "address": "30238 Ronald Glens Suite 191, West Michelleville, SD 13125",
+        "phone": "001-892-781-3237",
+        "email": "eric79@example.net",
+        "account": {
+            "account_number": "9a82b4d0-f676-48da-9bcc-08678d1d4549",
+            "balance": 41654.64,
+            "transactions": [
+                {
+                    "date": "2023-11-02",
+                    "description": "Deposit",
+                    "amount": 28206.05,
+                    "transaction_id": 32813895
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Withdrawal",
+                    "amount": 21503.26,
+                    "transaction_id": 88919372
+                },
+                {
+                    "date": "2023-08-17",
+                    "description": "Interest",
+                    "amount": 44330.05,
+                    "transaction_id": 58749322
+                },
+                {
+                    "date": "2024-04-17",
+                    "description": "Withdrawal",
+                    "amount": 5951.32,
+                    "transaction_id": 83127242
+                }
+            ]
+        }
+    }
+}

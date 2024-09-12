@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kelli Atkins",
+        "age": 57,
+        "gender": "female",
+        "address": "USS Smith, FPO AA 62032",
+        "phone": "583-477-4804x55646",
+        "email": "xmartinez@example.org",
+        "account": {
+            "account_number": "4679cdd3-7fdd-476b-9fbe-f4d872a2622c",
+            "balance": 10771.57,
+            "transactions": [
+                {
+                    "date": "2024-09-01",
+                    "description": "Interest",
+                    "amount": 32042.54,
+                    "transaction_id": 40493283
+                }
+            ]
+        }
+    }
+}

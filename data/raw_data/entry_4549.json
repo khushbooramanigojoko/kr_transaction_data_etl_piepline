@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ruth Anderson",
+        "age": 74,
+        "gender": "female",
+        "address": "083 Nicholas Inlet Apt. 434, New Shannon, WI 70469",
+        "phone": "243.604.6447x7446",
+        "email": "robertfitzgerald@example.com",
+        "account": {
+            "account_number": "87a6f00a-ead4-4b52-8479-cdc77ac0dfe3",
+            "balance": 13478.12,
+            "transactions": [
+                {
+                    "date": "2024-03-14",
+                    "description": "Interest",
+                    "amount": 24743.49,
+                    "transaction_id": 110753448
+                },
+                {
+                    "date": "2022-10-25",
+                    "description": "Interest",
+                    "amount": 38070.51,
+                    "transaction_id": 81627508
+                }
+            ]
+        }
+    }
+}

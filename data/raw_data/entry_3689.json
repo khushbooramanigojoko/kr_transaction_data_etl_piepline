@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Carolyn Williams",
+        "age": 25,
+        "gender": "male",
+        "address": "0855 Nelson Park, Riddleville, LA 51259",
+        "phone": "(850)514-9366x3234",
+        "email": "zsampson@example.net",
+        "account": {
+            "account_number": "c7785d98-1b1a-4e82-af40-684c180446fd",
+            "balance": 19796.63,
+            "transactions": [
+                {
+                    "date": "2023-04-03",
+                    "description": "Deposit",
+                    "amount": 12457.9,
+                    "transaction_id": 18509355
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Interest",
+                    "amount": 25622.83,
+                    "transaction_id": 83388610
+                }
+            ]
+        }
+    }
+}

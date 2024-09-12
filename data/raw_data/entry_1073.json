@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Katherine Sanchez",
+        "age": 55,
+        "gender": "male",
+        "address": "6531 Todd Fields Apt. 566, New Mathewhaven, NC 39987",
+        "phone": "(234)375-1616x206",
+        "email": "yray@example.org",
+        "account": {
+            "account_number": "0e841a07-c304-4f0c-98da-9f3f03cfc822",
+            "balance": 11965.82,
+            "transactions": [
+                {
+                    "date": "2023-04-15",
+                    "description": "Withdrawal",
+                    "amount": 28154.24,
+                    "transaction_id": 13207126
+                }
+            ]
+        }
+    }
+}

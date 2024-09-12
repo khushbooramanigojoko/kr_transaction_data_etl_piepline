@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Wheeler",
+        "age": 44,
+        "gender": "female",
+        "address": "14109 Taylor Radial, Claudiaton, IN 50855",
+        "phone": "(393)504-2113x70733",
+        "email": "robin85@example.org",
+        "account": {
+            "account_number": "03d7aef3-6f4c-4636-8f96-f92d4054e465",
+            "balance": 43092.11,
+            "transactions": [
+                {
+                    "date": "2023-03-07",
+                    "description": "Deposit",
+                    "amount": 44068.88,
+                    "transaction_id": 16778050
+                },
+                {
+                    "date": "2024-01-08",
+                    "description": "Interest",
+                    "amount": 19304.08,
+                    "transaction_id": 32567199
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Interest",
+                    "amount": 10094.93,
+                    "transaction_id": 12125193
+                },
+                {
+                    "date": "2023-05-27",
+                    "description": "Deposit",
+                    "amount": 25084.49,
+                    "transaction_id": 114929373
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Deposit",
+                    "amount": 28732.44,
+                    "transaction_id": 5603097
+                }
+            ]
+        }
+    }
+}

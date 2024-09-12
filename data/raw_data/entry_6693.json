@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Logan Becker",
+        "age": 45,
+        "gender": "male",
+        "address": "1950 Anthony Field Apt. 088, Port Shannon, AR 22513",
+        "phone": "(645)877-1785x438",
+        "email": "elizabethsolomon@example.org",
+        "account": {
+            "account_number": "3735d4dd-4713-4e01-ae36-924a67daf6f4",
+            "balance": 23338.99,
+            "transactions": [
+                {
+                    "date": "2023-12-28",
+                    "description": "Deposit",
+                    "amount": 13839.58,
+                    "transaction_id": 71105579
+                }
+            ]
+        }
+    }
+}

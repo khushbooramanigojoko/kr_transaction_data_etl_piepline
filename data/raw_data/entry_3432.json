@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Theresa Collins",
+        "age": 48,
+        "gender": "female",
+        "address": "74209 Brittany Neck, Lake Maryhaven, ME 50579",
+        "phone": "8866980521",
+        "email": "jordanstephen@example.org",
+        "account": {
+            "account_number": "71e830ff-98fc-4c0c-b32f-d7b03a26509e",
+            "balance": 45149.67,
+            "transactions": [
+                {
+                    "date": "2023-04-12",
+                    "description": "Interest",
+                    "amount": 27418.12,
+                    "transaction_id": 97190808
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Deposit",
+                    "amount": 17675.82,
+                    "transaction_id": 8653619
+                }
+            ]
+        }
+    }
+}

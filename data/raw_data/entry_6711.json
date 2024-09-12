@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Katrina Whitehead",
+        "age": 51,
+        "gender": "male",
+        "address": "262 Michelle Parks Apt. 454, Archerbury, LA 35701",
+        "phone": "(355)615-0615x9821",
+        "email": "gillchristopher@example.com",
+        "account": {
+            "account_number": "6deb35af-eff8-4302-8bc2-49f446f54c6a",
+            "balance": 40322.7,
+            "transactions": [
+                {
+                    "date": "2023-08-05",
+                    "description": "Withdrawal",
+                    "amount": 49762.02,
+                    "transaction_id": 119000607
+                },
+                {
+                    "date": "2024-05-29",
+                    "description": "Withdrawal",
+                    "amount": 23683.85,
+                    "transaction_id": 109798237
+                },
+                {
+                    "date": "2023-01-26",
+                    "description": "Withdrawal",
+                    "amount": 12358.1,
+                    "transaction_id": 102765986
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Withdrawal",
+                    "amount": 3806.05,
+                    "transaction_id": 39148511
+                },
+                {
+                    "date": "2023-06-04",
+                    "description": "Deposit",
+                    "amount": 30691.91,
+                    "transaction_id": 96125235
+                }
+            ]
+        }
+    }
+}

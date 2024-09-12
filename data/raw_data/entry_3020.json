@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mia Cummings",
+        "age": 25,
+        "gender": "male",
+        "address": "2410 Lindsey Port Apt. 744, North Richard, AL 36456",
+        "phone": "001-685-267-9894x1342",
+        "email": "ccampbell@example.net",
+        "account": {
+            "account_number": "b4fa0675-dd43-4b0f-b6e8-ee9c8dda5a65",
+            "balance": 14403.37,
+            "transactions": [
+                {
+                    "date": "2023-06-08",
+                    "description": "Interest",
+                    "amount": 30800.37,
+                    "transaction_id": 60742000
+                },
+                {
+                    "date": "2023-06-07",
+                    "description": "Deposit",
+                    "amount": 4872.59,
+                    "transaction_id": 53173609
+                }
+            ]
+        }
+    }
+}

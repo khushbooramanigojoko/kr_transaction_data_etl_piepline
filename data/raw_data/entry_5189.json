@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stephanie Hobbs",
+        "age": 95,
+        "gender": "male",
+        "address": "11697 Cory Plains Suite 581, Claytonfurt, MI 09069",
+        "phone": "001-266-552-7114x4880",
+        "email": "isalazar@example.com",
+        "account": {
+            "account_number": "d213c890-d790-4199-a1e2-20fac7da1c5f",
+            "balance": 6544.02,
+            "transactions": [
+                {
+                    "date": "2023-04-16",
+                    "description": "Withdrawal",
+                    "amount": 7517.05,
+                    "transaction_id": 17022650
+                }
+            ]
+        }
+    }
+}

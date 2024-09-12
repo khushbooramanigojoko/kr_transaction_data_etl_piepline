@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tracey Miller",
+        "age": 86,
+        "gender": "male",
+        "address": "777 Fox Plaza Suite 765, New Jonathan, NV 21744",
+        "phone": "(953)487-1435",
+        "email": "mitchellcheryl@example.org",
+        "account": {
+            "account_number": "bebc6f0a-d101-40d0-ad2b-4f179e0b4479",
+            "balance": 40266.58,
+            "transactions": [
+                {
+                    "date": "2024-07-27",
+                    "description": "Withdrawal",
+                    "amount": 35548.98,
+                    "transaction_id": 28719815
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Withdrawal",
+                    "amount": 18146.15,
+                    "transaction_id": 109085712
+                },
+                {
+                    "date": "2024-03-19",
+                    "description": "Interest",
+                    "amount": 25874.06,
+                    "transaction_id": 101896928
+                }
+            ]
+        }
+    }
+}

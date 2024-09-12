@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Peter Martinez",
+        "age": 33,
+        "gender": "female",
+        "address": "42834 Alan Oval Apt. 745, Robertsview, NM 82643",
+        "phone": "871-328-1328",
+        "email": "cgarcia@example.com",
+        "account": {
+            "account_number": "cf433441-694b-42e4-955d-20ea30fa2562",
+            "balance": 40535.35,
+            "transactions": [
+                {
+                    "date": "2023-03-23",
+                    "description": "Withdrawal",
+                    "amount": 30928.48,
+                    "transaction_id": 70956771
+                }
+            ]
+        }
+    }
+}

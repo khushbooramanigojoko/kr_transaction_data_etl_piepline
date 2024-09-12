@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alisha Bolton",
+        "age": 95,
+        "gender": "female",
+        "address": "207 Wolfe Parks Suite 096, Middletonstad, CO 68254",
+        "phone": "001-742-730-7196x856",
+        "email": "tyler69@example.net",
+        "account": {
+            "account_number": "00aeffec-74bd-49bb-95ef-0ad41f81e175",
+            "balance": 3646.51,
+            "transactions": [
+                {
+                    "date": "2024-03-21",
+                    "description": "Withdrawal",
+                    "amount": 12886.12,
+                    "transaction_id": 96413886
+                }
+            ]
+        }
+    }
+}

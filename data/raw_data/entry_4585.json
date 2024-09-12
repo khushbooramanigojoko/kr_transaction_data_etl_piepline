@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sabrina Perez",
+        "age": 66,
+        "gender": "male",
+        "address": "8153 Ramirez Light Suite 431, Moorefort, MD 07609",
+        "phone": "001-788-408-6459x0811",
+        "email": "tracy72@example.com",
+        "account": {
+            "account_number": "43c15458-a665-4aa0-8d6f-641993483238",
+            "balance": 37822.8,
+            "transactions": [
+                {
+                    "date": "2024-02-11",
+                    "description": "Deposit",
+                    "amount": 28722.43,
+                    "transaction_id": 82157665
+                },
+                {
+                    "date": "2023-03-20",
+                    "description": "Deposit",
+                    "amount": 18981.48,
+                    "transaction_id": 5888574
+                },
+                {
+                    "date": "2023-06-07",
+                    "description": "Interest",
+                    "amount": 40459.27,
+                    "transaction_id": 96913050
+                }
+            ]
+        }
+    }
+}

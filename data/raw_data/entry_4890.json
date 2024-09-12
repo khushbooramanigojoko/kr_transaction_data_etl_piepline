@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Laura Smith",
+        "age": 57,
+        "gender": "female",
+        "address": "575 Larson Mountains, North Jeremy, CO 41011",
+        "phone": "+1-541-510-3972x826",
+        "email": "tylereric@example.org",
+        "account": {
+            "account_number": "9cb60f14-ad7f-425e-8fa7-656674c5101b",
+            "balance": 38390.64,
+            "transactions": [
+                {
+                    "date": "2022-10-01",
+                    "description": "Withdrawal",
+                    "amount": 15786.64,
+                    "transaction_id": 64325560
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Withdrawal",
+                    "amount": 14902.53,
+                    "transaction_id": 79024461
+                },
+                {
+                    "date": "2024-05-19",
+                    "description": "Deposit",
+                    "amount": 49454.4,
+                    "transaction_id": 63819766
+                },
+                {
+                    "date": "2023-02-25",
+                    "description": "Interest",
+                    "amount": 3778.9,
+                    "transaction_id": 69533197
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Deposit",
+                    "amount": 27808.75,
+                    "transaction_id": 55391580
+                }
+            ]
+        }
+    }
+}

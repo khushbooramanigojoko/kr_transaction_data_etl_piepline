@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sarah Jones",
+        "age": 34,
+        "gender": "female",
+        "address": "727 Moore Ports, Tashaville, IL 26992",
+        "phone": "565.835.0811x74144",
+        "email": "hernandezsydney@example.com",
+        "account": {
+            "account_number": "0a4ea6d0-1195-48a5-8549-5ef414315dd7",
+            "balance": 45052.87,
+            "transactions": [
+                {
+                    "date": "2024-02-09",
+                    "description": "Withdrawal",
+                    "amount": 18733.49,
+                    "transaction_id": 28970316
+                },
+                {
+                    "date": "2023-10-25",
+                    "description": "Interest",
+                    "amount": 33415.4,
+                    "transaction_id": 92090695
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Deposit",
+                    "amount": 47297.38,
+                    "transaction_id": 67610095
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Withdrawal",
+                    "amount": 21387.28,
+                    "transaction_id": 59735658
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Deposit",
+                    "amount": 1240.04,
+                    "transaction_id": 11036943
+                }
+            ]
+        }
+    }
+}

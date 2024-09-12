@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Anita Serrano",
+        "age": 89,
+        "gender": "male",
+        "address": "01330 Jennifer Walks, Coleberg, MD 69901",
+        "phone": "(395)292-2208x90136",
+        "email": "shawnreeves@example.com",
+        "account": {
+            "account_number": "00ac9225-80f7-4da1-a810-2501562527f7",
+            "balance": 8991.09,
+            "transactions": [
+                {
+                    "date": "2024-02-09",
+                    "description": "Withdrawal",
+                    "amount": 24318.91,
+                    "transaction_id": 95966802
+                },
+                {
+                    "date": "2022-11-19",
+                    "description": "Deposit",
+                    "amount": 45771.43,
+                    "transaction_id": 11011492
+                }
+            ]
+        }
+    }
+}

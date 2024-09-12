@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Gregory Schultz",
+        "age": 65,
+        "gender": "male",
+        "address": "9643 Fowler Glen Apt. 588, South Jessicaside, VT 93570",
+        "phone": "441-244-3081",
+        "email": "richardsbrian@example.net",
+        "account": {
+            "account_number": "3d884a73-0b86-4f21-9ada-7f360a1b5860",
+            "balance": 9701.76,
+            "transactions": [
+                {
+                    "date": "2023-09-26",
+                    "description": "Withdrawal",
+                    "amount": 10973.33,
+                    "transaction_id": 6710154
+                }
+            ]
+        }
+    }
+}

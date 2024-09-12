@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Wendy Christian",
+        "age": 22,
+        "gender": "male",
+        "address": "057 Ray Extensions, Valenciahaven, OR 71360",
+        "phone": "(398)409-2086",
+        "email": "dbrooks@example.org",
+        "account": {
+            "account_number": "33f74c01-53cf-472e-a546-89a86e2ff1e1",
+            "balance": 35058.65,
+            "transactions": [
+                {
+                    "date": "2024-08-12",
+                    "description": "Withdrawal",
+                    "amount": 20971.06,
+                    "transaction_id": 59360992
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Withdrawal",
+                    "amount": 13435.45,
+                    "transaction_id": 46778033
+                }
+            ]
+        }
+    }
+}

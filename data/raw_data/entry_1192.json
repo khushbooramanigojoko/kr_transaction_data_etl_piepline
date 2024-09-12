@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Darryl Walker",
+        "age": 72,
+        "gender": "male",
+        "address": "7873 April Lock, New Elizabeth, MI 96565",
+        "phone": "618.723.3384x269",
+        "email": "james34@example.org",
+        "account": {
+            "account_number": "c06cc968-ab37-4d30-a566-eb124f037d93",
+            "balance": 8975.35,
+            "transactions": [
+                {
+                    "date": "2023-06-24",
+                    "description": "Interest",
+                    "amount": 2674.41,
+                    "transaction_id": 71449169
+                },
+                {
+                    "date": "2023-06-08",
+                    "description": "Deposit",
+                    "amount": 1210.07,
+                    "transaction_id": 87870266
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Deposit",
+                    "amount": 47158.7,
+                    "transaction_id": 38265912
+                },
+                {
+                    "date": "2024-07-13",
+                    "description": "Deposit",
+                    "amount": 10156.58,
+                    "transaction_id": 101015956
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Withdrawal",
+                    "amount": 21843.95,
+                    "transaction_id": 57069717
+                }
+            ]
+        }
+    }
+}

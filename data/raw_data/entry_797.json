@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Angela Stone",
+        "age": 47,
+        "gender": "female",
+        "address": "0033 Martin Radial, Amandafurt, MI 53165",
+        "phone": "545.988.8216",
+        "email": "roger99@example.net",
+        "account": {
+            "account_number": "0eee1944-581f-4abc-bdb3-af4cf6df19ad",
+            "balance": 4635.81,
+            "transactions": [
+                {
+                    "date": "2023-06-16",
+                    "description": "Deposit",
+                    "amount": 32818.88,
+                    "transaction_id": 114652768
+                },
+                {
+                    "date": "2024-06-08",
+                    "description": "Deposit",
+                    "amount": 35200.39,
+                    "transaction_id": 65681359
+                }
+            ]
+        }
+    }
+}

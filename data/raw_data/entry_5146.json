@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Megan Taylor",
+        "age": 19,
+        "gender": "female",
+        "address": "2631 Ellis Trace Suite 329, Lake Kelly, GU 32829",
+        "phone": "+1-263-944-2225x5210",
+        "email": "adrianburns@example.org",
+        "account": {
+            "account_number": "1f1483f7-ac26-4cd0-89b9-224fc973a6b7",
+            "balance": 4726.5,
+            "transactions": [
+                {
+                    "date": "2022-12-05",
+                    "description": "Interest",
+                    "amount": 34078.13,
+                    "transaction_id": 50515268
+                },
+                {
+                    "date": "2022-09-02",
+                    "description": "Interest",
+                    "amount": 47695.92,
+                    "transaction_id": 104906189
+                },
+                {
+                    "date": "2024-02-28",
+                    "description": "Interest",
+                    "amount": 117.61,
+                    "transaction_id": 2068080
+                },
+                {
+                    "date": "2023-04-17",
+                    "description": "Withdrawal",
+                    "amount": 22018.52,
+                    "transaction_id": 18757850
+                },
+                {
+                    "date": "2024-06-11",
+                    "description": "Interest",
+                    "amount": 13089.58,
+                    "transaction_id": 62773291
+                }
+            ]
+        }
+    }
+}

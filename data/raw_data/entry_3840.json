@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tim Hernandez",
+        "age": 97,
+        "gender": "female",
+        "address": "Unit 7962 Box 8911, DPO AE 80754",
+        "phone": "908.673.7500x5236",
+        "email": "jamesashley@example.org",
+        "account": {
+            "account_number": "4c8e5149-bea1-4aeb-bdc8-7de7be467139",
+            "balance": 37978.36,
+            "transactions": [
+                {
+                    "date": "2023-04-25",
+                    "description": "Interest",
+                    "amount": 1481.85,
+                    "transaction_id": 78216166
+                },
+                {
+                    "date": "2023-08-12",
+                    "description": "Deposit",
+                    "amount": 45956.05,
+                    "transaction_id": 113069492
+                }
+            ]
+        }
+    }
+}

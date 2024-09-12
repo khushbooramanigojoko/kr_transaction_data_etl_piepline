@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nathan Jackson",
+        "age": 88,
+        "gender": "female",
+        "address": "537 Jason Ways Suite 951, East Pamelafort, AK 59180",
+        "phone": "+1-565-376-2041x133",
+        "email": "tiffanymeyer@example.net",
+        "account": {
+            "account_number": "a9dca458-5fcd-4646-b0b6-2b09a301f548",
+            "balance": 25131.58,
+            "transactions": [
+                {
+                    "date": "2024-03-12",
+                    "description": "Deposit",
+                    "amount": 31108.58,
+                    "transaction_id": 29607671
+                },
+                {
+                    "date": "2023-12-11",
+                    "description": "Withdrawal",
+                    "amount": 20919.2,
+                    "transaction_id": 28511788
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Interest",
+                    "amount": 14840.6,
+                    "transaction_id": 36622837
+                },
+                {
+                    "date": "2023-04-28",
+                    "description": "Deposit",
+                    "amount": 2392.71,
+                    "transaction_id": 7674736
+                },
+                {
+                    "date": "2023-08-22",
+                    "description": "Deposit",
+                    "amount": 862.68,
+                    "transaction_id": 105598287
+                }
+            ]
+        }
+    }
+}

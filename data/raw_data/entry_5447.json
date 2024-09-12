@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mary Cox",
+        "age": 99,
+        "gender": "male",
+        "address": "951 Amanda Common Apt. 861, Lake Lindsayborough, MH 37670",
+        "phone": "830-596-4131",
+        "email": "james67@example.com",
+        "account": {
+            "account_number": "89e47b5b-8d28-40c7-9369-66feb98d8cf2",
+            "balance": 22922.33,
+            "transactions": [
+                {
+                    "date": "2023-08-02",
+                    "description": "Interest",
+                    "amount": 12364.64,
+                    "transaction_id": 77811164
+                },
+                {
+                    "date": "2024-01-19",
+                    "description": "Deposit",
+                    "amount": 17652.62,
+                    "transaction_id": 100274812
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Heather Miller",
+        "age": 21,
+        "gender": "male",
+        "address": "460 Jessica Stravenue Suite 247, South Joseph, ME 61523",
+        "phone": "001-747-991-6544",
+        "email": "pamela57@example.net",
+        "account": {
+            "account_number": "4fbe9abe-7634-49c2-b137-ae65597b83b6",
+            "balance": 46997.2,
+            "transactions": [
+                {
+                    "date": "2022-10-29",
+                    "description": "Withdrawal",
+                    "amount": 15565.11,
+                    "transaction_id": 14872943
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Deposit",
+                    "amount": 49069.05,
+                    "transaction_id": 9291987
+                }
+            ]
+        }
+    }
+}

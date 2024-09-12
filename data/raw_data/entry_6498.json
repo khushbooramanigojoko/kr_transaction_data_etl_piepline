@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Scott Payne",
+        "age": 26,
+        "gender": "male",
+        "address": "80514 Adams Views Apt. 664, South Carrieside, MN 93162",
+        "phone": "001-238-935-7001",
+        "email": "juliemcdaniel@example.com",
+        "account": {
+            "account_number": "5a029bba-c6de-4cc3-b483-f562072d583f",
+            "balance": 11581.9,
+            "transactions": [
+                {
+                    "date": "2023-04-02",
+                    "description": "Withdrawal",
+                    "amount": 47366.64,
+                    "transaction_id": 63124791
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Deposit",
+                    "amount": 37645.32,
+                    "transaction_id": 37206092
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Withdrawal",
+                    "amount": 18639.71,
+                    "transaction_id": 75133438
+                },
+                {
+                    "date": "2022-11-17",
+                    "description": "Interest",
+                    "amount": 1775.38,
+                    "transaction_id": 59493843
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Deposit",
+                    "amount": 47353.98,
+                    "transaction_id": 81428528
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Eileen Johnson",
+        "age": 52,
+        "gender": "male",
+        "address": "8541 Choi Bypass Apt. 531, Longland, MH 32931",
+        "phone": "211.923.9710x052",
+        "email": "diana40@example.com",
+        "account": {
+            "account_number": "02617c0e-4535-4da2-a2a0-d4f59ec365a7",
+            "balance": 49930.28,
+            "transactions": [
+                {
+                    "date": "2023-07-23",
+                    "description": "Withdrawal",
+                    "amount": 4951.47,
+                    "transaction_id": 43650148
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Interest",
+                    "amount": 20025.08,
+                    "transaction_id": 53131747
+                },
+                {
+                    "date": "2024-03-11",
+                    "description": "Interest",
+                    "amount": 12812.77,
+                    "transaction_id": 67388261
+                },
+                {
+                    "date": "2024-03-07",
+                    "description": "Interest",
+                    "amount": 32714.3,
+                    "transaction_id": 8302485
+                }
+            ]
+        }
+    }
+}

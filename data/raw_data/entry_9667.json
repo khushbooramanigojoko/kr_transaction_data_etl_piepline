@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 81,
+        "gender": "male",
+        "address": "24000 Daniel Squares Suite 482, Michaeltown, ID 03693",
+        "phone": "890.365.5738",
+        "email": "henrycindy@example.com",
+        "account": {
+            "account_number": "f4b4f1c3-bed6-44ea-b6a5-a3c657478f20",
+            "balance": 43491.64,
+            "transactions": [
+                {
+                    "date": "2024-01-16",
+                    "description": "Withdrawal",
+                    "amount": 4392.55,
+                    "transaction_id": 2013957
+                },
+                {
+                    "date": "2022-11-11",
+                    "description": "Deposit",
+                    "amount": 3863.79,
+                    "transaction_id": 101342443
+                },
+                {
+                    "date": "2023-10-22",
+                    "description": "Deposit",
+                    "amount": -4243.99,
+                    "transaction_id": 111886480
+                }
+            ]
+        }
+    }
+}

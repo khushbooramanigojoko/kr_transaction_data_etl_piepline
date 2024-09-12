@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Reginald Chang",
+        "age": 70,
+        "gender": "female",
+        "address": "5385 Melvin Viaduct, Joelside, TX 95245",
+        "phone": "001-397-536-0954x1713",
+        "email": "patriciaporter@example.com",
+        "account": {
+            "account_number": "772e0386-59c8-4b6f-b4c4-0a0ef5f87472",
+            "balance": -1087.93,
+            "transactions": [
+                {
+                    "date": "2024-06-09",
+                    "description": "Deposit",
+                    "amount": -3637.08,
+                    "transaction_id": 54733687
+                },
+                {
+                    "date": "2023-11-12",
+                    "description": "Deposit",
+                    "amount": 2087.35,
+                    "transaction_id": 81914838
+                }
+            ]
+        }
+    }
+}

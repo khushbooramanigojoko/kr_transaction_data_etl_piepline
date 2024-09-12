@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Alexis Pearson",
+        "age": 88,
+        "gender": "female",
+        "address": "29504 Becker Mountain Suite 239, Santosview, NV 15180",
+        "phone": "+1-972-279-6315x64011",
+        "email": "nicolecarney@example.org",
+        "account": {
+            "account_number": "fd84bb7c-5714-4b11-be4d-f1f84a63e41e",
+            "balance": -2251.43,
+            "transactions": [
+                {
+                    "date": "2023-01-17",
+                    "description": "Interest",
+                    "amount": 171.71,
+                    "transaction_id": 22320325
+                },
+                {
+                    "date": "2023-07-22",
+                    "description": "Interest",
+                    "amount": -1.55,
+                    "transaction_id": 77016057
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Deposit",
+                    "amount": -171.43,
+                    "transaction_id": 28227701
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Interest",
+                    "amount": -791.44,
+                    "transaction_id": 35259990
+                },
+                {
+                    "date": "2023-05-31",
+                    "description": "Withdrawal",
+                    "amount": 3344.63,
+                    "transaction_id": 36577626
+                }
+            ]
+        }
+    }
+}

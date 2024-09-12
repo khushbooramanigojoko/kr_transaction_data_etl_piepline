@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Derek Dudley",
+        "age": 55,
+        "gender": "female",
+        "address": "3156 Webb Walk, West Marialand, PR 51677",
+        "phone": "4014054017",
+        "email": "amandamathews@example.net",
+        "account": {
+            "account_number": "9cfa7bbe-a0d8-4669-a7f0-d3975da5eccd",
+            "balance": 40322.75,
+            "transactions": [
+                {
+                    "date": "2023-12-07",
+                    "description": "Withdrawal",
+                    "amount": 31169.73,
+                    "transaction_id": 103924624
+                },
+                {
+                    "date": "2023-06-20",
+                    "description": "Withdrawal",
+                    "amount": 10273.59,
+                    "transaction_id": 92583960
+                }
+            ]
+        }
+    }
+}

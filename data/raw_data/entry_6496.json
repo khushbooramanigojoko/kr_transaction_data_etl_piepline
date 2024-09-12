@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stephen Brandt",
+        "age": 71,
+        "gender": "female",
+        "address": "9698 Richardson Drive Suite 751, New Kenneth, MN 16642",
+        "phone": "001-601-427-5914x93993",
+        "email": "alexanderwillie@example.net",
+        "account": {
+            "account_number": "5bd19f02-8e44-4c99-bfbe-0ada7440a029",
+            "balance": 25546.18,
+            "transactions": [
+                {
+                    "date": "2022-12-09",
+                    "description": "Interest",
+                    "amount": 768.12,
+                    "transaction_id": 115853963
+                },
+                {
+                    "date": "2023-02-08",
+                    "description": "Withdrawal",
+                    "amount": 45193.33,
+                    "transaction_id": 76453376
+                },
+                {
+                    "date": "2023-06-04",
+                    "description": "Deposit",
+                    "amount": 6133.15,
+                    "transaction_id": 54590101
+                },
+                {
+                    "date": "2023-11-03",
+                    "description": "Withdrawal",
+                    "amount": 22457.81,
+                    "transaction_id": 18485964
+                }
+            ]
+        }
+    }
+}

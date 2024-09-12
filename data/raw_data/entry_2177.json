@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Victoria Perkins",
+        "age": 98,
+        "gender": "male",
+        "address": "USNV Thompson, FPO AA 62611",
+        "phone": "417.568.6915x426",
+        "email": "christina60@example.org",
+        "account": {
+            "account_number": "a9acc700-86b1-487f-9828-01e7d0c45aa0",
+            "balance": 1082.23,
+            "transactions": [
+                {
+                    "date": "2023-02-03",
+                    "description": "Interest",
+                    "amount": 33444.57,
+                    "transaction_id": 11067940
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Withdrawal",
+                    "amount": 36180.97,
+                    "transaction_id": 91288201
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Deposit",
+                    "amount": 6764.17,
+                    "transaction_id": 20640598
+                }
+            ]
+        }
+    }
+}

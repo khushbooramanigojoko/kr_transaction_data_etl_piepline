@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kristin Wong",
+        "age": 21,
+        "gender": "male",
+        "address": "019 Angela Avenue, Michaelside, IL 84054",
+        "phone": "713-350-6245x8607",
+        "email": "benjaminrobinson@example.org",
+        "account": {
+            "account_number": "7325d8b5-4ddf-435e-aff9-68de5f60e8d7",
+            "balance": 5909.5,
+            "transactions": [
+                {
+                    "date": "2024-06-16",
+                    "description": "Deposit",
+                    "amount": 39515.2,
+                    "transaction_id": 106382810
+                },
+                {
+                    "date": "2023-06-25",
+                    "description": "Withdrawal",
+                    "amount": 46678.23,
+                    "transaction_id": 2403614
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Withdrawal",
+                    "amount": 37560.55,
+                    "transaction_id": 116178911
+                },
+                {
+                    "date": "2022-10-27",
+                    "description": "Interest",
+                    "amount": 20168.94,
+                    "transaction_id": 31206341
+                },
+                {
+                    "date": "2023-02-23",
+                    "description": "Interest",
+                    "amount": 28686.69,
+                    "transaction_id": 114145554
+                }
+            ]
+        }
+    }
+}

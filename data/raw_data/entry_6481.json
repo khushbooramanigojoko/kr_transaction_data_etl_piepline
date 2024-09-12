@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kim Calhoun",
+        "age": 65,
+        "gender": "male",
+        "address": "827 Leslie Trace Apt. 667, South Antonio, IL 04378",
+        "phone": "764-482-3822x2362",
+        "email": "carrollgloria@example.com",
+        "account": {
+            "account_number": "d674448d-aad5-40e5-b5fd-79d072f09a4a",
+            "balance": 4160.6,
+            "transactions": [
+                {
+                    "date": "2023-01-21",
+                    "description": "Interest",
+                    "amount": 16825.37,
+                    "transaction_id": 119813403
+                }
+            ]
+        }
+    }
+}

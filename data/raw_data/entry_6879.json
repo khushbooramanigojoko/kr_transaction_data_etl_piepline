@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Chris Patrick",
+        "age": 20,
+        "gender": "male",
+        "address": "57308 Jerome Lake, South Rebeccafort, WV 62657",
+        "phone": "001-301-547-2078",
+        "email": "raymond50@example.com",
+        "account": {
+            "account_number": "046d0d20-b2f0-4522-801b-2430d8641aaf",
+            "balance": 36642.71,
+            "transactions": [
+                {
+                    "date": "2023-06-13",
+                    "description": "Interest",
+                    "amount": 3701.27,
+                    "transaction_id": 59088370
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Interest",
+                    "amount": 26250.2,
+                    "transaction_id": 60963040
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Deposit",
+                    "amount": 40150.9,
+                    "transaction_id": 47547125
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Deposit",
+                    "amount": 18057.74,
+                    "transaction_id": 7394485
+                }
+            ]
+        }
+    }
+}

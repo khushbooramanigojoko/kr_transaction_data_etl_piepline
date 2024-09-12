@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 98,
+        "gender": "female",
+        "address": "541 Erica Causeway, Wendyton, MN 28867",
+        "phone": "001-589-406-2769",
+        "email": "ymorgan@example.org",
+        "account": {
+            "account_number": "8fc7ec09-613e-479a-b8f9-af33035cbc18",
+            "balance": 35080.87,
+            "transactions": [
+                {
+                    "date": "2023-11-22",
+                    "description": "Deposit",
+                    "amount": 2751.94,
+                    "transaction_id": 36415963
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Interest",
+                    "amount": 2255.92,
+                    "transaction_id": 106843714
+                }
+            ]
+        }
+    }
+}

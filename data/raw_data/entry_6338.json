@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Casey Carlson",
+        "age": 82,
+        "gender": "male",
+        "address": "54826 Molina Terrace Suite 054, Port Anna, CA 30269",
+        "phone": "730-981-2800x006",
+        "email": "joseph90@example.com",
+        "account": {
+            "account_number": "64b5072e-378b-48ce-8487-74f85cb22825",
+            "balance": 47292.27,
+            "transactions": [
+                {
+                    "date": "2024-04-23",
+                    "description": "Interest",
+                    "amount": 1171.43,
+                    "transaction_id": 43105256
+                },
+                {
+                    "date": "2023-06-27",
+                    "description": "Withdrawal",
+                    "amount": 2649.47,
+                    "transaction_id": 72356319
+                },
+                {
+                    "date": "2023-05-07",
+                    "description": "Deposit",
+                    "amount": 41026.18,
+                    "transaction_id": 93248277
+                }
+            ]
+        }
+    }
+}

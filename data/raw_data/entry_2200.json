@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "James Hansen",
+        "age": 31,
+        "gender": "male",
+        "address": "196 Laura Mall Suite 346, New Cindyborough, TX 17650",
+        "phone": "+1-347-489-3332x46753",
+        "email": "hballard@example.org",
+        "account": {
+            "account_number": "ca515717-1919-4e94-82af-851ac6125800",
+            "balance": 46026.69,
+            "transactions": [
+                {
+                    "date": "2024-02-27",
+                    "description": "Deposit",
+                    "amount": 46497.48,
+                    "transaction_id": 74740634
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Deposit",
+                    "amount": 39992.53,
+                    "transaction_id": 94673719
+                },
+                {
+                    "date": "2023-08-21",
+                    "description": "Withdrawal",
+                    "amount": 28841.33,
+                    "transaction_id": 76130052
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Deposit",
+                    "amount": 40435.56,
+                    "transaction_id": 6312222
+                }
+            ]
+        }
+    }
+}

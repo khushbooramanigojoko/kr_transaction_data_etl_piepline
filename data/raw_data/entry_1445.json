@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dr. Michael Perez II",
+        "age": 21,
+        "gender": "female",
+        "address": "99436 Joseph Knoll, Port Christinamouth, FL 44631",
+        "phone": "(999)488-4458x42863",
+        "email": "gardnerdana@example.net",
+        "account": {
+            "account_number": "efd002c7-5f47-4b10-921a-ce5f104a7bcb",
+            "balance": 32158.66,
+            "transactions": [
+                {
+                    "date": "2023-10-14",
+                    "description": "Deposit",
+                    "amount": 23570.1,
+                    "transaction_id": 55356564
+                },
+                {
+                    "date": "2024-05-08",
+                    "description": "Withdrawal",
+                    "amount": 37057.71,
+                    "transaction_id": 38444277
+                },
+                {
+                    "date": "2023-04-20",
+                    "description": "Interest",
+                    "amount": 4491.22,
+                    "transaction_id": 42402765
+                },
+                {
+                    "date": "2023-08-31",
+                    "description": "Withdrawal",
+                    "amount": 43321.79,
+                    "transaction_id": 23306645
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Deposit",
+                    "amount": 25921.54,
+                    "transaction_id": 39480880
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 43,
+        "gender": "female",
+        "address": "22915 Hernandez Heights Apt. 091, West Dawnton, NE 52614",
+        "phone": "264.285.4484x88730",
+        "email": "johnsonemily@example.net",
+        "account": {
+            "account_number": "ada1b912-a94f-41b4-a80d-24baa1a5e423",
+            "balance": 2113.26,
+            "transactions": [
+                {
+                    "date": "2024-07-02",
+                    "description": "Withdrawal",
+                    "amount": -4656.09,
+                    "transaction_id": 19297382
+                },
+                {
+                    "date": "2023-12-19",
+                    "description": "Deposit",
+                    "amount": 1991.1,
+                    "transaction_id": 35013048
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Withdrawal",
+                    "amount": -4055.52,
+                    "transaction_id": 21830661
+                },
+                {
+                    "date": "2024-08-10",
+                    "description": "Interest",
+                    "amount": -19.92,
+                    "transaction_id": 72154637
+                },
+                {
+                    "date": "2023-07-08",
+                    "description": "Interest",
+                    "amount": 3966.03,
+                    "transaction_id": 95241019
+                }
+            ]
+        }
+    }
+}

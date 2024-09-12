@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Charles Gill",
+        "age": 67,
+        "gender": "female",
+        "address": "Unit 8233 Box 1085, DPO AE 93303",
+        "phone": "001-576-758-3568x75199",
+        "email": "hernandezstephanie@example.com",
+        "account": {
+            "account_number": "501b28e0-ee8a-456c-ba45-bd732c474520",
+            "balance": 43108.1,
+            "transactions": [
+                {
+                    "date": "2024-07-01",
+                    "description": "Deposit",
+                    "amount": 12896.83,
+                    "transaction_id": 31801675
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Interest",
+                    "amount": 34953.59,
+                    "transaction_id": 43636845
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Deposit",
+                    "amount": 9460.64,
+                    "transaction_id": 116937318
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Interest",
+                    "amount": 19466.84,
+                    "transaction_id": 12658938
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Withdrawal",
+                    "amount": 5470.1,
+                    "transaction_id": 72990831
+                }
+            ]
+        }
+    }
+}

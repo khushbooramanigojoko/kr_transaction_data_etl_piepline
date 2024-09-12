@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jason Montgomery",
+        "age": 92,
+        "gender": "female",
+        "address": "PSC 3127, Box 5589, APO AA 84134",
+        "phone": "4992009096",
+        "email": "davidvargas@example.org",
+        "account": {
+            "account_number": "cddcf43c-1043-4ea3-be85-26dbe10e2993",
+            "balance": 6894.69,
+            "transactions": [
+                {
+                    "date": "2023-03-16",
+                    "description": "Withdrawal",
+                    "amount": 264.3,
+                    "transaction_id": 116216694
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Interest",
+                    "amount": 34395.16,
+                    "transaction_id": 3668300
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Withdrawal",
+                    "amount": 20733.97,
+                    "transaction_id": 82217077
+                },
+                {
+                    "date": "2023-05-06",
+                    "description": "Withdrawal",
+                    "amount": 3507.09,
+                    "transaction_id": 42402585
+                },
+                {
+                    "date": "2022-10-11",
+                    "description": "Deposit",
+                    "amount": 6411.52,
+                    "transaction_id": 26910262
+                }
+            ]
+        }
+    }
+}

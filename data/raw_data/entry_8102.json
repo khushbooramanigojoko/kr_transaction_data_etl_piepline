@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jason Wallace",
+        "age": 56,
+        "gender": "male",
+        "address": "18379 Lowery Dale, Vanessaville, SC 28912",
+        "phone": "504.295.5700x226",
+        "email": "luis14@example.org",
+        "account": {
+            "account_number": "8906a08c-7e00-4ec1-93d3-da169b656e8d",
+            "balance": 13478.62,
+            "transactions": [
+                {
+                    "date": "2024-04-18",
+                    "description": "Deposit",
+                    "amount": 34719.19,
+                    "transaction_id": 65997957
+                },
+                {
+                    "date": "2023-09-30",
+                    "description": "Interest",
+                    "amount": 44661.53,
+                    "transaction_id": 16386968
+                },
+                {
+                    "date": "2024-05-13",
+                    "description": "Deposit",
+                    "amount": 9795.96,
+                    "transaction_id": 95404055
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Deposit",
+                    "amount": 35420.92,
+                    "transaction_id": 25245110
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Interest",
+                    "amount": 20140.25,
+                    "transaction_id": 44322212
+                }
+            ]
+        }
+    }
+}

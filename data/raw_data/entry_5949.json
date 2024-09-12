@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Erin Garcia",
+        "age": 56,
+        "gender": "male",
+        "address": "7103 Seth Ports Apt. 671, Jamiechester, PA 92263",
+        "phone": "(983)322-1898",
+        "email": "robertfields@example.org",
+        "account": {
+            "account_number": "79ce3857-0fe2-486d-a226-cbb89a5d5cdd",
+            "balance": 25826.17,
+            "transactions": [
+                {
+                    "date": "2024-08-18",
+                    "description": "Interest",
+                    "amount": 46872.67,
+                    "transaction_id": 17762520
+                },
+                {
+                    "date": "2023-01-10",
+                    "description": "Deposit",
+                    "amount": 5331.96,
+                    "transaction_id": 92315321
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Interest",
+                    "amount": 36525.1,
+                    "transaction_id": 91598209
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Deposit",
+                    "amount": 8252.54,
+                    "transaction_id": 4922666
+                }
+            ]
+        }
+    }
+}

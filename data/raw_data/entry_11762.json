@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 62,
+        "gender": "male",
+        "address": "98917 Tracy Loaf Apt. 926, West Timothybury, AK 40320",
+        "phone": "+1-600-872-6903x3056",
+        "email": "eatonjessica@example.org",
+        "account": {
+            "account_number": "dc17e0e7-30e5-45ff-9911-531b09f0599f",
+            "balance": 15776.23,
+            "transactions": [
+                {
+                    "date": "2022-12-15",
+                    "description": "Withdrawal",
+                    "amount": -2669.18,
+                    "transaction_id": 69058416
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Deposit",
+                    "amount": -4223.52,
+                    "transaction_id": 45549801
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Deposit",
+                    "amount": 4631.78,
+                    "transaction_id": 86589734
+                },
+                {
+                    "date": "2024-02-10",
+                    "description": "Deposit",
+                    "amount": -948.33,
+                    "transaction_id": 4614754
+                }
+            ]
+        }
+    }
+}

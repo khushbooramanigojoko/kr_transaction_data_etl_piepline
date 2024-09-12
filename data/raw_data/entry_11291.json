@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Bell",
+        "age": 56,
+        "gender": "female",
+        "address": "587 Deanna Junction Suite 877, North Deanchester, MP 99150",
+        "phone": "347.668.8731",
+        "email": "jamescastro@example.com",
+        "account": {
+            "account_number": "649bd857-03ff-4d11-9c0a-6682c45a1f41",
+            "balance": -24022.2,
+            "transactions": [
+                {
+                    "date": "2024-08-24",
+                    "description": "Interest",
+                    "amount": -2633.29,
+                    "transaction_id": 73719325
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Interest",
+                    "amount": 4448.81,
+                    "transaction_id": 46054945
+                },
+                {
+                    "date": "2024-05-12",
+                    "description": "Withdrawal",
+                    "amount": -2190.57,
+                    "transaction_id": 48567061
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Deposit",
+                    "amount": -894.98,
+                    "transaction_id": 98980828
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Deposit",
+                    "amount": 4142.98,
+                    "transaction_id": 11933343
+                }
+            ]
+        }
+    }
+}

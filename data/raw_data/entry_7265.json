@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Holden",
+        "age": 44,
+        "gender": "female",
+        "address": "PSC 2058, Box 0626, APO AE 18203",
+        "phone": "(556)308-4952x4973",
+        "email": "xsanchez@example.org",
+        "account": {
+            "account_number": "fe805e79-a929-474d-8ced-8c399c85f698",
+            "balance": 11843.24,
+            "transactions": [
+                {
+                    "date": "2022-09-02",
+                    "description": "Deposit",
+                    "amount": 26996.18,
+                    "transaction_id": 88194341
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Interest",
+                    "amount": 12221.03,
+                    "transaction_id": 32832612
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Interest",
+                    "amount": 14328.39,
+                    "transaction_id": 46851418
+                },
+                {
+                    "date": "2023-03-23",
+                    "description": "Withdrawal",
+                    "amount": 20565.66,
+                    "transaction_id": 87949143
+                },
+                {
+                    "date": "2024-04-19",
+                    "description": "Interest",
+                    "amount": 17453.26,
+                    "transaction_id": 95282943
+                }
+            ]
+        }
+    }
+}

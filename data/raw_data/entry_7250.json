@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph Castillo",
+        "age": 54,
+        "gender": "female",
+        "address": "USCGC Medina, FPO AE 13979",
+        "phone": "(861)364-5337x62473",
+        "email": "pittsjessica@example.org",
+        "account": {
+            "account_number": "029a90e0-18f3-453d-bc88-493c71efda5a",
+            "balance": 2901.48,
+            "transactions": [
+                {
+                    "date": "2024-08-21",
+                    "description": "Withdrawal",
+                    "amount": 19762.75,
+                    "transaction_id": 56215088
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Deposit",
+                    "amount": 31505.91,
+                    "transaction_id": 32666510
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Interest",
+                    "amount": 6520.69,
+                    "transaction_id": 18979527
+                },
+                {
+                    "date": "2022-10-25",
+                    "description": "Withdrawal",
+                    "amount": 25029.76,
+                    "transaction_id": 94897127
+                }
+            ]
+        }
+    }
+}

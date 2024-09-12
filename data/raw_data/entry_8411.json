@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Claire Richardson",
+        "age": 81,
+        "gender": "female",
+        "address": "12639 Lisa Shore, Lake Justin, ID 56945",
+        "phone": "827-918-8669x9738",
+        "email": "tiffany48@example.net",
+        "account": {
+            "account_number": "b06041a8-4af9-48ea-a332-a5c200e7a597",
+            "balance": 1895.62,
+            "transactions": [
+                {
+                    "date": "2024-01-29",
+                    "description": "Interest",
+                    "amount": 45921.3,
+                    "transaction_id": 98295097
+                }
+            ]
+        }
+    }
+}

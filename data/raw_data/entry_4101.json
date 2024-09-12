@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph Brady",
+        "age": 47,
+        "gender": "female",
+        "address": "303 Darrell Crest Suite 568, New Ronald, UT 23115",
+        "phone": "(521)819-3313x12526",
+        "email": "srodriguez@example.org",
+        "account": {
+            "account_number": "fe9ca9cb-3968-41e7-a870-52ae7c2d90b8",
+            "balance": 1175.59,
+            "transactions": [
+                {
+                    "date": "2024-05-18",
+                    "description": "Interest",
+                    "amount": 19922.29,
+                    "transaction_id": 105607499
+                },
+                {
+                    "date": "2022-11-16",
+                    "description": "Interest",
+                    "amount": 22878.95,
+                    "transaction_id": 21507028
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Withdrawal",
+                    "amount": 37002.18,
+                    "transaction_id": 118171552
+                },
+                {
+                    "date": "2024-06-14",
+                    "description": "Withdrawal",
+                    "amount": 16271.07,
+                    "transaction_id": 95431796
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amber Young",
+        "age": 48,
+        "gender": "male",
+        "address": "PSC 8801, Box 7037, APO AP 36214",
+        "phone": "(384)419-2888",
+        "email": "keithsparks@example.net",
+        "account": {
+            "account_number": "0b879aee-1fb4-4c73-a8b2-251fd5c5d4ef",
+            "balance": 33494.57,
+            "transactions": [
+                {
+                    "date": "2022-09-08",
+                    "description": "Deposit",
+                    "amount": 18680.06,
+                    "transaction_id": 3967319
+                }
+            ]
+        }
+    }
+}

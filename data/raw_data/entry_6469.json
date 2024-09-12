@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Deborah Moran",
+        "age": 53,
+        "gender": "female",
+        "address": "PSC 7954, Box 3098, APO AP 59077",
+        "phone": "001-957-893-8742x479",
+        "email": "wilsonjermaine@example.net",
+        "account": {
+            "account_number": "04af01ca-4a03-4b67-a4a0-2030c542417a",
+            "balance": 30726.82,
+            "transactions": [
+                {
+                    "date": "2023-10-03",
+                    "description": "Withdrawal",
+                    "amount": 25480.35,
+                    "transaction_id": 29201537
+                }
+            ]
+        }
+    }
+}

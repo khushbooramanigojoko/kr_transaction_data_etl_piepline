@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jamie Waters",
+        "age": 85,
+        "gender": "female",
+        "address": "32705 Adriana Vista, South Sydney, NM 45500",
+        "phone": "+1-687-508-3659x3872",
+        "email": "flong@example.net",
+        "account": {
+            "account_number": "9f0519a6-3b55-4170-a275-60b08eb6c66a",
+            "balance": 6204.24,
+            "transactions": [
+                {
+                    "date": "2024-01-29",
+                    "description": "Interest",
+                    "amount": 18034.62,
+                    "transaction_id": 84117818
+                }
+            ]
+        }
+    }
+}

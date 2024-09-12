@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amy Goodwin",
+        "age": 90,
+        "gender": "female",
+        "address": "434 Renee Extension Apt. 458, Staffordchester, AR 34722",
+        "phone": "8025472085",
+        "email": "ericferguson@example.org",
+        "account": {
+            "account_number": "d3ba86cd-6fb6-40c4-befd-f33bac07122b",
+            "balance": 44677.6,
+            "transactions": [
+                {
+                    "date": "2023-07-26",
+                    "description": "Withdrawal",
+                    "amount": 614.04,
+                    "transaction_id": 59393999
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Withdrawal",
+                    "amount": 26647.39,
+                    "transaction_id": 95587188
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Deposit",
+                    "amount": 18994.0,
+                    "transaction_id": 68944935
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Interest",
+                    "amount": 10364.27,
+                    "transaction_id": 70113261
+                }
+            ]
+        }
+    }
+}

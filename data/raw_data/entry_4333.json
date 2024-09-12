@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Elizabeth Mclaughlin",
+        "age": 65,
+        "gender": "male",
+        "address": "9114 Lambert Rue Suite 308, Mahoneyfort, GU 10905",
+        "phone": "+1-528-247-3358x625",
+        "email": "logananthony@example.net",
+        "account": {
+            "account_number": "7b46e705-8718-42d6-b91f-6e16c55b134f",
+            "balance": 30468.04,
+            "transactions": [
+                {
+                    "date": "2024-04-21",
+                    "description": "Deposit",
+                    "amount": 24093.63,
+                    "transaction_id": 29719580
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Deposit",
+                    "amount": 46631.76,
+                    "transaction_id": 65249037
+                }
+            ]
+        }
+    }
+}

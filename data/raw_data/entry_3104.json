@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jeremy Schultz",
+        "age": 80,
+        "gender": "male",
+        "address": "492 Pace Corner, Millertown, MA 31410",
+        "phone": "001-470-661-8793",
+        "email": "lauramitchell@example.com",
+        "account": {
+            "account_number": "955f9ea7-c6bd-4710-9b2b-b947e44a5449",
+            "balance": 20791.4,
+            "transactions": [
+                {
+                    "date": "2022-11-17",
+                    "description": "Withdrawal",
+                    "amount": 48209.1,
+                    "transaction_id": 99535928
+                },
+                {
+                    "date": "2022-11-14",
+                    "description": "Withdrawal",
+                    "amount": 38089.68,
+                    "transaction_id": 18762116
+                }
+            ]
+        }
+    }
+}

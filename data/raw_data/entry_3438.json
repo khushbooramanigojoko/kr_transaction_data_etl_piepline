@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Teresa Burke",
+        "age": 34,
+        "gender": "female",
+        "address": "29132 Christine Viaduct Apt. 119, Mariafurt, OR 87943",
+        "phone": "+1-551-893-6344",
+        "email": "chelsea11@example.com",
+        "account": {
+            "account_number": "9fce4db8-4c63-4621-bb52-aa11e6e89335",
+            "balance": 14633.46,
+            "transactions": [
+                {
+                    "date": "2023-09-19",
+                    "description": "Interest",
+                    "amount": 38700.31,
+                    "transaction_id": 10806914
+                },
+                {
+                    "date": "2023-09-07",
+                    "description": "Deposit",
+                    "amount": 33931.78,
+                    "transaction_id": 63152067
+                }
+            ]
+        }
+    }
+}

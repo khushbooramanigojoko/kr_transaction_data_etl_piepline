@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jennifer Wood",
+        "age": 63,
+        "gender": "female",
+        "address": "750 Elizabeth Ranch Suite 035, New Catherinehaven, OR 98045",
+        "phone": "001-330-540-1468x75818",
+        "email": "caldwellalejandra@example.com",
+        "account": {
+            "account_number": "e45e3087-586a-4c74-9dc5-c3ce05079c68",
+            "balance": 31580.94,
+            "transactions": [
+                {
+                    "date": "2023-06-01",
+                    "description": "Deposit",
+                    "amount": 46690.61,
+                    "transaction_id": 58957906
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Withdrawal",
+                    "amount": 42392.64,
+                    "transaction_id": 20585419
+                }
+            ]
+        }
+    }
+}

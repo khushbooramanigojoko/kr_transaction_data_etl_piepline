@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kevin Santana",
+        "age": 98,
+        "gender": "female",
+        "address": "82646 Shelton Lakes Apt. 458, Lake Angela, ND 36858",
+        "phone": "682-820-0641x7782",
+        "email": "tanyamorales@example.net",
+        "account": {
+            "account_number": "b47d881e-3698-456f-a35b-960eb032ac01",
+            "balance": -13785.11,
+            "transactions": [
+                {
+                    "date": "2023-01-15",
+                    "description": "Interest",
+                    "amount": -4160.66,
+                    "transaction_id": 75472950
+                }
+            ]
+        }
+    }
+}

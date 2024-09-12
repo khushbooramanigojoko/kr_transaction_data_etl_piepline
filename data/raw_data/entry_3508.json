@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Thomas Brown",
+        "age": 41,
+        "gender": "male",
+        "address": "2107 Marissa Trace, Bushfort, SD 51474",
+        "phone": "279-236-2052x236",
+        "email": "anthony10@example.com",
+        "account": {
+            "account_number": "e4fc4a09-9a61-43b1-bf27-c7ea0ea1a0ae",
+            "balance": 17320.1,
+            "transactions": [
+                {
+                    "date": "2024-04-10",
+                    "description": "Deposit",
+                    "amount": 41237.89,
+                    "transaction_id": 43514500
+                },
+                {
+                    "date": "2023-10-02",
+                    "description": "Withdrawal",
+                    "amount": 12608.39,
+                    "transaction_id": 22321296
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Withdrawal",
+                    "amount": 46374.59,
+                    "transaction_id": 38055087
+                }
+            ]
+        }
+    }
+}

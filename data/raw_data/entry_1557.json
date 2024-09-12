@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Olivia Barnett",
+        "age": 52,
+        "gender": "female",
+        "address": "10910 Webb Mission Suite 758, Judyhaven, DE 98900",
+        "phone": "(733)770-8828x5087",
+        "email": "michael00@example.com",
+        "account": {
+            "account_number": "e3782711-f14d-4c37-880d-f6b953cde3a6",
+            "balance": 33885.64,
+            "transactions": [
+                {
+                    "date": "2023-12-06",
+                    "description": "Interest",
+                    "amount": 4393.67,
+                    "transaction_id": 13035103
+                }
+            ]
+        }
+    }
+}

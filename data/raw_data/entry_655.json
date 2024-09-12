@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Brown",
+        "age": 85,
+        "gender": "male",
+        "address": "867 Kristie Heights, North Kaitlin, SD 34076",
+        "phone": "(615)381-5242x24184",
+        "email": "victor95@example.org",
+        "account": {
+            "account_number": "a7a57dea-b9ae-4696-9e41-d22958581fd6",
+            "balance": 46800.47,
+            "transactions": [
+                {
+                    "date": "2023-03-29",
+                    "description": "Withdrawal",
+                    "amount": 31709.14,
+                    "transaction_id": 60044518
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Interest",
+                    "amount": 34910.9,
+                    "transaction_id": 52561679
+                },
+                {
+                    "date": "2022-09-16",
+                    "description": "Deposit",
+                    "amount": 30811.65,
+                    "transaction_id": 35189135
+                }
+            ]
+        }
+    }
+}

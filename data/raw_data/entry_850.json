@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Leslie Miller",
+        "age": 18,
+        "gender": "male",
+        "address": "0524 Cowan Spurs Suite 668, South Kerry, RI 04193",
+        "phone": "(303)634-2144",
+        "email": "williamstina@example.net",
+        "account": {
+            "account_number": "1bc304fe-0d58-475e-abd4-83c3accb4186",
+            "balance": 37968.95,
+            "transactions": [
+                {
+                    "date": "2023-04-25",
+                    "description": "Withdrawal",
+                    "amount": 40482.69,
+                    "transaction_id": 110006519
+                },
+                {
+                    "date": "2023-10-12",
+                    "description": "Interest",
+                    "amount": 45155.54,
+                    "transaction_id": 115620969
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Deposit",
+                    "amount": 12407.07,
+                    "transaction_id": 32556594
+                }
+            ]
+        }
+    }
+}

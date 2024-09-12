@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Alexander Castro",
+        "age": 22,
+        "gender": "male",
+        "address": "9471 Hannah Center, Port Thomasview, PR 44967",
+        "phone": "712.730.6007x806",
+        "email": "stephen37@example.org",
+        "account": {
+            "account_number": "b21483ab-fc90-488b-a8e2-1a1f0e75af93",
+            "balance": 43412.59,
+            "transactions": [
+                {
+                    "date": "2023-04-11",
+                    "description": "Deposit",
+                    "amount": 3225.38,
+                    "transaction_id": 15422660
+                },
+                {
+                    "date": "2023-05-06",
+                    "description": "Deposit",
+                    "amount": 5941.31,
+                    "transaction_id": 60516693
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Interest",
+                    "amount": 31150.7,
+                    "transaction_id": 85428002
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Withdrawal",
+                    "amount": 28028.58,
+                    "transaction_id": 90301638
+                },
+                {
+                    "date": "2024-07-29",
+                    "description": "Deposit",
+                    "amount": 5373.13,
+                    "transaction_id": 115250290
+                }
+            ]
+        }
+    }
+}

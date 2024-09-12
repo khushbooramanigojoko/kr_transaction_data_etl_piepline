@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Cynthia Harrell",
+        "age": 89,
+        "gender": "male",
+        "address": "12056 Simmons Forest Suite 992, North Ruth, AL 72494",
+        "phone": "413.312.6905x4304",
+        "email": "randy88@example.com",
+        "account": {
+            "account_number": "3551aece-8fa6-4575-b51d-1642dc38fdb1",
+            "balance": 24323.87,
+            "transactions": [
+                {
+                    "date": "2022-11-06",
+                    "description": "Interest",
+                    "amount": 11582.22,
+                    "transaction_id": 82909561
+                },
+                {
+                    "date": "2023-04-23",
+                    "description": "Interest",
+                    "amount": 20790.95,
+                    "transaction_id": 11832858
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Withdrawal",
+                    "amount": 19378.1,
+                    "transaction_id": 91714495
+                }
+            ]
+        }
+    }
+}

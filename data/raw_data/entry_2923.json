@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Erin Vazquez",
+        "age": 44,
+        "gender": "female",
+        "address": "073 Amber Mill Apt. 715, Jeremybury, NV 42779",
+        "phone": "+1-544-392-2342x84800",
+        "email": "kathy31@example.com",
+        "account": {
+            "account_number": "63eb48ee-1591-49aa-9c27-facbdcd90d89",
+            "balance": 26251.72,
+            "transactions": [
+                {
+                    "date": "2024-06-10",
+                    "description": "Deposit",
+                    "amount": 25044.14,
+                    "transaction_id": 90654875
+                },
+                {
+                    "date": "2024-06-12",
+                    "description": "Interest",
+                    "amount": 7742.78,
+                    "transaction_id": 105291455
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Interest",
+                    "amount": 8035.15,
+                    "transaction_id": 118986920
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Withdrawal",
+                    "amount": 37838.15,
+                    "transaction_id": 55833680
+                },
+                {
+                    "date": "2024-07-09",
+                    "description": "Interest",
+                    "amount": 18392.42,
+                    "transaction_id": 22149783
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Timothy Walsh",
+        "age": 73,
+        "gender": "male",
+        "address": "93362 Faulkner Tunnel, Pagefort, MH 95929",
+        "phone": "(741)645-6846x33822",
+        "email": "olsonkelly@example.net",
+        "account": {
+            "account_number": "c8f1b631-9563-45c6-8754-35d3753b0107",
+            "balance": 24960.91,
+            "transactions": [
+                {
+                    "date": "2023-11-30",
+                    "description": "Withdrawal",
+                    "amount": 27799.09,
+                    "transaction_id": 106466438
+                },
+                {
+                    "date": "2024-07-18",
+                    "description": "Deposit",
+                    "amount": 8023.81,
+                    "transaction_id": 46019261
+                }
+            ]
+        }
+    }
+}

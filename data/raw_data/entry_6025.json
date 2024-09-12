@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Griffin",
+        "age": 96,
+        "gender": "female",
+        "address": "412 Mendez Mount Apt. 466, Johnsonmouth, MO 63116",
+        "phone": "2934517519",
+        "email": "kmeyer@example.org",
+        "account": {
+            "account_number": "d19037dd-90e4-400a-95f4-7dfed0cee7b7",
+            "balance": 44554.41,
+            "transactions": [
+                {
+                    "date": "2024-08-22",
+                    "description": "Deposit",
+                    "amount": 30419.99,
+                    "transaction_id": 35784497
+                },
+                {
+                    "date": "2023-12-19",
+                    "description": "Deposit",
+                    "amount": 19602.31,
+                    "transaction_id": 16256920
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Withdrawal",
+                    "amount": 40133.11,
+                    "transaction_id": 53765736
+                }
+            ]
+        }
+    }
+}

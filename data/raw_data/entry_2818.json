@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Francis",
+        "age": 93,
+        "gender": "female",
+        "address": "59355 Gabriel Estates, Rodriguezburgh, VT 64995",
+        "phone": "461-509-6638x817",
+        "email": "yrobinson@example.net",
+        "account": {
+            "account_number": "ceb63c4d-3600-4ae7-9c9b-d422059dcf9d",
+            "balance": 36054.16,
+            "transactions": [
+                {
+                    "date": "2023-08-18",
+                    "description": "Withdrawal",
+                    "amount": 41442.69,
+                    "transaction_id": 67819988
+                }
+            ]
+        }
+    }
+}

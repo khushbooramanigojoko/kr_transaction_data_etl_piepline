@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Maria Ball",
+        "age": 87,
+        "gender": "female",
+        "address": "463 Smith Inlet, Christineside, CT 64893",
+        "phone": "338.486.7872",
+        "email": "anna90@example.net",
+        "account": {
+            "account_number": "bf32fb37-4896-46d9-80b4-c722661aef5a",
+            "balance": -14776.32,
+            "transactions": [
+                {
+                    "date": "2024-03-26",
+                    "description": "Deposit",
+                    "amount": -3153.9,
+                    "transaction_id": 55420966
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Interest",
+                    "amount": 893.78,
+                    "transaction_id": 25293606
+                },
+                {
+                    "date": "2022-12-26",
+                    "description": "Deposit",
+                    "amount": -2639.37,
+                    "transaction_id": 117820007
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Withdrawal",
+                    "amount": -906.71,
+                    "transaction_id": 87002145
+                },
+                {
+                    "date": "2024-08-14",
+                    "description": "Interest",
+                    "amount": 10.07,
+                    "transaction_id": 84071423
+                }
+            ]
+        }
+    }
+}

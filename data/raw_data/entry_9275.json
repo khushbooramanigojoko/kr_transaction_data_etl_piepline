@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 39,
+        "gender": "male",
+        "address": "42414 Dougherty Points Apt. 547, New Rebecca, HI 21628",
+        "phone": "001-441-813-0337",
+        "email": "colemandaniel@example.net",
+        "account": {
+            "account_number": "e47bb783-292b-4986-8205-9c669e43a33d",
+            "balance": 17010.33,
+            "transactions": [
+                {
+                    "date": "2024-08-05",
+                    "description": "Deposit",
+                    "amount": -1191.61,
+                    "transaction_id": 70658501
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Deposit",
+                    "amount": 212.35,
+                    "transaction_id": 80998617
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Withdrawal",
+                    "amount": -4759.9,
+                    "transaction_id": 32590451
+                },
+                {
+                    "date": "2024-06-17",
+                    "description": "Deposit",
+                    "amount": 595.56,
+                    "transaction_id": 75451888
+                }
+            ]
+        }
+    }
+}

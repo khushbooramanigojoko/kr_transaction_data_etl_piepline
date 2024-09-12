@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Samantha Fernandez",
+        "age": 69,
+        "gender": "female",
+        "address": "972 Christensen Field Suite 569, Lisaview, OK 81349",
+        "phone": "(235)945-6557",
+        "email": "bbarker@example.com",
+        "account": {
+            "account_number": "ba4e1a97-d975-4a51-aae3-4b1f456c8b6d",
+            "balance": 9564.22,
+            "transactions": [
+                {
+                    "date": "2023-07-22",
+                    "description": "Deposit",
+                    "amount": 43245.66,
+                    "transaction_id": 101434242
+                },
+                {
+                    "date": "2023-01-11",
+                    "description": "Deposit",
+                    "amount": 31856.12,
+                    "transaction_id": 81427493
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Interest",
+                    "amount": 16844.61,
+                    "transaction_id": 106176666
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Interest",
+                    "amount": 49934.57,
+                    "transaction_id": 33229484
+                },
+                {
+                    "date": "2024-01-11",
+                    "description": "Interest",
+                    "amount": 47783.14,
+                    "transaction_id": 39461175
+                }
+            ]
+        }
+    }
+}

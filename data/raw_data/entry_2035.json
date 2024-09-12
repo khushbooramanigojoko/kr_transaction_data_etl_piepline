@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jonathan Galvan",
+        "age": 38,
+        "gender": "male",
+        "address": "USS Moore, FPO AE 28883",
+        "phone": "+1-854-383-8125x178",
+        "email": "billy47@example.com",
+        "account": {
+            "account_number": "60447b24-5d15-498b-a5f6-80438d0ee2b4",
+            "balance": 9411.93,
+            "transactions": [
+                {
+                    "date": "2022-11-08",
+                    "description": "Interest",
+                    "amount": 24614.94,
+                    "transaction_id": 62327968
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Withdrawal",
+                    "amount": 32403.99,
+                    "transaction_id": 82154991
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Deposit",
+                    "amount": 46400.6,
+                    "transaction_id": 118405634
+                }
+            ]
+        }
+    }
+}

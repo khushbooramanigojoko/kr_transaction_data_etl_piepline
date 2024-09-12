@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Yolanda Morales",
+        "age": 62,
+        "gender": "male",
+        "address": "Unit 5921 Box 0275, DPO AA 65123",
+        "phone": "001-411-228-7595x5457",
+        "email": "rayers@example.net",
+        "account": {
+            "account_number": "1c20e5c0-e9dc-42a7-84bb-34255fb55484",
+            "balance": 44645.96,
+            "transactions": [
+                {
+                    "date": "2024-03-31",
+                    "description": "Withdrawal",
+                    "amount": 30013.73,
+                    "transaction_id": 13871573
+                },
+                {
+                    "date": "2023-06-27",
+                    "description": "Withdrawal",
+                    "amount": 32485.51,
+                    "transaction_id": 38010098
+                }
+            ]
+        }
+    }
+}

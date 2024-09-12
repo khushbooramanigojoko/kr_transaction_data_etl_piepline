@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kyle Johnson",
+        "age": 47,
+        "gender": "male",
+        "address": "45921 Stephen Village Apt. 672, Johnsland, GU 65573",
+        "phone": "4463271110",
+        "email": "zhangheather@example.org",
+        "account": {
+            "account_number": "6716a1f6-b46d-49b2-98bc-d184516f17b5",
+            "balance": 15771.18,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Interest",
+                    "amount": 24194.58,
+                    "transaction_id": 45994057
+                }
+            ]
+        }
+    }
+}

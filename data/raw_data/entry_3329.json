@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Peter Jones",
+        "age": 87,
+        "gender": "male",
+        "address": "437 Wallace Cove, Elizabethside, CT 69777",
+        "phone": "433-734-6497x207",
+        "email": "debra34@example.net",
+        "account": {
+            "account_number": "874437c2-f495-40b7-b98e-20bd6aad8f14",
+            "balance": 16648.48,
+            "transactions": [
+                {
+                    "date": "2024-02-26",
+                    "description": "Interest",
+                    "amount": 27230.28,
+                    "transaction_id": 113489303
+                },
+                {
+                    "date": "2024-04-17",
+                    "description": "Interest",
+                    "amount": 18811.89,
+                    "transaction_id": 45152119
+                },
+                {
+                    "date": "2023-06-03",
+                    "description": "Withdrawal",
+                    "amount": 943.91,
+                    "transaction_id": 35020850
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Deposit",
+                    "amount": 32215.93,
+                    "transaction_id": 47557566
+                }
+            ]
+        }
+    }
+}

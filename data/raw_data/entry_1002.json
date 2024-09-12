@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Julia Maxwell",
+        "age": 78,
+        "gender": "male",
+        "address": "64076 Shawn Dale, Elizabethshire, GU 79134",
+        "phone": "001-744-626-9916x0694",
+        "email": "kellygillespie@example.net",
+        "account": {
+            "account_number": "fe1dac0f-4754-4478-a418-52990ded5bd4",
+            "balance": 1812.24,
+            "transactions": [
+                {
+                    "date": "2023-12-29",
+                    "description": "Withdrawal",
+                    "amount": 11878.02,
+                    "transaction_id": 96894266
+                },
+                {
+                    "date": "2022-09-02",
+                    "description": "Interest",
+                    "amount": 9275.79,
+                    "transaction_id": 30290488
+                },
+                {
+                    "date": "2023-08-04",
+                    "description": "Interest",
+                    "amount": 19800.52,
+                    "transaction_id": 42937706
+                }
+            ]
+        }
+    }
+}

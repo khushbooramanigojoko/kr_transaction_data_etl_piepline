@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "James Fletcher",
+        "age": 71,
+        "gender": "female",
+        "address": "PSC 2355, Box 2073, APO AP 82543",
+        "phone": "586-452-9192x50493",
+        "email": "ubush@example.com",
+        "account": {
+            "account_number": "4f296812-08e4-49c4-927f-3beb284833b3",
+            "balance": 49746.08,
+            "transactions": [
+                {
+                    "date": "2023-04-29",
+                    "description": "Withdrawal",
+                    "amount": 10380.89,
+                    "transaction_id": 78189111
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Withdrawal",
+                    "amount": 5523.95,
+                    "transaction_id": 73240533
+                },
+                {
+                    "date": "2023-01-24",
+                    "description": "Withdrawal",
+                    "amount": 21523.41,
+                    "transaction_id": 45366680
+                },
+                {
+                    "date": "2024-05-30",
+                    "description": "Withdrawal",
+                    "amount": 13576.43,
+                    "transaction_id": 100259028
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 63,
+        "gender": "female",
+        "address": "81975 Juan Lodge Suite 166, Clarkeborough, PR 69243",
+        "phone": "(587)907-8007x38859",
+        "email": "dean34@example.org",
+        "account": {
+            "account_number": "ae195469-77e3-43fd-95bc-42f6a1a84bc0",
+            "balance": 10462.51,
+            "transactions": [
+                {
+                    "date": "2023-03-18",
+                    "description": "Deposit",
+                    "amount": 2471.84,
+                    "transaction_id": 43029825
+                }
+            ]
+        }
+    }
+}

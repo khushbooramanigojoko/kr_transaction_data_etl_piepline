@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kayla Norton",
+        "age": 72,
+        "gender": "female",
+        "address": "023 Lawrence Lane Apt. 159, South Samuelhaven, CO 80920",
+        "phone": "510.376.4728x4654",
+        "email": "katelyn47@example.net",
+        "account": {
+            "account_number": "cc925be0-e387-4e56-99d2-8f377577c2b3",
+            "balance": -32352.55,
+            "transactions": [
+                {
+                    "date": "2024-06-03",
+                    "description": "Deposit",
+                    "amount": 3938.37,
+                    "transaction_id": 79670219
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Withdrawal",
+                    "amount": -1651.48,
+                    "transaction_id": 15524778
+                },
+                {
+                    "date": "2024-06-26",
+                    "description": "Deposit",
+                    "amount": 215.13,
+                    "transaction_id": 40059035
+                }
+            ]
+        }
+    }
+}

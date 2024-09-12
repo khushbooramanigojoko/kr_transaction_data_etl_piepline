@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Elizabeth Wagner DDS",
+        "age": 74,
+        "gender": "male",
+        "address": "6868 Michael Stream, Hartmanview, IA 05438",
+        "phone": "+1-849-672-0136x046",
+        "email": "icollier@example.com",
+        "account": {
+            "account_number": "0e4f0eb5-b968-4f57-9de9-495117fa2759",
+            "balance": -46894.87,
+            "transactions": [
+                {
+                    "date": "2023-07-06",
+                    "description": "Withdrawal",
+                    "amount": 2557.83,
+                    "transaction_id": 63990871
+                },
+                {
+                    "date": "2024-08-16",
+                    "description": "Withdrawal",
+                    "amount": 347.03,
+                    "transaction_id": 36088161
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Deposit",
+                    "amount": 323.74,
+                    "transaction_id": 67573538
+                },
+                {
+                    "date": "2023-11-04",
+                    "description": "Interest",
+                    "amount": 2737.36,
+                    "transaction_id": 31155290
+                }
+            ]
+        }
+    }
+}

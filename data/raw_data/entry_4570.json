@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Derek Campbell",
+        "age": 22,
+        "gender": "male",
+        "address": "529 Ashley Radial Apt. 790, North Melissamouth, MD 34261",
+        "phone": "001-865-753-8606",
+        "email": "kstephens@example.org",
+        "account": {
+            "account_number": "44b1bd02-bb47-4776-ade9-b0462df5595c",
+            "balance": 34681.57,
+            "transactions": [
+                {
+                    "date": "2023-11-01",
+                    "description": "Deposit",
+                    "amount": 3447.66,
+                    "transaction_id": 103964376
+                }
+            ]
+        }
+    }
+}

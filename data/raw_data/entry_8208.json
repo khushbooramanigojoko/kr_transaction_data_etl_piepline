@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sherry Wilson",
+        "age": 37,
+        "gender": "female",
+        "address": "2414 Ruiz Village, Millerport, VI 95357",
+        "phone": "913.414.9648",
+        "email": "tiffanyedwards@example.org",
+        "account": {
+            "account_number": "dfb3c4fc-7f31-4846-b88a-08925f78a408",
+            "balance": 20764.95,
+            "transactions": [
+                {
+                    "date": "2023-11-30",
+                    "description": "Interest",
+                    "amount": 34814.47,
+                    "transaction_id": 54042279
+                }
+            ]
+        }
+    }
+}

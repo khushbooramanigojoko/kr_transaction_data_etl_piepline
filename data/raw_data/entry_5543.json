@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Erin Stephens",
+        "age": 96,
+        "gender": "male",
+        "address": "4980 Johnson Turnpike Apt. 880, New Sharonberg, IL 79519",
+        "phone": "(406)287-8965x0666",
+        "email": "joshua53@example.net",
+        "account": {
+            "account_number": "43009c57-47c2-46f0-b5f8-dfa390bb2733",
+            "balance": 39254.4,
+            "transactions": [
+                {
+                    "date": "2022-10-03",
+                    "description": "Deposit",
+                    "amount": 30639.33,
+                    "transaction_id": 2435913
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Interest",
+                    "amount": 43379.72,
+                    "transaction_id": 9090280
+                }
+            ]
+        }
+    }
+}

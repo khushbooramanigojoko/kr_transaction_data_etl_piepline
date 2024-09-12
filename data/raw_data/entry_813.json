@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Charles Archer",
+        "age": 52,
+        "gender": "female",
+        "address": "978 Peterson Burgs, South Samanthachester, FL 22786",
+        "phone": "+1-369-795-6609x672",
+        "email": "sherrybailey@example.org",
+        "account": {
+            "account_number": "a560212b-8af1-4c38-823a-b42c9fc19ed8",
+            "balance": 34513.17,
+            "transactions": [
+                {
+                    "date": "2024-03-15",
+                    "description": "Deposit",
+                    "amount": 41507.23,
+                    "transaction_id": 92102309
+                },
+                {
+                    "date": "2024-04-24",
+                    "description": "Withdrawal",
+                    "amount": 6563.42,
+                    "transaction_id": 115326614
+                },
+                {
+                    "date": "2023-03-30",
+                    "description": "Withdrawal",
+                    "amount": 43687.76,
+                    "transaction_id": 115402078
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Deposit",
+                    "amount": 39568.95,
+                    "transaction_id": 99507901
+                },
+                {
+                    "date": "2024-08-17",
+                    "description": "Interest",
+                    "amount": 39766.72,
+                    "transaction_id": 20744492
+                }
+            ]
+        }
+    }
+}

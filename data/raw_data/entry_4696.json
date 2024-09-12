@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nicole Nicholson",
+        "age": 99,
+        "gender": "male",
+        "address": "37037 Trevino Well Suite 394, Port Shawnborough, AS 15865",
+        "phone": "(484)369-4593x379",
+        "email": "jgibson@example.org",
+        "account": {
+            "account_number": "e6c26417-702d-4699-aa3c-8e13b4dacabd",
+            "balance": 24032.82,
+            "transactions": [
+                {
+                    "date": "2024-01-22",
+                    "description": "Withdrawal",
+                    "amount": 49062.13,
+                    "transaction_id": 34469671
+                },
+                {
+                    "date": "2023-10-21",
+                    "description": "Interest",
+                    "amount": 32994.09,
+                    "transaction_id": 56534327
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Deposit",
+                    "amount": 2447.68,
+                    "transaction_id": 26994442
+                },
+                {
+                    "date": "2023-05-10",
+                    "description": "Interest",
+                    "amount": 35986.78,
+                    "transaction_id": 18233744
+                }
+            ]
+        }
+    }
+}

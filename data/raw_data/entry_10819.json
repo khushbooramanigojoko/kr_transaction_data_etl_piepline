@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 42,
+        "gender": "female",
+        "address": "0705 Andrea Shoal, Elizabethville, AS 36647",
+        "phone": "001-894-770-3982x25818",
+        "email": "smithroy@example.net",
+        "account": {
+            "account_number": "057c5bdb-a88b-4664-b78b-bf3eef71ef0b",
+            "balance": 19743.74,
+            "transactions": [
+                {
+                    "date": "2023-06-11",
+                    "description": "Withdrawal",
+                    "amount": -3819.77,
+                    "transaction_id": 79665440
+                },
+                {
+                    "date": "2024-05-30",
+                    "description": "Deposit",
+                    "amount": 605.01,
+                    "transaction_id": 17935666
+                },
+                {
+                    "date": "2024-06-11",
+                    "description": "Withdrawal",
+                    "amount": -2991.11,
+                    "transaction_id": 49303195
+                }
+            ]
+        }
+    }
+}

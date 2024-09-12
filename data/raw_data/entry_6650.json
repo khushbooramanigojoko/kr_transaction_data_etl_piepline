@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ann Macdonald",
+        "age": 88,
+        "gender": "male",
+        "address": "9065 Jonathan Divide Suite 593, New Amyside, OK 13181",
+        "phone": "481-360-2727x74017",
+        "email": "leah57@example.com",
+        "account": {
+            "account_number": "6146b5d3-d833-4428-ba02-3c2e47309b8f",
+            "balance": 45509.32,
+            "transactions": [
+                {
+                    "date": "2024-01-09",
+                    "description": "Deposit",
+                    "amount": 17359.74,
+                    "transaction_id": 44014492
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Withdrawal",
+                    "amount": 18273.67,
+                    "transaction_id": 116915293
+                }
+            ]
+        }
+    }
+}

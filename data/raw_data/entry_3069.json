@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sarah Stark",
+        "age": 29,
+        "gender": "female",
+        "address": "071 Kayla Way Apt. 581, Rossburgh, GA 05409",
+        "phone": "+1-814-296-7003x07685",
+        "email": "ruiztammy@example.net",
+        "account": {
+            "account_number": "63ffce43-724f-4feb-a7cc-1d8e4c482fe8",
+            "balance": 18986.92,
+            "transactions": [
+                {
+                    "date": "2023-04-06",
+                    "description": "Withdrawal",
+                    "amount": 32675.96,
+                    "transaction_id": 111655821
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Interest",
+                    "amount": 25459.43,
+                    "transaction_id": 8287916
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Deposit",
+                    "amount": 2166.49,
+                    "transaction_id": 65193819
+                },
+                {
+                    "date": "2023-07-25",
+                    "description": "Interest",
+                    "amount": 46035.97,
+                    "transaction_id": 40222469
+                }
+            ]
+        }
+    }
+}

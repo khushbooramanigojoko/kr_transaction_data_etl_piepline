@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Gary Gomez",
+        "age": 39,
+        "gender": "female",
+        "address": "9874 Greene Lakes, Port Brianshire, CA 46783",
+        "phone": "001-682-952-8636x854",
+        "email": "qgreen@example.org",
+        "account": {
+            "account_number": "b92d43eb-c7d2-4983-830a-87ae8ba1b8b8",
+            "balance": 12801.09,
+            "transactions": [
+                {
+                    "date": "2023-07-16",
+                    "description": "Interest",
+                    "amount": 14603.99,
+                    "transaction_id": 107518568
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michael Duncan",
+        "age": 37,
+        "gender": "male",
+        "address": "PSC 0422, Box 9934, APO AE 42240",
+        "phone": "(463)798-0122x3350",
+        "email": "carrerin@example.com",
+        "account": {
+            "account_number": "e52fd24a-863a-4185-be02-bb4624a9619f",
+            "balance": 38366.66,
+            "transactions": [
+                {
+                    "date": "2022-11-10",
+                    "description": "Withdrawal",
+                    "amount": 38928.41,
+                    "transaction_id": 39457758
+                }
+            ]
+        }
+    }
+}

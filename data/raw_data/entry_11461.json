@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "John Campbell",
+        "age": 90,
+        "gender": "male",
+        "address": "6846 Crystal Gateway, Lake Randyville, AZ 94316",
+        "phone": "261.289.7175",
+        "email": "daniel29@example.net",
+        "account": {
+            "account_number": "116151c3-02c7-4bcc-bef4-9d970fa38b0c",
+            "balance": -25878.63,
+            "transactions": [
+                {
+                    "date": "2023-08-24",
+                    "description": "Interest",
+                    "amount": -882.18,
+                    "transaction_id": 22604908
+                }
+            ]
+        }
+    }
+}

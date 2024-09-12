@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Aimee Ray",
+        "age": 97,
+        "gender": "female",
+        "address": "9608 Wright Causeway Suite 673, West David, AL 63378",
+        "phone": "001-240-921-7308",
+        "email": "christopherwallace@example.net",
+        "account": {
+            "account_number": "d055f3da-c9fa-47b1-ae24-acf57785f1ec",
+            "balance": 37613.17,
+            "transactions": [
+                {
+                    "date": "2022-10-10",
+                    "description": "Withdrawal",
+                    "amount": 24820.34,
+                    "transaction_id": 32412847
+                }
+            ]
+        }
+    }
+}

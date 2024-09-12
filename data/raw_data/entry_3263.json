@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Robert Ramirez",
+        "age": 42,
+        "gender": "male",
+        "address": "999 Jerry Groves, East Mistyhaven, OR 35136",
+        "phone": "+1-256-366-3093",
+        "email": "jenniferwilson@example.com",
+        "account": {
+            "account_number": "5146f982-f777-4042-84b4-553626aa1e8d",
+            "balance": 2857.24,
+            "transactions": [
+                {
+                    "date": "2023-03-08",
+                    "description": "Interest",
+                    "amount": 21751.26,
+                    "transaction_id": 13572423
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Matthew Chase",
+        "age": 47,
+        "gender": "male",
+        "address": "30418 Campbell Road, East Brooke, MH 46377",
+        "phone": "(837)799-1274x962",
+        "email": "hickmancynthia@example.com",
+        "account": {
+            "account_number": "44c9f252-dd75-4078-b825-4b2d8751166a",
+            "balance": 21406.67,
+            "transactions": [
+                {
+                    "date": "2023-05-27",
+                    "description": "Withdrawal",
+                    "amount": 38397.86,
+                    "transaction_id": 79677830
+                },
+                {
+                    "date": "2023-10-25",
+                    "description": "Withdrawal",
+                    "amount": 42501.62,
+                    "transaction_id": 18900513
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Withdrawal",
+                    "amount": 20407.32,
+                    "transaction_id": 67002896
+                }
+            ]
+        }
+    }
+}

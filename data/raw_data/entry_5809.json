@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Thomas Boyd",
+        "age": 86,
+        "gender": "male",
+        "address": "84949 Christopher Terrace Apt. 811, Christopherstad, AZ 51852",
+        "phone": "(958)696-0658x4299",
+        "email": "mhernandez@example.org",
+        "account": {
+            "account_number": "85b053eb-5a4e-4216-8233-69eec5eae85f",
+            "balance": 49026.6,
+            "transactions": [
+                {
+                    "date": "2024-01-16",
+                    "description": "Withdrawal",
+                    "amount": 46652.69,
+                    "transaction_id": 13234351
+                },
+                {
+                    "date": "2023-04-22",
+                    "description": "Deposit",
+                    "amount": 24430.76,
+                    "transaction_id": 67738216
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Deposit",
+                    "amount": 33223.43,
+                    "transaction_id": 80935492
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Interest",
+                    "amount": 11148.51,
+                    "transaction_id": 77960582
+                },
+                {
+                    "date": "2023-11-16",
+                    "description": "Deposit",
+                    "amount": 7954.96,
+                    "transaction_id": 74731608
+                }
+            ]
+        }
+    }
+}

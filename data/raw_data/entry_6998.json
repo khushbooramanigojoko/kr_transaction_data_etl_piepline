@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jeanette Scott",
+        "age": 78,
+        "gender": "female",
+        "address": "PSC 7055, Box 5518, APO AP 79732",
+        "phone": "+1-447-572-2092x53257",
+        "email": "tamara39@example.net",
+        "account": {
+            "account_number": "9653c178-3988-4f07-b957-bb532cc06e4c",
+            "balance": 23531.74,
+            "transactions": [
+                {
+                    "date": "2024-03-23",
+                    "description": "Withdrawal",
+                    "amount": 20457.76,
+                    "transaction_id": 27739193
+                },
+                {
+                    "date": "2023-04-24",
+                    "description": "Withdrawal",
+                    "amount": 30865.23,
+                    "transaction_id": 14741025
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Deposit",
+                    "amount": 23074.41,
+                    "transaction_id": 21860520
+                }
+            ]
+        }
+    }
+}

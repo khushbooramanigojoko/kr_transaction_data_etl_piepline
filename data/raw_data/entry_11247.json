@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Gregory Copeland",
+        "age": 69,
+        "gender": "female",
+        "address": "21023 Collins Road, New Shannonbury, AR 44457",
+        "phone": "+1-873-892-3613",
+        "email": "robertsangelica@example.com",
+        "account": {
+            "account_number": "e1d87e80-6dd6-48ca-8ada-6558debb2f09",
+            "balance": -48809.38,
+            "transactions": [
+                {
+                    "date": "2023-07-03",
+                    "description": "Withdrawal",
+                    "amount": 3055.82,
+                    "transaction_id": 67555590
+                },
+                {
+                    "date": "2024-07-21",
+                    "description": "Interest",
+                    "amount": 3648.99,
+                    "transaction_id": 94911507
+                },
+                {
+                    "date": "2023-08-08",
+                    "description": "Withdrawal",
+                    "amount": 1449.5,
+                    "transaction_id": 68223424
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jeffrey Barber",
+        "age": 22,
+        "gender": "male",
+        "address": "2468 Julie Summit Apt. 328, North Patrick, VT 27075",
+        "phone": "001-442-571-4219",
+        "email": "meganhanson@example.net",
+        "account": {
+            "account_number": "e4459d93-941b-42c0-a670-60f4274936ae",
+            "balance": 48921.43,
+            "transactions": [
+                {
+                    "date": "2024-06-04",
+                    "description": "Interest",
+                    "amount": 6020.66,
+                    "transaction_id": 30613499
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Interest",
+                    "amount": 34956.5,
+                    "transaction_id": 113897500
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Deposit",
+                    "amount": 3262.35,
+                    "transaction_id": 7167767
+                },
+                {
+                    "date": "2023-06-30",
+                    "description": "Deposit",
+                    "amount": 27287.17,
+                    "transaction_id": 89217304
+                },
+                {
+                    "date": "2024-08-06",
+                    "description": "Withdrawal",
+                    "amount": 11923.28,
+                    "transaction_id": 81058054
+                }
+            ]
+        }
+    }
+}

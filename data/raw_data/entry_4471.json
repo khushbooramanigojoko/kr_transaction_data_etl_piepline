@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michelle Decker",
+        "age": 26,
+        "gender": "female",
+        "address": "90769 George Loop Apt. 635, Lake Heathertown, WY 11040",
+        "phone": "488-999-3063",
+        "email": "sonyawood@example.org",
+        "account": {
+            "account_number": "b77781e3-0040-4eec-ba60-b2a7f0ab8c03",
+            "balance": 2185.79,
+            "transactions": [
+                {
+                    "date": "2024-05-27",
+                    "description": "Deposit",
+                    "amount": 12800.82,
+                    "transaction_id": 18240586
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Deposit",
+                    "amount": 28985.96,
+                    "transaction_id": 65977001
+                },
+                {
+                    "date": "2023-10-14",
+                    "description": "Deposit",
+                    "amount": 20276.34,
+                    "transaction_id": 90961565
+                }
+            ]
+        }
+    }
+}

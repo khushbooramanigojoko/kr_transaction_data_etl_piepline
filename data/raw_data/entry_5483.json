@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Krista Cummings",
+        "age": 68,
+        "gender": "female",
+        "address": "328 Regina Hills Apt. 427, East Anna, NH 57001",
+        "phone": "(357)996-4144",
+        "email": "qpeterson@example.org",
+        "account": {
+            "account_number": "0a1ba791-039c-4f22-929b-f95435e938e2",
+            "balance": 27758.2,
+            "transactions": [
+                {
+                    "date": "2024-01-14",
+                    "description": "Interest",
+                    "amount": 33240.56,
+                    "transaction_id": 77821600
+                },
+                {
+                    "date": "2023-07-22",
+                    "description": "Withdrawal",
+                    "amount": 27116.54,
+                    "transaction_id": 15776786
+                },
+                {
+                    "date": "2023-03-29",
+                    "description": "Interest",
+                    "amount": 10420.62,
+                    "transaction_id": 7989530
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Teresa Williams",
+        "age": 55,
+        "gender": "male",
+        "address": "95716 Klein Greens, Jessetown, OR 02440",
+        "phone": "(461)546-2319x046",
+        "email": "floreskeith@example.org",
+        "account": {
+            "account_number": "62a67275-63e3-48bc-901f-9bbfb598dfec",
+            "balance": 5533.89,
+            "transactions": [
+                {
+                    "date": "2023-04-28",
+                    "description": "Withdrawal",
+                    "amount": 36463.05,
+                    "transaction_id": 20265731
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Deposit",
+                    "amount": 33383.01,
+                    "transaction_id": 22069772
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Interest",
+                    "amount": 29248.04,
+                    "transaction_id": 90381135
+                }
+            ]
+        }
+    }
+}

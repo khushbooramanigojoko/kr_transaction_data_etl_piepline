@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 82,
+        "gender": "male",
+        "address": "3475 Mcclain Summit, North Elizabeth, DE 74391",
+        "phone": "682-454-1616x30957",
+        "email": "bairdjoanna@example.com",
+        "account": {
+            "account_number": "8efa5ab4-be9b-4df9-98dd-95b647acf524",
+            "balance": 39287.89,
+            "transactions": [
+                {
+                    "date": "2022-09-24",
+                    "description": "Interest",
+                    "amount": -1914.55,
+                    "transaction_id": 27307446
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Interest",
+                    "amount": -537.69,
+                    "transaction_id": 99602805
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Withdrawal",
+                    "amount": -2380.25,
+                    "transaction_id": 32442135
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Withdrawal",
+                    "amount": -1170.91,
+                    "transaction_id": 58216012
+                },
+                {
+                    "date": "2023-10-08",
+                    "description": "Deposit",
+                    "amount": 4953.19,
+                    "transaction_id": 88817578
+                }
+            ]
+        }
+    }
+}

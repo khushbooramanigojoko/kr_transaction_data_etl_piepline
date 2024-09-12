@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Alicia Collins",
+        "age": 45,
+        "gender": "female",
+        "address": "067 Vargas Cliff Suite 254, East Angelaberg, ME 99244",
+        "phone": "622.548.7726",
+        "email": "adamsrichard@example.net",
+        "account": {
+            "account_number": "80ca1b8d-9042-4fe9-83f1-0c82744f03fc",
+            "balance": 17766.29,
+            "transactions": [
+                {
+                    "date": "2022-10-29",
+                    "description": "Deposit",
+                    "amount": 40865.11,
+                    "transaction_id": 58927668
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Withdrawal",
+                    "amount": 21764.11,
+                    "transaction_id": 20262558
+                },
+                {
+                    "date": "2023-10-02",
+                    "description": "Deposit",
+                    "amount": 1714.02,
+                    "transaction_id": 50524315
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Interest",
+                    "amount": 13446.61,
+                    "transaction_id": 36586787
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Deposit",
+                    "amount": 4422.62,
+                    "transaction_id": 11180735
+                }
+            ]
+        }
+    }
+}

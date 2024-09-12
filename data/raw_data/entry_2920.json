@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Angela Fleming",
+        "age": 91,
+        "gender": "female",
+        "address": "3496 Kimberly Estates, Davisside, MS 06008",
+        "phone": "(324)802-8897x2323",
+        "email": "lisa83@example.com",
+        "account": {
+            "account_number": "b7375e3c-2e6f-4408-9abb-3393e8c92f70",
+            "balance": 6290.74,
+            "transactions": [
+                {
+                    "date": "2024-02-03",
+                    "description": "Interest",
+                    "amount": 29355.54,
+                    "transaction_id": 113578646
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Interest",
+                    "amount": 8716.57,
+                    "transaction_id": 34885555
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Deposit",
+                    "amount": 31226.73,
+                    "transaction_id": 87933568
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Interest",
+                    "amount": 30280.13,
+                    "transaction_id": 119343654
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mariah Jones",
+        "age": 69,
+        "gender": "female",
+        "address": "6921 Allen Junction Suite 339, Lake Peter, KY 99857",
+        "phone": "+1-571-747-8076x28596",
+        "email": "uallen@example.com",
+        "account": {
+            "account_number": "62933e75-17fe-4427-823c-c6918d208386",
+            "balance": 5677.84,
+            "transactions": [
+                {
+                    "date": "2024-07-31",
+                    "description": "Deposit",
+                    "amount": 12969.43,
+                    "transaction_id": 10681904
+                },
+                {
+                    "date": "2024-05-06",
+                    "description": "Interest",
+                    "amount": 49703.27,
+                    "transaction_id": 9191643
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Deposit",
+                    "amount": 40348.07,
+                    "transaction_id": 91232620
+                }
+            ]
+        }
+    }
+}

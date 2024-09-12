@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Amy Bautista",
+        "age": 91,
+        "gender": "male",
+        "address": "3099 Joseph Tunnel, Adrienneview, WI 45534",
+        "phone": "553-895-0610x231",
+        "email": "donnablack@example.org",
+        "account": {
+            "account_number": "37d0919a-fdb3-4d51-ac8a-8aaa00612b49",
+            "balance": -32434.77,
+            "transactions": [
+                {
+                    "date": "2024-01-14",
+                    "description": "Withdrawal",
+                    "amount": -1503.55,
+                    "transaction_id": 90546969
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Interest",
+                    "amount": 303.38,
+                    "transaction_id": 105706320
+                },
+                {
+                    "date": "2024-08-10",
+                    "description": "Interest",
+                    "amount": 1702.44,
+                    "transaction_id": 64307775
+                },
+                {
+                    "date": "2023-08-03",
+                    "description": "Withdrawal",
+                    "amount": -3901.39,
+                    "transaction_id": 99267665
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Interest",
+                    "amount": 3861.82,
+                    "transaction_id": 84800714
+                }
+            ]
+        }
+    }
+}

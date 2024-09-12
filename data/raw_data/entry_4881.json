@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tonya Hernandez",
+        "age": 66,
+        "gender": "male",
+        "address": "0230 Amanda Rapids Apt. 975, North Samuel, NV 65305",
+        "phone": "001-509-931-8364x06040",
+        "email": "catherine20@example.org",
+        "account": {
+            "account_number": "04167a3c-8abf-4d93-a68d-9fe4ef95dcb5",
+            "balance": 23494.36,
+            "transactions": [
+                {
+                    "date": "2023-10-19",
+                    "description": "Interest",
+                    "amount": 23642.7,
+                    "transaction_id": 113286873
+                }
+            ]
+        }
+    }
+}

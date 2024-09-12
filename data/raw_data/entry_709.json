@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jeremy Lawson",
+        "age": 19,
+        "gender": "female",
+        "address": "298 Brandon Lock Suite 408, Kimberlybury, DC 60091",
+        "phone": "756-309-7680x925",
+        "email": "jsampson@example.com",
+        "account": {
+            "account_number": "f125c960-3b13-4c4b-931e-289ccf2b341d",
+            "balance": 26502.63,
+            "transactions": [
+                {
+                    "date": "2023-04-02",
+                    "description": "Withdrawal",
+                    "amount": 6132.85,
+                    "transaction_id": 45326587
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Interest",
+                    "amount": 22221.36,
+                    "transaction_id": 27090939
+                }
+            ]
+        }
+    }
+}

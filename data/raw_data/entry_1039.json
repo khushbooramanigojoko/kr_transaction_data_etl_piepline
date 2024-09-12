@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nicholas Griffin",
+        "age": 90,
+        "gender": "male",
+        "address": "029 Moore Canyon, East James, MT 05765",
+        "phone": "001-383-647-8887x34587",
+        "email": "hgarcia@example.net",
+        "account": {
+            "account_number": "773b20ed-d2d9-45c3-9b4d-763540ae73ca",
+            "balance": 30392.39,
+            "transactions": [
+                {
+                    "date": "2023-07-22",
+                    "description": "Withdrawal",
+                    "amount": 36463.5,
+                    "transaction_id": 62572859
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Deposit",
+                    "amount": 2554.74,
+                    "transaction_id": 95191109
+                },
+                {
+                    "date": "2023-11-27",
+                    "description": "Interest",
+                    "amount": 16584.52,
+                    "transaction_id": 11867153
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Withdrawal",
+                    "amount": 34237.37,
+                    "transaction_id": 3687183
+                },
+                {
+                    "date": "2024-05-20",
+                    "description": "Interest",
+                    "amount": 13065.35,
+                    "transaction_id": 74287590
+                }
+            ]
+        }
+    }
+}

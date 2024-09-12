@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Bradley Robbins",
+        "age": 23,
+        "gender": "female",
+        "address": "1811 Rebekah Key, Lake Rick, AS 30629",
+        "phone": "834-225-1036x84080",
+        "email": "kimberly08@example.net",
+        "account": {
+            "account_number": "75b6e6e4-07d0-4db7-b3a5-561c06b0b30f",
+            "balance": 32423.72,
+            "transactions": [
+                {
+                    "date": "2024-07-16",
+                    "description": "Deposit",
+                    "amount": 34527.75,
+                    "transaction_id": 82393345
+                }
+            ]
+        }
+    }
+}

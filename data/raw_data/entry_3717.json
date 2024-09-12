@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jessica Lamb",
+        "age": 43,
+        "gender": "male",
+        "address": "PSC 8988, Box 0722, APO AE 69320",
+        "phone": "+1-252-215-8761x0792",
+        "email": "vasquezleah@example.net",
+        "account": {
+            "account_number": "32b6308c-7e0d-4018-8257-5ddc5be20f4a",
+            "balance": 9694.85,
+            "transactions": [
+                {
+                    "date": "2023-11-03",
+                    "description": "Deposit",
+                    "amount": 6699.68,
+                    "transaction_id": 64117140
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Deposit",
+                    "amount": 33423.82,
+                    "transaction_id": 68533021
+                },
+                {
+                    "date": "2023-12-10",
+                    "description": "Withdrawal",
+                    "amount": 33732.6,
+                    "transaction_id": 47602978
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Deposit",
+                    "amount": 28952.91,
+                    "transaction_id": 48979403
+                },
+                {
+                    "date": "2024-02-23",
+                    "description": "Interest",
+                    "amount": 11571.23,
+                    "transaction_id": 113942001
+                }
+            ]
+        }
+    }
+}

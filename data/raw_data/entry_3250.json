@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Martin Davis",
+        "age": 56,
+        "gender": "female",
+        "address": "2965 Lamb Forest, West Jamie, NV 60970",
+        "phone": "948.290.4461x9182",
+        "email": "kjones@example.com",
+        "account": {
+            "account_number": "20ae2dba-88b7-4e5b-a7b4-219cb769f6cd",
+            "balance": 25621.88,
+            "transactions": [
+                {
+                    "date": "2022-10-06",
+                    "description": "Interest",
+                    "amount": 35687.5,
+                    "transaction_id": 39187400
+                },
+                {
+                    "date": "2023-08-28",
+                    "description": "Deposit",
+                    "amount": 27848.59,
+                    "transaction_id": 115888927
+                },
+                {
+                    "date": "2024-04-07",
+                    "description": "Deposit",
+                    "amount": 15045.69,
+                    "transaction_id": 96743584
+                }
+            ]
+        }
+    }
+}

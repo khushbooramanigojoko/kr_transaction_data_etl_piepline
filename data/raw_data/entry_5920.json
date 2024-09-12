@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jeanne Wright",
+        "age": 40,
+        "gender": "male",
+        "address": "USNS Jacobs, FPO AE 18713",
+        "phone": "404.771.5928x306",
+        "email": "nathan53@example.com",
+        "account": {
+            "account_number": "dccc0441-d5b3-41e5-9031-f161f0414658",
+            "balance": 12233.02,
+            "transactions": [
+                {
+                    "date": "2022-10-10",
+                    "description": "Deposit",
+                    "amount": 20707.32,
+                    "transaction_id": 56097841
+                },
+                {
+                    "date": "2023-12-21",
+                    "description": "Deposit",
+                    "amount": 27695.16,
+                    "transaction_id": 14463817
+                },
+                {
+                    "date": "2024-07-29",
+                    "description": "Deposit",
+                    "amount": 16115.62,
+                    "transaction_id": 96127848
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Deposit",
+                    "amount": 35881.84,
+                    "transaction_id": 97241838
+                },
+                {
+                    "date": "2022-11-10",
+                    "description": "Deposit",
+                    "amount": 44760.74,
+                    "transaction_id": 28875663
+                }
+            ]
+        }
+    }
+}

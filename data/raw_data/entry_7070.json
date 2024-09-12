@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Robinson",
+        "age": 49,
+        "gender": "female",
+        "address": "03255 Gail Inlet, North Scott, ND 18298",
+        "phone": "+1-272-267-8439",
+        "email": "rileychad@example.net",
+        "account": {
+            "account_number": "8c89b211-d492-417f-a58c-1155dc3608c3",
+            "balance": 37373.37,
+            "transactions": [
+                {
+                    "date": "2022-11-03",
+                    "description": "Deposit",
+                    "amount": 40451.47,
+                    "transaction_id": 99942864
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Withdrawal",
+                    "amount": 34903.94,
+                    "transaction_id": 11323636
+                }
+            ]
+        }
+    }
+}

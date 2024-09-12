@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kayla Brown",
+        "age": 79,
+        "gender": "female",
+        "address": "PSC 5169, Box 0298, APO AA 80928",
+        "phone": "+1-324-491-1919x02034",
+        "email": "gordonrichard@example.net",
+        "account": {
+            "account_number": "1d8801d2-9d79-4935-a001-8aa39beb3d80",
+            "balance": 26918.93,
+            "transactions": [
+                {
+                    "date": "2022-10-30",
+                    "description": "Interest",
+                    "amount": 9541.58,
+                    "transaction_id": 64949590
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rebecca Dennis",
+        "age": 59,
+        "gender": "male",
+        "address": "70234 Daniel Passage Apt. 810, New Heidi, AZ 73162",
+        "phone": "387-900-4783",
+        "email": "vweaver@example.com",
+        "account": {
+            "account_number": "9b7c0750-6f96-4b80-a58e-700a1e71bf6c",
+            "balance": 25760.36,
+            "transactions": [
+                {
+                    "date": "2022-10-04",
+                    "description": "Deposit",
+                    "amount": 18655.84,
+                    "transaction_id": 24436423
+                }
+            ]
+        }
+    }
+}

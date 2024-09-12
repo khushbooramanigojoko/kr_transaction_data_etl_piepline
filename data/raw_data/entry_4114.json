@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dean Price",
+        "age": 41,
+        "gender": "female",
+        "address": "2547 James Plaza, Marcuston, NM 58731",
+        "phone": "001-372-338-0846x032",
+        "email": "ijones@example.net",
+        "account": {
+            "account_number": "2b164808-2deb-4cbb-8092-99cfba5cc6f5",
+            "balance": 14548.43,
+            "transactions": [
+                {
+                    "date": "2024-08-30",
+                    "description": "Interest",
+                    "amount": 28741.69,
+                    "transaction_id": 49598365
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Deposit",
+                    "amount": 23735.57,
+                    "transaction_id": 27896708
+                },
+                {
+                    "date": "2023-06-08",
+                    "description": "Interest",
+                    "amount": 20583.29,
+                    "transaction_id": 72854747
+                },
+                {
+                    "date": "2023-09-15",
+                    "description": "Withdrawal",
+                    "amount": 19563.29,
+                    "transaction_id": 42945914
+                }
+            ]
+        }
+    }
+}

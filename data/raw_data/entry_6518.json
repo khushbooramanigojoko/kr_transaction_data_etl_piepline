@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Thomas Day",
+        "age": 18,
+        "gender": "male",
+        "address": "7566 Allen Junction Suite 264, Brooksland, PA 75326",
+        "phone": "659.551.6233x08591",
+        "email": "warnersteven@example.net",
+        "account": {
+            "account_number": "c7a5d3d6-0e3e-441a-9acc-7292d469942e",
+            "balance": 46436.13,
+            "transactions": [
+                {
+                    "date": "2023-04-07",
+                    "description": "Withdrawal",
+                    "amount": 12143.29,
+                    "transaction_id": 12037622
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Deposit",
+                    "amount": 45862.81,
+                    "transaction_id": 31811359
+                },
+                {
+                    "date": "2024-05-26",
+                    "description": "Withdrawal",
+                    "amount": 35207.47,
+                    "transaction_id": 111653796
+                },
+                {
+                    "date": "2024-03-24",
+                    "description": "Withdrawal",
+                    "amount": 15950.74,
+                    "transaction_id": 15722373
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Deposit",
+                    "amount": 45678.07,
+                    "transaction_id": 110388266
+                }
+            ]
+        }
+    }
+}

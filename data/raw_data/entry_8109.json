@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Moreno",
+        "age": 54,
+        "gender": "female",
+        "address": "452 Smith Greens Suite 198, Lake Robertside, MN 64365",
+        "phone": "+1-994-294-7999x42253",
+        "email": "garmstrong@example.org",
+        "account": {
+            "account_number": "6fc5962e-c4d4-47cc-bb55-73f7a53b069e",
+            "balance": 13470.17,
+            "transactions": [
+                {
+                    "date": "2023-01-07",
+                    "description": "Interest",
+                    "amount": 36519.0,
+                    "transaction_id": 102733804
+                },
+                {
+                    "date": "2022-10-11",
+                    "description": "Interest",
+                    "amount": 20051.23,
+                    "transaction_id": 64550376
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Interest",
+                    "amount": 25182.53,
+                    "transaction_id": 104681663
+                },
+                {
+                    "date": "2023-11-03",
+                    "description": "Interest",
+                    "amount": 9647.87,
+                    "transaction_id": 109222833
+                }
+            ]
+        }
+    }
+}

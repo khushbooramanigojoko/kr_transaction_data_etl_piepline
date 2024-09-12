@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Anna Nguyen",
+        "age": 76,
+        "gender": "female",
+        "address": "31802 Amber Crest Suite 754, Brentmouth, MD 08089",
+        "phone": "322-795-0954",
+        "email": "leonarddonald@example.com",
+        "account": {
+            "account_number": "4e2dab45-a693-4e55-83d6-f8a73793072a",
+            "balance": -5988.43,
+            "transactions": [
+                {
+                    "date": "2023-02-26",
+                    "description": "Deposit",
+                    "amount": -3150.29,
+                    "transaction_id": 91765077
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Interest",
+                    "amount": -3071.08,
+                    "transaction_id": 37842630
+                }
+            ]
+        }
+    }
+}

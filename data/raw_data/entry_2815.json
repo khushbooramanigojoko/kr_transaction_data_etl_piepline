@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Larry Davis",
+        "age": 93,
+        "gender": "female",
+        "address": "94684 Johnson Rue, Montesberg, OK 03270",
+        "phone": "8184468932",
+        "email": "jenniferhernandez@example.com",
+        "account": {
+            "account_number": "7b3dd91c-25da-4efa-8b2c-5217313cafe0",
+            "balance": 6811.66,
+            "transactions": [
+                {
+                    "date": "2023-03-09",
+                    "description": "Withdrawal",
+                    "amount": 47953.1,
+                    "transaction_id": 69692707
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Interest",
+                    "amount": 17542.78,
+                    "transaction_id": 3041657
+                }
+            ]
+        }
+    }
+}

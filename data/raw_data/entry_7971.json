@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Stephanie Lewis",
+        "age": 27,
+        "gender": "male",
+        "address": "647 Taylor Overpass, Ericatown, UT 72629",
+        "phone": "216-307-6131x8761",
+        "email": "kathleen32@example.org",
+        "account": {
+            "account_number": "c09ec1d7-1a1d-4738-ad55-300cbba4b63f",
+            "balance": 33508.11,
+            "transactions": [
+                {
+                    "date": "2024-07-05",
+                    "description": "Deposit",
+                    "amount": 15563.03,
+                    "transaction_id": 88198982
+                },
+                {
+                    "date": "2024-01-23",
+                    "description": "Interest",
+                    "amount": 47006.59,
+                    "transaction_id": 19301584
+                }
+            ]
+        }
+    }
+}

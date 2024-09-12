@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Stephanie Murphy",
+        "age": 87,
+        "gender": "male",
+        "address": "316 Hailey Mountain, Ericaburgh, MO 67735",
+        "phone": "+1-232-532-6691x9544",
+        "email": "curtis75@example.net",
+        "account": {
+            "account_number": "a230391d-a6df-471c-9c0d-d1569ac84501",
+            "balance": 35767.55,
+            "transactions": [
+                {
+                    "date": "2024-01-08",
+                    "description": "Deposit",
+                    "amount": 31941.81,
+                    "transaction_id": 85029396
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Interest",
+                    "amount": 31868.08,
+                    "transaction_id": 35239994
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Withdrawal",
+                    "amount": 20443.3,
+                    "transaction_id": 109092332
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Deposit",
+                    "amount": 28396.66,
+                    "transaction_id": 98653824
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Interest",
+                    "amount": 26613.48,
+                    "transaction_id": 105328861
+                }
+            ]
+        }
+    }
+}

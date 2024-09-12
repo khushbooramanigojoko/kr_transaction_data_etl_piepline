@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Andrew Stanley",
+        "age": 58,
+        "gender": "male",
+        "address": "49553 Scott Plaza, New Shelbyport, ME 05699",
+        "phone": "001-857-473-7153x60689",
+        "email": "terrydeborah@example.org",
+        "account": {
+            "account_number": "98343c27-82ce-4d65-9a18-374855bbfbef",
+            "balance": 44128.81,
+            "transactions": [
+                {
+                    "date": "2022-11-30",
+                    "description": "Deposit",
+                    "amount": 3288.46,
+                    "transaction_id": 103796065
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Interest",
+                    "amount": 12893.87,
+                    "transaction_id": 84475665
+                },
+                {
+                    "date": "2023-08-03",
+                    "description": "Interest",
+                    "amount": 11238.29,
+                    "transaction_id": 88106390
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Interest",
+                    "amount": 2239.38,
+                    "transaction_id": 90671464
+                }
+            ]
+        }
+    }
+}

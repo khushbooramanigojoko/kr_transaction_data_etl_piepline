@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Stephanie Nelson",
+        "age": 70,
+        "gender": "male",
+        "address": "52924 Dustin Ramp, Deborahbury, IN 88359",
+        "phone": "001-955-640-6419",
+        "email": "ihicks@example.com",
+        "account": {
+            "account_number": "23e07cd5-d435-42d5-a163-decd68c127b4",
+            "balance": -39793.72,
+            "transactions": [
+                {
+                    "date": "2024-02-13",
+                    "description": "Interest",
+                    "amount": -962.18,
+                    "transaction_id": 99902366
+                },
+                {
+                    "date": "2023-04-09",
+                    "description": "Interest",
+                    "amount": -1222.47,
+                    "transaction_id": 13887180
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Withdrawal",
+                    "amount": 1659.31,
+                    "transaction_id": 60124918
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Deposit",
+                    "amount": -4677.47,
+                    "transaction_id": 101578666
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Interest",
+                    "amount": -250.44,
+                    "transaction_id": 93823388
+                }
+            ]
+        }
+    }
+}

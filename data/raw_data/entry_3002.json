@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tommy Downs",
+        "age": 57,
+        "gender": "female",
+        "address": "93721 Matthew Port Suite 226, East Sarah, PW 81474",
+        "phone": "(945)666-0454x999",
+        "email": "acostamargaret@example.com",
+        "account": {
+            "account_number": "c22537be-aeaa-47db-bdba-89f5ed072685",
+            "balance": 19846.65,
+            "transactions": [
+                {
+                    "date": "2024-04-07",
+                    "description": "Withdrawal",
+                    "amount": 6916.8,
+                    "transaction_id": 21732956
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Deposit",
+                    "amount": 45806.22,
+                    "transaction_id": 112575818
+                },
+                {
+                    "date": "2023-05-31",
+                    "description": "Interest",
+                    "amount": 25785.06,
+                    "transaction_id": 34772729
+                },
+                {
+                    "date": "2022-12-16",
+                    "description": "Interest",
+                    "amount": 48216.71,
+                    "transaction_id": 27735079
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Deposit",
+                    "amount": 37954.08,
+                    "transaction_id": 4703493
+                }
+            ]
+        }
+    }
+}

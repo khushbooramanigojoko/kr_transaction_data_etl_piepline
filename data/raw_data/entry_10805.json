@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Matthew Riley",
+        "age": 98,
+        "gender": "female",
+        "address": "2106 Cole Springs Suite 747, Gibsonville, SC 07074",
+        "phone": "253.928.1507",
+        "email": "joshua38@example.org",
+        "account": {
+            "account_number": "707d5571-3790-46d3-972e-67bb7317a2ae",
+            "balance": -5864.67,
+            "transactions": [
+                {
+                    "date": "2022-12-04",
+                    "description": "Deposit",
+                    "amount": 380.35,
+                    "transaction_id": 92994063
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Withdrawal",
+                    "amount": 4331.47,
+                    "transaction_id": 39494784
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Deposit",
+                    "amount": 1762.34,
+                    "transaction_id": 89669031
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Withdrawal",
+                    "amount": 1019.36,
+                    "transaction_id": 29785416
+                },
+                {
+                    "date": "2023-07-14",
+                    "description": "Withdrawal",
+                    "amount": -4109.89,
+                    "transaction_id": 117838239
+                }
+            ]
+        }
+    }
+}

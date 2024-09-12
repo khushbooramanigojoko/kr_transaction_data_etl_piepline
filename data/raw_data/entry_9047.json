@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Martha Smith",
+        "age": 55,
+        "gender": "male",
+        "address": "1108 Stephanie Mountains Suite 158, South Ashley, ND 46843",
+        "phone": "(219)685-5677",
+        "email": "derrickbell@example.org",
+        "account": {
+            "account_number": "419cda67-02c9-4366-b534-5195c9e79a5f",
+            "balance": -16324.16,
+            "transactions": [
+                {
+                    "date": "2024-02-10",
+                    "description": "Deposit",
+                    "amount": 1182.53,
+                    "transaction_id": 98284614
+                }
+            ]
+        }
+    }
+}

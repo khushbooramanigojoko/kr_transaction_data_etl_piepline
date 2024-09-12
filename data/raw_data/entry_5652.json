@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Eric Malone",
+        "age": 23,
+        "gender": "female",
+        "address": "USS Wallace, FPO AE 29054",
+        "phone": "001-401-209-1490x71848",
+        "email": "williamwhite@example.org",
+        "account": {
+            "account_number": "70def9a9-bc07-45d9-93fb-479689e6d14b",
+            "balance": 22638.84,
+            "transactions": [
+                {
+                    "date": "2023-09-23",
+                    "description": "Deposit",
+                    "amount": 43903.98,
+                    "transaction_id": 74449567
+                },
+                {
+                    "date": "2023-12-06",
+                    "description": "Deposit",
+                    "amount": 11214.74,
+                    "transaction_id": 64597741
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Withdrawal",
+                    "amount": 45758.7,
+                    "transaction_id": 54851479
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Interest",
+                    "amount": 14000.81,
+                    "transaction_id": 45179737
+                },
+                {
+                    "date": "2023-05-31",
+                    "description": "Interest",
+                    "amount": 47406.66,
+                    "transaction_id": 108332854
+                }
+            ]
+        }
+    }
+}

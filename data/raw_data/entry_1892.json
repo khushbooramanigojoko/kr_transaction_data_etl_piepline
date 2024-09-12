@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christopher Smith",
+        "age": 42,
+        "gender": "male",
+        "address": "2409 Janet Point Suite 415, Smithville, NY 45074",
+        "phone": "497-214-4250",
+        "email": "renee52@example.net",
+        "account": {
+            "account_number": "1f404b00-0725-4897-afb8-a0ca5dd0d7b9",
+            "balance": 17424.72,
+            "transactions": [
+                {
+                    "date": "2023-07-09",
+                    "description": "Withdrawal",
+                    "amount": 18701.04,
+                    "transaction_id": 60893910
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Interest",
+                    "amount": 23071.55,
+                    "transaction_id": 23127649
+                }
+            ]
+        }
+    }
+}

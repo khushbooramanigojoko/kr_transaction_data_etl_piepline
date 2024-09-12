@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Taylor Taylor",
+        "age": 19,
+        "gender": "female",
+        "address": "4713 Antonio Crossroad, Ryanborough, FM 14002",
+        "phone": "(902)835-8973",
+        "email": "leedavid@example.net",
+        "account": {
+            "account_number": "c5f03a10-3487-48b7-b893-9b78072aeccb",
+            "balance": 14262.78,
+            "transactions": [
+                {
+                    "date": "2023-02-13",
+                    "description": "Deposit",
+                    "amount": 1006.03,
+                    "transaction_id": 34151321
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Deposit",
+                    "amount": 43671.8,
+                    "transaction_id": 68370768
+                },
+                {
+                    "date": "2024-03-01",
+                    "description": "Deposit",
+                    "amount": 38228.38,
+                    "transaction_id": 41892137
+                }
+            ]
+        }
+    }
+}

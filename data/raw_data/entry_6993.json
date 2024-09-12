@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Toni Wallace",
+        "age": 79,
+        "gender": "male",
+        "address": "PSC 9148, Box 8491, APO AA 15282",
+        "phone": "356-253-4142x47738",
+        "email": "gmorris@example.net",
+        "account": {
+            "account_number": "46490d7b-9c89-45a1-a507-ef419be2f242",
+            "balance": 24802.24,
+            "transactions": [
+                {
+                    "date": "2023-06-06",
+                    "description": "Deposit",
+                    "amount": 46917.42,
+                    "transaction_id": 35778888
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Deposit",
+                    "amount": 43058.84,
+                    "transaction_id": 29545238
+                },
+                {
+                    "date": "2023-09-30",
+                    "description": "Withdrawal",
+                    "amount": 44493.86,
+                    "transaction_id": 25954299
+                },
+                {
+                    "date": "2023-09-14",
+                    "description": "Interest",
+                    "amount": 39184.41,
+                    "transaction_id": 30066694
+                },
+                {
+                    "date": "2023-04-20",
+                    "description": "Withdrawal",
+                    "amount": 19545.61,
+                    "transaction_id": 59412271
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nancy Johnson",
+        "age": 99,
+        "gender": "female",
+        "address": "6105 John View Apt. 890, North Joseph, MH 26129",
+        "phone": "(837)611-4183x85724",
+        "email": "btate@example.org",
+        "account": {
+            "account_number": "85d0b248-d362-4c09-b6fa-b20f44e6089b",
+            "balance": 37561.0,
+            "transactions": [
+                {
+                    "date": "2023-04-29",
+                    "description": "Withdrawal",
+                    "amount": 4123.49,
+                    "transaction_id": 74509449
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Interest",
+                    "amount": 1761.76,
+                    "transaction_id": 110975588
+                },
+                {
+                    "date": "2024-08-17",
+                    "description": "Interest",
+                    "amount": 43083.16,
+                    "transaction_id": 66594484
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Interest",
+                    "amount": 18896.47,
+                    "transaction_id": 64847312
+                }
+            ]
+        }
+    }
+}

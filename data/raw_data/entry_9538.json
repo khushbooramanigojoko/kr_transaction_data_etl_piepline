@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 58,
+        "gender": "female",
+        "address": "2285 Cody Throughway Apt. 634, Ramirezside, MH 25907",
+        "phone": "(737)502-7018x65788",
+        "email": "teresa30@example.org",
+        "account": {
+            "account_number": "c49a925f-eabc-490d-8fb2-9f5278c483b1",
+            "balance": 5442.38,
+            "transactions": [
+                {
+                    "date": "2023-07-18",
+                    "description": "Interest",
+                    "amount": -758.66,
+                    "transaction_id": 72476820
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Deposit",
+                    "amount": 823.74,
+                    "transaction_id": 41032048
+                }
+            ]
+        }
+    }
+}

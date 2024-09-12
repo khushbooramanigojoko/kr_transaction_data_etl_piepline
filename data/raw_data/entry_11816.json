@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 78,
+        "gender": "male",
+        "address": "24400 Nathan Village Suite 726, West Samanthabury, MT 54583",
+        "phone": "(270)334-9801x4905",
+        "email": "dixonjoshua@example.net",
+        "account": {
+            "account_number": "75cca7a3-c2a4-4b93-b3e7-3ce7ff463633",
+            "balance": 42308.05,
+            "transactions": [
+                {
+                    "date": "2023-07-17",
+                    "description": "Deposit",
+                    "amount": -1496.49,
+                    "transaction_id": 9166757
+                }
+            ]
+        }
+    }
+}

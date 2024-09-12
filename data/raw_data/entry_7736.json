@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dr. Tara Hicks",
+        "age": 58,
+        "gender": "female",
+        "address": "3980 Michelle Wall, East Juanberg, TX 80039",
+        "phone": "633.972.1417",
+        "email": "martinkristen@example.net",
+        "account": {
+            "account_number": "8a27f91a-f015-45fa-a332-8396520bc913",
+            "balance": 33999.61,
+            "transactions": [
+                {
+                    "date": "2023-10-02",
+                    "description": "Interest",
+                    "amount": 28544.52,
+                    "transaction_id": 92962576
+                },
+                {
+                    "date": "2023-03-24",
+                    "description": "Interest",
+                    "amount": 32314.8,
+                    "transaction_id": 109894260
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Deposit",
+                    "amount": 3622.6,
+                    "transaction_id": 29441331
+                },
+                {
+                    "date": "2024-03-10",
+                    "description": "Interest",
+                    "amount": 17930.7,
+                    "transaction_id": 60532967
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Withdrawal",
+                    "amount": 5842.69,
+                    "transaction_id": 50778130
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Carl Zavala",
+        "age": 79,
+        "gender": "male",
+        "address": "3915 Thomas Spurs, New Tina, WI 57214",
+        "phone": "001-271-864-0233x50722",
+        "email": "johncampbell@example.com",
+        "account": {
+            "account_number": "b01af673-3a75-4519-8524-a008cd963286",
+            "balance": 37079.39,
+            "transactions": [
+                {
+                    "date": "2023-02-25",
+                    "description": "Deposit",
+                    "amount": 15586.03,
+                    "transaction_id": 83196063
+                },
+                {
+                    "date": "2023-10-19",
+                    "description": "Deposit",
+                    "amount": 8760.28,
+                    "transaction_id": 52436946
+                },
+                {
+                    "date": "2022-11-14",
+                    "description": "Deposit",
+                    "amount": 21493.95,
+                    "transaction_id": 76664855
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Withdrawal",
+                    "amount": 22479.75,
+                    "transaction_id": 98757747
+                }
+            ]
+        }
+    }
+}

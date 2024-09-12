@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mary Reyes",
+        "age": 24,
+        "gender": "female",
+        "address": "412 Rogers Estates Apt. 096, Scottshire, WV 30011",
+        "phone": "501-747-0433",
+        "email": "alexandra09@example.org",
+        "account": {
+            "account_number": "46051a3d-6297-4501-b01c-25a00cf5719b",
+            "balance": 33933.28,
+            "transactions": [
+                {
+                    "date": "2024-08-26",
+                    "description": "Withdrawal",
+                    "amount": 46264.17,
+                    "transaction_id": 74995624
+                }
+            ]
+        }
+    }
+}

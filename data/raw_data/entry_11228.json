@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mr. Anthony Rocha",
+        "age": 89,
+        "gender": "female",
+        "address": "USNV Alvarado, FPO AA 62887",
+        "phone": "001-625-212-9649",
+        "email": "johnwalker@example.com",
+        "account": {
+            "account_number": "92a809af-db47-4930-b48f-bf3e0adb0d9b",
+            "balance": -26284.32,
+            "transactions": [
+                {
+                    "date": "2023-02-01",
+                    "description": "Withdrawal",
+                    "amount": -4042.33,
+                    "transaction_id": 15086401
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Deposit",
+                    "amount": -1318.39,
+                    "transaction_id": 33629001
+                },
+                {
+                    "date": "2024-08-08",
+                    "description": "Interest",
+                    "amount": -190.57,
+                    "transaction_id": 77990782
+                },
+                {
+                    "date": "2023-05-31",
+                    "description": "Withdrawal",
+                    "amount": -1065.89,
+                    "transaction_id": 70248669
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Deposit",
+                    "amount": 2517.71,
+                    "transaction_id": 99391136
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Cynthia Bryant",
+        "age": 20,
+        "gender": "female",
+        "address": "052 Andrew Ranch, North Amanda, ME 10383",
+        "phone": "572.303.1989x21421",
+        "email": "davilaemily@example.net",
+        "account": {
+            "account_number": "551c97b3-8f03-4ccc-b53d-905f503603c6",
+            "balance": 45559.62,
+            "transactions": [
+                {
+                    "date": "2024-08-26",
+                    "description": "Withdrawal",
+                    "amount": 46151.04,
+                    "transaction_id": 90093148
+                },
+                {
+                    "date": "2024-05-28",
+                    "description": "Withdrawal",
+                    "amount": 33111.71,
+                    "transaction_id": 22540379
+                }
+            ]
+        }
+    }
+}

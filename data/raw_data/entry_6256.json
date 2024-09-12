@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Leah Harrell",
+        "age": 34,
+        "gender": "female",
+        "address": "Unit 9128 Box 1497, DPO AA 57135",
+        "phone": "9665441997",
+        "email": "samuelsimpson@example.net",
+        "account": {
+            "account_number": "11dc1669-0480-48fa-82d4-231be13c827b",
+            "balance": 12233.35,
+            "transactions": [
+                {
+                    "date": "2023-12-19",
+                    "description": "Withdrawal",
+                    "amount": 18885.91,
+                    "transaction_id": 78859126
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Interest",
+                    "amount": 9893.72,
+                    "transaction_id": 78629097
+                },
+                {
+                    "date": "2023-09-10",
+                    "description": "Withdrawal",
+                    "amount": 4925.91,
+                    "transaction_id": 19149182
+                },
+                {
+                    "date": "2024-01-08",
+                    "description": "Interest",
+                    "amount": 11438.79,
+                    "transaction_id": 7911340
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": 41700.71,
+                    "transaction_id": 15028811
+                }
+            ]
+        }
+    }
+}

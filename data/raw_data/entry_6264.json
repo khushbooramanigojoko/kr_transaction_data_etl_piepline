@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Anthony Cohen",
+        "age": 18,
+        "gender": "male",
+        "address": "40443 Thompson Mountain, South Mitchell, PR 30055",
+        "phone": "771.251.9430",
+        "email": "samantha32@example.net",
+        "account": {
+            "account_number": "211590f2-0c7d-42ca-87fd-cc4fa53e652a",
+            "balance": 25426.52,
+            "transactions": [
+                {
+                    "date": "2023-09-23",
+                    "description": "Deposit",
+                    "amount": 14534.43,
+                    "transaction_id": 63269795
+                },
+                {
+                    "date": "2023-07-26",
+                    "description": "Deposit",
+                    "amount": 22771.65,
+                    "transaction_id": 5015033
+                },
+                {
+                    "date": "2024-08-17",
+                    "description": "Deposit",
+                    "amount": 35154.9,
+                    "transaction_id": 39199004
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Withdrawal",
+                    "amount": 23082.56,
+                    "transaction_id": 34006352
+                }
+            ]
+        }
+    }
+}

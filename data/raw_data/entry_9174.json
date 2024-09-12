@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Gregory Perry",
+        "age": 33,
+        "gender": "male",
+        "address": "59876 Clayton Bridge, Morganville, KY 44246",
+        "phone": "2665048855",
+        "email": "woodjulie@example.com",
+        "account": {
+            "account_number": "d4dbbf20-755f-46cd-88e3-d008276dc832",
+            "balance": -38134.59,
+            "transactions": [
+                {
+                    "date": "2024-06-25",
+                    "description": "Deposit",
+                    "amount": 3770.35,
+                    "transaction_id": 44538825
+                }
+            ]
+        }
+    }
+}

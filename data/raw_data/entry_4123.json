@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Paul Johnson",
+        "age": 49,
+        "gender": "male",
+        "address": "4416 Anna Brook Suite 541, North Jesse, NY 33719",
+        "phone": "917.358.7163",
+        "email": "brandonwalker@example.org",
+        "account": {
+            "account_number": "f4ac0ff4-c573-4c1e-bcca-56b573db11b6",
+            "balance": 13216.73,
+            "transactions": [
+                {
+                    "date": "2022-09-17",
+                    "description": "Deposit",
+                    "amount": 6222.0,
+                    "transaction_id": 45936355
+                },
+                {
+                    "date": "2024-03-22",
+                    "description": "Withdrawal",
+                    "amount": 25867.21,
+                    "transaction_id": 104668044
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Deposit",
+                    "amount": 7510.18,
+                    "transaction_id": 95754094
+                }
+            ]
+        }
+    }
+}

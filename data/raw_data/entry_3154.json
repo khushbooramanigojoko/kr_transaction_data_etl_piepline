@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Paul Jones",
+        "age": 53,
+        "gender": "male",
+        "address": "8899 Williams Radial, South Josetown, AL 89541",
+        "phone": "(493)793-5455x6440",
+        "email": "jamesjohnson@example.org",
+        "account": {
+            "account_number": "dfa61e3e-1a64-4282-ac89-cd6ce6a2c918",
+            "balance": 23820.11,
+            "transactions": [
+                {
+                    "date": "2023-04-12",
+                    "description": "Withdrawal",
+                    "amount": 20836.13,
+                    "transaction_id": 60175073
+                },
+                {
+                    "date": "2022-10-13",
+                    "description": "Interest",
+                    "amount": 26614.63,
+                    "transaction_id": 75545485
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Interest",
+                    "amount": 19375.14,
+                    "transaction_id": 86110710
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Interest",
+                    "amount": 45379.69,
+                    "transaction_id": 56979289
+                }
+            ]
+        }
+    }
+}

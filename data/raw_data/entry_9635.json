@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 59,
+        "gender": "female",
+        "address": "735 Carey Freeway Apt. 482, South Coreyborough, MO 79049",
+        "phone": "(836)260-5325x567",
+        "email": "djohnson@example.com",
+        "account": {
+            "account_number": "6f855e67-b99c-4a13-92b7-8c5ec5324217",
+            "balance": 8171.67,
+            "transactions": [
+                {
+                    "date": "2023-01-21",
+                    "description": "Withdrawal",
+                    "amount": -666.85,
+                    "transaction_id": 23180346
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Deposit",
+                    "amount": 1293.61,
+                    "transaction_id": 2175945
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Withdrawal",
+                    "amount": 2549.94,
+                    "transaction_id": 8879818
+                },
+                {
+                    "date": "2023-07-31",
+                    "description": "Deposit",
+                    "amount": 2087.54,
+                    "transaction_id": 33634682
+                }
+            ]
+        }
+    }
+}

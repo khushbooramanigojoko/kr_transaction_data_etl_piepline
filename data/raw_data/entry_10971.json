@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 53,
+        "gender": "male",
+        "address": "7053 Jerome Locks, Dariusshire, GA 91424",
+        "phone": "001-626-293-2767x8511",
+        "email": "scott72@example.com",
+        "account": {
+            "account_number": "44319f07-016e-4ef6-8714-99ed55af10f2",
+            "balance": 6222.59,
+            "transactions": [
+                {
+                    "date": "2024-01-21",
+                    "description": "Deposit",
+                    "amount": 4072.81,
+                    "transaction_id": 38559627
+                }
+            ]
+        }
+    }
+}

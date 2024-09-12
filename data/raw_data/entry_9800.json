@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joy Castaneda",
+        "age": 56,
+        "gender": "male",
+        "address": "6433 Combs Place, Port Aprilberg, AZ 81931",
+        "phone": "9693025844",
+        "email": "olong@example.net",
+        "account": {
+            "account_number": "de5b4d7f-c2b4-47d8-b927-5c9af35e6c0b",
+            "balance": -9466.69,
+            "transactions": [
+                {
+                    "date": "2024-05-17",
+                    "description": "Withdrawal",
+                    "amount": -3411.32,
+                    "transaction_id": 72020164
+                },
+                {
+                    "date": "2024-05-12",
+                    "description": "Deposit",
+                    "amount": 4838.27,
+                    "transaction_id": 101206723
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Interest",
+                    "amount": 2516.86,
+                    "transaction_id": 116769772
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Deposit",
+                    "amount": -417.65,
+                    "transaction_id": 77718697
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Interest",
+                    "amount": 1101.17,
+                    "transaction_id": 22227382
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ashley Howard",
+        "age": 25,
+        "gender": "female",
+        "address": "182 Paul Estate Apt. 448, Hutchinsonport, NC 83735",
+        "phone": "371.254.4864",
+        "email": "sandovaljeffery@example.org",
+        "account": {
+            "account_number": "f3dabd5c-f253-44f9-9a76-d3dd34a00467",
+            "balance": 7609.2,
+            "transactions": [
+                {
+                    "date": "2024-03-06",
+                    "description": "Withdrawal",
+                    "amount": 46698.29,
+                    "transaction_id": 7672379
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Interest",
+                    "amount": 49442.12,
+                    "transaction_id": 54774202
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Withdrawal",
+                    "amount": 49568.52,
+                    "transaction_id": 32759954
+                }
+            ]
+        }
+    }
+}

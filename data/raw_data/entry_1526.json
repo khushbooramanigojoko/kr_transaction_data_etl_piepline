@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Robin Douglas",
+        "age": 82,
+        "gender": "female",
+        "address": "50444 Kelley Summit Suite 489, North Jillianmouth, ID 85024",
+        "phone": "9214296423",
+        "email": "rkelley@example.com",
+        "account": {
+            "account_number": "73832750-fddd-4761-b686-485f06b7972c",
+            "balance": 19873.89,
+            "transactions": [
+                {
+                    "date": "2024-07-25",
+                    "description": "Withdrawal",
+                    "amount": 37729.94,
+                    "transaction_id": 41868077
+                },
+                {
+                    "date": "2024-03-23",
+                    "description": "Withdrawal",
+                    "amount": 25224.7,
+                    "transaction_id": 112437917
+                },
+                {
+                    "date": "2023-02-14",
+                    "description": "Interest",
+                    "amount": 43544.23,
+                    "transaction_id": 109283181
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Deposit",
+                    "amount": 33317.75,
+                    "transaction_id": 82222514
+                },
+                {
+                    "date": "2023-12-19",
+                    "description": "Interest",
+                    "amount": 4124.59,
+                    "transaction_id": 38142966
+                }
+            ]
+        }
+    }
+}

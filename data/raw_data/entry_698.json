@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Laura Myers",
+        "age": 90,
+        "gender": "female",
+        "address": "5151 Tanner Burgs Apt. 496, New Roberthaven, WV 22110",
+        "phone": "2905902219",
+        "email": "yhebert@example.com",
+        "account": {
+            "account_number": "3361118c-8fb1-42e6-9598-478606cb349f",
+            "balance": 34675.75,
+            "transactions": [
+                {
+                    "date": "2023-02-14",
+                    "description": "Withdrawal",
+                    "amount": 22477.18,
+                    "transaction_id": 114050644
+                }
+            ]
+        }
+    }
+}

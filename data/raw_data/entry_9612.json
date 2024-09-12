@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kendra Smith",
+        "age": 84,
+        "gender": "female",
+        "address": "14521 Alexander Street, New Joshuachester, MH 06518",
+        "phone": "+1-203-636-8242x082",
+        "email": "richardmaldonado@example.com",
+        "account": {
+            "account_number": "f9f425a4-6f71-4a48-beb6-4859d89bf7e9",
+            "balance": -13155.45,
+            "transactions": [
+                {
+                    "date": "2022-09-23",
+                    "description": "Deposit",
+                    "amount": 2118.25,
+                    "transaction_id": 1766923
+                },
+                {
+                    "date": "2024-03-12",
+                    "description": "Withdrawal",
+                    "amount": -4514.57,
+                    "transaction_id": 32369869
+                },
+                {
+                    "date": "2022-12-19",
+                    "description": "Interest",
+                    "amount": 1651.0,
+                    "transaction_id": 9109737
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Withdrawal",
+                    "amount": 3452.4,
+                    "transaction_id": 86815243
+                },
+                {
+                    "date": "2023-09-14",
+                    "description": "Deposit",
+                    "amount": 2195.76,
+                    "transaction_id": 93563926
+                }
+            ]
+        }
+    }
+}

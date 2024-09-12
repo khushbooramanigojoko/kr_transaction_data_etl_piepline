@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Thomas Phillips",
+        "age": 47,
+        "gender": "male",
+        "address": "2512 Devin Vista Apt. 648, South Seanshire, FL 92615",
+        "phone": "739-566-5475x71987",
+        "email": "wilsonjulia@example.org",
+        "account": {
+            "account_number": "a60cbc97-6a13-49a7-b93e-b3f307f83ce2",
+            "balance": 35000.15,
+            "transactions": [
+                {
+                    "date": "2024-06-23",
+                    "description": "Deposit",
+                    "amount": 9107.75,
+                    "transaction_id": 57284482
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Withdrawal",
+                    "amount": 19659.56,
+                    "transaction_id": 29302621
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Interest",
+                    "amount": 6403.28,
+                    "transaction_id": 111449424
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Interest",
+                    "amount": 4948.07,
+                    "transaction_id": 80598770
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Withdrawal",
+                    "amount": 2473.06,
+                    "transaction_id": 104699938
+                }
+            ]
+        }
+    }
+}

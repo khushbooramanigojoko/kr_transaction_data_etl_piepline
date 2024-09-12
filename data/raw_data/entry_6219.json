@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Vincent Andrade",
+        "age": 75,
+        "gender": "male",
+        "address": "49243 Andrea Throughway Suite 087, West David, WA 98852",
+        "phone": "+1-917-211-8042x2014",
+        "email": "john50@example.com",
+        "account": {
+            "account_number": "adb20c65-1c94-4d5f-9580-4f2470bdcefd",
+            "balance": 38908.57,
+            "transactions": [
+                {
+                    "date": "2023-12-27",
+                    "description": "Withdrawal",
+                    "amount": 13358.84,
+                    "transaction_id": 6948021
+                },
+                {
+                    "date": "2023-09-20",
+                    "description": "Deposit",
+                    "amount": 4036.63,
+                    "transaction_id": 26451080
+                },
+                {
+                    "date": "2023-09-01",
+                    "description": "Deposit",
+                    "amount": 5038.88,
+                    "transaction_id": 13085794
+                },
+                {
+                    "date": "2022-12-13",
+                    "description": "Deposit",
+                    "amount": 26719.62,
+                    "transaction_id": 49414635
+                }
+            ]
+        }
+    }
+}

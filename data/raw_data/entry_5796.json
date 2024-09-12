@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Erik Mcfarland",
+        "age": 97,
+        "gender": "female",
+        "address": "05463 Stephanie Plains, New Jessicaburgh, MA 35064",
+        "phone": "5034191205",
+        "email": "sophia86@example.org",
+        "account": {
+            "account_number": "fff32e59-98b4-46dd-9972-8c7b7e392d14",
+            "balance": 14071.81,
+            "transactions": [
+                {
+                    "date": "2024-01-16",
+                    "description": "Withdrawal",
+                    "amount": 4933.43,
+                    "transaction_id": 5648240
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Deposit",
+                    "amount": 14983.09,
+                    "transaction_id": 87326088
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Andrea Poole",
+        "age": 33,
+        "gender": "female",
+        "address": "427 Kevin Glens Apt. 177, Johnsonhaven, CO 69103",
+        "phone": "310-654-5305",
+        "email": "juliaodom@example.net",
+        "account": {
+            "account_number": "c18f4326-d353-450b-a67e-95e7ef4c49da",
+            "balance": 20434.73,
+            "transactions": [
+                {
+                    "date": "2022-10-24",
+                    "description": "Deposit",
+                    "amount": 31041.42,
+                    "transaction_id": 64784061
+                },
+                {
+                    "date": "2023-03-11",
+                    "description": "Deposit",
+                    "amount": 20446.44,
+                    "transaction_id": 30551118
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Deposit",
+                    "amount": 21469.83,
+                    "transaction_id": 102753954
+                }
+            ]
+        }
+    }
+}

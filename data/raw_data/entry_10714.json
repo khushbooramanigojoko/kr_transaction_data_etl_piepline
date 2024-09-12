@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Bradley Rowland",
+        "age": 69,
+        "gender": "female",
+        "address": "USCGC Santos, FPO AE 72000",
+        "phone": "+1-652-974-7825x522",
+        "email": "coopermichael@example.net",
+        "account": {
+            "account_number": "768bdcf2-d264-4c08-bf2e-f36e53d76bdd",
+            "balance": -32939.35,
+            "transactions": [
+                {
+                    "date": "2023-01-17",
+                    "description": "Deposit",
+                    "amount": 1235.68,
+                    "transaction_id": 109589736
+                }
+            ]
+        }
+    }
+}

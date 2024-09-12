@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Robin Wright",
+        "age": 68,
+        "gender": "male",
+        "address": "80600 Lauren Heights, Lawrenceborough, DE 60660",
+        "phone": "001-658-983-2563x47533",
+        "email": "justinsanders@example.com",
+        "account": {
+            "account_number": "8a4dfa93-9cdb-405b-8213-325ceffadf87",
+            "balance": -9062.64,
+            "transactions": [
+                {
+                    "date": "2024-01-10",
+                    "description": "Deposit",
+                    "amount": -3742.54,
+                    "transaction_id": 105816534
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Interest",
+                    "amount": -1037.79,
+                    "transaction_id": 110395903
+                }
+            ]
+        }
+    }
+}

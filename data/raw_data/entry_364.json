@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jean Davis",
+        "age": 67,
+        "gender": "female",
+        "address": "Unit 8745 Box 8905, DPO AP 23843",
+        "phone": "001-722-690-2194x342",
+        "email": "alexandraedwards@example.com",
+        "account": {
+            "account_number": "36cef003-cc93-40c8-b4e3-e00393216edc",
+            "balance": 19634.48,
+            "transactions": [
+                {
+                    "date": "2023-10-24",
+                    "description": "Deposit",
+                    "amount": 34467.9,
+                    "transaction_id": 108775854
+                },
+                {
+                    "date": "2023-02-05",
+                    "description": "Interest",
+                    "amount": 701.75,
+                    "transaction_id": 12005880
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Deposit",
+                    "amount": 17362.94,
+                    "transaction_id": 98327126
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kristina Morrison",
+        "age": 66,
+        "gender": "male",
+        "address": "4988 Hunter Brooks Apt. 132, Moyerton, OK 96760",
+        "phone": "210-509-9640",
+        "email": "xnoble@example.net",
+        "account": {
+            "account_number": "60f60bd1-5b5d-4622-9e2b-37858ea35894",
+            "balance": 29820.06,
+            "transactions": [
+                {
+                    "date": "2023-08-18",
+                    "description": "Withdrawal",
+                    "amount": 46019.5,
+                    "transaction_id": 77676952
+                },
+                {
+                    "date": "2023-12-30",
+                    "description": "Interest",
+                    "amount": 49031.8,
+                    "transaction_id": 25088926
+                },
+                {
+                    "date": "2022-11-23",
+                    "description": "Deposit",
+                    "amount": 17221.93,
+                    "transaction_id": 80377874
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Deposit",
+                    "amount": 25502.48,
+                    "transaction_id": 83193136
+                }
+            ]
+        }
+    }
+}

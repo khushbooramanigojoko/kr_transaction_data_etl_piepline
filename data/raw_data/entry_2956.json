@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Heather Palmer",
+        "age": 38,
+        "gender": "male",
+        "address": "961 Green Motorway, Pamelafurt, IA 69346",
+        "phone": "268-410-1558x09964",
+        "email": "ithomas@example.org",
+        "account": {
+            "account_number": "80e16754-9881-4f29-87d3-e84cd905c0cf",
+            "balance": 40072.28,
+            "transactions": [
+                {
+                    "date": "2024-08-26",
+                    "description": "Withdrawal",
+                    "amount": 18408.01,
+                    "transaction_id": 111836653
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Interest",
+                    "amount": 24433.38,
+                    "transaction_id": 45636169
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Deposit",
+                    "amount": 13534.92,
+                    "transaction_id": 89925050
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Withdrawal",
+                    "amount": 37666.28,
+                    "transaction_id": 87082427
+                }
+            ]
+        }
+    }
+}

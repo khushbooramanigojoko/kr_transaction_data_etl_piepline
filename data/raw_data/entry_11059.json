@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Dawn Rivera",
+        "age": 89,
+        "gender": "female",
+        "address": "9817 Whitaker Crossing, Wrightville, VA 58121",
+        "phone": "+1-300-740-5312x5688",
+        "email": "luis47@example.com",
+        "account": {
+            "account_number": "5dc846ec-3b50-4b46-ba8e-2de9e51d1adc",
+            "balance": -25050.85,
+            "transactions": [
+                {
+                    "date": "2023-01-05",
+                    "description": "Withdrawal",
+                    "amount": 3290.96,
+                    "transaction_id": 85956814
+                },
+                {
+                    "date": "2024-04-25",
+                    "description": "Interest",
+                    "amount": 921.69,
+                    "transaction_id": 12057580
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Withdrawal",
+                    "amount": -1864.99,
+                    "transaction_id": 113008403
+                }
+            ]
+        }
+    }
+}

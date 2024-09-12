@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "female",
+        "address": "17159 Lucas Circles, East Julieton, NV 13498",
+        "phone": "3777869447",
+        "email": "paul86@example.org",
+        "account": {
+            "account_number": "060f610a-40e3-4045-afe8-87a4a4dc3829",
+            "balance": 44406.51,
+            "transactions": [
+                {
+                    "date": "2022-12-05",
+                    "description": "Withdrawal",
+                    "amount": -4328.45,
+                    "transaction_id": 115301605
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Deposit",
+                    "amount": 4979.8,
+                    "transaction_id": 53375078
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Withdrawal",
+                    "amount": 4697.1,
+                    "transaction_id": 20976495
+                },
+                {
+                    "date": "2023-04-03",
+                    "description": "Interest",
+                    "amount": 3607.99,
+                    "transaction_id": 7185412
+                }
+            ]
+        }
+    }
+}

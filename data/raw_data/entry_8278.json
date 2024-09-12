@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Theresa Parrish",
+        "age": 18,
+        "gender": "female",
+        "address": "062 Thompson Hill, Browntown, MT 97589",
+        "phone": "(772)294-1274x930",
+        "email": "smithkimberly@example.com",
+        "account": {
+            "account_number": "f53d6bde-3a09-4988-ac5e-d795997074fc",
+            "balance": 37061.48,
+            "transactions": [
+                {
+                    "date": "2024-03-21",
+                    "description": "Deposit",
+                    "amount": 23922.7,
+                    "transaction_id": 108397252
+                },
+                {
+                    "date": "2024-08-14",
+                    "description": "Withdrawal",
+                    "amount": 14452.31,
+                    "transaction_id": 22444778
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Interest",
+                    "amount": 41882.21,
+                    "transaction_id": 36093179
+                }
+            ]
+        }
+    }
+}

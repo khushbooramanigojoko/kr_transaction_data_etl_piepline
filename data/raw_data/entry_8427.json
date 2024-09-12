@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dr. Billy Robinson",
+        "age": 49,
+        "gender": "female",
+        "address": "USNV Walters, FPO AA 08932",
+        "phone": "(379)979-2581x300",
+        "email": "wbradford@example.org",
+        "account": {
+            "account_number": "79393bc9-9d65-4042-b5b6-4a1e489cf1d6",
+            "balance": 38243.44,
+            "transactions": [
+                {
+                    "date": "2023-09-22",
+                    "description": "Interest",
+                    "amount": 33273.16,
+                    "transaction_id": 108817481
+                }
+            ]
+        }
+    }
+}

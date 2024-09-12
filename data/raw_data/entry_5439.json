@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Gallagher",
+        "age": 63,
+        "gender": "female",
+        "address": "8319 Brian Wells Suite 388, South Jadeland, SD 68012",
+        "phone": "608-564-3961x22235",
+        "email": "kellie39@example.org",
+        "account": {
+            "account_number": "f8af1449-15b4-481b-8c59-7a316bc3eac4",
+            "balance": 42595.75,
+            "transactions": [
+                {
+                    "date": "2023-09-30",
+                    "description": "Withdrawal",
+                    "amount": 18015.94,
+                    "transaction_id": 29994868
+                },
+                {
+                    "date": "2024-03-21",
+                    "description": "Interest",
+                    "amount": 4617.92,
+                    "transaction_id": 86601327
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Interest",
+                    "amount": 29628.97,
+                    "transaction_id": 9555443
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Withdrawal",
+                    "amount": 19563.05,
+                    "transaction_id": 21522042
+                }
+            ]
+        }
+    }
+}

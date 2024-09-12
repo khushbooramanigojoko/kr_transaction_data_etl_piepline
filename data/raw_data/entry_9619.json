@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 24,
+        "gender": "female",
+        "address": "39998 Miranda Stravenue Apt. 355, South Isabellamouth, KY 08030",
+        "phone": "001-902-778-6263",
+        "email": "castillokatherine@example.com",
+        "account": {
+            "account_number": "164afb6b-b880-4176-8893-a349bd969f84",
+            "balance": 10811.93,
+            "transactions": [
+                {
+                    "date": "2023-03-06",
+                    "description": "Withdrawal",
+                    "amount": -3226.67,
+                    "transaction_id": 83518038
+                }
+            ]
+        }
+    }
+}

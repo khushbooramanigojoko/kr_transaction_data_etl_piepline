@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 49,
+        "gender": "female",
+        "address": "375 Stephen Mews Apt. 101, Port Williamview, IA 92208",
+        "phone": "862-257-8995",
+        "email": "dustin13@example.org",
+        "account": {
+            "account_number": "ca1f28b5-37aa-45d8-ac5b-1d0d4e5b3a86",
+            "balance": 24426.91,
+            "transactions": [
+                {
+                    "date": "2023-05-25",
+                    "description": "Withdrawal",
+                    "amount": -4554.83,
+                    "transaction_id": 97323868
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Withdrawal",
+                    "amount": 3241.49,
+                    "transaction_id": 62939033
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Interest",
+                    "amount": -187.87,
+                    "transaction_id": 117191534
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Withdrawal",
+                    "amount": -2951.13,
+                    "transaction_id": 76894648
+                }
+            ]
+        }
+    }
+}

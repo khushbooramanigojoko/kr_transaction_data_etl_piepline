@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 64,
+        "gender": "male",
+        "address": "8062 Terri Parks Suite 443, Mcguirehaven, AK 37360",
+        "phone": "001-509-499-5663x76229",
+        "email": "obrewer@example.org",
+        "account": {
+            "account_number": "045b1ac9-1192-4092-9553-2718f59c2df4",
+            "balance": 3309.45,
+            "transactions": [
+                {
+                    "date": "2023-11-29",
+                    "description": "Withdrawal",
+                    "amount": -1811.73,
+                    "transaction_id": 2583625
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Deposit",
+                    "amount": -1228.59,
+                    "transaction_id": 108742325
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Withdrawal",
+                    "amount": -2818.8,
+                    "transaction_id": 56464749
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Interest",
+                    "amount": 2345.53,
+                    "transaction_id": 34738628
+                },
+                {
+                    "date": "2023-11-18",
+                    "description": "Interest",
+                    "amount": 3813.45,
+                    "transaction_id": 4254501
+                }
+            ]
+        }
+    }
+}

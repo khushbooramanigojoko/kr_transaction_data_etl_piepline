@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Eric Trujillo",
+        "age": 41,
+        "gender": "female",
+        "address": "Unit 5198 Box 4276, DPO AP 06977",
+        "phone": "+1-251-585-0781",
+        "email": "xreed@example.org",
+        "account": {
+            "account_number": "50f359fc-45a9-40c7-897a-fa93459725fd",
+            "balance": 46415.06,
+            "transactions": [
+                {
+                    "date": "2023-05-17",
+                    "description": "Interest",
+                    "amount": 12291.37,
+                    "transaction_id": 84930785
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Interest",
+                    "amount": 39461.29,
+                    "transaction_id": 106519454
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Interest",
+                    "amount": 34357.18,
+                    "transaction_id": 72656034
+                },
+                {
+                    "date": "2024-02-27",
+                    "description": "Interest",
+                    "amount": 11751.57,
+                    "transaction_id": 69738201
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Melissa Blake",
+        "age": 39,
+        "gender": "male",
+        "address": "2943 Freeman Isle Suite 663, Blackland, AK 34887",
+        "phone": "825-270-1820",
+        "email": "pburgess@example.org",
+        "account": {
+            "account_number": "bfb919a4-28f5-4878-8653-bcb37dc39a85",
+            "balance": -33489.26,
+            "transactions": [
+                {
+                    "date": "2023-09-28",
+                    "description": "Withdrawal",
+                    "amount": 3314.23,
+                    "transaction_id": 20274311
+                },
+                {
+                    "date": "2023-09-11",
+                    "description": "Deposit",
+                    "amount": -178.13,
+                    "transaction_id": 111061774
+                },
+                {
+                    "date": "2024-06-27",
+                    "description": "Interest",
+                    "amount": 4800.71,
+                    "transaction_id": 11918244
+                }
+            ]
+        }
+    }
+}

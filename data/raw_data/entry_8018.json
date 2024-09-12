@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "April Matthews",
+        "age": 82,
+        "gender": "female",
+        "address": "5611 Cory Views Suite 179, North Michellehaven, PR 52472",
+        "phone": "+1-501-751-6530",
+        "email": "aarondavis@example.net",
+        "account": {
+            "account_number": "40347ee4-37d5-4492-9996-1d72648a8490",
+            "balance": 33378.28,
+            "transactions": [
+                {
+                    "date": "2024-08-12",
+                    "description": "Deposit",
+                    "amount": 13764.48,
+                    "transaction_id": 100204962
+                },
+                {
+                    "date": "2024-08-24",
+                    "description": "Interest",
+                    "amount": 31134.73,
+                    "transaction_id": 3785077
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Withdrawal",
+                    "amount": 45118.99,
+                    "transaction_id": 68576980
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Deposit",
+                    "amount": 14271.61,
+                    "transaction_id": 112530716
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Withdrawal",
+                    "amount": 22774.32,
+                    "transaction_id": 83754662
+                }
+            ]
+        }
+    }
+}

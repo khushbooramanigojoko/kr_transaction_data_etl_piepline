@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mckenzie Baldwin",
+        "age": 68,
+        "gender": "female",
+        "address": "2831 Benjamin Plaza Apt. 566, West Johnnyhaven, AR 85429",
+        "phone": "(212)785-0748",
+        "email": "allenstephanie@example.net",
+        "account": {
+            "account_number": "10aea122-e578-4c48-b451-b2caf803fcc6",
+            "balance": 26118.49,
+            "transactions": [
+                {
+                    "date": "2023-03-28",
+                    "description": "Interest",
+                    "amount": 27059.59,
+                    "transaction_id": 104376053
+                },
+                {
+                    "date": "2024-07-03",
+                    "description": "Withdrawal",
+                    "amount": 31440.26,
+                    "transaction_id": 1686001
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Interest",
+                    "amount": 4142.1,
+                    "transaction_id": 113247451
+                }
+            ]
+        }
+    }
+}

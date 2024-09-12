@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Shawn Evans",
+        "age": 59,
+        "gender": "male",
+        "address": "779 Anderson Hollow Apt. 779, Lake Heidi, GA 24988",
+        "phone": "944.612.1746",
+        "email": "romeromichael@example.com",
+        "account": {
+            "account_number": "75bdbf14-3d57-4211-932a-cf060311c1eb",
+            "balance": 32210.22,
+            "transactions": [
+                {
+                    "date": "2024-04-20",
+                    "description": "Withdrawal",
+                    "amount": 3258.94,
+                    "transaction_id": 88685376
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Interest",
+                    "amount": 45642.58,
+                    "transaction_id": 45645859
+                }
+            ]
+        }
+    }
+}

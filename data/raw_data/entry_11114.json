@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 30,
+        "gender": "female",
+        "address": "860 Heather Trail, Port Jessicaville, KS 48656",
+        "phone": "407.942.1500",
+        "email": "mitchell35@example.org",
+        "account": {
+            "account_number": "fb5b2412-a275-4e5b-b718-8c548f0a1a4b",
+            "balance": 14687.43,
+            "transactions": [
+                {
+                    "date": "2024-01-22",
+                    "description": "Interest",
+                    "amount": 509.79,
+                    "transaction_id": 4695121
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Interest",
+                    "amount": 2597.97,
+                    "transaction_id": 107556828
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Withdrawal",
+                    "amount": -2911.05,
+                    "transaction_id": 90460228
+                },
+                {
+                    "date": "2023-11-16",
+                    "description": "Interest",
+                    "amount": -4014.82,
+                    "transaction_id": 20707259
+                }
+            ]
+        }
+    }
+}

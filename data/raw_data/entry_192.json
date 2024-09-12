@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Wanda Ross",
+        "age": 34,
+        "gender": "female",
+        "address": "4888 Gill Village Apt. 590, Colemouth, VI 45412",
+        "phone": "227.870.3663x06487",
+        "email": "wallacehaley@example.com",
+        "account": {
+            "account_number": "9a9a6cf9-7df1-42b4-8c1d-15b73610b566",
+            "balance": 10138.51,
+            "transactions": [
+                {
+                    "date": "2024-02-03",
+                    "description": "Withdrawal",
+                    "amount": 18213.78,
+                    "transaction_id": 94130355
+                },
+                {
+                    "date": "2022-11-19",
+                    "description": "Withdrawal",
+                    "amount": 49266.66,
+                    "transaction_id": 49751582
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Withdrawal",
+                    "amount": 3830.87,
+                    "transaction_id": 99640199
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Deposit",
+                    "amount": 29675.23,
+                    "transaction_id": 106809524
+                }
+            ]
+        }
+    }
+}

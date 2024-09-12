@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Scott Morgan",
+        "age": 84,
+        "gender": "male",
+        "address": "4379 Thomas Valley Apt. 049, Morrisonfort, IN 62669",
+        "phone": "7116245050",
+        "email": "harrisgeorge@example.org",
+        "account": {
+            "account_number": "821dc164-30ce-40a5-a120-123d680b40a8",
+            "balance": 27402.34,
+            "transactions": [
+                {
+                    "date": "2024-04-24",
+                    "description": "Deposit",
+                    "amount": 3413.54,
+                    "transaction_id": 99326443
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Deposit",
+                    "amount": 35531.82,
+                    "transaction_id": 34427755
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Deposit",
+                    "amount": 48950.65,
+                    "transaction_id": 81803467
+                },
+                {
+                    "date": "2023-07-20",
+                    "description": "Withdrawal",
+                    "amount": 47381.05,
+                    "transaction_id": 26261441
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Interest",
+                    "amount": 11442.78,
+                    "transaction_id": 63118185
+                }
+            ]
+        }
+    }
+}

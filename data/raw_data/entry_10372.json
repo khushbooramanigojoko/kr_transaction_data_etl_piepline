@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Danielle Mcdonald",
+        "age": 53,
+        "gender": "female",
+        "address": "49914 Ortega Drive Suite 259, South Vickie, MA 20298",
+        "phone": "(925)223-3021x034",
+        "email": "elizabethbentley@example.org",
+        "account": {
+            "account_number": "43c047e6-f66d-4aab-a24c-2714f3a1f640",
+            "balance": -35258.74,
+            "transactions": [
+                {
+                    "date": "2023-05-17",
+                    "description": "Withdrawal",
+                    "amount": -3755.07,
+                    "transaction_id": 94749207
+                },
+                {
+                    "date": "2024-03-28",
+                    "description": "Interest",
+                    "amount": -2701.79,
+                    "transaction_id": 3908581
+                },
+                {
+                    "date": "2023-11-28",
+                    "description": "Deposit",
+                    "amount": -2098.82,
+                    "transaction_id": 82315724
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Interest",
+                    "amount": -884.05,
+                    "transaction_id": 75754817
+                }
+            ]
+        }
+    }
+}

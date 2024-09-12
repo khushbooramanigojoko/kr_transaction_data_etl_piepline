@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Danielle Kelly",
+        "age": 25,
+        "gender": "female",
+        "address": "5162 Hernandez Way Suite 485, Port Derrickhaven, MO 35402",
+        "phone": "819.654.7182x137",
+        "email": "melissa83@example.org",
+        "account": {
+            "account_number": "69f421af-5368-43c6-972d-14e9cbf6b3d3",
+            "balance": 12387.78,
+            "transactions": [
+                {
+                    "date": "2024-02-05",
+                    "description": "Deposit",
+                    "amount": 13921.77,
+                    "transaction_id": 36026321
+                },
+                {
+                    "date": "2022-12-21",
+                    "description": "Deposit",
+                    "amount": 14084.66,
+                    "transaction_id": 83501128
+                },
+                {
+                    "date": "2023-04-22",
+                    "description": "Interest",
+                    "amount": 38447.44,
+                    "transaction_id": 110304066
+                }
+            ]
+        }
+    }
+}

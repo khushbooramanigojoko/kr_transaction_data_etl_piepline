@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 22,
+        "gender": "female",
+        "address": "2126 Lindsay Road, New Jessicahaven, VA 73385",
+        "phone": "210.218.0684x7322",
+        "email": "mahoneyrobert@example.com",
+        "account": {
+            "account_number": "76c6fcc4-ad99-4bf9-a41d-ca84acefd341",
+            "balance": 20722.85,
+            "transactions": [
+                {
+                    "date": "2024-08-02",
+                    "description": "Deposit",
+                    "amount": -1758.28,
+                    "transaction_id": 75410928
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Interest",
+                    "amount": -3825.87,
+                    "transaction_id": 55374916
+                }
+            ]
+        }
+    }
+}

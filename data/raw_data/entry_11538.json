@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jimmy Harvey",
+        "age": 74,
+        "gender": "male",
+        "address": "556 Wilson Ferry Suite 732, Lake Renee, OH 89993",
+        "phone": "(637)372-7775",
+        "email": "gfletcher@example.net",
+        "account": {
+            "account_number": "88dbf692-9ed0-4105-acb0-9ae30dd7218d",
+            "balance": -4958.29,
+            "transactions": [
+                {
+                    "date": "2023-07-31",
+                    "description": "Deposit",
+                    "amount": 1872.34,
+                    "transaction_id": 51497566
+                }
+            ]
+        }
+    }
+}

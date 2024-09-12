@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Davenport",
+        "age": 93,
+        "gender": "male",
+        "address": "67995 Cameron Streets Apt. 391, Sherrymouth, NV 12821",
+        "phone": "001-866-270-9495x617",
+        "email": "joejones@example.net",
+        "account": {
+            "account_number": "f58f0b18-aa5d-45b7-b6ee-11deee95cf3a",
+            "balance": 27108.71,
+            "transactions": [
+                {
+                    "date": "2023-12-01",
+                    "description": "Withdrawal",
+                    "amount": 6226.12,
+                    "transaction_id": 81860794
+                }
+            ]
+        }
+    }
+}

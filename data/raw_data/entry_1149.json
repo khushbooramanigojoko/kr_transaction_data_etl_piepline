@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mr. Matthew Henderson",
+        "age": 33,
+        "gender": "male",
+        "address": "53953 Nichols Highway Apt. 895, South Rebeccaborough, AK 41945",
+        "phone": "+1-881-238-1912",
+        "email": "jaime90@example.net",
+        "account": {
+            "account_number": "9d7359ed-48c2-4ca1-914e-db56988c639a",
+            "balance": 20900.54,
+            "transactions": [
+                {
+                    "date": "2023-01-21",
+                    "description": "Deposit",
+                    "amount": 6589.24,
+                    "transaction_id": 96688171
+                }
+            ]
+        }
+    }
+}

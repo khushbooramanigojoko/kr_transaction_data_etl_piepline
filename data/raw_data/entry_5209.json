@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Angela Nunez",
+        "age": 51,
+        "gender": "female",
+        "address": "4445 Keith Estates, New Amanda, ME 13989",
+        "phone": "001-920-734-1973x375",
+        "email": "jasonchapman@example.com",
+        "account": {
+            "account_number": "cc930651-b8f1-413e-ae21-11bc6b4ffcb6",
+            "balance": 43382.85,
+            "transactions": [
+                {
+                    "date": "2023-09-10",
+                    "description": "Interest",
+                    "amount": 6739.3,
+                    "transaction_id": 48825692
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Withdrawal",
+                    "amount": 7807.87,
+                    "transaction_id": 60535334
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sherry Graves",
+        "age": 87,
+        "gender": "male",
+        "address": "83388 Beverly Mount Suite 244, Laurenport, GA 23463",
+        "phone": "(439)839-1502",
+        "email": "gknapp@example.com",
+        "account": {
+            "account_number": "8c0ff18b-2b3c-4d19-9516-c08fb3aa9526",
+            "balance": -37567.36,
+            "transactions": [
+                {
+                    "date": "2023-07-16",
+                    "description": "Withdrawal",
+                    "amount": 1412.26,
+                    "transaction_id": 77015197
+                },
+                {
+                    "date": "2022-11-27",
+                    "description": "Withdrawal",
+                    "amount": -2070.45,
+                    "transaction_id": 27845748
+                },
+                {
+                    "date": "2024-02-10",
+                    "description": "Withdrawal",
+                    "amount": -2153.33,
+                    "transaction_id": 51575147
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Interest",
+                    "amount": -593.18,
+                    "transaction_id": 104094596
+                }
+            ]
+        }
+    }
+}

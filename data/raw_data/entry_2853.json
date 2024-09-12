@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Alexander Sims",
+        "age": 81,
+        "gender": "male",
+        "address": "4977 Richard Ranch, Johnsonborough, AS 09357",
+        "phone": "+1-771-250-3907",
+        "email": "kayla00@example.com",
+        "account": {
+            "account_number": "74b32f82-af10-4a9e-8554-3985f062b9dc",
+            "balance": 30677.36,
+            "transactions": [
+                {
+                    "date": "2023-08-06",
+                    "description": "Withdrawal",
+                    "amount": 31877.15,
+                    "transaction_id": 35813304
+                },
+                {
+                    "date": "2023-10-30",
+                    "description": "Withdrawal",
+                    "amount": 48262.72,
+                    "transaction_id": 69072656
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Interest",
+                    "amount": 17191.94,
+                    "transaction_id": 94441529
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Interest",
+                    "amount": 45374.03,
+                    "transaction_id": 89458822
+                },
+                {
+                    "date": "2023-09-09",
+                    "description": "Interest",
+                    "amount": 4411.65,
+                    "transaction_id": 107450732
+                }
+            ]
+        }
+    }
+}

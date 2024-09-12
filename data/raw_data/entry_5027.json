@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Stacey Padilla",
+        "age": 77,
+        "gender": "male",
+        "address": "664 Mitchell Neck Suite 978, East Michaelport, MS 55064",
+        "phone": "4198668616",
+        "email": "joannadiaz@example.org",
+        "account": {
+            "account_number": "46f1c6bf-9581-4b7b-9533-6e09ac1afaf5",
+            "balance": 34164.21,
+            "transactions": [
+                {
+                    "date": "2023-12-31",
+                    "description": "Interest",
+                    "amount": 40218.76,
+                    "transaction_id": 100271589
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Deposit",
+                    "amount": 11320.64,
+                    "transaction_id": 39303516
+                }
+            ]
+        }
+    }
+}

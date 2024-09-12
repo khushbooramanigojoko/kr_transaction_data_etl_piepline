@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michele Knight",
+        "age": 43,
+        "gender": "male",
+        "address": "61147 Charlotte Island, Briannaview, SC 93340",
+        "phone": "001-375-778-5327",
+        "email": "oromero@example.com",
+        "account": {
+            "account_number": "4caeefe1-d923-4d5f-8091-6a84b9311309",
+            "balance": 48259.32,
+            "transactions": [
+                {
+                    "date": "2024-04-25",
+                    "description": "Withdrawal",
+                    "amount": 46897.43,
+                    "transaction_id": 29439096
+                },
+                {
+                    "date": "2023-07-06",
+                    "description": "Withdrawal",
+                    "amount": 30646.08,
+                    "transaction_id": 1536111
+                }
+            ]
+        }
+    }
+}

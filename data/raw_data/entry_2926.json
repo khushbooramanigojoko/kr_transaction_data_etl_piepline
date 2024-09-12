@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Thomas Mejia",
+        "age": 50,
+        "gender": "female",
+        "address": "9000 Wu Glens Suite 403, Walkerstad, FL 84348",
+        "phone": "384.783.3168",
+        "email": "jgrant@example.com",
+        "account": {
+            "account_number": "baa62407-3858-4b75-85d2-ef3270954a3c",
+            "balance": 28303.96,
+            "transactions": [
+                {
+                    "date": "2024-06-19",
+                    "description": "Deposit",
+                    "amount": 9905.72,
+                    "transaction_id": 37399172
+                },
+                {
+                    "date": "2023-05-23",
+                    "description": "Interest",
+                    "amount": 19186.06,
+                    "transaction_id": 99040688
+                },
+                {
+                    "date": "2022-12-21",
+                    "description": "Interest",
+                    "amount": 49929.28,
+                    "transaction_id": 8250243
+                },
+                {
+                    "date": "2022-11-11",
+                    "description": "Withdrawal",
+                    "amount": 46507.3,
+                    "transaction_id": 14926136
+                }
+            ]
+        }
+    }
+}

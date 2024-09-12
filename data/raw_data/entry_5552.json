@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Madison Novak",
+        "age": 32,
+        "gender": "female",
+        "address": "15496 Christopher Prairie Apt. 355, East John, LA 40643",
+        "phone": "+1-404-678-9560",
+        "email": "levans@example.net",
+        "account": {
+            "account_number": "92ec89c1-5184-456b-bd76-3425f21fb5f3",
+            "balance": 6205.16,
+            "transactions": [
+                {
+                    "date": "2023-01-01",
+                    "description": "Deposit",
+                    "amount": 49730.79,
+                    "transaction_id": 85437801
+                }
+            ]
+        }
+    }
+}

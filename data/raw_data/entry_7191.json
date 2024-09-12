@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Billy Cook",
+        "age": 93,
+        "gender": "male",
+        "address": "499 Long Park, Christopherfurt, WI 24683",
+        "phone": "001-708-695-1751x490",
+        "email": "melissawilliams@example.com",
+        "account": {
+            "account_number": "13919cb7-c85b-4512-ae9c-0120c3fcce14",
+            "balance": 36011.21,
+            "transactions": [
+                {
+                    "date": "2024-04-24",
+                    "description": "Deposit",
+                    "amount": 49179.77,
+                    "transaction_id": 46150615
+                }
+            ]
+        }
+    }
+}

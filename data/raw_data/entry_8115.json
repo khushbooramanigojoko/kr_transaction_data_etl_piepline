@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Wayne Gross",
+        "age": 88,
+        "gender": "female",
+        "address": "49638 Jennifer Loaf Apt. 557, Knightchester, AL 96336",
+        "phone": "001-674-261-8369x902",
+        "email": "nparrish@example.net",
+        "account": {
+            "account_number": "a7c4772b-1ffc-408a-bc0f-28e2d935fcef",
+            "balance": 33226.45,
+            "transactions": [
+                {
+                    "date": "2024-06-03",
+                    "description": "Interest",
+                    "amount": 32001.28,
+                    "transaction_id": 35267268
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": 11025.95,
+                    "transaction_id": 75069569
+                }
+            ]
+        }
+    }
+}

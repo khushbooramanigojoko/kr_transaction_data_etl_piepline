@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Herbert Sutton",
+        "age": 90,
+        "gender": "female",
+        "address": "77930 Byrd Lake Suite 708, South Marcoland, ME 46792",
+        "phone": "5118211648",
+        "email": "deborahharris@example.net",
+        "account": {
+            "account_number": "f1e09c5e-b06f-4bf7-918a-423778520035",
+            "balance": 36591.7,
+            "transactions": [
+                {
+                    "date": "2024-07-26",
+                    "description": "Withdrawal",
+                    "amount": 21084.82,
+                    "transaction_id": 85343399
+                }
+            ]
+        }
+    }
+}

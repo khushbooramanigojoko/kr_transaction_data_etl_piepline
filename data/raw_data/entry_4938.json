@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Megan Willis",
+        "age": 80,
+        "gender": "female",
+        "address": "946 Charles Rapid Apt. 753, Rachelborough, OR 09420",
+        "phone": "255-305-3115x459",
+        "email": "stevenvasquez@example.net",
+        "account": {
+            "account_number": "a450dce5-5c89-4986-a34e-916d9ad09c06",
+            "balance": 42470.21,
+            "transactions": [
+                {
+                    "date": "2023-11-23",
+                    "description": "Withdrawal",
+                    "amount": 7112.92,
+                    "transaction_id": 92107491
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Interest",
+                    "amount": 24071.22,
+                    "transaction_id": 102186603
+                }
+            ]
+        }
+    }
+}

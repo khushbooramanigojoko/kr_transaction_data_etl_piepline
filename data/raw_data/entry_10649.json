@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mr. Douglas Hart",
+        "age": 38,
+        "gender": "female",
+        "address": "37327 Roberts Mews Suite 652, Stephenport, OR 38697",
+        "phone": "(513)747-5283",
+        "email": "dgraham@example.com",
+        "account": {
+            "account_number": "d619a9f2-3686-4a63-8a1e-caa53ec1b05f",
+            "balance": -29913.83,
+            "transactions": [
+                {
+                    "date": "2023-07-19",
+                    "description": "Deposit",
+                    "amount": -233.34,
+                    "transaction_id": 94386964
+                },
+                {
+                    "date": "2024-07-24",
+                    "description": "Deposit",
+                    "amount": -2457.29,
+                    "transaction_id": 106051064
+                },
+                {
+                    "date": "2023-06-03",
+                    "description": "Deposit",
+                    "amount": 2549.27,
+                    "transaction_id": 63682973
+                },
+                {
+                    "date": "2023-03-05",
+                    "description": "Deposit",
+                    "amount": 3552.07,
+                    "transaction_id": 118319232
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Nicole Edwards",
+        "age": 89,
+        "gender": "male",
+        "address": "6024 Jennifer Glen Suite 726, Yatesshire, UT 71779",
+        "phone": "(630)853-5604x308",
+        "email": "collinskevin@example.org",
+        "account": {
+            "account_number": "68735397-f527-4b5d-978b-1b64435e33be",
+            "balance": -5049.34,
+            "transactions": [
+                {
+                    "date": "2023-05-03",
+                    "description": "Interest",
+                    "amount": -4445.58,
+                    "transaction_id": 105400580
+                },
+                {
+                    "date": "2024-07-27",
+                    "description": "Deposit",
+                    "amount": 3982.84,
+                    "transaction_id": 7239339
+                },
+                {
+                    "date": "2023-04-18",
+                    "description": "Interest",
+                    "amount": -3334.71,
+                    "transaction_id": 25152563
+                }
+            ]
+        }
+    }
+}

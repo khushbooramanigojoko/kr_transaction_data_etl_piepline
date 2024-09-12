@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Alexander Rowe",
+        "age": 54,
+        "gender": "female",
+        "address": "3038 Anna Brook, Elizabethland, NC 33607",
+        "phone": "464.495.2637x528",
+        "email": "montgomerymichael@example.com",
+        "account": {
+            "account_number": "9239fdcf-315b-47e5-813a-c171d2fca350",
+            "balance": 20072.64,
+            "transactions": [
+                {
+                    "date": "2023-09-09",
+                    "description": "Withdrawal",
+                    "amount": 8372.49,
+                    "transaction_id": 51073205
+                },
+                {
+                    "date": "2023-12-08",
+                    "description": "Deposit",
+                    "amount": 34520.72,
+                    "transaction_id": 21472192
+                }
+            ]
+        }
+    }
+}

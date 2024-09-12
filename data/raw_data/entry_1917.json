@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Charles Campbell",
+        "age": 36,
+        "gender": "female",
+        "address": "51908 Monica Islands Apt. 751, Salinasside, SD 64114",
+        "phone": "(951)429-6806",
+        "email": "natasha35@example.org",
+        "account": {
+            "account_number": "a1f36046-211e-4d13-bad4-77438a677bf6",
+            "balance": 11102.86,
+            "transactions": [
+                {
+                    "date": "2023-10-16",
+                    "description": "Deposit",
+                    "amount": 28361.4,
+                    "transaction_id": 109616859
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Deposit",
+                    "amount": 29524.6,
+                    "transaction_id": 36356678
+                }
+            ]
+        }
+    }
+}

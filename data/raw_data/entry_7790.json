@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Wagner",
+        "age": 54,
+        "gender": "male",
+        "address": "1218 Joseph Alley Apt. 320, East Nicolestad, MN 61044",
+        "phone": "001-880-291-1206x8605",
+        "email": "michellemcintosh@example.org",
+        "account": {
+            "account_number": "a668e876-1693-407c-9b23-01f8a82cc86d",
+            "balance": 29130.29,
+            "transactions": [
+                {
+                    "date": "2024-08-20",
+                    "description": "Deposit",
+                    "amount": 40621.49,
+                    "transaction_id": 30046086
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Withdrawal",
+                    "amount": 48945.66,
+                    "transaction_id": 77280346
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Deposit",
+                    "amount": 18526.79,
+                    "transaction_id": 77153459
+                },
+                {
+                    "date": "2024-05-03",
+                    "description": "Withdrawal",
+                    "amount": 45525.05,
+                    "transaction_id": 27630113
+                }
+            ]
+        }
+    }
+}

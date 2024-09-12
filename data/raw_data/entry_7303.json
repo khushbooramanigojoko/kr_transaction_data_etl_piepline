@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lisa Brown",
+        "age": 21,
+        "gender": "male",
+        "address": "2173 Judy Squares, New Christian, AK 19342",
+        "phone": "294-787-4022x2011",
+        "email": "maryjenkins@example.org",
+        "account": {
+            "account_number": "39d8e384-d2d3-4f6b-a3e1-1d176400903a",
+            "balance": 27736.35,
+            "transactions": [
+                {
+                    "date": "2024-06-23",
+                    "description": "Interest",
+                    "amount": 4127.25,
+                    "transaction_id": 89868029
+                },
+                {
+                    "date": "2024-01-16",
+                    "description": "Interest",
+                    "amount": 37659.98,
+                    "transaction_id": 98296173
+                }
+            ]
+        }
+    }
+}

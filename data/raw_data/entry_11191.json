@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Melissa Davis",
+        "age": 35,
+        "gender": "female",
+        "address": "054 Sabrina Stravenue, New Josephberg, NJ 23436",
+        "phone": "(402)708-3119x73252",
+        "email": "thompsonbrenda@example.org",
+        "account": {
+            "account_number": "816d1e6f-28fc-47e5-9fa8-d4447cd90f6a",
+            "balance": -7716.53,
+            "transactions": [
+                {
+                    "date": "2023-08-04",
+                    "description": "Deposit",
+                    "amount": 4492.65,
+                    "transaction_id": 22800774
+                }
+            ]
+        }
+    }
+}

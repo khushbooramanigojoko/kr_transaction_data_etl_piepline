@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mrs. Emily Martin",
+        "age": 69,
+        "gender": "female",
+        "address": "PSC 3942, Box 1939, APO AP 70809",
+        "phone": "2205474217",
+        "email": "reynoldseric@example.net",
+        "account": {
+            "account_number": "fd18f266-d8b2-488d-b547-7eead3df0ba5",
+            "balance": 10225.94,
+            "transactions": [
+                {
+                    "date": "2023-07-02",
+                    "description": "Deposit",
+                    "amount": 36943.61,
+                    "transaction_id": 8382754
+                }
+            ]
+        }
+    }
+}

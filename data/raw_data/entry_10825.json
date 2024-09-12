@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jeff Lowe",
+        "age": 27,
+        "gender": "male",
+        "address": "591 Tran Islands, Elliottport, NM 99705",
+        "phone": "+1-661-217-6779x20937",
+        "email": "martinjeff@example.com",
+        "account": {
+            "account_number": "bf18dd72-0a00-4c4b-9b6e-856b185bce0c",
+            "balance": -45134.4,
+            "transactions": [
+                {
+                    "date": "2023-11-14",
+                    "description": "Deposit",
+                    "amount": -3540.27,
+                    "transaction_id": 69912076
+                }
+            ]
+        }
+    }
+}

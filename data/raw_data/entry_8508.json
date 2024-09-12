@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Rebekah Estrada",
+        "age": 99,
+        "gender": "female",
+        "address": "36541 Torres Skyway Suite 901, Alexanderchester, MP 65299",
+        "phone": "001-486-940-8419",
+        "email": "zhudson@example.net",
+        "account": {
+            "account_number": "377f5660-cf7a-46e2-93df-c7ee3cb0f4da",
+            "balance": 32608.89,
+            "transactions": [
+                {
+                    "date": "2024-06-04",
+                    "description": "Deposit",
+                    "amount": 31377.81,
+                    "transaction_id": 94961045
+                },
+                {
+                    "date": "2024-02-28",
+                    "description": "Interest",
+                    "amount": 48716.63,
+                    "transaction_id": 54898242
+                }
+            ]
+        }
+    }
+}

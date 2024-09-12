@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "male",
+        "address": "321 Fuller Fields, Reedton, LA 71841",
+        "phone": "001-504-883-9944x3407",
+        "email": "haleyjones@example.com",
+        "account": {
+            "account_number": "75bcfc7c-f7ef-490f-b7f6-0d53231e2961",
+            "balance": 18764.6,
+            "transactions": [
+                {
+                    "date": "2024-08-02",
+                    "description": "Withdrawal",
+                    "amount": 614.89,
+                    "transaction_id": 113221073
+                }
+            ]
+        }
+    }
+}

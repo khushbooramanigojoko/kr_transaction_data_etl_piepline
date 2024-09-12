@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Shannon Brown",
+        "age": 77,
+        "gender": "male",
+        "address": "85199 Little Field Suite 887, Port Karenchester, WY 17171",
+        "phone": "(751)297-5178x5490",
+        "email": "urojas@example.org",
+        "account": {
+            "account_number": "6a8f2988-9fe0-4fcb-8c3f-0b1dd063aa5f",
+            "balance": 35660.97,
+            "transactions": [
+                {
+                    "date": "2023-01-02",
+                    "description": "Interest",
+                    "amount": 11885.78,
+                    "transaction_id": 53568934
+                },
+                {
+                    "date": "2024-06-11",
+                    "description": "Withdrawal",
+                    "amount": 8793.24,
+                    "transaction_id": 50083897
+                },
+                {
+                    "date": "2024-01-23",
+                    "description": "Interest",
+                    "amount": 21616.24,
+                    "transaction_id": 41242782
+                }
+            ]
+        }
+    }
+}

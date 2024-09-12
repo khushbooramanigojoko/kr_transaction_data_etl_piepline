@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brooke Trevino",
+        "age": 82,
+        "gender": "female",
+        "address": "58926 Estrada Lakes Apt. 793, Lake Christinechester, UT 18649",
+        "phone": "440-367-5058",
+        "email": "markowen@example.net",
+        "account": {
+            "account_number": "08bd9f2f-82f2-44f3-a862-639d8f9949cb",
+            "balance": 23266.83,
+            "transactions": [
+                {
+                    "date": "2023-11-08",
+                    "description": "Interest",
+                    "amount": 43788.25,
+                    "transaction_id": 97894673
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Withdrawal",
+                    "amount": 47615.22,
+                    "transaction_id": 16829363
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Lori Perez",
+        "age": 72,
+        "gender": "male",
+        "address": "803 Michael Skyway, Lake Debraborough, DC 90618",
+        "phone": "5752108620",
+        "email": "jenningstracy@example.org",
+        "account": {
+            "account_number": "1433e3b4-49f0-42b2-8383-fee404f54d09",
+            "balance": 5902.64,
+            "transactions": [
+                {
+                    "date": "2024-08-04",
+                    "description": "Withdrawal",
+                    "amount": 35408.04,
+                    "transaction_id": 97291175
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Deposit",
+                    "amount": 32205.95,
+                    "transaction_id": 49070192
+                },
+                {
+                    "date": "2023-01-15",
+                    "description": "Deposit",
+                    "amount": 24890.01,
+                    "transaction_id": 14728428
+                }
+            ]
+        }
+    }
+}

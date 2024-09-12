@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kayla Turner",
+        "age": 71,
+        "gender": "male",
+        "address": "27899 Hunter Land Suite 409, Taylorburgh, MH 62126",
+        "phone": "001-711-343-6923x64816",
+        "email": "amy61@example.net",
+        "account": {
+            "account_number": "091f007a-4827-43ee-9594-44e7144f5e0e",
+            "balance": -41345.38,
+            "transactions": [
+                {
+                    "date": "2024-01-14",
+                    "description": "Withdrawal",
+                    "amount": -584.09,
+                    "transaction_id": 66336723
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Deposit",
+                    "amount": -3210.43,
+                    "transaction_id": 81554421
+                },
+                {
+                    "date": "2023-01-08",
+                    "description": "Interest",
+                    "amount": -182.27,
+                    "transaction_id": 39393890
+                },
+                {
+                    "date": "2022-12-13",
+                    "description": "Interest",
+                    "amount": 3565.61,
+                    "transaction_id": 23789144
+                }
+            ]
+        }
+    }
+}

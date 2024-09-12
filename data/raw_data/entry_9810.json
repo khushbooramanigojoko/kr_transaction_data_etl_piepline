@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 50,
+        "gender": "female",
+        "address": "PSC 5962, Box 4512, APO AE 78214",
+        "phone": "001-927-431-2605",
+        "email": "kathysparks@example.org",
+        "account": {
+            "account_number": "831a39c5-4b43-4b11-b6ed-de901fba1805",
+            "balance": 49812.8,
+            "transactions": [
+                {
+                    "date": "2024-05-28",
+                    "description": "Deposit",
+                    "amount": -2574.01,
+                    "transaction_id": 23972920
+                }
+            ]
+        }
+    }
+}

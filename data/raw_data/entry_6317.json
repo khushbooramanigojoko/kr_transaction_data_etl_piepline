@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joshua Gonzalez",
+        "age": 78,
+        "gender": "male",
+        "address": "70382 Heather Points, North Michaelfort, LA 60339",
+        "phone": "(657)939-0701x394",
+        "email": "anitabennett@example.org",
+        "account": {
+            "account_number": "ce957a7a-0cfa-4f67-afe5-8720aa5a4617",
+            "balance": 33983.49,
+            "transactions": [
+                {
+                    "date": "2024-04-30",
+                    "description": "Deposit",
+                    "amount": 31665.52,
+                    "transaction_id": 6910071
+                },
+                {
+                    "date": "2023-12-05",
+                    "description": "Withdrawal",
+                    "amount": 37989.49,
+                    "transaction_id": 6659910
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Interest",
+                    "amount": 28703.67,
+                    "transaction_id": 87486945
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Withdrawal",
+                    "amount": 8166.62,
+                    "transaction_id": 109871234
+                },
+                {
+                    "date": "2023-10-25",
+                    "description": "Deposit",
+                    "amount": 3328.23,
+                    "transaction_id": 6545326
+                }
+            ]
+        }
+    }
+}

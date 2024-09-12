@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 53,
+        "gender": "female",
+        "address": "136 Lee Isle, Katherineberg, VT 26259",
+        "phone": "(317)833-8497x30708",
+        "email": "danielle44@example.org",
+        "account": {
+            "account_number": "ba3deb14-e0b1-4c78-a1d4-607366663316",
+            "balance": 45920.28,
+            "transactions": [
+                {
+                    "date": "2022-11-25",
+                    "description": "Deposit",
+                    "amount": -2263.94,
+                    "transaction_id": 55217722
+                }
+            ]
+        }
+    }
+}

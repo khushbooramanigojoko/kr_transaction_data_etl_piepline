@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Chase Foster",
+        "age": 18,
+        "gender": "female",
+        "address": "56878 Laura Courts, New Cassandratown, MN 54590",
+        "phone": "+1-737-377-5619x791",
+        "email": "dixonanita@example.com",
+        "account": {
+            "account_number": "d57e7242-4db1-4313-b2f6-829966c6b893",
+            "balance": 11946.31,
+            "transactions": [
+                {
+                    "date": "2024-04-20",
+                    "description": "Deposit",
+                    "amount": 23381.43,
+                    "transaction_id": 27080660
+                },
+                {
+                    "date": "2023-08-30",
+                    "description": "Interest",
+                    "amount": 13220.34,
+                    "transaction_id": 116577026
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mr. Chad Hester",
+        "age": 72,
+        "gender": "female",
+        "address": "0708 Carla Isle, Leehaven, LA 07220",
+        "phone": "(846)602-1329x311",
+        "email": "laura40@example.net",
+        "account": {
+            "account_number": "f267426d-dc75-4dcd-96f2-72b66961d407",
+            "balance": 46005.16,
+            "transactions": [
+                {
+                    "date": "2023-06-13",
+                    "description": "Deposit",
+                    "amount": 39382.05,
+                    "transaction_id": 87364588
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Interest",
+                    "amount": 33554.57,
+                    "transaction_id": 70592708
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Withdrawal",
+                    "amount": 24053.18,
+                    "transaction_id": 96703066
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Interest",
+                    "amount": 18758.85,
+                    "transaction_id": 97313253
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Interest",
+                    "amount": 12219.9,
+                    "transaction_id": 89794519
+                }
+            ]
+        }
+    }
+}

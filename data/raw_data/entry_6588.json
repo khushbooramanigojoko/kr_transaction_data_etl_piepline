@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jennifer Chavez",
+        "age": 48,
+        "gender": "male",
+        "address": "Unit 4589 Box 2088, DPO AP 17523",
+        "phone": "+1-227-509-9627x982",
+        "email": "christopher80@example.org",
+        "account": {
+            "account_number": "dbc5b8a8-977a-475e-9990-57e82df5f76b",
+            "balance": 11061.67,
+            "transactions": [
+                {
+                    "date": "2023-12-03",
+                    "description": "Deposit",
+                    "amount": 5527.37,
+                    "transaction_id": 35800419
+                }
+            ]
+        }
+    }
+}

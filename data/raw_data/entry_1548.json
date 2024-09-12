@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Andrew Kelly",
+        "age": 23,
+        "gender": "female",
+        "address": "310 Shane Trace, East Amyport, NE 94487",
+        "phone": "001-984-688-6666x4498",
+        "email": "davidho@example.com",
+        "account": {
+            "account_number": "fbbdbabb-3a31-425c-af00-c21b0a7fbd6a",
+            "balance": 5445.07,
+            "transactions": [
+                {
+                    "date": "2023-09-03",
+                    "description": "Interest",
+                    "amount": 21847.32,
+                    "transaction_id": 27538447
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Withdrawal",
+                    "amount": 5838.49,
+                    "transaction_id": 79908176
+                }
+            ]
+        }
+    }
+}

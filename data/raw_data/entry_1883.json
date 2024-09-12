@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jose Johnson",
+        "age": 88,
+        "gender": "male",
+        "address": "Unit 2044 Box 6565, DPO AP 52868",
+        "phone": "(781)828-0232x230",
+        "email": "lindsay20@example.org",
+        "account": {
+            "account_number": "1d11e7f4-15d0-4f60-ba06-b3378212f73b",
+            "balance": 19584.84,
+            "transactions": [
+                {
+                    "date": "2023-02-21",
+                    "description": "Deposit",
+                    "amount": 27316.37,
+                    "transaction_id": 117688502
+                },
+                {
+                    "date": "2024-06-30",
+                    "description": "Deposit",
+                    "amount": 43427.99,
+                    "transaction_id": 41012303
+                }
+            ]
+        }
+    }
+}

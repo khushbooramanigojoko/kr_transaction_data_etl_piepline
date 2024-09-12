@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jeremy Mack",
+        "age": 70,
+        "gender": "male",
+        "address": "445 Robinson Crossroad, Matthewstad, MO 25038",
+        "phone": "485.306.5224x6284",
+        "email": "oschmidt@example.org",
+        "account": {
+            "account_number": "38875e6d-7c83-4323-8107-9e0c568b4a97",
+            "balance": 4950.24,
+            "transactions": [
+                {
+                    "date": "2023-11-17",
+                    "description": "Withdrawal",
+                    "amount": 29905.89,
+                    "transaction_id": 21698131
+                },
+                {
+                    "date": "2023-10-25",
+                    "description": "Interest",
+                    "amount": 46303.35,
+                    "transaction_id": 12541388
+                }
+            ]
+        }
+    }
+}

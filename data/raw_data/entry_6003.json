@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Eugene Kelly",
+        "age": 48,
+        "gender": "female",
+        "address": "12736 Randall Via, Timothytown, PR 57536",
+        "phone": "(582)579-3381x226",
+        "email": "ravenvance@example.org",
+        "account": {
+            "account_number": "ca4ec044-0c80-46bf-b338-980b28838541",
+            "balance": 49305.13,
+            "transactions": [
+                {
+                    "date": "2023-09-04",
+                    "description": "Deposit",
+                    "amount": 6389.28,
+                    "transaction_id": 72540642
+                },
+                {
+                    "date": "2022-11-14",
+                    "description": "Interest",
+                    "amount": 34015.43,
+                    "transaction_id": 29283529
+                },
+                {
+                    "date": "2024-06-29",
+                    "description": "Withdrawal",
+                    "amount": 3039.48,
+                    "transaction_id": 68109429
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Interest",
+                    "amount": 13560.89,
+                    "transaction_id": 42275117
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Deposit",
+                    "amount": 31690.82,
+                    "transaction_id": 42520030
+                }
+            ]
+        }
+    }
+}

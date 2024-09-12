@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michelle Garrett",
+        "age": 59,
+        "gender": "female",
+        "address": "922 John Road Suite 444, North Robert, MO 78618",
+        "phone": "(200)542-5247x0828",
+        "email": "morsenatalie@example.org",
+        "account": {
+            "account_number": "0b0cd81f-064e-4f3c-ac20-34312ade3379",
+            "balance": 10490.95,
+            "transactions": [
+                {
+                    "date": "2023-05-09",
+                    "description": "Interest",
+                    "amount": 25656.9,
+                    "transaction_id": 33893915
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Withdrawal",
+                    "amount": 31184.41,
+                    "transaction_id": 113677572
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Interest",
+                    "amount": 5544.9,
+                    "transaction_id": 40613798
+                },
+                {
+                    "date": "2024-01-19",
+                    "description": "Deposit",
+                    "amount": 30128.46,
+                    "transaction_id": 105180826
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Interest",
+                    "amount": 5671.67,
+                    "transaction_id": 114680286
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Victoria Thompson",
+        "age": 62,
+        "gender": "male",
+        "address": "799 Banks Port, East Brandon, GU 09515",
+        "phone": "+1-340-543-8997x733",
+        "email": "stephen72@example.net",
+        "account": {
+            "account_number": "10a6b990-317f-4838-9f74-aa486badc96c",
+            "balance": 47340.52,
+            "transactions": [
+                {
+                    "date": "2023-09-02",
+                    "description": "Withdrawal",
+                    "amount": 14916.65,
+                    "transaction_id": 113683927
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Withdrawal",
+                    "amount": 30440.45,
+                    "transaction_id": 6802777
+                },
+                {
+                    "date": "2023-02-18",
+                    "description": "Deposit",
+                    "amount": 35975.17,
+                    "transaction_id": 8234940
+                },
+                {
+                    "date": "2023-01-22",
+                    "description": "Withdrawal",
+                    "amount": 47916.13,
+                    "transaction_id": 33613447
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Withdrawal",
+                    "amount": 16478.65,
+                    "transaction_id": 10908254
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ryan Frederick",
+        "age": 79,
+        "gender": "male",
+        "address": "583 Silva Ramp, Rossfort, CA 18878",
+        "phone": "+1-345-972-2233",
+        "email": "amykelly@example.net",
+        "account": {
+            "account_number": "570788cd-e541-480b-9539-5c682bcb0d46",
+            "balance": 16851.26,
+            "transactions": [
+                {
+                    "date": "2022-09-14",
+                    "description": "Deposit",
+                    "amount": 39226.72,
+                    "transaction_id": 17726651
+                },
+                {
+                    "date": "2022-11-08",
+                    "description": "Deposit",
+                    "amount": 35576.69,
+                    "transaction_id": 72913998
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Deposit",
+                    "amount": 23565.99,
+                    "transaction_id": 21642091
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Carey",
+        "age": 50,
+        "gender": "male",
+        "address": "86499 John Extensions Apt. 988, Scottmouth, MI 15477",
+        "phone": "+1-931-500-9292x10320",
+        "email": "michelle31@example.org",
+        "account": {
+            "account_number": "9a03ef97-f2f9-4cda-a3ce-b9823a2300ba",
+            "balance": 30997.04,
+            "transactions": [
+                {
+                    "date": "2023-07-17",
+                    "description": "Deposit",
+                    "amount": 26068.07,
+                    "transaction_id": 41457575
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Deposit",
+                    "amount": 24075.68,
+                    "transaction_id": 20676534
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Interest",
+                    "amount": 24734.39,
+                    "transaction_id": 12094309
+                }
+            ]
+        }
+    }
+}

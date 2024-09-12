@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "William Hansen",
+        "age": 97,
+        "gender": "male",
+        "address": "834 Harris Vista Apt. 819, North Amyburgh, SC 60792",
+        "phone": "(368)700-3984x1494",
+        "email": "linda96@example.com",
+        "account": {
+            "account_number": "6d1196ed-84ae-43e5-8f0c-96a612dfa89a",
+            "balance": -46138.52,
+            "transactions": [
+                {
+                    "date": "2023-04-29",
+                    "description": "Deposit",
+                    "amount": -3822.56,
+                    "transaction_id": 34104469
+                },
+                {
+                    "date": "2024-06-01",
+                    "description": "Deposit",
+                    "amount": -3133.14,
+                    "transaction_id": 45427763
+                }
+            ]
+        }
+    }
+}

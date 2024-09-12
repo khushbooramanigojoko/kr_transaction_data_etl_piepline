@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jeanette Maxwell",
+        "age": 30,
+        "gender": "male",
+        "address": "41502 Kenneth Creek, New Lindseytown, AL 96064",
+        "phone": "629.700.4856",
+        "email": "foxzachary@example.com",
+        "account": {
+            "account_number": "7427be46-c760-41e6-bc30-e159b7030108",
+            "balance": 24907.82,
+            "transactions": [
+                {
+                    "date": "2023-09-14",
+                    "description": "Deposit",
+                    "amount": 6317.97,
+                    "transaction_id": 55824885
+                },
+                {
+                    "date": "2022-11-08",
+                    "description": "Interest",
+                    "amount": 11798.77,
+                    "transaction_id": 6993350
+                },
+                {
+                    "date": "2023-04-18",
+                    "description": "Withdrawal",
+                    "amount": 17950.86,
+                    "transaction_id": 89550203
+                }
+            ]
+        }
+    }
+}

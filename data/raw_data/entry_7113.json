@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Samuel Santos",
+        "age": 58,
+        "gender": "male",
+        "address": "869 Hamilton Street, Lewisland, TX 45153",
+        "phone": "001-436-583-0578x8261",
+        "email": "jessica09@example.net",
+        "account": {
+            "account_number": "3324cc72-b052-40dc-90db-7f8822ae3960",
+            "balance": 26943.21,
+            "transactions": [
+                {
+                    "date": "2024-06-19",
+                    "description": "Interest",
+                    "amount": 6630.92,
+                    "transaction_id": 85827279
+                },
+                {
+                    "date": "2023-11-07",
+                    "description": "Interest",
+                    "amount": 13414.54,
+                    "transaction_id": 75907323
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Deposit",
+                    "amount": 1595.44,
+                    "transaction_id": 82578060
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Interest",
+                    "amount": 14677.79,
+                    "transaction_id": 104329445
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Deposit",
+                    "amount": 6637.68,
+                    "transaction_id": 73588815
+                }
+            ]
+        }
+    }
+}

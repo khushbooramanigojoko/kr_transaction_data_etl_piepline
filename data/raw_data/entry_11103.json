@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Spencer Reid",
+        "age": 45,
+        "gender": "female",
+        "address": "313 Aaron Fords, Monicatown, ID 79834",
+        "phone": "(863)927-8501x518",
+        "email": "corythornton@example.net",
+        "account": {
+            "account_number": "7edd9497-fe5a-4278-b084-8962fb0a2609",
+            "balance": -10699.12,
+            "transactions": [
+                {
+                    "date": "2022-12-11",
+                    "description": "Deposit",
+                    "amount": 4987.25,
+                    "transaction_id": 38308279
+                },
+                {
+                    "date": "2024-01-19",
+                    "description": "Withdrawal",
+                    "amount": -4970.88,
+                    "transaction_id": 25199498
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Interest",
+                    "amount": 552.76,
+                    "transaction_id": 38483012
+                },
+                {
+                    "date": "2022-12-25",
+                    "description": "Interest",
+                    "amount": -1426.84,
+                    "transaction_id": 103621442
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Deposit",
+                    "amount": -2057.66,
+                    "transaction_id": 86037182
+                }
+            ]
+        }
+    }
+}

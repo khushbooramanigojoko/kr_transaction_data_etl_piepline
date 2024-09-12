@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 63,
+        "gender": "female",
+        "address": "036 Timothy Gateway, Lake Brendahaven, MO 74922",
+        "phone": "(572)307-2459x64564",
+        "email": "jennifer76@example.org",
+        "account": {
+            "account_number": "7aec212c-ef62-4606-91ef-aecd82a909dd",
+            "balance": 28153.66,
+            "transactions": [
+                {
+                    "date": "2024-08-01",
+                    "description": "Withdrawal",
+                    "amount": 4204.7,
+                    "transaction_id": 48974949
+                }
+            ]
+        }
+    }
+}

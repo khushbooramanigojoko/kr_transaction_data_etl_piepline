@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Charles Wall",
+        "age": 39,
+        "gender": "male",
+        "address": "196 Riddle Cliffs Apt. 971, East Jordanshire, MP 89468",
+        "phone": "309.913.6270",
+        "email": "richard37@example.com",
+        "account": {
+            "account_number": "5ebe70c7-63e3-49eb-822a-6b7fa02fdc55",
+            "balance": -15685.79,
+            "transactions": [
+                {
+                    "date": "2024-07-27",
+                    "description": "Deposit",
+                    "amount": -1789.42,
+                    "transaction_id": 104516798
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Interest",
+                    "amount": -4679.11,
+                    "transaction_id": 21234196
+                }
+            ]
+        }
+    }
+}

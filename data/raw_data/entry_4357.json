@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Caitlin Fields",
+        "age": 72,
+        "gender": "female",
+        "address": "850 Cooper Lodge Suite 205, North Royport, KY 50566",
+        "phone": "383.330.1480x90643",
+        "email": "wlittle@example.org",
+        "account": {
+            "account_number": "59f746ce-5943-466c-9e94-19e5c1a14e13",
+            "balance": 9673.21,
+            "transactions": [
+                {
+                    "date": "2023-01-28",
+                    "description": "Withdrawal",
+                    "amount": 24965.32,
+                    "transaction_id": 90684932
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Interest",
+                    "amount": 24941.58,
+                    "transaction_id": 66109602
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Monica Andrews",
+        "age": 67,
+        "gender": "male",
+        "address": "79717 Reynolds Way, East Rebecca, OK 70558",
+        "phone": "488.379.9533x49151",
+        "email": "matthewwashington@example.org",
+        "account": {
+            "account_number": "0e2453f7-f533-4a99-b44f-f73e86b486d5",
+            "balance": -25020.68,
+            "transactions": [
+                {
+                    "date": "2023-11-28",
+                    "description": "Deposit",
+                    "amount": 1893.25,
+                    "transaction_id": 5059960
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Deposit",
+                    "amount": -2015.38,
+                    "transaction_id": 73917216
+                },
+                {
+                    "date": "2023-02-21",
+                    "description": "Deposit",
+                    "amount": 680.51,
+                    "transaction_id": 26844979
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Interest",
+                    "amount": 229.72,
+                    "transaction_id": 58634106
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Interest",
+                    "amount": -2839.26,
+                    "transaction_id": 116353297
+                }
+            ]
+        }
+    }
+}

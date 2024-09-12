@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sherry Thomas",
+        "age": 85,
+        "gender": "male",
+        "address": "5343 Cynthia Stream, Phillipburgh, TX 31560",
+        "phone": "(656)205-7811x981",
+        "email": "katherine28@example.net",
+        "account": {
+            "account_number": "af50912c-ccd2-4672-a297-8e0a62d3a542",
+            "balance": 2926.54,
+            "transactions": [
+                {
+                    "date": "2023-06-26",
+                    "description": "Deposit",
+                    "amount": 33652.58,
+                    "transaction_id": 107774666
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Withdrawal",
+                    "amount": 20308.4,
+                    "transaction_id": 94572917
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": 45253.65,
+                    "transaction_id": 73854902
+                },
+                {
+                    "date": "2023-07-14",
+                    "description": "Deposit",
+                    "amount": 48996.24,
+                    "transaction_id": 52099687
+                }
+            ]
+        }
+    }
+}

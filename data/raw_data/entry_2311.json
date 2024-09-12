@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Hannah Johnson",
+        "age": 83,
+        "gender": "female",
+        "address": "8986 Chase Land Apt. 519, West Jason, CO 92313",
+        "phone": "(367)519-6006x5305",
+        "email": "lambertchristopher@example.org",
+        "account": {
+            "account_number": "978b57a5-652a-46c8-9565-a09797f53b86",
+            "balance": 16695.82,
+            "transactions": [
+                {
+                    "date": "2022-10-26",
+                    "description": "Interest",
+                    "amount": 42571.17,
+                    "transaction_id": 96287702
+                },
+                {
+                    "date": "2023-11-03",
+                    "description": "Deposit",
+                    "amount": 21492.44,
+                    "transaction_id": 19012888
+                }
+            ]
+        }
+    }
+}

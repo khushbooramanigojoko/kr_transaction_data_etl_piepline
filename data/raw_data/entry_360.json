@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nathan Ward",
+        "age": 60,
+        "gender": "female",
+        "address": "8725 Clay Tunnel Suite 579, Christophermouth, OR 54984",
+        "phone": "400.497.0425x899",
+        "email": "charles02@example.org",
+        "account": {
+            "account_number": "0b7fd244-132d-445c-916e-991c97685cc9",
+            "balance": 2080.45,
+            "transactions": [
+                {
+                    "date": "2023-07-29",
+                    "description": "Deposit",
+                    "amount": 24650.9,
+                    "transaction_id": 52817501
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Interest",
+                    "amount": 16310.78,
+                    "transaction_id": 9806605
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Deposit",
+                    "amount": 4908.85,
+                    "transaction_id": 95115720
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Withdrawal",
+                    "amount": 14844.25,
+                    "transaction_id": 101489598
+                }
+            ]
+        }
+    }
+}

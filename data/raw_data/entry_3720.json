@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Marcus Jones",
+        "age": 22,
+        "gender": "female",
+        "address": "0129 Mckay Fall Suite 277, Alvarezland, MI 76983",
+        "phone": "+1-891-672-9749x588",
+        "email": "karen84@example.org",
+        "account": {
+            "account_number": "e1d6eb64-ea0e-408f-9239-44dd6678e8a9",
+            "balance": 38359.18,
+            "transactions": [
+                {
+                    "date": "2024-01-31",
+                    "description": "Deposit",
+                    "amount": 45885.23,
+                    "transaction_id": 33710372
+                },
+                {
+                    "date": "2023-12-11",
+                    "description": "Deposit",
+                    "amount": 42650.34,
+                    "transaction_id": 3631992
+                },
+                {
+                    "date": "2023-08-18",
+                    "description": "Withdrawal",
+                    "amount": 36339.02,
+                    "transaction_id": 114916131
+                }
+            ]
+        }
+    }
+}

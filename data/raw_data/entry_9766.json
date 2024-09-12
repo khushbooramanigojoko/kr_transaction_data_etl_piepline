@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Frank Phillips",
+        "age": 20,
+        "gender": "male",
+        "address": "128 Cruz Port, Laurafurt, NV 81157",
+        "phone": "+1-997-506-8617",
+        "email": "ymccarty@example.com",
+        "account": {
+            "account_number": "9629c272-9a8b-4356-9050-9a0ef070d98c",
+            "balance": -46972.42,
+            "transactions": [
+                {
+                    "date": "2023-10-28",
+                    "description": "Withdrawal",
+                    "amount": 1699.04,
+                    "transaction_id": 59480399
+                },
+                {
+                    "date": "2023-01-14",
+                    "description": "Withdrawal",
+                    "amount": 4913.52,
+                    "transaction_id": 115051564
+                },
+                {
+                    "date": "2024-03-31",
+                    "description": "Deposit",
+                    "amount": 2688.82,
+                    "transaction_id": 87371141
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Withdrawal",
+                    "amount": 4794.78,
+                    "transaction_id": 71725454
+                }
+            ]
+        }
+    }
+}

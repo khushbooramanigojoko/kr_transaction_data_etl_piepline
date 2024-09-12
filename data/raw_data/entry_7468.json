@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Gill",
+        "age": 60,
+        "gender": "female",
+        "address": "960 Tiffany Brooks Suite 419, North Paula, SD 23255",
+        "phone": "(757)888-0814x08782",
+        "email": "randy80@example.com",
+        "account": {
+            "account_number": "46092448-c6fa-4618-b3d2-7e940eac8aa6",
+            "balance": 23719.19,
+            "transactions": [
+                {
+                    "date": "2023-02-12",
+                    "description": "Interest",
+                    "amount": 21215.07,
+                    "transaction_id": 92394687
+                },
+                {
+                    "date": "2022-09-14",
+                    "description": "Interest",
+                    "amount": 33967.81,
+                    "transaction_id": 111027711
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Deposit",
+                    "amount": 41933.61,
+                    "transaction_id": 46784516
+                },
+                {
+                    "date": "2022-12-19",
+                    "description": "Withdrawal",
+                    "amount": 25521.63,
+                    "transaction_id": 31193240
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Anthony Thomas",
+        "age": 94,
+        "gender": "female",
+        "address": "464 Andrew Shores, Rodriguezborough, NE 11435",
+        "phone": "636.465.9967",
+        "email": "hhiggins@example.org",
+        "account": {
+            "account_number": "b4f99b45-4b7c-461d-b328-e15c98e19aa0",
+            "balance": 20700.99,
+            "transactions": [
+                {
+                    "date": "2022-11-14",
+                    "description": "Deposit",
+                    "amount": 1837.03,
+                    "transaction_id": 14672138
+                },
+                {
+                    "date": "2024-03-10",
+                    "description": "Interest",
+                    "amount": 45010.65,
+                    "transaction_id": 97580015
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Withdrawal",
+                    "amount": 9937.83,
+                    "transaction_id": 75867884
+                },
+                {
+                    "date": "2022-09-23",
+                    "description": "Interest",
+                    "amount": 39084.39,
+                    "transaction_id": 47082827
+                }
+            ]
+        }
+    }
+}

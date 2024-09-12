@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kristen Dean",
+        "age": 90,
+        "gender": "male",
+        "address": "39886 Matthew Fields Suite 241, Michelleland, PW 69990",
+        "phone": "(687)900-8514x661",
+        "email": "swilliams@example.org",
+        "account": {
+            "account_number": "5bbe432d-1ff3-4298-a62f-95735a1404c0",
+            "balance": -44043.61,
+            "transactions": [
+                {
+                    "date": "2023-03-10",
+                    "description": "Interest",
+                    "amount": 2704.22,
+                    "transaction_id": 6532017
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Withdrawal",
+                    "amount": 215.64,
+                    "transaction_id": 4695687
+                }
+            ]
+        }
+    }
+}

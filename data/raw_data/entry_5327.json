@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jeremy Bolton",
+        "age": 80,
+        "gender": "male",
+        "address": "381 Kathryn Prairie Suite 278, Bradleychester, MN 00533",
+        "phone": "001-217-919-3798x8070",
+        "email": "david07@example.com",
+        "account": {
+            "account_number": "c64bde64-d7e0-4bfc-90a1-b41f04c60b5f",
+            "balance": 22813.63,
+            "transactions": [
+                {
+                    "date": "2023-08-14",
+                    "description": "Interest",
+                    "amount": 36507.03,
+                    "transaction_id": 29697253
+                }
+            ]
+        }
+    }
+}

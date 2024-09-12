@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Melissa Campos",
+        "age": 56,
+        "gender": "female",
+        "address": "186 Jason Cliffs, North Robinhaven, ND 86066",
+        "phone": "5829648777",
+        "email": "nicolewalker@example.net",
+        "account": {
+            "account_number": "4515a7ee-3f26-417c-a7b3-2d4a90037487",
+            "balance": 41366.82,
+            "transactions": [
+                {
+                    "date": "2024-08-21",
+                    "description": "Interest",
+                    "amount": 17073.47,
+                    "transaction_id": 50284960
+                },
+                {
+                    "date": "2023-01-07",
+                    "description": "Deposit",
+                    "amount": 9857.92,
+                    "transaction_id": 37838607
+                },
+                {
+                    "date": "2024-06-07",
+                    "description": "Withdrawal",
+                    "amount": 35778.55,
+                    "transaction_id": 92926057
+                }
+            ]
+        }
+    }
+}

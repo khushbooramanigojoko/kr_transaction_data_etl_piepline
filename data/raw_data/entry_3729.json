@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kevin Simpson",
+        "age": 79,
+        "gender": "female",
+        "address": "USS Lloyd, FPO AP 63653",
+        "phone": "(439)341-9887",
+        "email": "imccullough@example.net",
+        "account": {
+            "account_number": "6d44f96e-2575-491b-a051-bd0349a794f7",
+            "balance": 39441.21,
+            "transactions": [
+                {
+                    "date": "2023-03-15",
+                    "description": "Withdrawal",
+                    "amount": 2539.96,
+                    "transaction_id": 68914569
+                }
+            ]
+        }
+    }
+}

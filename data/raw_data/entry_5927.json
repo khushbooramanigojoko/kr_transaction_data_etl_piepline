@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Cory Brown",
+        "age": 33,
+        "gender": "male",
+        "address": "687 Nixon Street, Alvarezberg, AS 92743",
+        "phone": "(693)755-7774x7367",
+        "email": "ljefferson@example.net",
+        "account": {
+            "account_number": "9ce66ed3-02f8-4389-b120-4a4b9ec46fd4",
+            "balance": 28301.11,
+            "transactions": [
+                {
+                    "date": "2023-11-21",
+                    "description": "Withdrawal",
+                    "amount": 41526.96,
+                    "transaction_id": 60172712
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Vincent Cannon",
+        "age": 50,
+        "gender": "female",
+        "address": "5904 Jacob Freeway, New Mitchellhaven, IL 27830",
+        "phone": "9396118735",
+        "email": "williamjohnson@example.net",
+        "account": {
+            "account_number": "686926a7-8414-4f8c-b553-0c579bb05c5a",
+            "balance": 25620.43,
+            "transactions": [
+                {
+                    "date": "2024-01-18",
+                    "description": "Withdrawal",
+                    "amount": 31181.46,
+                    "transaction_id": 105495823
+                }
+            ]
+        }
+    }
+}

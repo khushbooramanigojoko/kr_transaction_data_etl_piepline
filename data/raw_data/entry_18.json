@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jason Nguyen",
+        "age": 98,
+        "gender": "female",
+        "address": "6469 Richard Lights Apt. 474, West Omar, WI 41648",
+        "phone": "760-521-1426",
+        "email": "hflores@example.org",
+        "account": {
+            "account_number": "ccb42e71-3d5a-4d28-a8fd-07300a62b003",
+            "balance": 48280.78,
+            "transactions": [
+                {
+                    "date": "2023-10-13",
+                    "description": "Withdrawal",
+                    "amount": 2964.78,
+                    "transaction_id": 3000230
+                },
+                {
+                    "date": "2022-12-16",
+                    "description": "Withdrawal",
+                    "amount": 14657.36,
+                    "transaction_id": 26814451
+                },
+                {
+                    "date": "2024-02-05",
+                    "description": "Interest",
+                    "amount": 25643.04,
+                    "transaction_id": 61866665
+                }
+            ]
+        }
+    }
+}

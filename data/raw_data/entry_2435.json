@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Lisa Torres",
+        "age": 61,
+        "gender": "male",
+        "address": "71056 Michele Well Suite 708, Yatesburgh, PR 62661",
+        "phone": "205-311-2918",
+        "email": "smithkaren@example.net",
+        "account": {
+            "account_number": "e2727de5-cf24-455c-b5b8-842f5cb71d93",
+            "balance": 9597.16,
+            "transactions": [
+                {
+                    "date": "2024-02-01",
+                    "description": "Withdrawal",
+                    "amount": 43370.05,
+                    "transaction_id": 108936457
+                },
+                {
+                    "date": "2024-04-19",
+                    "description": "Interest",
+                    "amount": 23145.4,
+                    "transaction_id": 116122981
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Deposit",
+                    "amount": 21449.62,
+                    "transaction_id": 55024871
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Interest",
+                    "amount": 41206.8,
+                    "transaction_id": 96027224
+                },
+                {
+                    "date": "2023-10-21",
+                    "description": "Withdrawal",
+                    "amount": 17535.68,
+                    "transaction_id": 3616281
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "John Elliott",
+        "age": 98,
+        "gender": "female",
+        "address": "4959 Russell Roads Suite 535, West Sherichester, WA 16815",
+        "phone": "790-751-5025x912",
+        "email": "sharon14@example.net",
+        "account": {
+            "account_number": "154f328e-c217-44bc-b369-be2ec9b675ad",
+            "balance": 5999.79,
+            "transactions": [
+                {
+                    "date": "2022-11-17",
+                    "description": "Deposit",
+                    "amount": 37542.86,
+                    "transaction_id": 1980391
+                },
+                {
+                    "date": "2022-09-22",
+                    "description": "Withdrawal",
+                    "amount": 22697.54,
+                    "transaction_id": 12319056
+                }
+            ]
+        }
+    }
+}

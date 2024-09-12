@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 74,
+        "gender": "male",
+        "address": "2636 Kemp Harbor, Jessicaside, AK 11609",
+        "phone": "378.406.8557",
+        "email": "dmorris@example.com",
+        "account": {
+            "account_number": "87db3446-19cf-4e44-985d-7b708b3c5f98",
+            "balance": 18248.33,
+            "transactions": [
+                {
+                    "date": "2024-07-02",
+                    "description": "Deposit",
+                    "amount": -2957.31,
+                    "transaction_id": 7674963
+                },
+                {
+                    "date": "2023-08-30",
+                    "description": "Interest",
+                    "amount": -194.52,
+                    "transaction_id": 38465879
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alan Coleman",
+        "age": 74,
+        "gender": "female",
+        "address": "218 Kevin Common, Adamshaven, CT 69177",
+        "phone": "(274)843-9597x5055",
+        "email": "nsmith@example.com",
+        "account": {
+            "account_number": "afc31d71-caf7-4788-aa1f-182d57e731e6",
+            "balance": -34008.42,
+            "transactions": [
+                {
+                    "date": "2022-10-30",
+                    "description": "Interest",
+                    "amount": 3334.07,
+                    "transaction_id": 97714789
+                }
+            ]
+        }
+    }
+}

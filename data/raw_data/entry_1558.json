@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "James Massey",
+        "age": 48,
+        "gender": "female",
+        "address": "40738 Johnson Greens Suite 043, Port Jessicaview, KS 55069",
+        "phone": "980-828-4954x4288",
+        "email": "sheilarhodes@example.com",
+        "account": {
+            "account_number": "e8eed55a-75a0-4571-aaa0-d9ada4abf165",
+            "balance": 37444.4,
+            "transactions": [
+                {
+                    "date": "2023-10-19",
+                    "description": "Deposit",
+                    "amount": 22236.3,
+                    "transaction_id": 101752059
+                },
+                {
+                    "date": "2023-06-25",
+                    "description": "Interest",
+                    "amount": 49311.04,
+                    "transaction_id": 69303885
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Interest",
+                    "amount": 33510.33,
+                    "transaction_id": 115335407
+                },
+                {
+                    "date": "2023-05-25",
+                    "description": "Interest",
+                    "amount": 16275.64,
+                    "transaction_id": 39428168
+                }
+            ]
+        }
+    }
+}

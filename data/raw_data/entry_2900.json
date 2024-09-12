@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "James Hernandez",
+        "age": 98,
+        "gender": "female",
+        "address": "15933 Debra Extensions Suite 193, Elizabethland, ND 53437",
+        "phone": "820-303-2953",
+        "email": "zgreen@example.com",
+        "account": {
+            "account_number": "79cf5d07-258e-415e-8da5-ed24a6fb0dfc",
+            "balance": 39153.48,
+            "transactions": [
+                {
+                    "date": "2024-05-26",
+                    "description": "Interest",
+                    "amount": 26734.2,
+                    "transaction_id": 20805658
+                },
+                {
+                    "date": "2023-02-01",
+                    "description": "Interest",
+                    "amount": 42023.62,
+                    "transaction_id": 1181978
+                },
+                {
+                    "date": "2024-09-01",
+                    "description": "Withdrawal",
+                    "amount": 12712.95,
+                    "transaction_id": 38483269
+                },
+                {
+                    "date": "2024-02-06",
+                    "description": "Withdrawal",
+                    "amount": 42337.2,
+                    "transaction_id": 26022954
+                }
+            ]
+        }
+    }
+}

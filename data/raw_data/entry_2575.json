@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Lydia Gamble",
+        "age": 20,
+        "gender": "female",
+        "address": "3638 Kimberly Crest Apt. 924, Stevenmouth, KS 52731",
+        "phone": "517-715-6896x2005",
+        "email": "osbornecrystal@example.net",
+        "account": {
+            "account_number": "8d9feddd-c74d-4b1c-b65b-1a3e1313cd43",
+            "balance": 27939.98,
+            "transactions": [
+                {
+                    "date": "2023-04-08",
+                    "description": "Interest",
+                    "amount": 43126.38,
+                    "transaction_id": 55633857
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Deposit",
+                    "amount": 6619.25,
+                    "transaction_id": 70130161
+                },
+                {
+                    "date": "2022-09-07",
+                    "description": "Withdrawal",
+                    "amount": 10884.0,
+                    "transaction_id": 109080502
+                }
+            ]
+        }
+    }
+}

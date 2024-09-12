@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Melissa Davidson",
+        "age": 21,
+        "gender": "male",
+        "address": "936 Zhang Lake, Kennethbury, IN 72134",
+        "phone": "(649)842-1001x59903",
+        "email": "dmoss@example.org",
+        "account": {
+            "account_number": "103b21ad-9c36-429b-9940-e7e7b1a685ad",
+            "balance": 20882.39,
+            "transactions": [
+                {
+                    "date": "2022-12-21",
+                    "description": "Interest",
+                    "amount": 7021.77,
+                    "transaction_id": 67665635
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Interest",
+                    "amount": 12879.98,
+                    "transaction_id": 59468207
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Withdrawal",
+                    "amount": 44084.71,
+                    "transaction_id": 18803758
+                }
+            ]
+        }
+    }
+}

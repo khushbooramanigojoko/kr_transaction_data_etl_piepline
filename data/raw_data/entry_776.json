@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Davis",
+        "age": 54,
+        "gender": "female",
+        "address": "50384 David Shoal Apt. 478, North Alanton, MN 60389",
+        "phone": "(572)963-2533x7627",
+        "email": "uclark@example.org",
+        "account": {
+            "account_number": "09c03ae7-8042-469a-97e9-181292194d53",
+            "balance": 43023.58,
+            "transactions": [
+                {
+                    "date": "2024-03-04",
+                    "description": "Interest",
+                    "amount": 11897.38,
+                    "transaction_id": 77126841
+                },
+                {
+                    "date": "2023-04-29",
+                    "description": "Interest",
+                    "amount": 22232.44,
+                    "transaction_id": 23818851
+                }
+            ]
+        }
+    }
+}

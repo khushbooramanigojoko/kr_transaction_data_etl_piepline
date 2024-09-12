@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Wilson",
+        "age": 42,
+        "gender": "female",
+        "address": "0739 York Circles Suite 828, Lake Lorihaven, NM 59475",
+        "phone": "(694)862-1467",
+        "email": "eanderson@example.net",
+        "account": {
+            "account_number": "bccd4cc3-3206-42a7-a682-a2deed54381c",
+            "balance": 20515.06,
+            "transactions": [
+                {
+                    "date": "2024-07-29",
+                    "description": "Deposit",
+                    "amount": 1848.15,
+                    "transaction_id": 106693500
+                }
+            ]
+        }
+    }
+}

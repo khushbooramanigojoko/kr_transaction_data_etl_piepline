@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mr. Stephen Alexander MD",
+        "age": 74,
+        "gender": "female",
+        "address": "459 Campbell Oval, Millertown, NV 95113",
+        "phone": "853.807.3931x0666",
+        "email": "xcortez@example.net",
+        "account": {
+            "account_number": "f5fe1358-4051-4066-9589-58c1ffe7e448",
+            "balance": 4818.08,
+            "transactions": [
+                {
+                    "date": "2023-03-12",
+                    "description": "Deposit",
+                    "amount": 11730.92,
+                    "transaction_id": 90765562
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Deposit",
+                    "amount": 5570.1,
+                    "transaction_id": 30367604
+                },
+                {
+                    "date": "2024-08-20",
+                    "description": "Interest",
+                    "amount": 34694.57,
+                    "transaction_id": 37421495
+                }
+            ]
+        }
+    }
+}

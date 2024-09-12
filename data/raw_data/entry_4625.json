@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "George Hester DVM",
+        "age": 25,
+        "gender": "female",
+        "address": "551 Leonard Glens, Jordanmouth, CA 80650",
+        "phone": "(581)241-2194x6221",
+        "email": "daydaniel@example.net",
+        "account": {
+            "account_number": "3ccddf23-991d-45bf-bf3f-cfacab6eb3ee",
+            "balance": 32896.18,
+            "transactions": [
+                {
+                    "date": "2023-09-14",
+                    "description": "Interest",
+                    "amount": 18063.12,
+                    "transaction_id": 78109613
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Withdrawal",
+                    "amount": 41169.74,
+                    "transaction_id": 61090437
+                },
+                {
+                    "date": "2024-04-10",
+                    "description": "Interest",
+                    "amount": 25675.04,
+                    "transaction_id": 31650929
+                },
+                {
+                    "date": "2023-02-13",
+                    "description": "Deposit",
+                    "amount": 43350.08,
+                    "transaction_id": 111135244
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Withdrawal",
+                    "amount": 3460.72,
+                    "transaction_id": 61125111
+                }
+            ]
+        }
+    }
+}

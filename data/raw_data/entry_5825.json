@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amanda Payne",
+        "age": 83,
+        "gender": "male",
+        "address": "081 Gregory Ports, New Angel, ME 82029",
+        "phone": "+1-890-498-1359x440",
+        "email": "reedtodd@example.com",
+        "account": {
+            "account_number": "a3feb9ef-872a-4f2a-9182-ebc8bea196e1",
+            "balance": 10176.55,
+            "transactions": [
+                {
+                    "date": "2024-01-06",
+                    "description": "Deposit",
+                    "amount": 45583.98,
+                    "transaction_id": 34841109
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Withdrawal",
+                    "amount": 45713.58,
+                    "transaction_id": 66078262
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Deposit",
+                    "amount": 25307.37,
+                    "transaction_id": 27335538
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Withdrawal",
+                    "amount": 15258.32,
+                    "transaction_id": 55359319
+                }
+            ]
+        }
+    }
+}

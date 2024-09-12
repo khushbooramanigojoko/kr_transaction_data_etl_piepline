@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Garrett",
+        "age": 95,
+        "gender": "female",
+        "address": "7459 Krystal Pass Apt. 219, East Mia, WY 64295",
+        "phone": "389-369-1487",
+        "email": "jdavila@example.org",
+        "account": {
+            "account_number": "c18bba76-3e9f-4572-88fc-2dbcd24e49bb",
+            "balance": 16180.13,
+            "transactions": [
+                {
+                    "date": "2023-09-05",
+                    "description": "Interest",
+                    "amount": 42239.96,
+                    "transaction_id": 37982057
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Interest",
+                    "amount": 1421.66,
+                    "transaction_id": 5390899
+                },
+                {
+                    "date": "2023-05-27",
+                    "description": "Withdrawal",
+                    "amount": 12066.35,
+                    "transaction_id": 25989361
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Deposit",
+                    "amount": 21620.49,
+                    "transaction_id": 70599973
+                },
+                {
+                    "date": "2024-05-13",
+                    "description": "Deposit",
+                    "amount": 25630.24,
+                    "transaction_id": 54684597
+                }
+            ]
+        }
+    }
+}

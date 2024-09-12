@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Chad Johnson",
+        "age": 31,
+        "gender": "female",
+        "address": "7050 Kimberly Crescent, South Michael, NC 45189",
+        "phone": "001-297-479-1362",
+        "email": "wsandoval@example.com",
+        "account": {
+            "account_number": "b05279f4-3255-4470-8116-da85eb33a411",
+            "balance": 44626.49,
+            "transactions": [
+                {
+                    "date": "2022-11-15",
+                    "description": "Deposit",
+                    "amount": 39995.97,
+                    "transaction_id": 84811315
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Withdrawal",
+                    "amount": 339.79,
+                    "transaction_id": 21436522
+                },
+                {
+                    "date": "2024-04-17",
+                    "description": "Deposit",
+                    "amount": 26877.46,
+                    "transaction_id": 64718896
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Withdrawal",
+                    "amount": 14019.06,
+                    "transaction_id": 54492924
+                }
+            ]
+        }
+    }
+}

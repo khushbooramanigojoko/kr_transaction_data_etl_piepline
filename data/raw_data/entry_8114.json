@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Andrew Livingston",
+        "age": 89,
+        "gender": "male",
+        "address": "USNS Decker, FPO AP 92063",
+        "phone": "(667)316-0176x543",
+        "email": "ohayes@example.net",
+        "account": {
+            "account_number": "318e9f35-019c-48de-a1c2-68d39f6b3df8",
+            "balance": 8581.83,
+            "transactions": [
+                {
+                    "date": "2024-03-27",
+                    "description": "Withdrawal",
+                    "amount": 45171.36,
+                    "transaction_id": 5918434
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Deposit",
+                    "amount": 25035.55,
+                    "transaction_id": 22291045
+                }
+            ]
+        }
+    }
+}

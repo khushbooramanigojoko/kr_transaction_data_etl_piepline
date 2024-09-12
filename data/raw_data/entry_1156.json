@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Brett Washington",
+        "age": 49,
+        "gender": "male",
+        "address": "Unit 6498 Box 8106, DPO AP 01034",
+        "phone": "001-580-203-1301x0247",
+        "email": "william86@example.org",
+        "account": {
+            "account_number": "5eadebd2-cbe4-4321-8a20-357ed8f13cb5",
+            "balance": 19695.46,
+            "transactions": [
+                {
+                    "date": "2024-06-20",
+                    "description": "Interest",
+                    "amount": 25890.15,
+                    "transaction_id": 88332481
+                },
+                {
+                    "date": "2024-08-25",
+                    "description": "Interest",
+                    "amount": 4375.86,
+                    "transaction_id": 98080470
+                },
+                {
+                    "date": "2023-05-30",
+                    "description": "Interest",
+                    "amount": 49133.56,
+                    "transaction_id": 20122399
+                }
+            ]
+        }
+    }
+}

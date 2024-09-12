@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Andrea Garcia",
+        "age": 35,
+        "gender": "male",
+        "address": "560 Nicholas Mount, Holmesberg, SD 56269",
+        "phone": "(746)765-8223x907",
+        "email": "qsmith@example.org",
+        "account": {
+            "account_number": "1b4ef365-ba82-4868-bcb2-993e4d084992",
+            "balance": 10077.81,
+            "transactions": [
+                {
+                    "date": "2024-06-28",
+                    "description": "Deposit",
+                    "amount": 32001.96,
+                    "transaction_id": 117362832
+                },
+                {
+                    "date": "2023-08-23",
+                    "description": "Deposit",
+                    "amount": 30426.46,
+                    "transaction_id": 98112668
+                },
+                {
+                    "date": "2024-06-17",
+                    "description": "Deposit",
+                    "amount": 11439.36,
+                    "transaction_id": 94282170
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Withdrawal",
+                    "amount": 21858.73,
+                    "transaction_id": 22085735
+                }
+            ]
+        }
+    }
+}

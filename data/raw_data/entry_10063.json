@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 79,
+        "gender": "female",
+        "address": "377 Roth Rapid Apt. 598, South Katherinemouth, VA 96549",
+        "phone": "574-404-2698x329",
+        "email": "floresjesse@example.com",
+        "account": {
+            "account_number": "f36d8b7a-1e99-483b-b452-2d773a90f8f1",
+            "balance": 46588.7,
+            "transactions": [
+                {
+                    "date": "2023-06-25",
+                    "description": "Deposit",
+                    "amount": -1181.71,
+                    "transaction_id": 94332711
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Withdrawal",
+                    "amount": 1367.5,
+                    "transaction_id": 10637382
+                },
+                {
+                    "date": "2023-02-25",
+                    "description": "Deposit",
+                    "amount": 2124.4,
+                    "transaction_id": 75026729
+                },
+                {
+                    "date": "2023-10-14",
+                    "description": "Interest",
+                    "amount": 2260.89,
+                    "transaction_id": 5680311
+                }
+            ]
+        }
+    }
+}

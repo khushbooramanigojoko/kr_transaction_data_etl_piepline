@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Vicki Gross",
+        "age": 79,
+        "gender": "female",
+        "address": "4159 Clark Square Suite 008, Michaelview, CT 90572",
+        "phone": "838-829-6596x122",
+        "email": "tnguyen@example.net",
+        "account": {
+            "account_number": "618598b1-48c9-43c0-a906-7dcf9982f69f",
+            "balance": 22839.77,
+            "transactions": [
+                {
+                    "date": "2022-11-17",
+                    "description": "Deposit",
+                    "amount": 19165.73,
+                    "transaction_id": 39862259
+                },
+                {
+                    "date": "2022-11-22",
+                    "description": "Withdrawal",
+                    "amount": 12053.93,
+                    "transaction_id": 108125068
+                },
+                {
+                    "date": "2024-07-13",
+                    "description": "Withdrawal",
+                    "amount": 18159.13,
+                    "transaction_id": 12165803
+                }
+            ]
+        }
+    }
+}

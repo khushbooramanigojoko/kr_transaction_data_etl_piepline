@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 46,
+        "gender": "male",
+        "address": "8801 Petersen Tunnel Apt. 431, Emilychester, RI 85300",
+        "phone": "(508)403-0647",
+        "email": "cmunoz@example.com",
+        "account": {
+            "account_number": "e4db0634-8a46-4c77-a85c-4f7ad1bbc793",
+            "balance": 14566.61,
+            "transactions": [
+                {
+                    "date": "2023-08-22",
+                    "description": "Withdrawal",
+                    "amount": -2588.5,
+                    "transaction_id": 45662187
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Deposit",
+                    "amount": 2522.18,
+                    "transaction_id": 110812696
+                }
+            ]
+        }
+    }
+}

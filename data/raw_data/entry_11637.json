@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Natasha Nichols",
+        "age": 94,
+        "gender": "male",
+        "address": "3646 Stephanie River, Micheleview, CO 89931",
+        "phone": "5077412190",
+        "email": "gonzalesvictoria@example.net",
+        "account": {
+            "account_number": "055a1e55-cbbd-4968-af3c-8a1b4ed10d8d",
+            "balance": -42242.72,
+            "transactions": [
+                {
+                    "date": "2023-12-06",
+                    "description": "Interest",
+                    "amount": -3549.11,
+                    "transaction_id": 49594361
+                },
+                {
+                    "date": "2024-05-05",
+                    "description": "Interest",
+                    "amount": -951.9,
+                    "transaction_id": 17013338
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Withdrawal",
+                    "amount": 3320.81,
+                    "transaction_id": 62041061
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Withdrawal",
+                    "amount": 1325.25,
+                    "transaction_id": 40295893
+                },
+                {
+                    "date": "2022-10-19",
+                    "description": "Withdrawal",
+                    "amount": 3107.79,
+                    "transaction_id": 113092335
+                }
+            ]
+        }
+    }
+}

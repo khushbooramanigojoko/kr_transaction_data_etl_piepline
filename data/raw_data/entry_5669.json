@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christopher Douglas",
+        "age": 62,
+        "gender": "female",
+        "address": "20527 Martin Brook, Leemouth, DE 99490",
+        "phone": "(899)966-6675",
+        "email": "alison45@example.net",
+        "account": {
+            "account_number": "d319d748-da5c-4ba0-b419-4fab6904ae45",
+            "balance": 21290.13,
+            "transactions": [
+                {
+                    "date": "2023-07-02",
+                    "description": "Interest",
+                    "amount": 13582.39,
+                    "transaction_id": 54001926
+                },
+                {
+                    "date": "2023-08-28",
+                    "description": "Withdrawal",
+                    "amount": 26959.39,
+                    "transaction_id": 117759636
+                },
+                {
+                    "date": "2023-12-27",
+                    "description": "Withdrawal",
+                    "amount": 21490.22,
+                    "transaction_id": 30286729
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Interest",
+                    "amount": 6042.54,
+                    "transaction_id": 68650195
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Interest",
+                    "amount": 45919.45,
+                    "transaction_id": 48292755
+                }
+            ]
+        }
+    }
+}

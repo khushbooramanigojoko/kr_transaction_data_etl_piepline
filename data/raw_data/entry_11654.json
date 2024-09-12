@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 24,
+        "gender": "male",
+        "address": "026 Jerry Pine, Jasonville, MD 71321",
+        "phone": "498-607-3205",
+        "email": "vanessa39@example.net",
+        "account": {
+            "account_number": "0fdee667-c6c1-4a7d-b3cf-b94f6222a81c",
+            "balance": 46897.37,
+            "transactions": [
+                {
+                    "date": "2024-08-31",
+                    "description": "Withdrawal",
+                    "amount": 3781.97,
+                    "transaction_id": 45062502
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Interest",
+                    "amount": -1993.01,
+                    "transaction_id": 12798153
+                },
+                {
+                    "date": "2023-05-29",
+                    "description": "Withdrawal",
+                    "amount": -4700.43,
+                    "transaction_id": 53393260
+                },
+                {
+                    "date": "2022-09-17",
+                    "description": "Withdrawal",
+                    "amount": 3569.67,
+                    "transaction_id": 96311743
+                },
+                {
+                    "date": "2023-01-23",
+                    "description": "Interest",
+                    "amount": 4865.89,
+                    "transaction_id": 46892903
+                }
+            ]
+        }
+    }
+}

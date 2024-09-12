@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Beth Barrera",
+        "age": 95,
+        "gender": "female",
+        "address": "Unit 0211 Box 6635, DPO AA 53067",
+        "phone": "2486103912",
+        "email": "john15@example.org",
+        "account": {
+            "account_number": "7a21cee3-7c8d-45ab-b343-41f2f37bac24",
+            "balance": 24540.95,
+            "transactions": [
+                {
+                    "date": "2023-11-26",
+                    "description": "Deposit",
+                    "amount": 20335.03,
+                    "transaction_id": 70241962
+                },
+                {
+                    "date": "2023-09-24",
+                    "description": "Withdrawal",
+                    "amount": 15655.25,
+                    "transaction_id": 51096553
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Interest",
+                    "amount": 3899.34,
+                    "transaction_id": 63841180
+                },
+                {
+                    "date": "2022-12-13",
+                    "description": "Withdrawal",
+                    "amount": 14188.45,
+                    "transaction_id": 50915083
+                }
+            ]
+        }
+    }
+}

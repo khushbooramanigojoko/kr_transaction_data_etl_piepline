@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Shelley Williams",
+        "age": 45,
+        "gender": "male",
+        "address": "235 Ibarra Hollow, Marquezfurt, AS 63196",
+        "phone": "346.395.4756x18599",
+        "email": "richardsparks@example.org",
+        "account": {
+            "account_number": "92ace9ea-154a-49d8-a47d-e97db7474a6a",
+            "balance": 11992.99,
+            "transactions": [
+                {
+                    "date": "2023-09-10",
+                    "description": "Interest",
+                    "amount": 31615.33,
+                    "transaction_id": 15392943
+                },
+                {
+                    "date": "2022-12-29",
+                    "description": "Deposit",
+                    "amount": 28342.65,
+                    "transaction_id": 12576403
+                },
+                {
+                    "date": "2023-11-07",
+                    "description": "Deposit",
+                    "amount": 47032.85,
+                    "transaction_id": 3812356
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Withdrawal",
+                    "amount": 4166.14,
+                    "transaction_id": 103929247
+                },
+                {
+                    "date": "2023-06-09",
+                    "description": "Interest",
+                    "amount": 1686.68,
+                    "transaction_id": 63479291
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Deborah Cain MD",
+        "age": 83,
+        "gender": "female",
+        "address": "46110 Sherry Brook, Stevenhaven, MP 66998",
+        "phone": "+1-616-791-3444x813",
+        "email": "gainescarolyn@example.net",
+        "account": {
+            "account_number": "36e8e079-855e-4f5f-8788-d6b90678d3d2",
+            "balance": 10500.04,
+            "transactions": [
+                {
+                    "date": "2024-08-06",
+                    "description": "Withdrawal",
+                    "amount": 23459.12,
+                    "transaction_id": 50173433
+                },
+                {
+                    "date": "2023-01-14",
+                    "description": "Interest",
+                    "amount": 35583.27,
+                    "transaction_id": 111788572
+                },
+                {
+                    "date": "2023-07-08",
+                    "description": "Interest",
+                    "amount": 40956.66,
+                    "transaction_id": 60371825
+                },
+                {
+                    "date": "2023-04-19",
+                    "description": "Interest",
+                    "amount": 26041.24,
+                    "transaction_id": 71717653
+                },
+                {
+                    "date": "2024-03-15",
+                    "description": "Deposit",
+                    "amount": 27157.78,
+                    "transaction_id": 15172849
+                }
+            ]
+        }
+    }
+}

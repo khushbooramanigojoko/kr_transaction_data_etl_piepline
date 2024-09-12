@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 89,
+        "gender": "male",
+        "address": "71148 Lisa Field, South Williamtown, KY 54032",
+        "phone": "495.763.2754x81075",
+        "email": "ethanbauer@example.com",
+        "account": {
+            "account_number": "6b7fbf76-1952-466f-bbac-cb0230cde508",
+            "balance": 2461.87,
+            "transactions": [
+                {
+                    "date": "2023-10-01",
+                    "description": "Deposit",
+                    "amount": 2641.3,
+                    "transaction_id": 98035651
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Withdrawal",
+                    "amount": -1499.12,
+                    "transaction_id": 94152837
+                },
+                {
+                    "date": "2023-04-16",
+                    "description": "Interest",
+                    "amount": 365.87,
+                    "transaction_id": 2730539
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Withdrawal",
+                    "amount": -239.82,
+                    "transaction_id": 40916930
+                }
+            ]
+        }
+    }
+}

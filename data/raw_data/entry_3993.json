@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Holly Bauer",
+        "age": 78,
+        "gender": "female",
+        "address": "41327 Brenda Mountain Apt. 734, Whiteton, LA 42431",
+        "phone": "329-354-7051",
+        "email": "erin44@example.org",
+        "account": {
+            "account_number": "9247975e-b465-4cbc-abf0-ee7cf83b9d8e",
+            "balance": 32534.31,
+            "transactions": [
+                {
+                    "date": "2024-07-01",
+                    "description": "Deposit",
+                    "amount": 49289.68,
+                    "transaction_id": 36188937
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Deposit",
+                    "amount": 24539.52,
+                    "transaction_id": 44400656
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Deposit",
+                    "amount": 7051.11,
+                    "transaction_id": 52170177
+                },
+                {
+                    "date": "2024-06-17",
+                    "description": "Interest",
+                    "amount": 1338.81,
+                    "transaction_id": 20779529
+                }
+            ]
+        }
+    }
+}

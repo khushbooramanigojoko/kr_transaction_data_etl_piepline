@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Nicholas Galvan",
+        "age": 46,
+        "gender": "male",
+        "address": "85192 Adams Pines, Port Lesliehaven, CA 78422",
+        "phone": "891-384-0184",
+        "email": "karen86@example.org",
+        "account": {
+            "account_number": "764372aa-dfa8-4637-9949-110b5b4ea441",
+            "balance": 18761.37,
+            "transactions": [
+                {
+                    "date": "2024-04-01",
+                    "description": "Deposit",
+                    "amount": 10300.52,
+                    "transaction_id": 111428317
+                },
+                {
+                    "date": "2024-02-06",
+                    "description": "Withdrawal",
+                    "amount": 26953.38,
+                    "transaction_id": 103526640
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Withdrawal",
+                    "amount": 26708.45,
+                    "transaction_id": 66710064
+                }
+            ]
+        }
+    }
+}

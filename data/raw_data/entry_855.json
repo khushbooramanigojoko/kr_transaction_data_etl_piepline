@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Gregory Schmidt",
+        "age": 57,
+        "gender": "female",
+        "address": "12464 White Circles, Doughertyville, DE 78080",
+        "phone": "639-980-6402x89822",
+        "email": "fsoto@example.org",
+        "account": {
+            "account_number": "944381a5-69ff-4ad7-b787-c12a9935bd1f",
+            "balance": 29118.62,
+            "transactions": [
+                {
+                    "date": "2024-08-13",
+                    "description": "Interest",
+                    "amount": 17394.74,
+                    "transaction_id": 51214368
+                },
+                {
+                    "date": "2024-02-23",
+                    "description": "Deposit",
+                    "amount": 5099.33,
+                    "transaction_id": 87822374
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Interest",
+                    "amount": 16187.54,
+                    "transaction_id": 103551082
+                }
+            ]
+        }
+    }
+}

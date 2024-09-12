@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stacey Davis",
+        "age": 19,
+        "gender": "female",
+        "address": "6972 Derek Radial Apt. 640, Hornetown, NC 30249",
+        "phone": "583.964.7000x353",
+        "email": "ycole@example.org",
+        "account": {
+            "account_number": "01af857a-db0f-427f-adee-5114b75d44b6",
+            "balance": 25685.76,
+            "transactions": [
+                {
+                    "date": "2023-09-01",
+                    "description": "Interest",
+                    "amount": 34065.1,
+                    "transaction_id": 38436264
+                }
+            ]
+        }
+    }
+}

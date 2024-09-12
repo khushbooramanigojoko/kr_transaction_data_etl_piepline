@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Matthew Berg",
+        "age": 30,
+        "gender": "male",
+        "address": "PSC 7935, Box 9626, APO AA 79362",
+        "phone": "(969)484-3703x59890",
+        "email": "ginathompson@example.net",
+        "account": {
+            "account_number": "2bea9b18-73aa-48f4-a327-2c98698aef76",
+            "balance": 23651.36,
+            "transactions": [
+                {
+                    "date": "2023-06-17",
+                    "description": "Interest",
+                    "amount": 44356.69,
+                    "transaction_id": 116973054
+                }
+            ]
+        }
+    }
+}

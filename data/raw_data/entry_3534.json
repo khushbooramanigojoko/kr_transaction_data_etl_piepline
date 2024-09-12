@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kelsey Brown",
+        "age": 81,
+        "gender": "female",
+        "address": "737 Jacob Coves Suite 005, Rebeccafort, VT 16791",
+        "phone": "001-689-291-3021x19976",
+        "email": "taylorstevens@example.com",
+        "account": {
+            "account_number": "9f98c81b-c9ee-4609-986d-afec33905e83",
+            "balance": 46150.03,
+            "transactions": [
+                {
+                    "date": "2023-11-16",
+                    "description": "Interest",
+                    "amount": 49388.33,
+                    "transaction_id": 47109650
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Interest",
+                    "amount": 21338.16,
+                    "transaction_id": 119354468
+                }
+            ]
+        }
+    }
+}

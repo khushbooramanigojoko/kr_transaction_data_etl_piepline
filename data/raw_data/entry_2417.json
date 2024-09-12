@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Scott Robinson",
+        "age": 48,
+        "gender": "female",
+        "address": "12013 Gomez Common Suite 375, South Sarah, OK 68581",
+        "phone": "6747689424",
+        "email": "nancy67@example.com",
+        "account": {
+            "account_number": "b22637f9-b5ac-45b4-8222-9dd166dbc05c",
+            "balance": 47207.32,
+            "transactions": [
+                {
+                    "date": "2023-09-06",
+                    "description": "Deposit",
+                    "amount": 47105.89,
+                    "transaction_id": 69472311
+                },
+                {
+                    "date": "2022-11-11",
+                    "description": "Withdrawal",
+                    "amount": 12922.63,
+                    "transaction_id": 118930493
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Withdrawal",
+                    "amount": 33383.24,
+                    "transaction_id": 8865332
+                }
+            ]
+        }
+    }
+}

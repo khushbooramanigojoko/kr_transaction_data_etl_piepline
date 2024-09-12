@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Gregory Woods",
+        "age": 82,
+        "gender": "male",
+        "address": "75657 Zhang River, Brendastad, CT 64992",
+        "phone": "799.606.2145x39433",
+        "email": "shawn66@example.net",
+        "account": {
+            "account_number": "87b96ed4-7013-4743-942f-c1d4a9c5ba17",
+            "balance": 14025.95,
+            "transactions": [
+                {
+                    "date": "2023-12-29",
+                    "description": "Withdrawal",
+                    "amount": 26225.02,
+                    "transaction_id": 7893435
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Withdrawal",
+                    "amount": 23677.91,
+                    "transaction_id": 57601709
+                },
+                {
+                    "date": "2022-09-02",
+                    "description": "Interest",
+                    "amount": 22769.8,
+                    "transaction_id": 18720261
+                },
+                {
+                    "date": "2023-10-12",
+                    "description": "Deposit",
+                    "amount": 45997.65,
+                    "transaction_id": 29259775
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Withdrawal",
+                    "amount": 18481.31,
+                    "transaction_id": 58568430
+                }
+            ]
+        }
+    }
+}

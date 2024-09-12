@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Lisa Lewis",
+        "age": 39,
+        "gender": "male",
+        "address": "976 Garcia Stravenue Suite 887, Knightville, PR 34394",
+        "phone": "970.834.2581x624",
+        "email": "robertholt@example.com",
+        "account": {
+            "account_number": "c0c6d585-3de0-4e85-be86-b8ca40256557",
+            "balance": 36329.24,
+            "transactions": [
+                {
+                    "date": "2024-08-02",
+                    "description": "Interest",
+                    "amount": 4852.56,
+                    "transaction_id": 24496819
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Deposit",
+                    "amount": 37621.46,
+                    "transaction_id": 23026706
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Interest",
+                    "amount": 12741.51,
+                    "transaction_id": 17947451
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Withdrawal",
+                    "amount": 8828.89,
+                    "transaction_id": 64112736
+                },
+                {
+                    "date": "2023-08-26",
+                    "description": "Interest",
+                    "amount": 2649.13,
+                    "transaction_id": 2834863
+                }
+            ]
+        }
+    }
+}

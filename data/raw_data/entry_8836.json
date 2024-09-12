@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 38,
+        "gender": "female",
+        "address": "01237 Felicia Estates, New Nicholas, UT 77338",
+        "phone": "001-974-483-6546x8727",
+        "email": "stokeseric@example.net",
+        "account": {
+            "account_number": "4b8c5763-b06b-4d54-9bbe-6812bc25f38b",
+            "balance": 47477.17,
+            "transactions": [
+                {
+                    "date": "2023-08-06",
+                    "description": "Withdrawal",
+                    "amount": 4031.69,
+                    "transaction_id": 62585984
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Deposit",
+                    "amount": -3161.87,
+                    "transaction_id": 92000939
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Deposit",
+                    "amount": -2676.71,
+                    "transaction_id": 118226120
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Interest",
+                    "amount": -3585.8,
+                    "transaction_id": 2170737
+                },
+                {
+                    "date": "2023-05-04",
+                    "description": "Interest",
+                    "amount": -220.46,
+                    "transaction_id": 100717292
+                }
+            ]
+        }
+    }
+}

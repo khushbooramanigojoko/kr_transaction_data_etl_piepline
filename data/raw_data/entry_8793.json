@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 47,
+        "gender": "male",
+        "address": "71070 Cardenas Isle, New Gina, WI 80078",
+        "phone": "968.901.7736x90439",
+        "email": "juanhowell@example.com",
+        "account": {
+            "account_number": "c31d500a-48a0-43ba-acaf-c6553e723135",
+            "balance": 2764.49,
+            "transactions": [
+                {
+                    "date": "2022-11-27",
+                    "description": "Interest",
+                    "amount": -1652.28,
+                    "transaction_id": 117718979
+                },
+                {
+                    "date": "2023-07-04",
+                    "description": "Interest",
+                    "amount": -4029.65,
+                    "transaction_id": 116649476
+                }
+            ]
+        }
+    }
+}

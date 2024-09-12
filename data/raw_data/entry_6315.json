@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jamie Willis",
+        "age": 95,
+        "gender": "male",
+        "address": "7481 Watson Common Suite 611, East Melindachester, IN 53415",
+        "phone": "(427)891-8702",
+        "email": "marthacooke@example.net",
+        "account": {
+            "account_number": "9500c19e-dd2a-4589-a1c5-dcaa3fd2b0e1",
+            "balance": 31311.41,
+            "transactions": [
+                {
+                    "date": "2024-05-10",
+                    "description": "Interest",
+                    "amount": 34414.81,
+                    "transaction_id": 80675598
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Interest",
+                    "amount": 26946.51,
+                    "transaction_id": 77708366
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Interest",
+                    "amount": 17519.86,
+                    "transaction_id": 93993039
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Deposit",
+                    "amount": 1901.62,
+                    "transaction_id": 114496742
+                }
+            ]
+        }
+    }
+}

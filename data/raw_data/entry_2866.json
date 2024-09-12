@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amanda Scott",
+        "age": 73,
+        "gender": "female",
+        "address": "PSC 9735, Box 2141, APO AP 75523",
+        "phone": "001-661-636-2836",
+        "email": "shannonlopez@example.org",
+        "account": {
+            "account_number": "e928665b-5248-4285-a4ce-92a0e37e6ffe",
+            "balance": 34167.9,
+            "transactions": [
+                {
+                    "date": "2023-04-26",
+                    "description": "Deposit",
+                    "amount": 48518.97,
+                    "transaction_id": 5404272
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Interest",
+                    "amount": 17620.93,
+                    "transaction_id": 105687738
+                }
+            ]
+        }
+    }
+}

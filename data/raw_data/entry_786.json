@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Steven Price",
+        "age": 73,
+        "gender": "female",
+        "address": "13557 Alexander Fords Apt. 874, Port Cheryl, MT 03699",
+        "phone": "(992)555-0148x91718",
+        "email": "ncarney@example.org",
+        "account": {
+            "account_number": "f40818bd-1c19-4c64-8539-2d73dbabb1ef",
+            "balance": 15891.31,
+            "transactions": [
+                {
+                    "date": "2023-12-02",
+                    "description": "Deposit",
+                    "amount": 14708.32,
+                    "transaction_id": 49492273
+                },
+                {
+                    "date": "2022-12-26",
+                    "description": "Interest",
+                    "amount": 14316.55,
+                    "transaction_id": 118612698
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Interest",
+                    "amount": 4765.8,
+                    "transaction_id": 41037822
+                },
+                {
+                    "date": "2024-06-25",
+                    "description": "Deposit",
+                    "amount": 7547.98,
+                    "transaction_id": 62533075
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Thomas Morales",
+        "age": 78,
+        "gender": "female",
+        "address": "9306 Cynthia Squares Suite 994, East Jill, KS 19823",
+        "phone": "(524)503-2732x5296",
+        "email": "michaelperry@example.org",
+        "account": {
+            "account_number": "65817202-c169-4b8b-bff0-4ef3634b7dfb",
+            "balance": 31657.45,
+            "transactions": [
+                {
+                    "date": "2024-07-25",
+                    "description": "Withdrawal",
+                    "amount": 38847.19,
+                    "transaction_id": 64135232
+                },
+                {
+                    "date": "2022-09-14",
+                    "description": "Deposit",
+                    "amount": 28707.47,
+                    "transaction_id": 20424250
+                },
+                {
+                    "date": "2022-09-07",
+                    "description": "Deposit",
+                    "amount": 9017.71,
+                    "transaction_id": 74798125
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Interest",
+                    "amount": 11499.12,
+                    "transaction_id": 65817389
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Interest",
+                    "amount": 32178.57,
+                    "transaction_id": 9092929
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kenneth Roberts",
+        "age": 38,
+        "gender": "male",
+        "address": "205 Davis Common Suite 260, Mariahaven, HI 36769",
+        "phone": "001-356-551-6773",
+        "email": "cbeck@example.org",
+        "account": {
+            "account_number": "7ab15197-c86a-4cc4-aaa2-47243ab50ec7",
+            "balance": 14905.28,
+            "transactions": [
+                {
+                    "date": "2024-06-22",
+                    "description": "Withdrawal",
+                    "amount": 9153.16,
+                    "transaction_id": 82267159
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Withdrawal",
+                    "amount": 48920.0,
+                    "transaction_id": 46970365
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Interest",
+                    "amount": 45910.06,
+                    "transaction_id": 56876023
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Interest",
+                    "amount": 33424.32,
+                    "transaction_id": 74929191
+                }
+            ]
+        }
+    }
+}

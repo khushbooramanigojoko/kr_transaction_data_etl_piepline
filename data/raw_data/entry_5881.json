@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Cheryl Hunter",
+        "age": 38,
+        "gender": "male",
+        "address": "6169 John Falls Apt. 732, Snyderstad, AZ 12645",
+        "phone": "(976)774-7177x48806",
+        "email": "prestonrichard@example.org",
+        "account": {
+            "account_number": "eda03037-1c02-485f-8fb1-7f75724e3b39",
+            "balance": 38083.4,
+            "transactions": [
+                {
+                    "date": "2022-09-16",
+                    "description": "Withdrawal",
+                    "amount": 22967.32,
+                    "transaction_id": 107858199
+                },
+                {
+                    "date": "2023-05-03",
+                    "description": "Withdrawal",
+                    "amount": 10521.64,
+                    "transaction_id": 115890118
+                },
+                {
+                    "date": "2023-09-29",
+                    "description": "Deposit",
+                    "amount": 25083.56,
+                    "transaction_id": 74337892
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Withdrawal",
+                    "amount": 10313.48,
+                    "transaction_id": 114810475
+                }
+            ]
+        }
+    }
+}

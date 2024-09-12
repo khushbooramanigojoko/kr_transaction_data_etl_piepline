@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Stephanie Richard",
+        "age": 66,
+        "gender": "male",
+        "address": "9608 Dudley Gateway Suite 038, North Robert, NE 82759",
+        "phone": "8532858558",
+        "email": "mason32@example.org",
+        "account": {
+            "account_number": "be4cb4f5-ea8e-4bc4-87ec-b358c2c3f172",
+            "balance": 14682.68,
+            "transactions": [
+                {
+                    "date": "2023-09-27",
+                    "description": "Deposit",
+                    "amount": 6066.35,
+                    "transaction_id": 9079184
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Deposit",
+                    "amount": 14696.93,
+                    "transaction_id": 76472897
+                },
+                {
+                    "date": "2022-12-04",
+                    "description": "Interest",
+                    "amount": 16446.12,
+                    "transaction_id": 96195316
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ronald Sullivan",
+        "age": 70,
+        "gender": "male",
+        "address": "7392 Kimberly Cape, Josephstad, OK 40807",
+        "phone": "+1-323-226-0432x244",
+        "email": "melindaperez@example.com",
+        "account": {
+            "account_number": "e7b7061b-b34f-45bd-89a8-d748bf933ddf",
+            "balance": 3501.96,
+            "transactions": [
+                {
+                    "date": "2022-10-10",
+                    "description": "Interest",
+                    "amount": 7261.66,
+                    "transaction_id": 26263587
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Withdrawal",
+                    "amount": 32014.98,
+                    "transaction_id": 114485804
+                },
+                {
+                    "date": "2023-08-24",
+                    "description": "Deposit",
+                    "amount": 23805.64,
+                    "transaction_id": 74195831
+                }
+            ]
+        }
+    }
+}

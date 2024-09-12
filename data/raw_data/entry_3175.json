@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stephen Joseph",
+        "age": 95,
+        "gender": "male",
+        "address": "382 Lynn Meadow, Lewisside, IA 39454",
+        "phone": "(623)213-4702x06397",
+        "email": "sstokes@example.org",
+        "account": {
+            "account_number": "f4b63f09-f8a2-4637-9241-f6a4dfdfb4a7",
+            "balance": 16029.25,
+            "transactions": [
+                {
+                    "date": "2023-06-29",
+                    "description": "Withdrawal",
+                    "amount": 7228.56,
+                    "transaction_id": 15963902
+                }
+            ]
+        }
+    }
+}

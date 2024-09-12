@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Wanda Rodriguez",
+        "age": 49,
+        "gender": "male",
+        "address": "USNS James, FPO AE 95711",
+        "phone": "537-525-3126x124",
+        "email": "djames@example.com",
+        "account": {
+            "account_number": "23aa31b1-49a0-4ba2-a0c6-23b86f1d5d26",
+            "balance": 2203.57,
+            "transactions": [
+                {
+                    "date": "2022-10-17",
+                    "description": "Withdrawal",
+                    "amount": 43906.97,
+                    "transaction_id": 99806066
+                },
+                {
+                    "date": "2023-10-24",
+                    "description": "Deposit",
+                    "amount": 7962.3,
+                    "transaction_id": 42242447
+                },
+                {
+                    "date": "2023-08-08",
+                    "description": "Withdrawal",
+                    "amount": 37110.39,
+                    "transaction_id": 80663219
+                }
+            ]
+        }
+    }
+}

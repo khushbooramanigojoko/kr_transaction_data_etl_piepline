@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rick Downs",
+        "age": 80,
+        "gender": "female",
+        "address": "00484 Michael Forks Suite 673, West Antonio, RI 81990",
+        "phone": "(231)571-2989",
+        "email": "malik46@example.net",
+        "account": {
+            "account_number": "a6bd5e50-63a7-47ef-bbde-008b49bf46f5",
+            "balance": 12456.69,
+            "transactions": [
+                {
+                    "date": "2023-05-08",
+                    "description": "Interest",
+                    "amount": 12177.9,
+                    "transaction_id": 79509571
+                }
+            ]
+        }
+    }
+}

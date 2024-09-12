@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 57,
+        "gender": "male",
+        "address": "80591 Riggs Fords Apt. 353, North Bruce, SD 48873",
+        "phone": "2015146319",
+        "email": "cindy33@example.net",
+        "account": {
+            "account_number": "66ae338c-8142-451c-9809-13bc4efd3647",
+            "balance": 35261.59,
+            "transactions": [
+                {
+                    "date": "2022-09-24",
+                    "description": "Withdrawal",
+                    "amount": 1433.32,
+                    "transaction_id": 43225030
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Interest",
+                    "amount": -3697.82,
+                    "transaction_id": 30443026
+                }
+            ]
+        }
+    }
+}

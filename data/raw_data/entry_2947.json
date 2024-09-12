@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Everett",
+        "age": 18,
+        "gender": "female",
+        "address": "0328 Jennifer Views Apt. 802, West Peter, IN 88108",
+        "phone": "995.231.2913x4092",
+        "email": "ssanchez@example.com",
+        "account": {
+            "account_number": "8f16ab37-3eb6-4f9a-b011-b9e1c4e6de31",
+            "balance": 28397.45,
+            "transactions": [
+                {
+                    "date": "2023-08-02",
+                    "description": "Interest",
+                    "amount": 25251.07,
+                    "transaction_id": 102933197
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Withdrawal",
+                    "amount": 31450.66,
+                    "transaction_id": 25429748
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Interest",
+                    "amount": 32264.46,
+                    "transaction_id": 111416145
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Interest",
+                    "amount": 39146.81,
+                    "transaction_id": 113740459
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Withdrawal",
+                    "amount": 15257.12,
+                    "transaction_id": 70081429
+                }
+            ]
+        }
+    }
+}

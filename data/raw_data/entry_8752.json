@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Carrie Mendoza",
+        "age": 92,
+        "gender": "male",
+        "address": "9785 Scott Square, Dianeville, SC 65531",
+        "phone": "+1-612-418-2718x8129",
+        "email": "rodriguezrachel@example.org",
+        "account": {
+            "account_number": "4b45142d-a90d-4933-8023-d7f9335d7e62",
+            "balance": -9030.04,
+            "transactions": [
+                {
+                    "date": "2023-05-12",
+                    "description": "Withdrawal",
+                    "amount": -58.74,
+                    "transaction_id": 54499499
+                },
+                {
+                    "date": "2023-08-25",
+                    "description": "Deposit",
+                    "amount": 4693.0,
+                    "transaction_id": 16791111
+                }
+            ]
+        }
+    }
+}

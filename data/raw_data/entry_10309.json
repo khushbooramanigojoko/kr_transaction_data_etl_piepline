@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Steven Sanchez",
+        "age": 74,
+        "gender": "male",
+        "address": "347 Melissa Bridge Suite 230, Bowenside, SC 72157",
+        "phone": "(411)422-6686",
+        "email": "turnerbenjamin@example.org",
+        "account": {
+            "account_number": "5b3c3fee-f458-4c5b-8098-796af5f3fd51",
+            "balance": -15593.33,
+            "transactions": [
+                {
+                    "date": "2024-08-25",
+                    "description": "Interest",
+                    "amount": 2099.42,
+                    "transaction_id": 76828260
+                }
+            ]
+        }
+    }
+}

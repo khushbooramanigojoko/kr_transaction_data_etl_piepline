@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ryan Faulkner",
+        "age": 86,
+        "gender": "male",
+        "address": "638 Newton Passage, New Jessicafort, VA 95588",
+        "phone": "+1-423-700-2011x3613",
+        "email": "xshah@example.net",
+        "account": {
+            "account_number": "f752098a-c4de-43b8-8db6-d2fa9966df39",
+            "balance": 12762.95,
+            "transactions": [
+                {
+                    "date": "2023-11-16",
+                    "description": "Interest",
+                    "amount": 47130.43,
+                    "transaction_id": 55954416
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Deposit",
+                    "amount": 37702.34,
+                    "transaction_id": 41972725
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Interest",
+                    "amount": 49394.8,
+                    "transaction_id": 85218828
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Interest",
+                    "amount": 39549.2,
+                    "transaction_id": 89107829
+                }
+            ]
+        }
+    }
+}

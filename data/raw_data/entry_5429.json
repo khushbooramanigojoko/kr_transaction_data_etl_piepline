@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Bryan Adams",
+        "age": 46,
+        "gender": "male",
+        "address": "555 Leonard Glen, Paulatown, HI 73690",
+        "phone": "701.873.2192x9929",
+        "email": "brittney99@example.net",
+        "account": {
+            "account_number": "ea7c4221-87c3-4e14-b211-c419df746635",
+            "balance": 42532.25,
+            "transactions": [
+                {
+                    "date": "2023-06-26",
+                    "description": "Deposit",
+                    "amount": 20313.59,
+                    "transaction_id": 20985065
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Withdrawal",
+                    "amount": 4819.94,
+                    "transaction_id": 75062894
+                },
+                {
+                    "date": "2022-09-17",
+                    "description": "Interest",
+                    "amount": 48204.16,
+                    "transaction_id": 78859631
+                },
+                {
+                    "date": "2024-04-13",
+                    "description": "Interest",
+                    "amount": 3818.29,
+                    "transaction_id": 73312065
+                },
+                {
+                    "date": "2022-11-19",
+                    "description": "Interest",
+                    "amount": 20771.35,
+                    "transaction_id": 97701716
+                }
+            ]
+        }
+    }
+}

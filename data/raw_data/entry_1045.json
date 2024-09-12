@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Stephanie Stevens",
+        "age": 40,
+        "gender": "male",
+        "address": "PSC 2995, Box 5057, APO AE 83661",
+        "phone": "+1-313-454-3193x01484",
+        "email": "bbennett@example.org",
+        "account": {
+            "account_number": "c61f746b-0043-4d51-91bf-83e3d547b19b",
+            "balance": 1551.95,
+            "transactions": [
+                {
+                    "date": "2023-07-01",
+                    "description": "Deposit",
+                    "amount": 11131.95,
+                    "transaction_id": 2843765
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Deposit",
+                    "amount": 39475.66,
+                    "transaction_id": 60789569
+                },
+                {
+                    "date": "2023-02-01",
+                    "description": "Interest",
+                    "amount": 32463.72,
+                    "transaction_id": 95023648
+                }
+            ]
+        }
+    }
+}

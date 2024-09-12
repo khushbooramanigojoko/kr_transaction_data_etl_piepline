@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 22,
+        "gender": "female",
+        "address": "39499 Adam Islands, North Scott, MD 68544",
+        "phone": "+1-782-556-7003x30447",
+        "email": "johnsonsarah@example.com",
+        "account": {
+            "account_number": "e6a6a92e-2441-4edf-875a-1a045a104423",
+            "balance": 30122.82,
+            "transactions": [
+                {
+                    "date": "2023-10-05",
+                    "description": "Interest",
+                    "amount": 1373.35,
+                    "transaction_id": 110822387
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Interest",
+                    "amount": -4117.35,
+                    "transaction_id": 89175848
+                },
+                {
+                    "date": "2024-03-26",
+                    "description": "Deposit",
+                    "amount": 3868.61,
+                    "transaction_id": 15268587
+                }
+            ]
+        }
+    }
+}

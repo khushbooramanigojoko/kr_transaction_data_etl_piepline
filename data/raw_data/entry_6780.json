@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Krystal Lopez",
+        "age": 62,
+        "gender": "female",
+        "address": "Unit 4453 Box 3151, DPO AP 72207",
+        "phone": "001-265-929-8816x89382",
+        "email": "delgadoamanda@example.org",
+        "account": {
+            "account_number": "51392511-9d36-4575-bda1-1a1360324635",
+            "balance": 8376.19,
+            "transactions": [
+                {
+                    "date": "2024-01-15",
+                    "description": "Withdrawal",
+                    "amount": 34049.13,
+                    "transaction_id": 102372524
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Interest",
+                    "amount": 7037.23,
+                    "transaction_id": 70861144
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Deposit",
+                    "amount": 7916.44,
+                    "transaction_id": 101716888
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Deposit",
+                    "amount": 20255.18,
+                    "transaction_id": 16560276
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Dustin Foster",
+        "age": 70,
+        "gender": "female",
+        "address": "42938 Mason Flat, West Benjamin, WY 09751",
+        "phone": "(950)782-1955",
+        "email": "gjohnson@example.com",
+        "account": {
+            "account_number": "3a97895c-5adb-46f5-b437-729e7e00fbc7",
+            "balance": 38755.12,
+            "transactions": [
+                {
+                    "date": "2024-02-27",
+                    "description": "Withdrawal",
+                    "amount": 14871.36,
+                    "transaction_id": 36645227
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Deposit",
+                    "amount": 3811.27,
+                    "transaction_id": 11955936
+                }
+            ]
+        }
+    }
+}

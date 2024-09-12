@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Matthew Lewis",
+        "age": 25,
+        "gender": "female",
+        "address": "8868 Ruiz Prairie Suite 542, South Courtneyshire, ID 37851",
+        "phone": "598-255-6569x6273",
+        "email": "emunoz@example.org",
+        "account": {
+            "account_number": "a5032386-4f74-4740-ab2f-23337fb3df53",
+            "balance": 27686.32,
+            "transactions": [
+                {
+                    "date": "2022-10-08",
+                    "description": "Withdrawal",
+                    "amount": 27257.94,
+                    "transaction_id": 29041447
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Interest",
+                    "amount": 21920.09,
+                    "transaction_id": 58034637
+                },
+                {
+                    "date": "2023-01-26",
+                    "description": "Withdrawal",
+                    "amount": 20506.71,
+                    "transaction_id": 111026773
+                },
+                {
+                    "date": "2023-10-25",
+                    "description": "Deposit",
+                    "amount": 2172.17,
+                    "transaction_id": 103005408
+                }
+            ]
+        }
+    }
+}

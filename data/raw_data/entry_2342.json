@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Rebecca Padilla",
+        "age": 73,
+        "gender": "female",
+        "address": "0089 Kathy Garden Suite 168, Valeriefort, MS 80677",
+        "phone": "6119925984",
+        "email": "victoria19@example.org",
+        "account": {
+            "account_number": "5070b8ae-be83-4ea2-b48c-360c3dbf414d",
+            "balance": 44553.76,
+            "transactions": [
+                {
+                    "date": "2023-06-04",
+                    "description": "Withdrawal",
+                    "amount": 47614.61,
+                    "transaction_id": 58183010
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Withdrawal",
+                    "amount": 24320.3,
+                    "transaction_id": 103184317
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Withdrawal",
+                    "amount": 44883.94,
+                    "transaction_id": 114533310
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Withdrawal",
+                    "amount": 36237.65,
+                    "transaction_id": 92372571
+                }
+            ]
+        }
+    }
+}

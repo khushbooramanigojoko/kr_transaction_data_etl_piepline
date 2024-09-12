@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "David Blankenship",
+        "age": 43,
+        "gender": "male",
+        "address": "90454 Amy Estates Apt. 437, Alexandraburgh, IL 94444",
+        "phone": "001-351-415-4780",
+        "email": "brandi65@example.net",
+        "account": {
+            "account_number": "d401dc34-8b7f-44ab-91ef-794c24166fbc",
+            "balance": 28950.46,
+            "transactions": [
+                {
+                    "date": "2024-05-27",
+                    "description": "Interest",
+                    "amount": 6456.94,
+                    "transaction_id": 101122138
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Deposit",
+                    "amount": 27559.77,
+                    "transaction_id": 112756824
+                },
+                {
+                    "date": "2023-08-24",
+                    "description": "Deposit",
+                    "amount": 22131.5,
+                    "transaction_id": 6469891
+                },
+                {
+                    "date": "2023-03-05",
+                    "description": "Interest",
+                    "amount": 14554.91,
+                    "transaction_id": 38589854
+                }
+            ]
+        }
+    }
+}

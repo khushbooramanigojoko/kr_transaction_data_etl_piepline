@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christina Hughes",
+        "age": 56,
+        "gender": "female",
+        "address": "226 Scott Terrace, North Jameshaven, MD 92083",
+        "phone": "(484)643-8730x86117",
+        "email": "smithedward@example.org",
+        "account": {
+            "account_number": "2c5a03c5-44ed-4d30-ba56-489a49e33e92",
+            "balance": 33602.78,
+            "transactions": [
+                {
+                    "date": "2023-08-29",
+                    "description": "Interest",
+                    "amount": 28430.9,
+                    "transaction_id": 8948190
+                }
+            ]
+        }
+    }
+}

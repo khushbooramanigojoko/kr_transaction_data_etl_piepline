@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 37,
+        "gender": "male",
+        "address": "030 Kathleen Fields, East Jeremy, ID 54841",
+        "phone": "+1-267-971-5165x56697",
+        "email": "cindysanchez@example.com",
+        "account": {
+            "account_number": "8f27dc5f-8f15-4d8f-8f56-15df38d4f3b7",
+            "balance": 13249.21,
+            "transactions": [
+                {
+                    "date": "2022-12-19",
+                    "description": "Deposit",
+                    "amount": -2181.98,
+                    "transaction_id": 86163115
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Deposit",
+                    "amount": -3515.99,
+                    "transaction_id": 59060682
+                }
+            ]
+        }
+    }
+}

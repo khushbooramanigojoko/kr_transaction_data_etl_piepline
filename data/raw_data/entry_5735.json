@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tom Hayes",
+        "age": 50,
+        "gender": "male",
+        "address": "7864 Daryl Skyway Apt. 601, South Alisha, FM 88392",
+        "phone": "539.343.6563x451",
+        "email": "craig03@example.org",
+        "account": {
+            "account_number": "8e6af956-c2d5-4c52-a25f-9269b2f995fb",
+            "balance": 47136.68,
+            "transactions": [
+                {
+                    "date": "2024-05-29",
+                    "description": "Deposit",
+                    "amount": 4192.58,
+                    "transaction_id": 37722148
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Deposit",
+                    "amount": 29402.54,
+                    "transaction_id": 35618979
+                },
+                {
+                    "date": "2024-08-23",
+                    "description": "Withdrawal",
+                    "amount": 21451.42,
+                    "transaction_id": 89013219
+                }
+            ]
+        }
+    }
+}

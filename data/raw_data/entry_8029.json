@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mark Ramirez",
+        "age": 24,
+        "gender": "male",
+        "address": "2255 Collins Springs, East John, MD 50614",
+        "phone": "804-726-7861x5143",
+        "email": "ygiles@example.net",
+        "account": {
+            "account_number": "85527b7b-a5e6-4d1a-90fc-3a6f7ea06327",
+            "balance": 17177.83,
+            "transactions": [
+                {
+                    "date": "2024-04-24",
+                    "description": "Deposit",
+                    "amount": 43900.93,
+                    "transaction_id": 96093390
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Withdrawal",
+                    "amount": 38739.56,
+                    "transaction_id": 105383594
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Russell Harrison",
+        "age": 39,
+        "gender": "female",
+        "address": "Unit 1061 Box 7590, DPO AE 78960",
+        "phone": "4185524435",
+        "email": "paula50@example.org",
+        "account": {
+            "account_number": "7814515f-c89c-49f6-aac1-6c7a340fb6f1",
+            "balance": -27109.08,
+            "transactions": [
+                {
+                    "date": "2023-11-29",
+                    "description": "Interest",
+                    "amount": 3597.49,
+                    "transaction_id": 88496719
+                },
+                {
+                    "date": "2023-01-13",
+                    "description": "Interest",
+                    "amount": 2828.52,
+                    "transaction_id": 83004149
+                }
+            ]
+        }
+    }
+}

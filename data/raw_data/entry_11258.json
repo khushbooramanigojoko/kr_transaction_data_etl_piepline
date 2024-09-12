@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kevin Roach",
+        "age": 25,
+        "gender": "male",
+        "address": "8150 Anthony Vista, Port Paulview, IA 48498",
+        "phone": "834.976.7484",
+        "email": "griffingerald@example.net",
+        "account": {
+            "account_number": "ab8c0e3d-cd4f-46dd-acfd-e1a80dc9248e",
+            "balance": -38163.86,
+            "transactions": [
+                {
+                    "date": "2023-09-11",
+                    "description": "Withdrawal",
+                    "amount": 2734.21,
+                    "transaction_id": 76643783
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Deposit",
+                    "amount": 1638.68,
+                    "transaction_id": 18441237
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Interest",
+                    "amount": -438.45,
+                    "transaction_id": 73312922
+                }
+            ]
+        }
+    }
+}

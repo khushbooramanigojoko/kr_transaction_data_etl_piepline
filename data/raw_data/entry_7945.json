@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Maddox",
+        "age": 21,
+        "gender": "female",
+        "address": "USS Carson, FPO AE 11357",
+        "phone": "232.242.6753x3870",
+        "email": "pricethomas@example.com",
+        "account": {
+            "account_number": "db543e88-9531-4336-8fc3-344523107660",
+            "balance": 36182.42,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Interest",
+                    "amount": 29712.87,
+                    "transaction_id": 19044167
+                }
+            ]
+        }
+    }
+}

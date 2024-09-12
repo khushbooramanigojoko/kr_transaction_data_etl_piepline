@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Amy Proctor",
+        "age": 40,
+        "gender": "male",
+        "address": "605 Hall Knolls Apt. 520, Johnsonfurt, KY 67825",
+        "phone": "943-956-3538x8678",
+        "email": "marissawilliams@example.org",
+        "account": {
+            "account_number": "8e93e77d-505e-4df4-bdf6-a6707897f977",
+            "balance": 25022.56,
+            "transactions": [
+                {
+                    "date": "2023-02-27",
+                    "description": "Deposit",
+                    "amount": 10702.3,
+                    "transaction_id": 65021650
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Deposit",
+                    "amount": 6093.21,
+                    "transaction_id": 44816052
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Withdrawal",
+                    "amount": 9438.47,
+                    "transaction_id": 119309169
+                }
+            ]
+        }
+    }
+}

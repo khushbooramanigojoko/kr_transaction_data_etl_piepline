@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brittany Copeland",
+        "age": 60,
+        "gender": "male",
+        "address": "6970 Bowen Row, New Samuelmouth, MP 24310",
+        "phone": "2546290810",
+        "email": "burnsjason@example.org",
+        "account": {
+            "account_number": "0cb1458f-8ea0-4535-8550-911de52b2554",
+            "balance": -2579.84,
+            "transactions": [
+                {
+                    "date": "2022-12-04",
+                    "description": "Withdrawal",
+                    "amount": 1585.18,
+                    "transaction_id": 36287453
+                }
+            ]
+        }
+    }
+}

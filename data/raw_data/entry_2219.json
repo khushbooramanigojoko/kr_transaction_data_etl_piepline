@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Chad Mccoy",
+        "age": 60,
+        "gender": "female",
+        "address": "6686 Lopez Curve Suite 577, West Jamesmouth, NV 66234",
+        "phone": "686.710.8922x27486",
+        "email": "kimberly72@example.net",
+        "account": {
+            "account_number": "e2e82b8a-b4f9-43c8-b417-3d1a91b5329d",
+            "balance": 26841.89,
+            "transactions": [
+                {
+                    "date": "2024-08-02",
+                    "description": "Interest",
+                    "amount": 46314.61,
+                    "transaction_id": 60605486
+                },
+                {
+                    "date": "2023-05-25",
+                    "description": "Deposit",
+                    "amount": 30063.44,
+                    "transaction_id": 87952174
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Withdrawal",
+                    "amount": 33617.41,
+                    "transaction_id": 8179583
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Withdrawal",
+                    "amount": 16496.77,
+                    "transaction_id": 101442598
+                },
+                {
+                    "date": "2022-09-11",
+                    "description": "Deposit",
+                    "amount": 1860.16,
+                    "transaction_id": 89299281
+                }
+            ]
+        }
+    }
+}

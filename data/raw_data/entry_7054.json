@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jessica Kennedy",
+        "age": 77,
+        "gender": "male",
+        "address": "964 Robert Port, Port David, GU 41792",
+        "phone": "4103781133",
+        "email": "dominic77@example.org",
+        "account": {
+            "account_number": "97998b28-19fb-4e6a-8187-b16768736240",
+            "balance": 37313.0,
+            "transactions": [
+                {
+                    "date": "2022-10-16",
+                    "description": "Interest",
+                    "amount": 6124.36,
+                    "transaction_id": 72345817
+                },
+                {
+                    "date": "2022-11-01",
+                    "description": "Interest",
+                    "amount": 28922.06,
+                    "transaction_id": 87367055
+                }
+            ]
+        }
+    }
+}

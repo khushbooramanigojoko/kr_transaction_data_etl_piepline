@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Taylor Sellers DDS",
+        "age": 18,
+        "gender": "female",
+        "address": "PSC 7194, Box 6049, APO AE 09171",
+        "phone": "(830)352-6065",
+        "email": "johnjohnson@example.net",
+        "account": {
+            "account_number": "c02bac3a-da40-4a50-b7a5-a3035f97c617",
+            "balance": -40980.49,
+            "transactions": [
+                {
+                    "date": "2024-06-27",
+                    "description": "Withdrawal",
+                    "amount": -4320.17,
+                    "transaction_id": 92081643
+                },
+                {
+                    "date": "2022-10-25",
+                    "description": "Deposit",
+                    "amount": -2189.48,
+                    "transaction_id": 26000124
+                }
+            ]
+        }
+    }
+}

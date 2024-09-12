@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Cynthia Jones",
+        "age": 84,
+        "gender": "male",
+        "address": "4840 Sandoval Ranch, Nancyview, VT 91113",
+        "phone": "670.280.5336x6099",
+        "email": "wbaker@example.com",
+        "account": {
+            "account_number": "9b1e10b3-0784-431f-9b38-ef9c29ff9881",
+            "balance": 35492.26,
+            "transactions": [
+                {
+                    "date": "2022-12-22",
+                    "description": "Withdrawal",
+                    "amount": 13586.46,
+                    "transaction_id": 7537594
+                },
+                {
+                    "date": "2023-06-18",
+                    "description": "Interest",
+                    "amount": 17470.82,
+                    "transaction_id": 63940382
+                }
+            ]
+        }
+    }
+}

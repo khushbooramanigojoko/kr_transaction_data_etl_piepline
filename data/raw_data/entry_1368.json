@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "John Miller",
+        "age": 21,
+        "gender": "female",
+        "address": "855 Ashley Gateway Apt. 139, Lake Andre, TX 08152",
+        "phone": "+1-580-514-0706",
+        "email": "obradley@example.net",
+        "account": {
+            "account_number": "d7a3653d-f69c-4e03-a352-6bbdab0314d0",
+            "balance": 23646.87,
+            "transactions": [
+                {
+                    "date": "2024-05-03",
+                    "description": "Deposit",
+                    "amount": 32374.1,
+                    "transaction_id": 17083044
+                }
+            ]
+        }
+    }
+}

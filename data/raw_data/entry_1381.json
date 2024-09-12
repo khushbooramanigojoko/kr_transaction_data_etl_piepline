@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kurt Kelly",
+        "age": 60,
+        "gender": "female",
+        "address": "USS Perez, FPO AP 78853",
+        "phone": "+1-843-891-6879x9534",
+        "email": "westlisa@example.com",
+        "account": {
+            "account_number": "9568a7ff-991a-493c-b1de-2f5584ac3f06",
+            "balance": 19428.18,
+            "transactions": [
+                {
+                    "date": "2024-05-05",
+                    "description": "Interest",
+                    "amount": 9105.61,
+                    "transaction_id": 74873820
+                },
+                {
+                    "date": "2024-07-09",
+                    "description": "Interest",
+                    "amount": 4201.57,
+                    "transaction_id": 68372333
+                }
+            ]
+        }
+    }
+}

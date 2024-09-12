@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kristy Warren",
+        "age": 33,
+        "gender": "male",
+        "address": "16854 Martin Prairie, Peterhaven, RI 84139",
+        "phone": "+1-901-942-0037",
+        "email": "regina82@example.com",
+        "account": {
+            "account_number": "197ea509-92a7-4306-926f-cd8c4362c13e",
+            "balance": -48901.82,
+            "transactions": [
+                {
+                    "date": "2024-07-11",
+                    "description": "Deposit",
+                    "amount": 4497.5,
+                    "transaction_id": 92901896
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Interest",
+                    "amount": -1037.29,
+                    "transaction_id": 57837184
+                }
+            ]
+        }
+    }
+}

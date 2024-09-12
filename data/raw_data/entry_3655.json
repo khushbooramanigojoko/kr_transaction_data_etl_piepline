@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "George Rodriguez",
+        "age": 30,
+        "gender": "female",
+        "address": "73949 Santiago Springs Apt. 420, New Michelle, MP 36170",
+        "phone": "(645)862-7428x579",
+        "email": "adickson@example.com",
+        "account": {
+            "account_number": "ffb9adff-d3b9-4efb-88ac-8bebc2da5cf3",
+            "balance": 10960.62,
+            "transactions": [
+                {
+                    "date": "2022-11-05",
+                    "description": "Withdrawal",
+                    "amount": 9043.46,
+                    "transaction_id": 92423839
+                }
+            ]
+        }
+    }
+}

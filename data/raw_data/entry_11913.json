@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 76,
+        "gender": "female",
+        "address": "370 Morris Throughway, Michellehaven, SC 07709",
+        "phone": "8502626759",
+        "email": "daughertykyle@example.org",
+        "account": {
+            "account_number": "2e6b517e-f643-43ef-a704-0753975b4a90",
+            "balance": 43552.87,
+            "transactions": [
+                {
+                    "date": "2022-12-13",
+                    "description": "Interest",
+                    "amount": 4499.7,
+                    "transaction_id": 108278723
+                },
+                {
+                    "date": "2022-12-09",
+                    "description": "Interest",
+                    "amount": 2865.93,
+                    "transaction_id": 87303298
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Deposit",
+                    "amount": -4919.74,
+                    "transaction_id": 117642305
+                }
+            ]
+        }
+    }
+}

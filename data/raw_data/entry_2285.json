@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joseph Romero",
+        "age": 50,
+        "gender": "male",
+        "address": "25534 Conrad Junctions Apt. 896, North Donna, HI 58904",
+        "phone": "548.287.0944",
+        "email": "mwilkerson@example.com",
+        "account": {
+            "account_number": "634d41d9-ef4c-4970-be89-81863f21ac52",
+            "balance": 32883.03,
+            "transactions": [
+                {
+                    "date": "2023-04-30",
+                    "description": "Withdrawal",
+                    "amount": 20930.83,
+                    "transaction_id": 106451505
+                },
+                {
+                    "date": "2023-10-18",
+                    "description": "Interest",
+                    "amount": 28639.28,
+                    "transaction_id": 19027766
+                },
+                {
+                    "date": "2024-02-20",
+                    "description": "Interest",
+                    "amount": 43914.0,
+                    "transaction_id": 33510504
+                }
+            ]
+        }
+    }
+}

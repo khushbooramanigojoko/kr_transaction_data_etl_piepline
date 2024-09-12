@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kristopher Todd",
+        "age": 84,
+        "gender": "male",
+        "address": "83365 Hopkins Shoal Apt. 102, Lake Dwayne, PA 58040",
+        "phone": "+1-696-958-3807x12375",
+        "email": "moorematthew@example.org",
+        "account": {
+            "account_number": "cdc2ad45-62e5-4837-8cee-e19c3f8a4140",
+            "balance": 25808.43,
+            "transactions": [
+                {
+                    "date": "2024-07-02",
+                    "description": "Interest",
+                    "amount": 9035.09,
+                    "transaction_id": 86406109
+                },
+                {
+                    "date": "2023-05-30",
+                    "description": "Deposit",
+                    "amount": 39353.6,
+                    "transaction_id": 51303816
+                }
+            ]
+        }
+    }
+}

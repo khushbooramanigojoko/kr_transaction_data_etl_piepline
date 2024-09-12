@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 50,
+        "gender": "female",
+        "address": "763 Anthony Bypass, New Cory, OH 25164",
+        "phone": "(374)397-0079",
+        "email": "michael84@example.org",
+        "account": {
+            "account_number": "2404558b-db25-4e8b-9bf4-cded496500ed",
+            "balance": 12944.06,
+            "transactions": [
+                {
+                    "date": "2023-06-13",
+                    "description": "Withdrawal",
+                    "amount": 3455.62,
+                    "transaction_id": 90633406
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Interest",
+                    "amount": 474.35,
+                    "transaction_id": 86455430
+                },
+                {
+                    "date": "2023-04-10",
+                    "description": "Interest",
+                    "amount": 4245.39,
+                    "transaction_id": 38443564
+                },
+                {
+                    "date": "2023-10-05",
+                    "description": "Deposit",
+                    "amount": 4451.72,
+                    "transaction_id": 32582941
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "William James",
+        "age": 37,
+        "gender": "female",
+        "address": "86351 Richard Ford, Fordview, TX 07150",
+        "phone": "330-271-4004x1522",
+        "email": "davisnathan@example.net",
+        "account": {
+            "account_number": "f5c7eb7b-cda3-42dd-a435-ff8317ad8a81",
+            "balance": 26767.44,
+            "transactions": [
+                {
+                    "date": "2022-11-25",
+                    "description": "Deposit",
+                    "amount": 46002.78,
+                    "transaction_id": 32517374
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Interest",
+                    "amount": 22632.85,
+                    "transaction_id": 80735277
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Withdrawal",
+                    "amount": 5735.59,
+                    "transaction_id": 52044328
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Heather Rodriguez",
+        "age": 51,
+        "gender": "female",
+        "address": "047 Laura Rapid Suite 280, Underwoodside, MT 08984",
+        "phone": "9637944657",
+        "email": "greenerobert@example.org",
+        "account": {
+            "account_number": "354a5ed8-010b-4dc5-9a52-ee1de752c1a1",
+            "balance": 43544.78,
+            "transactions": [
+                {
+                    "date": "2024-04-20",
+                    "description": "Deposit",
+                    "amount": 35116.96,
+                    "transaction_id": 63923442
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Interest",
+                    "amount": 31664.71,
+                    "transaction_id": 97458194
+                },
+                {
+                    "date": "2023-06-06",
+                    "description": "Deposit",
+                    "amount": 34665.55,
+                    "transaction_id": 111676280
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Interest",
+                    "amount": 29684.54,
+                    "transaction_id": 41722962
+                },
+                {
+                    "date": "2024-02-19",
+                    "description": "Interest",
+                    "amount": 21778.58,
+                    "transaction_id": 114014150
+                }
+            ]
+        }
+    }
+}

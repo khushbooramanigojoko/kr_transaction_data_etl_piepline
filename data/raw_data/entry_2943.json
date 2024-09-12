@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Melissa Sanders",
+        "age": 42,
+        "gender": "male",
+        "address": "989 Johnson Mountains Suite 342, Pamelaland, FL 78993",
+        "phone": "+1-415-321-6671",
+        "email": "bbriggs@example.org",
+        "account": {
+            "account_number": "14c2454a-1818-4c7b-8356-5da2382501d6",
+            "balance": 29000.25,
+            "transactions": [
+                {
+                    "date": "2024-05-22",
+                    "description": "Deposit",
+                    "amount": 32915.57,
+                    "transaction_id": 19795698
+                }
+            ]
+        }
+    }
+}

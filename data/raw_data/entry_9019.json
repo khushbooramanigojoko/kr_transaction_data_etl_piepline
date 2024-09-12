@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 44,
+        "gender": "male",
+        "address": "5105 Samantha Parkway, Lake Mariahfurt, CA 76920",
+        "phone": "972.617.3789x57787",
+        "email": "gkirby@example.org",
+        "account": {
+            "account_number": "e3ee683e-75a3-4ce4-be1f-a4f4d1643e6c",
+            "balance": 32167.81,
+            "transactions": [
+                {
+                    "date": "2023-03-26",
+                    "description": "Withdrawal",
+                    "amount": -2391.42,
+                    "transaction_id": 73815027
+                },
+                {
+                    "date": "2023-05-20",
+                    "description": "Withdrawal",
+                    "amount": 1822.22,
+                    "transaction_id": 100885963
+                }
+            ]
+        }
+    }
+}

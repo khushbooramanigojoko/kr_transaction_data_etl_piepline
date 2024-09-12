@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 59,
+        "gender": "male",
+        "address": "445 Gordon Harbor, Brendanville, NM 10689",
+        "phone": "(744)519-7467x680",
+        "email": "jameswhite@example.net",
+        "account": {
+            "account_number": "3ad3225d-a044-4f65-91ba-c35bb4f89865",
+            "balance": 5708.46,
+            "transactions": [
+                {
+                    "date": "2023-07-21",
+                    "description": "Deposit",
+                    "amount": 630.15,
+                    "transaction_id": 6664414
+                },
+                {
+                    "date": "2023-09-09",
+                    "description": "Deposit",
+                    "amount": -778.31,
+                    "transaction_id": 2944750
+                }
+            ]
+        }
+    }
+}

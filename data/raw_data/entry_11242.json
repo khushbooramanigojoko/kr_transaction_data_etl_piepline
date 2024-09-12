@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 65,
+        "gender": "female",
+        "address": "754 Rojas Freeway, North Daniellefort, AR 49921",
+        "phone": "348-341-2556x391",
+        "email": "fpowell@example.org",
+        "account": {
+            "account_number": "bee49310-5849-4134-bd59-6fcc64144f30",
+            "balance": 1073.02,
+            "transactions": [
+                {
+                    "date": "2024-05-26",
+                    "description": "Interest",
+                    "amount": -2296.93,
+                    "transaction_id": 110441768
+                },
+                {
+                    "date": "2024-01-30",
+                    "description": "Interest",
+                    "amount": -4888.19,
+                    "transaction_id": 88748715
+                },
+                {
+                    "date": "2024-04-01",
+                    "description": "Interest",
+                    "amount": 505.43,
+                    "transaction_id": 10877944
+                }
+            ]
+        }
+    }
+}

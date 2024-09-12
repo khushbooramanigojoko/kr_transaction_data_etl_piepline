@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Cynthia Mccullough",
+        "age": 77,
+        "gender": "female",
+        "address": "3610 Anna Light Suite 080, Rodriguezland, MI 46717",
+        "phone": "231.593.1521x971",
+        "email": "steven27@example.net",
+        "account": {
+            "account_number": "e9ad82f4-4f3e-4605-8116-e996df9c6269",
+            "balance": 21429.32,
+            "transactions": [
+                {
+                    "date": "2023-03-11",
+                    "description": "Interest",
+                    "amount": 17517.84,
+                    "transaction_id": 7350283
+                },
+                {
+                    "date": "2023-12-13",
+                    "description": "Deposit",
+                    "amount": 9735.25,
+                    "transaction_id": 63445042
+                }
+            ]
+        }
+    }
+}

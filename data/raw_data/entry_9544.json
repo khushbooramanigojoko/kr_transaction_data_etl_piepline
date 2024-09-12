@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Olivia Schmidt",
+        "age": 43,
+        "gender": "male",
+        "address": "7532 Miller Square, Lake Amy, IN 42474",
+        "phone": "+1-880-936-0096x418",
+        "email": "khernandez@example.org",
+        "account": {
+            "account_number": "3370558e-2335-4f6c-9dce-63f8e0c67135",
+            "balance": -8755.71,
+            "transactions": [
+                {
+                    "date": "2024-08-14",
+                    "description": "Deposit",
+                    "amount": -2212.29,
+                    "transaction_id": 29616163
+                }
+            ]
+        }
+    }
+}

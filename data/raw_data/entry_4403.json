@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michelle Kaiser",
+        "age": 47,
+        "gender": "male",
+        "address": "Unit 3203 Box 3075, DPO AP 83130",
+        "phone": "5367478278",
+        "email": "anna52@example.com",
+        "account": {
+            "account_number": "d190fc24-44ef-43d3-a541-69e9df626f75",
+            "balance": 40580.88,
+            "transactions": [
+                {
+                    "date": "2024-03-23",
+                    "description": "Withdrawal",
+                    "amount": 19864.69,
+                    "transaction_id": 100492798
+                }
+            ]
+        }
+    }
+}

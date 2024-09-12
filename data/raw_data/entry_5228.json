@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Brittany Gonzalez",
+        "age": 34,
+        "gender": "male",
+        "address": "425 Anne Shoal Suite 150, Debraton, NE 76755",
+        "phone": "834.268.3466x51621",
+        "email": "qdoyle@example.com",
+        "account": {
+            "account_number": "024b8546-da6d-4220-bfad-34c514811d8a",
+            "balance": 15140.5,
+            "transactions": [
+                {
+                    "date": "2024-03-04",
+                    "description": "Deposit",
+                    "amount": 28684.2,
+                    "transaction_id": 15028976
+                },
+                {
+                    "date": "2024-06-28",
+                    "description": "Deposit",
+                    "amount": 32986.47,
+                    "transaction_id": 34867166
+                },
+                {
+                    "date": "2022-11-24",
+                    "description": "Withdrawal",
+                    "amount": 24105.31,
+                    "transaction_id": 34760287
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Chelsea Taylor",
+        "age": 47,
+        "gender": "female",
+        "address": "5696 Nicole Lodge Apt. 715, East Christopher, WI 73327",
+        "phone": "+1-317-352-7327x333",
+        "email": "rachel96@example.net",
+        "account": {
+            "account_number": "a1430535-18d2-4810-a32a-448ec563bdb2",
+            "balance": -8354.98,
+            "transactions": [
+                {
+                    "date": "2023-04-27",
+                    "description": "Withdrawal",
+                    "amount": 3593.55,
+                    "transaction_id": 65649286
+                }
+            ]
+        }
+    }
+}

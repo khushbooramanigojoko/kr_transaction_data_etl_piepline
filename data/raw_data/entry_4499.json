@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Vanessa Cooper",
+        "age": 45,
+        "gender": "female",
+        "address": "81782 Maria Cliff Suite 057, West Nicole, NJ 52566",
+        "phone": "580-985-9619",
+        "email": "christina78@example.org",
+        "account": {
+            "account_number": "9184b482-0b62-4096-9a09-d4b06f7aac59",
+            "balance": 7003.7,
+            "transactions": [
+                {
+                    "date": "2024-02-18",
+                    "description": "Withdrawal",
+                    "amount": 2272.16,
+                    "transaction_id": 38596891
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Interest",
+                    "amount": 2492.57,
+                    "transaction_id": 22343681
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Withdrawal",
+                    "amount": 39987.73,
+                    "transaction_id": 40402338
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Withdrawal",
+                    "amount": 42361.81,
+                    "transaction_id": 78491110
+                }
+            ]
+        }
+    }
+}

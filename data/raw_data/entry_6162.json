@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Daniel Porter",
+        "age": 71,
+        "gender": "male",
+        "address": "524 James Corners Apt. 410, Careyhaven, WY 20654",
+        "phone": "236.221.5465",
+        "email": "palmerjennifer@example.org",
+        "account": {
+            "account_number": "b1504772-c1b2-4cc7-8523-d3dd00442096",
+            "balance": 9496.0,
+            "transactions": [
+                {
+                    "date": "2022-12-22",
+                    "description": "Deposit",
+                    "amount": 49282.01,
+                    "transaction_id": 2408995
+                },
+                {
+                    "date": "2024-01-21",
+                    "description": "Interest",
+                    "amount": 17190.27,
+                    "transaction_id": 91729832
+                },
+                {
+                    "date": "2024-02-11",
+                    "description": "Withdrawal",
+                    "amount": 14212.24,
+                    "transaction_id": 31578218
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Deposit",
+                    "amount": 34201.89,
+                    "transaction_id": 86506881
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Deposit",
+                    "amount": 10070.78,
+                    "transaction_id": 114225741
+                }
+            ]
+        }
+    }
+}

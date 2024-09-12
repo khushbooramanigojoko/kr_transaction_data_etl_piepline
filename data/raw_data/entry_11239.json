@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 98,
+        "gender": "female",
+        "address": "393 Khan Fall, New Sharon, OR 47223",
+        "phone": "001-784-752-3969",
+        "email": "sarah88@example.com",
+        "account": {
+            "account_number": "ead6584c-ea69-4d5e-851f-da1f4dbb6b55",
+            "balance": 44774.43,
+            "transactions": [
+                {
+                    "date": "2024-08-30",
+                    "description": "Interest",
+                    "amount": -4260.45,
+                    "transaction_id": 42189213
+                },
+                {
+                    "date": "2022-11-18",
+                    "description": "Withdrawal",
+                    "amount": -869.81,
+                    "transaction_id": 38603901
+                },
+                {
+                    "date": "2023-06-06",
+                    "description": "Deposit",
+                    "amount": -2146.62,
+                    "transaction_id": 75813020
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Deposit",
+                    "amount": -1755.04,
+                    "transaction_id": 52980437
+                },
+                {
+                    "date": "2024-02-28",
+                    "description": "Withdrawal",
+                    "amount": 1889.58,
+                    "transaction_id": 72035416
+                }
+            ]
+        }
+    }
+}

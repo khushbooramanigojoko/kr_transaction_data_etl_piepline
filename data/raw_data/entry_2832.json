@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Judith Olson",
+        "age": 80,
+        "gender": "male",
+        "address": "0806 Sanders Spurs Suite 895, Brownside, TX 60193",
+        "phone": "556-410-3873x394",
+        "email": "dshepard@example.org",
+        "account": {
+            "account_number": "aa812a6f-df49-47ad-bc8d-4b4e8b606313",
+            "balance": 24464.78,
+            "transactions": [
+                {
+                    "date": "2023-10-09",
+                    "description": "Deposit",
+                    "amount": 24196.29,
+                    "transaction_id": 39065376
+                },
+                {
+                    "date": "2024-06-08",
+                    "description": "Withdrawal",
+                    "amount": 46516.07,
+                    "transaction_id": 107122683
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Withdrawal",
+                    "amount": 37092.14,
+                    "transaction_id": 101945937
+                },
+                {
+                    "date": "2023-06-28",
+                    "description": "Deposit",
+                    "amount": 23769.39,
+                    "transaction_id": 59870811
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Deposit",
+                    "amount": 35934.56,
+                    "transaction_id": 114284792
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "April Wise",
+        "age": 29,
+        "gender": "female",
+        "address": "6017 Wang Brooks, Kimberlyport, SD 88348",
+        "phone": "001-682-686-1193x8520",
+        "email": "nbaker@example.net",
+        "account": {
+            "account_number": "ed0878d5-3f1b-43b9-bed1-e31e1e680cdd",
+            "balance": 28613.94,
+            "transactions": [
+                {
+                    "date": "2023-05-22",
+                    "description": "Withdrawal",
+                    "amount": 41925.18,
+                    "transaction_id": 90440310
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Deposit",
+                    "amount": 13943.14,
+                    "transaction_id": 100645133
+                },
+                {
+                    "date": "2024-06-29",
+                    "description": "Deposit",
+                    "amount": 27229.38,
+                    "transaction_id": 102506075
+                },
+                {
+                    "date": "2024-03-20",
+                    "description": "Interest",
+                    "amount": 21050.69,
+                    "transaction_id": 83755478
+                }
+            ]
+        }
+    }
+}

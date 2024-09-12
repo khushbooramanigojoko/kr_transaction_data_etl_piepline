@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lindsay Sanchez",
+        "age": 28,
+        "gender": "male",
+        "address": "2278 Carlos Corner, Bartonchester, AS 70651",
+        "phone": "001-731-578-5560",
+        "email": "uwashington@example.org",
+        "account": {
+            "account_number": "b2747e99-b9a6-4c5f-a939-11142652c0e1",
+            "balance": 46110.21,
+            "transactions": [
+                {
+                    "date": "2023-11-23",
+                    "description": "Interest",
+                    "amount": 31106.85,
+                    "transaction_id": 68676206
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 51,
+        "gender": "female",
+        "address": "375 Lopez Locks, Port Jennifertown, LA 02407",
+        "phone": "(314)553-1873x734",
+        "email": "aaron10@example.com",
+        "account": {
+            "account_number": "abcb4ebb-c5b7-4d79-83d6-fa279eeb087b",
+            "balance": 6171.45,
+            "transactions": [
+                {
+                    "date": "2024-05-25",
+                    "description": "Interest",
+                    "amount": -3804.48,
+                    "transaction_id": 10871230
+                },
+                {
+                    "date": "2024-03-14",
+                    "description": "Withdrawal",
+                    "amount": -275.25,
+                    "transaction_id": 80261780
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Deposit",
+                    "amount": 238.61,
+                    "transaction_id": 104435989
+                }
+            ]
+        }
+    }
+}

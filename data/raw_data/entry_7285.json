@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kurt Walker",
+        "age": 37,
+        "gender": "male",
+        "address": "9704 Griffin Motorway Suite 412, Dorseyview, DE 72171",
+        "phone": "001-803-652-2811",
+        "email": "tgibbs@example.org",
+        "account": {
+            "account_number": "48ce9867-6389-4da8-bdd3-15f47658b018",
+            "balance": 45311.18,
+            "transactions": [
+                {
+                    "date": "2024-07-30",
+                    "description": "Interest",
+                    "amount": 16798.09,
+                    "transaction_id": 26862446
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Deposit",
+                    "amount": 44139.14,
+                    "transaction_id": 74243001
+                },
+                {
+                    "date": "2023-03-26",
+                    "description": "Deposit",
+                    "amount": 29172.87,
+                    "transaction_id": 1446856
+                },
+                {
+                    "date": "2023-06-04",
+                    "description": "Interest",
+                    "amount": 33967.79,
+                    "transaction_id": 76552042
+                },
+                {
+                    "date": "2023-05-21",
+                    "description": "Interest",
+                    "amount": 6321.13,
+                    "transaction_id": 116822603
+                }
+            ]
+        }
+    }
+}

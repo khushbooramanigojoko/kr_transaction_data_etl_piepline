@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Karen Jimenez",
+        "age": 27,
+        "gender": "female",
+        "address": "6760 Patricia Canyon Suite 011, South Angela, KY 68674",
+        "phone": "370-519-8238x408",
+        "email": "stephanie04@example.com",
+        "account": {
+            "account_number": "acb24662-25b3-48ce-bdf9-f875ef4171f0",
+            "balance": 1327.99,
+            "transactions": [
+                {
+                    "date": "2022-10-18",
+                    "description": "Deposit",
+                    "amount": 23165.66,
+                    "transaction_id": 76840619
+                },
+                {
+                    "date": "2024-08-25",
+                    "description": "Withdrawal",
+                    "amount": 17622.69,
+                    "transaction_id": 27320999
+                },
+                {
+                    "date": "2023-05-07",
+                    "description": "Withdrawal",
+                    "amount": 25625.88,
+                    "transaction_id": 30417810
+                }
+            ]
+        }
+    }
+}

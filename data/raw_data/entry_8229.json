@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tami Nguyen",
+        "age": 33,
+        "gender": "female",
+        "address": "83860 Duane Estate Apt. 083, Candiceborough, AL 01087",
+        "phone": "+1-618-469-4332x8850",
+        "email": "jray@example.org",
+        "account": {
+            "account_number": "4503cec5-b73b-49a3-9de7-a9859f4ab754",
+            "balance": 3606.13,
+            "transactions": [
+                {
+                    "date": "2023-05-24",
+                    "description": "Withdrawal",
+                    "amount": 26993.91,
+                    "transaction_id": 26342517
+                }
+            ]
+        }
+    }
+}

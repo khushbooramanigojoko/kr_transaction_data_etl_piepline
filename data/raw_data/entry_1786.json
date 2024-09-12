@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jesus Freeman",
+        "age": 27,
+        "gender": "male",
+        "address": "68917 Hammond Ville, Davidton, IN 39389",
+        "phone": "316.455.7073",
+        "email": "jamesibarra@example.net",
+        "account": {
+            "account_number": "9a552ff8-c8ac-4b97-bd87-9db5afccd294",
+            "balance": 31020.33,
+            "transactions": [
+                {
+                    "date": "2023-02-20",
+                    "description": "Deposit",
+                    "amount": 46361.88,
+                    "transaction_id": 83809925
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Interest",
+                    "amount": 48783.34,
+                    "transaction_id": 83615136
+                },
+                {
+                    "date": "2024-07-16",
+                    "description": "Deposit",
+                    "amount": 17590.38,
+                    "transaction_id": 47274559
+                },
+                {
+                    "date": "2023-09-15",
+                    "description": "Interest",
+                    "amount": 26718.27,
+                    "transaction_id": 17064603
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Deposit",
+                    "amount": 21568.67,
+                    "transaction_id": 56846504
+                }
+            ]
+        }
+    }
+}

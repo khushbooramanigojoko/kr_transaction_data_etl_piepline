@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Diana Guzman",
+        "age": 45,
+        "gender": "female",
+        "address": "64003 Priscilla Rapid, New Christinaland, RI 05400",
+        "phone": "(495)998-3087x24466",
+        "email": "hollandcharles@example.org",
+        "account": {
+            "account_number": "4f7463b4-3631-4022-a649-904912816ea5",
+            "balance": 39544.31,
+            "transactions": [
+                {
+                    "date": "2023-03-20",
+                    "description": "Interest",
+                    "amount": 38479.0,
+                    "transaction_id": 68865461
+                },
+                {
+                    "date": "2023-05-10",
+                    "description": "Deposit",
+                    "amount": 40891.6,
+                    "transaction_id": 55152190
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Deposit",
+                    "amount": 843.99,
+                    "transaction_id": 38138781
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Withdrawal",
+                    "amount": 22568.17,
+                    "transaction_id": 17244517
+                }
+            ]
+        }
+    }
+}

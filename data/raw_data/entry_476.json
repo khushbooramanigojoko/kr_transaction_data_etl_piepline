@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Donna Evans",
+        "age": 68,
+        "gender": "male",
+        "address": "94781 Graham Corner Apt. 814, New Susan, HI 01675",
+        "phone": "001-898-741-5545x094",
+        "email": "joanferrell@example.com",
+        "account": {
+            "account_number": "818a0ffe-9114-4b00-8a90-3c7af450d9e4",
+            "balance": 25643.51,
+            "transactions": [
+                {
+                    "date": "2023-09-04",
+                    "description": "Deposit",
+                    "amount": 30204.88,
+                    "transaction_id": 70160437
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Withdrawal",
+                    "amount": 45835.0,
+                    "transaction_id": 89150739
+                },
+                {
+                    "date": "2023-11-21",
+                    "description": "Withdrawal",
+                    "amount": 21485.06,
+                    "transaction_id": 32817145
+                },
+                {
+                    "date": "2023-01-11",
+                    "description": "Withdrawal",
+                    "amount": 31762.44,
+                    "transaction_id": 2002128
+                },
+                {
+                    "date": "2024-05-13",
+                    "description": "Withdrawal",
+                    "amount": 12653.7,
+                    "transaction_id": 19467301
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dr. Dawn Winters",
+        "age": 83,
+        "gender": "male",
+        "address": "7080 Tucker Hill Apt. 373, North Andrewville, MN 49089",
+        "phone": "397.268.9164x802",
+        "email": "raymond17@example.org",
+        "account": {
+            "account_number": "02250ccc-4cd3-4041-ba19-0e927398c465",
+            "balance": 11951.52,
+            "transactions": [
+                {
+                    "date": "2024-02-22",
+                    "description": "Interest",
+                    "amount": 5120.68,
+                    "transaction_id": 107482283
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Interest",
+                    "amount": 36021.82,
+                    "transaction_id": 103989428
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Interest",
+                    "amount": 25539.69,
+                    "transaction_id": 26464562
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Interest",
+                    "amount": 229.18,
+                    "transaction_id": 110136362
+                }
+            ]
+        }
+    }
+}

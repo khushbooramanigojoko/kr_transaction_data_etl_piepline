@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sharon Nguyen",
+        "age": 86,
+        "gender": "female",
+        "address": "345 Lisa Spring Suite 859, Pettytown, MO 91222",
+        "phone": "243-545-7929",
+        "email": "jgordon@example.net",
+        "account": {
+            "account_number": "7c5ae7d9-86d5-4fb5-bb81-2d0c7d63ae98",
+            "balance": 42494.31,
+            "transactions": [
+                {
+                    "date": "2022-11-27",
+                    "description": "Withdrawal",
+                    "amount": 35002.12,
+                    "transaction_id": 44564680
+                },
+                {
+                    "date": "2024-08-06",
+                    "description": "Deposit",
+                    "amount": 8284.0,
+                    "transaction_id": 51401159
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Withdrawal",
+                    "amount": 10705.62,
+                    "transaction_id": 67917888
+                },
+                {
+                    "date": "2022-12-16",
+                    "description": "Withdrawal",
+                    "amount": 24870.75,
+                    "transaction_id": 108888522
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Withdrawal",
+                    "amount": 31109.44,
+                    "transaction_id": 99242748
+                }
+            ]
+        }
+    }
+}

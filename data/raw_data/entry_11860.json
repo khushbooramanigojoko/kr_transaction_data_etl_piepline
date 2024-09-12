@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 31,
+        "gender": "female",
+        "address": "PSC 3576, Box 7219, APO AP 96389",
+        "phone": "+1-975-609-0567",
+        "email": "donnafleming@example.org",
+        "account": {
+            "account_number": "43e79a27-7862-406b-b45f-8319cca80ba2",
+            "balance": 8206.01,
+            "transactions": [
+                {
+                    "date": "2023-08-21",
+                    "description": "Withdrawal",
+                    "amount": 284.73,
+                    "transaction_id": 43326005
+                },
+                {
+                    "date": "2023-08-07",
+                    "description": "Interest",
+                    "amount": -602.53,
+                    "transaction_id": 55711859
+                },
+                {
+                    "date": "2023-08-13",
+                    "description": "Withdrawal",
+                    "amount": -921.65,
+                    "transaction_id": 28082155
+                },
+                {
+                    "date": "2024-02-11",
+                    "description": "Withdrawal",
+                    "amount": -2773.95,
+                    "transaction_id": 34997317
+                },
+                {
+                    "date": "2024-08-20",
+                    "description": "Withdrawal",
+                    "amount": 3024.6,
+                    "transaction_id": 106406379
+                }
+            ]
+        }
+    }
+}

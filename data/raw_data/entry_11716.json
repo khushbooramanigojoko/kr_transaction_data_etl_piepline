@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Eric Morris",
+        "age": 75,
+        "gender": "male",
+        "address": "838 Patel Camp, Lake Alan, CA 15650",
+        "phone": "519-228-7268x7780",
+        "email": "thomas88@example.com",
+        "account": {
+            "account_number": "4de4036d-dd4c-4d84-8fa4-be45c11977df",
+            "balance": -45137.73,
+            "transactions": [
+                {
+                    "date": "2023-02-04",
+                    "description": "Deposit",
+                    "amount": -2607.03,
+                    "transaction_id": 44455963
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Interest",
+                    "amount": 1512.07,
+                    "transaction_id": 27876034
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Interest",
+                    "amount": -3747.95,
+                    "transaction_id": 103976684
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Withdrawal",
+                    "amount": -1777.58,
+                    "transaction_id": 23644554
+                },
+                {
+                    "date": "2023-04-03",
+                    "description": "Withdrawal",
+                    "amount": -2834.94,
+                    "transaction_id": 68821598
+                }
+            ]
+        }
+    }
+}

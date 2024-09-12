@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Adam Mann",
+        "age": 90,
+        "gender": "male",
+        "address": "823 Alex Mission Suite 821, Bairdborough, IL 26096",
+        "phone": "768-579-1631x8384",
+        "email": "chandaniel@example.net",
+        "account": {
+            "account_number": "45606ba7-dd3c-4020-9f7b-fdc3a44e5112",
+            "balance": -2592.52,
+            "transactions": [
+                {
+                    "date": "2022-10-17",
+                    "description": "Interest",
+                    "amount": -3012.51,
+                    "transaction_id": 68487953
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Withdrawal",
+                    "amount": -1551.33,
+                    "transaction_id": 46306058
+                }
+            ]
+        }
+    }
+}

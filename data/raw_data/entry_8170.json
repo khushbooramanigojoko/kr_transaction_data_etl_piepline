@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joseph Munoz",
+        "age": 98,
+        "gender": "male",
+        "address": "075 Wolf Squares, Arthurhaven, WA 85069",
+        "phone": "414-291-7813",
+        "email": "casedavid@example.net",
+        "account": {
+            "account_number": "93a740b6-540c-4b5a-bfd8-a56ba776f6ee",
+            "balance": 35073.01,
+            "transactions": [
+                {
+                    "date": "2023-02-10",
+                    "description": "Withdrawal",
+                    "amount": 44950.03,
+                    "transaction_id": 11532522
+                }
+            ]
+        }
+    }
+}

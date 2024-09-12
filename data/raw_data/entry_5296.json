@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Heather Barker",
+        "age": 24,
+        "gender": "female",
+        "address": "55306 Curry Ridge, North Joshua, NE 94347",
+        "phone": "001-432-658-5885x4077",
+        "email": "marksanchez@example.net",
+        "account": {
+            "account_number": "c44c2c37-f803-48c2-b133-f0b83e4699c1",
+            "balance": 4406.34,
+            "transactions": [
+                {
+                    "date": "2023-07-13",
+                    "description": "Withdrawal",
+                    "amount": 536.07,
+                    "transaction_id": 56700346
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Interest",
+                    "amount": 38806.26,
+                    "transaction_id": 21218780
+                },
+                {
+                    "date": "2023-04-16",
+                    "description": "Interest",
+                    "amount": 48323.25,
+                    "transaction_id": 109384652
+                }
+            ]
+        }
+    }
+}

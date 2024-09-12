@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kristy Solomon",
+        "age": 88,
+        "gender": "male",
+        "address": "9996 Kevin Rapids, Walkerview, AS 06284",
+        "phone": "001-396-718-8250x16875",
+        "email": "timothy07@example.org",
+        "account": {
+            "account_number": "445dbb8c-0029-44eb-9e6f-3e8cf5aaa5bc",
+            "balance": 22531.84,
+            "transactions": [
+                {
+                    "date": "2023-05-26",
+                    "description": "Deposit",
+                    "amount": 48861.38,
+                    "transaction_id": 70326260
+                },
+                {
+                    "date": "2023-09-02",
+                    "description": "Withdrawal",
+                    "amount": 35755.2,
+                    "transaction_id": 100192104
+                },
+                {
+                    "date": "2024-06-03",
+                    "description": "Deposit",
+                    "amount": 36302.04,
+                    "transaction_id": 10110713
+                }
+            ]
+        }
+    }
+}

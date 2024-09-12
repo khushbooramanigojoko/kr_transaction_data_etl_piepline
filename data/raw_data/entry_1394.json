@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Raymond Fitzpatrick",
+        "age": 62,
+        "gender": "female",
+        "address": "Unit 7636 Box 7833, DPO AE 28764",
+        "phone": "(275)369-8792x673",
+        "email": "bbarnes@example.org",
+        "account": {
+            "account_number": "c6009875-d5f4-4a3f-b546-afc431cffafe",
+            "balance": 12839.32,
+            "transactions": [
+                {
+                    "date": "2023-02-02",
+                    "description": "Withdrawal",
+                    "amount": 25494.45,
+                    "transaction_id": 60002079
+                },
+                {
+                    "date": "2024-05-26",
+                    "description": "Interest",
+                    "amount": 48363.31,
+                    "transaction_id": 20695241
+                },
+                {
+                    "date": "2023-03-06",
+                    "description": "Deposit",
+                    "amount": 19995.36,
+                    "transaction_id": 25830915
+                }
+            ]
+        }
+    }
+}

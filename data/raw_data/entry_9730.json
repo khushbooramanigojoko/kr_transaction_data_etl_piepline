@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 65,
+        "gender": "female",
+        "address": "24240 Mary Manors Apt. 348, Amyfurt, KS 07027",
+        "phone": "(292)204-9219x206",
+        "email": "mwallace@example.org",
+        "account": {
+            "account_number": "bfea284e-d6c2-4b59-8f40-2b41fdeeb37a",
+            "balance": 26897.58,
+            "transactions": [
+                {
+                    "date": "2023-08-04",
+                    "description": "Deposit",
+                    "amount": 2481.98,
+                    "transaction_id": 31001916
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Deposit",
+                    "amount": -500.25,
+                    "transaction_id": 118993629
+                },
+                {
+                    "date": "2023-04-14",
+                    "description": "Deposit",
+                    "amount": 2825.13,
+                    "transaction_id": 70755796
+                }
+            ]
+        }
+    }
+}

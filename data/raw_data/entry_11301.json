@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Maria Rivera",
+        "age": 75,
+        "gender": "female",
+        "address": "99644 William Gateway Apt. 214, West Danielleburgh, MT 15985",
+        "phone": "(969)636-3281x01506",
+        "email": "vangjohn@example.net",
+        "account": {
+            "account_number": "2d1a91f5-787a-4bd6-b4dd-d2bedd783fe7",
+            "balance": -23030.41,
+            "transactions": [
+                {
+                    "date": "2024-05-18",
+                    "description": "Withdrawal",
+                    "amount": 4780.1,
+                    "transaction_id": 86539914
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Deposit",
+                    "amount": 466.6,
+                    "transaction_id": 58944801
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Interest",
+                    "amount": -1210.99,
+                    "transaction_id": 54639080
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "William Whitney",
+        "age": 82,
+        "gender": "male",
+        "address": "046 Lisa Coves, New Sheliahaven, ME 81315",
+        "phone": "(774)752-6580x22336",
+        "email": "jpalmer@example.net",
+        "account": {
+            "account_number": "b8029817-cdd0-4e13-92fd-ac16c9d19e44",
+            "balance": 8157.31,
+            "transactions": [
+                {
+                    "date": "2022-11-29",
+                    "description": "Interest",
+                    "amount": 36960.63,
+                    "transaction_id": 78484369
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Withdrawal",
+                    "amount": 34202.65,
+                    "transaction_id": 47145296
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Withdrawal",
+                    "amount": 25547.4,
+                    "transaction_id": 85655547
+                }
+            ]
+        }
+    }
+}

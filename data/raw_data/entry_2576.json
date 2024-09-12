@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lauren Lawson",
+        "age": 21,
+        "gender": "female",
+        "address": "10410 Johnson Haven, Arnoldstad, IN 90187",
+        "phone": "001-575-902-3419x99990",
+        "email": "tammy56@example.org",
+        "account": {
+            "account_number": "3b94d02b-c8ad-4698-a47c-98aa1d8416e3",
+            "balance": 24936.23,
+            "transactions": [
+                {
+                    "date": "2024-09-01",
+                    "description": "Interest",
+                    "amount": 36811.93,
+                    "transaction_id": 75908906
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Interest",
+                    "amount": 31603.57,
+                    "transaction_id": 33500971
+                },
+                {
+                    "date": "2023-08-29",
+                    "description": "Interest",
+                    "amount": 32628.31,
+                    "transaction_id": 73072091
+                },
+                {
+                    "date": "2024-04-07",
+                    "description": "Withdrawal",
+                    "amount": 43358.98,
+                    "transaction_id": 4770852
+                }
+            ]
+        }
+    }
+}

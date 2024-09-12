@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 57,
+        "gender": "male",
+        "address": "PSC 1545, Box 2021, APO AP 23596",
+        "phone": "303-725-0987x190",
+        "email": "amanda00@example.com",
+        "account": {
+            "account_number": "cc5e8cd1-4d9f-4063-832e-5cc49498c390",
+            "balance": 1300.15,
+            "transactions": [
+                {
+                    "date": "2022-09-11",
+                    "description": "Deposit",
+                    "amount": 673.79,
+                    "transaction_id": 9107849
+                }
+            ]
+        }
+    }
+}

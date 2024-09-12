@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stacy Perez",
+        "age": 49,
+        "gender": "female",
+        "address": "42273 Shaw Terrace Apt. 646, West Marissa, NJ 27640",
+        "phone": "+1-338-519-7936x303",
+        "email": "escobarmario@example.com",
+        "account": {
+            "account_number": "2a6e98ed-4282-459a-9e64-f3e608384a51",
+            "balance": 20140.05,
+            "transactions": [
+                {
+                    "date": "2024-02-19",
+                    "description": "Deposit",
+                    "amount": 47014.41,
+                    "transaction_id": 80852267
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Deposit",
+                    "amount": 17573.81,
+                    "transaction_id": 67353682
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Deposit",
+                    "amount": 34730.37,
+                    "transaction_id": 30507853
+                },
+                {
+                    "date": "2024-04-07",
+                    "description": "Interest",
+                    "amount": 37175.44,
+                    "transaction_id": 103639633
+                }
+            ]
+        }
+    }
+}

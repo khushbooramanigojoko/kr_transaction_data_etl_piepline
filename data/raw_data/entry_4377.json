@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alexis Herrera",
+        "age": 83,
+        "gender": "male",
+        "address": "3931 Johnson Shoal, North Zachary, PW 56777",
+        "phone": "(997)948-4173x270",
+        "email": "bentleymichael@example.net",
+        "account": {
+            "account_number": "32b21ae7-f26d-4e67-8179-456297911287",
+            "balance": 41575.84,
+            "transactions": [
+                {
+                    "date": "2023-05-05",
+                    "description": "Withdrawal",
+                    "amount": 13143.88,
+                    "transaction_id": 11093049
+                }
+            ]
+        }
+    }
+}

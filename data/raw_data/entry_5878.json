@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brooke Johnson",
+        "age": 34,
+        "gender": "female",
+        "address": "646 Parsons Village Suite 408, Wesleymouth, OR 25937",
+        "phone": "001-667-630-0974x4653",
+        "email": "travis34@example.net",
+        "account": {
+            "account_number": "102e5af1-98e5-4713-b036-37ab233843dd",
+            "balance": 42935.88,
+            "transactions": [
+                {
+                    "date": "2024-06-27",
+                    "description": "Deposit",
+                    "amount": 37303.58,
+                    "transaction_id": 15881222
+                }
+            ]
+        }
+    }
+}

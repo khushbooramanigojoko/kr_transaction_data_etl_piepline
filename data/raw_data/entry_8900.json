@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brian Johnson",
+        "age": 77,
+        "gender": "male",
+        "address": "48493 Reeves Prairie, Lake Kimberlybury, WA 52506",
+        "phone": "001-958-799-1667x5667",
+        "email": "james19@example.net",
+        "account": {
+            "account_number": "70411482-ed41-47fc-bbba-8f845c1a67d9",
+            "balance": -35024.34,
+            "transactions": [
+                {
+                    "date": "2024-06-10",
+                    "description": "Withdrawal",
+                    "amount": -1410.35,
+                    "transaction_id": 40363552
+                },
+                {
+                    "date": "2024-05-13",
+                    "description": "Deposit",
+                    "amount": 4886.07,
+                    "transaction_id": 13288754
+                }
+            ]
+        }
+    }
+}

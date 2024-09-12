@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "John Holmes",
+        "age": 95,
+        "gender": "female",
+        "address": "0487 Kristen Rue Apt. 442, Lake Nancy, SD 72730",
+        "phone": "+1-808-341-5130x37315",
+        "email": "brittanyvance@example.org",
+        "account": {
+            "account_number": "2f677f3e-15a4-4afa-83e0-0065691443fd",
+            "balance": 5326.93,
+            "transactions": [
+                {
+                    "date": "2022-09-23",
+                    "description": "Deposit",
+                    "amount": 1229.87,
+                    "transaction_id": 61375827
+                }
+            ]
+        }
+    }
+}

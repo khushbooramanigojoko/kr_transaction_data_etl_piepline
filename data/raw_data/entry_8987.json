@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Bryan King",
+        "age": 98,
+        "gender": "male",
+        "address": "502 Robert Overpass Suite 501, Nicholsonside, AK 94986",
+        "phone": "265-440-8842",
+        "email": "jlarson@example.com",
+        "account": {
+            "account_number": "c760fd9e-0221-4bff-a6d3-60db9d7b4b55",
+            "balance": -5242.68,
+            "transactions": [
+                {
+                    "date": "2022-09-28",
+                    "description": "Withdrawal",
+                    "amount": -2189.04,
+                    "transaction_id": 110215778
+                }
+            ]
+        }
+    }
+}

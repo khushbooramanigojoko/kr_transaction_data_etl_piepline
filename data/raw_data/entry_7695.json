@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Justin Murphy",
+        "age": 69,
+        "gender": "male",
+        "address": "51358 Samuel Pine, North Michaelport, LA 35387",
+        "phone": "+1-263-279-6228",
+        "email": "wrogers@example.com",
+        "account": {
+            "account_number": "e041a5b2-bdf0-4986-b530-4e8edd2ea903",
+            "balance": 1755.39,
+            "transactions": [
+                {
+                    "date": "2022-12-12",
+                    "description": "Interest",
+                    "amount": 36495.91,
+                    "transaction_id": 119300760
+                },
+                {
+                    "date": "2024-03-09",
+                    "description": "Interest",
+                    "amount": 39441.6,
+                    "transaction_id": 89464703
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sheila Hernandez",
+        "age": 33,
+        "gender": "male",
+        "address": "00867 Angela Mount, South Bettybury, MO 20343",
+        "phone": "001-334-459-7582x55177",
+        "email": "reyescatherine@example.net",
+        "account": {
+            "account_number": "c8aa240e-9a3c-4c40-b290-d96ed12af37a",
+            "balance": 10192.73,
+            "transactions": [
+                {
+                    "date": "2023-08-26",
+                    "description": "Deposit",
+                    "amount": 47215.29,
+                    "transaction_id": 93892501
+                },
+                {
+                    "date": "2023-03-29",
+                    "description": "Withdrawal",
+                    "amount": 30678.1,
+                    "transaction_id": 7269822
+                },
+                {
+                    "date": "2023-01-09",
+                    "description": "Interest",
+                    "amount": 37387.56,
+                    "transaction_id": 64469459
+                }
+            ]
+        }
+    }
+}

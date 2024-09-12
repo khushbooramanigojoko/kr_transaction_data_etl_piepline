@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Rachel Baker",
+        "age": 26,
+        "gender": "male",
+        "address": "547 Morris Drive, Tommyview, OR 58028",
+        "phone": "343.752.3417",
+        "email": "jillmorgan@example.com",
+        "account": {
+            "account_number": "e707a592-bf72-432c-b703-0732f2078b90",
+            "balance": 23569.89,
+            "transactions": [
+                {
+                    "date": "2023-09-17",
+                    "description": "Deposit",
+                    "amount": 14868.61,
+                    "transaction_id": 70650709
+                },
+                {
+                    "date": "2023-06-12",
+                    "description": "Interest",
+                    "amount": 26922.22,
+                    "transaction_id": 46027621
+                },
+                {
+                    "date": "2023-06-12",
+                    "description": "Deposit",
+                    "amount": 23643.49,
+                    "transaction_id": 59401902
+                }
+            ]
+        }
+    }
+}

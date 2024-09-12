@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "William Benson",
+        "age": 18,
+        "gender": "male",
+        "address": "5268 Gordon Square Suite 709, Antonioville, CA 45485",
+        "phone": "+1-517-686-0322x2120",
+        "email": "nicoleramirez@example.org",
+        "account": {
+            "account_number": "ad711d4d-ef56-489c-b406-5380837d5f6d",
+            "balance": 3696.45,
+            "transactions": [
+                {
+                    "date": "2024-06-16",
+                    "description": "Interest",
+                    "amount": 29329.09,
+                    "transaction_id": 41096309
+                },
+                {
+                    "date": "2024-02-25",
+                    "description": "Deposit",
+                    "amount": 14610.94,
+                    "transaction_id": 37560170
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Interest",
+                    "amount": 34718.0,
+                    "transaction_id": 96901956
+                },
+                {
+                    "date": "2023-05-16",
+                    "description": "Deposit",
+                    "amount": 15278.69,
+                    "transaction_id": 76254961
+                },
+                {
+                    "date": "2023-06-05",
+                    "description": "Withdrawal",
+                    "amount": 24070.75,
+                    "transaction_id": 89683467
+                }
+            ]
+        }
+    }
+}

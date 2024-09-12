@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 67,
+        "gender": "male",
+        "address": "8416 Jerry Ports, East Tyler, IN 46673",
+        "phone": "(795)979-4774x027",
+        "email": "julieacosta@example.com",
+        "account": {
+            "account_number": "81e91c7c-57b7-4e65-9788-9a11c15363b5",
+            "balance": 11851.59,
+            "transactions": [
+                {
+                    "date": "2024-09-01",
+                    "description": "Deposit",
+                    "amount": 354.6,
+                    "transaction_id": 75981678
+                },
+                {
+                    "date": "2024-02-18",
+                    "description": "Withdrawal",
+                    "amount": 2056.4,
+                    "transaction_id": 76597609
+                }
+            ]
+        }
+    }
+}

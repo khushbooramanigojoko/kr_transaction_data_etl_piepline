@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tina Jensen",
+        "age": 85,
+        "gender": "male",
+        "address": "999 Oscar Key, New Traci, VT 89842",
+        "phone": "378.819.1074x549",
+        "email": "howardcrystal@example.com",
+        "account": {
+            "account_number": "89d80009-24c6-489f-9724-ec062b248e22",
+            "balance": 19601.73,
+            "transactions": [
+                {
+                    "date": "2024-06-27",
+                    "description": "Deposit",
+                    "amount": 48168.31,
+                    "transaction_id": 102619964
+                }
+            ]
+        }
+    }
+}

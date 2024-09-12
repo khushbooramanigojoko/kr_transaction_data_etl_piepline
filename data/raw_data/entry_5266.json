@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christie Copeland",
+        "age": 90,
+        "gender": "male",
+        "address": "PSC 5040, Box 8108, APO AE 21034",
+        "phone": "001-532-495-6760x542",
+        "email": "perezmichael@example.net",
+        "account": {
+            "account_number": "234228b4-18ec-4266-b41f-bd80d8b73beb",
+            "balance": 43422.97,
+            "transactions": [
+                {
+                    "date": "2023-08-08",
+                    "description": "Deposit",
+                    "amount": 43206.85,
+                    "transaction_id": 26926572
+                },
+                {
+                    "date": "2023-01-13",
+                    "description": "Withdrawal",
+                    "amount": 22662.8,
+                    "transaction_id": 112299551
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Interest",
+                    "amount": 31745.97,
+                    "transaction_id": 12353308
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Interest",
+                    "amount": 30086.25,
+                    "transaction_id": 16664674
+                }
+            ]
+        }
+    }
+}

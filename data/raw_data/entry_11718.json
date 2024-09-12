@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Gregory Harrington",
+        "age": 80,
+        "gender": "male",
+        "address": "USCGC Barnes, FPO AA 22351",
+        "phone": "(603)466-9485x420",
+        "email": "colemanjonathan@example.net",
+        "account": {
+            "account_number": "4c74cb5d-2319-44fe-9b58-4c967f603749",
+            "balance": -36646.55,
+            "transactions": [
+                {
+                    "date": "2022-12-05",
+                    "description": "Interest",
+                    "amount": -4355.44,
+                    "transaction_id": 38854498
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Withdrawal",
+                    "amount": -228.8,
+                    "transaction_id": 3623358
+                },
+                {
+                    "date": "2024-03-25",
+                    "description": "Interest",
+                    "amount": 3250.44,
+                    "transaction_id": 119096850
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Deposit",
+                    "amount": 674.32,
+                    "transaction_id": 72850884
+                }
+            ]
+        }
+    }
+}

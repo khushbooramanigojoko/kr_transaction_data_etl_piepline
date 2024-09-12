@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Daniel Smith",
+        "age": 52,
+        "gender": "female",
+        "address": "356 Michael Curve, West Kristine, SC 43565",
+        "phone": "(858)298-1570x00649",
+        "email": "fgonzales@example.com",
+        "account": {
+            "account_number": "7785b0dd-64d9-482e-847f-2ba60c4d7c27",
+            "balance": 41108.7,
+            "transactions": [
+                {
+                    "date": "2024-04-14",
+                    "description": "Withdrawal",
+                    "amount": 26190.64,
+                    "transaction_id": 50013122
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Interest",
+                    "amount": 46811.21,
+                    "transaction_id": 20740454
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Deposit",
+                    "amount": 26913.14,
+                    "transaction_id": 42653976
+                },
+                {
+                    "date": "2024-03-12",
+                    "description": "Interest",
+                    "amount": 26545.05,
+                    "transaction_id": 12386283
+                },
+                {
+                    "date": "2023-12-06",
+                    "description": "Deposit",
+                    "amount": 48238.3,
+                    "transaction_id": 59201553
+                }
+            ]
+        }
+    }
+}

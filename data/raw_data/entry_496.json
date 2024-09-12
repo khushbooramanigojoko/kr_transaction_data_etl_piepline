@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Connie Taylor",
+        "age": 73,
+        "gender": "male",
+        "address": "586 Vasquez Dale, Port Todd, MN 69849",
+        "phone": "+1-538-478-9600x6090",
+        "email": "sheri68@example.net",
+        "account": {
+            "account_number": "1370711c-23d5-4a70-b84c-49e777861aae",
+            "balance": 6828.81,
+            "transactions": [
+                {
+                    "date": "2024-07-30",
+                    "description": "Deposit",
+                    "amount": 26094.49,
+                    "transaction_id": 67946830
+                },
+                {
+                    "date": "2023-09-09",
+                    "description": "Interest",
+                    "amount": 6595.15,
+                    "transaction_id": 61398620
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Withdrawal",
+                    "amount": 36784.13,
+                    "transaction_id": 118315741
+                },
+                {
+                    "date": "2023-06-18",
+                    "description": "Deposit",
+                    "amount": 4103.96,
+                    "transaction_id": 38177014
+                }
+            ]
+        }
+    }
+}

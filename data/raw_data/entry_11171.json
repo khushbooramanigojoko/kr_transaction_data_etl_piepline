@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 79,
+        "gender": "female",
+        "address": "08940 Brown Ports Suite 387, East Jasminechester, RI 57310",
+        "phone": "360-827-6108",
+        "email": "robert97@example.com",
+        "account": {
+            "account_number": "ce38af54-525f-4eeb-93a8-e6cb0075052b",
+            "balance": 1802.45,
+            "transactions": [
+                {
+                    "date": "2024-07-09",
+                    "description": "Deposit",
+                    "amount": -3137.04,
+                    "transaction_id": 61783917
+                },
+                {
+                    "date": "2023-05-15",
+                    "description": "Withdrawal",
+                    "amount": 3586.67,
+                    "transaction_id": 103331651
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Reginald Stanley",
+        "age": 41,
+        "gender": "female",
+        "address": "41172 Jones Springs Suite 550, East Eric, ID 85219",
+        "phone": "674.911.5293x10817",
+        "email": "michael66@example.com",
+        "account": {
+            "account_number": "81eafeb9-a761-4386-a439-d2dd2bee7d97",
+            "balance": 13355.11,
+            "transactions": [
+                {
+                    "date": "2024-06-29",
+                    "description": "Deposit",
+                    "amount": 40803.24,
+                    "transaction_id": 12551216
+                },
+                {
+                    "date": "2024-03-29",
+                    "description": "Withdrawal",
+                    "amount": 10629.67,
+                    "transaction_id": 104180080
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Deposit",
+                    "amount": 47461.35,
+                    "transaction_id": 55296923
+                },
+                {
+                    "date": "2023-08-06",
+                    "description": "Withdrawal",
+                    "amount": 31031.01,
+                    "transaction_id": 97710256
+                }
+            ]
+        }
+    }
+}

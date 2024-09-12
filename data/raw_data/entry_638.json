@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Adam Mckinney",
+        "age": 92,
+        "gender": "female",
+        "address": "8616 Velazquez Gateway Suite 437, Port Valerieberg, NV 88137",
+        "phone": "891-768-7285",
+        "email": "jon86@example.org",
+        "account": {
+            "account_number": "ac811e17-fefb-4984-aeec-01365522794e",
+            "balance": 18748.2,
+            "transactions": [
+                {
+                    "date": "2023-07-11",
+                    "description": "Interest",
+                    "amount": 4123.91,
+                    "transaction_id": 3293717
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Deposit",
+                    "amount": 6931.35,
+                    "transaction_id": 40480699
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Deposit",
+                    "amount": 18634.33,
+                    "transaction_id": 65911279
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Withdrawal",
+                    "amount": 43819.72,
+                    "transaction_id": 76659793
+                },
+                {
+                    "date": "2023-05-22",
+                    "description": "Interest",
+                    "amount": 21938.04,
+                    "transaction_id": 48490834
+                }
+            ]
+        }
+    }
+}

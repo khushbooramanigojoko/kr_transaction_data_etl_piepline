@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Stephanie Donovan",
+        "age": 45,
+        "gender": "female",
+        "address": "601 Wilkerson Glens, North Williamfort, WV 99211",
+        "phone": "+1-926-591-1196",
+        "email": "williamskeith@example.org",
+        "account": {
+            "account_number": "46dbf69e-d9b6-4791-8005-13e7f8fb6db3",
+            "balance": 44064.21,
+            "transactions": [
+                {
+                    "date": "2024-08-07",
+                    "description": "Interest",
+                    "amount": 6319.08,
+                    "transaction_id": 66319115
+                },
+                {
+                    "date": "2023-12-30",
+                    "description": "Interest",
+                    "amount": 14764.18,
+                    "transaction_id": 36216500
+                }
+            ]
+        }
+    }
+}

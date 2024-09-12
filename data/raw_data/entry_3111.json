@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Paul Erickson",
+        "age": 93,
+        "gender": "female",
+        "address": "27227 Michelle Harbor Apt. 617, Matthewhaven, DE 27257",
+        "phone": "+1-350-769-9391x48522",
+        "email": "phelpslisa@example.com",
+        "account": {
+            "account_number": "75458349-540b-409b-8e2c-193886c55b44",
+            "balance": 46186.58,
+            "transactions": [
+                {
+                    "date": "2023-07-20",
+                    "description": "Withdrawal",
+                    "amount": 19363.26,
+                    "transaction_id": 88441415
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jacob Lyons",
+        "age": 72,
+        "gender": "male",
+        "address": "484 Jackie Glens, New Wendyfurt, IA 22709",
+        "phone": "237.438.4823x329",
+        "email": "vthomas@example.net",
+        "account": {
+            "account_number": "f19a9138-19b4-4dd4-816c-ae974aadb507",
+            "balance": 7359.32,
+            "transactions": [
+                {
+                    "date": "2024-07-20",
+                    "description": "Withdrawal",
+                    "amount": 10998.75,
+                    "transaction_id": 28796970
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Withdrawal",
+                    "amount": 48471.21,
+                    "transaction_id": 52498111
+                },
+                {
+                    "date": "2023-08-07",
+                    "description": "Deposit",
+                    "amount": 42119.8,
+                    "transaction_id": 61472147
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Deposit",
+                    "amount": 6054.62,
+                    "transaction_id": 56840821
+                },
+                {
+                    "date": "2023-03-06",
+                    "description": "Deposit",
+                    "amount": 39579.63,
+                    "transaction_id": 108862724
+                }
+            ]
+        }
+    }
+}

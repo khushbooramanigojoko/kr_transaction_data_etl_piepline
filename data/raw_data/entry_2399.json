@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Deborah Robles",
+        "age": 63,
+        "gender": "female",
+        "address": "88678 Elizabeth Square Suite 772, North Troy, TN 83632",
+        "phone": "3004124979",
+        "email": "bill75@example.org",
+        "account": {
+            "account_number": "6eb50743-7817-414d-a121-b13d5209dc82",
+            "balance": 31487.04,
+            "transactions": [
+                {
+                    "date": "2024-06-19",
+                    "description": "Interest",
+                    "amount": 39845.21,
+                    "transaction_id": 76044089
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Interest",
+                    "amount": 11619.14,
+                    "transaction_id": 84856552
+                },
+                {
+                    "date": "2023-08-08",
+                    "description": "Deposit",
+                    "amount": 233.95,
+                    "transaction_id": 98490868
+                }
+            ]
+        }
+    }
+}

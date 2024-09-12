@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kenneth Henderson",
+        "age": 33,
+        "gender": "female",
+        "address": "8919 Jones Prairie Apt. 977, East Dylan, ME 74151",
+        "phone": "001-445-616-7481x031",
+        "email": "travis82@example.net",
+        "account": {
+            "account_number": "5a696ec7-8396-477a-9afc-18782291dc72",
+            "balance": 15396.24,
+            "transactions": [
+                {
+                    "date": "2023-04-17",
+                    "description": "Interest",
+                    "amount": 36101.81,
+                    "transaction_id": 10495446
+                },
+                {
+                    "date": "2022-09-07",
+                    "description": "Withdrawal",
+                    "amount": 18225.92,
+                    "transaction_id": 107997326
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Interest",
+                    "amount": 19992.9,
+                    "transaction_id": 91291904
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Deposit",
+                    "amount": 4149.21,
+                    "transaction_id": 70323566
+                }
+            ]
+        }
+    }
+}

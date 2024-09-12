@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kimberly Hughes",
+        "age": 46,
+        "gender": "male",
+        "address": "4728 Kristi Stream Suite 293, Gonzalezhaven, NV 29948",
+        "phone": "780-433-3895",
+        "email": "henrymiller@example.net",
+        "account": {
+            "account_number": "ed0d1347-594c-4640-a87f-8690b0b924fa",
+            "balance": 1523.67,
+            "transactions": [
+                {
+                    "date": "2023-09-03",
+                    "description": "Deposit",
+                    "amount": 10572.8,
+                    "transaction_id": 51573868
+                }
+            ]
+        }
+    }
+}

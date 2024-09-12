@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jeffrey Young",
+        "age": 89,
+        "gender": "female",
+        "address": "USCGC Larsen, FPO AA 18953",
+        "phone": "(934)910-1004",
+        "email": "vmooney@example.com",
+        "account": {
+            "account_number": "4a7611cb-f700-4ae4-9b34-c8db7cbad353",
+            "balance": 27110.61,
+            "transactions": [
+                {
+                    "date": "2022-11-18",
+                    "description": "Interest",
+                    "amount": 8951.4,
+                    "transaction_id": 49963177
+                }
+            ]
+        }
+    }
+}

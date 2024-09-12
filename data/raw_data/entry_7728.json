@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kyle Wells",
+        "age": 72,
+        "gender": "female",
+        "address": "Unit 7592 Box 2773, DPO AA 84888",
+        "phone": "(569)354-0415x3732",
+        "email": "lovelauren@example.net",
+        "account": {
+            "account_number": "bf21e766-fb2b-4d05-983a-739edbec1865",
+            "balance": 23311.36,
+            "transactions": [
+                {
+                    "date": "2023-07-13",
+                    "description": "Withdrawal",
+                    "amount": 48689.14,
+                    "transaction_id": 40640629
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Deposit",
+                    "amount": 21448.21,
+                    "transaction_id": 3944224
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Withdrawal",
+                    "amount": 11941.8,
+                    "transaction_id": 11171702
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Deposit",
+                    "amount": 17862.96,
+                    "transaction_id": 43910956
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Withdrawal",
+                    "amount": 13647.46,
+                    "transaction_id": 82966978
+                }
+            ]
+        }
+    }
+}

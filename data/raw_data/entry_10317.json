@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Gina Roberts",
+        "age": 35,
+        "gender": "male",
+        "address": "898 Andrea Springs, Lake Bobby, GA 49435",
+        "phone": "(546)273-4298",
+        "email": "craigmichael@example.com",
+        "account": {
+            "account_number": "224731f9-03d7-4b4f-b0d3-722251e90b45",
+            "balance": -49194.23,
+            "transactions": [
+                {
+                    "date": "2024-04-07",
+                    "description": "Deposit",
+                    "amount": -4290.78,
+                    "transaction_id": 58733832
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Withdrawal",
+                    "amount": -2826.9,
+                    "transaction_id": 108910410
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Craig Dean",
+        "age": 37,
+        "gender": "male",
+        "address": "2136 Samantha Ferry Apt. 115, Alicialand, WY 55563",
+        "phone": "247-971-8026x2685",
+        "email": "vharris@example.net",
+        "account": {
+            "account_number": "8bc9aca3-0630-454d-ad6a-64b3b5e86801",
+            "balance": 40913.43,
+            "transactions": [
+                {
+                    "date": "2023-04-01",
+                    "description": "Deposit",
+                    "amount": 34067.03,
+                    "transaction_id": 50783764
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Deposit",
+                    "amount": 20075.28,
+                    "transaction_id": 27125522
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Deposit",
+                    "amount": 7237.76,
+                    "transaction_id": 32156360
+                },
+                {
+                    "date": "2023-05-22",
+                    "description": "Withdrawal",
+                    "amount": 2461.48,
+                    "transaction_id": 19814356
+                }
+            ]
+        }
+    }
+}

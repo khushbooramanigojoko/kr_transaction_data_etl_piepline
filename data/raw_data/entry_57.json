@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Stewart",
+        "age": 68,
+        "gender": "female",
+        "address": "58673 Judy Parkways, New Seanmouth, OK 60564",
+        "phone": "(486)642-9532",
+        "email": "veronica21@example.org",
+        "account": {
+            "account_number": "672a9315-1fcb-4785-8891-7115e69be599",
+            "balance": 14464.18,
+            "transactions": [
+                {
+                    "date": "2023-10-04",
+                    "description": "Deposit",
+                    "amount": 45184.13,
+                    "transaction_id": 63948718
+                }
+            ]
+        }
+    }
+}

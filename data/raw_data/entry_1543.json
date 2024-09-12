@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Eileen Newman",
+        "age": 49,
+        "gender": "male",
+        "address": "53035 Crystal Crest, Schmidtmouth, NH 28180",
+        "phone": "744.847.3343x4550",
+        "email": "bernard53@example.org",
+        "account": {
+            "account_number": "b4b766bf-ca29-4c4c-a8f2-530ed8704f13",
+            "balance": 2761.85,
+            "transactions": [
+                {
+                    "date": "2022-09-19",
+                    "description": "Deposit",
+                    "amount": 22951.14,
+                    "transaction_id": 73707701
+                },
+                {
+                    "date": "2023-03-10",
+                    "description": "Interest",
+                    "amount": 8795.48,
+                    "transaction_id": 31437191
+                }
+            ]
+        }
+    }
+}

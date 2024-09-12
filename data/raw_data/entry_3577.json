@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tammy Price",
+        "age": 77,
+        "gender": "female",
+        "address": "1489 John Inlet, Butlerchester, PR 63234",
+        "phone": "+1-911-857-1542x009",
+        "email": "coopereric@example.org",
+        "account": {
+            "account_number": "30d74ee4-b949-4eaa-9af6-529d5cbae0b4",
+            "balance": 24833.61,
+            "transactions": [
+                {
+                    "date": "2023-02-16",
+                    "description": "Interest",
+                    "amount": 27576.41,
+                    "transaction_id": 103645779
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Deposit",
+                    "amount": 35980.24,
+                    "transaction_id": 33120047
+                },
+                {
+                    "date": "2023-10-08",
+                    "description": "Deposit",
+                    "amount": 30288.87,
+                    "transaction_id": 102601216
+                },
+                {
+                    "date": "2024-07-29",
+                    "description": "Withdrawal",
+                    "amount": 26663.45,
+                    "transaction_id": 32372043
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Interest",
+                    "amount": 44670.38,
+                    "transaction_id": 86116570
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Schaefer",
+        "age": 39,
+        "gender": "male",
+        "address": "7188 Mitchell Summit, Calvinhaven, IN 58187",
+        "phone": "+1-543-687-5680x5844",
+        "email": "leesydney@example.org",
+        "account": {
+            "account_number": "f2b8262e-a8df-4f23-9072-5667de2c1c70",
+            "balance": 13378.86,
+            "transactions": [
+                {
+                    "date": "2023-12-24",
+                    "description": "Withdrawal",
+                    "amount": 24488.86,
+                    "transaction_id": 115516098
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Withdrawal",
+                    "amount": 48317.14,
+                    "transaction_id": 14242112
+                }
+            ]
+        }
+    }
+}

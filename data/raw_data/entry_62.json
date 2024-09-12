@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Derrick Scott",
+        "age": 78,
+        "gender": "female",
+        "address": "79840 Bridget Stream, West Scottview, MO 99892",
+        "phone": "+1-722-439-1534x6588",
+        "email": "yallen@example.com",
+        "account": {
+            "account_number": "d6c05461-bb44-4239-be22-8cc9a61d191c",
+            "balance": 16312.17,
+            "transactions": [
+                {
+                    "date": "2023-03-28",
+                    "description": "Interest",
+                    "amount": 40668.14,
+                    "transaction_id": 99205794
+                },
+                {
+                    "date": "2023-01-31",
+                    "description": "Withdrawal",
+                    "amount": 10817.42,
+                    "transaction_id": 95366567
+                },
+                {
+                    "date": "2023-07-03",
+                    "description": "Interest",
+                    "amount": 16876.31,
+                    "transaction_id": 24639413
+                }
+            ]
+        }
+    }
+}

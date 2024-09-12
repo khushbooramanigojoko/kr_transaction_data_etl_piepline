@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Andrea Wood",
+        "age": 98,
+        "gender": "male",
+        "address": "263 Kathleen Extension Apt. 807, Thompsonstad, AK 07535",
+        "phone": "7462605465",
+        "email": "michele94@example.org",
+        "account": {
+            "account_number": "c9abff11-84e2-4d28-89f9-bf515e7463b0",
+            "balance": 40739.64,
+            "transactions": [
+                {
+                    "date": "2024-03-24",
+                    "description": "Deposit",
+                    "amount": 1261.58,
+                    "transaction_id": 86565719
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kara Carter",
+        "age": 19,
+        "gender": "female",
+        "address": "32500 Cox Plains, South Alison, ID 18085",
+        "phone": "(245)646-1732x210",
+        "email": "mary19@example.net",
+        "account": {
+            "account_number": "a4df1ebe-f91e-42e3-88cf-d25d66da265e",
+            "balance": 12569.37,
+            "transactions": [
+                {
+                    "date": "2024-02-07",
+                    "description": "Withdrawal",
+                    "amount": 30446.27,
+                    "transaction_id": 101144475
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tony Reed",
+        "age": 92,
+        "gender": "female",
+        "address": "19276 Gina Passage, Williamsbury, VA 63638",
+        "phone": "541.928.4393x4524",
+        "email": "johnsonteresa@example.org",
+        "account": {
+            "account_number": "1755aff8-60f4-4dad-95fc-5f468208e50f",
+            "balance": 44355.58,
+            "transactions": [
+                {
+                    "date": "2023-11-18",
+                    "description": "Interest",
+                    "amount": 24538.82,
+                    "transaction_id": 7333829
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Deposit",
+                    "amount": 35998.85,
+                    "transaction_id": 78418867
+                },
+                {
+                    "date": "2023-09-21",
+                    "description": "Withdrawal",
+                    "amount": 47622.18,
+                    "transaction_id": 116453599
+                },
+                {
+                    "date": "2023-01-01",
+                    "description": "Withdrawal",
+                    "amount": 14251.57,
+                    "transaction_id": 50353584
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Interest",
+                    "amount": 11158.49,
+                    "transaction_id": 72491532
+                }
+            ]
+        }
+    }
+}

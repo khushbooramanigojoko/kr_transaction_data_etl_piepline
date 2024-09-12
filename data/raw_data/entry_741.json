@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Lisa Estrada",
+        "age": 58,
+        "gender": "male",
+        "address": "22493 Dixon Centers Suite 511, Oscarmouth, AR 48408",
+        "phone": "+1-202-826-2197x621",
+        "email": "eric63@example.net",
+        "account": {
+            "account_number": "a9878550-33fe-48fa-89cf-51deead4f5bf",
+            "balance": 9942.87,
+            "transactions": [
+                {
+                    "date": "2023-10-12",
+                    "description": "Deposit",
+                    "amount": 37687.39,
+                    "transaction_id": 89755844
+                },
+                {
+                    "date": "2023-01-16",
+                    "description": "Withdrawal",
+                    "amount": 45475.95,
+                    "transaction_id": 98420045
+                },
+                {
+                    "date": "2024-03-05",
+                    "description": "Deposit",
+                    "amount": 48359.91,
+                    "transaction_id": 77749944
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Interest",
+                    "amount": 14554.67,
+                    "transaction_id": 84276875
+                },
+                {
+                    "date": "2022-11-01",
+                    "description": "Withdrawal",
+                    "amount": 4004.68,
+                    "transaction_id": 33639848
+                }
+            ]
+        }
+    }
+}

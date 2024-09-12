@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brady Elliott",
+        "age": 77,
+        "gender": "male",
+        "address": "USCGC Spears, FPO AE 35527",
+        "phone": "001-712-564-7733x8032",
+        "email": "samanthagonzalez@example.com",
+        "account": {
+            "account_number": "e888c7d9-e2b4-467a-ae66-ca912d8c0ec8",
+            "balance": 48940.15,
+            "transactions": [
+                {
+                    "date": "2024-05-11",
+                    "description": "Interest",
+                    "amount": 22718.73,
+                    "transaction_id": 58632274
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Interest",
+                    "amount": 8165.04,
+                    "transaction_id": 22976391
+                },
+                {
+                    "date": "2023-02-26",
+                    "description": "Deposit",
+                    "amount": 47324.26,
+                    "transaction_id": 35551328
+                },
+                {
+                    "date": "2024-03-14",
+                    "description": "Interest",
+                    "amount": 49454.41,
+                    "transaction_id": 104347153
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Withdrawal",
+                    "amount": 33191.07,
+                    "transaction_id": 105042144
+                }
+            ]
+        }
+    }
+}

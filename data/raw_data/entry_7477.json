@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Julie Bowen",
+        "age": 81,
+        "gender": "female",
+        "address": "54218 Amber Land, Kristietown, MI 75659",
+        "phone": "520.551.4574x97859",
+        "email": "tinapatterson@example.com",
+        "account": {
+            "account_number": "f142a451-1d47-46cf-a22a-24f203151762",
+            "balance": 18434.48,
+            "transactions": [
+                {
+                    "date": "2022-09-25",
+                    "description": "Interest",
+                    "amount": 46122.72,
+                    "transaction_id": 54342387
+                }
+            ]
+        }
+    }
+}

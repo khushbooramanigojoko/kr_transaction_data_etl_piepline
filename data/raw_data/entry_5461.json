@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michael Thompson",
+        "age": 90,
+        "gender": "female",
+        "address": "85037 Bridget Haven Suite 268, North Edwardstad, NC 28204",
+        "phone": "948-468-9409x86917",
+        "email": "davischristine@example.com",
+        "account": {
+            "account_number": "e8c52219-fdbd-4bb5-b5c5-67b08a066c82",
+            "balance": 21533.31,
+            "transactions": [
+                {
+                    "date": "2023-02-05",
+                    "description": "Interest",
+                    "amount": 11642.19,
+                    "transaction_id": 2150386
+                }
+            ]
+        }
+    }
+}

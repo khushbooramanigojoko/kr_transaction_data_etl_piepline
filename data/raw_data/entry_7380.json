@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Andrea Terry",
+        "age": 55,
+        "gender": "female",
+        "address": "26874 Michael Park, South Melissa, NV 97834",
+        "phone": "919.965.9180x67982",
+        "email": "jeffrey77@example.org",
+        "account": {
+            "account_number": "9c28b0f5-193f-4782-ab69-d8ccc487a051",
+            "balance": 21835.99,
+            "transactions": [
+                {
+                    "date": "2024-06-23",
+                    "description": "Withdrawal",
+                    "amount": 9610.49,
+                    "transaction_id": 38050122
+                },
+                {
+                    "date": "2022-11-18",
+                    "description": "Withdrawal",
+                    "amount": 49265.62,
+                    "transaction_id": 83766262
+                },
+                {
+                    "date": "2024-05-28",
+                    "description": "Deposit",
+                    "amount": 15805.54,
+                    "transaction_id": 99739650
+                },
+                {
+                    "date": "2022-11-13",
+                    "description": "Withdrawal",
+                    "amount": 31603.93,
+                    "transaction_id": 11081476
+                }
+            ]
+        }
+    }
+}

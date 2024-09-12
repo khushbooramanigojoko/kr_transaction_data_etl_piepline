@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael White",
+        "age": 56,
+        "gender": "female",
+        "address": "5525 Nicholas Plains, West Miguelside, WA 91862",
+        "phone": "001-413-758-2348x1045",
+        "email": "jcooper@example.org",
+        "account": {
+            "account_number": "63717561-0b52-418b-9c65-09d88d52eca1",
+            "balance": 25519.11,
+            "transactions": [
+                {
+                    "date": "2023-06-24",
+                    "description": "Interest",
+                    "amount": 34143.88,
+                    "transaction_id": 51702259
+                },
+                {
+                    "date": "2024-08-16",
+                    "description": "Withdrawal",
+                    "amount": 26110.26,
+                    "transaction_id": 9074355
+                },
+                {
+                    "date": "2023-08-30",
+                    "description": "Interest",
+                    "amount": 47766.55,
+                    "transaction_id": 88847487
+                },
+                {
+                    "date": "2023-03-19",
+                    "description": "Interest",
+                    "amount": 39454.97,
+                    "transaction_id": 36917364
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Withdrawal",
+                    "amount": 41920.12,
+                    "transaction_id": 97520635
+                }
+            ]
+        }
+    }
+}

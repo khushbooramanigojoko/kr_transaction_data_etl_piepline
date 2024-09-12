@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Isaac Smith",
+        "age": 26,
+        "gender": "female",
+        "address": "703 Jennifer Run Suite 795, Smithmouth, MA 56272",
+        "phone": "001-619-417-9206x6892",
+        "email": "vwells@example.com",
+        "account": {
+            "account_number": "d41b5674-6144-4f82-9906-18b88bf2acf2",
+            "balance": 26441.95,
+            "transactions": [
+                {
+                    "date": "2023-05-11",
+                    "description": "Deposit",
+                    "amount": 37738.89,
+                    "transaction_id": 92352055
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Withdrawal",
+                    "amount": 20857.39,
+                    "transaction_id": 37762774
+                },
+                {
+                    "date": "2024-02-08",
+                    "description": "Withdrawal",
+                    "amount": 15580.56,
+                    "transaction_id": 57669976
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Withdrawal",
+                    "amount": 10568.56,
+                    "transaction_id": 17726332
+                }
+            ]
+        }
+    }
+}

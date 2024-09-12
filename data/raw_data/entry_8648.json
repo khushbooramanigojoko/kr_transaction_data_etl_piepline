@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Wyatt",
+        "age": 18,
+        "gender": "male",
+        "address": "0470 Joel Trail Apt. 468, West Jenniferview, OR 18393",
+        "phone": "878.497.2966",
+        "email": "lisa84@example.org",
+        "account": {
+            "account_number": "6d7c639b-a7de-4da9-bcc0-f3c056560279",
+            "balance": 13508.23,
+            "transactions": [
+                {
+                    "date": "2024-04-25",
+                    "description": "Withdrawal",
+                    "amount": 45869.04,
+                    "transaction_id": 17171830
+                },
+                {
+                    "date": "2023-02-21",
+                    "description": "Interest",
+                    "amount": 34868.74,
+                    "transaction_id": 68216332
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Withdrawal",
+                    "amount": 22172.08,
+                    "transaction_id": 92986323
+                },
+                {
+                    "date": "2022-10-12",
+                    "description": "Withdrawal",
+                    "amount": 30221.67,
+                    "transaction_id": 110979910
+                }
+            ]
+        }
+    }
+}

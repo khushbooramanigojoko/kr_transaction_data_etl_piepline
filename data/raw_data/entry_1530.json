@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kristy Nelson",
+        "age": 43,
+        "gender": "female",
+        "address": "4231 Lane Causeway, Duarteshire, LA 91131",
+        "phone": "501-430-9538x6264",
+        "email": "garciaedgar@example.com",
+        "account": {
+            "account_number": "58599442-0b96-4458-b2de-3fc36a640410",
+            "balance": 35389.42,
+            "transactions": [
+                {
+                    "date": "2023-11-03",
+                    "description": "Withdrawal",
+                    "amount": 42045.36,
+                    "transaction_id": 104825150
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Deposit",
+                    "amount": 36285.42,
+                    "transaction_id": 45691588
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Interest",
+                    "amount": 9409.13,
+                    "transaction_id": 96159062
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Deposit",
+                    "amount": 48759.64,
+                    "transaction_id": 20802962
+                }
+            ]
+        }
+    }
+}

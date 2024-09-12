@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Lori Lewis",
+        "age": 85,
+        "gender": "female",
+        "address": "28734 Wayne Center, Nicolemouth, KY 54884",
+        "phone": "245.403.1466x86707",
+        "email": "jessewyatt@example.net",
+        "account": {
+            "account_number": "91de6d7e-e89c-4678-96af-59206cfcddd2",
+            "balance": 39293.24,
+            "transactions": [
+                {
+                    "date": "2023-01-01",
+                    "description": "Interest",
+                    "amount": 21617.85,
+                    "transaction_id": 52065645
+                },
+                {
+                    "date": "2022-10-12",
+                    "description": "Deposit",
+                    "amount": 11688.7,
+                    "transaction_id": 31697942
+                },
+                {
+                    "date": "2023-04-14",
+                    "description": "Withdrawal",
+                    "amount": 16419.89,
+                    "transaction_id": 57909235
+                },
+                {
+                    "date": "2022-09-22",
+                    "description": "Deposit",
+                    "amount": 5100.62,
+                    "transaction_id": 14870935
+                },
+                {
+                    "date": "2023-06-03",
+                    "description": "Interest",
+                    "amount": 42159.52,
+                    "transaction_id": 115287969
+                }
+            ]
+        }
+    }
+}

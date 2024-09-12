@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Evelyn Richardson",
+        "age": 40,
+        "gender": "female",
+        "address": "1094 Alexander Lights, West Christianbury, HI 80705",
+        "phone": "4535966537",
+        "email": "lesliesimon@example.com",
+        "account": {
+            "account_number": "0dc86708-11c3-4781-927c-936d5a4f6608",
+            "balance": 14159.73,
+            "transactions": [
+                {
+                    "date": "2023-12-15",
+                    "description": "Interest",
+                    "amount": 34021.16,
+                    "transaction_id": 94581034
+                },
+                {
+                    "date": "2024-06-10",
+                    "description": "Interest",
+                    "amount": 17324.12,
+                    "transaction_id": 52389211
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Deposit",
+                    "amount": 41869.73,
+                    "transaction_id": 46330765
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Withdrawal",
+                    "amount": 42503.6,
+                    "transaction_id": 98307988
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Withdrawal",
+                    "amount": 44613.03,
+                    "transaction_id": 49871446
+                }
+            ]
+        }
+    }
+}

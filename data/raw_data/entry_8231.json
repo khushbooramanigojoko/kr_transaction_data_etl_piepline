@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Francisco Williamson",
+        "age": 83,
+        "gender": "male",
+        "address": "2545 Alison Union, Arnoldland, DC 68573",
+        "phone": "+1-500-427-3488x3719",
+        "email": "millercharles@example.com",
+        "account": {
+            "account_number": "7e6abed5-ff9a-4de3-9416-6c38b7a01b06",
+            "balance": 29607.49,
+            "transactions": [
+                {
+                    "date": "2024-01-28",
+                    "description": "Deposit",
+                    "amount": 32133.4,
+                    "transaction_id": 62148430
+                },
+                {
+                    "date": "2022-09-16",
+                    "description": "Deposit",
+                    "amount": 36613.64,
+                    "transaction_id": 83307080
+                },
+                {
+                    "date": "2024-03-29",
+                    "description": "Deposit",
+                    "amount": 1402.62,
+                    "transaction_id": 10487652
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Interest",
+                    "amount": 3339.9,
+                    "transaction_id": 20252419
+                }
+            ]
+        }
+    }
+}

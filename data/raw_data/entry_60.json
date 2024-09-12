@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stephanie Ray",
+        "age": 65,
+        "gender": "female",
+        "address": "29324 Brenda Tunnel, Kevinhaven, PW 35583",
+        "phone": "(305)920-2754",
+        "email": "johnsondavid@example.com",
+        "account": {
+            "account_number": "3a3fcf2e-68a8-45cd-bec4-5763285ae1f5",
+            "balance": 19384.76,
+            "transactions": [
+                {
+                    "date": "2023-01-14",
+                    "description": "Deposit",
+                    "amount": 13273.14,
+                    "transaction_id": 35531182
+                },
+                {
+                    "date": "2023-09-10",
+                    "description": "Interest",
+                    "amount": 5928.73,
+                    "transaction_id": 83366103
+                },
+                {
+                    "date": "2023-10-10",
+                    "description": "Interest",
+                    "amount": 22891.24,
+                    "transaction_id": 16665429
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Withdrawal",
+                    "amount": 33113.47,
+                    "transaction_id": 65501908
+                }
+            ]
+        }
+    }
+}

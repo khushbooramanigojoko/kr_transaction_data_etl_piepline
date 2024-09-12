@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 86,
+        "gender": "male",
+        "address": "58263 Weiss Corner Apt. 097, Lake Jason, WY 16851",
+        "phone": "481-460-3620",
+        "email": "webbjoel@example.com",
+        "account": {
+            "account_number": "7080c597-574b-4d3d-b1d6-1b7e5ff9e785",
+            "balance": 44137.41,
+            "transactions": [
+                {
+                    "date": "2023-08-17",
+                    "description": "Withdrawal",
+                    "amount": -4018.69,
+                    "transaction_id": 88258297
+                },
+                {
+                    "date": "2023-11-10",
+                    "description": "Interest",
+                    "amount": 822.64,
+                    "transaction_id": 95955727
+                },
+                {
+                    "date": "2024-06-06",
+                    "description": "Interest",
+                    "amount": 1389.62,
+                    "transaction_id": 10272034
+                }
+            ]
+        }
+    }
+}

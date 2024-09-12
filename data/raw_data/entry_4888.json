@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ian Harper",
+        "age": 55,
+        "gender": "male",
+        "address": "60294 Elizabeth Common, East Kevin, PW 01617",
+        "phone": "256.836.8099x81444",
+        "email": "sara62@example.org",
+        "account": {
+            "account_number": "71daaabc-f087-497e-bc85-acd958873fe3",
+            "balance": 12190.21,
+            "transactions": [
+                {
+                    "date": "2023-11-04",
+                    "description": "Withdrawal",
+                    "amount": 47698.49,
+                    "transaction_id": 116166195
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Deposit",
+                    "amount": 49052.48,
+                    "transaction_id": 10342665
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Interest",
+                    "amount": 1935.27,
+                    "transaction_id": 36972240
+                }
+            ]
+        }
+    }
+}

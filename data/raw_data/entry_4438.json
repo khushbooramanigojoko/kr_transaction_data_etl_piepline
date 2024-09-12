@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Paul Wall",
+        "age": 21,
+        "gender": "male",
+        "address": "167 Burns Orchard Apt. 310, Mckayfort, MS 64700",
+        "phone": "(519)607-7683",
+        "email": "camposwilliam@example.org",
+        "account": {
+            "account_number": "3a0cc87d-cc6f-4e77-bfc3-739d7e8d8b7b",
+            "balance": 3517.42,
+            "transactions": [
+                {
+                    "date": "2022-10-24",
+                    "description": "Deposit",
+                    "amount": 25892.51,
+                    "transaction_id": 25154356
+                },
+                {
+                    "date": "2023-10-19",
+                    "description": "Interest",
+                    "amount": 1098.43,
+                    "transaction_id": 66534214
+                },
+                {
+                    "date": "2024-01-11",
+                    "description": "Withdrawal",
+                    "amount": 49467.53,
+                    "transaction_id": 78900232
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Interest",
+                    "amount": 15658.81,
+                    "transaction_id": 91548267
+                }
+            ]
+        }
+    }
+}

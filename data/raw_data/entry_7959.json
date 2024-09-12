@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Richard Garcia",
+        "age": 75,
+        "gender": "female",
+        "address": "059 Hudson Manors, Port Richardville, HI 89117",
+        "phone": "+1-647-651-6305x06216",
+        "email": "moorelarry@example.net",
+        "account": {
+            "account_number": "1b9c5753-ef25-41aa-8932-32abf9105a26",
+            "balance": 32181.45,
+            "transactions": [
+                {
+                    "date": "2023-10-19",
+                    "description": "Withdrawal",
+                    "amount": 45374.03,
+                    "transaction_id": 4450461
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Interest",
+                    "amount": 48175.77,
+                    "transaction_id": 104115670
+                },
+                {
+                    "date": "2023-06-28",
+                    "description": "Deposit",
+                    "amount": 8975.89,
+                    "transaction_id": 102199898
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Withdrawal",
+                    "amount": 25112.53,
+                    "transaction_id": 21394185
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Deposit",
+                    "amount": 31692.84,
+                    "transaction_id": 76551195
+                }
+            ]
+        }
+    }
+}

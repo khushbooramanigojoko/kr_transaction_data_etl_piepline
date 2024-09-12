@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Richard Hardin",
+        "age": 59,
+        "gender": "female",
+        "address": "6587 Ramos Knoll, West Courtney, NE 93828",
+        "phone": "991.324.6131",
+        "email": "wreed@example.net",
+        "account": {
+            "account_number": "08812d3d-ae71-4e3c-a9ca-8127bdecae2c",
+            "balance": 42144.38,
+            "transactions": [
+                {
+                    "date": "2024-06-19",
+                    "description": "Interest",
+                    "amount": 14121.21,
+                    "transaction_id": 15343392
+                },
+                {
+                    "date": "2023-06-12",
+                    "description": "Interest",
+                    "amount": 13695.22,
+                    "transaction_id": 10878069
+                }
+            ]
+        }
+    }
+}

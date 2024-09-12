@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Laura Hernandez",
+        "age": 21,
+        "gender": "male",
+        "address": "530 Martinez Vista, Carterberg, MN 03660",
+        "phone": "728-307-8087x584",
+        "email": "jessica61@example.net",
+        "account": {
+            "account_number": "1312f030-185f-4662-b4f9-fa354f36340b",
+            "balance": 21630.53,
+            "transactions": [
+                {
+                    "date": "2023-04-28",
+                    "description": "Withdrawal",
+                    "amount": 38512.21,
+                    "transaction_id": 23026591
+                }
+            ]
+        }
+    }
+}

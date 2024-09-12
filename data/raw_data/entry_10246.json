@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Pamela Cooper",
+        "age": 74,
+        "gender": "male",
+        "address": "932 Gregory Branch, New Thomasmouth, MS 68574",
+        "phone": "001-529-504-5471x7967",
+        "email": "liuamy@example.net",
+        "account": {
+            "account_number": "92721bc1-8e3e-40ce-ba8e-42456d28544c",
+            "balance": -42534.11,
+            "transactions": [
+                {
+                    "date": "2022-12-31",
+                    "description": "Withdrawal",
+                    "amount": -4190.83,
+                    "transaction_id": 80185266
+                },
+                {
+                    "date": "2023-10-10",
+                    "description": "Deposit",
+                    "amount": 4038.59,
+                    "transaction_id": 51352829
+                },
+                {
+                    "date": "2023-02-26",
+                    "description": "Deposit",
+                    "amount": -4645.21,
+                    "transaction_id": 31023530
+                },
+                {
+                    "date": "2023-10-24",
+                    "description": "Interest",
+                    "amount": 4582.62,
+                    "transaction_id": 58810952
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Deposit",
+                    "amount": 1353.79,
+                    "transaction_id": 49490888
+                }
+            ]
+        }
+    }
+}

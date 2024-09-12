@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Hawkins",
+        "age": 81,
+        "gender": "female",
+        "address": "825 Rebecca Tunnel, Caseyton, AR 48780",
+        "phone": "6057644553",
+        "email": "kylesmith@example.org",
+        "account": {
+            "account_number": "d7283787-8b2a-48a2-be49-a28bed8fe8ac",
+            "balance": -48417.63,
+            "transactions": [
+                {
+                    "date": "2024-05-18",
+                    "description": "Withdrawal",
+                    "amount": 506.23,
+                    "transaction_id": 41746076
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Deposit",
+                    "amount": 1475.89,
+                    "transaction_id": 28140159
+                },
+                {
+                    "date": "2023-08-26",
+                    "description": "Withdrawal",
+                    "amount": 526.83,
+                    "transaction_id": 73529817
+                },
+                {
+                    "date": "2023-10-31",
+                    "description": "Withdrawal",
+                    "amount": 2327.49,
+                    "transaction_id": 48946192
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Withdrawal",
+                    "amount": 3205.7,
+                    "transaction_id": 36553632
+                }
+            ]
+        }
+    }
+}

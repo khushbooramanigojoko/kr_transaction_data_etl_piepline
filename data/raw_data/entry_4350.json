@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mrs. Heather Brennan",
+        "age": 26,
+        "gender": "female",
+        "address": "607 Raymond Pines, Joseburgh, DE 51533",
+        "phone": "8382273956",
+        "email": "andrea86@example.com",
+        "account": {
+            "account_number": "bb7e564e-f97b-4d28-b6cc-79e7f1906939",
+            "balance": 8890.1,
+            "transactions": [
+                {
+                    "date": "2022-12-09",
+                    "description": "Interest",
+                    "amount": 47170.6,
+                    "transaction_id": 53091876
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Interest",
+                    "amount": 19374.53,
+                    "transaction_id": 114170485
+                },
+                {
+                    "date": "2022-11-10",
+                    "description": "Deposit",
+                    "amount": 21693.35,
+                    "transaction_id": 72005825
+                }
+            ]
+        }
+    }
+}

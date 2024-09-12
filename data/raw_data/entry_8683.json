@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Caroline Kim",
+        "age": 37,
+        "gender": "male",
+        "address": "722 Stout Island Apt. 545, Baileyport, IL 74687",
+        "phone": "001-694-521-5609x4548",
+        "email": "april17@example.org",
+        "account": {
+            "account_number": "72ed177e-577a-46d4-bf85-8dd538961f97",
+            "balance": 44176.62,
+            "transactions": [
+                {
+                    "date": "2023-07-14",
+                    "description": "Interest",
+                    "amount": 12572.93,
+                    "transaction_id": 10391912
+                }
+            ]
+        }
+    }
+}

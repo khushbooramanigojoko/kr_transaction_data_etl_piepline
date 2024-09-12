@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Preston Webb",
+        "age": 69,
+        "gender": "male",
+        "address": "09971 Huang Dale, Lake Kevinmouth, IA 44769",
+        "phone": "(860)949-8785",
+        "email": "jameswells@example.com",
+        "account": {
+            "account_number": "ca2171e9-7875-4d39-99d3-d4eaf74312e7",
+            "balance": 8851.18,
+            "transactions": [
+                {
+                    "date": "2022-10-13",
+                    "description": "Deposit",
+                    "amount": 40850.98,
+                    "transaction_id": 40104022
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Interest",
+                    "amount": 32695.54,
+                    "transaction_id": 98893920
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Deposit",
+                    "amount": 33860.95,
+                    "transaction_id": 39027153
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Deposit",
+                    "amount": 37742.45,
+                    "transaction_id": 94078953
+                }
+            ]
+        }
+    }
+}

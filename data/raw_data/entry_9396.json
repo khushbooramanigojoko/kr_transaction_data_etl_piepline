@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Carla Mullins",
+        "age": 34,
+        "gender": "female",
+        "address": "851 Ashley Road, Joseborough, TN 85016",
+        "phone": "632-933-1725x855",
+        "email": "ortizjeffery@example.org",
+        "account": {
+            "account_number": "a90dab85-d78b-4a41-bc01-52a82dcf61a9",
+            "balance": -40497.47,
+            "transactions": [
+                {
+                    "date": "2023-04-15",
+                    "description": "Interest",
+                    "amount": -4458.88,
+                    "transaction_id": 51033432
+                },
+                {
+                    "date": "2024-01-20",
+                    "description": "Deposit",
+                    "amount": -2315.09,
+                    "transaction_id": 4082876
+                },
+                {
+                    "date": "2022-12-03",
+                    "description": "Deposit",
+                    "amount": -1080.89,
+                    "transaction_id": 44505654
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Interest",
+                    "amount": -3621.39,
+                    "transaction_id": 35624743
+                }
+            ]
+        }
+    }
+}

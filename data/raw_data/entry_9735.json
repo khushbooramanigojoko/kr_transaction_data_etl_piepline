@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 85,
+        "gender": "male",
+        "address": "47079 Robles Island, Kylestad, WI 71353",
+        "phone": "+1-518-969-4216x234",
+        "email": "joseph74@example.net",
+        "account": {
+            "account_number": "f81fa610-6fe2-4cb7-9ead-cc6377d9850a",
+            "balance": 42540.44,
+            "transactions": [
+                {
+                    "date": "2024-02-14",
+                    "description": "Deposit",
+                    "amount": 2725.7,
+                    "transaction_id": 7626706
+                },
+                {
+                    "date": "2024-06-11",
+                    "description": "Deposit",
+                    "amount": 313.14,
+                    "transaction_id": 20396089
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Deposit",
+                    "amount": 4983.7,
+                    "transaction_id": 42714782
+                }
+            ]
+        }
+    }
+}

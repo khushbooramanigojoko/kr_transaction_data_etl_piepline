@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Marie Chavez",
+        "age": 86,
+        "gender": "female",
+        "address": "9819 Susan Harbor, Port Aprilburgh, MO 59227",
+        "phone": "300-688-2208x46248",
+        "email": "brownkathleen@example.org",
+        "account": {
+            "account_number": "a0163f1f-72e2-4128-838d-e15d19a28f4a",
+            "balance": 35252.11,
+            "transactions": [
+                {
+                    "date": "2023-11-09",
+                    "description": "Interest",
+                    "amount": 36186.88,
+                    "transaction_id": 116241680
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Withdrawal",
+                    "amount": 17943.87,
+                    "transaction_id": 51390230
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Interest",
+                    "amount": 41687.78,
+                    "transaction_id": 68195022
+                }
+            ]
+        }
+    }
+}

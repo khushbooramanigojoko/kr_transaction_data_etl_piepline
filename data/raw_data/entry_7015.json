@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Norris",
+        "age": 18,
+        "gender": "male",
+        "address": "71085 Anita Freeway, Brandiville, KY 26854",
+        "phone": "(726)743-1086x043",
+        "email": "melissawilkerson@example.com",
+        "account": {
+            "account_number": "1449f40f-f5b6-43e9-9182-e1f1b935bf66",
+            "balance": 33601.54,
+            "transactions": [
+                {
+                    "date": "2024-03-29",
+                    "description": "Deposit",
+                    "amount": 38050.54,
+                    "transaction_id": 3169891
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Interest",
+                    "amount": 16847.44,
+                    "transaction_id": 7615026
+                }
+            ]
+        }
+    }
+}

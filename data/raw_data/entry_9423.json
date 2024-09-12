@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Douglas Fisher",
+        "age": 77,
+        "gender": "male",
+        "address": "42975 Bennett Parkway Apt. 683, Brooksside, WY 91465",
+        "phone": "+1-706-963-8123x0187",
+        "email": "wrightvictoria@example.org",
+        "account": {
+            "account_number": "6f475d15-99b0-4792-8116-5e7c42e2723a",
+            "balance": -32657.93,
+            "transactions": [
+                {
+                    "date": "2023-05-25",
+                    "description": "Withdrawal",
+                    "amount": 3351.53,
+                    "transaction_id": 74261490
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Deposit",
+                    "amount": 3581.96,
+                    "transaction_id": 117040798
+                },
+                {
+                    "date": "2023-06-12",
+                    "description": "Deposit",
+                    "amount": 2323.83,
+                    "transaction_id": 80256250
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Withdrawal",
+                    "amount": -630.69,
+                    "transaction_id": 38004764
+                }
+            ]
+        }
+    }
+}

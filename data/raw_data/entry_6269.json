@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Timothy Lewis",
+        "age": 95,
+        "gender": "male",
+        "address": "Unit 1287 Box 1620, DPO AA 58275",
+        "phone": "888-701-8017x859",
+        "email": "dennissteven@example.org",
+        "account": {
+            "account_number": "51fdb856-ccdc-40a0-85b8-ec688271f91f",
+            "balance": 28436.89,
+            "transactions": [
+                {
+                    "date": "2024-08-19",
+                    "description": "Deposit",
+                    "amount": 18817.68,
+                    "transaction_id": 30627486
+                },
+                {
+                    "date": "2023-09-19",
+                    "description": "Withdrawal",
+                    "amount": 34256.89,
+                    "transaction_id": 5589727
+                }
+            ]
+        }
+    }
+}

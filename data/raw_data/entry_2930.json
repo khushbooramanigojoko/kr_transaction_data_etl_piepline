@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Justin Simmons",
+        "age": 95,
+        "gender": "female",
+        "address": "479 Tammy Plaza, Meganport, NM 67592",
+        "phone": "665.341.2461x1740",
+        "email": "vwade@example.net",
+        "account": {
+            "account_number": "2f0d9fca-e924-4b6b-953c-c6eb06eac813",
+            "balance": 42912.02,
+            "transactions": [
+                {
+                    "date": "2024-01-01",
+                    "description": "Interest",
+                    "amount": 38675.45,
+                    "transaction_id": 48740237
+                }
+            ]
+        }
+    }
+}

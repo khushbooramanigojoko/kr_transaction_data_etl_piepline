@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 86,
+        "gender": "female",
+        "address": "314 Patricia Mission Apt. 428, North Laurieburgh, KY 81079",
+        "phone": "001-801-593-4242",
+        "email": "williamwilson@example.net",
+        "account": {
+            "account_number": "fb2343a4-f365-4c4f-a740-67a048545c0a",
+            "balance": 16690.43,
+            "transactions": [
+                {
+                    "date": "2023-11-10",
+                    "description": "Withdrawal",
+                    "amount": 3282.9,
+                    "transaction_id": 103244776
+                },
+                {
+                    "date": "2023-05-22",
+                    "description": "Interest",
+                    "amount": -905.46,
+                    "transaction_id": 36595548
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Withdrawal",
+                    "amount": -3055.47,
+                    "transaction_id": 52327177
+                },
+                {
+                    "date": "2024-01-11",
+                    "description": "Interest",
+                    "amount": -2087.04,
+                    "transaction_id": 104572704
+                },
+                {
+                    "date": "2022-11-10",
+                    "description": "Withdrawal",
+                    "amount": -431.2,
+                    "transaction_id": 116427279
+                }
+            ]
+        }
+    }
+}

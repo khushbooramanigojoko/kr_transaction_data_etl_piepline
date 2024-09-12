@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kevin Hudson",
+        "age": 37,
+        "gender": "male",
+        "address": "USCGC Schmidt, FPO AP 28890",
+        "phone": "909-396-1997",
+        "email": "gregoryburnett@example.com",
+        "account": {
+            "account_number": "f1dfb24d-9110-4555-a4c4-d3958166b501",
+            "balance": 13041.78,
+            "transactions": [
+                {
+                    "date": "2024-03-11",
+                    "description": "Interest",
+                    "amount": 30393.57,
+                    "transaction_id": 115431145
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Deposit",
+                    "amount": 32557.63,
+                    "transaction_id": 78969420
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Wendy Collins",
+        "age": 73,
+        "gender": "male",
+        "address": "1252 Billy Branch Apt. 539, Port Marilynchester, NC 55673",
+        "phone": "(861)827-6608",
+        "email": "david46@example.com",
+        "account": {
+            "account_number": "683da300-59cb-45e9-9581-f9d80a859e9f",
+            "balance": -3243.01,
+            "transactions": [
+                {
+                    "date": "2023-12-19",
+                    "description": "Deposit",
+                    "amount": 4123.4,
+                    "transaction_id": 3263610
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Interest",
+                    "amount": 4663.75,
+                    "transaction_id": 61941113
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Deposit",
+                    "amount": -3406.29,
+                    "transaction_id": 97371972
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Withdrawal",
+                    "amount": -817.4,
+                    "transaction_id": 107102078
+                },
+                {
+                    "date": "2024-08-14",
+                    "description": "Interest",
+                    "amount": -1922.19,
+                    "transaction_id": 47009036
+                }
+            ]
+        }
+    }
+}

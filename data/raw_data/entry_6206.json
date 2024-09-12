@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Vincent Baker",
+        "age": 37,
+        "gender": "male",
+        "address": "25592 Evan Orchard Apt. 286, Cruzside, NM 15975",
+        "phone": "(276)666-8321x066",
+        "email": "rebecca08@example.com",
+        "account": {
+            "account_number": "86d8052f-11fa-4994-b5b4-08743594b9da",
+            "balance": 26570.32,
+            "transactions": [
+                {
+                    "date": "2023-01-09",
+                    "description": "Withdrawal",
+                    "amount": 22055.37,
+                    "transaction_id": 2543243
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Interest",
+                    "amount": 6381.77,
+                    "transaction_id": 115679720
+                }
+            ]
+        }
+    }
+}

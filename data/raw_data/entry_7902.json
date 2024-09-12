@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ashley Olson",
+        "age": 67,
+        "gender": "female",
+        "address": "73540 Walker Summit, Fletcherberg, MH 85591",
+        "phone": "(225)421-3749x1193",
+        "email": "francisco38@example.org",
+        "account": {
+            "account_number": "4d830022-e38d-4c15-a4cc-b3a552b08b62",
+            "balance": 46665.97,
+            "transactions": [
+                {
+                    "date": "2023-06-08",
+                    "description": "Deposit",
+                    "amount": 35978.94,
+                    "transaction_id": 48083877
+                }
+            ]
+        }
+    }
+}

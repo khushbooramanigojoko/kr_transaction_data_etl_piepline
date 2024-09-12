@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Charles Carey",
+        "age": 32,
+        "gender": "female",
+        "address": "90746 Nicholas Mountain, West Samanthahaven, DC 49414",
+        "phone": "001-372-515-2101x8670",
+        "email": "scott07@example.org",
+        "account": {
+            "account_number": "a3e9b6bd-104f-4c1f-a47c-b8e856e3bac9",
+            "balance": 11045.32,
+            "transactions": [
+                {
+                    "date": "2024-06-07",
+                    "description": "Deposit",
+                    "amount": 20032.73,
+                    "transaction_id": 24734828
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Deposit",
+                    "amount": 35519.17,
+                    "transaction_id": 18167579
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Interest",
+                    "amount": 43591.03,
+                    "transaction_id": 90062287
+                }
+            ]
+        }
+    }
+}

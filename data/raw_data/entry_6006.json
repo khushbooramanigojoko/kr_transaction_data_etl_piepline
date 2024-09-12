@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Heidi Peck",
+        "age": 46,
+        "gender": "male",
+        "address": "1517 Beth Oval Apt. 680, North Johnfurt, MD 92732",
+        "phone": "660.741.4185x82065",
+        "email": "shampton@example.net",
+        "account": {
+            "account_number": "84bcf385-ff80-419e-8eed-879434d3c58f",
+            "balance": 25466.09,
+            "transactions": [
+                {
+                    "date": "2022-11-24",
+                    "description": "Deposit",
+                    "amount": 22475.14,
+                    "transaction_id": 26722673
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Deposit",
+                    "amount": 15518.53,
+                    "transaction_id": 106651705
+                },
+                {
+                    "date": "2023-10-11",
+                    "description": "Withdrawal",
+                    "amount": 27212.92,
+                    "transaction_id": 34358849
+                }
+            ]
+        }
+    }
+}

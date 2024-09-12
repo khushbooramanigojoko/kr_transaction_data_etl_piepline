@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Charles Rogers",
+        "age": 58,
+        "gender": "male",
+        "address": "24147 Thomas Forks, Crossbury, GU 99280",
+        "phone": "(536)995-8546",
+        "email": "joy27@example.org",
+        "account": {
+            "account_number": "d623fe3d-4812-4d22-9629-144703f4b92e",
+            "balance": 1481.69,
+            "transactions": [
+                {
+                    "date": "2023-10-01",
+                    "description": "Withdrawal",
+                    "amount": 42348.13,
+                    "transaction_id": 15111567
+                },
+                {
+                    "date": "2023-04-29",
+                    "description": "Interest",
+                    "amount": 2113.71,
+                    "transaction_id": 33402383
+                },
+                {
+                    "date": "2024-08-12",
+                    "description": "Withdrawal",
+                    "amount": 802.6,
+                    "transaction_id": 110062012
+                }
+            ]
+        }
+    }
+}

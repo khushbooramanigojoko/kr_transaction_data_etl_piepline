@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Carrie Thompson",
+        "age": 69,
+        "gender": "male",
+        "address": "183 Goodman Rue, Jeremiahhaven, UT 84118",
+        "phone": "001-686-658-7469x648",
+        "email": "emilybass@example.com",
+        "account": {
+            "account_number": "4d4d9852-e1bc-4294-bd94-b53f1b3311ed",
+            "balance": 41114.82,
+            "transactions": [
+                {
+                    "date": "2023-08-31",
+                    "description": "Deposit",
+                    "amount": 15571.54,
+                    "transaction_id": 32078165
+                },
+                {
+                    "date": "2024-05-03",
+                    "description": "Interest",
+                    "amount": 3047.87,
+                    "transaction_id": 3592619
+                },
+                {
+                    "date": "2023-08-01",
+                    "description": "Deposit",
+                    "amount": 38649.37,
+                    "transaction_id": 21469550
+                }
+            ]
+        }
+    }
+}

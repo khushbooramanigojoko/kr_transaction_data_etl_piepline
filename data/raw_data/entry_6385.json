@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jonathan Parrish",
+        "age": 39,
+        "gender": "female",
+        "address": "93892 Angel Flat Suite 753, Whitakerstad, OH 93355",
+        "phone": "(442)960-8957x572",
+        "email": "ryancampbell@example.net",
+        "account": {
+            "account_number": "824c9b70-8a71-497b-8711-9a3a944dbb86",
+            "balance": 45061.18,
+            "transactions": [
+                {
+                    "date": "2024-02-04",
+                    "description": "Deposit",
+                    "amount": 9414.28,
+                    "transaction_id": 111027892
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Interest",
+                    "amount": 11190.85,
+                    "transaction_id": 29288010
+                },
+                {
+                    "date": "2023-05-25",
+                    "description": "Withdrawal",
+                    "amount": 30886.16,
+                    "transaction_id": 73759242
+                },
+                {
+                    "date": "2024-05-27",
+                    "description": "Withdrawal",
+                    "amount": 30503.78,
+                    "transaction_id": 69610281
+                },
+                {
+                    "date": "2023-09-15",
+                    "description": "Withdrawal",
+                    "amount": 18059.71,
+                    "transaction_id": 29561464
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Stephanie Holt",
+        "age": 62,
+        "gender": "male",
+        "address": "086 Laura Dale, Brittanytown, FL 14187",
+        "phone": "(495)956-6612",
+        "email": "oburns@example.com",
+        "account": {
+            "account_number": "70e61b09-c45d-4d5a-88dd-e28640114aa9",
+            "balance": 29424.6,
+            "transactions": [
+                {
+                    "date": "2024-01-18",
+                    "description": "Interest",
+                    "amount": 27155.72,
+                    "transaction_id": 102516649
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Interest",
+                    "amount": 17474.55,
+                    "transaction_id": 74309734
+                }
+            ]
+        }
+    }
+}

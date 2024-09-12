@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 70,
+        "gender": "male",
+        "address": "024 Powers Forest Suite 243, Mariaport, KY 69383",
+        "phone": "(808)620-6618",
+        "email": "amy44@example.com",
+        "account": {
+            "account_number": "6715ef64-3647-439a-8b8c-223a7cebe9ef",
+            "balance": 7713.72,
+            "transactions": [
+                {
+                    "date": "2022-12-02",
+                    "description": "Withdrawal",
+                    "amount": 2000.98,
+                    "transaction_id": 4078537
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Interest",
+                    "amount": -927.36,
+                    "transaction_id": 95141499
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Deposit",
+                    "amount": -4081.8,
+                    "transaction_id": 9449577
+                },
+                {
+                    "date": "2024-07-09",
+                    "description": "Interest",
+                    "amount": 4586.09,
+                    "transaction_id": 77220787
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Deposit",
+                    "amount": -2700.73,
+                    "transaction_id": 66061296
+                }
+            ]
+        }
+    }
+}

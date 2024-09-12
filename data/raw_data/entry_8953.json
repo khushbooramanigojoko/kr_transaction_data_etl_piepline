@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Steven Bright",
+        "age": 22,
+        "gender": "male",
+        "address": "2635 Hernandez Neck, Isaacland, UT 51643",
+        "phone": "+1-558-627-9806",
+        "email": "erica92@example.org",
+        "account": {
+            "account_number": "cc0456a6-2b6e-42fd-9e69-160743a88c30",
+            "balance": -18433.89,
+            "transactions": [
+                {
+                    "date": "2024-07-24",
+                    "description": "Deposit",
+                    "amount": 1790.14,
+                    "transaction_id": 22436755
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Deposit",
+                    "amount": -1959.62,
+                    "transaction_id": 42770036
+                },
+                {
+                    "date": "2023-11-14",
+                    "description": "Interest",
+                    "amount": -3722.15,
+                    "transaction_id": 67776576
+                },
+                {
+                    "date": "2023-09-01",
+                    "description": "Withdrawal",
+                    "amount": 1235.78,
+                    "transaction_id": 68078500
+                }
+            ]
+        }
+    }
+}

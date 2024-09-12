@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tonya Huerta",
+        "age": 85,
+        "gender": "female",
+        "address": "926 Le Hollow Apt. 328, New Joshuastad, MA 99721",
+        "phone": "001-522-563-5515",
+        "email": "caseyrivera@example.net",
+        "account": {
+            "account_number": "168dc29b-ee52-4952-8f04-01ce1d896c23",
+            "balance": 47193.48,
+            "transactions": [
+                {
+                    "date": "2023-08-12",
+                    "description": "Interest",
+                    "amount": 29613.83,
+                    "transaction_id": 29205786
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Interest",
+                    "amount": 19875.89,
+                    "transaction_id": 102729923
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Withdrawal",
+                    "amount": 33380.48,
+                    "transaction_id": 22989602
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Interest",
+                    "amount": 2835.48,
+                    "transaction_id": 63015425
+                }
+            ]
+        }
+    }
+}

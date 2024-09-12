@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Swanson",
+        "age": 44,
+        "gender": "male",
+        "address": "6553 Ortiz Haven Apt. 960, Hoffmanside, TN 81251",
+        "phone": "656-452-0707",
+        "email": "salinasnicholas@example.org",
+        "account": {
+            "account_number": "6e3556cf-6f3b-49e8-827d-ad2387040ec7",
+            "balance": 16628.4,
+            "transactions": [
+                {
+                    "date": "2023-11-08",
+                    "description": "Interest",
+                    "amount": 20281.23,
+                    "transaction_id": 34801486
+                },
+                {
+                    "date": "2023-10-20",
+                    "description": "Withdrawal",
+                    "amount": 27787.63,
+                    "transaction_id": 75555680
+                }
+            ]
+        }
+    }
+}

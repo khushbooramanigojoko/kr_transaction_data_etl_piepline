@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Edward Dunn",
+        "age": 36,
+        "gender": "female",
+        "address": "13222 Jennifer Mill, Nicholasfort, CT 45934",
+        "phone": "001-594-304-7956x84413",
+        "email": "watsonrandy@example.net",
+        "account": {
+            "account_number": "c1afa82b-64aa-4758-ae07-16b265181d23",
+            "balance": -49998.23,
+            "transactions": [
+                {
+                    "date": "2022-09-03",
+                    "description": "Deposit",
+                    "amount": 2921.3,
+                    "transaction_id": 91306774
+                },
+                {
+                    "date": "2022-09-29",
+                    "description": "Withdrawal",
+                    "amount": -2159.94,
+                    "transaction_id": 20042673
+                },
+                {
+                    "date": "2022-11-27",
+                    "description": "Deposit",
+                    "amount": -4540.79,
+                    "transaction_id": 21200889
+                }
+            ]
+        }
+    }
+}

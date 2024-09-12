@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mark Richardson",
+        "age": 47,
+        "gender": "female",
+        "address": "565 Marshall Fort, Mortonview, IL 39667",
+        "phone": "(336)996-2580x7765",
+        "email": "romerojonathan@example.net",
+        "account": {
+            "account_number": "2911e1de-a771-4f73-888e-619340515b3b",
+            "balance": 44287.59,
+            "transactions": [
+                {
+                    "date": "2023-05-13",
+                    "description": "Deposit",
+                    "amount": 10598.58,
+                    "transaction_id": 78587352
+                },
+                {
+                    "date": "2023-04-06",
+                    "description": "Withdrawal",
+                    "amount": 36223.16,
+                    "transaction_id": 3592546
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Withdrawal",
+                    "amount": 5456.36,
+                    "transaction_id": 115110951
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Interest",
+                    "amount": 35412.93,
+                    "transaction_id": 68518556
+                },
+                {
+                    "date": "2022-12-03",
+                    "description": "Deposit",
+                    "amount": 17965.95,
+                    "transaction_id": 31798767
+                }
+            ]
+        }
+    }
+}

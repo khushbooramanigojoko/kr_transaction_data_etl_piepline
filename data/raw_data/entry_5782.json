@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Russell Taylor",
+        "age": 60,
+        "gender": "male",
+        "address": "001 John Hills Suite 842, South Christina, OR 79171",
+        "phone": "+1-322-664-7100x90981",
+        "email": "kaitlynescobar@example.net",
+        "account": {
+            "account_number": "20d85bb9-6e55-4e2a-83de-407572e9c2ae",
+            "balance": 31075.36,
+            "transactions": [
+                {
+                    "date": "2022-12-03",
+                    "description": "Withdrawal",
+                    "amount": 6435.89,
+                    "transaction_id": 43312040
+                },
+                {
+                    "date": "2023-07-19",
+                    "description": "Interest",
+                    "amount": 8076.76,
+                    "transaction_id": 58805741
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Withdrawal",
+                    "amount": 38761.19,
+                    "transaction_id": 44465848
+                }
+            ]
+        }
+    }
+}

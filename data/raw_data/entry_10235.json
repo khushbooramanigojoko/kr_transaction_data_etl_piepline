@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Victoria Newman",
+        "age": 74,
+        "gender": "male",
+        "address": "230 Michael Grove Suite 750, East Thomashaven, AZ 20736",
+        "phone": "(650)364-0983x53967",
+        "email": "jaredross@example.net",
+        "account": {
+            "account_number": "06dba819-bd36-44b3-bbc2-0becea3fd8e1",
+            "balance": -4920.84,
+            "transactions": [
+                {
+                    "date": "2023-12-25",
+                    "description": "Deposit",
+                    "amount": -2625.48,
+                    "transaction_id": 2048683
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Interest",
+                    "amount": -71.2,
+                    "transaction_id": 83898657
+                }
+            ]
+        }
+    }
+}

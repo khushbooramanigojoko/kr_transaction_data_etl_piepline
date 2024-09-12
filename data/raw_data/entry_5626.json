@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jacqueline Anderson",
+        "age": 94,
+        "gender": "male",
+        "address": "4671 Howard Road, Makaylamouth, UT 28687",
+        "phone": "236-736-6277",
+        "email": "anthonymoore@example.org",
+        "account": {
+            "account_number": "ca2691d2-3aa8-4c85-93c4-a56d31d20500",
+            "balance": 41410.83,
+            "transactions": [
+                {
+                    "date": "2023-03-26",
+                    "description": "Deposit",
+                    "amount": 12042.96,
+                    "transaction_id": 57425145
+                }
+            ]
+        }
+    }
+}

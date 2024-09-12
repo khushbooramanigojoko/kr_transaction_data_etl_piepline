@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Denise Eaton",
+        "age": 81,
+        "gender": "male",
+        "address": "27322 Clark Flat, Wardmouth, MH 25714",
+        "phone": "(373)227-7871",
+        "email": "pamela39@example.net",
+        "account": {
+            "account_number": "caef7fe9-2e14-48ec-9069-cf3ac715904d",
+            "balance": 35255.29,
+            "transactions": [
+                {
+                    "date": "2023-05-11",
+                    "description": "Withdrawal",
+                    "amount": 33705.99,
+                    "transaction_id": 57591959
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Crystal Wagner",
+        "age": 39,
+        "gender": "male",
+        "address": "8891 Sanchez Point Apt. 549, South Adrienneland, UT 50995",
+        "phone": "2848553310",
+        "email": "bmartin@example.org",
+        "account": {
+            "account_number": "d1b6dcca-0dc8-4e2d-b2d6-a5e8d27a16cb",
+            "balance": 25106.65,
+            "transactions": [
+                {
+                    "date": "2023-04-11",
+                    "description": "Withdrawal",
+                    "amount": 20519.05,
+                    "transaction_id": 76404214
+                },
+                {
+                    "date": "2024-06-10",
+                    "description": "Deposit",
+                    "amount": 14995.76,
+                    "transaction_id": 9260272
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 77,
+        "gender": "female",
+        "address": "8974 Bell Courts, East Christopher, TN 81437",
+        "phone": "270-770-1987x93837",
+        "email": "fhicks@example.org",
+        "account": {
+            "account_number": "03f77aea-23ad-4f16-894d-d42184e62c2f",
+            "balance": 38639.46,
+            "transactions": [
+                {
+                    "date": "2023-05-18",
+                    "description": "Interest",
+                    "amount": -3598.36,
+                    "transaction_id": 69556692
+                }
+            ]
+        }
+    }
+}

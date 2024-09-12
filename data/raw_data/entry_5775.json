@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Strickland",
+        "age": 63,
+        "gender": "male",
+        "address": "390 Mary Key Suite 558, Port Kevin, DC 86073",
+        "phone": "+1-446-713-0226x353",
+        "email": "mary35@example.net",
+        "account": {
+            "account_number": "0de3dea0-2503-44f8-8e85-9e70f4688495",
+            "balance": 29049.83,
+            "transactions": [
+                {
+                    "date": "2022-11-28",
+                    "description": "Deposit",
+                    "amount": 41883.34,
+                    "transaction_id": 15044393
+                },
+                {
+                    "date": "2022-10-12",
+                    "description": "Interest",
+                    "amount": 12526.22,
+                    "transaction_id": 67944832
+                },
+                {
+                    "date": "2023-07-15",
+                    "description": "Deposit",
+                    "amount": 16968.74,
+                    "transaction_id": 82647004
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Interest",
+                    "amount": 12942.1,
+                    "transaction_id": 57048363
+                },
+                {
+                    "date": "2023-01-03",
+                    "description": "Interest",
+                    "amount": 209.41,
+                    "transaction_id": 98363044
+                }
+            ]
+        }
+    }
+}

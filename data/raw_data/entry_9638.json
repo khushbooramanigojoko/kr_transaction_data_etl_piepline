@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 78,
+        "gender": "male",
+        "address": "001 Hudson Ville Suite 156, Cruzbury, DC 86972",
+        "phone": "426-963-7970",
+        "email": "franklinalison@example.org",
+        "account": {
+            "account_number": "432ee0ba-b60f-4c59-ba09-d62de71d4461",
+            "balance": 19048.13,
+            "transactions": [
+                {
+                    "date": "2023-03-08",
+                    "description": "Withdrawal",
+                    "amount": -1052.64,
+                    "transaction_id": 93308141
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Deposit",
+                    "amount": -2508.78,
+                    "transaction_id": 69482406
+                }
+            ]
+        }
+    }
+}

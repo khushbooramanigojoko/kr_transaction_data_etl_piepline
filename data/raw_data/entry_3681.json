@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Richard Lee",
+        "age": 60,
+        "gender": "male",
+        "address": "4373 Weiss Mill, Port Stephanie, ID 10601",
+        "phone": "(769)866-9643x070",
+        "email": "tbooth@example.com",
+        "account": {
+            "account_number": "caabd54e-a9cf-4155-9800-da6b0175d54b",
+            "balance": 20263.64,
+            "transactions": [
+                {
+                    "date": "2024-07-10",
+                    "description": "Deposit",
+                    "amount": 2696.42,
+                    "transaction_id": 26076794
+                },
+                {
+                    "date": "2024-08-23",
+                    "description": "Deposit",
+                    "amount": 19909.88,
+                    "transaction_id": 86353430
+                }
+            ]
+        }
+    }
+}

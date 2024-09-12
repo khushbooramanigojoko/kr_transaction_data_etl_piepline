@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ronald Wilson",
+        "age": 89,
+        "gender": "female",
+        "address": "93748 Nelson Wells Suite 584, North Margaretton, TX 47093",
+        "phone": "001-708-770-4033x42831",
+        "email": "dnewman@example.org",
+        "account": {
+            "account_number": "810eb75a-a58c-4d9f-9a2d-ee795b49537b",
+            "balance": 4603.24,
+            "transactions": [
+                {
+                    "date": "2023-01-12",
+                    "description": "Withdrawal",
+                    "amount": 4164.98,
+                    "transaction_id": 113770601
+                },
+                {
+                    "date": "2023-06-06",
+                    "description": "Deposit",
+                    "amount": 11324.85,
+                    "transaction_id": 98952019
+                },
+                {
+                    "date": "2022-09-29",
+                    "description": "Deposit",
+                    "amount": 22386.35,
+                    "transaction_id": 87651959
+                }
+            ]
+        }
+    }
+}

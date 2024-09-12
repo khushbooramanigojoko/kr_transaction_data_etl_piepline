@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Janice Harvey",
+        "age": 62,
+        "gender": "male",
+        "address": "07054 Hunter Turnpike, Woodchester, OH 27343",
+        "phone": "845.712.6208",
+        "email": "nbailey@example.net",
+        "account": {
+            "account_number": "3edd8d98-577d-4c35-9920-53a1f0e54fcd",
+            "balance": 25507.51,
+            "transactions": [
+                {
+                    "date": "2023-11-14",
+                    "description": "Deposit",
+                    "amount": 17060.88,
+                    "transaction_id": 34578330
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Deposit",
+                    "amount": 4157.87,
+                    "transaction_id": 81112810
+                }
+            ]
+        }
+    }
+}

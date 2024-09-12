@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Vincent Newman",
+        "age": 54,
+        "gender": "male",
+        "address": "PSC 7954, Box 7544, APO AA 54432",
+        "phone": "(322)245-8249",
+        "email": "alexanderpowers@example.net",
+        "account": {
+            "account_number": "4a311308-efe8-4c31-9958-986ee0b3f1ff",
+            "balance": -4596.93,
+            "transactions": [
+                {
+                    "date": "2023-09-08",
+                    "description": "Interest",
+                    "amount": -138.43,
+                    "transaction_id": 90647465
+                }
+            ]
+        }
+    }
+}

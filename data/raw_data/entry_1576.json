@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Cynthia Downs",
+        "age": 74,
+        "gender": "male",
+        "address": "1781 Kerr Drives Apt. 164, Robertmouth, KY 63125",
+        "phone": "(715)964-4147x2623",
+        "email": "cookemichael@example.org",
+        "account": {
+            "account_number": "d9870792-3c2b-4862-82eb-5033590d7152",
+            "balance": 9046.44,
+            "transactions": [
+                {
+                    "date": "2024-08-17",
+                    "description": "Deposit",
+                    "amount": 38838.21,
+                    "transaction_id": 117681024
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Interest",
+                    "amount": 12924.66,
+                    "transaction_id": 71570305
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Withdrawal",
+                    "amount": 403.38,
+                    "transaction_id": 5370210
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Susan Thomas",
+        "age": 91,
+        "gender": "male",
+        "address": "920 Shannon Valleys Apt. 717, Port Dawnton, MD 35621",
+        "phone": "919.813.6884x293",
+        "email": "sherry44@example.net",
+        "account": {
+            "account_number": "afd2b4c8-c883-4bba-b953-9dd8e496a1aa",
+            "balance": 10715.2,
+            "transactions": [
+                {
+                    "date": "2023-11-17",
+                    "description": "Interest",
+                    "amount": 26612.1,
+                    "transaction_id": 74487146
+                },
+                {
+                    "date": "2023-02-13",
+                    "description": "Deposit",
+                    "amount": 13234.02,
+                    "transaction_id": 27521324
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Interest",
+                    "amount": 13503.41,
+                    "transaction_id": 89849213
+                },
+                {
+                    "date": "2022-11-06",
+                    "description": "Deposit",
+                    "amount": 46535.46,
+                    "transaction_id": 15531838
+                }
+            ]
+        }
+    }
+}

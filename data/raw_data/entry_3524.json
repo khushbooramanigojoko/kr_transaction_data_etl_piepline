@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michelle Medina",
+        "age": 22,
+        "gender": "female",
+        "address": "71637 Osborne Flat Apt. 936, Carterfurt, OH 98531",
+        "phone": "(449)671-7674x45461",
+        "email": "bharris@example.org",
+        "account": {
+            "account_number": "759e3206-c7c0-4ff4-9a99-02974b63a7ae",
+            "balance": 40313.26,
+            "transactions": [
+                {
+                    "date": "2022-09-03",
+                    "description": "Interest",
+                    "amount": 14082.69,
+                    "transaction_id": 4501566
+                },
+                {
+                    "date": "2024-02-20",
+                    "description": "Deposit",
+                    "amount": 35168.34,
+                    "transaction_id": 67390041
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Deposit",
+                    "amount": 20060.13,
+                    "transaction_id": 82278267
+                },
+                {
+                    "date": "2023-10-18",
+                    "description": "Deposit",
+                    "amount": 8387.13,
+                    "transaction_id": 67838934
+                }
+            ]
+        }
+    }
+}

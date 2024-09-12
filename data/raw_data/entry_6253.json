@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Stephen George",
+        "age": 62,
+        "gender": "female",
+        "address": "7150 Peters Glen, Scottberg, IN 94844",
+        "phone": "377-610-1444x914",
+        "email": "jennifer54@example.com",
+        "account": {
+            "account_number": "d2f31e24-8233-46f0-a2a0-6ad6cd212231",
+            "balance": 7687.75,
+            "transactions": [
+                {
+                    "date": "2024-04-11",
+                    "description": "Withdrawal",
+                    "amount": 24329.28,
+                    "transaction_id": 110477443
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Withdrawal",
+                    "amount": 19576.1,
+                    "transaction_id": 19050514
+                }
+            ]
+        }
+    }
+}

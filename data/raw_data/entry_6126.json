@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Janet Walker",
+        "age": 89,
+        "gender": "female",
+        "address": "1130 Thomas Flats Suite 902, Tracimouth, ME 77822",
+        "phone": "001-706-616-8534x5707",
+        "email": "stewartmadison@example.com",
+        "account": {
+            "account_number": "e603392b-0d87-4b0c-bfdf-9a39891e9d0b",
+            "balance": 25248.92,
+            "transactions": [
+                {
+                    "date": "2023-04-21",
+                    "description": "Deposit",
+                    "amount": 24504.59,
+                    "transaction_id": 63004295
+                },
+                {
+                    "date": "2023-03-06",
+                    "description": "Deposit",
+                    "amount": 22411.8,
+                    "transaction_id": 30309301
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Interest",
+                    "amount": 9398.39,
+                    "transaction_id": 17497791
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Stephen Callahan",
+        "age": 27,
+        "gender": "female",
+        "address": "210 Cannon Shoal, Josetown, OH 84585",
+        "phone": "970-936-4691",
+        "email": "hickmanlaurie@example.net",
+        "account": {
+            "account_number": "a9099f01-507b-470b-ad4e-b649fbc9f745",
+            "balance": 46559.79,
+            "transactions": [
+                {
+                    "date": "2023-01-22",
+                    "description": "Deposit",
+                    "amount": 15843.87,
+                    "transaction_id": 69814552
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Withdrawal",
+                    "amount": 43563.63,
+                    "transaction_id": 4731124
+                },
+                {
+                    "date": "2024-06-02",
+                    "description": "Withdrawal",
+                    "amount": 28659.64,
+                    "transaction_id": 47912898
+                },
+                {
+                    "date": "2023-07-26",
+                    "description": "Interest",
+                    "amount": 10248.43,
+                    "transaction_id": 92400782
+                },
+                {
+                    "date": "2022-12-16",
+                    "description": "Deposit",
+                    "amount": 18509.66,
+                    "transaction_id": 93587681
+                }
+            ]
+        }
+    }
+}

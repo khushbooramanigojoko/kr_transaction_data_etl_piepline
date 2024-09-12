@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Monica Mejia",
+        "age": 24,
+        "gender": "female",
+        "address": "73183 Mccormick Park, South Jennifer, OR 93367",
+        "phone": "(654)224-6208x998",
+        "email": "bmarks@example.net",
+        "account": {
+            "account_number": "7788a9ba-9d9d-4fd3-9aa4-6356b41a2fc2",
+            "balance": 28280.76,
+            "transactions": [
+                {
+                    "date": "2022-09-06",
+                    "description": "Deposit",
+                    "amount": 35514.06,
+                    "transaction_id": 24329613
+                },
+                {
+                    "date": "2022-12-08",
+                    "description": "Interest",
+                    "amount": 47981.29,
+                    "transaction_id": 31501570
+                }
+            ]
+        }
+    }
+}

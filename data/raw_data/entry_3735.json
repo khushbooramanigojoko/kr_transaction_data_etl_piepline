@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Pacheco",
+        "age": 77,
+        "gender": "male",
+        "address": "4416 Benjamin Mission Apt. 288, West Carolynland, AR 30957",
+        "phone": "939-226-0677x60355",
+        "email": "cgarcia@example.org",
+        "account": {
+            "account_number": "cd23b0d0-396c-47c7-9cb3-c8de18393b8d",
+            "balance": 38644.76,
+            "transactions": [
+                {
+                    "date": "2023-11-16",
+                    "description": "Withdrawal",
+                    "amount": 47639.89,
+                    "transaction_id": 80566869
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Eric Lindsey",
+        "age": 47,
+        "gender": "male",
+        "address": "USNS Johnson, FPO AA 46216",
+        "phone": "998-652-3114",
+        "email": "rachael53@example.org",
+        "account": {
+            "account_number": "0ff1e352-f28f-4fac-b5ae-7f8092bf3202",
+            "balance": 40781.9,
+            "transactions": [
+                {
+                    "date": "2024-06-26",
+                    "description": "Withdrawal",
+                    "amount": 36686.87,
+                    "transaction_id": 14755606
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Withdrawal",
+                    "amount": 17607.58,
+                    "transaction_id": 20834996
+                },
+                {
+                    "date": "2024-04-10",
+                    "description": "Deposit",
+                    "amount": 15582.28,
+                    "transaction_id": 53113466
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Interest",
+                    "amount": 29013.21,
+                    "transaction_id": 112393889
+                }
+            ]
+        }
+    }
+}

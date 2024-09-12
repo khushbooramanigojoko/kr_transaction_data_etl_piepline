@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ruth Hart",
+        "age": 48,
+        "gender": "male",
+        "address": "887 Jessica Wall Suite 446, Joshuaville, WA 99313",
+        "phone": "608.774.0359x6823",
+        "email": "hshaffer@example.org",
+        "account": {
+            "account_number": "4a31588c-3065-4132-a1a5-04ae7a398449",
+            "balance": -22796.55,
+            "transactions": [
+                {
+                    "date": "2022-09-26",
+                    "description": "Deposit",
+                    "amount": -4999.32,
+                    "transaction_id": 62626446
+                },
+                {
+                    "date": "2024-07-21",
+                    "description": "Interest",
+                    "amount": -2910.75,
+                    "transaction_id": 87364344
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Withdrawal",
+                    "amount": 2461.51,
+                    "transaction_id": 90604082
+                },
+                {
+                    "date": "2023-01-07",
+                    "description": "Deposit",
+                    "amount": 2688.02,
+                    "transaction_id": 40080400
+                },
+                {
+                    "date": "2023-01-13",
+                    "description": "Interest",
+                    "amount": -2182.15,
+                    "transaction_id": 92534348
+                }
+            ]
+        }
+    }
+}

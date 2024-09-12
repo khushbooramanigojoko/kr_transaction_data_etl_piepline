@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 98,
+        "gender": "male",
+        "address": "7370 Diana Hills, Lake Brycebury, SC 48559",
+        "phone": "458-722-5203",
+        "email": "susanharvey@example.net",
+        "account": {
+            "account_number": "7c424b1a-b01a-43b8-aba5-340455605438",
+            "balance": 28470.18,
+            "transactions": [
+                {
+                    "date": "2024-08-19",
+                    "description": "Interest",
+                    "amount": -503.01,
+                    "transaction_id": 105471284
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Interest",
+                    "amount": 4825.98,
+                    "transaction_id": 64902186
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Interest",
+                    "amount": 845.23,
+                    "transaction_id": 59526232
+                },
+                {
+                    "date": "2024-03-21",
+                    "description": "Withdrawal",
+                    "amount": 3142.38,
+                    "transaction_id": 77749456
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Interest",
+                    "amount": -3835.17,
+                    "transaction_id": 86325858
+                }
+            ]
+        }
+    }
+}

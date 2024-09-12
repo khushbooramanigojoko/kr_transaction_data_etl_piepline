@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tara Rose",
+        "age": 47,
+        "gender": "male",
+        "address": "4248 Huff Trafficway, Port Christina, MI 11105",
+        "phone": "6406632150",
+        "email": "yvette88@example.net",
+        "account": {
+            "account_number": "fa26e714-698e-4250-ab35-325101f8b48b",
+            "balance": 23781.2,
+            "transactions": [
+                {
+                    "date": "2022-12-20",
+                    "description": "Deposit",
+                    "amount": 34262.06,
+                    "transaction_id": 27201142
+                },
+                {
+                    "date": "2023-12-30",
+                    "description": "Deposit",
+                    "amount": 49824.58,
+                    "transaction_id": 2575437
+                },
+                {
+                    "date": "2023-07-14",
+                    "description": "Withdrawal",
+                    "amount": 18524.28,
+                    "transaction_id": 55167732
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Withdrawal",
+                    "amount": 1904.62,
+                    "transaction_id": 28351832
+                },
+                {
+                    "date": "2023-05-23",
+                    "description": "Deposit",
+                    "amount": 581.81,
+                    "transaction_id": 87343416
+                }
+            ]
+        }
+    }
+}

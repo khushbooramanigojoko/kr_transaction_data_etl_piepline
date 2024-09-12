@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kenneth Montgomery",
+        "age": 86,
+        "gender": "male",
+        "address": "1989 Benitez Alley, East Brandonmouth, MI 38061",
+        "phone": "640.255.1640x52215",
+        "email": "millerchristie@example.net",
+        "account": {
+            "account_number": "173cf825-38b5-4545-8592-1c80585d041b",
+            "balance": 47991.91,
+            "transactions": [
+                {
+                    "date": "2023-05-07",
+                    "description": "Interest",
+                    "amount": 43425.79,
+                    "transaction_id": 26169921
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Interest",
+                    "amount": 20711.5,
+                    "transaction_id": 100957094
+                }
+            ]
+        }
+    }
+}

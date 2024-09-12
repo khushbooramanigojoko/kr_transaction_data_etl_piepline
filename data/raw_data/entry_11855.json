@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 65,
+        "gender": "male",
+        "address": "4340 Michael Trace, South Brentport, PR 36537",
+        "phone": "439.866.9648x7257",
+        "email": "vpatterson@example.com",
+        "account": {
+            "account_number": "8f79d058-77e4-43d8-b41d-8849fe615211",
+            "balance": 12534.24,
+            "transactions": [
+                {
+                    "date": "2024-06-05",
+                    "description": "Deposit",
+                    "amount": 3198.14,
+                    "transaction_id": 60690515
+                },
+                {
+                    "date": "2023-03-05",
+                    "description": "Deposit",
+                    "amount": 4330.03,
+                    "transaction_id": 23827555
+                },
+                {
+                    "date": "2024-06-11",
+                    "description": "Interest",
+                    "amount": -4015.49,
+                    "transaction_id": 87098965
+                },
+                {
+                    "date": "2024-01-08",
+                    "description": "Interest",
+                    "amount": -1324.76,
+                    "transaction_id": 35967787
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Withdrawal",
+                    "amount": 3303.94,
+                    "transaction_id": 80694701
+                }
+            ]
+        }
+    }
+}

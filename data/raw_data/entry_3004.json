@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Allison Cameron",
+        "age": 21,
+        "gender": "male",
+        "address": "5411 Richardson Lane, West Billy, NE 71645",
+        "phone": "5138052436",
+        "email": "qmartinez@example.net",
+        "account": {
+            "account_number": "6eb474a1-514a-4c69-ba4c-f5127154754c",
+            "balance": 31124.27,
+            "transactions": [
+                {
+                    "date": "2022-12-18",
+                    "description": "Withdrawal",
+                    "amount": 3498.37,
+                    "transaction_id": 46382278
+                },
+                {
+                    "date": "2022-12-22",
+                    "description": "Deposit",
+                    "amount": 43164.92,
+                    "transaction_id": 6282742
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Deposit",
+                    "amount": 5902.45,
+                    "transaction_id": 8860023
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Withdrawal",
+                    "amount": 1519.33,
+                    "transaction_id": 88703530
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kathleen Gonzalez",
+        "age": 91,
+        "gender": "female",
+        "address": "8493 Smith Brooks, Jessicatown, CA 84066",
+        "phone": "(906)687-2280x88291",
+        "email": "markrobinson@example.com",
+        "account": {
+            "account_number": "8e707d3e-a59c-4581-9858-3d20614ad7bd",
+            "balance": 44651.52,
+            "transactions": [
+                {
+                    "date": "2023-05-13",
+                    "description": "Withdrawal",
+                    "amount": 37428.38,
+                    "transaction_id": 116541236
+                }
+            ]
+        }
+    }
+}

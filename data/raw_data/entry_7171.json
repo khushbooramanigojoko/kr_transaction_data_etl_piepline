@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Cheryl Stewart",
+        "age": 57,
+        "gender": "male",
+        "address": "240 Miguel Circle, North Jason, OR 75191",
+        "phone": "+1-581-657-7816x76872",
+        "email": "martinezelizabeth@example.org",
+        "account": {
+            "account_number": "d6ee339f-9bc4-4e3e-b068-90af474a8bc3",
+            "balance": 37475.71,
+            "transactions": [
+                {
+                    "date": "2024-03-28",
+                    "description": "Deposit",
+                    "amount": 19548.28,
+                    "transaction_id": 75563224
+                },
+                {
+                    "date": "2024-05-25",
+                    "description": "Deposit",
+                    "amount": 10602.87,
+                    "transaction_id": 25294982
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Interest",
+                    "amount": 34782.43,
+                    "transaction_id": 71327015
+                }
+            ]
+        }
+    }
+}

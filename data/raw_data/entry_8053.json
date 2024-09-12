@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kristen Johnston",
+        "age": 33,
+        "gender": "female",
+        "address": "4218 Anthony Circles, Williamston, FM 16754",
+        "phone": "(236)794-2143",
+        "email": "gneal@example.org",
+        "account": {
+            "account_number": "a16bdc06-fdfb-4d66-9b1b-3e5cbbe02262",
+            "balance": 3064.01,
+            "transactions": [
+                {
+                    "date": "2024-02-25",
+                    "description": "Deposit",
+                    "amount": 31853.27,
+                    "transaction_id": 29110636
+                },
+                {
+                    "date": "2024-02-05",
+                    "description": "Deposit",
+                    "amount": 28221.07,
+                    "transaction_id": 4339175
+                },
+                {
+                    "date": "2023-08-29",
+                    "description": "Deposit",
+                    "amount": 22975.15,
+                    "transaction_id": 2580959
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Deposit",
+                    "amount": 41125.23,
+                    "transaction_id": 8692718
+                },
+                {
+                    "date": "2023-01-29",
+                    "description": "Interest",
+                    "amount": 31584.08,
+                    "transaction_id": 20295826
+                }
+            ]
+        }
+    }
+}

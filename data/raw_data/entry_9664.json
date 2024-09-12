@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Amanda Gutierrez",
+        "age": 61,
+        "gender": "male",
+        "address": "899 Alan Falls, New Tricia, GA 79640",
+        "phone": "(496)633-6842x442",
+        "email": "ewingvirginia@example.net",
+        "account": {
+            "account_number": "83c3f494-7beb-450d-aa96-ddd31d58f467",
+            "balance": -47257.74,
+            "transactions": [
+                {
+                    "date": "2024-02-18",
+                    "description": "Deposit",
+                    "amount": 4974.99,
+                    "transaction_id": 41898182
+                },
+                {
+                    "date": "2022-10-21",
+                    "description": "Withdrawal",
+                    "amount": 1457.18,
+                    "transaction_id": 107352288
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Deposit",
+                    "amount": 3963.35,
+                    "transaction_id": 12351688
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Withdrawal",
+                    "amount": -4475.16,
+                    "transaction_id": 19743502
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Withdrawal",
+                    "amount": -682.0,
+                    "transaction_id": 53820033
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 96,
+        "gender": "male",
+        "address": "2686 Theresa Stravenue, North Catherine, OK 57843",
+        "phone": "+1-413-795-8645x561",
+        "email": "steven49@example.net",
+        "account": {
+            "account_number": "9741296d-15e5-4cb5-ba0e-3338648e9c54",
+            "balance": 11458.92,
+            "transactions": [
+                {
+                    "date": "2023-07-08",
+                    "description": "Interest",
+                    "amount": 1611.32,
+                    "transaction_id": 61318301
+                },
+                {
+                    "date": "2024-08-17",
+                    "description": "Deposit",
+                    "amount": -2471.65,
+                    "transaction_id": 72490304
+                }
+            ]
+        }
+    }
+}

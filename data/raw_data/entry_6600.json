@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Aaron Williams",
+        "age": 29,
+        "gender": "female",
+        "address": "405 Kristi Place Suite 481, Port Brandonshire, MH 83232",
+        "phone": "291-401-8435x6756",
+        "email": "kathleenmckinney@example.org",
+        "account": {
+            "account_number": "4def590a-1531-4da6-ad64-2a56e7cb9035",
+            "balance": 17616.61,
+            "transactions": [
+                {
+                    "date": "2023-07-31",
+                    "description": "Withdrawal",
+                    "amount": 7732.61,
+                    "transaction_id": 111748263
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Deposit",
+                    "amount": 39750.53,
+                    "transaction_id": 80288523
+                },
+                {
+                    "date": "2022-12-07",
+                    "description": "Withdrawal",
+                    "amount": 29561.7,
+                    "transaction_id": 14122756
+                }
+            ]
+        }
+    }
+}

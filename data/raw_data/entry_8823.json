@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Hill",
+        "age": 28,
+        "gender": "female",
+        "address": "32684 Michele Road Apt. 332, East Jimmymouth, DE 53454",
+        "phone": "534.409.8539x0366",
+        "email": "frenchsamantha@example.net",
+        "account": {
+            "account_number": "5173a173-9b92-45bd-95de-68de6aaad23c",
+            "balance": -7325.62,
+            "transactions": [
+                {
+                    "date": "2022-11-27",
+                    "description": "Withdrawal",
+                    "amount": 3546.52,
+                    "transaction_id": 65767991
+                },
+                {
+                    "date": "2024-03-28",
+                    "description": "Deposit",
+                    "amount": 3871.26,
+                    "transaction_id": 20137278
+                },
+                {
+                    "date": "2023-03-10",
+                    "description": "Deposit",
+                    "amount": 4611.08,
+                    "transaction_id": 58230559
+                },
+                {
+                    "date": "2023-08-21",
+                    "description": "Deposit",
+                    "amount": 2061.66,
+                    "transaction_id": 12989196
+                },
+                {
+                    "date": "2024-02-03",
+                    "description": "Deposit",
+                    "amount": -1574.35,
+                    "transaction_id": 110703180
+                }
+            ]
+        }
+    }
+}

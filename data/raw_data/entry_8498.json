@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Edward Cox",
+        "age": 77,
+        "gender": "female",
+        "address": "6630 Mccall Landing Apt. 093, New Jamie, SD 90817",
+        "phone": "+1-450-999-0289x06696",
+        "email": "jenniferwhite@example.net",
+        "account": {
+            "account_number": "8e918790-15a0-4967-9de2-f75da14ac1bd",
+            "balance": 11245.17,
+            "transactions": [
+                {
+                    "date": "2023-07-05",
+                    "description": "Withdrawal",
+                    "amount": 26833.58,
+                    "transaction_id": 93371953
+                },
+                {
+                    "date": "2022-11-23",
+                    "description": "Withdrawal",
+                    "amount": 17860.49,
+                    "transaction_id": 55833437
+                },
+                {
+                    "date": "2024-05-05",
+                    "description": "Withdrawal",
+                    "amount": 24798.21,
+                    "transaction_id": 108382234
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Interest",
+                    "amount": 4034.13,
+                    "transaction_id": 100723443
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Deposit",
+                    "amount": 2402.71,
+                    "transaction_id": 73796811
+                }
+            ]
+        }
+    }
+}

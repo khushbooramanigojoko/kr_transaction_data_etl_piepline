@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Justin Green",
+        "age": 31,
+        "gender": "female",
+        "address": "84232 Weaver Lodge, Adamberg, IA 11332",
+        "phone": "(698)552-2960x03946",
+        "email": "rodriguezlisa@example.net",
+        "account": {
+            "account_number": "a288f8f9-47fa-4802-bf70-334d274fa960",
+            "balance": 29421.33,
+            "transactions": [
+                {
+                    "date": "2023-03-19",
+                    "description": "Deposit",
+                    "amount": 2278.28,
+                    "transaction_id": 38606236
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Interest",
+                    "amount": 11043.72,
+                    "transaction_id": 56656141
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Withdrawal",
+                    "amount": 3774.43,
+                    "transaction_id": 55570311
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Withdrawal",
+                    "amount": 27572.0,
+                    "transaction_id": 19204617
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Deposit",
+                    "amount": 8486.21,
+                    "transaction_id": 62410708
+                }
+            ]
+        }
+    }
+}

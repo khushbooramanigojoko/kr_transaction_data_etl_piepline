@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Troy Lowe",
+        "age": 56,
+        "gender": "male",
+        "address": "Unit 3862 Box 8094, DPO AE 02399",
+        "phone": "(519)691-0681x5831",
+        "email": "josephreed@example.org",
+        "account": {
+            "account_number": "a8f38d31-3b87-41cc-8024-785fefd9d770",
+            "balance": 36989.57,
+            "transactions": [
+                {
+                    "date": "2023-10-01",
+                    "description": "Interest",
+                    "amount": 10752.62,
+                    "transaction_id": 73074190
+                },
+                {
+                    "date": "2023-05-25",
+                    "description": "Withdrawal",
+                    "amount": 37916.85,
+                    "transaction_id": 68790117
+                }
+            ]
+        }
+    }
+}

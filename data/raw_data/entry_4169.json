@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Alexis Le",
+        "age": 44,
+        "gender": "female",
+        "address": "05026 Brandon Ways Suite 272, East Patrickside, NV 94496",
+        "phone": "315.808.3013x332",
+        "email": "cassidysims@example.net",
+        "account": {
+            "account_number": "7cf98308-ff85-47dd-a570-2ca581c392c9",
+            "balance": 26967.44,
+            "transactions": [
+                {
+                    "date": "2024-02-20",
+                    "description": "Interest",
+                    "amount": 11247.78,
+                    "transaction_id": 86730845
+                },
+                {
+                    "date": "2024-04-13",
+                    "description": "Deposit",
+                    "amount": 33671.51,
+                    "transaction_id": 55623944
+                },
+                {
+                    "date": "2023-04-05",
+                    "description": "Withdrawal",
+                    "amount": 36273.32,
+                    "transaction_id": 75730818
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Withdrawal",
+                    "amount": 27309.27,
+                    "transaction_id": 2853941
+                },
+                {
+                    "date": "2023-04-17",
+                    "description": "Withdrawal",
+                    "amount": 45970.75,
+                    "transaction_id": 47898233
+                }
+            ]
+        }
+    }
+}

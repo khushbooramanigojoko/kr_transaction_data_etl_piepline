@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 93,
+        "gender": "female",
+        "address": "21607 Brittney Grove Suite 207, East Roger, OH 46444",
+        "phone": "380.576.1649x59772",
+        "email": "leeheidi@example.com",
+        "account": {
+            "account_number": "e9c92a2b-545a-4f25-8fdf-41e3862d7c00",
+            "balance": 25832.47,
+            "transactions": [
+                {
+                    "date": "2024-01-16",
+                    "description": "Withdrawal",
+                    "amount": -401.9,
+                    "transaction_id": 93188175
+                },
+                {
+                    "date": "2023-07-01",
+                    "description": "Withdrawal",
+                    "amount": 2699.64,
+                    "transaction_id": 23435901
+                },
+                {
+                    "date": "2022-12-09",
+                    "description": "Interest",
+                    "amount": -2215.43,
+                    "transaction_id": 44575256
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Interest",
+                    "amount": 2126.47,
+                    "transaction_id": 65040661
+                }
+            ]
+        }
+    }
+}

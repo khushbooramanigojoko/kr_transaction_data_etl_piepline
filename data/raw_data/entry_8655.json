@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Hebert",
+        "age": 53,
+        "gender": "male",
+        "address": "5998 Aguilar Harbors, Lawsonville, MT 42006",
+        "phone": "001-363-563-4675x63588",
+        "email": "carpenterchristine@example.com",
+        "account": {
+            "account_number": "50916c5a-7cb5-40d3-a426-be4a67aa6e05",
+            "balance": 37378.67,
+            "transactions": [
+                {
+                    "date": "2023-02-28",
+                    "description": "Withdrawal",
+                    "amount": 28247.81,
+                    "transaction_id": 55774669
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Interest",
+                    "amount": 5428.61,
+                    "transaction_id": 5688681
+                }
+            ]
+        }
+    }
+}

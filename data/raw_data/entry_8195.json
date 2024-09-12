@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amanda Carey",
+        "age": 83,
+        "gender": "male",
+        "address": "39675 Katherine Villages Apt. 842, Hernandezport, MH 05665",
+        "phone": "001-994-773-3676x00347",
+        "email": "psimpson@example.net",
+        "account": {
+            "account_number": "a03ea66e-26d7-423c-bd0d-75d4df13db66",
+            "balance": 38101.11,
+            "transactions": [
+                {
+                    "date": "2022-12-28",
+                    "description": "Withdrawal",
+                    "amount": 17492.03,
+                    "transaction_id": 40005128
+                }
+            ]
+        }
+    }
+}

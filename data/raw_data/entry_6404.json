@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Debbie Vega",
+        "age": 72,
+        "gender": "female",
+        "address": "USS Freeman, FPO AA 83367",
+        "phone": "(600)932-1941x1232",
+        "email": "rhowell@example.com",
+        "account": {
+            "account_number": "2b4fb88d-53a2-4a47-9609-94c49a8d6704",
+            "balance": 45051.86,
+            "transactions": [
+                {
+                    "date": "2023-11-20",
+                    "description": "Withdrawal",
+                    "amount": 47075.91,
+                    "transaction_id": 46503817
+                },
+                {
+                    "date": "2023-01-29",
+                    "description": "Withdrawal",
+                    "amount": 2511.82,
+                    "transaction_id": 51800228
+                }
+            ]
+        }
+    }
+}

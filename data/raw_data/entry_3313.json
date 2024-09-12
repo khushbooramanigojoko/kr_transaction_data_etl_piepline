@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sara Shepherd",
+        "age": 18,
+        "gender": "female",
+        "address": "743 Pugh Run, South Austin, NM 99687",
+        "phone": "(980)884-7192x402",
+        "email": "jennifer28@example.com",
+        "account": {
+            "account_number": "ff1f7e32-f74c-4816-85ba-a6d9da244a13",
+            "balance": 31732.95,
+            "transactions": [
+                {
+                    "date": "2023-02-27",
+                    "description": "Deposit",
+                    "amount": 45996.95,
+                    "transaction_id": 79181803
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Interest",
+                    "amount": 4147.21,
+                    "transaction_id": 35245338
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Interest",
+                    "amount": 43533.8,
+                    "transaction_id": 50660248
+                },
+                {
+                    "date": "2022-12-03",
+                    "description": "Deposit",
+                    "amount": 14462.19,
+                    "transaction_id": 9120154
+                }
+            ]
+        }
+    }
+}

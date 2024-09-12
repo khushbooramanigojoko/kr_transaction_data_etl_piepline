@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Peter Stafford",
+        "age": 33,
+        "gender": "male",
+        "address": "940 Brian View Apt. 930, Patrickburgh, OH 83632",
+        "phone": "(455)315-8898",
+        "email": "davidalvarado@example.com",
+        "account": {
+            "account_number": "255a5e09-0999-4d70-8be4-7cb6a47273ae",
+            "balance": 17014.31,
+            "transactions": [
+                {
+                    "date": "2023-09-16",
+                    "description": "Deposit",
+                    "amount": 17965.22,
+                    "transaction_id": 16255732
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Interest",
+                    "amount": 46086.13,
+                    "transaction_id": 94065882
+                }
+            ]
+        }
+    }
+}

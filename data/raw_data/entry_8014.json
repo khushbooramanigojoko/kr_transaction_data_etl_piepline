@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mark Allen",
+        "age": 34,
+        "gender": "male",
+        "address": "2715 Frazier Mission, New Cheryl, LA 44497",
+        "phone": "8349135693",
+        "email": "garciadaniel@example.org",
+        "account": {
+            "account_number": "4cec1243-e8d6-4c18-ad91-9ec764dc43ee",
+            "balance": 11087.82,
+            "transactions": [
+                {
+                    "date": "2023-04-12",
+                    "description": "Withdrawal",
+                    "amount": 20399.45,
+                    "transaction_id": 82316226
+                },
+                {
+                    "date": "2024-03-24",
+                    "description": "Interest",
+                    "amount": 17231.48,
+                    "transaction_id": 85453901
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Interest",
+                    "amount": 40496.05,
+                    "transaction_id": 65239940
+                },
+                {
+                    "date": "2024-05-12",
+                    "description": "Withdrawal",
+                    "amount": 37395.71,
+                    "transaction_id": 34813243
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Withdrawal",
+                    "amount": 3346.89,
+                    "transaction_id": 49162687
+                }
+            ]
+        }
+    }
+}

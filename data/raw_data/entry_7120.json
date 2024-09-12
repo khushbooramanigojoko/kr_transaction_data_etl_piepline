@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Marilyn Pineda",
+        "age": 91,
+        "gender": "male",
+        "address": "5881 Ortiz Haven, Danielsstad, UT 36703",
+        "phone": "+1-808-920-4914x60007",
+        "email": "olivertiffany@example.net",
+        "account": {
+            "account_number": "2ec45fb3-791c-4ce8-a7d1-0cdec3a17444",
+            "balance": 12130.3,
+            "transactions": [
+                {
+                    "date": "2023-12-25",
+                    "description": "Withdrawal",
+                    "amount": 18602.94,
+                    "transaction_id": 109792382
+                }
+            ]
+        }
+    }
+}

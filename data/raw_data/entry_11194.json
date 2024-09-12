@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brittney Scott",
+        "age": 28,
+        "gender": "female",
+        "address": "5496 Lee Way Suite 143, Lake Michellemouth, PR 24959",
+        "phone": "3333427043",
+        "email": "longmelanie@example.com",
+        "account": {
+            "account_number": "4f7129a1-a66d-4768-961f-174ff4bc0023",
+            "balance": -29374.74,
+            "transactions": [
+                {
+                    "date": "2023-01-16",
+                    "description": "Interest",
+                    "amount": 2867.57,
+                    "transaction_id": 49485902
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Interest",
+                    "amount": -1095.06,
+                    "transaction_id": 18020733
+                }
+            ]
+        }
+    }
+}

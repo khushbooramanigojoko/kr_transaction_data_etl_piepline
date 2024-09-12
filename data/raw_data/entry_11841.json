@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Bauer",
+        "age": 31,
+        "gender": "male",
+        "address": "68643 Timothy Isle Suite 569, Emmaton, RI 55702",
+        "phone": "001-666-250-0806x2018",
+        "email": "thomasmunoz@example.org",
+        "account": {
+            "account_number": "248322a4-effa-4c83-bad5-c19ac9e778c5",
+            "balance": -19987.79,
+            "transactions": [
+                {
+                    "date": "2023-07-29",
+                    "description": "Deposit",
+                    "amount": -3368.14,
+                    "transaction_id": 104030210
+                },
+                {
+                    "date": "2022-09-17",
+                    "description": "Withdrawal",
+                    "amount": 4577.9,
+                    "transaction_id": 5305434
+                }
+            ]
+        }
+    }
+}

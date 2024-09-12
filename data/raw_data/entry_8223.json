@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Abigail Miller",
+        "age": 39,
+        "gender": "male",
+        "address": "59381 Garcia Pass Suite 902, Garrettmouth, UT 32090",
+        "phone": "(790)836-9190x1034",
+        "email": "gbailey@example.org",
+        "account": {
+            "account_number": "9c8f6638-c7ca-4cb3-a8f5-c35e973e9ee3",
+            "balance": 35967.85,
+            "transactions": [
+                {
+                    "date": "2024-03-31",
+                    "description": "Deposit",
+                    "amount": 8193.04,
+                    "transaction_id": 93986984
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Deposit",
+                    "amount": 42266.45,
+                    "transaction_id": 23808598
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Deposit",
+                    "amount": 9353.45,
+                    "transaction_id": 54964719
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Interest",
+                    "amount": 36148.67,
+                    "transaction_id": 46362662
+                }
+            ]
+        }
+    }
+}

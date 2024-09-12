@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Matthew Patel",
+        "age": 31,
+        "gender": "female",
+        "address": "70784 Scott Center, Torresshire, PW 29688",
+        "phone": "001-275-382-8268x0058",
+        "email": "angel91@example.org",
+        "account": {
+            "account_number": "e0f41cd1-3bde-47d8-8130-6214ae347323",
+            "balance": 4883.6,
+            "transactions": [
+                {
+                    "date": "2023-12-30",
+                    "description": "Deposit",
+                    "amount": 28102.01,
+                    "transaction_id": 20725688
+                },
+                {
+                    "date": "2024-04-24",
+                    "description": "Withdrawal",
+                    "amount": 33478.57,
+                    "transaction_id": 106544209
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Withdrawal",
+                    "amount": 48263.53,
+                    "transaction_id": 1800223
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Deposit",
+                    "amount": 33148.27,
+                    "transaction_id": 59852327
+                },
+                {
+                    "date": "2024-04-17",
+                    "description": "Interest",
+                    "amount": 42880.14,
+                    "transaction_id": 33241222
+                }
+            ]
+        }
+    }
+}

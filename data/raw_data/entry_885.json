@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jesus Weeks",
+        "age": 92,
+        "gender": "female",
+        "address": "919 Deanna Alley Suite 799, Petersenmouth, AL 71609",
+        "phone": "967-766-5751x7795",
+        "email": "eshaw@example.org",
+        "account": {
+            "account_number": "ff102166-215f-4160-b437-b7492f706b41",
+            "balance": 21734.64,
+            "transactions": [
+                {
+                    "date": "2023-01-07",
+                    "description": "Withdrawal",
+                    "amount": 20608.25,
+                    "transaction_id": 76531765
+                },
+                {
+                    "date": "2024-02-18",
+                    "description": "Interest",
+                    "amount": 2808.7,
+                    "transaction_id": 102710988
+                }
+            ]
+        }
+    }
+}

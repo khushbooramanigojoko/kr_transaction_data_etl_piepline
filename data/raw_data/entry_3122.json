@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Martin Franco",
+        "age": 49,
+        "gender": "male",
+        "address": "25097 Angela Alley, Tanyaport, AR 92717",
+        "phone": "001-587-330-0018x84779",
+        "email": "gkirk@example.com",
+        "account": {
+            "account_number": "dd691c07-6d7e-4804-b950-73d9a234bb1f",
+            "balance": 27015.68,
+            "transactions": [
+                {
+                    "date": "2023-06-07",
+                    "description": "Interest",
+                    "amount": 47391.07,
+                    "transaction_id": 1279405
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Deposit",
+                    "amount": 21130.42,
+                    "transaction_id": 49130397
+                }
+            ]
+        }
+    }
+}

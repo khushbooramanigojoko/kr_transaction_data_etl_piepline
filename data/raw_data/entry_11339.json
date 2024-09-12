@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 53,
+        "gender": "female",
+        "address": "928 Donna Drives Apt. 133, South Tammy, PW 65553",
+        "phone": "717.903.8957",
+        "email": "barry87@example.net",
+        "account": {
+            "account_number": "114831bd-c004-4ce8-984b-8585c9ebad41",
+            "balance": 1741.36,
+            "transactions": [
+                {
+                    "date": "2022-11-07",
+                    "description": "Deposit",
+                    "amount": 2815.75,
+                    "transaction_id": 86205342
+                },
+                {
+                    "date": "2023-06-09",
+                    "description": "Interest",
+                    "amount": 4409.4,
+                    "transaction_id": 23586845
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Interest",
+                    "amount": -1983.34,
+                    "transaction_id": 101401305
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Withdrawal",
+                    "amount": -2288.46,
+                    "transaction_id": 22439007
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stuart Guzman",
+        "age": 73,
+        "gender": "female",
+        "address": "042 Cruz Circle, North Christopher, OK 06036",
+        "phone": "(824)349-6923x6589",
+        "email": "murraydennis@example.org",
+        "account": {
+            "account_number": "29e5dc54-fce0-49ce-abe2-01e8732fc961",
+            "balance": 30356.04,
+            "transactions": [
+                {
+                    "date": "2023-06-03",
+                    "description": "Deposit",
+                    "amount": 32394.85,
+                    "transaction_id": 29390740
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Withdrawal",
+                    "amount": 22603.86,
+                    "transaction_id": 48809531
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Withdrawal",
+                    "amount": 16959.36,
+                    "transaction_id": 71456198
+                },
+                {
+                    "date": "2024-01-31",
+                    "description": "Deposit",
+                    "amount": 48747.94,
+                    "transaction_id": 99508502
+                }
+            ]
+        }
+    }
+}

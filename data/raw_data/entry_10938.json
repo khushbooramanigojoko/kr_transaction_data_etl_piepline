@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Erica Martinez",
+        "age": 93,
+        "gender": "female",
+        "address": "84586 Susan Forge Suite 275, Jenniferfurt, IA 52075",
+        "phone": "3599569197",
+        "email": "ienglish@example.net",
+        "account": {
+            "account_number": "3b819531-fa92-42fd-9528-c076eee2f5e8",
+            "balance": -49682.59,
+            "transactions": [
+                {
+                    "date": "2023-04-19",
+                    "description": "Deposit",
+                    "amount": -4916.75,
+                    "transaction_id": 78256858
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Interest",
+                    "amount": 1877.25,
+                    "transaction_id": 77280412
+                },
+                {
+                    "date": "2024-06-06",
+                    "description": "Deposit",
+                    "amount": -1703.37,
+                    "transaction_id": 90468251
+                }
+            ]
+        }
+    }
+}

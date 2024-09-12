@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Justin Cox",
+        "age": 24,
+        "gender": "female",
+        "address": "6453 Murray Pike Apt. 660, East Toni, OR 71681",
+        "phone": "+1-750-620-9856x9113",
+        "email": "qsalas@example.org",
+        "account": {
+            "account_number": "fca7e23d-32ee-4a38-9389-a52b57cac81a",
+            "balance": 22428.7,
+            "transactions": [
+                {
+                    "date": "2022-11-20",
+                    "description": "Interest",
+                    "amount": 32022.63,
+                    "transaction_id": 43409923
+                },
+                {
+                    "date": "2024-05-08",
+                    "description": "Withdrawal",
+                    "amount": 27833.35,
+                    "transaction_id": 16032905
+                },
+                {
+                    "date": "2023-06-09",
+                    "description": "Interest",
+                    "amount": 34471.62,
+                    "transaction_id": 76571700
+                }
+            ]
+        }
+    }
+}

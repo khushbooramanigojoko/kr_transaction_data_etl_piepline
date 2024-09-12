@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 39,
+        "gender": "male",
+        "address": "3878 Anthony Locks, West Phillip, AR 89102",
+        "phone": "001-612-469-8521x5196",
+        "email": "roberttaylor@example.com",
+        "account": {
+            "account_number": "950b19ca-ab53-4c3e-ba46-fb6272fb1693",
+            "balance": 46752.96,
+            "transactions": [
+                {
+                    "date": "2024-08-31",
+                    "description": "Interest",
+                    "amount": -33.92,
+                    "transaction_id": 8419624
+                }
+            ]
+        }
+    }
+}

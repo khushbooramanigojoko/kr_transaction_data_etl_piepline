@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "male",
+        "address": "5356 Emily Neck Suite 731, Martinchester, OH 15560",
+        "phone": "406-279-0103x2661",
+        "email": "nicholas26@example.org",
+        "account": {
+            "account_number": "8f0e7c02-e861-48ef-be37-01468689e09c",
+            "balance": 21838.47,
+            "transactions": [
+                {
+                    "date": "2024-01-04",
+                    "description": "Interest",
+                    "amount": -3201.74,
+                    "transaction_id": 9348225
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Withdrawal",
+                    "amount": 1368.1,
+                    "transaction_id": 62141236
+                }
+            ]
+        }
+    }
+}

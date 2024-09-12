@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Alexander Adams",
+        "age": 71,
+        "gender": "male",
+        "address": "206 Debra Skyway Suite 363, Tracymouth, TN 12610",
+        "phone": "(641)284-1035x26312",
+        "email": "travis69@example.net",
+        "account": {
+            "account_number": "8e868ebd-0be6-4c1d-ae2e-a1b8eadd3958",
+            "balance": 11475.39,
+            "transactions": [
+                {
+                    "date": "2024-02-20",
+                    "description": "Interest",
+                    "amount": 4564.9,
+                    "transaction_id": 13534880
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Withdrawal",
+                    "amount": 48191.5,
+                    "transaction_id": 4442158
+                },
+                {
+                    "date": "2024-04-21",
+                    "description": "Deposit",
+                    "amount": 16384.21,
+                    "transaction_id": 53849625
+                }
+            ]
+        }
+    }
+}

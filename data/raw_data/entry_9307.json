@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kevin Campbell",
+        "age": 78,
+        "gender": "male",
+        "address": "1640 Hart Greens, Orozcohaven, DE 60044",
+        "phone": "+1-835-488-0943",
+        "email": "fvang@example.org",
+        "account": {
+            "account_number": "02ba516d-99eb-490b-b2ac-43e79bad870d",
+            "balance": -49943.69,
+            "transactions": [
+                {
+                    "date": "2022-10-08",
+                    "description": "Withdrawal",
+                    "amount": -711.15,
+                    "transaction_id": 6542729
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Interest",
+                    "amount": -1953.33,
+                    "transaction_id": 68452206
+                }
+            ]
+        }
+    }
+}

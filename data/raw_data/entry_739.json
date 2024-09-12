@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jasmine Garcia",
+        "age": 91,
+        "gender": "female",
+        "address": "51395 Catherine Divide, Lake Joseph, FM 24001",
+        "phone": "(295)594-9778x384",
+        "email": "ppowell@example.com",
+        "account": {
+            "account_number": "49a140e5-d882-4988-94c8-7209f9754eab",
+            "balance": 9955.72,
+            "transactions": [
+                {
+                    "date": "2022-09-04",
+                    "description": "Withdrawal",
+                    "amount": 34342.33,
+                    "transaction_id": 67252825
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Deposit",
+                    "amount": 25676.61,
+                    "transaction_id": 26350312
+                }
+            ]
+        }
+    }
+}

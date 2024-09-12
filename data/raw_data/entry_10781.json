@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 87,
+        "gender": "female",
+        "address": "0764 Shepard Crossing Apt. 547, Douglasshire, AS 42796",
+        "phone": "408.862.1003x5726",
+        "email": "roberthuff@example.net",
+        "account": {
+            "account_number": "31cf287d-4703-4a79-a2dd-6bdf16ba72dc",
+            "balance": 3279.86,
+            "transactions": [
+                {
+                    "date": "2023-01-27",
+                    "description": "Withdrawal",
+                    "amount": 478.41,
+                    "transaction_id": 59739450
+                },
+                {
+                    "date": "2023-12-30",
+                    "description": "Interest",
+                    "amount": -2216.57,
+                    "transaction_id": 62320769
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Deposit",
+                    "amount": -4148.62,
+                    "transaction_id": 49648657
+                },
+                {
+                    "date": "2024-02-10",
+                    "description": "Deposit",
+                    "amount": 4719.41,
+                    "transaction_id": 16709208
+                }
+            ]
+        }
+    }
+}

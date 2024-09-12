@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 71,
+        "gender": "male",
+        "address": "4261 Spencer Roads, Jessicaberg, UT 30796",
+        "phone": "+1-438-558-7115",
+        "email": "shawnwade@example.org",
+        "account": {
+            "account_number": "c568cf8b-f4f3-4511-827f-31127af38859",
+            "balance": 9616.19,
+            "transactions": [
+                {
+                    "date": "2023-08-26",
+                    "description": "Withdrawal",
+                    "amount": -116.79,
+                    "transaction_id": 15255256
+                },
+                {
+                    "date": "2024-08-06",
+                    "description": "Withdrawal",
+                    "amount": 558.66,
+                    "transaction_id": 12148535
+                },
+                {
+                    "date": "2024-08-17",
+                    "description": "Deposit",
+                    "amount": 160.91,
+                    "transaction_id": 76059707
+                },
+                {
+                    "date": "2024-03-24",
+                    "description": "Interest",
+                    "amount": 135.83,
+                    "transaction_id": 63347482
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Interest",
+                    "amount": 3357.76,
+                    "transaction_id": 47332859
+                }
+            ]
+        }
+    }
+}

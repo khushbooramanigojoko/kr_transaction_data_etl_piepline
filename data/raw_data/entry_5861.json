@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Patricia Crawford",
+        "age": 43,
+        "gender": "female",
+        "address": "2668 Guzman Track, West Alan, MA 13727",
+        "phone": "(891)942-2361x726",
+        "email": "igarcia@example.org",
+        "account": {
+            "account_number": "65da2648-3cef-4ba9-b03d-e67a04e55e64",
+            "balance": 17252.71,
+            "transactions": [
+                {
+                    "date": "2024-03-08",
+                    "description": "Withdrawal",
+                    "amount": 41453.39,
+                    "transaction_id": 73032761
+                },
+                {
+                    "date": "2023-09-30",
+                    "description": "Interest",
+                    "amount": 33789.6,
+                    "transaction_id": 53673882
+                }
+            ]
+        }
+    }
+}

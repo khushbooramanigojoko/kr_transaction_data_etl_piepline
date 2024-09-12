@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dustin Sullivan",
+        "age": 30,
+        "gender": "female",
+        "address": "Unit 0859 Box 3191, DPO AA 92994",
+        "phone": "836-808-1662",
+        "email": "perezchristopher@example.com",
+        "account": {
+            "account_number": "f0ec4b9f-8fa2-4d35-9506-1bef38794a4c",
+            "balance": 32813.17,
+            "transactions": [
+                {
+                    "date": "2023-02-24",
+                    "description": "Interest",
+                    "amount": 41102.24,
+                    "transaction_id": 18856324
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Withdrawal",
+                    "amount": 49632.06,
+                    "transaction_id": 114158076
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Withdrawal",
+                    "amount": 35390.6,
+                    "transaction_id": 61556503
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Deposit",
+                    "amount": 26941.52,
+                    "transaction_id": 27600332
+                }
+            ]
+        }
+    }
+}

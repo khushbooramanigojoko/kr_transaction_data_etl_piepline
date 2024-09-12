@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nicole Krueger",
+        "age": 67,
+        "gender": "female",
+        "address": "3675 Adams Knolls Apt. 870, New Tracy, LA 96372",
+        "phone": "440-440-7045x333",
+        "email": "davidrichardson@example.org",
+        "account": {
+            "account_number": "4ec010d3-20d7-4208-b179-e4eeb36c1eed",
+            "balance": 21067.77,
+            "transactions": [
+                {
+                    "date": "2022-12-12",
+                    "description": "Deposit",
+                    "amount": 4630.6,
+                    "transaction_id": 35989703
+                },
+                {
+                    "date": "2023-02-05",
+                    "description": "Deposit",
+                    "amount": 27125.57,
+                    "transaction_id": 76665619
+                },
+                {
+                    "date": "2024-03-30",
+                    "description": "Interest",
+                    "amount": 43932.69,
+                    "transaction_id": 83871454
+                },
+                {
+                    "date": "2024-01-06",
+                    "description": "Deposit",
+                    "amount": 5151.17,
+                    "transaction_id": 50883461
+                }
+            ]
+        }
+    }
+}

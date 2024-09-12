@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rebecca Brady",
+        "age": 47,
+        "gender": "male",
+        "address": "PSC 8250, Box 7189, APO AA 55866",
+        "phone": "618-709-1216x8131",
+        "email": "gmeadows@example.net",
+        "account": {
+            "account_number": "8f20f190-47ed-484d-a01e-b81919af32f9",
+            "balance": -30695.94,
+            "transactions": [
+                {
+                    "date": "2023-09-27",
+                    "description": "Deposit",
+                    "amount": 1478.35,
+                    "transaction_id": 44456239
+                }
+            ]
+        }
+    }
+}

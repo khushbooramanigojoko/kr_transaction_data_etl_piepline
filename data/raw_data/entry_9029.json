@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Alfred Jones",
+        "age": 67,
+        "gender": "male",
+        "address": "47838 Simon Locks, Philliphaven, NJ 95868",
+        "phone": "001-990-718-1090x3735",
+        "email": "jennamann@example.com",
+        "account": {
+            "account_number": "2627f798-52cc-43e9-858d-bfe5925acd9d",
+            "balance": -10176.81,
+            "transactions": [
+                {
+                    "date": "2024-02-11",
+                    "description": "Withdrawal",
+                    "amount": -3618.86,
+                    "transaction_id": 62540413
+                },
+                {
+                    "date": "2023-08-25",
+                    "description": "Interest",
+                    "amount": 2048.14,
+                    "transaction_id": 48213074
+                },
+                {
+                    "date": "2024-08-16",
+                    "description": "Interest",
+                    "amount": 3644.14,
+                    "transaction_id": 99660072
+                },
+                {
+                    "date": "2023-11-18",
+                    "description": "Interest",
+                    "amount": 2788.36,
+                    "transaction_id": 16763677
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Withdrawal",
+                    "amount": -1096.04,
+                    "transaction_id": 5661350
+                }
+            ]
+        }
+    }
+}

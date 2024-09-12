@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mikayla Kaiser",
+        "age": 23,
+        "gender": "female",
+        "address": "91960 Fitzgerald Garden Apt. 955, Zamoraton, VA 95750",
+        "phone": "243-475-4165x2955",
+        "email": "powersdaniel@example.com",
+        "account": {
+            "account_number": "8ab1c543-6768-4c26-8b58-0e9cbe7a910f",
+            "balance": 13193.53,
+            "transactions": [
+                {
+                    "date": "2022-09-26",
+                    "description": "Withdrawal",
+                    "amount": 46249.35,
+                    "transaction_id": 10283940
+                },
+                {
+                    "date": "2023-08-03",
+                    "description": "Interest",
+                    "amount": 31195.2,
+                    "transaction_id": 42101580
+                },
+                {
+                    "date": "2023-05-27",
+                    "description": "Deposit",
+                    "amount": 22734.26,
+                    "transaction_id": 45932590
+                },
+                {
+                    "date": "2023-07-14",
+                    "description": "Deposit",
+                    "amount": 4715.01,
+                    "transaction_id": 100506001
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Withdrawal",
+                    "amount": 46602.42,
+                    "transaction_id": 89988846
+                }
+            ]
+        }
+    }
+}

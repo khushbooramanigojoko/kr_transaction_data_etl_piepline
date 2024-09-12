@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "James Hernandez",
+        "age": 70,
+        "gender": "male",
+        "address": "3646 Jessica Crest, Lake Troyshire, OH 89838",
+        "phone": "001-603-937-6301x300",
+        "email": "vross@example.org",
+        "account": {
+            "account_number": "1ac6638d-4ca2-4d14-ac1f-859435751f56",
+            "balance": -25817.4,
+            "transactions": [
+                {
+                    "date": "2023-07-14",
+                    "description": "Deposit",
+                    "amount": -4486.14,
+                    "transaction_id": 101262668
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": -1877.65,
+                    "transaction_id": 18085325
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Withdrawal",
+                    "amount": 356.67,
+                    "transaction_id": 98566925
+                },
+                {
+                    "date": "2024-09-01",
+                    "description": "Withdrawal",
+                    "amount": -270.67,
+                    "transaction_id": 73244096
+                }
+            ]
+        }
+    }
+}

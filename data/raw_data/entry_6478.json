@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Allison Perez",
+        "age": 65,
+        "gender": "male",
+        "address": "2670 Patel Rue, Atkinsonland, AS 12567",
+        "phone": "861-415-5562x8110",
+        "email": "gardnerkayla@example.net",
+        "account": {
+            "account_number": "26a1b9fd-58f6-44fc-8016-a9d49bf80354",
+            "balance": 9744.18,
+            "transactions": [
+                {
+                    "date": "2024-05-11",
+                    "description": "Interest",
+                    "amount": 30901.98,
+                    "transaction_id": 97304039
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Withdrawal",
+                    "amount": 49721.81,
+                    "transaction_id": 30068525
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Interest",
+                    "amount": 17500.14,
+                    "transaction_id": 7699827
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Deposit",
+                    "amount": 14656.52,
+                    "transaction_id": 38576774
+                }
+            ]
+        }
+    }
+}

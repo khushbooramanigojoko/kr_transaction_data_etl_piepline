@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Carrie Flores",
+        "age": 94,
+        "gender": "female",
+        "address": "23920 Stephanie Rest Apt. 799, East Reginaldbury, KS 25676",
+        "phone": "+1-376-615-8898x5503",
+        "email": "thompsonbarbara@example.org",
+        "account": {
+            "account_number": "750bca74-6006-49a6-bef2-4690c36d1167",
+            "balance": 26013.92,
+            "transactions": [
+                {
+                    "date": "2024-02-23",
+                    "description": "Deposit",
+                    "amount": 9105.13,
+                    "transaction_id": 92426989
+                }
+            ]
+        }
+    }
+}

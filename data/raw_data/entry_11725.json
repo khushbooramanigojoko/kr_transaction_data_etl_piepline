@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 40,
+        "gender": "female",
+        "address": "Unit 9296 Box 3714, DPO AE 63169",
+        "phone": "001-851-300-5117x6083",
+        "email": "patrickcollins@example.org",
+        "account": {
+            "account_number": "502fc02b-c088-46e8-994e-824fbd71e1b8",
+            "balance": 45527.19,
+            "transactions": [
+                {
+                    "date": "2023-03-05",
+                    "description": "Deposit",
+                    "amount": -493.74,
+                    "transaction_id": 40233949
+                },
+                {
+                    "date": "2023-09-07",
+                    "description": "Withdrawal",
+                    "amount": 3149.08,
+                    "transaction_id": 94260149
+                }
+            ]
+        }
+    }
+}

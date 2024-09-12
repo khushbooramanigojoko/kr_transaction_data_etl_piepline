@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jeremiah Wu",
+        "age": 36,
+        "gender": "female",
+        "address": "7092 Geoffrey Streets, Mccannborough, MI 73015",
+        "phone": "+1-691-970-9503x767",
+        "email": "psingleton@example.org",
+        "account": {
+            "account_number": "05a3f667-dc1c-456c-bf3f-989b060e9a3e",
+            "balance": 14552.7,
+            "transactions": [
+                {
+                    "date": "2023-05-04",
+                    "description": "Interest",
+                    "amount": 49577.21,
+                    "transaction_id": 49444051
+                },
+                {
+                    "date": "2024-08-11",
+                    "description": "Interest",
+                    "amount": 46592.74,
+                    "transaction_id": 102927321
+                }
+            ]
+        }
+    }
+}

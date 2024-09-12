@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Rebecca Long",
+        "age": 26,
+        "gender": "male",
+        "address": "7620 Nathan Port, North Ambershire, OR 39780",
+        "phone": "(293)868-1475",
+        "email": "edwardsnicole@example.org",
+        "account": {
+            "account_number": "821ed481-e795-4264-a967-9b6b121b13a0",
+            "balance": 13833.13,
+            "transactions": [
+                {
+                    "date": "2022-12-05",
+                    "description": "Withdrawal",
+                    "amount": 6970.93,
+                    "transaction_id": 79510893
+                },
+                {
+                    "date": "2023-02-13",
+                    "description": "Withdrawal",
+                    "amount": 6561.4,
+                    "transaction_id": 1710909
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Withdrawal",
+                    "amount": 26943.14,
+                    "transaction_id": 61673791
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Withdrawal",
+                    "amount": 14408.73,
+                    "transaction_id": 51321728
+                }
+            ]
+        }
+    }
+}

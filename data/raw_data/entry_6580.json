@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Aaron Perez",
+        "age": 93,
+        "gender": "female",
+        "address": "104 Douglas Land, South Rachael, CA 02323",
+        "phone": "(565)224-1205x5244",
+        "email": "williamsalexander@example.org",
+        "account": {
+            "account_number": "f05941d6-71aa-4bcd-ba11-d41e106c7f59",
+            "balance": 43521.71,
+            "transactions": [
+                {
+                    "date": "2024-06-30",
+                    "description": "Deposit",
+                    "amount": 30741.61,
+                    "transaction_id": 74099791
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Interest",
+                    "amount": 39247.71,
+                    "transaction_id": 119807005
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Deposit",
+                    "amount": 39527.28,
+                    "transaction_id": 40839178
+                }
+            ]
+        }
+    }
+}

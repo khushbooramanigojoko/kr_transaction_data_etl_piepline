@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jose Johnson",
+        "age": 87,
+        "gender": "male",
+        "address": "1871 Cook Heights, Haleyville, IN 38915",
+        "phone": "001-391-429-4273x8854",
+        "email": "john09@example.net",
+        "account": {
+            "account_number": "a952640a-8b4a-41af-9523-ede48295bbc1",
+            "balance": 15185.18,
+            "transactions": [
+                {
+                    "date": "2024-07-11",
+                    "description": "Withdrawal",
+                    "amount": 36038.72,
+                    "transaction_id": 58993029
+                }
+            ]
+        }
+    }
+}

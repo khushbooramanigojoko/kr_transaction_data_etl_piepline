@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tracy Jarvis",
+        "age": 79,
+        "gender": "male",
+        "address": "807 Michelle Tunnel, New Catherinehaven, UT 95702",
+        "phone": "286-230-8589x5215",
+        "email": "bstevenson@example.net",
+        "account": {
+            "account_number": "4183b338-ebac-498a-984b-9e4f06aeb977",
+            "balance": 15409.09,
+            "transactions": [
+                {
+                    "date": "2022-11-02",
+                    "description": "Withdrawal",
+                    "amount": 7705.04,
+                    "transaction_id": 115421462
+                },
+                {
+                    "date": "2024-04-07",
+                    "description": "Withdrawal",
+                    "amount": 16874.61,
+                    "transaction_id": 36866380
+                },
+                {
+                    "date": "2023-05-27",
+                    "description": "Withdrawal",
+                    "amount": 41103.73,
+                    "transaction_id": 34218193
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Deposit",
+                    "amount": 31782.3,
+                    "transaction_id": 89166282
+                },
+                {
+                    "date": "2024-07-07",
+                    "description": "Deposit",
+                    "amount": 34649.48,
+                    "transaction_id": 57250179
+                }
+            ]
+        }
+    }
+}

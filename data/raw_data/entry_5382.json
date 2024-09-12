@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mark Thompson",
+        "age": 28,
+        "gender": "female",
+        "address": "2625 Torres Pass, Anthonyhaven, NE 35059",
+        "phone": "897-892-3051",
+        "email": "steven98@example.net",
+        "account": {
+            "account_number": "c3642588-cd9d-46c0-9908-5a6166232fcd",
+            "balance": 13522.67,
+            "transactions": [
+                {
+                    "date": "2023-01-10",
+                    "description": "Withdrawal",
+                    "amount": 48471.4,
+                    "transaction_id": 69218600
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Steven Christensen",
+        "age": 28,
+        "gender": "male",
+        "address": "7365 Monroe Dam Apt. 016, Lake Christopher, KS 83209",
+        "phone": "001-442-428-0127x790",
+        "email": "samanthasnyder@example.net",
+        "account": {
+            "account_number": "4093d788-09bf-47d2-9e63-468dc2b6160c",
+            "balance": 14297.61,
+            "transactions": [
+                {
+                    "date": "2023-01-07",
+                    "description": "Deposit",
+                    "amount": 17188.51,
+                    "transaction_id": 47126910
+                },
+                {
+                    "date": "2024-07-03",
+                    "description": "Deposit",
+                    "amount": 37587.21,
+                    "transaction_id": 116007407
+                }
+            ]
+        }
+    }
+}

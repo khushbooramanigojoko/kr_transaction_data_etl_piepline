@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 72,
+        "gender": "female",
+        "address": "2682 Elizabeth Inlet Suite 000, Coffeyside, MP 40188",
+        "phone": "001-843-440-3173",
+        "email": "sanchezchristina@example.net",
+        "account": {
+            "account_number": "40654464-5818-4add-a0a0-5f5f2d113e15",
+            "balance": 37194.68,
+            "transactions": [
+                {
+                    "date": "2024-02-29",
+                    "description": "Deposit",
+                    "amount": 3291.34,
+                    "transaction_id": 12342074
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Deposit",
+                    "amount": 3354.5,
+                    "transaction_id": 41842950
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Interest",
+                    "amount": -3515.01,
+                    "transaction_id": 81650473
+                },
+                {
+                    "date": "2024-04-24",
+                    "description": "Interest",
+                    "amount": -4855.6,
+                    "transaction_id": 46672539
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Interest",
+                    "amount": 2708.46,
+                    "transaction_id": 61687817
+                }
+            ]
+        }
+    }
+}

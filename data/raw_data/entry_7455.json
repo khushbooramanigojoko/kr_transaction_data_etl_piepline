@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sarah Griffin",
+        "age": 20,
+        "gender": "male",
+        "address": "396 Anthony Place, Ralphview, TN 38082",
+        "phone": "423.784.3693x512",
+        "email": "georgeanderson@example.com",
+        "account": {
+            "account_number": "17ab161f-f3b5-43eb-b9f7-1ad1c8e83a5b",
+            "balance": 2604.52,
+            "transactions": [
+                {
+                    "date": "2023-07-20",
+                    "description": "Withdrawal",
+                    "amount": 48456.02,
+                    "transaction_id": 43890345
+                }
+            ]
+        }
+    }
+}

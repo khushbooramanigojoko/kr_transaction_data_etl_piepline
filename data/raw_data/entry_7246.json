@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Daniel Kelley",
+        "age": 99,
+        "gender": "female",
+        "address": "541 Ethan Prairie, Lake Alishatown, AS 16196",
+        "phone": "(451)208-2284x3525",
+        "email": "courtney57@example.com",
+        "account": {
+            "account_number": "a042440c-684b-483c-8a58-80d50da136cb",
+            "balance": 42773.26,
+            "transactions": [
+                {
+                    "date": "2024-07-26",
+                    "description": "Withdrawal",
+                    "amount": 42399.94,
+                    "transaction_id": 65699112
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Timothy Mccoy",
+        "age": 39,
+        "gender": "male",
+        "address": "3041 Anne Road, South Laurahaven, IL 62415",
+        "phone": "248.896.0111x35486",
+        "email": "nicolebrewer@example.net",
+        "account": {
+            "account_number": "8345c24c-0a77-48ef-ac7e-06cfb74642ad",
+            "balance": 34730.63,
+            "transactions": [
+                {
+                    "date": "2023-10-06",
+                    "description": "Interest",
+                    "amount": 27448.1,
+                    "transaction_id": 18798680
+                },
+                {
+                    "date": "2024-02-19",
+                    "description": "Interest",
+                    "amount": 25908.75,
+                    "transaction_id": 49709010
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Deposit",
+                    "amount": 103.6,
+                    "transaction_id": 34666650
+                },
+                {
+                    "date": "2024-03-08",
+                    "description": "Withdrawal",
+                    "amount": 41174.27,
+                    "transaction_id": 75184593
+                }
+            ]
+        }
+    }
+}

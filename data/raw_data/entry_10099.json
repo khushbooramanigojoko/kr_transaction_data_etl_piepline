@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 30,
+        "gender": "female",
+        "address": "USCGC Fry, FPO AP 93357",
+        "phone": "+1-476-646-4054",
+        "email": "tmartinez@example.org",
+        "account": {
+            "account_number": "2bdddf70-83c3-4f8a-beaf-ec285f2fd3d5",
+            "balance": 29087.98,
+            "transactions": [
+                {
+                    "date": "2023-03-08",
+                    "description": "Withdrawal",
+                    "amount": 504.46,
+                    "transaction_id": 52229611
+                }
+            ]
+        }
+    }
+}

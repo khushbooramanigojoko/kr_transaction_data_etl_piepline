@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Melissa Monroe",
+        "age": 69,
+        "gender": "male",
+        "address": "02587 Christine Burgs Apt. 870, Tonyaville, IA 32697",
+        "phone": "664.868.9329x329",
+        "email": "keysteven@example.org",
+        "account": {
+            "account_number": "f26beb9f-df0b-48af-8712-106322627ee2",
+            "balance": 36823.29,
+            "transactions": [
+                {
+                    "date": "2024-07-26",
+                    "description": "Interest",
+                    "amount": 28995.4,
+                    "transaction_id": 23844316
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Deposit",
+                    "amount": 48195.71,
+                    "transaction_id": 64385936
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Withdrawal",
+                    "amount": 21806.56,
+                    "transaction_id": 31551381
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Withdrawal",
+                    "amount": 19644.54,
+                    "transaction_id": 103435435
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kelly Callahan",
+        "age": 56,
+        "gender": "male",
+        "address": "781 Sarah Locks, Lake Tracy, ME 61707",
+        "phone": "733.288.7072x89901",
+        "email": "alexander69@example.org",
+        "account": {
+            "account_number": "b3ba8c55-b4b9-49ac-ad46-f8f7743b00fe",
+            "balance": -36879.6,
+            "transactions": [
+                {
+                    "date": "2023-03-09",
+                    "description": "Interest",
+                    "amount": 3137.01,
+                    "transaction_id": 7635199
+                }
+            ]
+        }
+    }
+}

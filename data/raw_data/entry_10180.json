@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Hahn",
+        "age": 67,
+        "gender": "male",
+        "address": "328 William Square Suite 640, Medinaburgh, NM 93614",
+        "phone": "229-753-6583",
+        "email": "kelly61@example.net",
+        "account": {
+            "account_number": "2436a4c2-ea1c-4719-b71f-e0ef605dc02e",
+            "balance": -36834.94,
+            "transactions": [
+                {
+                    "date": "2024-04-18",
+                    "description": "Withdrawal",
+                    "amount": 2294.3,
+                    "transaction_id": 75114064
+                },
+                {
+                    "date": "2023-07-04",
+                    "description": "Withdrawal",
+                    "amount": -4985.4,
+                    "transaction_id": 12122141
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Withdrawal",
+                    "amount": 4919.99,
+                    "transaction_id": 114604572
+                },
+                {
+                    "date": "2023-07-02",
+                    "description": "Interest",
+                    "amount": -3688.11,
+                    "transaction_id": 110459664
+                },
+                {
+                    "date": "2024-07-16",
+                    "description": "Deposit",
+                    "amount": 132.22,
+                    "transaction_id": 97484414
+                }
+            ]
+        }
+    }
+}

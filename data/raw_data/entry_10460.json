@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 82,
+        "gender": "female",
+        "address": "8567 Timothy Corner, South Peter, NM 66439",
+        "phone": "(478)964-2232x7648",
+        "email": "robertjensen@example.com",
+        "account": {
+            "account_number": "28e56519-2223-417d-9517-c7784323b8f9",
+            "balance": 3085.55,
+            "transactions": [
+                {
+                    "date": "2024-02-12",
+                    "description": "Interest",
+                    "amount": 3129.88,
+                    "transaction_id": 119378632
+                }
+            ]
+        }
+    }
+}

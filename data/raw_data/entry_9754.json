@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jamie Ramirez",
+        "age": 33,
+        "gender": "male",
+        "address": "6787 Samuel Shoal, South Robertoborough, VA 42971",
+        "phone": "+1-464-544-6890x911",
+        "email": "samantha54@example.com",
+        "account": {
+            "account_number": "4af4ea20-3cee-4a03-a549-6fecd72a191c",
+            "balance": -5624.38,
+            "transactions": [
+                {
+                    "date": "2023-02-14",
+                    "description": "Interest",
+                    "amount": -1184.59,
+                    "transaction_id": 57966751
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Withdrawal",
+                    "amount": -513.16,
+                    "transaction_id": 80480943
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Withdrawal",
+                    "amount": -3730.84,
+                    "transaction_id": 3153874
+                }
+            ]
+        }
+    }
+}

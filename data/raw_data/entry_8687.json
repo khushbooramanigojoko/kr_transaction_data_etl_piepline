@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Charles Townsend",
+        "age": 36,
+        "gender": "female",
+        "address": "15233 Sean Shoal Suite 524, West Kelly, AZ 79812",
+        "phone": "+1-742-587-6470x62471",
+        "email": "williamseric@example.com",
+        "account": {
+            "account_number": "ea56878d-50be-46eb-998c-b68d90011434",
+            "balance": 8591.6,
+            "transactions": [
+                {
+                    "date": "2023-10-17",
+                    "description": "Deposit",
+                    "amount": 6212.9,
+                    "transaction_id": 20244294
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jose Kelly",
+        "age": 82,
+        "gender": "female",
+        "address": "PSC 7649, Box 0700, APO AE 71974",
+        "phone": "(583)692-6414",
+        "email": "jacobdunn@example.net",
+        "account": {
+            "account_number": "82145013-0942-42a6-906a-5e94c9b2c709",
+            "balance": 9441.33,
+            "transactions": [
+                {
+                    "date": "2024-04-21",
+                    "description": "Interest",
+                    "amount": 37791.65,
+                    "transaction_id": 86835037
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Interest",
+                    "amount": 34091.26,
+                    "transaction_id": 26670268
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Interest",
+                    "amount": 1129.46,
+                    "transaction_id": 25509715
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Withdrawal",
+                    "amount": 20754.71,
+                    "transaction_id": 17605283
+                },
+                {
+                    "date": "2023-02-27",
+                    "description": "Withdrawal",
+                    "amount": 6726.78,
+                    "transaction_id": 70921211
+                }
+            ]
+        }
+    }
+}

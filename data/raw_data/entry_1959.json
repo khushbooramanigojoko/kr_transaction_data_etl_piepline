@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Rose Velez",
+        "age": 83,
+        "gender": "female",
+        "address": "4390 Mary Pine Suite 687, New Ralphshire, MN 31639",
+        "phone": "001-843-731-9159",
+        "email": "joseph69@example.net",
+        "account": {
+            "account_number": "c4014625-e2b0-46ef-aded-394c63bb14b8",
+            "balance": 25609.84,
+            "transactions": [
+                {
+                    "date": "2023-04-12",
+                    "description": "Withdrawal",
+                    "amount": 42401.83,
+                    "transaction_id": 102803460
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Deposit",
+                    "amount": 29832.88,
+                    "transaction_id": 30852886
+                },
+                {
+                    "date": "2024-08-24",
+                    "description": "Withdrawal",
+                    "amount": 47451.21,
+                    "transaction_id": 51331743
+                }
+            ]
+        }
+    }
+}

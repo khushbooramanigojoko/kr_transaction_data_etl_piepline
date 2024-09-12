@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Roger Jones",
+        "age": 37,
+        "gender": "male",
+        "address": "8396 Willie Brooks Suite 543, Port Gina, SC 17365",
+        "phone": "9457252584",
+        "email": "hernandezcynthia@example.org",
+        "account": {
+            "account_number": "301cf117-c0df-4f66-878b-eac664a51263",
+            "balance": 26004.77,
+            "transactions": [
+                {
+                    "date": "2022-12-05",
+                    "description": "Withdrawal",
+                    "amount": 46859.12,
+                    "transaction_id": 95044039
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Deposit",
+                    "amount": 17013.54,
+                    "transaction_id": 63238226
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Withdrawal",
+                    "amount": 32729.1,
+                    "transaction_id": 16965241
+                },
+                {
+                    "date": "2023-07-06",
+                    "description": "Interest",
+                    "amount": 2079.91,
+                    "transaction_id": 54922076
+                }
+            ]
+        }
+    }
+}

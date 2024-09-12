@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Robert Oconnor",
+        "age": 76,
+        "gender": "male",
+        "address": "USNV Anderson, FPO AA 33386",
+        "phone": "(832)524-5340",
+        "email": "kellykathy@example.org",
+        "account": {
+            "account_number": "bf1db916-247e-4695-b74f-2d5b7f51bc36",
+            "balance": 30192.21,
+            "transactions": [
+                {
+                    "date": "2023-09-10",
+                    "description": "Interest",
+                    "amount": 6103.41,
+                    "transaction_id": 39462359
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Withdrawal",
+                    "amount": 11602.17,
+                    "transaction_id": 31686589
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Withdrawal",
+                    "amount": 40540.69,
+                    "transaction_id": 54659271
+                },
+                {
+                    "date": "2022-10-11",
+                    "description": "Deposit",
+                    "amount": 7993.3,
+                    "transaction_id": 10157819
+                }
+            ]
+        }
+    }
+}

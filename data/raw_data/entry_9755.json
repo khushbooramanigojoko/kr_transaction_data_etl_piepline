@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ricky Hamilton",
+        "age": 55,
+        "gender": "male",
+        "address": "48309 Tamara Harbors Apt. 884, Garciashire, GU 40289",
+        "phone": "930.795.2341x8038",
+        "email": "lyoung@example.com",
+        "account": {
+            "account_number": "0abb4ded-5e98-4bb5-a994-b0a5d5941c7a",
+            "balance": -28024.51,
+            "transactions": [
+                {
+                    "date": "2024-04-22",
+                    "description": "Withdrawal",
+                    "amount": 856.24,
+                    "transaction_id": 45158375
+                },
+                {
+                    "date": "2023-12-31",
+                    "description": "Withdrawal",
+                    "amount": -2927.01,
+                    "transaction_id": 11427116
+                },
+                {
+                    "date": "2022-11-19",
+                    "description": "Withdrawal",
+                    "amount": 3393.14,
+                    "transaction_id": 74232010
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Interest",
+                    "amount": -3283.49,
+                    "transaction_id": 41031746
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Interest",
+                    "amount": -2905.06,
+                    "transaction_id": 56181538
+                }
+            ]
+        }
+    }
+}

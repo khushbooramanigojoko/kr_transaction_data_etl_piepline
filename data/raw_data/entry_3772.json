@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Linda Smith",
+        "age": 83,
+        "gender": "female",
+        "address": "2800 Vaughn Crossing Suite 830, Port Lawrenceside, CT 01413",
+        "phone": "969-567-6216x494",
+        "email": "dhughes@example.net",
+        "account": {
+            "account_number": "98d8915d-9152-450b-b604-65e50ccdeb13",
+            "balance": 34486.44,
+            "transactions": [
+                {
+                    "date": "2024-02-09",
+                    "description": "Interest",
+                    "amount": 37137.7,
+                    "transaction_id": 46695865
+                },
+                {
+                    "date": "2024-07-27",
+                    "description": "Deposit",
+                    "amount": 13781.78,
+                    "transaction_id": 75749428
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christine Perez",
+        "age": 36,
+        "gender": "female",
+        "address": "035 Hernandez Rest Apt. 390, East Victoriaville, WV 68405",
+        "phone": "(804)252-6404x86644",
+        "email": "howelljoseph@example.org",
+        "account": {
+            "account_number": "b6348ebb-4b87-4f55-bbfd-179e24b55b39",
+            "balance": 37249.88,
+            "transactions": [
+                {
+                    "date": "2022-12-30",
+                    "description": "Withdrawal",
+                    "amount": 23974.11,
+                    "transaction_id": 39110397
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Deposit",
+                    "amount": 33207.63,
+                    "transaction_id": 18066588
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Deposit",
+                    "amount": 25863.44,
+                    "transaction_id": 88725079
+                },
+                {
+                    "date": "2023-08-13",
+                    "description": "Interest",
+                    "amount": 9106.47,
+                    "transaction_id": 32004612
+                }
+            ]
+        }
+    }
+}

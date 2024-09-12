@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Thomas Larson",
+        "age": 21,
+        "gender": "female",
+        "address": "08918 Garza Shore, Lake Robertburgh, MS 40767",
+        "phone": "400.251.6304",
+        "email": "julia71@example.net",
+        "account": {
+            "account_number": "16c423ac-3211-4ff4-856e-05e5f6839910",
+            "balance": 13893.53,
+            "transactions": [
+                {
+                    "date": "2023-03-22",
+                    "description": "Deposit",
+                    "amount": 42903.68,
+                    "transaction_id": 119020042
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Withdrawal",
+                    "amount": 15687.13,
+                    "transaction_id": 71771244
+                },
+                {
+                    "date": "2023-04-28",
+                    "description": "Interest",
+                    "amount": 35071.82,
+                    "transaction_id": 80466067
+                }
+            ]
+        }
+    }
+}

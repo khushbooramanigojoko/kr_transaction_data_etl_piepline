@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Meghan Foster",
+        "age": 97,
+        "gender": "female",
+        "address": "779 Moore Terrace, Millerchester, PR 07023",
+        "phone": "278.306.9455x4777",
+        "email": "huffjoseph@example.com",
+        "account": {
+            "account_number": "c25dbade-425c-47a9-b785-8ae3590dac5f",
+            "balance": -30724.36,
+            "transactions": [
+                {
+                    "date": "2023-09-30",
+                    "description": "Withdrawal",
+                    "amount": -2299.54,
+                    "transaction_id": 57757654
+                },
+                {
+                    "date": "2022-09-02",
+                    "description": "Deposit",
+                    "amount": 4578.67,
+                    "transaction_id": 10349404
+                },
+                {
+                    "date": "2023-09-20",
+                    "description": "Withdrawal",
+                    "amount": 3143.9,
+                    "transaction_id": 25338094
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Interest",
+                    "amount": -4649.97,
+                    "transaction_id": 96923452
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 93,
+        "gender": "male",
+        "address": "6088 Nicholas Knolls Suite 991, South Drew, ID 50293",
+        "phone": "+1-436-669-1876x1057",
+        "email": "brian23@example.net",
+        "account": {
+            "account_number": "4184167e-fa9f-41fd-b93e-d5e5ba310519",
+            "balance": 38466.33,
+            "transactions": [
+                {
+                    "date": "2023-07-16",
+                    "description": "Withdrawal",
+                    "amount": 3848.86,
+                    "transaction_id": 24612986
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Interest",
+                    "amount": -1764.62,
+                    "transaction_id": 2424169
+                },
+                {
+                    "date": "2024-03-25",
+                    "description": "Deposit",
+                    "amount": -4579.37,
+                    "transaction_id": 25532563
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Withdrawal",
+                    "amount": -2204.44,
+                    "transaction_id": 94665852
+                },
+                {
+                    "date": "2023-07-10",
+                    "description": "Deposit",
+                    "amount": -2848.6,
+                    "transaction_id": 47945217
+                }
+            ]
+        }
+    }
+}

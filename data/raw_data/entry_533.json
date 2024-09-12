@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kristen Hill",
+        "age": 42,
+        "gender": "female",
+        "address": "71397 Richardson Lodge Apt. 913, South Kendra, DC 88010",
+        "phone": "478-807-2145",
+        "email": "samuelsmith@example.org",
+        "account": {
+            "account_number": "0948594c-163c-475f-8b43-bbad97ac4801",
+            "balance": 17472.31,
+            "transactions": [
+                {
+                    "date": "2023-05-02",
+                    "description": "Deposit",
+                    "amount": 31073.82,
+                    "transaction_id": 30884904
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "David Carter",
+        "age": 65,
+        "gender": "male",
+        "address": "Unit 8901 Box 8078, DPO AE 02809",
+        "phone": "+1-262-397-8786x018",
+        "email": "vfrench@example.com",
+        "account": {
+            "account_number": "2f2598f5-b669-42dc-a4d2-5fd7a7121f4e",
+            "balance": 4973.7,
+            "transactions": [
+                {
+                    "date": "2023-03-10",
+                    "description": "Deposit",
+                    "amount": 23683.08,
+                    "transaction_id": 7493795
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Deposit",
+                    "amount": 23641.66,
+                    "transaction_id": 36624171
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Deposit",
+                    "amount": 28239.35,
+                    "transaction_id": 19224403
+                },
+                {
+                    "date": "2024-06-01",
+                    "description": "Deposit",
+                    "amount": 10491.94,
+                    "transaction_id": 89023318
+                }
+            ]
+        }
+    }
+}

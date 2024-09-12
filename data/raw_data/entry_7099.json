@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Todd Smith",
+        "age": 84,
+        "gender": "female",
+        "address": "383 Odom Drive Suite 710, New Kimberly, AZ 02334",
+        "phone": "+1-950-370-3091x524",
+        "email": "tracysmith@example.com",
+        "account": {
+            "account_number": "95453c72-d3d7-4b31-b06d-1aeeb6d89610",
+            "balance": 24407.46,
+            "transactions": [
+                {
+                    "date": "2023-01-08",
+                    "description": "Deposit",
+                    "amount": 34283.75,
+                    "transaction_id": 116649430
+                }
+            ]
+        }
+    }
+}

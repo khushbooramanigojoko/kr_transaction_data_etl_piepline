@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 34,
+        "gender": "male",
+        "address": "73943 Nathan Row, Teresamouth, IA 35812",
+        "phone": "+1-421-938-0297x24594",
+        "email": "brandywood@example.net",
+        "account": {
+            "account_number": "b4428c77-45a1-4ea0-a659-2149396e72e4",
+            "balance": 45628.51,
+            "transactions": [
+                {
+                    "date": "2023-04-06",
+                    "description": "Interest",
+                    "amount": -4138.07,
+                    "transaction_id": 43146277
+                }
+            ]
+        }
+    }
+}

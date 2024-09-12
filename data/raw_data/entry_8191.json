@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Rachel Moore",
+        "age": 34,
+        "gender": "male",
+        "address": "295 Bennett Groves Suite 598, North Josephview, NJ 70470",
+        "phone": "600-667-1398",
+        "email": "marielambert@example.net",
+        "account": {
+            "account_number": "b79a4991-e60b-45c9-b2df-6118aafe0efb",
+            "balance": 42402.96,
+            "transactions": [
+                {
+                    "date": "2024-05-09",
+                    "description": "Deposit",
+                    "amount": 10748.85,
+                    "transaction_id": 48995404
+                },
+                {
+                    "date": "2024-04-07",
+                    "description": "Interest",
+                    "amount": 28685.97,
+                    "transaction_id": 30110726
+                }
+            ]
+        }
+    }
+}

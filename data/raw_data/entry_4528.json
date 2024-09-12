@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Connor Jackson",
+        "age": 38,
+        "gender": "male",
+        "address": "177 Hale Orchard, West Robinhaven, IL 01032",
+        "phone": "689-879-1700",
+        "email": "danielwest@example.net",
+        "account": {
+            "account_number": "b6f6fc89-75c0-4d23-86fe-3fee5f364359",
+            "balance": 18908.04,
+            "transactions": [
+                {
+                    "date": "2023-01-25",
+                    "description": "Withdrawal",
+                    "amount": 27507.05,
+                    "transaction_id": 55547265
+                },
+                {
+                    "date": "2022-09-14",
+                    "description": "Interest",
+                    "amount": 9530.72,
+                    "transaction_id": 14185054
+                },
+                {
+                    "date": "2023-08-12",
+                    "description": "Deposit",
+                    "amount": 3794.91,
+                    "transaction_id": 58001435
+                },
+                {
+                    "date": "2023-01-29",
+                    "description": "Withdrawal",
+                    "amount": 37763.05,
+                    "transaction_id": 65852016
+                }
+            ]
+        }
+    }
+}

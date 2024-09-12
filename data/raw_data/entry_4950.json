@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Martha Ray",
+        "age": 76,
+        "gender": "female",
+        "address": "269 Tonya Islands, Port Jessicachester, PW 26716",
+        "phone": "9886954939",
+        "email": "robert95@example.com",
+        "account": {
+            "account_number": "3d2e36db-50c0-4d6a-a9ac-2f910e1221de",
+            "balance": 21838.0,
+            "transactions": [
+                {
+                    "date": "2023-01-22",
+                    "description": "Deposit",
+                    "amount": 31596.35,
+                    "transaction_id": 105512261
+                },
+                {
+                    "date": "2024-01-25",
+                    "description": "Withdrawal",
+                    "amount": 636.7,
+                    "transaction_id": 91132716
+                },
+                {
+                    "date": "2022-11-08",
+                    "description": "Deposit",
+                    "amount": 49910.3,
+                    "transaction_id": 109564736
+                }
+            ]
+        }
+    }
+}

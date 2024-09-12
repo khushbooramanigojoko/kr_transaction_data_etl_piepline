@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 31,
+        "gender": "female",
+        "address": "8090 Johnson Path Suite 555, Christophertown, FL 23381",
+        "phone": "577-519-4429x93322",
+        "email": "rdavis@example.com",
+        "account": {
+            "account_number": "93705e65-256f-46d2-8bbc-c3d80533278a",
+            "balance": 47656.03,
+            "transactions": [
+                {
+                    "date": "2024-05-13",
+                    "description": "Withdrawal",
+                    "amount": 2234.65,
+                    "transaction_id": 4301080
+                },
+                {
+                    "date": "2024-04-07",
+                    "description": "Deposit",
+                    "amount": 2012.76,
+                    "transaction_id": 69949581
+                }
+            ]
+        }
+    }
+}

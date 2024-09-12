@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Virginia Obrien",
+        "age": 54,
+        "gender": "female",
+        "address": "51968 Johnson Junction Suite 268, Jenniferchester, VT 68227",
+        "phone": "001-381-656-5832x365",
+        "email": "stephanie24@example.net",
+        "account": {
+            "account_number": "5c4d18f8-64cd-4ebd-9747-4617c8075593",
+            "balance": 21723.73,
+            "transactions": [
+                {
+                    "date": "2022-09-12",
+                    "description": "Deposit",
+                    "amount": 23523.31,
+                    "transaction_id": 12689509
+                },
+                {
+                    "date": "2022-12-25",
+                    "description": "Withdrawal",
+                    "amount": 40843.16,
+                    "transaction_id": 64440621
+                }
+            ]
+        }
+    }
+}

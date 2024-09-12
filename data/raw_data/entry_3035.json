@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dominic Rocha",
+        "age": 75,
+        "gender": "male",
+        "address": "Unit 0968 Box 2355, DPO AA 33860",
+        "phone": "536-292-0365",
+        "email": "luke38@example.com",
+        "account": {
+            "account_number": "1c646b34-12e4-4250-89d7-df91e78a84d9",
+            "balance": 39798.71,
+            "transactions": [
+                {
+                    "date": "2023-10-16",
+                    "description": "Interest",
+                    "amount": 49170.02,
+                    "transaction_id": 6065338
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Deposit",
+                    "amount": 4281.96,
+                    "transaction_id": 83753138
+                },
+                {
+                    "date": "2024-03-12",
+                    "description": "Deposit",
+                    "amount": 41950.55,
+                    "transaction_id": 22992166
+                },
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": 33966.71,
+                    "transaction_id": 114290083
+                }
+            ]
+        }
+    }
+}

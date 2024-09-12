@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jamie Martinez",
+        "age": 92,
+        "gender": "female",
+        "address": "0418 Estrada Pine, Lake Jonathanland, AZ 35674",
+        "phone": "831.212.2626x22071",
+        "email": "wendywhitaker@example.org",
+        "account": {
+            "account_number": "a8ea8289-af7c-42e0-9278-c659aaa0d636",
+            "balance": 2639.02,
+            "transactions": [
+                {
+                    "date": "2023-01-16",
+                    "description": "Withdrawal",
+                    "amount": 37253.92,
+                    "transaction_id": 52670930
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Withdrawal",
+                    "amount": 28032.18,
+                    "transaction_id": 110804986
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Withdrawal",
+                    "amount": 5692.74,
+                    "transaction_id": 6434797
+                }
+            ]
+        }
+    }
+}

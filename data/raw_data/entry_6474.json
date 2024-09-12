@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Elizabeth Bowers",
+        "age": 93,
+        "gender": "female",
+        "address": "33157 Jacqueline Viaduct Apt. 317, Mcgeeton, MI 24528",
+        "phone": "+1-799-409-6798x0711",
+        "email": "saraharellano@example.com",
+        "account": {
+            "account_number": "fae13f3e-d2d9-4dcc-80b5-8e30b8f60232",
+            "balance": 12418.28,
+            "transactions": [
+                {
+                    "date": "2023-05-04",
+                    "description": "Interest",
+                    "amount": 10553.69,
+                    "transaction_id": 25083351
+                },
+                {
+                    "date": "2023-06-05",
+                    "description": "Deposit",
+                    "amount": 4955.24,
+                    "transaction_id": 49759837
+                },
+                {
+                    "date": "2024-01-29",
+                    "description": "Interest",
+                    "amount": 13364.34,
+                    "transaction_id": 71072084
+                },
+                {
+                    "date": "2023-06-30",
+                    "description": "Deposit",
+                    "amount": 37119.99,
+                    "transaction_id": 67420650
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Margaret Camacho",
+        "age": 22,
+        "gender": "female",
+        "address": "833 Kim Curve Suite 486, New Kathleen, DC 03768",
+        "phone": "2697481583",
+        "email": "breannarichards@example.com",
+        "account": {
+            "account_number": "6ad44e84-cec7-43d1-ab93-973d25c40481",
+            "balance": 46347.44,
+            "transactions": [
+                {
+                    "date": "2024-03-20",
+                    "description": "Withdrawal",
+                    "amount": 42594.84,
+                    "transaction_id": 76950163
+                },
+                {
+                    "date": "2023-09-19",
+                    "description": "Deposit",
+                    "amount": 43065.59,
+                    "transaction_id": 112824637
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Deposit",
+                    "amount": 29697.03,
+                    "transaction_id": 32776750
+                },
+                {
+                    "date": "2022-10-21",
+                    "description": "Withdrawal",
+                    "amount": 16010.31,
+                    "transaction_id": 109300939
+                }
+            ]
+        }
+    }
+}

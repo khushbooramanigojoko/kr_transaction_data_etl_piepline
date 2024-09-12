@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jessica Smith",
+        "age": 55,
+        "gender": "male",
+        "address": "6119 Mason Flat, Phillipsmouth, ID 39434",
+        "phone": "708-518-2366x3745",
+        "email": "thomasmichael@example.com",
+        "account": {
+            "account_number": "7655583c-394f-4190-b819-0f8402330235",
+            "balance": -28558.7,
+            "transactions": [
+                {
+                    "date": "2024-08-02",
+                    "description": "Deposit",
+                    "amount": 388.4,
+                    "transaction_id": 107654010
+                },
+                {
+                    "date": "2024-03-19",
+                    "description": "Interest",
+                    "amount": -1397.31,
+                    "transaction_id": 66568318
+                }
+            ]
+        }
+    }
+}

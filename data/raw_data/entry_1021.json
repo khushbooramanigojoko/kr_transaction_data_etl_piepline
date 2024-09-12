@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Lee",
+        "age": 57,
+        "gender": "male",
+        "address": "Unit 9013 Box 0097, DPO AP 70942",
+        "phone": "+1-851-211-0672x7263",
+        "email": "murphycarla@example.com",
+        "account": {
+            "account_number": "73691988-a40a-4194-9e09-2c0977f8edf5",
+            "balance": 3871.94,
+            "transactions": [
+                {
+                    "date": "2023-12-04",
+                    "description": "Deposit",
+                    "amount": 49421.73,
+                    "transaction_id": 105949898
+                }
+            ]
+        }
+    }
+}

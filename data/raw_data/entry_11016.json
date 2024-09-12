@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 39,
+        "gender": "male",
+        "address": "675 Gibbs Junctions Apt. 734, Carolborough, NH 92279",
+        "phone": "714.787.7917",
+        "email": "lirachel@example.com",
+        "account": {
+            "account_number": "579ff4a0-16ff-45ff-b4c1-3aea3c74435e",
+            "balance": 7196.79,
+            "transactions": [
+                {
+                    "date": "2023-12-10",
+                    "description": "Interest",
+                    "amount": -4674.39,
+                    "transaction_id": 80564926
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Interest",
+                    "amount": -3952.8,
+                    "transaction_id": 113490066
+                },
+                {
+                    "date": "2023-03-27",
+                    "description": "Withdrawal",
+                    "amount": -1855.87,
+                    "transaction_id": 80673326
+                }
+            ]
+        }
+    }
+}

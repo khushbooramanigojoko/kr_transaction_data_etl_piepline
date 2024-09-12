@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mark Jackson Jr.",
+        "age": 83,
+        "gender": "male",
+        "address": "53775 Jordan Spur Suite 620, West Garrett, WY 18457",
+        "phone": "001-812-861-1787",
+        "email": "palmerdawn@example.com",
+        "account": {
+            "account_number": "fbab8f18-4dba-46f8-a063-4ef20e41406c",
+            "balance": 39147.93,
+            "transactions": [
+                {
+                    "date": "2023-08-10",
+                    "description": "Deposit",
+                    "amount": 8754.7,
+                    "transaction_id": 90474826
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Deposit",
+                    "amount": 13842.14,
+                    "transaction_id": 92201412
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Deposit",
+                    "amount": 45431.32,
+                    "transaction_id": 48295832
+                },
+                {
+                    "date": "2023-02-14",
+                    "description": "Interest",
+                    "amount": 1160.3,
+                    "transaction_id": 102282578
+                }
+            ]
+        }
+    }
+}

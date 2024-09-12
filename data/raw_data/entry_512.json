@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Robert Fitzpatrick",
+        "age": 95,
+        "gender": "female",
+        "address": "99592 Steven Freeway Apt. 268, West Thomas, IL 14462",
+        "phone": "494-227-9864x940",
+        "email": "zwilson@example.net",
+        "account": {
+            "account_number": "e2868ef3-e644-4bfb-816a-9a288116f971",
+            "balance": 16516.92,
+            "transactions": [
+                {
+                    "date": "2024-07-15",
+                    "description": "Withdrawal",
+                    "amount": 11131.83,
+                    "transaction_id": 64459733
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Interest",
+                    "amount": 2501.01,
+                    "transaction_id": 72893525
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Deposit",
+                    "amount": 4584.61,
+                    "transaction_id": 107320763
+                },
+                {
+                    "date": "2022-10-21",
+                    "description": "Withdrawal",
+                    "amount": 5978.58,
+                    "transaction_id": 103068268
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Deposit",
+                    "amount": 39433.56,
+                    "transaction_id": 73434389
+                }
+            ]
+        }
+    }
+}

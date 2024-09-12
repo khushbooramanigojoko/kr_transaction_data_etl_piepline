@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joshua Contreras",
+        "age": 84,
+        "gender": "female",
+        "address": "236 Jenkins Wall, North Nathanbury, WI 48676",
+        "phone": "3109522009",
+        "email": "xbowen@example.com",
+        "account": {
+            "account_number": "25de62ff-3fe6-4b13-bddf-143808516718",
+            "balance": 11452.9,
+            "transactions": [
+                {
+                    "date": "2023-01-25",
+                    "description": "Interest",
+                    "amount": 22995.46,
+                    "transaction_id": 110281220
+                }
+            ]
+        }
+    }
+}

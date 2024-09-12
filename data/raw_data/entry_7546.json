@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Gerald Ferguson",
+        "age": 77,
+        "gender": "male",
+        "address": "0025 Joanne Dam, Zacharyville, IA 72702",
+        "phone": "946-872-5104x656",
+        "email": "michael36@example.net",
+        "account": {
+            "account_number": "a145d2e8-4a01-4363-b710-8d5a4cf5b7d6",
+            "balance": 46208.69,
+            "transactions": [
+                {
+                    "date": "2022-12-02",
+                    "description": "Deposit",
+                    "amount": 46526.91,
+                    "transaction_id": 117496833
+                },
+                {
+                    "date": "2023-10-04",
+                    "description": "Deposit",
+                    "amount": 38974.19,
+                    "transaction_id": 89574111
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Withdrawal",
+                    "amount": 40667.3,
+                    "transaction_id": 1295423
+                },
+                {
+                    "date": "2023-07-09",
+                    "description": "Withdrawal",
+                    "amount": 37726.22,
+                    "transaction_id": 71536420
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stephanie Delgado",
+        "age": 93,
+        "gender": "female",
+        "address": "0438 Lindsay Extensions, Erikachester, VT 79527",
+        "phone": "(386)774-0578",
+        "email": "adamolson@example.net",
+        "account": {
+            "account_number": "48cb8a5c-75cf-4002-81f4-e46d7ddd7078",
+            "balance": -21885.45,
+            "transactions": [
+                {
+                    "date": "2023-07-22",
+                    "description": "Deposit",
+                    "amount": 3890.78,
+                    "transaction_id": 27388689
+                }
+            ]
+        }
+    }
+}

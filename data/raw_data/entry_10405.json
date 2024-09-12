@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 58,
+        "gender": "male",
+        "address": "634 Timothy Spur Apt. 466, New Teresastad, ND 04466",
+        "phone": "(515)216-3643",
+        "email": "juanperry@example.org",
+        "account": {
+            "account_number": "6121ee5d-9581-4530-af26-f94431b8369f",
+            "balance": 36087.66,
+            "transactions": [
+                {
+                    "date": "2023-10-02",
+                    "description": "Withdrawal",
+                    "amount": -933.91,
+                    "transaction_id": 49846620
+                },
+                {
+                    "date": "2023-11-18",
+                    "description": "Interest",
+                    "amount": 2851.38,
+                    "transaction_id": 39937642
+                },
+                {
+                    "date": "2023-06-29",
+                    "description": "Deposit",
+                    "amount": 3911.64,
+                    "transaction_id": 85760106
+                },
+                {
+                    "date": "2023-02-21",
+                    "description": "Withdrawal",
+                    "amount": -3797.96,
+                    "transaction_id": 43745114
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Deposit",
+                    "amount": -781.58,
+                    "transaction_id": 45867912
+                }
+            ]
+        }
+    }
+}

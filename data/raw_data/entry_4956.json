@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tina Mcdonald",
+        "age": 63,
+        "gender": "female",
+        "address": "USS Hardin, FPO AP 75219",
+        "phone": "832.207.0503",
+        "email": "gjohnson@example.org",
+        "account": {
+            "account_number": "27f13980-8529-481a-8ceb-9150b50b12a3",
+            "balance": 19523.35,
+            "transactions": [
+                {
+                    "date": "2022-09-03",
+                    "description": "Interest",
+                    "amount": 26911.09,
+                    "transaction_id": 18128762
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Interest",
+                    "amount": 727.86,
+                    "transaction_id": 37333646
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Withdrawal",
+                    "amount": 27554.32,
+                    "transaction_id": 77906101
+                },
+                {
+                    "date": "2024-04-17",
+                    "description": "Deposit",
+                    "amount": 23331.26,
+                    "transaction_id": 63373520
+                }
+            ]
+        }
+    }
+}

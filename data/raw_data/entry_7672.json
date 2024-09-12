@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Austin Edwards",
+        "age": 99,
+        "gender": "male",
+        "address": "15887 Cervantes Spurs, Martinshire, MN 83962",
+        "phone": "530.936.5585",
+        "email": "kaitlynhaynes@example.net",
+        "account": {
+            "account_number": "5cf5dd01-9f5b-4c06-842d-9e08e492b013",
+            "balance": 29457.02,
+            "transactions": [
+                {
+                    "date": "2024-01-23",
+                    "description": "Deposit",
+                    "amount": 28120.33,
+                    "transaction_id": 96957294
+                },
+                {
+                    "date": "2023-01-06",
+                    "description": "Interest",
+                    "amount": 37344.0,
+                    "transaction_id": 87652410
+                },
+                {
+                    "date": "2023-05-23",
+                    "description": "Withdrawal",
+                    "amount": 32002.43,
+                    "transaction_id": 9673343
+                }
+            ]
+        }
+    }
+}

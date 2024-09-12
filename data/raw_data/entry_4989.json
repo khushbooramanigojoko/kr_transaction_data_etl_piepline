@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christopher Johnson",
+        "age": 88,
+        "gender": "female",
+        "address": "066 Amanda Points, New James, MN 52319",
+        "phone": "(907)239-4579x97259",
+        "email": "nicolesims@example.com",
+        "account": {
+            "account_number": "18cdf3e6-7da4-4b21-949d-ca9f587c667f",
+            "balance": 40663.41,
+            "transactions": [
+                {
+                    "date": "2023-10-22",
+                    "description": "Interest",
+                    "amount": 11278.13,
+                    "transaction_id": 69452317
+                },
+                {
+                    "date": "2023-08-18",
+                    "description": "Interest",
+                    "amount": 18120.63,
+                    "transaction_id": 27146840
+                },
+                {
+                    "date": "2023-03-30",
+                    "description": "Deposit",
+                    "amount": 43729.84,
+                    "transaction_id": 55429273
+                },
+                {
+                    "date": "2023-03-27",
+                    "description": "Withdrawal",
+                    "amount": 42702.08,
+                    "transaction_id": 81882472
+                }
+            ]
+        }
+    }
+}

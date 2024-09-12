@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Karen Barry",
+        "age": 58,
+        "gender": "female",
+        "address": "17021 Pope Isle Suite 362, Lake Erintown, NJ 22505",
+        "phone": "869.545.6767",
+        "email": "meganking@example.net",
+        "account": {
+            "account_number": "7e280a4f-61e9-4156-bd8d-cdeb6d06a5b1",
+            "balance": 47217.46,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Deposit",
+                    "amount": 36137.97,
+                    "transaction_id": 38485187
+                },
+                {
+                    "date": "2022-12-29",
+                    "description": "Withdrawal",
+                    "amount": 14595.47,
+                    "transaction_id": 34165075
+                }
+            ]
+        }
+    }
+}

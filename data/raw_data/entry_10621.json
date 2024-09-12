@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 37,
+        "gender": "male",
+        "address": "7227 Bowen Fields Apt. 849, Calvinbury, NC 70801",
+        "phone": "793.265.4728x86859",
+        "email": "elizabeth12@example.com",
+        "account": {
+            "account_number": "c6302777-ca56-4742-9f53-00c12cec0f6a",
+            "balance": 9480.93,
+            "transactions": [
+                {
+                    "date": "2023-03-28",
+                    "description": "Withdrawal",
+                    "amount": -3635.82,
+                    "transaction_id": 44910871
+                },
+                {
+                    "date": "2023-02-21",
+                    "description": "Deposit",
+                    "amount": -1707.2,
+                    "transaction_id": 76137349
+                }
+            ]
+        }
+    }
+}

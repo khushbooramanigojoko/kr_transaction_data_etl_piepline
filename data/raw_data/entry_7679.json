@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michelle Lee",
+        "age": 91,
+        "gender": "female",
+        "address": "7453 Kyle Crescent Apt. 594, Port Danielfurt, HI 09161",
+        "phone": "+1-945-206-9604",
+        "email": "wsilva@example.com",
+        "account": {
+            "account_number": "805eff1a-96ff-41da-ada7-f2da597c02fd",
+            "balance": 19376.66,
+            "transactions": [
+                {
+                    "date": "2024-02-27",
+                    "description": "Interest",
+                    "amount": 28800.2,
+                    "transaction_id": 119674085
+                },
+                {
+                    "date": "2023-11-09",
+                    "description": "Deposit",
+                    "amount": 36037.39,
+                    "transaction_id": 28705954
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Interest",
+                    "amount": 17567.17,
+                    "transaction_id": 103948275
+                }
+            ]
+        }
+    }
+}

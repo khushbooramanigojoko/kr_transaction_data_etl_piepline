@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Baker",
+        "age": 25,
+        "gender": "male",
+        "address": "062 Andrew Causeway Suite 208, Campbellport, TX 75342",
+        "phone": "001-867-278-9256x2551",
+        "email": "robertjacobson@example.com",
+        "account": {
+            "account_number": "b1a3add7-0bf6-49ec-b073-b6366e7a76ec",
+            "balance": 12402.77,
+            "transactions": [
+                {
+                    "date": "2024-04-05",
+                    "description": "Deposit",
+                    "amount": 30775.07,
+                    "transaction_id": 36749129
+                },
+                {
+                    "date": "2023-08-08",
+                    "description": "Withdrawal",
+                    "amount": 49173.61,
+                    "transaction_id": 74979402
+                },
+                {
+                    "date": "2023-01-22",
+                    "description": "Interest",
+                    "amount": 27970.74,
+                    "transaction_id": 112615572
+                },
+                {
+                    "date": "2022-10-10",
+                    "description": "Withdrawal",
+                    "amount": 29071.28,
+                    "transaction_id": 6364184
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Deposit",
+                    "amount": 48441.07,
+                    "transaction_id": 61080405
+                }
+            ]
+        }
+    }
+}

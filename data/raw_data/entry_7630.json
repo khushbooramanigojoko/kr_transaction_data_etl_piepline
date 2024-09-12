@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brenda Sanders",
+        "age": 23,
+        "gender": "male",
+        "address": "04890 Compton Circle Apt. 603, Dominiquehaven, IA 97104",
+        "phone": "+1-758-759-1371x833",
+        "email": "xblack@example.com",
+        "account": {
+            "account_number": "a8865c49-fe3a-4258-bd0a-b4f959ca9595",
+            "balance": 44772.43,
+            "transactions": [
+                {
+                    "date": "2022-10-05",
+                    "description": "Interest",
+                    "amount": 6507.02,
+                    "transaction_id": 71425108
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Interest",
+                    "amount": 23161.0,
+                    "transaction_id": 42945231
+                }
+            ]
+        }
+    }
+}

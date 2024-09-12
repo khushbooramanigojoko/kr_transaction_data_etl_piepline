@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Allison Klein",
+        "age": 69,
+        "gender": "female",
+        "address": "82094 Lori Lakes Suite 313, East David, DC 45377",
+        "phone": "001-759-652-5141",
+        "email": "browncynthia@example.net",
+        "account": {
+            "account_number": "ded1a5fe-84ac-4fd8-acab-9474c257f8ca",
+            "balance": 25661.24,
+            "transactions": [
+                {
+                    "date": "2023-04-04",
+                    "description": "Withdrawal",
+                    "amount": 26286.25,
+                    "transaction_id": 76228460
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Deposit",
+                    "amount": 47139.6,
+                    "transaction_id": 22005065
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Interest",
+                    "amount": 49623.85,
+                    "transaction_id": 111405984
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Deposit",
+                    "amount": 25349.41,
+                    "transaction_id": 31185181
+                }
+            ]
+        }
+    }
+}

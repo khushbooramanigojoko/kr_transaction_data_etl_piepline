@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Logan Thompson",
+        "age": 55,
+        "gender": "male",
+        "address": "97664 Isabella Lake, Walkerbury, ND 67485",
+        "phone": "360.547.6390",
+        "email": "sjones@example.com",
+        "account": {
+            "account_number": "868eecb7-e15f-4b41-b658-1590db08d770",
+            "balance": 3397.51,
+            "transactions": [
+                {
+                    "date": "2024-03-13",
+                    "description": "Deposit",
+                    "amount": 25992.19,
+                    "transaction_id": 62566671
+                },
+                {
+                    "date": "2023-11-27",
+                    "description": "Withdrawal",
+                    "amount": 21768.68,
+                    "transaction_id": 38238851
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Linda Mccarthy",
+        "age": 50,
+        "gender": "male",
+        "address": "3674 Lindsay Pass, Nicoleberg, MH 86295",
+        "phone": "879-668-7595x52464",
+        "email": "williamsjenny@example.org",
+        "account": {
+            "account_number": "bbfc2ad4-6d36-4fdb-9e6d-6c87db84ccfc",
+            "balance": 6049.2,
+            "transactions": [
+                {
+                    "date": "2022-10-09",
+                    "description": "Withdrawal",
+                    "amount": 35298.81,
+                    "transaction_id": 29089581
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Withdrawal",
+                    "amount": 21385.24,
+                    "transaction_id": 89552688
+                },
+                {
+                    "date": "2024-07-14",
+                    "description": "Interest",
+                    "amount": 1401.17,
+                    "transaction_id": 47638140
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Withdrawal",
+                    "amount": 40843.1,
+                    "transaction_id": 84129413
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Withdrawal",
+                    "amount": 20609.19,
+                    "transaction_id": 15608519
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Adam Evans",
+        "age": 27,
+        "gender": "male",
+        "address": "220 Welch Row, Marquezland, FM 58639",
+        "phone": "715.741.3043",
+        "email": "ukirby@example.com",
+        "account": {
+            "account_number": "b96dfdfe-aec3-4192-b4d4-6e105fdbd84e",
+            "balance": -26016.13,
+            "transactions": [
+                {
+                    "date": "2022-12-30",
+                    "description": "Deposit",
+                    "amount": -2174.84,
+                    "transaction_id": 35620243
+                },
+                {
+                    "date": "2023-04-23",
+                    "description": "Interest",
+                    "amount": 733.81,
+                    "transaction_id": 87305555
+                },
+                {
+                    "date": "2023-06-30",
+                    "description": "Withdrawal",
+                    "amount": -2852.59,
+                    "transaction_id": 63931789
+                },
+                {
+                    "date": "2023-01-27",
+                    "description": "Interest",
+                    "amount": -4311.52,
+                    "transaction_id": 82343433
+                },
+                {
+                    "date": "2024-06-26",
+                    "description": "Deposit",
+                    "amount": -3818.4,
+                    "transaction_id": 28940083
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lisa Henderson",
+        "age": 56,
+        "gender": "male",
+        "address": "4275 Ellis Greens, East Bryanchester, AZ 26936",
+        "phone": "001-390-912-3869",
+        "email": "ericajohnson@example.com",
+        "account": {
+            "account_number": "053df61a-6cb1-4ee5-aad9-a0552c6c444b",
+            "balance": 47664.89,
+            "transactions": [
+                {
+                    "date": "2023-11-18",
+                    "description": "Deposit",
+                    "amount": 30621.46,
+                    "transaction_id": 12323896
+                }
+            ]
+        }
+    }
+}

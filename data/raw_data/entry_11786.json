@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Andrea Calhoun",
+        "age": 45,
+        "gender": "female",
+        "address": "0912 Fred Avenue, New Eric, NY 78064",
+        "phone": "915.853.9529",
+        "email": "kyle97@example.org",
+        "account": {
+            "account_number": "e0257705-88cb-41bb-bd91-39d3ec341224",
+            "balance": -13803.44,
+            "transactions": [
+                {
+                    "date": "2022-09-25",
+                    "description": "Deposit",
+                    "amount": -4260.69,
+                    "transaction_id": 92992273
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Interest",
+                    "amount": -2707.15,
+                    "transaction_id": 5800112
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Interest",
+                    "amount": -666.78,
+                    "transaction_id": 81575621
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Deposit",
+                    "amount": -3474.23,
+                    "transaction_id": 54088508
+                }
+            ]
+        }
+    }
+}

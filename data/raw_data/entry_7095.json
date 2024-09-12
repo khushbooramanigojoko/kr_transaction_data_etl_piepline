@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "William Williams",
+        "age": 66,
+        "gender": "female",
+        "address": "PSC 9107, Box 2793, APO AP 69353",
+        "phone": "(202)997-6502x1724",
+        "email": "catherineweaver@example.org",
+        "account": {
+            "account_number": "364a2fa0-bfff-41d9-bbf1-89af84046229",
+            "balance": 32265.15,
+            "transactions": [
+                {
+                    "date": "2023-02-11",
+                    "description": "Interest",
+                    "amount": 27622.19,
+                    "transaction_id": 22189511
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Deposit",
+                    "amount": 8407.16,
+                    "transaction_id": 22500053
+                },
+                {
+                    "date": "2024-02-28",
+                    "description": "Withdrawal",
+                    "amount": 39577.81,
+                    "transaction_id": 105713340
+                }
+            ]
+        }
+    }
+}

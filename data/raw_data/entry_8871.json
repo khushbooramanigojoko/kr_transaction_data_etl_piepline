@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 38,
+        "gender": "male",
+        "address": "71515 Andrea Fields Apt. 963, Lake Christy, AZ 24193",
+        "phone": "+1-632-769-5456x774",
+        "email": "richarddixon@example.net",
+        "account": {
+            "account_number": "9efe0d24-db7d-4292-9746-6572c2f7070d",
+            "balance": 46057.25,
+            "transactions": [
+                {
+                    "date": "2024-04-17",
+                    "description": "Interest",
+                    "amount": -1553.5,
+                    "transaction_id": 92643182
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Interest",
+                    "amount": -3631.72,
+                    "transaction_id": 48778225
+                },
+                {
+                    "date": "2023-06-18",
+                    "description": "Interest",
+                    "amount": 706.86,
+                    "transaction_id": 6150008
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Deposit",
+                    "amount": -651.75,
+                    "transaction_id": 77949279
+                }
+            ]
+        }
+    }
+}

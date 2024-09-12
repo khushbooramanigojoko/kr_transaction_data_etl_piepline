@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 78,
+        "gender": "male",
+        "address": "48913 Bond Forge, Meganmouth, NJ 68132",
+        "phone": "001-950-859-8202",
+        "email": "grobles@example.net",
+        "account": {
+            "account_number": "7eff3f7b-73ed-48ec-80d8-0fdec3ad0329",
+            "balance": 14052.75,
+            "transactions": [
+                {
+                    "date": "2023-10-24",
+                    "description": "Interest",
+                    "amount": 2883.18,
+                    "transaction_id": 16099776
+                }
+            ]
+        }
+    }
+}

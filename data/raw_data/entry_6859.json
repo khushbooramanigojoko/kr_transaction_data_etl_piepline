@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Charles Jackson",
+        "age": 94,
+        "gender": "female",
+        "address": "PSC 5495, Box 2238, APO AE 13411",
+        "phone": "555-297-2940x8621",
+        "email": "matthew81@example.com",
+        "account": {
+            "account_number": "df177ec0-9384-4f75-929f-94af896ef5c0",
+            "balance": 11223.92,
+            "transactions": [
+                {
+                    "date": "2023-06-11",
+                    "description": "Withdrawal",
+                    "amount": 24345.46,
+                    "transaction_id": 18231702
+                },
+                {
+                    "date": "2024-01-20",
+                    "description": "Interest",
+                    "amount": 28677.88,
+                    "transaction_id": 50044319
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Deposit",
+                    "amount": 8566.16,
+                    "transaction_id": 26872288
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Withdrawal",
+                    "amount": 8962.73,
+                    "transaction_id": 63818423
+                }
+            ]
+        }
+    }
+}

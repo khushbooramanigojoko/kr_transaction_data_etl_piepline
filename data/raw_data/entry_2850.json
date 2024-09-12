@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Adam Thompson",
+        "age": 29,
+        "gender": "female",
+        "address": "99036 Joanna Lodge Suite 489, Hernandeztown, NC 10025",
+        "phone": "+1-286-957-2131x206",
+        "email": "cjones@example.org",
+        "account": {
+            "account_number": "55064e9a-00e0-4a47-bc3b-affa4a32d0db",
+            "balance": 3325.9,
+            "transactions": [
+                {
+                    "date": "2024-01-15",
+                    "description": "Deposit",
+                    "amount": 21406.87,
+                    "transaction_id": 49909526
+                },
+                {
+                    "date": "2024-08-17",
+                    "description": "Deposit",
+                    "amount": 29157.68,
+                    "transaction_id": 55185124
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Interest",
+                    "amount": 46530.5,
+                    "transaction_id": 112565407
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Deposit",
+                    "amount": 34245.28,
+                    "transaction_id": 46103593
+                },
+                {
+                    "date": "2023-08-04",
+                    "description": "Withdrawal",
+                    "amount": 32136.54,
+                    "transaction_id": 89866155
+                }
+            ]
+        }
+    }
+}

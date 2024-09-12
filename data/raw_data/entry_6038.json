@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Karl Sanders",
+        "age": 24,
+        "gender": "female",
+        "address": "48644 Edward Rue, Kleinport, MO 10940",
+        "phone": "4489114643",
+        "email": "dianebonilla@example.com",
+        "account": {
+            "account_number": "141a8964-0646-4011-8ae5-684943d14ef4",
+            "balance": 6578.4,
+            "transactions": [
+                {
+                    "date": "2023-02-13",
+                    "description": "Interest",
+                    "amount": 35023.8,
+                    "transaction_id": 111268409
+                },
+                {
+                    "date": "2024-08-16",
+                    "description": "Withdrawal",
+                    "amount": 34941.18,
+                    "transaction_id": 22762461
+                },
+                {
+                    "date": "2023-10-08",
+                    "description": "Interest",
+                    "amount": 40323.23,
+                    "transaction_id": 56753238
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Deposit",
+                    "amount": 48394.23,
+                    "transaction_id": 18385517
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Interest",
+                    "amount": 1447.28,
+                    "transaction_id": 17403436
+                }
+            ]
+        }
+    }
+}

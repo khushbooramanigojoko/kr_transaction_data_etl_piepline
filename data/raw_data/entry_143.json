@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Richard Jackson",
+        "age": 77,
+        "gender": "female",
+        "address": "7496 Joseph Ports, South Elizabeth, OK 34633",
+        "phone": "(658)511-4295",
+        "email": "jackgonzalez@example.org",
+        "account": {
+            "account_number": "f156402f-cece-4317-b283-2fb379d276cc",
+            "balance": 48471.23,
+            "transactions": [
+                {
+                    "date": "2023-01-12",
+                    "description": "Withdrawal",
+                    "amount": 34359.86,
+                    "transaction_id": 35229684
+                },
+                {
+                    "date": "2023-04-29",
+                    "description": "Deposit",
+                    "amount": 7366.56,
+                    "transaction_id": 22092550
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Interest",
+                    "amount": 16316.2,
+                    "transaction_id": 12708593
+                },
+                {
+                    "date": "2023-10-16",
+                    "description": "Interest",
+                    "amount": 20672.66,
+                    "transaction_id": 65787874
+                }
+            ]
+        }
+    }
+}

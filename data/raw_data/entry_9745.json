@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Miguel Rubio",
+        "age": 82,
+        "gender": "male",
+        "address": "60599 Geoffrey Drive, West Jessicaburgh, IL 47957",
+        "phone": "932-969-1846x6169",
+        "email": "edwin41@example.net",
+        "account": {
+            "account_number": "37eb5c01-064d-43dc-bff4-ef849ec3a14d",
+            "balance": -46936.83,
+            "transactions": [
+                {
+                    "date": "2023-04-29",
+                    "description": "Deposit",
+                    "amount": 1114.38,
+                    "transaction_id": 87640801
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Deposit",
+                    "amount": -1844.05,
+                    "transaction_id": 42027427
+                }
+            ]
+        }
+    }
+}

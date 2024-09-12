@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mrs. Andrea Roberts",
+        "age": 82,
+        "gender": "male",
+        "address": "156 Daniels Light Apt. 378, West Alyssa, LA 77325",
+        "phone": "001-385-733-1716x807",
+        "email": "bdodson@example.com",
+        "account": {
+            "account_number": "e454be6a-ae39-4765-8213-c8f71200b5ee",
+            "balance": 14597.13,
+            "transactions": [
+                {
+                    "date": "2023-09-24",
+                    "description": "Interest",
+                    "amount": 27117.99,
+                    "transaction_id": 77400296
+                },
+                {
+                    "date": "2023-11-03",
+                    "description": "Interest",
+                    "amount": 16673.69,
+                    "transaction_id": 36103397
+                },
+                {
+                    "date": "2022-12-26",
+                    "description": "Deposit",
+                    "amount": 18274.71,
+                    "transaction_id": 43092717
+                },
+                {
+                    "date": "2023-06-25",
+                    "description": "Deposit",
+                    "amount": 13446.06,
+                    "transaction_id": 104939916
+                },
+                {
+                    "date": "2023-07-24",
+                    "description": "Interest",
+                    "amount": 30490.27,
+                    "transaction_id": 7595464
+                }
+            ]
+        }
+    }
+}

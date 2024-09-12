@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jeffrey Clark",
+        "age": 42,
+        "gender": "female",
+        "address": "864 Stout Prairie, Phillipland, MN 27261",
+        "phone": "(600)322-1349x1932",
+        "email": "newmanjudy@example.com",
+        "account": {
+            "account_number": "7dca3e2f-07be-4abd-8006-6300d99d6c69",
+            "balance": 45114.93,
+            "transactions": [
+                {
+                    "date": "2022-09-02",
+                    "description": "Interest",
+                    "amount": 46425.06,
+                    "transaction_id": 84086002
+                },
+                {
+                    "date": "2022-12-29",
+                    "description": "Deposit",
+                    "amount": 41124.34,
+                    "transaction_id": 103449280
+                }
+            ]
+        }
+    }
+}

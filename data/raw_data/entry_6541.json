@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Cynthia Rosario",
+        "age": 68,
+        "gender": "female",
+        "address": "USNV Lee, FPO AP 83321",
+        "phone": "846.567.1219x32686",
+        "email": "matthew60@example.net",
+        "account": {
+            "account_number": "56fa9ee2-f380-4930-b7fd-26716e46e302",
+            "balance": 44871.16,
+            "transactions": [
+                {
+                    "date": "2023-04-01",
+                    "description": "Deposit",
+                    "amount": 22097.79,
+                    "transaction_id": 93099826
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Interest",
+                    "amount": 20216.64,
+                    "transaction_id": 30812089
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Deposit",
+                    "amount": 20620.93,
+                    "transaction_id": 46049501
+                }
+            ]
+        }
+    }
+}

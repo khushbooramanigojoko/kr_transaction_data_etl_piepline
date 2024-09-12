@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 20,
+        "gender": "female",
+        "address": "586 Paul Corners, Lake Keith, RI 23033",
+        "phone": "834.499.0887",
+        "email": "zrussell@example.org",
+        "account": {
+            "account_number": "b119d3cf-c0d8-4765-a976-c45b02ba06db",
+            "balance": 19193.33,
+            "transactions": [
+                {
+                    "date": "2022-11-18",
+                    "description": "Interest",
+                    "amount": -2992.44,
+                    "transaction_id": 77415736
+                },
+                {
+                    "date": "2023-05-23",
+                    "description": "Deposit",
+                    "amount": -1504.8,
+                    "transaction_id": 73045877
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Interest",
+                    "amount": 3035.61,
+                    "transaction_id": 45919923
+                },
+                {
+                    "date": "2024-05-29",
+                    "description": "Deposit",
+                    "amount": 1979.89,
+                    "transaction_id": 16580889
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Withdrawal",
+                    "amount": 674.44,
+                    "transaction_id": 44671588
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Anthony Graham",
+        "age": 72,
+        "gender": "male",
+        "address": "357 Tammy Track Suite 747, West Charleschester, CO 95655",
+        "phone": "392.937.8654x8221",
+        "email": "gadkins@example.net",
+        "account": {
+            "account_number": "25391547-1329-4a42-89ad-86da038d818a",
+            "balance": 35751.58,
+            "transactions": [
+                {
+                    "date": "2024-05-25",
+                    "description": "Withdrawal",
+                    "amount": 16555.56,
+                    "transaction_id": 68534760
+                },
+                {
+                    "date": "2023-05-16",
+                    "description": "Withdrawal",
+                    "amount": 10752.18,
+                    "transaction_id": 5831535
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Deposit",
+                    "amount": 19538.3,
+                    "transaction_id": 45662607
+                }
+            ]
+        }
+    }
+}

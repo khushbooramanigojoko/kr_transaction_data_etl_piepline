@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 79,
+        "gender": "male",
+        "address": "6173 Wang Parkways, Lake Amber, OH 81498",
+        "phone": "+1-479-611-3346x1694",
+        "email": "hendersontina@example.org",
+        "account": {
+            "account_number": "6e44484c-634b-44d7-8a52-68eabe439cd3",
+            "balance": 15748.14,
+            "transactions": [
+                {
+                    "date": "2022-10-19",
+                    "description": "Withdrawal",
+                    "amount": 4522.51,
+                    "transaction_id": 107668535
+                },
+                {
+                    "date": "2023-05-23",
+                    "description": "Withdrawal",
+                    "amount": 2471.46,
+                    "transaction_id": 25879930
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Interest",
+                    "amount": 4968.02,
+                    "transaction_id": 100242118
+                },
+                {
+                    "date": "2023-01-16",
+                    "description": "Interest",
+                    "amount": 2423.66,
+                    "transaction_id": 55841656
+                },
+                {
+                    "date": "2024-05-06",
+                    "description": "Deposit",
+                    "amount": -853.56,
+                    "transaction_id": 1777717
+                }
+            ]
+        }
+    }
+}

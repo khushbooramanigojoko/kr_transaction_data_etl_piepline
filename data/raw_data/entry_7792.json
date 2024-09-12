@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Melissa Kemp",
+        "age": 45,
+        "gender": "male",
+        "address": "8476 Sparks Parkway Suite 082, Marthaport, MD 20720",
+        "phone": "220.845.6270",
+        "email": "danielphillips@example.org",
+        "account": {
+            "account_number": "24eae905-a643-49d4-b3f1-7a2590fbe882",
+            "balance": 6102.56,
+            "transactions": [
+                {
+                    "date": "2024-04-03",
+                    "description": "Interest",
+                    "amount": 14321.94,
+                    "transaction_id": 15485742
+                },
+                {
+                    "date": "2022-11-24",
+                    "description": "Deposit",
+                    "amount": 43439.07,
+                    "transaction_id": 48705956
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Interest",
+                    "amount": 35943.67,
+                    "transaction_id": 29114017
+                },
+                {
+                    "date": "2022-11-08",
+                    "description": "Deposit",
+                    "amount": 6039.95,
+                    "transaction_id": 52595088
+                }
+            ]
+        }
+    }
+}

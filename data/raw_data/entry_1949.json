@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Melvin Garcia",
+        "age": 63,
+        "gender": "male",
+        "address": "77689 Stevens Haven, Lake Christinaton, CO 79556",
+        "phone": "5859969809",
+        "email": "stephen50@example.com",
+        "account": {
+            "account_number": "1dad5bab-e4af-474d-a8b7-817b74a5d843",
+            "balance": 31316.76,
+            "transactions": [
+                {
+                    "date": "2024-01-02",
+                    "description": "Deposit",
+                    "amount": 42961.54,
+                    "transaction_id": 77234703
+                },
+                {
+                    "date": "2023-04-15",
+                    "description": "Interest",
+                    "amount": 4621.81,
+                    "transaction_id": 87662742
+                },
+                {
+                    "date": "2023-07-06",
+                    "description": "Interest",
+                    "amount": 29732.16,
+                    "transaction_id": 103397043
+                }
+            ]
+        }
+    }
+}

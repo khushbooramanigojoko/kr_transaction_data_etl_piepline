@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Leslie Padilla",
+        "age": 64,
+        "gender": "female",
+        "address": "784 Kathleen Landing Suite 427, South Melissachester, PR 52134",
+        "phone": "(252)243-4864x18707",
+        "email": "timothyevans@example.com",
+        "account": {
+            "account_number": "0cc36e4b-657d-4a52-a7b1-d49fa6ef3309",
+            "balance": 9786.69,
+            "transactions": [
+                {
+                    "date": "2022-12-17",
+                    "description": "Withdrawal",
+                    "amount": 37544.57,
+                    "transaction_id": 39456084
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Deposit",
+                    "amount": 38372.49,
+                    "transaction_id": 24451959
+                },
+                {
+                    "date": "2024-01-31",
+                    "description": "Withdrawal",
+                    "amount": 32863.52,
+                    "transaction_id": 103670398
+                }
+            ]
+        }
+    }
+}

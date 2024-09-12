@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jessica Mills",
+        "age": 75,
+        "gender": "male",
+        "address": "65637 Joel Squares Suite 090, Tiffanybury, AZ 23140",
+        "phone": "(917)229-5407x2616",
+        "email": "melissa54@example.net",
+        "account": {
+            "account_number": "1fac46e7-39d1-46d7-bf73-8fd108a3b0b8",
+            "balance": 27691.4,
+            "transactions": [
+                {
+                    "date": "2023-01-25",
+                    "description": "Deposit",
+                    "amount": 18089.76,
+                    "transaction_id": 8058911
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Interest",
+                    "amount": 32825.27,
+                    "transaction_id": 48770554
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Deposit",
+                    "amount": 45209.71,
+                    "transaction_id": 118888997
+                }
+            ]
+        }
+    }
+}

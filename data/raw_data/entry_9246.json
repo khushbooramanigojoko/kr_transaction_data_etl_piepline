@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joshua Hobbs",
+        "age": 37,
+        "gender": "male",
+        "address": "9389 Nancy Point Suite 617, Bryanfort, FM 73771",
+        "phone": "872-264-1796x388",
+        "email": "monicabraun@example.org",
+        "account": {
+            "account_number": "cc0caecc-a669-4585-a4fc-d4858bc851db",
+            "balance": -4331.07,
+            "transactions": [
+                {
+                    "date": "2023-03-18",
+                    "description": "Deposit",
+                    "amount": 3160.79,
+                    "transaction_id": 53074118
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Withdrawal",
+                    "amount": -1419.24,
+                    "transaction_id": 51490771
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Deposit",
+                    "amount": 492.52,
+                    "transaction_id": 106956043
+                }
+            ]
+        }
+    }
+}

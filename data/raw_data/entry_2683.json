@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Haynes",
+        "age": 94,
+        "gender": "female",
+        "address": "305 Jessica Point Suite 412, Dianaland, GA 63070",
+        "phone": "265.665.4639",
+        "email": "cporter@example.com",
+        "account": {
+            "account_number": "bab61d0e-7399-42bf-b456-bc143f5d403d",
+            "balance": 28832.43,
+            "transactions": [
+                {
+                    "date": "2023-08-26",
+                    "description": "Interest",
+                    "amount": 33758.53,
+                    "transaction_id": 20351602
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Interest",
+                    "amount": 43497.52,
+                    "transaction_id": 24948576
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Interest",
+                    "amount": 49657.32,
+                    "transaction_id": 53425800
+                },
+                {
+                    "date": "2024-04-29",
+                    "description": "Interest",
+                    "amount": 47982.64,
+                    "transaction_id": 6117749
+                }
+            ]
+        }
+    }
+}

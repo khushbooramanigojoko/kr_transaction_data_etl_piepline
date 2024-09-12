@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "John Stone",
+        "age": 82,
+        "gender": "female",
+        "address": "573 Anderson Ranch, Lake Elizabethville, WI 92708",
+        "phone": "001-334-390-8579x4237",
+        "email": "garzajeffery@example.com",
+        "account": {
+            "account_number": "705a896b-119e-4e16-bc38-5ac834041a9a",
+            "balance": 48693.26,
+            "transactions": [
+                {
+                    "date": "2023-09-24",
+                    "description": "Deposit",
+                    "amount": 17930.85,
+                    "transaction_id": 101696471
+                },
+                {
+                    "date": "2024-05-20",
+                    "description": "Interest",
+                    "amount": 14063.33,
+                    "transaction_id": 40286573
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Deborah Hopkins",
+        "age": 89,
+        "gender": "male",
+        "address": "549 Rivera Road, Kentmouth, ID 16377",
+        "phone": "(864)738-0580x66214",
+        "email": "carraaron@example.com",
+        "account": {
+            "account_number": "64a2f262-8328-49c4-a0eb-bad0efad07ca",
+            "balance": 45384.14,
+            "transactions": [
+                {
+                    "date": "2023-03-18",
+                    "description": "Withdrawal",
+                    "amount": 45701.72,
+                    "transaction_id": 101199273
+                },
+                {
+                    "date": "2022-09-11",
+                    "description": "Interest",
+                    "amount": 20680.62,
+                    "transaction_id": 70255018
+                }
+            ]
+        }
+    }
+}

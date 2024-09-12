@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jeffrey Fry",
+        "age": 28,
+        "gender": "female",
+        "address": "605 Raymond Knoll Suite 691, Kingchester, NJ 63474",
+        "phone": "834.919.5615",
+        "email": "onewman@example.com",
+        "account": {
+            "account_number": "8a6fa26d-4cb2-4795-b124-027f27235659",
+            "balance": 27799.55,
+            "transactions": [
+                {
+                    "date": "2022-12-22",
+                    "description": "Interest",
+                    "amount": 25695.23,
+                    "transaction_id": 17104948
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Withdrawal",
+                    "amount": 21425.6,
+                    "transaction_id": 12026893
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Withdrawal",
+                    "amount": 31152.49,
+                    "transaction_id": 29538626
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Deposit",
+                    "amount": 47314.05,
+                    "transaction_id": 42214295
+                },
+                {
+                    "date": "2023-08-21",
+                    "description": "Interest",
+                    "amount": 36345.46,
+                    "transaction_id": 24521564
+                }
+            ]
+        }
+    }
+}

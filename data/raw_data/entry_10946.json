@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 59,
+        "gender": "male",
+        "address": "80077 Martin Fall, Waltermouth, KS 71151",
+        "phone": "767-452-6264x8526",
+        "email": "thomasjohnson@example.org",
+        "account": {
+            "account_number": "298a7094-4dc6-401d-b0b7-38707018644d",
+            "balance": 48904.41,
+            "transactions": [
+                {
+                    "date": "2024-03-12",
+                    "description": "Deposit",
+                    "amount": -1332.35,
+                    "transaction_id": 9798797
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Interest",
+                    "amount": -3423.9,
+                    "transaction_id": 88934007
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Melissa Gonzales",
+        "age": 40,
+        "gender": "male",
+        "address": "1427 Meyer Hill Apt. 653, Moorestad, SD 98261",
+        "phone": "(716)734-1894x227",
+        "email": "elizabethhurst@example.net",
+        "account": {
+            "account_number": "78f74105-8fce-4cd1-b252-b5de65a5c73c",
+            "balance": 12001.79,
+            "transactions": [
+                {
+                    "date": "2022-12-30",
+                    "description": "Withdrawal",
+                    "amount": 8465.66,
+                    "transaction_id": 24880507
+                },
+                {
+                    "date": "2023-09-28",
+                    "description": "Deposit",
+                    "amount": 43859.52,
+                    "transaction_id": 75644446
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Withdrawal",
+                    "amount": 35762.25,
+                    "transaction_id": 82509632
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Deposit",
+                    "amount": 26879.51,
+                    "transaction_id": 108002964
+                }
+            ]
+        }
+    }
+}

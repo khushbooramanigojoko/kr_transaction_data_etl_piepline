@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Pamela Cole",
+        "age": 54,
+        "gender": "male",
+        "address": "811 Cohen Mall Suite 706, Jamesville, SC 44577",
+        "phone": "(826)307-2711x866",
+        "email": "rodriguezleonard@example.org",
+        "account": {
+            "account_number": "f04f46b1-596e-4d97-9e4a-4ba55e1b70ed",
+            "balance": 13573.96,
+            "transactions": [
+                {
+                    "date": "2023-03-10",
+                    "description": "Deposit",
+                    "amount": 44005.64,
+                    "transaction_id": 97602618
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Withdrawal",
+                    "amount": 39640.73,
+                    "transaction_id": 106686532
+                },
+                {
+                    "date": "2023-02-27",
+                    "description": "Deposit",
+                    "amount": 44293.18,
+                    "transaction_id": 20027213
+                },
+                {
+                    "date": "2023-10-25",
+                    "description": "Deposit",
+                    "amount": 12925.01,
+                    "transaction_id": 18353993
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Deposit",
+                    "amount": 28889.9,
+                    "transaction_id": 58575893
+                }
+            ]
+        }
+    }
+}

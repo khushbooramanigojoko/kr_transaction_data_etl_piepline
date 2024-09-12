@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Bonnie Johnson",
+        "age": 63,
+        "gender": "female",
+        "address": "2909 Omar Alley Apt. 265, Leefort, AL 82638",
+        "phone": "(724)665-6480",
+        "email": "jennifer99@example.org",
+        "account": {
+            "account_number": "477ce0ec-9adf-4cea-b28b-ae863f88415f",
+            "balance": 22003.98,
+            "transactions": [
+                {
+                    "date": "2023-02-12",
+                    "description": "Interest",
+                    "amount": 16990.62,
+                    "transaction_id": 31547640
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Withdrawal",
+                    "amount": 29142.62,
+                    "transaction_id": 107899195
+                }
+            ]
+        }
+    }
+}

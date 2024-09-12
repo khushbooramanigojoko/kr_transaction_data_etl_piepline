@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Aaron Jones",
+        "age": 96,
+        "gender": "female",
+        "address": "096 Benjamin Dale Apt. 273, Port Amberland, MS 03319",
+        "phone": "+1-409-713-4577x8169",
+        "email": "brownjacob@example.com",
+        "account": {
+            "account_number": "fa4d4885-991e-415d-a631-e0e7d0ef92f0",
+            "balance": 5655.02,
+            "transactions": [
+                {
+                    "date": "2023-10-01",
+                    "description": "Deposit",
+                    "amount": 44989.63,
+                    "transaction_id": 37463214
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Withdrawal",
+                    "amount": 2914.29,
+                    "transaction_id": 102519771
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Interest",
+                    "amount": 40234.09,
+                    "transaction_id": 39297779
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Interest",
+                    "amount": 44230.1,
+                    "transaction_id": 9368891
+                }
+            ]
+        }
+    }
+}

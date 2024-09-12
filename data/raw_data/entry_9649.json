@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 51,
+        "gender": "female",
+        "address": "2446 Michael Falls Suite 289, Lake Edwardhaven, GU 20487",
+        "phone": "943.226.5336",
+        "email": "arthur13@example.org",
+        "account": {
+            "account_number": "e671979e-e2e0-43f9-99f5-cf0371dee1d6",
+            "balance": 28821.84,
+            "transactions": [
+                {
+                    "date": "2023-06-24",
+                    "description": "Withdrawal",
+                    "amount": -80.58,
+                    "transaction_id": 64415382
+                },
+                {
+                    "date": "2023-03-06",
+                    "description": "Deposit",
+                    "amount": -3582.85,
+                    "transaction_id": 96697846
+                },
+                {
+                    "date": "2024-01-08",
+                    "description": "Interest",
+                    "amount": 31.03,
+                    "transaction_id": 8412927
+                },
+                {
+                    "date": "2024-03-25",
+                    "description": "Withdrawal",
+                    "amount": -2065.5,
+                    "transaction_id": 20083729
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Withdrawal",
+                    "amount": -1134.01,
+                    "transaction_id": 3154812
+                }
+            ]
+        }
+    }
+}

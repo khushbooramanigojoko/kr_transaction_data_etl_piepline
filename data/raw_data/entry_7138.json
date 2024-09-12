@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jimmy Martin",
+        "age": 85,
+        "gender": "male",
+        "address": "614 Ruiz Springs, New Mckenzie, VI 88219",
+        "phone": "4694245007",
+        "email": "vickimcconnell@example.net",
+        "account": {
+            "account_number": "9a237503-213d-44c7-a506-1b08af98ec41",
+            "balance": 5853.18,
+            "transactions": [
+                {
+                    "date": "2024-01-07",
+                    "description": "Deposit",
+                    "amount": 12716.35,
+                    "transaction_id": 16257950
+                },
+                {
+                    "date": "2024-06-06",
+                    "description": "Withdrawal",
+                    "amount": 42273.98,
+                    "transaction_id": 40350016
+                }
+            ]
+        }
+    }
+}

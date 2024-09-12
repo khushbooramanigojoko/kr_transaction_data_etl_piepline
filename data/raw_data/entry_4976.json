@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Daniel Franklin MD",
+        "age": 21,
+        "gender": "female",
+        "address": "751 Castro Lakes, Rebeccaport, MH 62600",
+        "phone": "963.782.4184x155",
+        "email": "rpugh@example.com",
+        "account": {
+            "account_number": "a424a360-f9d7-4324-81e8-b16bcd33b12c",
+            "balance": 40515.74,
+            "transactions": [
+                {
+                    "date": "2023-05-31",
+                    "description": "Interest",
+                    "amount": 4631.04,
+                    "transaction_id": 76739906
+                },
+                {
+                    "date": "2023-02-13",
+                    "description": "Withdrawal",
+                    "amount": 29355.43,
+                    "transaction_id": 63408107
+                },
+                {
+                    "date": "2023-07-03",
+                    "description": "Withdrawal",
+                    "amount": 12818.8,
+                    "transaction_id": 104092396
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Withdrawal",
+                    "amount": 49855.58,
+                    "transaction_id": 105965619
+                },
+                {
+                    "date": "2023-02-18",
+                    "description": "Deposit",
+                    "amount": 35674.33,
+                    "transaction_id": 102949222
+                }
+            ]
+        }
+    }
+}

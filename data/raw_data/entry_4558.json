@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mario Clark",
+        "age": 50,
+        "gender": "male",
+        "address": "60435 Pacheco Burg, Brookshaven, PA 59454",
+        "phone": "(452)317-0659x156",
+        "email": "darrell97@example.net",
+        "account": {
+            "account_number": "fba2226e-37c9-47a6-bb9a-d6c6fbb37499",
+            "balance": 35239.51,
+            "transactions": [
+                {
+                    "date": "2023-04-05",
+                    "description": "Interest",
+                    "amount": 27134.4,
+                    "transaction_id": 83428394
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Withdrawal",
+                    "amount": 24118.01,
+                    "transaction_id": 31335999
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Interest",
+                    "amount": 49937.46,
+                    "transaction_id": 79698772
+                },
+                {
+                    "date": "2023-01-11",
+                    "description": "Interest",
+                    "amount": 12444.54,
+                    "transaction_id": 63003663
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Lowe",
+        "age": 19,
+        "gender": "male",
+        "address": "930 Jeffrey Stravenue, Daniellefort, NH 18742",
+        "phone": "548.458.6606x2471",
+        "email": "nicholas49@example.org",
+        "account": {
+            "account_number": "253c99ae-a0f2-46ef-8c47-289864a70e9a",
+            "balance": 18041.69,
+            "transactions": [
+                {
+                    "date": "2024-04-19",
+                    "description": "Deposit",
+                    "amount": 48538.11,
+                    "transaction_id": 39813972
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Withdrawal",
+                    "amount": 394.75,
+                    "transaction_id": 114288015
+                },
+                {
+                    "date": "2023-09-19",
+                    "description": "Deposit",
+                    "amount": 212.59,
+                    "transaction_id": 4192836
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Deposit",
+                    "amount": 16905.54,
+                    "transaction_id": 115075426
+                }
+            ]
+        }
+    }
+}

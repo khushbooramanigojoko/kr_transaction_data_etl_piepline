@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mrs. Jessica Charles",
+        "age": 79,
+        "gender": "female",
+        "address": "956 Gill Shoal, Andersonshire, SD 20772",
+        "phone": "001-863-355-3973x14091",
+        "email": "barrettrobert@example.org",
+        "account": {
+            "account_number": "52d88855-c702-4dc1-a526-dfc7c11394d2",
+            "balance": 41976.85,
+            "transactions": [
+                {
+                    "date": "2023-09-08",
+                    "description": "Withdrawal",
+                    "amount": 4644.65,
+                    "transaction_id": 62501048
+                }
+            ]
+        }
+    }
+}

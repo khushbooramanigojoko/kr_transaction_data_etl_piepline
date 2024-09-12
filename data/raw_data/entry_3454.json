@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Robert Phillips",
+        "age": 48,
+        "gender": "female",
+        "address": "019 Jennifer Knoll, Lake Meganville, RI 30503",
+        "phone": "+1-294-572-9946x115",
+        "email": "leeamy@example.org",
+        "account": {
+            "account_number": "c8a3ba17-7dae-484f-beef-4112fc0f2406",
+            "balance": 35592.32,
+            "transactions": [
+                {
+                    "date": "2024-08-09",
+                    "description": "Deposit",
+                    "amount": 33494.47,
+                    "transaction_id": 52394414
+                },
+                {
+                    "date": "2024-01-18",
+                    "description": "Interest",
+                    "amount": 24286.12,
+                    "transaction_id": 16616299
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sandra Smith",
+        "age": 61,
+        "gender": "male",
+        "address": "588 Anthony Crescent, Brittanyberg, CA 08653",
+        "phone": "977.581.5355x9408",
+        "email": "shawnpowell@example.org",
+        "account": {
+            "account_number": "ca17a007-746e-4cbe-81f8-cf3f0c413c80",
+            "balance": -27547.06,
+            "transactions": [
+                {
+                    "date": "2023-01-30",
+                    "description": "Interest",
+                    "amount": -2025.33,
+                    "transaction_id": 44894448
+                },
+                {
+                    "date": "2024-01-09",
+                    "description": "Interest",
+                    "amount": -4848.18,
+                    "transaction_id": 41501646
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tracy Houston",
+        "age": 54,
+        "gender": "female",
+        "address": "9243 Kim Track Suite 035, Jeremyfort, SC 07529",
+        "phone": "887.277.4121x89716",
+        "email": "timothy63@example.org",
+        "account": {
+            "account_number": "c17e8bd8-fb9d-4526-8712-3a2059dcb0b1",
+            "balance": 4992.95,
+            "transactions": [
+                {
+                    "date": "2023-02-22",
+                    "description": "Withdrawal",
+                    "amount": 26630.11,
+                    "transaction_id": 11633034
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Interest",
+                    "amount": 25040.42,
+                    "transaction_id": 4965739
+                }
+            ]
+        }
+    }
+}

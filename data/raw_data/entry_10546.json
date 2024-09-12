@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Timothy Sutton",
+        "age": 87,
+        "gender": "female",
+        "address": "22216 Johnny Circle Apt. 297, Kellyberg, MA 44407",
+        "phone": "(979)472-5905",
+        "email": "stephen71@example.com",
+        "account": {
+            "account_number": "51bd67e6-d972-424c-a35c-e3314aa81c0c",
+            "balance": -35245.97,
+            "transactions": [
+                {
+                    "date": "2022-09-24",
+                    "description": "Deposit",
+                    "amount": -1904.98,
+                    "transaction_id": 69551049
+                }
+            ]
+        }
+    }
+}

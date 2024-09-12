@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Lambert",
+        "age": 23,
+        "gender": "female",
+        "address": "172 Dalton Mount, Willisstad, KS 41497",
+        "phone": "240-346-5903",
+        "email": "hollysmith@example.com",
+        "account": {
+            "account_number": "685619fd-a746-406e-bb86-00a3f6773bc2",
+            "balance": 49274.79,
+            "transactions": [
+                {
+                    "date": "2024-08-18",
+                    "description": "Withdrawal",
+                    "amount": 17682.87,
+                    "transaction_id": 117976791
+                },
+                {
+                    "date": "2022-10-09",
+                    "description": "Deposit",
+                    "amount": 15666.55,
+                    "transaction_id": 31155562
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Interest",
+                    "amount": 31019.91,
+                    "transaction_id": 61310580
+                },
+                {
+                    "date": "2023-10-18",
+                    "description": "Interest",
+                    "amount": 1599.97,
+                    "transaction_id": 100067272
+                },
+                {
+                    "date": "2024-01-08",
+                    "description": "Deposit",
+                    "amount": 42651.05,
+                    "transaction_id": 4305403
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 27,
+        "gender": "male",
+        "address": "5780 Bennett Hills, South Johnview, IL 85717",
+        "phone": "467-447-3948",
+        "email": "ichavez@example.org",
+        "account": {
+            "account_number": "4b07afe8-fba5-4221-9c00-227634312453",
+            "balance": 25838.05,
+            "transactions": [
+                {
+                    "date": "2023-03-28",
+                    "description": "Deposit",
+                    "amount": 2188.39,
+                    "transaction_id": 24478651
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Withdrawal",
+                    "amount": -1221.06,
+                    "transaction_id": 117290337
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Withdrawal",
+                    "amount": 4077.32,
+                    "transaction_id": 72826884
+                }
+            ]
+        }
+    }
+}

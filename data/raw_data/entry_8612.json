@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Heather Clayton",
+        "age": 42,
+        "gender": "female",
+        "address": "16136 Cardenas Mount Apt. 218, Port Johnport, TN 76939",
+        "phone": "+1-382-378-6283x346",
+        "email": "kellyallison@example.com",
+        "account": {
+            "account_number": "8f309df1-0f54-4124-9258-e72cd304f8a2",
+            "balance": 39021.67,
+            "transactions": [
+                {
+                    "date": "2024-06-02",
+                    "description": "Deposit",
+                    "amount": 19988.9,
+                    "transaction_id": 44665353
+                }
+            ]
+        }
+    }
+}

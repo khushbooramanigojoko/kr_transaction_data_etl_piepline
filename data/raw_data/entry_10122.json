@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lauren Fitzgerald",
+        "age": 45,
+        "gender": "female",
+        "address": "USNV Fischer, FPO AA 69808",
+        "phone": "(979)351-7567x595",
+        "email": "jdennis@example.net",
+        "account": {
+            "account_number": "05d75315-cea4-483e-8e60-50d34264468c",
+            "balance": -14921.07,
+            "transactions": [
+                {
+                    "date": "2022-12-20",
+                    "description": "Deposit",
+                    "amount": 4327.21,
+                    "transaction_id": 43155660
+                },
+                {
+                    "date": "2024-03-26",
+                    "description": "Withdrawal",
+                    "amount": -1136.96,
+                    "transaction_id": 78117671
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Deposit",
+                    "amount": 646.07,
+                    "transaction_id": 63091310
+                },
+                {
+                    "date": "2022-10-10",
+                    "description": "Withdrawal",
+                    "amount": -887.75,
+                    "transaction_id": 34706745
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Crystal Christian",
+        "age": 43,
+        "gender": "male",
+        "address": "682 Jackson Mountain, West Samuel, PR 77207",
+        "phone": "001-567-337-4109x296",
+        "email": "ghernandez@example.net",
+        "account": {
+            "account_number": "01520e37-8ea0-463e-84f7-0c9343164c22",
+            "balance": -35293.53,
+            "transactions": [
+                {
+                    "date": "2022-12-23",
+                    "description": "Interest",
+                    "amount": -4984.79,
+                    "transaction_id": 94788190
+                },
+                {
+                    "date": "2023-05-23",
+                    "description": "Deposit",
+                    "amount": -4142.82,
+                    "transaction_id": 59001135
+                },
+                {
+                    "date": "2023-04-20",
+                    "description": "Deposit",
+                    "amount": -2155.0,
+                    "transaction_id": 101229568
+                },
+                {
+                    "date": "2023-08-25",
+                    "description": "Interest",
+                    "amount": 1103.41,
+                    "transaction_id": 4117060
+                },
+                {
+                    "date": "2023-03-08",
+                    "description": "Deposit",
+                    "amount": -4152.69,
+                    "transaction_id": 23995324
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Amy Torres",
+        "age": 52,
+        "gender": "male",
+        "address": "03740 Reginald Land Apt. 950, New Kristi, TN 67003",
+        "phone": "612-580-9417",
+        "email": "xestrada@example.com",
+        "account": {
+            "account_number": "5fb9644c-4f41-4ef0-8801-1fa6937f14be",
+            "balance": 8372.96,
+            "transactions": [
+                {
+                    "date": "2022-11-10",
+                    "description": "Interest",
+                    "amount": 23526.99,
+                    "transaction_id": 83889009
+                },
+                {
+                    "date": "2022-11-16",
+                    "description": "Interest",
+                    "amount": 37274.27,
+                    "transaction_id": 58402635
+                },
+                {
+                    "date": "2022-09-19",
+                    "description": "Deposit",
+                    "amount": 22974.66,
+                    "transaction_id": 55830874
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Withdrawal",
+                    "amount": 39616.3,
+                    "transaction_id": 13772773
+                },
+                {
+                    "date": "2023-11-08",
+                    "description": "Withdrawal",
+                    "amount": 10481.46,
+                    "transaction_id": 92107524
+                }
+            ]
+        }
+    }
+}

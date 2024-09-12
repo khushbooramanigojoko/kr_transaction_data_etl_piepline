@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Robert Hebert",
+        "age": 85,
+        "gender": "female",
+        "address": "474 Reed Trafficway Suite 182, Bakerhaven, OR 84153",
+        "phone": "253.584.8874x5681",
+        "email": "ggarcia@example.com",
+        "account": {
+            "account_number": "17252088-8297-48e2-ba24-9ab16615e7ab",
+            "balance": 3514.17,
+            "transactions": [
+                {
+                    "date": "2023-06-23",
+                    "description": "Interest",
+                    "amount": 8173.61,
+                    "transaction_id": 50787038
+                },
+                {
+                    "date": "2024-07-29",
+                    "description": "Interest",
+                    "amount": 32554.68,
+                    "transaction_id": 104667232
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Interest",
+                    "amount": 22185.22,
+                    "transaction_id": 45821603
+                }
+            ]
+        }
+    }
+}

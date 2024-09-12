@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mark Martinez",
+        "age": 87,
+        "gender": "female",
+        "address": "866 Miller Lodge Apt. 672, Sonyachester, CT 40502",
+        "phone": "001-725-253-6921x61110",
+        "email": "penningtonchristian@example.net",
+        "account": {
+            "account_number": "3459070a-c320-41c0-bb01-21e46c2c44cb",
+            "balance": 19514.64,
+            "transactions": [
+                {
+                    "date": "2023-05-30",
+                    "description": "Withdrawal",
+                    "amount": 47736.5,
+                    "transaction_id": 74658726
+                },
+                {
+                    "date": "2023-09-29",
+                    "description": "Interest",
+                    "amount": 10154.48,
+                    "transaction_id": 90705228
+                },
+                {
+                    "date": "2024-04-17",
+                    "description": "Withdrawal",
+                    "amount": 43258.86,
+                    "transaction_id": 105461305
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Interest",
+                    "amount": 1236.38,
+                    "transaction_id": 17314342
+                }
+            ]
+        }
+    }
+}

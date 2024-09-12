@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Gary Reed",
+        "age": 78,
+        "gender": "male",
+        "address": "8366 Martin Gateway, Lake Robert, WA 48845",
+        "phone": "(404)608-1242",
+        "email": "hbass@example.net",
+        "account": {
+            "account_number": "507f4627-4e9a-4584-bcea-54c082399958",
+            "balance": 47667.61,
+            "transactions": [
+                {
+                    "date": "2023-06-06",
+                    "description": "Withdrawal",
+                    "amount": 5779.92,
+                    "transaction_id": 98525906
+                }
+            ]
+        }
+    }
+}

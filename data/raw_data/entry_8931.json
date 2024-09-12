@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "female",
+        "address": "5354 Brian Brooks Suite 530, Lake Alicia, LA 91725",
+        "phone": "+1-514-610-0270x672",
+        "email": "belllarry@example.com",
+        "account": {
+            "account_number": "7b711fef-bbbd-4e5d-afe1-8d0faf8ca6fa",
+            "balance": 30647.28,
+            "transactions": [
+                {
+                    "date": "2024-02-17",
+                    "description": "Deposit",
+                    "amount": -911.52,
+                    "transaction_id": 27285432
+                },
+                {
+                    "date": "2022-11-19",
+                    "description": "Interest",
+                    "amount": 3036.52,
+                    "transaction_id": 67084666
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Interest",
+                    "amount": -4975.68,
+                    "transaction_id": 13644420
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Deposit",
+                    "amount": 4959.52,
+                    "transaction_id": 44519477
+                },
+                {
+                    "date": "2024-03-12",
+                    "description": "Deposit",
+                    "amount": 1519.78,
+                    "transaction_id": 49620168
+                }
+            ]
+        }
+    }
+}

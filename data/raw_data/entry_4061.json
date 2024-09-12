@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Scott Burgess",
+        "age": 92,
+        "gender": "male",
+        "address": "15220 John Rest, Lake Michaelview, CO 05644",
+        "phone": "484-243-9410x8615",
+        "email": "emilyconner@example.com",
+        "account": {
+            "account_number": "f594a5b6-c4d1-4cf9-830c-11816ed4b8a7",
+            "balance": 38158.78,
+            "transactions": [
+                {
+                    "date": "2023-01-06",
+                    "description": "Deposit",
+                    "amount": 9755.33,
+                    "transaction_id": 18684036
+                },
+                {
+                    "date": "2022-09-28",
+                    "description": "Interest",
+                    "amount": 30500.43,
+                    "transaction_id": 48001621
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Interest",
+                    "amount": 6432.19,
+                    "transaction_id": 61978869
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Interest",
+                    "amount": 24723.06,
+                    "transaction_id": 1011853
+                }
+            ]
+        }
+    }
+}

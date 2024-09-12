@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amanda Harrell",
+        "age": 19,
+        "gender": "male",
+        "address": "68627 Jennifer Locks, Simmonstown, NC 30493",
+        "phone": "001-896-588-7042",
+        "email": "richard05@example.org",
+        "account": {
+            "account_number": "26f6bd45-ce53-49d4-90ab-a43c21ab98b3",
+            "balance": 38517.31,
+            "transactions": [
+                {
+                    "date": "2024-06-12",
+                    "description": "Withdrawal",
+                    "amount": 28963.48,
+                    "transaction_id": 104776762
+                },
+                {
+                    "date": "2023-05-20",
+                    "description": "Deposit",
+                    "amount": 2411.83,
+                    "transaction_id": 76065811
+                }
+            ]
+        }
+    }
+}

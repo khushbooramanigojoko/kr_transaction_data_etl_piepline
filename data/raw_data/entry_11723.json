@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Natalie Levine",
+        "age": 90,
+        "gender": "male",
+        "address": "7300 Nelson Turnpike, Port Zacharymouth, HI 16913",
+        "phone": "722.539.0592x90153",
+        "email": "dave67@example.com",
+        "account": {
+            "account_number": "148c3a3e-5681-40f8-b8bf-feb51cb69b7a",
+            "balance": -35005.79,
+            "transactions": [
+                {
+                    "date": "2023-05-19",
+                    "description": "Withdrawal",
+                    "amount": 1834.07,
+                    "transaction_id": 52346818
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Deposit",
+                    "amount": 2681.71,
+                    "transaction_id": 85802659
+                },
+                {
+                    "date": "2023-06-05",
+                    "description": "Deposit",
+                    "amount": -2861.68,
+                    "transaction_id": 43502352
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Interest",
+                    "amount": 1551.2,
+                    "transaction_id": 56889872
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Deposit",
+                    "amount": 3706.03,
+                    "transaction_id": 56852493
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Melissa Brennan",
+        "age": 49,
+        "gender": "male",
+        "address": "7734 Lin Underpass, Port Levi, CA 53590",
+        "phone": "(879)333-9918x5573",
+        "email": "lhahn@example.com",
+        "account": {
+            "account_number": "4afe1e04-a9f9-42a9-b896-d9b7e4ab22b0",
+            "balance": 32017.79,
+            "transactions": [
+                {
+                    "date": "2023-03-11",
+                    "description": "Deposit",
+                    "amount": 24019.67,
+                    "transaction_id": 97560002
+                },
+                {
+                    "date": "2023-07-25",
+                    "description": "Deposit",
+                    "amount": 49610.3,
+                    "transaction_id": 34595946
+                },
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": 3757.2,
+                    "transaction_id": 105286108
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Withdrawal",
+                    "amount": 31223.32,
+                    "transaction_id": 36326942
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Interest",
+                    "amount": 13677.23,
+                    "transaction_id": 49165575
+                }
+            ]
+        }
+    }
+}

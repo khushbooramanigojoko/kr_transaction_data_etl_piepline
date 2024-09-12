@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Hannah Chung",
+        "age": 24,
+        "gender": "female",
+        "address": "290 James Turnpike Suite 401, Annabury, MT 52450",
+        "phone": "+1-725-596-8223x86235",
+        "email": "williamross@example.org",
+        "account": {
+            "account_number": "da3ef162-3a55-4673-93d9-a2d90ad2b861",
+            "balance": -42576.69,
+            "transactions": [
+                {
+                    "date": "2023-03-01",
+                    "description": "Interest",
+                    "amount": -4993.47,
+                    "transaction_id": 40726015
+                },
+                {
+                    "date": "2024-04-14",
+                    "description": "Interest",
+                    "amount": 4135.74,
+                    "transaction_id": 58860965
+                },
+                {
+                    "date": "2023-10-18",
+                    "description": "Withdrawal",
+                    "amount": 3152.46,
+                    "transaction_id": 68658068
+                },
+                {
+                    "date": "2024-08-24",
+                    "description": "Withdrawal",
+                    "amount": 3495.23,
+                    "transaction_id": 44795516
+                }
+            ]
+        }
+    }
+}

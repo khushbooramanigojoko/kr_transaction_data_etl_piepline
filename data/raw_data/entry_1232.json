@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Curtis Bowman",
+        "age": 45,
+        "gender": "female",
+        "address": "44559 Erin Stream, Robinsonmouth, IA 37377",
+        "phone": "482.323.9908x2136",
+        "email": "ghiggins@example.com",
+        "account": {
+            "account_number": "2c6eef57-1337-4a41-888d-0659f96f35aa",
+            "balance": 31300.03,
+            "transactions": [
+                {
+                    "date": "2024-01-04",
+                    "description": "Withdrawal",
+                    "amount": 21528.56,
+                    "transaction_id": 41858382
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Withdrawal",
+                    "amount": 28155.26,
+                    "transaction_id": 30670562
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Deposit",
+                    "amount": 18701.81,
+                    "transaction_id": 74636399
+                },
+                {
+                    "date": "2023-10-10",
+                    "description": "Interest",
+                    "amount": 12443.34,
+                    "transaction_id": 114589887
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Withdrawal",
+                    "amount": 4876.25,
+                    "transaction_id": 103580325
+                }
+            ]
+        }
+    }
+}

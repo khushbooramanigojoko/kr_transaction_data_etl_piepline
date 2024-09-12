@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kirsten Santos",
+        "age": 82,
+        "gender": "male",
+        "address": "80911 Jason Mountains, North Michaelfurt, ID 47967",
+        "phone": "(686)572-8654x290",
+        "email": "casey49@example.com",
+        "account": {
+            "account_number": "1a773dfd-4715-435a-9f23-f1273ba958f2",
+            "balance": 2544.88,
+            "transactions": [
+                {
+                    "date": "2024-08-27",
+                    "description": "Deposit",
+                    "amount": 17448.74,
+                    "transaction_id": 64041040
+                },
+                {
+                    "date": "2023-08-08",
+                    "description": "Interest",
+                    "amount": 27677.86,
+                    "transaction_id": 19216387
+                },
+                {
+                    "date": "2024-06-13",
+                    "description": "Interest",
+                    "amount": 30976.98,
+                    "transaction_id": 30224196
+                },
+                {
+                    "date": "2023-09-24",
+                    "description": "Interest",
+                    "amount": 22093.42,
+                    "transaction_id": 81845054
+                },
+                {
+                    "date": "2023-08-30",
+                    "description": "Interest",
+                    "amount": 6300.5,
+                    "transaction_id": 43950374
+                }
+            ]
+        }
+    }
+}

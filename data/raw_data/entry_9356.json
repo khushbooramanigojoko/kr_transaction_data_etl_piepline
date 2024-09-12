@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 47,
+        "gender": "male",
+        "address": "27158 Castro Heights Apt. 122, Gonzalezchester, GA 08230",
+        "phone": "425.960.1088x8382",
+        "email": "stephaniecunningham@example.net",
+        "account": {
+            "account_number": "e051d79a-5682-4704-962f-2a521774576d",
+            "balance": 43704.08,
+            "transactions": [
+                {
+                    "date": "2023-08-02",
+                    "description": "Deposit",
+                    "amount": 4626.44,
+                    "transaction_id": 40882444
+                }
+            ]
+        }
+    }
+}

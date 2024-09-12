@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Matthew Gonzalez",
+        "age": 89,
+        "gender": "female",
+        "address": "93525 Daryl Locks, East Christianbury, ID 66770",
+        "phone": "733.732.9804",
+        "email": "bmichael@example.com",
+        "account": {
+            "account_number": "d6dd122b-ff12-43df-b68d-b7b5be090f33",
+            "balance": 25921.29,
+            "transactions": [
+                {
+                    "date": "2023-07-04",
+                    "description": "Deposit",
+                    "amount": 26714.37,
+                    "transaction_id": 59150944
+                },
+                {
+                    "date": "2023-08-24",
+                    "description": "Interest",
+                    "amount": 668.39,
+                    "transaction_id": 40552113
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Interest",
+                    "amount": 38277.03,
+                    "transaction_id": 31926942
+                },
+                {
+                    "date": "2024-02-02",
+                    "description": "Withdrawal",
+                    "amount": 33977.56,
+                    "transaction_id": 5531116
+                }
+            ]
+        }
+    }
+}

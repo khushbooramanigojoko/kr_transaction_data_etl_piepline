@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mr. David Taylor",
+        "age": 97,
+        "gender": "male",
+        "address": "4375 Young Village Suite 038, West Anneland, KY 77891",
+        "phone": "602.614.3999",
+        "email": "michelle37@example.org",
+        "account": {
+            "account_number": "f66e53a8-f29e-4309-8520-2496072e2ff5",
+            "balance": -678.5,
+            "transactions": [
+                {
+                    "date": "2024-06-01",
+                    "description": "Interest",
+                    "amount": 2092.96,
+                    "transaction_id": 8334704
+                },
+                {
+                    "date": "2023-09-18",
+                    "description": "Interest",
+                    "amount": -3881.26,
+                    "transaction_id": 76955242
+                },
+                {
+                    "date": "2023-09-21",
+                    "description": "Withdrawal",
+                    "amount": -3081.89,
+                    "transaction_id": 58670867
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Interest",
+                    "amount": 2128.3,
+                    "transaction_id": 78181958
+                }
+            ]
+        }
+    }
+}

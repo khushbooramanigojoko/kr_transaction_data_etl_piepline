@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 23,
+        "gender": "male",
+        "address": "084 Flynn Orchard, East Yolanda, IL 02519",
+        "phone": "470.488.5856",
+        "email": "james24@example.org",
+        "account": {
+            "account_number": "ad1a5d6f-2c5c-461f-8c04-087032e5010f",
+            "balance": 13404.88,
+            "transactions": [
+                {
+                    "date": "2023-02-14",
+                    "description": "Withdrawal",
+                    "amount": 2549.96,
+                    "transaction_id": 104274888
+                },
+                {
+                    "date": "2023-04-10",
+                    "description": "Interest",
+                    "amount": -715.7,
+                    "transaction_id": 83440257
+                }
+            ]
+        }
+    }
+}

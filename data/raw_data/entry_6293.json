@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mr. Nathan Gonzalez",
+        "age": 87,
+        "gender": "female",
+        "address": "657 Delacruz Station, Richardsonbury, PA 96716",
+        "phone": "001-698-711-4623x1126",
+        "email": "hebertkrista@example.org",
+        "account": {
+            "account_number": "eb3541cb-5496-4b27-a86a-1aca22fe3a3c",
+            "balance": 46983.31,
+            "transactions": [
+                {
+                    "date": "2024-03-31",
+                    "description": "Interest",
+                    "amount": 18071.29,
+                    "transaction_id": 118717575
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Vincent Burns",
+        "age": 72,
+        "gender": "male",
+        "address": "7801 Banks Parks Suite 253, Benitezview, NV 20976",
+        "phone": "+1-646-902-5862x1815",
+        "email": "stewartalexander@example.org",
+        "account": {
+            "account_number": "4cb3d006-69be-4897-8b4a-ebe8fc172c9c",
+            "balance": -40638.42,
+            "transactions": [
+                {
+                    "date": "2024-03-22",
+                    "description": "Deposit",
+                    "amount": -686.91,
+                    "transaction_id": 39636734
+                },
+                {
+                    "date": "2023-12-29",
+                    "description": "Interest",
+                    "amount": 1344.31,
+                    "transaction_id": 105811713
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Interest",
+                    "amount": 525.59,
+                    "transaction_id": 92678585
+                }
+            ]
+        }
+    }
+}

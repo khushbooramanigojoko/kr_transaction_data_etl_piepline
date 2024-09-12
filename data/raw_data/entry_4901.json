@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joshua Taylor",
+        "age": 24,
+        "gender": "male",
+        "address": "32044 Terrence Estate, Marciaton, AR 29774",
+        "phone": "534.951.5022",
+        "email": "iherrera@example.net",
+        "account": {
+            "account_number": "7fa4dd28-3910-4f96-baad-bbfe375834b7",
+            "balance": 19180.86,
+            "transactions": [
+                {
+                    "date": "2023-04-06",
+                    "description": "Interest",
+                    "amount": 32426.12,
+                    "transaction_id": 100423122
+                }
+            ]
+        }
+    }
+}

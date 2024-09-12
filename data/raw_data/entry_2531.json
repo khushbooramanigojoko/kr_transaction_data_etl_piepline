@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jenny Jackson",
+        "age": 35,
+        "gender": "male",
+        "address": "31932 Mitchell Stravenue, East Hannahbury, TN 45792",
+        "phone": "365-549-3530x09692",
+        "email": "edwardhernandez@example.net",
+        "account": {
+            "account_number": "88dc9d1a-63f7-440e-bb39-2962b2daae4f",
+            "balance": 39407.32,
+            "transactions": [
+                {
+                    "date": "2023-12-26",
+                    "description": "Interest",
+                    "amount": 2318.61,
+                    "transaction_id": 35457995
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Deposit",
+                    "amount": 35163.55,
+                    "transaction_id": 21424252
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Amanda Boyd",
+        "age": 33,
+        "gender": "male",
+        "address": "445 Sanders Knolls Apt. 144, Reneefort, MN 70946",
+        "phone": "403.831.3375",
+        "email": "oking@example.com",
+        "account": {
+            "account_number": "f9f63483-f02e-4285-9396-f816a0c46c70",
+            "balance": 14621.92,
+            "transactions": [
+                {
+                    "date": "2023-03-24",
+                    "description": "Withdrawal",
+                    "amount": 11361.41,
+                    "transaction_id": 72856897
+                },
+                {
+                    "date": "2024-02-11",
+                    "description": "Deposit",
+                    "amount": 29197.47,
+                    "transaction_id": 65120851
+                },
+                {
+                    "date": "2022-09-29",
+                    "description": "Interest",
+                    "amount": 801.15,
+                    "transaction_id": 81779195
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Deposit",
+                    "amount": 18591.34,
+                    "transaction_id": 87958539
+                },
+                {
+                    "date": "2023-11-16",
+                    "description": "Interest",
+                    "amount": 23074.84,
+                    "transaction_id": 46869789
+                }
+            ]
+        }
+    }
+}

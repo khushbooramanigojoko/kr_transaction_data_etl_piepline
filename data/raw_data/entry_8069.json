@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lauren Crawford",
+        "age": 29,
+        "gender": "male",
+        "address": "66974 Stephanie Pass, Port Cynthia, AK 52927",
+        "phone": "001-287-760-0672x505",
+        "email": "angelajacobs@example.org",
+        "account": {
+            "account_number": "183e060a-da65-4e24-829c-374f493fb777",
+            "balance": 48797.6,
+            "transactions": [
+                {
+                    "date": "2023-07-13",
+                    "description": "Interest",
+                    "amount": 32360.1,
+                    "transaction_id": 4782015
+                }
+            ]
+        }
+    }
+}

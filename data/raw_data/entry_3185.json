@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "David Cook",
+        "age": 59,
+        "gender": "male",
+        "address": "2585 Diane Loaf, West Haley, TN 92850",
+        "phone": "9458932484",
+        "email": "martinezjoel@example.net",
+        "account": {
+            "account_number": "d13a42c1-fdca-488c-b7ea-8b9ea10f25c3",
+            "balance": 41327.69,
+            "transactions": [
+                {
+                    "date": "2022-11-13",
+                    "description": "Interest",
+                    "amount": 3022.37,
+                    "transaction_id": 47718743
+                },
+                {
+                    "date": "2023-01-27",
+                    "description": "Deposit",
+                    "amount": 7075.43,
+                    "transaction_id": 66585131
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Withdrawal",
+                    "amount": 20027.45,
+                    "transaction_id": 3435088
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Interest",
+                    "amount": 2795.45,
+                    "transaction_id": 51736485
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Interest",
+                    "amount": 39450.43,
+                    "transaction_id": 87125979
+                }
+            ]
+        }
+    }
+}

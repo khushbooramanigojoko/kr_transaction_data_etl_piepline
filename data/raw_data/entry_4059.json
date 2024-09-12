@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amy Adams",
+        "age": 90,
+        "gender": "female",
+        "address": "35709 Ramirez Court, South Williamport, PA 91450",
+        "phone": "399-397-1472",
+        "email": "morgan66@example.com",
+        "account": {
+            "account_number": "150910b0-7ed1-43c0-b5f9-6914dac01394",
+            "balance": 36102.89,
+            "transactions": [
+                {
+                    "date": "2023-08-13",
+                    "description": "Deposit",
+                    "amount": 33242.12,
+                    "transaction_id": 35600782
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Withdrawal",
+                    "amount": 17492.57,
+                    "transaction_id": 25159466
+                },
+                {
+                    "date": "2024-02-10",
+                    "description": "Withdrawal",
+                    "amount": 2231.47,
+                    "transaction_id": 104291673
+                },
+                {
+                    "date": "2023-03-08",
+                    "description": "Withdrawal",
+                    "amount": 38363.81,
+                    "transaction_id": 37274504
+                }
+            ]
+        }
+    }
+}

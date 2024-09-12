@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Jones",
+        "age": 56,
+        "gender": "male",
+        "address": "9820 Valerie Well, Mitchellport, IN 37833",
+        "phone": "873.827.9152x16760",
+        "email": "trowe@example.com",
+        "account": {
+            "account_number": "4eaa8191-6e64-4340-844e-ff026037803a",
+            "balance": 6250.94,
+            "transactions": [
+                {
+                    "date": "2023-06-25",
+                    "description": "Interest",
+                    "amount": 13353.1,
+                    "transaction_id": 88825229
+                }
+            ]
+        }
+    }
+}

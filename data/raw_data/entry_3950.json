@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jeffrey Robinson",
+        "age": 75,
+        "gender": "female",
+        "address": "2580 Jennifer Via, Port Michelleborough, ME 74244",
+        "phone": "358-958-4415x98408",
+        "email": "bbarnes@example.org",
+        "account": {
+            "account_number": "b92b32f3-17fb-4c78-958c-4d6457ca708e",
+            "balance": 14097.24,
+            "transactions": [
+                {
+                    "date": "2024-06-16",
+                    "description": "Deposit",
+                    "amount": 19005.63,
+                    "transaction_id": 97311895
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Deposit",
+                    "amount": 2027.6,
+                    "transaction_id": 2220787
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Withdrawal",
+                    "amount": 29452.51,
+                    "transaction_id": 95673002
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Deposit",
+                    "amount": 5141.89,
+                    "transaction_id": 48018622
+                }
+            ]
+        }
+    }
+}

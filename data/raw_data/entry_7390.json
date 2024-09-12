@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amanda Harrison",
+        "age": 98,
+        "gender": "female",
+        "address": "9403 Ryan Plains Suite 602, West Cheryl, ND 33100",
+        "phone": "001-971-593-7551x3507",
+        "email": "bmelton@example.org",
+        "account": {
+            "account_number": "95194a18-88cb-43f4-9e09-c3d7d669fc73",
+            "balance": 15262.81,
+            "transactions": [
+                {
+                    "date": "2024-02-02",
+                    "description": "Withdrawal",
+                    "amount": 22161.53,
+                    "transaction_id": 54305785
+                },
+                {
+                    "date": "2022-10-30",
+                    "description": "Withdrawal",
+                    "amount": 41831.73,
+                    "transaction_id": 101415017
+                },
+                {
+                    "date": "2024-06-12",
+                    "description": "Interest",
+                    "amount": 20554.97,
+                    "transaction_id": 74744924
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Withdrawal",
+                    "amount": 34744.22,
+                    "transaction_id": 58726965
+                }
+            ]
+        }
+    }
+}

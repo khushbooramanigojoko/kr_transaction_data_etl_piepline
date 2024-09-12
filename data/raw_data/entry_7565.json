@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Megan Campos",
+        "age": 26,
+        "gender": "male",
+        "address": "9735 Valerie Locks, South Paul, OH 83031",
+        "phone": "6193348365",
+        "email": "emartinez@example.org",
+        "account": {
+            "account_number": "82710793-3243-42aa-ae7a-5f5655a0c64d",
+            "balance": 47359.54,
+            "transactions": [
+                {
+                    "date": "2022-10-26",
+                    "description": "Withdrawal",
+                    "amount": 18537.21,
+                    "transaction_id": 98262900
+                },
+                {
+                    "date": "2024-02-19",
+                    "description": "Deposit",
+                    "amount": 39703.53,
+                    "transaction_id": 98963919
+                },
+                {
+                    "date": "2023-03-27",
+                    "description": "Withdrawal",
+                    "amount": 23073.28,
+                    "transaction_id": 46909379
+                },
+                {
+                    "date": "2023-06-28",
+                    "description": "Withdrawal",
+                    "amount": 4751.57,
+                    "transaction_id": 46869310
+                }
+            ]
+        }
+    }
+}

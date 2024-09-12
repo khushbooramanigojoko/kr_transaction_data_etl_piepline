@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Medina",
+        "age": 57,
+        "gender": "male",
+        "address": "355 Sanders Run, South Justinberg, DC 55333",
+        "phone": "+1-983-764-8918",
+        "email": "hnash@example.org",
+        "account": {
+            "account_number": "bda9f89d-0b98-4edf-aa30-125e8da9c872",
+            "balance": 46019.25,
+            "transactions": [
+                {
+                    "date": "2023-05-25",
+                    "description": "Deposit",
+                    "amount": 6902.21,
+                    "transaction_id": 3244894
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Duffy",
+        "age": 51,
+        "gender": "female",
+        "address": "0617 Nathaniel Port, West Patriciashire, MD 61492",
+        "phone": "+1-380-644-5171",
+        "email": "wangmarvin@example.net",
+        "account": {
+            "account_number": "9bb66569-f206-469f-9313-b290342afb0b",
+            "balance": 23192.32,
+            "transactions": [
+                {
+                    "date": "2024-02-22",
+                    "description": "Interest",
+                    "amount": 34774.38,
+                    "transaction_id": 79282372
+                },
+                {
+                    "date": "2022-10-09",
+                    "description": "Interest",
+                    "amount": 3531.07,
+                    "transaction_id": 107355720
+                },
+                {
+                    "date": "2024-01-27",
+                    "description": "Deposit",
+                    "amount": 33629.32,
+                    "transaction_id": 43744629
+                },
+                {
+                    "date": "2023-07-08",
+                    "description": "Withdrawal",
+                    "amount": 20798.11,
+                    "transaction_id": 49168619
+                },
+                {
+                    "date": "2024-04-07",
+                    "description": "Interest",
+                    "amount": 29322.89,
+                    "transaction_id": 26556348
+                }
+            ]
+        }
+    }
+}

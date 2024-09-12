@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Teresa Le",
+        "age": 84,
+        "gender": "male",
+        "address": "6304 Joseph Mission, Port Danielport, MH 70763",
+        "phone": "571.857.6634x210",
+        "email": "imerritt@example.com",
+        "account": {
+            "account_number": "cdf3df09-a324-4ebd-82de-41d096ac7ff3",
+            "balance": 49134.24,
+            "transactions": [
+                {
+                    "date": "2023-05-15",
+                    "description": "Withdrawal",
+                    "amount": 43052.13,
+                    "transaction_id": 90936657
+                },
+                {
+                    "date": "2022-10-24",
+                    "description": "Deposit",
+                    "amount": 44367.56,
+                    "transaction_id": 33149876
+                },
+                {
+                    "date": "2022-09-14",
+                    "description": "Deposit",
+                    "amount": 16776.43,
+                    "transaction_id": 14427805
+                }
+            ]
+        }
+    }
+}

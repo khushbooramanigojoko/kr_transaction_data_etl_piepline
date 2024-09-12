@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Bradley Bird",
+        "age": 48,
+        "gender": "male",
+        "address": "3327 Kim Isle Apt. 433, Morenoborough, TX 07058",
+        "phone": "001-822-315-6436x26327",
+        "email": "christopherfrey@example.com",
+        "account": {
+            "account_number": "4d6deb6a-9694-46b6-bb36-5ce0deda35b6",
+            "balance": 37151.63,
+            "transactions": [
+                {
+                    "date": "2024-08-12",
+                    "description": "Deposit",
+                    "amount": 45999.74,
+                    "transaction_id": 81206673
+                }
+            ]
+        }
+    }
+}

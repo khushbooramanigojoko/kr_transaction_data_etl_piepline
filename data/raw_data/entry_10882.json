@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 65,
+        "gender": "female",
+        "address": "3433 Tiffany Stravenue Apt. 935, New Susan, VT 66495",
+        "phone": "(704)272-3162",
+        "email": "brendastark@example.com",
+        "account": {
+            "account_number": "3fc04ad1-6a1b-43b0-ae7a-1ef8f5173661",
+            "balance": 17463.78,
+            "transactions": [
+                {
+                    "date": "2024-02-01",
+                    "description": "Deposit",
+                    "amount": 326.43,
+                    "transaction_id": 1497930
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Interest",
+                    "amount": 2911.09,
+                    "transaction_id": 119094558
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Withdrawal",
+                    "amount": -67.77,
+                    "transaction_id": 41742118
+                },
+                {
+                    "date": "2023-09-29",
+                    "description": "Deposit",
+                    "amount": 996.0,
+                    "transaction_id": 25801734
+                },
+                {
+                    "date": "2023-12-06",
+                    "description": "Withdrawal",
+                    "amount": 585.59,
+                    "transaction_id": 28845816
+                }
+            ]
+        }
+    }
+}

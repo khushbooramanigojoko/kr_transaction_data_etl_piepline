@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Andrew Gonzalez",
+        "age": 27,
+        "gender": "female",
+        "address": "52335 Stanley Mountain Apt. 339, Davidton, SD 60334",
+        "phone": "855-557-7496x791",
+        "email": "erikagarza@example.org",
+        "account": {
+            "account_number": "2010bdbd-8006-458b-9a5e-1702546b17e2",
+            "balance": 8480.53,
+            "transactions": [
+                {
+                    "date": "2022-10-10",
+                    "description": "Interest",
+                    "amount": 46129.57,
+                    "transaction_id": 2294842
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Interest",
+                    "amount": 28299.21,
+                    "transaction_id": 118593080
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Deposit",
+                    "amount": 49440.27,
+                    "transaction_id": 31169614
+                },
+                {
+                    "date": "2023-02-09",
+                    "description": "Withdrawal",
+                    "amount": 1187.37,
+                    "transaction_id": 75405570
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 23,
+        "gender": "female",
+        "address": "6060 Kennedy Keys, East Angela, MA 48954",
+        "phone": "(390)588-4947x838",
+        "email": "ewatkins@example.org",
+        "account": {
+            "account_number": "a8027d0f-5f4b-4f48-a37f-eadcf9f2ce2e",
+            "balance": 38789.72,
+            "transactions": [
+                {
+                    "date": "2024-05-17",
+                    "description": "Deposit",
+                    "amount": -478.93,
+                    "transaction_id": 84336729
+                },
+                {
+                    "date": "2023-05-20",
+                    "description": "Deposit",
+                    "amount": 707.4,
+                    "transaction_id": 67946438
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Deposit",
+                    "amount": 2165.24,
+                    "transaction_id": 112438607
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Darren Torres",
+        "age": 50,
+        "gender": "male",
+        "address": "PSC 5461, Box 0235, APO AA 80079",
+        "phone": "974-992-6555x502",
+        "email": "cynthia59@example.net",
+        "account": {
+            "account_number": "973e0eab-f861-4516-ab42-f56c976296ad",
+            "balance": 42467.88,
+            "transactions": [
+                {
+                    "date": "2023-12-05",
+                    "description": "Deposit",
+                    "amount": 32984.03,
+                    "transaction_id": 66787626
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Deposit",
+                    "amount": 22389.87,
+                    "transaction_id": 102539544
+                }
+            ]
+        }
+    }
+}

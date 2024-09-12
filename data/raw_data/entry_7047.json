@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brittany Garcia",
+        "age": 45,
+        "gender": "female",
+        "address": "3942 Victoria Lake, Lake Jessica, MA 76901",
+        "phone": "556-242-6853",
+        "email": "swalker@example.com",
+        "account": {
+            "account_number": "284af50e-4b0f-45e5-b907-ac51be92d14a",
+            "balance": 25156.93,
+            "transactions": [
+                {
+                    "date": "2024-06-27",
+                    "description": "Withdrawal",
+                    "amount": 49485.03,
+                    "transaction_id": 43494042
+                }
+            ]
+        }
+    }
+}

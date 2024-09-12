@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Karen Bryant",
+        "age": 58,
+        "gender": "male",
+        "address": "01651 Daniel Curve, West Kelseyberg, CA 35010",
+        "phone": "+1-916-912-1800x485",
+        "email": "gregorymatthew@example.org",
+        "account": {
+            "account_number": "1fb9e51c-3bf3-406d-8b60-65b9ff938f7f",
+            "balance": 4705.08,
+            "transactions": [
+                {
+                    "date": "2024-03-26",
+                    "description": "Interest",
+                    "amount": 30237.5,
+                    "transaction_id": 45102593
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Lynn Pierce",
+        "age": 55,
+        "gender": "female",
+        "address": "4294 Bowman Shore Suite 790, Port Jessica, AZ 65967",
+        "phone": "001-857-485-8146x2571",
+        "email": "mrodriguez@example.net",
+        "account": {
+            "account_number": "7d9d42af-532a-4890-a80c-fcc9f923b2fb",
+            "balance": 15482.28,
+            "transactions": [
+                {
+                    "date": "2024-04-09",
+                    "description": "Withdrawal",
+                    "amount": 37183.52,
+                    "transaction_id": 55327027
+                },
+                {
+                    "date": "2024-03-14",
+                    "description": "Interest",
+                    "amount": 8363.74,
+                    "transaction_id": 96759367
+                },
+                {
+                    "date": "2023-01-22",
+                    "description": "Deposit",
+                    "amount": 878.0,
+                    "transaction_id": 78801764
+                }
+            ]
+        }
+    }
+}

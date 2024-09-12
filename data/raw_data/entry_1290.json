@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tina Herrera",
+        "age": 99,
+        "gender": "male",
+        "address": "01006 Frank Bridge Apt. 252, South Wesleyton, NH 39228",
+        "phone": "+1-804-928-1627x347",
+        "email": "dawsonnatalie@example.net",
+        "account": {
+            "account_number": "7a1d4d51-8ed8-4d55-a95b-d89789824421",
+            "balance": 31957.37,
+            "transactions": [
+                {
+                    "date": "2023-11-05",
+                    "description": "Withdrawal",
+                    "amount": 45533.18,
+                    "transaction_id": 86379485
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Withdrawal",
+                    "amount": 30194.65,
+                    "transaction_id": 46887196
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 52,
+        "gender": "male",
+        "address": "91234 Sampson Club, Adamsfort, KS 76297",
+        "phone": "364-709-9395",
+        "email": "kathyflores@example.org",
+        "account": {
+            "account_number": "483f1d87-9e05-40b1-836a-360c7414a48c",
+            "balance": 1267.0,
+            "transactions": [
+                {
+                    "date": "2024-04-24",
+                    "description": "Deposit",
+                    "amount": 4683.27,
+                    "transaction_id": 92024503
+                }
+            ]
+        }
+    }
+}

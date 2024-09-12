@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dale Morrison",
+        "age": 34,
+        "gender": "female",
+        "address": "201 Carey Squares Apt. 739, North Brendafurt, MT 46931",
+        "phone": "589.305.3561",
+        "email": "jessica79@example.com",
+        "account": {
+            "account_number": "71e1321c-fa69-433c-aed6-7ee73e877ca9",
+            "balance": -7163.8,
+            "transactions": [
+                {
+                    "date": "2022-12-18",
+                    "description": "Withdrawal",
+                    "amount": 2538.78,
+                    "transaction_id": 101720490
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Interest",
+                    "amount": 3707.85,
+                    "transaction_id": 106078404
+                },
+                {
+                    "date": "2023-04-22",
+                    "description": "Interest",
+                    "amount": 4908.06,
+                    "transaction_id": 97512928
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Deposit",
+                    "amount": 789.21,
+                    "transaction_id": 6161197
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Withdrawal",
+                    "amount": 4339.48,
+                    "transaction_id": 97252771
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Candice Mathews",
+        "age": 93,
+        "gender": "male",
+        "address": "791 Debra Knoll Apt. 007, Markborough, IA 42368",
+        "phone": "(620)754-8095",
+        "email": "ztownsend@example.net",
+        "account": {
+            "account_number": "732774c8-bdc1-4822-b205-bd2e89320613",
+            "balance": 7958.63,
+            "transactions": [
+                {
+                    "date": "2023-08-15",
+                    "description": "Deposit",
+                    "amount": 35863.06,
+                    "transaction_id": 109898618
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Interest",
+                    "amount": 28732.49,
+                    "transaction_id": 100199235
+                },
+                {
+                    "date": "2024-06-01",
+                    "description": "Withdrawal",
+                    "amount": 34664.94,
+                    "transaction_id": 42408883
+                },
+                {
+                    "date": "2023-07-20",
+                    "description": "Interest",
+                    "amount": 25105.09,
+                    "transaction_id": 108420747
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Interest",
+                    "amount": 36434.14,
+                    "transaction_id": 76478470
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Marcus Avila",
+        "age": 40,
+        "gender": "male",
+        "address": "596 Nathan Wells, Port Andrewhaven, AS 06340",
+        "phone": "(546)553-6610",
+        "email": "taylorkelsey@example.org",
+        "account": {
+            "account_number": "c3948478-fb29-4847-905e-bf4c08a17488",
+            "balance": 16850.6,
+            "transactions": [
+                {
+                    "date": "2024-03-30",
+                    "description": "Withdrawal",
+                    "amount": 18291.99,
+                    "transaction_id": 57682057
+                }
+            ]
+        }
+    }
+}

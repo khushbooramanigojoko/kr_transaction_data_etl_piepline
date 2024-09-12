@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Patrick Lewis",
+        "age": 86,
+        "gender": "male",
+        "address": "62102 Smith Passage Suite 463, Aprilberg, SC 22577",
+        "phone": "(454)457-3515",
+        "email": "davidjohnson@example.org",
+        "account": {
+            "account_number": "b786b4e4-dab7-499c-b003-fd22dc70619d",
+            "balance": 3446.95,
+            "transactions": [
+                {
+                    "date": "2023-05-07",
+                    "description": "Withdrawal",
+                    "amount": 9745.12,
+                    "transaction_id": 109868115
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Deposit",
+                    "amount": 20311.89,
+                    "transaction_id": 40583437
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Withdrawal",
+                    "amount": 42722.44,
+                    "transaction_id": 16497337
+                }
+            ]
+        }
+    }
+}

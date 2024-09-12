@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Dennis Wilcox",
+        "age": 92,
+        "gender": "male",
+        "address": "117 Christine Shores Apt. 284, South Michaeltown, PR 56281",
+        "phone": "+1-279-477-4116x00761",
+        "email": "hawkinsryan@example.net",
+        "account": {
+            "account_number": "508176c3-18e9-477d-8379-ac6055189033",
+            "balance": 35959.52,
+            "transactions": [
+                {
+                    "date": "2023-10-11",
+                    "description": "Interest",
+                    "amount": 35124.35,
+                    "transaction_id": 9220374
+                },
+                {
+                    "date": "2022-10-21",
+                    "description": "Withdrawal",
+                    "amount": 9961.6,
+                    "transaction_id": 87864286
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Withdrawal",
+                    "amount": 12346.97,
+                    "transaction_id": 49273490
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Matthew Williams",
+        "age": 84,
+        "gender": "female",
+        "address": "PSC 0960, Box 5222, APO AA 21163",
+        "phone": "001-253-972-8617",
+        "email": "hernandezkristin@example.com",
+        "account": {
+            "account_number": "8ddc2ac2-5d6a-4f9f-a6f0-23b8093e2da5",
+            "balance": 1919.4,
+            "transactions": [
+                {
+                    "date": "2022-11-02",
+                    "description": "Interest",
+                    "amount": 48258.97,
+                    "transaction_id": 25056335
+                }
+            ]
+        }
+    }
+}

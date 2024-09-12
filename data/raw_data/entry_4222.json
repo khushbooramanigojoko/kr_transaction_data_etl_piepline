@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christine Carlson",
+        "age": 53,
+        "gender": "male",
+        "address": "51950 Lopez Expressway, West Dawn, PR 20333",
+        "phone": "695-675-3673",
+        "email": "kaitlyn15@example.org",
+        "account": {
+            "account_number": "660b3236-3919-4723-9b42-2f5fef01d7cb",
+            "balance": 19261.84,
+            "transactions": [
+                {
+                    "date": "2023-12-16",
+                    "description": "Deposit",
+                    "amount": 28404.13,
+                    "transaction_id": 98299843
+                },
+                {
+                    "date": "2023-08-22",
+                    "description": "Withdrawal",
+                    "amount": 8948.15,
+                    "transaction_id": 79890892
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Lisa Jennings",
+        "age": 42,
+        "gender": "female",
+        "address": "4961 Smith Roads, Beasleyview, PR 28686",
+        "phone": "001-710-242-0699x590",
+        "email": "derekholmes@example.net",
+        "account": {
+            "account_number": "aac73b36-f35d-40f6-8e6c-aae0daaaf170",
+            "balance": -43424.42,
+            "transactions": [
+                {
+                    "date": "2024-04-04",
+                    "description": "Interest",
+                    "amount": 1653.63,
+                    "transaction_id": 33863667
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Deposit",
+                    "amount": 697.96,
+                    "transaction_id": 85053176
+                },
+                {
+                    "date": "2023-04-23",
+                    "description": "Withdrawal",
+                    "amount": 1331.34,
+                    "transaction_id": 25934630
+                },
+                {
+                    "date": "2023-11-05",
+                    "description": "Withdrawal",
+                    "amount": -4239.15,
+                    "transaction_id": 43332931
+                },
+                {
+                    "date": "2024-06-05",
+                    "description": "Deposit",
+                    "amount": 2159.46,
+                    "transaction_id": 77239244
+                }
+            ]
+        }
+    }
+}

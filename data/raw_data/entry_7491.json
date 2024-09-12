@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Anne Bryant",
+        "age": 60,
+        "gender": "female",
+        "address": "Unit 5830 Box 9635, DPO AP 87514",
+        "phone": "205-498-0073x210",
+        "email": "nielsenannette@example.com",
+        "account": {
+            "account_number": "ed7472db-fd39-4a98-9e45-c2e9cec81a8d",
+            "balance": 26497.11,
+            "transactions": [
+                {
+                    "date": "2024-08-13",
+                    "description": "Withdrawal",
+                    "amount": 42973.83,
+                    "transaction_id": 36277382
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Deposit",
+                    "amount": 33458.17,
+                    "transaction_id": 15531228
+                }
+            ]
+        }
+    }
+}

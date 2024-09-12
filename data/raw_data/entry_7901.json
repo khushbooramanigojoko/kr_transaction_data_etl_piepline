@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mrs. Yolanda Crane",
+        "age": 54,
+        "gender": "male",
+        "address": "885 Jackson Harbors, Chandlerside, TX 14573",
+        "phone": "6237389727",
+        "email": "peterwells@example.org",
+        "account": {
+            "account_number": "7dc2f934-b988-4c33-8e63-f8b33346455f",
+            "balance": 41952.89,
+            "transactions": [
+                {
+                    "date": "2023-05-10",
+                    "description": "Interest",
+                    "amount": 49830.23,
+                    "transaction_id": 85087550
+                },
+                {
+                    "date": "2024-04-09",
+                    "description": "Withdrawal",
+                    "amount": 44827.37,
+                    "transaction_id": 22906773
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Interest",
+                    "amount": 1896.32,
+                    "transaction_id": 99214651
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Withdrawal",
+                    "amount": 38413.31,
+                    "transaction_id": 32318511
+                },
+                {
+                    "date": "2022-11-18",
+                    "description": "Withdrawal",
+                    "amount": 39711.68,
+                    "transaction_id": 85024762
+                }
+            ]
+        }
+    }
+}

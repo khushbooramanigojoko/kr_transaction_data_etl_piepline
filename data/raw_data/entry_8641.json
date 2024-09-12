@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Wesley Russo",
+        "age": 91,
+        "gender": "female",
+        "address": "5698 Robert Junctions, Larryshire, NC 13100",
+        "phone": "(854)983-2876x1330",
+        "email": "courtney50@example.net",
+        "account": {
+            "account_number": "68845ab2-2a5d-4969-a729-3507dac9cdf1",
+            "balance": 26447.27,
+            "transactions": [
+                {
+                    "date": "2023-01-02",
+                    "description": "Interest",
+                    "amount": 10661.52,
+                    "transaction_id": 53084728
+                },
+                {
+                    "date": "2024-04-01",
+                    "description": "Interest",
+                    "amount": 40231.74,
+                    "transaction_id": 80209621
+                }
+            ]
+        }
+    }
+}

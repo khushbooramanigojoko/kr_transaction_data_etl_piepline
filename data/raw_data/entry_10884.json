@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 96,
+        "gender": "female",
+        "address": "413 Hood Corners, Sandraside, VT 63973",
+        "phone": "659-860-5284x3695",
+        "email": "david14@example.com",
+        "account": {
+            "account_number": "aa9fab38-d2f3-44af-9647-c4f8502b5a02",
+            "balance": 4268.23,
+            "transactions": [
+                {
+                    "date": "2023-06-12",
+                    "description": "Withdrawal",
+                    "amount": 2982.86,
+                    "transaction_id": 92931218
+                },
+                {
+                    "date": "2024-06-03",
+                    "description": "Withdrawal",
+                    "amount": -401.09,
+                    "transaction_id": 84752410
+                }
+            ]
+        }
+    }
+}

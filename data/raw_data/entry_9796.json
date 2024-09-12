@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Derrick Johnson",
+        "age": 32,
+        "gender": "female",
+        "address": "5133 William Radial, Sanchezbury, AL 61899",
+        "phone": "+1-531-788-0211",
+        "email": "stephanie11@example.net",
+        "account": {
+            "account_number": "29a66fdb-40a7-4ac5-962b-942d931153fe",
+            "balance": -7096.53,
+            "transactions": [
+                {
+                    "date": "2024-07-23",
+                    "description": "Interest",
+                    "amount": 262.34,
+                    "transaction_id": 118497703
+                },
+                {
+                    "date": "2023-01-11",
+                    "description": "Interest",
+                    "amount": -3323.06,
+                    "transaction_id": 66422830
+                }
+            ]
+        }
+    }
+}

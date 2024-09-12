@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Larry Hill",
+        "age": 71,
+        "gender": "female",
+        "address": "1886 Dan View Suite 298, Port Sydneyville, VA 18550",
+        "phone": "318-486-2260x052",
+        "email": "phillipsmatthew@example.com",
+        "account": {
+            "account_number": "b0c91988-59da-4106-a796-2af695bc75f4",
+            "balance": 20194.96,
+            "transactions": [
+                {
+                    "date": "2023-11-08",
+                    "description": "Deposit",
+                    "amount": 23469.45,
+                    "transaction_id": 115035659
+                },
+                {
+                    "date": "2024-04-01",
+                    "description": "Withdrawal",
+                    "amount": 40907.54,
+                    "transaction_id": 106904054
+                },
+                {
+                    "date": "2023-04-20",
+                    "description": "Deposit",
+                    "amount": 2470.57,
+                    "transaction_id": 52197663
+                }
+            ]
+        }
+    }
+}

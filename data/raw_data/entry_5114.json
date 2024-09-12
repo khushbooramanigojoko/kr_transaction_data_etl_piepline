@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kelly Taylor",
+        "age": 23,
+        "gender": "female",
+        "address": "366 Amy Locks, New David, ND 09285",
+        "phone": "(633)948-4661x177",
+        "email": "gpierce@example.net",
+        "account": {
+            "account_number": "b0a64af2-73b6-41db-8a82-4df8571e43e4",
+            "balance": 2312.35,
+            "transactions": [
+                {
+                    "date": "2024-05-15",
+                    "description": "Interest",
+                    "amount": 19212.22,
+                    "transaction_id": 107155458
+                }
+            ]
+        }
+    }
+}

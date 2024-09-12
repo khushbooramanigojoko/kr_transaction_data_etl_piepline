@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mary Beard",
+        "age": 22,
+        "gender": "female",
+        "address": "0537 Smith Roads, North Hollyton, FM 01468",
+        "phone": "(606)348-6784x2380",
+        "email": "danielwright@example.net",
+        "account": {
+            "account_number": "b860f29a-2883-46e0-b50e-0bfe9d675a35",
+            "balance": 21647.58,
+            "transactions": [
+                {
+                    "date": "2023-11-08",
+                    "description": "Deposit",
+                    "amount": 9127.1,
+                    "transaction_id": 64594777
+                }
+            ]
+        }
+    }
+}

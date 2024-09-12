@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Madeline Clark",
+        "age": 34,
+        "gender": "male",
+        "address": "7922 Reynolds Flat Apt. 304, East Robinport, DE 07529",
+        "phone": "238-245-6107x364",
+        "email": "michael90@example.org",
+        "account": {
+            "account_number": "a7223898-4acd-4d47-b16c-edadc33f0a04",
+            "balance": 35609.09,
+            "transactions": [
+                {
+                    "date": "2024-02-18",
+                    "description": "Withdrawal",
+                    "amount": 8831.57,
+                    "transaction_id": 48446940
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Deposit",
+                    "amount": 28362.87,
+                    "transaction_id": 112247709
+                },
+                {
+                    "date": "2023-10-25",
+                    "description": "Deposit",
+                    "amount": 13509.38,
+                    "transaction_id": 106058508
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Withdrawal",
+                    "amount": 40066.78,
+                    "transaction_id": 41313892
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Deposit",
+                    "amount": 5447.0,
+                    "transaction_id": 37596667
+                }
+            ]
+        }
+    }
+}

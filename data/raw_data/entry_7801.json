@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Steven Taylor",
+        "age": 82,
+        "gender": "male",
+        "address": "898 Michelle Vista Suite 462, Lake Susan, MO 41571",
+        "phone": "(328)587-8200x24892",
+        "email": "rosegina@example.org",
+        "account": {
+            "account_number": "35670408-1238-420d-baeb-42d26c656ff0",
+            "balance": 29512.1,
+            "transactions": [
+                {
+                    "date": "2024-08-02",
+                    "description": "Withdrawal",
+                    "amount": 16715.38,
+                    "transaction_id": 42249937
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Monica Powers",
+        "age": 28,
+        "gender": "male",
+        "address": "USS Guzman, FPO AP 75556",
+        "phone": "(591)358-3918",
+        "email": "rodriguezlaurie@example.com",
+        "account": {
+            "account_number": "e7e4c1c6-65d5-4711-8aba-7ff71fd3e7d4",
+            "balance": 6813.42,
+            "transactions": [
+                {
+                    "date": "2023-05-20",
+                    "description": "Deposit",
+                    "amount": 15077.41,
+                    "transaction_id": 65703982
+                },
+                {
+                    "date": "2023-05-05",
+                    "description": "Deposit",
+                    "amount": 2056.21,
+                    "transaction_id": 43189750
+                }
+            ]
+        }
+    }
+}

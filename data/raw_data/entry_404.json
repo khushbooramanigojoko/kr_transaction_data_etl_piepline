@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Donald Smith",
+        "age": 96,
+        "gender": "male",
+        "address": "2061 Andrew Summit, East Craig, MH 94287",
+        "phone": "332.908.1426x5444",
+        "email": "spratt@example.com",
+        "account": {
+            "account_number": "16bf4237-6a90-499d-9e21-10df370167d6",
+            "balance": 4990.23,
+            "transactions": [
+                {
+                    "date": "2024-05-27",
+                    "description": "Withdrawal",
+                    "amount": 27877.56,
+                    "transaction_id": 70897103
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Interest",
+                    "amount": 41773.36,
+                    "transaction_id": 50141528
+                },
+                {
+                    "date": "2024-08-10",
+                    "description": "Deposit",
+                    "amount": 11909.39,
+                    "transaction_id": 94612462
+                },
+                {
+                    "date": "2024-05-06",
+                    "description": "Interest",
+                    "amount": 11687.65,
+                    "transaction_id": 42619446
+                },
+                {
+                    "date": "2023-11-10",
+                    "description": "Interest",
+                    "amount": 36737.28,
+                    "transaction_id": 32992549
+                }
+            ]
+        }
+    }
+}

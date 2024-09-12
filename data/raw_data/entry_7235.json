@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Thomas Jones",
+        "age": 50,
+        "gender": "male",
+        "address": "09674 Marsh Summit Suite 485, North Williamfurt, IA 33888",
+        "phone": "760-411-0426",
+        "email": "kevinford@example.com",
+        "account": {
+            "account_number": "2f7e8f77-b17c-4cf4-9a0b-dab23bdffb8f",
+            "balance": 42728.78,
+            "transactions": [
+                {
+                    "date": "2024-06-19",
+                    "description": "Withdrawal",
+                    "amount": 44865.52,
+                    "transaction_id": 40013388
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Deposit",
+                    "amount": 9013.59,
+                    "transaction_id": 79288899
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Deposit",
+                    "amount": 2768.08,
+                    "transaction_id": 77325139
+                },
+                {
+                    "date": "2024-06-12",
+                    "description": "Deposit",
+                    "amount": 34599.85,
+                    "transaction_id": 40318025
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Banks",
+        "age": 34,
+        "gender": "male",
+        "address": "PSC 5563, Box 3225, APO AA 82159",
+        "phone": "907-505-1671x9467",
+        "email": "jonathan44@example.net",
+        "account": {
+            "account_number": "790c1a15-7d0e-41b2-a053-4e7acc730fba",
+            "balance": -5510.4,
+            "transactions": [
+                {
+                    "date": "2023-03-14",
+                    "description": "Interest",
+                    "amount": -2271.1,
+                    "transaction_id": 70391778
+                },
+                {
+                    "date": "2024-01-10",
+                    "description": "Interest",
+                    "amount": 845.16,
+                    "transaction_id": 38381791
+                }
+            ]
+        }
+    }
+}

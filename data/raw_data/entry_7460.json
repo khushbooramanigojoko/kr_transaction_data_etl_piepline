@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Anthony Macias",
+        "age": 69,
+        "gender": "male",
+        "address": "76384 Michael Street Suite 121, Lake Patriciabury, MA 45973",
+        "phone": "838-664-8859",
+        "email": "hschwartz@example.org",
+        "account": {
+            "account_number": "92bb640a-036d-4f52-903a-c6170e28a82d",
+            "balance": 25588.78,
+            "transactions": [
+                {
+                    "date": "2024-02-22",
+                    "description": "Withdrawal",
+                    "amount": 47270.34,
+                    "transaction_id": 65414386
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Deposit",
+                    "amount": 25988.83,
+                    "transaction_id": 98053750
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Deposit",
+                    "amount": 9608.88,
+                    "transaction_id": 109141824
+                },
+                {
+                    "date": "2024-06-05",
+                    "description": "Interest",
+                    "amount": 35757.72,
+                    "transaction_id": 97177616
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 90,
+        "gender": "male",
+        "address": "6735 Brent Pines, East Michellechester, TN 85288",
+        "phone": "876.491.0994x1872",
+        "email": "ashley21@example.org",
+        "account": {
+            "account_number": "bda0a54b-f254-4808-9682-1dd6330a89fa",
+            "balance": 38196.14,
+            "transactions": [
+                {
+                    "date": "2024-04-02",
+                    "description": "Deposit",
+                    "amount": 2950.74,
+                    "transaction_id": 112211810
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Interest",
+                    "amount": 662.93,
+                    "transaction_id": 32162317
+                }
+            ]
+        }
+    }
+}

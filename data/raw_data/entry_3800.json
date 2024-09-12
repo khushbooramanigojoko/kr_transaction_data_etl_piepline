@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Robert Berg",
+        "age": 51,
+        "gender": "male",
+        "address": "0421 Brown Views, East Bryanbury, ND 93624",
+        "phone": "(997)718-1396x93201",
+        "email": "randallkelly@example.net",
+        "account": {
+            "account_number": "4985e95b-4427-45c4-bc67-e9b91a1d5b32",
+            "balance": 49072.7,
+            "transactions": [
+                {
+                    "date": "2023-01-05",
+                    "description": "Interest",
+                    "amount": 25655.71,
+                    "transaction_id": 23925260
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Morgan Rose",
+        "age": 70,
+        "gender": "male",
+        "address": "23256 Richard Rapids Suite 527, Butlerburgh, ID 52411",
+        "phone": "+1-868-766-5699x7859",
+        "email": "knorman@example.com",
+        "account": {
+            "account_number": "1bbe1e84-88ac-4d9a-b785-890b321ad10b",
+            "balance": -13787.97,
+            "transactions": [
+                {
+                    "date": "2023-11-27",
+                    "description": "Withdrawal",
+                    "amount": 1621.04,
+                    "transaction_id": 57023608
+                },
+                {
+                    "date": "2023-05-03",
+                    "description": "Interest",
+                    "amount": 4462.38,
+                    "transaction_id": 1801360
+                }
+            ]
+        }
+    }
+}

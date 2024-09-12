@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ronald Davis",
+        "age": 24,
+        "gender": "male",
+        "address": "96197 Burke Flats Apt. 195, New Sabrina, MS 76281",
+        "phone": "2066016184",
+        "email": "austinwilson@example.com",
+        "account": {
+            "account_number": "be73a5c8-b8aa-4ea0-9230-5bec1475b6fe",
+            "balance": 35497.63,
+            "transactions": [
+                {
+                    "date": "2023-04-16",
+                    "description": "Withdrawal",
+                    "amount": 5331.72,
+                    "transaction_id": 15336792
+                }
+            ]
+        }
+    }
+}

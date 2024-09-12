@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lauren Jackson",
+        "age": 93,
+        "gender": "female",
+        "address": "1259 Rogers Lakes, Port Justin, AZ 76184",
+        "phone": "(582)561-2325x81873",
+        "email": "hendersonjames@example.net",
+        "account": {
+            "account_number": "db958364-0165-4911-aa35-277ff80cb7c3",
+            "balance": -30889.01,
+            "transactions": [
+                {
+                    "date": "2024-08-10",
+                    "description": "Deposit",
+                    "amount": 3539.82,
+                    "transaction_id": 64828281
+                }
+            ]
+        }
+    }
+}

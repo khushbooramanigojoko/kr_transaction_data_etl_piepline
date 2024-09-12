@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Samantha Jones",
+        "age": 94,
+        "gender": "male",
+        "address": "055 Tanner Fall Apt. 796, South Josestad, NM 80061",
+        "phone": "(746)794-4548x479",
+        "email": "stonemark@example.net",
+        "account": {
+            "account_number": "8e15f166-dd1a-4b4b-ba75-b77f425a3c57",
+            "balance": 48602.92,
+            "transactions": [
+                {
+                    "date": "2024-02-16",
+                    "description": "Interest",
+                    "amount": 7050.98,
+                    "transaction_id": 43072570
+                }
+            ]
+        }
+    }
+}

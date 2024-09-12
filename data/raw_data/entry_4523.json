@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "David Thornton",
+        "age": 57,
+        "gender": "male",
+        "address": "373 Ramsey Vista Suite 167, East Adam, NC 58564",
+        "phone": "001-954-518-6811x4028",
+        "email": "sean86@example.org",
+        "account": {
+            "account_number": "e97d8b72-b071-4345-a280-b826ff96fa60",
+            "balance": 15983.69,
+            "transactions": [
+                {
+                    "date": "2022-09-11",
+                    "description": "Interest",
+                    "amount": 23711.11,
+                    "transaction_id": 15440522
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Withdrawal",
+                    "amount": 36073.68,
+                    "transaction_id": 61073626
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Interest",
+                    "amount": 47113.92,
+                    "transaction_id": 53491964
+                }
+            ]
+        }
+    }
+}

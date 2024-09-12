@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jesse Wallace",
+        "age": 22,
+        "gender": "female",
+        "address": "465 Raymond Mission Suite 181, Donnachester, MA 94247",
+        "phone": "929-826-3311x366",
+        "email": "mullinsnancy@example.org",
+        "account": {
+            "account_number": "90ab1ee0-4f44-4ea8-9760-4e3a2552c72c",
+            "balance": 18154.71,
+            "transactions": [
+                {
+                    "date": "2024-03-04",
+                    "description": "Deposit",
+                    "amount": 36769.83,
+                    "transaction_id": 64720398
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Interest",
+                    "amount": 4220.01,
+                    "transaction_id": 94061471
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Withdrawal",
+                    "amount": 38016.16,
+                    "transaction_id": 58588838
+                },
+                {
+                    "date": "2022-10-24",
+                    "description": "Deposit",
+                    "amount": 13090.65,
+                    "transaction_id": 59544698
+                },
+                {
+                    "date": "2023-06-10",
+                    "description": "Withdrawal",
+                    "amount": 26042.91,
+                    "transaction_id": 100835777
+                }
+            ]
+        }
+    }
+}

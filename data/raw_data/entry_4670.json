@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Chad Palmer",
+        "age": 80,
+        "gender": "male",
+        "address": "236 Jonathan Throughway Suite 428, Allenland, NY 27065",
+        "phone": "(534)500-7168x908",
+        "email": "stevenjackson@example.net",
+        "account": {
+            "account_number": "2f1ca3de-04d2-441f-bd24-110bdd3ca3a5",
+            "balance": 2401.69,
+            "transactions": [
+                {
+                    "date": "2024-03-23",
+                    "description": "Withdrawal",
+                    "amount": 29724.37,
+                    "transaction_id": 119237374
+                }
+            ]
+        }
+    }
+}

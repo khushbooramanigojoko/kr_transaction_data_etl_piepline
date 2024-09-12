@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Maria Ortega",
+        "age": 27,
+        "gender": "female",
+        "address": "2412 Cynthia Shores Apt. 972, Newmantown, CA 21812",
+        "phone": "001-560-233-2827",
+        "email": "stephaniehickman@example.org",
+        "account": {
+            "account_number": "eee8b820-c44f-4cc4-8b83-3bdb7de31ea6",
+            "balance": 22840.74,
+            "transactions": [
+                {
+                    "date": "2023-10-14",
+                    "description": "Interest",
+                    "amount": 40689.99,
+                    "transaction_id": 78595767
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Deposit",
+                    "amount": 2373.84,
+                    "transaction_id": 11244318
+                }
+            ]
+        }
+    }
+}

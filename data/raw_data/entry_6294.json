@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michele Santiago",
+        "age": 28,
+        "gender": "female",
+        "address": "947 Rogers Roads, New Billyburgh, ID 30553",
+        "phone": "+1-883-812-6292x84339",
+        "email": "ufischer@example.com",
+        "account": {
+            "account_number": "50306e73-5b08-4e28-a427-f31c990952aa",
+            "balance": 19752.06,
+            "transactions": [
+                {
+                    "date": "2023-07-27",
+                    "description": "Withdrawal",
+                    "amount": 13288.4,
+                    "transaction_id": 100540032
+                }
+            ]
+        }
+    }
+}

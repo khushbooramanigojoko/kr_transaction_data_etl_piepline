@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Norma Daniel",
+        "age": 70,
+        "gender": "female",
+        "address": "26351 Dunlap Landing, North Patricia, MN 16568",
+        "phone": "806-792-4827",
+        "email": "czavala@example.com",
+        "account": {
+            "account_number": "9ca07ec9-af83-4fad-881d-048549681b81",
+            "balance": 1600.98,
+            "transactions": [
+                {
+                    "date": "2024-05-26",
+                    "description": "Withdrawal",
+                    "amount": 6798.93,
+                    "transaction_id": 16799736
+                },
+                {
+                    "date": "2023-11-10",
+                    "description": "Interest",
+                    "amount": 12555.67,
+                    "transaction_id": 51055632
+                }
+            ]
+        }
+    }
+}

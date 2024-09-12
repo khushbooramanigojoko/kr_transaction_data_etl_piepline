@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Robert Moody",
+        "age": 69,
+        "gender": "male",
+        "address": "0983 Williams Street, Jeffreymouth, SD 59619",
+        "phone": "(503)992-1779",
+        "email": "pricebrandon@example.org",
+        "account": {
+            "account_number": "b6898a46-7066-48a3-aa7e-cbfbf86e3f07",
+            "balance": 4263.87,
+            "transactions": [
+                {
+                    "date": "2024-03-02",
+                    "description": "Interest",
+                    "amount": 24971.1,
+                    "transaction_id": 77610656
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Interest",
+                    "amount": 46725.76,
+                    "transaction_id": 54430031
+                }
+            ]
+        }
+    }
+}

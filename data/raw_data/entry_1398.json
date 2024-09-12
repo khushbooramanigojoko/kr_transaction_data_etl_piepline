@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Billy Li",
+        "age": 86,
+        "gender": "male",
+        "address": "84617 Anthony Park, Kevinstad, MT 09245",
+        "phone": "2117844898",
+        "email": "patriciafitzgerald@example.org",
+        "account": {
+            "account_number": "e6bb1c79-7fe9-4f8e-a51c-676e18cf9d07",
+            "balance": 26195.25,
+            "transactions": [
+                {
+                    "date": "2024-04-02",
+                    "description": "Interest",
+                    "amount": 46636.15,
+                    "transaction_id": 93689158
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Withdrawal",
+                    "amount": 847.7,
+                    "transaction_id": 93353816
+                },
+                {
+                    "date": "2022-12-20",
+                    "description": "Deposit",
+                    "amount": 31711.02,
+                    "transaction_id": 1364508
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Withdrawal",
+                    "amount": 38325.17,
+                    "transaction_id": 103654382
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Interest",
+                    "amount": 44366.83,
+                    "transaction_id": 40815533
+                }
+            ]
+        }
+    }
+}

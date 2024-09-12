@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amy Berg",
+        "age": 59,
+        "gender": "male",
+        "address": "824 Hall Prairie Suite 504, Port Jack, MO 88026",
+        "phone": "338-983-8531x1775",
+        "email": "samuel59@example.org",
+        "account": {
+            "account_number": "e2e29099-69d3-4cf2-ac53-be1e074ddcbf",
+            "balance": 2554.71,
+            "transactions": [
+                {
+                    "date": "2023-08-24",
+                    "description": "Interest",
+                    "amount": 1849.36,
+                    "transaction_id": 31314480
+                }
+            ]
+        }
+    }
+}

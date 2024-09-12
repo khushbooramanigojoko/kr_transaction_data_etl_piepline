@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 41,
+        "gender": "female",
+        "address": "759 Michael Neck, Webstertown, PR 30046",
+        "phone": "621.286.8420",
+        "email": "ronald53@example.com",
+        "account": {
+            "account_number": "382bed80-6cb0-49c7-96d4-4397123090b5",
+            "balance": 33864.68,
+            "transactions": [
+                {
+                    "date": "2023-08-20",
+                    "description": "Deposit",
+                    "amount": 3137.96,
+                    "transaction_id": 4856364
+                }
+            ]
+        }
+    }
+}

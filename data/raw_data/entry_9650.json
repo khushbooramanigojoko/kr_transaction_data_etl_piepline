@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kayla Dawson",
+        "age": 32,
+        "gender": "male",
+        "address": "9607 Montgomery Course Suite 337, Johnsonfort, MP 81361",
+        "phone": "557.998.3607x3643",
+        "email": "jennifermcclure@example.net",
+        "account": {
+            "account_number": "f3d0df8f-76a8-4f89-a61e-62407960360a",
+            "balance": -38700.51,
+            "transactions": [
+                {
+                    "date": "2024-06-01",
+                    "description": "Interest",
+                    "amount": -240.58,
+                    "transaction_id": 111385657
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Withdrawal",
+                    "amount": -1185.71,
+                    "transaction_id": 59466279
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Withdrawal",
+                    "amount": 4221.24,
+                    "transaction_id": 101393902
+                },
+                {
+                    "date": "2024-05-05",
+                    "description": "Withdrawal",
+                    "amount": 2620.07,
+                    "transaction_id": 102395454
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joseph Crawford",
+        "age": 83,
+        "gender": "male",
+        "address": "221 Castro Meadow, West Nancy, MD 55312",
+        "phone": "001-411-754-3243x30550",
+        "email": "william74@example.net",
+        "account": {
+            "account_number": "6520588d-a18a-4b26-a346-d49a1e48e4c1",
+            "balance": 37956.97,
+            "transactions": [
+                {
+                    "date": "2024-07-12",
+                    "description": "Deposit",
+                    "amount": 9985.76,
+                    "transaction_id": 6282224
+                }
+            ]
+        }
+    }
+}

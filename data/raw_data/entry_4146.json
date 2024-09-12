@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Leslie Wilson",
+        "age": 64,
+        "gender": "female",
+        "address": "288 Pamela Ranch Apt. 541, New Christopher, MA 81075",
+        "phone": "667.972.2853x156",
+        "email": "daniel17@example.org",
+        "account": {
+            "account_number": "4933b582-289a-4224-89f6-d32fb0d33b65",
+            "balance": 28299.75,
+            "transactions": [
+                {
+                    "date": "2022-10-22",
+                    "description": "Deposit",
+                    "amount": 48804.24,
+                    "transaction_id": 30628678
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Withdrawal",
+                    "amount": 19969.64,
+                    "transaction_id": 80340672
+                }
+            ]
+        }
+    }
+}

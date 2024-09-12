@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Andre Rodgers",
+        "age": 31,
+        "gender": "female",
+        "address": "48980 Tara Stream Apt. 294, West Peter, SC 13825",
+        "phone": "001-427-439-9453x9461",
+        "email": "xpowell@example.net",
+        "account": {
+            "account_number": "38020ddf-0b39-4c11-bc33-8c75200976c7",
+            "balance": 21067.4,
+            "transactions": [
+                {
+                    "date": "2023-01-08",
+                    "description": "Interest",
+                    "amount": 8209.21,
+                    "transaction_id": 41188046
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Deposit",
+                    "amount": 23337.83,
+                    "transaction_id": 38402071
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Withdrawal",
+                    "amount": 11526.66,
+                    "transaction_id": 73193041
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Withdrawal",
+                    "amount": 23398.65,
+                    "transaction_id": 74951843
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Terri Stanley",
+        "age": 98,
+        "gender": "female",
+        "address": "5653 Donald Trace, New Dawn, KS 02536",
+        "phone": "935.510.6273",
+        "email": "harrisnicole@example.com",
+        "account": {
+            "account_number": "bed92e48-da6a-4830-8112-265826e55a78",
+            "balance": 25286.81,
+            "transactions": [
+                {
+                    "date": "2024-02-09",
+                    "description": "Interest",
+                    "amount": 7836.79,
+                    "transaction_id": 28255869
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Withdrawal",
+                    "amount": 8704.45,
+                    "transaction_id": 64913181
+                },
+                {
+                    "date": "2023-02-26",
+                    "description": "Deposit",
+                    "amount": 49530.51,
+                    "transaction_id": 56615309
+                }
+            ]
+        }
+    }
+}

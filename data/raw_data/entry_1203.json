@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Heather Lyons",
+        "age": 32,
+        "gender": "male",
+        "address": "PSC 8163, Box 5935, APO AE 73963",
+        "phone": "820.520.7076x7789",
+        "email": "harringtonrussell@example.net",
+        "account": {
+            "account_number": "336bec26-9c8f-4af1-af95-1f4b3b9e9f33",
+            "balance": 26873.12,
+            "transactions": [
+                {
+                    "date": "2023-09-09",
+                    "description": "Deposit",
+                    "amount": 49915.32,
+                    "transaction_id": 16401217
+                },
+                {
+                    "date": "2022-12-29",
+                    "description": "Interest",
+                    "amount": 20496.02,
+                    "transaction_id": 74660111
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Interest",
+                    "amount": 18900.7,
+                    "transaction_id": 111369721
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Withdrawal",
+                    "amount": 35321.43,
+                    "transaction_id": 39543364
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Interest",
+                    "amount": 391.68,
+                    "transaction_id": 30534516
+                }
+            ]
+        }
+    }
+}

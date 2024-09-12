@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christopher Ayers",
+        "age": 98,
+        "gender": "female",
+        "address": "81474 John Streets, Rossview, NH 49906",
+        "phone": "001-256-470-6034x636",
+        "email": "jasminegarcia@example.com",
+        "account": {
+            "account_number": "d5756b80-db0a-460f-9b71-09625d7fcfdf",
+            "balance": 20272.03,
+            "transactions": [
+                {
+                    "date": "2022-09-02",
+                    "description": "Interest",
+                    "amount": 46522.77,
+                    "transaction_id": 90443981
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Withdrawal",
+                    "amount": 22349.88,
+                    "transaction_id": 94137791
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Heather Walton",
+        "age": 73,
+        "gender": "male",
+        "address": "PSC 0311, Box 9097, APO AP 14260",
+        "phone": "797-360-0653x189",
+        "email": "christophertravis@example.net",
+        "account": {
+            "account_number": "70713b34-8da5-4c66-9e03-947b16e95fb7",
+            "balance": 23405.04,
+            "transactions": [
+                {
+                    "date": "2023-08-28",
+                    "description": "Deposit",
+                    "amount": 45810.47,
+                    "transaction_id": 46941803
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Interest",
+                    "amount": 42146.29,
+                    "transaction_id": 52702478
+                }
+            ]
+        }
+    }
+}

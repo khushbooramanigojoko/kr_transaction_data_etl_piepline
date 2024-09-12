@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Theresa Smith",
+        "age": 75,
+        "gender": "female",
+        "address": "4779 Brown Turnpike Apt. 009, Jacobsport, ME 63737",
+        "phone": "+1-966-346-9382x51285",
+        "email": "alexander61@example.net",
+        "account": {
+            "account_number": "a486c430-7081-41d5-a6b2-2e2616c62995",
+            "balance": 35005.5,
+            "transactions": [
+                {
+                    "date": "2023-08-08",
+                    "description": "Interest",
+                    "amount": 16775.58,
+                    "transaction_id": 115828840
+                },
+                {
+                    "date": "2022-11-24",
+                    "description": "Withdrawal",
+                    "amount": 41691.23,
+                    "transaction_id": 8092241
+                },
+                {
+                    "date": "2023-05-15",
+                    "description": "Interest",
+                    "amount": 31114.77,
+                    "transaction_id": 58861735
+                }
+            ]
+        }
+    }
+}

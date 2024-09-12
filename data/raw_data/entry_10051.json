@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Reginald Anderson",
+        "age": 40,
+        "gender": "male",
+        "address": "6121 Spears Course Apt. 191, Lake Frederickland, TN 80292",
+        "phone": "+1-489-938-0048x105",
+        "email": "larrywilliams@example.com",
+        "account": {
+            "account_number": "d65813b9-d822-421a-b2e2-f8954328a3f3",
+            "balance": -36099.11,
+            "transactions": [
+                {
+                    "date": "2023-12-26",
+                    "description": "Interest",
+                    "amount": -4034.06,
+                    "transaction_id": 40093910
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Deposit",
+                    "amount": -3176.34,
+                    "transaction_id": 73255369
+                },
+                {
+                    "date": "2024-04-15",
+                    "description": "Withdrawal",
+                    "amount": -2740.73,
+                    "transaction_id": 43119366
+                }
+            ]
+        }
+    }
+}

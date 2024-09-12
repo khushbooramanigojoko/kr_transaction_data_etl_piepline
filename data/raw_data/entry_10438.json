@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 94,
+        "gender": "female",
+        "address": "66727 Katherine Harbor Suite 478, Kathleenhaven, GA 94188",
+        "phone": "956.331.5121",
+        "email": "lbaxter@example.com",
+        "account": {
+            "account_number": "1ca8ca94-531e-4163-b83b-b4467b53a28e",
+            "balance": 19583.72,
+            "transactions": [
+                {
+                    "date": "2024-02-18",
+                    "description": "Withdrawal",
+                    "amount": -3543.09,
+                    "transaction_id": 118257533
+                }
+            ]
+        }
+    }
+}

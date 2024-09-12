@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Paula Adams",
+        "age": 39,
+        "gender": "female",
+        "address": "550 Hart Parks Apt. 172, Daveton, WY 91055",
+        "phone": "+1-375-557-7121",
+        "email": "oscar64@example.org",
+        "account": {
+            "account_number": "b1a982d2-8dc4-4554-aaff-28acbde14386",
+            "balance": 40839.97,
+            "transactions": [
+                {
+                    "date": "2024-03-18",
+                    "description": "Deposit",
+                    "amount": 38562.72,
+                    "transaction_id": 75825714
+                },
+                {
+                    "date": "2023-03-02",
+                    "description": "Withdrawal",
+                    "amount": 12501.26,
+                    "transaction_id": 56679493
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Deposit",
+                    "amount": 25724.24,
+                    "transaction_id": 12987365
+                },
+                {
+                    "date": "2023-12-12",
+                    "description": "Withdrawal",
+                    "amount": 5934.77,
+                    "transaction_id": 78805709
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Interest",
+                    "amount": 45984.32,
+                    "transaction_id": 102333273
+                }
+            ]
+        }
+    }
+}

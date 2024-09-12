@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jake Hartman",
+        "age": 42,
+        "gender": "male",
+        "address": "9963 Case Summit, Nortonfort, GA 01416",
+        "phone": "6516894472",
+        "email": "lisamccall@example.org",
+        "account": {
+            "account_number": "42747a3a-1227-4803-a5cb-d27c13696a3c",
+            "balance": 28621.69,
+            "transactions": [
+                {
+                    "date": "2023-03-20",
+                    "description": "Deposit",
+                    "amount": 34525.73,
+                    "transaction_id": 66590624
+                },
+                {
+                    "date": "2024-08-30",
+                    "description": "Deposit",
+                    "amount": 22777.04,
+                    "transaction_id": 119277597
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Withdrawal",
+                    "amount": 44824.35,
+                    "transaction_id": 36083092
+                }
+            ]
+        }
+    }
+}

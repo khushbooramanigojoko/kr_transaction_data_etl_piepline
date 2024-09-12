@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Stephanie Frazier",
+        "age": 34,
+        "gender": "male",
+        "address": "98217 Joseph Glens, Lake Danielfurt, CT 10706",
+        "phone": "001-718-220-7123x585",
+        "email": "angelatorres@example.org",
+        "account": {
+            "account_number": "61dca06b-153d-4315-8921-a02509b4e2d4",
+            "balance": 42261.51,
+            "transactions": [
+                {
+                    "date": "2023-05-24",
+                    "description": "Deposit",
+                    "amount": 27095.93,
+                    "transaction_id": 36271428
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": 12507.9,
+                    "transaction_id": 111083312
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Interest",
+                    "amount": 28449.03,
+                    "transaction_id": 98855550
+                }
+            ]
+        }
+    }
+}

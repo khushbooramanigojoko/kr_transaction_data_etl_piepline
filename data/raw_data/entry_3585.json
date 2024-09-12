@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Hunter Harris",
+        "age": 89,
+        "gender": "male",
+        "address": "142 Jacob Summit Apt. 409, West Luis, FL 72598",
+        "phone": "(284)752-6490x01486",
+        "email": "vwalker@example.com",
+        "account": {
+            "account_number": "a78cec61-1dc0-4a20-965a-e9b63dd61cd9",
+            "balance": 35892.4,
+            "transactions": [
+                {
+                    "date": "2024-07-07",
+                    "description": "Withdrawal",
+                    "amount": 9868.36,
+                    "transaction_id": 115535415
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Withdrawal",
+                    "amount": 11983.49,
+                    "transaction_id": 81783083
+                }
+            ]
+        }
+    }
+}

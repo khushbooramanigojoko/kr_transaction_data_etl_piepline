@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lindsey Palmer",
+        "age": 56,
+        "gender": "female",
+        "address": "177 Perez Junctions, North Derrick, OK 46661",
+        "phone": "3118060639",
+        "email": "kwhite@example.net",
+        "account": {
+            "account_number": "031066a9-fdf2-4b74-80c9-0bc63d6b3f83",
+            "balance": 34361.38,
+            "transactions": [
+                {
+                    "date": "2024-02-29",
+                    "description": "Withdrawal",
+                    "amount": 21138.12,
+                    "transaction_id": 90449575
+                }
+            ]
+        }
+    }
+}

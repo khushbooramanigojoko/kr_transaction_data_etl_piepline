@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 33,
+        "gender": "female",
+        "address": "03291 Katie Ridges, South Alexisberg, MN 90001",
+        "phone": "+1-990-987-9736",
+        "email": "zjohnson@example.org",
+        "account": {
+            "account_number": "183059b5-644e-45c8-990e-19470cee2643",
+            "balance": 6928.32,
+            "transactions": [
+                {
+                    "date": "2024-06-29",
+                    "description": "Withdrawal",
+                    "amount": -2229.95,
+                    "transaction_id": 95215987
+                },
+                {
+                    "date": "2023-06-10",
+                    "description": "Withdrawal",
+                    "amount": 1444.72,
+                    "transaction_id": 67001571
+                }
+            ]
+        }
+    }
+}

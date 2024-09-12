@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Teresa Williams",
+        "age": 70,
+        "gender": "female",
+        "address": "246 Kayla Oval, Bryanside, AL 47296",
+        "phone": "+1-935-471-1432x291",
+        "email": "petermurphy@example.net",
+        "account": {
+            "account_number": "a6e88b30-9cc8-4527-b5f1-30c53bbce8ab",
+            "balance": -44356.99,
+            "transactions": [
+                {
+                    "date": "2024-07-26",
+                    "description": "Interest",
+                    "amount": 3300.36,
+                    "transaction_id": 78918930
+                },
+                {
+                    "date": "2022-11-29",
+                    "description": "Interest",
+                    "amount": 1872.03,
+                    "transaction_id": 61931507
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Deposit",
+                    "amount": 4690.85,
+                    "transaction_id": 69115087
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Deposit",
+                    "amount": -4916.88,
+                    "transaction_id": 13513039
+                }
+            ]
+        }
+    }
+}

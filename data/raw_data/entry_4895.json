@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Kelley",
+        "age": 36,
+        "gender": "female",
+        "address": "99779 Randy Rapid, Huntfort, ID 70826",
+        "phone": "+1-764-797-0607x7453",
+        "email": "heatheryang@example.org",
+        "account": {
+            "account_number": "b6b1d502-786e-491f-8409-455b746bf328",
+            "balance": 32030.86,
+            "transactions": [
+                {
+                    "date": "2022-10-06",
+                    "description": "Deposit",
+                    "amount": 14450.05,
+                    "transaction_id": 109155039
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Interest",
+                    "amount": 10072.72,
+                    "transaction_id": 41270443
+                }
+            ]
+        }
+    }
+}

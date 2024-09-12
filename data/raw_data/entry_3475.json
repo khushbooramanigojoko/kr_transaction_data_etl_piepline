@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ricky Bailey",
+        "age": 84,
+        "gender": "female",
+        "address": "577 Alyssa Junctions, New Matthewhaven, NH 31463",
+        "phone": "+1-298-307-1880x7539",
+        "email": "rheath@example.com",
+        "account": {
+            "account_number": "32d6c670-5c13-465a-843e-b4a94507dcf2",
+            "balance": 3176.15,
+            "transactions": [
+                {
+                    "date": "2023-01-24",
+                    "description": "Withdrawal",
+                    "amount": 1950.55,
+                    "transaction_id": 71911508
+                },
+                {
+                    "date": "2024-01-16",
+                    "description": "Deposit",
+                    "amount": 28584.94,
+                    "transaction_id": 117713706
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Deposit",
+                    "amount": 20726.83,
+                    "transaction_id": 88280058
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Withdrawal",
+                    "amount": 36065.08,
+                    "transaction_id": 17903500
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Deposit",
+                    "amount": 43788.04,
+                    "transaction_id": 57690899
+                }
+            ]
+        }
+    }
+}

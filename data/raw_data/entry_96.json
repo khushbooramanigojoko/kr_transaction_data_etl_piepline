@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tina Bailey",
+        "age": 53,
+        "gender": "male",
+        "address": "8659 Robert Shoals Apt. 312, Eugeneport, FM 05192",
+        "phone": "6639021606",
+        "email": "yjackson@example.org",
+        "account": {
+            "account_number": "83e73b43-4be3-4554-80a2-739098e7d004",
+            "balance": 13983.67,
+            "transactions": [
+                {
+                    "date": "2023-10-15",
+                    "description": "Interest",
+                    "amount": 46298.88,
+                    "transaction_id": 30483209
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Deposit",
+                    "amount": 22618.35,
+                    "transaction_id": 61027295
+                },
+                {
+                    "date": "2023-09-21",
+                    "description": "Deposit",
+                    "amount": 8838.51,
+                    "transaction_id": 18006832
+                },
+                {
+                    "date": "2024-07-26",
+                    "description": "Deposit",
+                    "amount": 7598.41,
+                    "transaction_id": 54330069
+                }
+            ]
+        }
+    }
+}

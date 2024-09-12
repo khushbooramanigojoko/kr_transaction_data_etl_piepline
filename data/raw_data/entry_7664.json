@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jeffrey Norman",
+        "age": 82,
+        "gender": "male",
+        "address": "06032 Thompson Squares Apt. 575, Port Jamie, ME 37549",
+        "phone": "+1-732-566-1145x3040",
+        "email": "lararyan@example.com",
+        "account": {
+            "account_number": "e29064be-db05-46dc-b321-e06962fa8395",
+            "balance": 43010.3,
+            "transactions": [
+                {
+                    "date": "2023-12-29",
+                    "description": "Interest",
+                    "amount": 43986.07,
+                    "transaction_id": 89299588
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Eric Powers",
+        "age": 29,
+        "gender": "female",
+        "address": "699 Moss Skyway Apt. 055, West Robertland, KY 05211",
+        "phone": "8708027147",
+        "email": "jordanhopkins@example.org",
+        "account": {
+            "account_number": "14f16f6d-8ab0-4d98-a73c-e7e063bc2603",
+            "balance": 24125.21,
+            "transactions": [
+                {
+                    "date": "2023-04-14",
+                    "description": "Interest",
+                    "amount": 7940.13,
+                    "transaction_id": 38484960
+                }
+            ]
+        }
+    }
+}

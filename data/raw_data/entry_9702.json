@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 23,
+        "gender": "male",
+        "address": "73078 Nelson Mission, South Josetown, NV 04244",
+        "phone": "(697)404-1319x144",
+        "email": "jodidiaz@example.net",
+        "account": {
+            "account_number": "deab2183-ad6d-41f2-a6b9-96d01299bf5e",
+            "balance": 33867.8,
+            "transactions": [
+                {
+                    "date": "2023-08-19",
+                    "description": "Interest",
+                    "amount": -1316.58,
+                    "transaction_id": 116307642
+                }
+            ]
+        }
+    }
+}

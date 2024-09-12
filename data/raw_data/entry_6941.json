@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "George Hale",
+        "age": 23,
+        "gender": "female",
+        "address": "015 Zachary Mill Apt. 072, East Carlatown, ME 04796",
+        "phone": "797-205-9581",
+        "email": "dawnking@example.net",
+        "account": {
+            "account_number": "e0e9fb8e-824a-4b5c-a0a0-989240d99165",
+            "balance": 21761.87,
+            "transactions": [
+                {
+                    "date": "2023-05-31",
+                    "description": "Withdrawal",
+                    "amount": 12750.6,
+                    "transaction_id": 43405085
+                }
+            ]
+        }
+    }
+}

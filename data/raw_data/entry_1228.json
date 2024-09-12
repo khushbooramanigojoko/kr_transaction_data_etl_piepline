@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lacey Reyes",
+        "age": 64,
+        "gender": "male",
+        "address": "0682 Dalton Wall, Lake Kennethfort, AL 69184",
+        "phone": "+1-319-974-9188x44692",
+        "email": "brandiortega@example.com",
+        "account": {
+            "account_number": "9fae0348-8602-42c3-8c7d-3a708f0b7d7b",
+            "balance": 18736.73,
+            "transactions": [
+                {
+                    "date": "2023-01-25",
+                    "description": "Withdrawal",
+                    "amount": 42573.77,
+                    "transaction_id": 22477149
+                }
+            ]
+        }
+    }
+}

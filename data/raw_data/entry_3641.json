@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joseph Davis",
+        "age": 85,
+        "gender": "female",
+        "address": "01770 Erika Route, Fosterview, UT 44273",
+        "phone": "001-513-503-6933x705",
+        "email": "christina78@example.org",
+        "account": {
+            "account_number": "2f2e3b63-a021-48bf-8d6e-8565ffb57f7f",
+            "balance": 16407.5,
+            "transactions": [
+                {
+                    "date": "2024-02-23",
+                    "description": "Withdrawal",
+                    "amount": 29922.82,
+                    "transaction_id": 35503402
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Interest",
+                    "amount": 4994.26,
+                    "transaction_id": 10871840
+                }
+            ]
+        }
+    }
+}

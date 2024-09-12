@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Williams MD",
+        "age": 56,
+        "gender": "male",
+        "address": "22282 Franco Mountains, Nathanport, WV 04711",
+        "phone": "001-347-799-3793x06838",
+        "email": "jessicagilmore@example.net",
+        "account": {
+            "account_number": "ec0e9b15-5f75-4fb2-a3a1-fa1c77ce8ae8",
+            "balance": 35598.67,
+            "transactions": [
+                {
+                    "date": "2023-06-05",
+                    "description": "Interest",
+                    "amount": 34524.62,
+                    "transaction_id": 45852148
+                },
+                {
+                    "date": "2024-05-04",
+                    "description": "Deposit",
+                    "amount": 40757.09,
+                    "transaction_id": 70511384
+                },
+                {
+                    "date": "2022-11-14",
+                    "description": "Deposit",
+                    "amount": 11306.4,
+                    "transaction_id": 38887649
+                }
+            ]
+        }
+    }
+}

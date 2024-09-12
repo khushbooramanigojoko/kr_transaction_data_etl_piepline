@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 51,
+        "gender": "female",
+        "address": "74152 Annette Meadows Apt. 189, Port Gloria, AK 23166",
+        "phone": "420.315.5422x9142",
+        "email": "jeffrey33@example.net",
+        "account": {
+            "account_number": "c2ec311a-06d2-4d3a-8deb-1a1542905114",
+            "balance": 45605.23,
+            "transactions": [
+                {
+                    "date": "2024-08-13",
+                    "description": "Withdrawal",
+                    "amount": 3307.04,
+                    "transaction_id": 101758528
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Melanie Lucas",
+        "age": 89,
+        "gender": "male",
+        "address": "36443 Morris Station Apt. 731, Josephmouth, PA 85574",
+        "phone": "630.850.4287",
+        "email": "luis96@example.org",
+        "account": {
+            "account_number": "72e6309f-3fbd-4a5b-8053-71315493b6a8",
+            "balance": 28279.97,
+            "transactions": [
+                {
+                    "date": "2024-03-22",
+                    "description": "Deposit",
+                    "amount": 48769.0,
+                    "transaction_id": 84194348
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Interest",
+                    "amount": 42236.96,
+                    "transaction_id": 26940335
+                }
+            ]
+        }
+    }
+}

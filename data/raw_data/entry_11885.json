@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 72,
+        "gender": "male",
+        "address": "59993 Juan Stream Suite 892, North Justin, TX 08726",
+        "phone": "334.563.9620",
+        "email": "comptonandrew@example.org",
+        "account": {
+            "account_number": "ffdcb493-8916-429b-ab91-4177ef295256",
+            "balance": 24786.91,
+            "transactions": [
+                {
+                    "date": "2023-08-04",
+                    "description": "Interest",
+                    "amount": -3911.49,
+                    "transaction_id": 28435187
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Withdrawal",
+                    "amount": -2570.92,
+                    "transaction_id": 45667224
+                },
+                {
+                    "date": "2022-09-27",
+                    "description": "Deposit",
+                    "amount": 3914.44,
+                    "transaction_id": 50858625
+                },
+                {
+                    "date": "2023-03-29",
+                    "description": "Withdrawal",
+                    "amount": 4881.95,
+                    "transaction_id": 65661701
+                }
+            ]
+        }
+    }
+}

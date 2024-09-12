@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sharon Gentry",
+        "age": 57,
+        "gender": "male",
+        "address": "99753 Rebecca Hills Suite 653, Westfurt, WA 81659",
+        "phone": "(336)908-1142x9524",
+        "email": "xsimmons@example.org",
+        "account": {
+            "account_number": "39dd207d-d91f-4fae-91ef-b9ba003a478a",
+            "balance": -26545.72,
+            "transactions": [
+                {
+                    "date": "2024-06-17",
+                    "description": "Withdrawal",
+                    "amount": -3018.84,
+                    "transaction_id": 116285699
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Interest",
+                    "amount": 3377.36,
+                    "transaction_id": 100287965
+                },
+                {
+                    "date": "2024-03-26",
+                    "description": "Deposit",
+                    "amount": 548.16,
+                    "transaction_id": 24895913
+                }
+            ]
+        }
+    }
+}

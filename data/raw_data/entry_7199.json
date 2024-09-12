@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "James Hughes",
+        "age": 36,
+        "gender": "female",
+        "address": "46317 Deborah Square Suite 856, Lake John, WY 38525",
+        "phone": "001-332-883-4331",
+        "email": "usmith@example.com",
+        "account": {
+            "account_number": "3ad55e13-aac9-4403-b5d7-cafa1c5c89f3",
+            "balance": 26653.95,
+            "transactions": [
+                {
+                    "date": "2023-09-15",
+                    "description": "Withdrawal",
+                    "amount": 1123.13,
+                    "transaction_id": 113973719
+                }
+            ]
+        }
+    }
+}

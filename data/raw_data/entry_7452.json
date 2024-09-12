@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Elaine Leach",
+        "age": 61,
+        "gender": "female",
+        "address": "33771 Valenzuela Views Suite 293, Port Taramouth, NH 76698",
+        "phone": "921-655-9385x3608",
+        "email": "frank42@example.org",
+        "account": {
+            "account_number": "c2514da1-9153-4527-8d43-38f21387faaf",
+            "balance": 20093.32,
+            "transactions": [
+                {
+                    "date": "2022-12-11",
+                    "description": "Withdrawal",
+                    "amount": 40825.9,
+                    "transaction_id": 102338188
+                },
+                {
+                    "date": "2023-08-28",
+                    "description": "Withdrawal",
+                    "amount": 26117.26,
+                    "transaction_id": 53732417
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Shelby Short",
+        "age": 73,
+        "gender": "male",
+        "address": "57230 Janice Mountain Apt. 950, Reginaburgh, OH 44519",
+        "phone": "942-962-0641x692",
+        "email": "brian29@example.org",
+        "account": {
+            "account_number": "cc740534-97be-406e-a663-3dc7e2287ebe",
+            "balance": 12499.95,
+            "transactions": [
+                {
+                    "date": "2024-03-11",
+                    "description": "Withdrawal",
+                    "amount": 37459.29,
+                    "transaction_id": 29984876
+                }
+            ]
+        }
+    }
+}

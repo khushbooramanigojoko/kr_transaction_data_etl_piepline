@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 66,
+        "gender": "male",
+        "address": "470 Smith Haven Apt. 259, Lake Tammy, AK 08984",
+        "phone": "(373)696-0573",
+        "email": "jeffrey57@example.org",
+        "account": {
+            "account_number": "20e0c707-0825-4696-93ef-68e2664efe49",
+            "balance": 18347.11,
+            "transactions": [
+                {
+                    "date": "2024-03-19",
+                    "description": "Withdrawal",
+                    "amount": 1906.94,
+                    "transaction_id": 73388408
+                }
+            ]
+        }
+    }
+}

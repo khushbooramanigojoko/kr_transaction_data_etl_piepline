@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kimberly Jackson",
+        "age": 39,
+        "gender": "female",
+        "address": "2543 Fleming Shoals Apt. 420, New Sarahville, CA 34165",
+        "phone": "+1-803-972-1806x75467",
+        "email": "kevinrodriguez@example.com",
+        "account": {
+            "account_number": "f9fe32e6-9259-4f6b-a6e5-41b3e3683bbd",
+            "balance": 29658.6,
+            "transactions": [
+                {
+                    "date": "2024-02-20",
+                    "description": "Deposit",
+                    "amount": 6008.38,
+                    "transaction_id": 39343209
+                },
+                {
+                    "date": "2023-01-20",
+                    "description": "Deposit",
+                    "amount": 19067.75,
+                    "transaction_id": 97442575
+                }
+            ]
+        }
+    }
+}

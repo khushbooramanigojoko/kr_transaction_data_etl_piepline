@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Deborah Gates",
+        "age": 34,
+        "gender": "male",
+        "address": "Unit 3738 Box 4358, DPO AP 58009",
+        "phone": "001-587-852-0756x32624",
+        "email": "vpaul@example.com",
+        "account": {
+            "account_number": "d1348a55-f3a3-48b0-b1ab-f623f6e1c768",
+            "balance": 27157.3,
+            "transactions": [
+                {
+                    "date": "2023-02-03",
+                    "description": "Interest",
+                    "amount": 24794.31,
+                    "transaction_id": 22397055
+                },
+                {
+                    "date": "2023-09-15",
+                    "description": "Withdrawal",
+                    "amount": 9116.54,
+                    "transaction_id": 107008269
+                }
+            ]
+        }
+    }
+}

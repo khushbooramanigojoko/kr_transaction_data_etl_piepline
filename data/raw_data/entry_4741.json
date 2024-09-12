@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sarah Rodriguez",
+        "age": 96,
+        "gender": "male",
+        "address": "49354 Chelsea Drives Suite 512, Matthewstown, SC 81972",
+        "phone": "677-821-0622x83520",
+        "email": "dawn52@example.org",
+        "account": {
+            "account_number": "b0ff6402-bde4-4f21-bb22-2fd47e5d1116",
+            "balance": 19975.77,
+            "transactions": [
+                {
+                    "date": "2022-11-05",
+                    "description": "Deposit",
+                    "amount": 31176.55,
+                    "transaction_id": 81197202
+                },
+                {
+                    "date": "2023-01-29",
+                    "description": "Deposit",
+                    "amount": 33172.85,
+                    "transaction_id": 62467758
+                },
+                {
+                    "date": "2024-04-09",
+                    "description": "Deposit",
+                    "amount": 5172.3,
+                    "transaction_id": 51700606
+                },
+                {
+                    "date": "2024-06-08",
+                    "description": "Interest",
+                    "amount": 46557.12,
+                    "transaction_id": 77351340
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Withdrawal",
+                    "amount": 28730.19,
+                    "transaction_id": 56412516
+                }
+            ]
+        }
+    }
+}

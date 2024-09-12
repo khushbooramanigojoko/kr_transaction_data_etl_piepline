@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 92,
+        "gender": "male",
+        "address": "00255 Joel Vista Suite 900, East Daniel, NY 72842",
+        "phone": "(735)423-0308x098",
+        "email": "jjones@example.net",
+        "account": {
+            "account_number": "8504ca01-8711-40f0-b9f4-cea96ed308f6",
+            "balance": 24425.76,
+            "transactions": [
+                {
+                    "date": "2022-11-20",
+                    "description": "Deposit",
+                    "amount": -4593.48,
+                    "transaction_id": 80561631
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Interest",
+                    "amount": -1661.31,
+                    "transaction_id": 22182806
+                }
+            ]
+        }
+    }
+}

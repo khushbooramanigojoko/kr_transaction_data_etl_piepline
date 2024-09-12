@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Blevins",
+        "age": 62,
+        "gender": "female",
+        "address": "397 Thompson Trail, East Christopher, SD 63748",
+        "phone": "001-661-693-8285",
+        "email": "cody25@example.com",
+        "account": {
+            "account_number": "259df553-1d20-4d0a-bef2-0ad49dd095cb",
+            "balance": 19206.39,
+            "transactions": [
+                {
+                    "date": "2023-08-21",
+                    "description": "Interest",
+                    "amount": 46399.26,
+                    "transaction_id": 103645013
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Interest",
+                    "amount": 32710.0,
+                    "transaction_id": 8755642
+                },
+                {
+                    "date": "2023-01-13",
+                    "description": "Interest",
+                    "amount": 41455.25,
+                    "transaction_id": 16432235
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Deposit",
+                    "amount": 48048.06,
+                    "transaction_id": 97854499
+                }
+            ]
+        }
+    }
+}

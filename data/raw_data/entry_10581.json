@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Spencer Armstrong",
+        "age": 84,
+        "gender": "female",
+        "address": "67410 Abigail Keys Suite 174, Powellmouth, GU 26934",
+        "phone": "+1-643-978-7611x938",
+        "email": "hgarza@example.net",
+        "account": {
+            "account_number": "f43e26f1-5f19-4683-86d1-ba18d0d2e3d4",
+            "balance": -27215.23,
+            "transactions": [
+                {
+                    "date": "2024-01-07",
+                    "description": "Deposit",
+                    "amount": -4172.47,
+                    "transaction_id": 119895046
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Lawrence",
+        "age": 23,
+        "gender": "male",
+        "address": "320 Elizabeth Underpass Apt. 341, Johnsonville, WV 70576",
+        "phone": "(449)588-4727",
+        "email": "rodney38@example.net",
+        "account": {
+            "account_number": "9c955e70-3533-42b5-a4ac-432669cee2bd",
+            "balance": 36704.18,
+            "transactions": [
+                {
+                    "date": "2024-01-03",
+                    "description": "Deposit",
+                    "amount": 43455.54,
+                    "transaction_id": 25439991
+                },
+                {
+                    "date": "2024-04-19",
+                    "description": "Withdrawal",
+                    "amount": 48213.59,
+                    "transaction_id": 20269028
+                }
+            ]
+        }
+    }
+}

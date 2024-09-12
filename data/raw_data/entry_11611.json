@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Patricia Vazquez",
+        "age": 68,
+        "gender": "female",
+        "address": "1690 Campbell Plain, Kimberlyside, FM 03141",
+        "phone": "(382)352-9104x22396",
+        "email": "timothy20@example.org",
+        "account": {
+            "account_number": "4784f514-eca8-4fa3-a48f-1420542ab862",
+            "balance": -36795.27,
+            "transactions": [
+                {
+                    "date": "2024-07-01",
+                    "description": "Deposit",
+                    "amount": 3105.89,
+                    "transaction_id": 98968941
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Interest",
+                    "amount": 612.01,
+                    "transaction_id": 19337913
+                },
+                {
+                    "date": "2024-01-18",
+                    "description": "Withdrawal",
+                    "amount": -2785.92,
+                    "transaction_id": 111554985
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Withdrawal",
+                    "amount": 4628.04,
+                    "transaction_id": 96906052
+                }
+            ]
+        }
+    }
+}

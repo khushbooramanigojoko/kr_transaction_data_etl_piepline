@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kelli Thomas",
+        "age": 44,
+        "gender": "male",
+        "address": "0678 Raven Garden Apt. 694, South Daniel, MI 85648",
+        "phone": "9442769656",
+        "email": "brooksandrea@example.org",
+        "account": {
+            "account_number": "ab4cee3e-5996-4b6e-bf45-1860529dc8a9",
+            "balance": -48642.41,
+            "transactions": [
+                {
+                    "date": "2023-09-01",
+                    "description": "Interest",
+                    "amount": 3317.9,
+                    "transaction_id": 4691885
+                }
+            ]
+        }
+    }
+}

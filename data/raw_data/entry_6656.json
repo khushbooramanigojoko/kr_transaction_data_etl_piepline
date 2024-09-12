@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Robert Wilcox",
+        "age": 62,
+        "gender": "female",
+        "address": "4605 April Mission Apt. 568, Johnnyshire, MT 72990",
+        "phone": "+1-826-922-2409x515",
+        "email": "jennifer30@example.net",
+        "account": {
+            "account_number": "0d28c06e-f5d3-4793-990e-4a7773bf5845",
+            "balance": 40506.12,
+            "transactions": [
+                {
+                    "date": "2023-03-22",
+                    "description": "Withdrawal",
+                    "amount": 18169.17,
+                    "transaction_id": 70964021
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Withdrawal",
+                    "amount": 39227.17,
+                    "transaction_id": 115273666
+                },
+                {
+                    "date": "2024-01-31",
+                    "description": "Interest",
+                    "amount": 33953.62,
+                    "transaction_id": 115607241
+                }
+            ]
+        }
+    }
+}

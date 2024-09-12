@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 81,
+        "gender": "female",
+        "address": "5714 Moody Summit Suite 262, Meyersmouth, ID 02770",
+        "phone": "542-382-7128x2817",
+        "email": "hernandezcolton@example.org",
+        "account": {
+            "account_number": "fb06f529-00ee-4d63-b593-0661f45b4f73",
+            "balance": 20348.46,
+            "transactions": [
+                {
+                    "date": "2022-09-21",
+                    "description": "Interest",
+                    "amount": 4609.32,
+                    "transaction_id": 119135611
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Interest",
+                    "amount": 1716.62,
+                    "transaction_id": 50911714
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Withdrawal",
+                    "amount": 176.42,
+                    "transaction_id": 62489128
+                },
+                {
+                    "date": "2024-02-05",
+                    "description": "Deposit",
+                    "amount": 802.97,
+                    "transaction_id": 44369663
+                }
+            ]
+        }
+    }
+}

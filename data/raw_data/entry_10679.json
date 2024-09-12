@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 63,
+        "gender": "female",
+        "address": "USNS Johnson, FPO AP 69196",
+        "phone": "001-431-318-8309x006",
+        "email": "casejoshua@example.com",
+        "account": {
+            "account_number": "1295d7bc-0eb5-4129-9a25-640c589ce26e",
+            "balance": 31834.16,
+            "transactions": [
+                {
+                    "date": "2024-01-24",
+                    "description": "Deposit",
+                    "amount": 2279.21,
+                    "transaction_id": 1220545
+                }
+            ]
+        }
+    }
+}

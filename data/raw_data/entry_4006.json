@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Melinda Sanders",
+        "age": 41,
+        "gender": "female",
+        "address": "11871 Brandon Ports Apt. 398, Masonton, IA 06055",
+        "phone": "(981)846-6771x26120",
+        "email": "carriejackson@example.net",
+        "account": {
+            "account_number": "2ac521d9-cbff-4b04-87ff-7f6fef3dcce8",
+            "balance": 21242.11,
+            "transactions": [
+                {
+                    "date": "2023-01-26",
+                    "description": "Withdrawal",
+                    "amount": 6088.89,
+                    "transaction_id": 48413821
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Interest",
+                    "amount": 48624.63,
+                    "transaction_id": 70460493
+                },
+                {
+                    "date": "2023-03-30",
+                    "description": "Deposit",
+                    "amount": 34529.72,
+                    "transaction_id": 1268478
+                },
+                {
+                    "date": "2024-08-22",
+                    "description": "Interest",
+                    "amount": 3073.02,
+                    "transaction_id": 104787157
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 91,
+        "gender": "female",
+        "address": "7555 Lane Brook, New Luis, IN 87070",
+        "phone": "001-767-966-2837",
+        "email": "jamie75@example.com",
+        "account": {
+            "account_number": "57bbb55e-99d7-4e37-9a64-d342b164c101",
+            "balance": 12144.11,
+            "transactions": [
+                {
+                    "date": "2023-07-25",
+                    "description": "Interest",
+                    "amount": -4061.82,
+                    "transaction_id": 80182997
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Interest",
+                    "amount": 1380.94,
+                    "transaction_id": 57541025
+                },
+                {
+                    "date": "2023-03-05",
+                    "description": "Withdrawal",
+                    "amount": 4011.13,
+                    "transaction_id": 113707361
+                }
+            ]
+        }
+    }
+}

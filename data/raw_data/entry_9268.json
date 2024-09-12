@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 64,
+        "gender": "female",
+        "address": "970 Rebecca Throughway, Latoyaland, OR 97920",
+        "phone": "616-687-7200",
+        "email": "cjohnson@example.net",
+        "account": {
+            "account_number": "8f365537-e872-4f8a-a660-66dcfcc84686",
+            "balance": 37788.14,
+            "transactions": [
+                {
+                    "date": "2022-10-06",
+                    "description": "Interest",
+                    "amount": -590.51,
+                    "transaction_id": 76105082
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Withdrawal",
+                    "amount": -1930.45,
+                    "transaction_id": 6723729
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Deposit",
+                    "amount": -1544.9,
+                    "transaction_id": 85204302
+                },
+                {
+                    "date": "2024-07-26",
+                    "description": "Withdrawal",
+                    "amount": -4578.83,
+                    "transaction_id": 110978865
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Interest",
+                    "amount": -3214.96,
+                    "transaction_id": 85234579
+                }
+            ]
+        }
+    }
+}

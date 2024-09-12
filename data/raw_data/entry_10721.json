@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Erica Mcconnell",
+        "age": 77,
+        "gender": "female",
+        "address": "9694 Ross Spur, Kellychester, ID 41333",
+        "phone": "378-842-2865",
+        "email": "paullewis@example.com",
+        "account": {
+            "account_number": "760cc963-ff1f-4cd7-8385-6e1fdb1e5310",
+            "balance": -40001.1,
+            "transactions": [
+                {
+                    "date": "2024-07-31",
+                    "description": "Withdrawal",
+                    "amount": -1141.18,
+                    "transaction_id": 107551842
+                }
+            ]
+        }
+    }
+}

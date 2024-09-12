@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Laurie Bonilla",
+        "age": 82,
+        "gender": "male",
+        "address": "USS Harris, FPO AP 12435",
+        "phone": "315-907-7503x739",
+        "email": "miranda40@example.com",
+        "account": {
+            "account_number": "15b47f07-f52d-4855-8959-8c24b918a8f6",
+            "balance": 14699.94,
+            "transactions": [
+                {
+                    "date": "2024-06-17",
+                    "description": "Withdrawal",
+                    "amount": 24724.13,
+                    "transaction_id": 9070357
+                },
+                {
+                    "date": "2023-01-15",
+                    "description": "Interest",
+                    "amount": 44774.37,
+                    "transaction_id": 83407923
+                },
+                {
+                    "date": "2023-03-19",
+                    "description": "Withdrawal",
+                    "amount": 19619.72,
+                    "transaction_id": 27419704
+                },
+                {
+                    "date": "2024-07-18",
+                    "description": "Withdrawal",
+                    "amount": 8093.08,
+                    "transaction_id": 8175856
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joseph Potts",
+        "age": 29,
+        "gender": "female",
+        "address": "957 Danielle Branch, North Jacquelineland, WA 03329",
+        "phone": "341.678.2272",
+        "email": "brockryan@example.net",
+        "account": {
+            "account_number": "296c5d90-bf53-434c-9284-d53fe9f130eb",
+            "balance": 39542.57,
+            "transactions": [
+                {
+                    "date": "2024-06-17",
+                    "description": "Interest",
+                    "amount": 27425.19,
+                    "transaction_id": 99876423
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Paula Hughes MD",
+        "age": 71,
+        "gender": "female",
+        "address": "84397 Gallegos Bridge Apt. 427, East Laurie, CA 75726",
+        "phone": "247.369.7088",
+        "email": "jamespatricia@example.org",
+        "account": {
+            "account_number": "f36ed83e-2398-4292-8e1b-7738ad6b0138",
+            "balance": 35318.55,
+            "transactions": [
+                {
+                    "date": "2023-06-29",
+                    "description": "Withdrawal",
+                    "amount": 37856.76,
+                    "transaction_id": 105264179
+                },
+                {
+                    "date": "2023-10-08",
+                    "description": "Withdrawal",
+                    "amount": 47130.5,
+                    "transaction_id": 77175780
+                }
+            ]
+        }
+    }
+}

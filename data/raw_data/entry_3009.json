@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Karen Schmidt",
+        "age": 98,
+        "gender": "female",
+        "address": "2795 Castro Mountains Apt. 078, Port Mark, WA 18671",
+        "phone": "350-236-9718x505",
+        "email": "yphillips@example.net",
+        "account": {
+            "account_number": "c2f60b86-17bb-4508-b3df-79de731c6b9e",
+            "balance": 11244.3,
+            "transactions": [
+                {
+                    "date": "2024-05-01",
+                    "description": "Deposit",
+                    "amount": 22369.48,
+                    "transaction_id": 56644913
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Withdrawal",
+                    "amount": 19960.44,
+                    "transaction_id": 5531620
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Deposit",
+                    "amount": 20125.81,
+                    "transaction_id": 113581681
+                },
+                {
+                    "date": "2024-03-10",
+                    "description": "Withdrawal",
+                    "amount": 30651.64,
+                    "transaction_id": 52622080
+                },
+                {
+                    "date": "2024-03-29",
+                    "description": "Deposit",
+                    "amount": 39479.44,
+                    "transaction_id": 28376851
+                }
+            ]
+        }
+    }
+}

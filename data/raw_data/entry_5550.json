@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Angela Taylor",
+        "age": 88,
+        "gender": "female",
+        "address": "5062 Solis Valleys Apt. 698, Lake Shirleyberg, ME 24377",
+        "phone": "+1-985-827-2547x675",
+        "email": "dstokes@example.org",
+        "account": {
+            "account_number": "dbb32ee6-78b7-427f-b3de-c818832a6e00",
+            "balance": 46997.77,
+            "transactions": [
+                {
+                    "date": "2023-12-22",
+                    "description": "Withdrawal",
+                    "amount": 11630.17,
+                    "transaction_id": 105780185
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Deposit",
+                    "amount": 22265.3,
+                    "transaction_id": 61887933
+                },
+                {
+                    "date": "2024-01-06",
+                    "description": "Withdrawal",
+                    "amount": 8307.21,
+                    "transaction_id": 86300503
+                }
+            ]
+        }
+    }
+}

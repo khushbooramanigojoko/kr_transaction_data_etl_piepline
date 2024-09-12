@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christopher Snyder",
+        "age": 50,
+        "gender": "female",
+        "address": "9831 Rasmussen Ports, Lake Jasonmouth, ND 81381",
+        "phone": "897.700.7608x597",
+        "email": "melindahubbard@example.com",
+        "account": {
+            "account_number": "6769454f-ceac-4635-81ff-49db566940db",
+            "balance": -9621.16,
+            "transactions": [
+                {
+                    "date": "2023-06-08",
+                    "description": "Deposit",
+                    "amount": 67.0,
+                    "transaction_id": 71127363
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Interest",
+                    "amount": 4071.6,
+                    "transaction_id": 107274139
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Annette Barrera",
+        "age": 77,
+        "gender": "male",
+        "address": "64610 Adrian Mews Suite 229, Brownshire, CO 05216",
+        "phone": "001-436-487-0614x584",
+        "email": "melissa68@example.org",
+        "account": {
+            "account_number": "329c1609-1978-4349-b7aa-111c7d640928",
+            "balance": -24085.04,
+            "transactions": [
+                {
+                    "date": "2023-08-27",
+                    "description": "Interest",
+                    "amount": -1211.28,
+                    "transaction_id": 64831994
+                }
+            ]
+        }
+    }
+}

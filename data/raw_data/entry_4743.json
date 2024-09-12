@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Eric Lucas",
+        "age": 93,
+        "gender": "female",
+        "address": "35629 Smith Junction Apt. 297, East Mistyland, ME 22276",
+        "phone": "(626)529-8233x3486",
+        "email": "kellypugh@example.net",
+        "account": {
+            "account_number": "74ef35b8-7041-4240-b516-111ff3d7ce70",
+            "balance": 45734.71,
+            "transactions": [
+                {
+                    "date": "2023-12-21",
+                    "description": "Deposit",
+                    "amount": 42168.35,
+                    "transaction_id": 26870405
+                },
+                {
+                    "date": "2024-03-30",
+                    "description": "Withdrawal",
+                    "amount": 22654.65,
+                    "transaction_id": 66669635
+                },
+                {
+                    "date": "2024-07-19",
+                    "description": "Deposit",
+                    "amount": 20989.71,
+                    "transaction_id": 94609192
+                }
+            ]
+        }
+    }
+}

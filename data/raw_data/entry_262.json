@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Watson",
+        "age": 91,
+        "gender": "male",
+        "address": "220 Patton Springs Apt. 858, Cabrerashire, ND 67632",
+        "phone": "992-711-6661x45466",
+        "email": "robertperez@example.org",
+        "account": {
+            "account_number": "0575f4e5-afcf-418d-b009-af856c99cc9c",
+            "balance": 21687.06,
+            "transactions": [
+                {
+                    "date": "2024-02-01",
+                    "description": "Withdrawal",
+                    "amount": 27598.92,
+                    "transaction_id": 84184234
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Interest",
+                    "amount": 36580.48,
+                    "transaction_id": 70493246
+                },
+                {
+                    "date": "2022-09-23",
+                    "description": "Withdrawal",
+                    "amount": 4257.34,
+                    "transaction_id": 6784357
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Deposit",
+                    "amount": 11296.99,
+                    "transaction_id": 2207869
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Withdrawal",
+                    "amount": 48144.17,
+                    "transaction_id": 38192999
+                }
+            ]
+        }
+    }
+}

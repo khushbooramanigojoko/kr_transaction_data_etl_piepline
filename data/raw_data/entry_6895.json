@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Robert Schneider",
+        "age": 24,
+        "gender": "female",
+        "address": "USNS Porter, FPO AA 96095",
+        "phone": "821.269.4800",
+        "email": "ashleysmith@example.net",
+        "account": {
+            "account_number": "85c5f922-dc25-4f90-8f0d-2b3d64cec1c1",
+            "balance": 15314.0,
+            "transactions": [
+                {
+                    "date": "2023-09-15",
+                    "description": "Interest",
+                    "amount": 12018.19,
+                    "transaction_id": 36969566
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Deposit",
+                    "amount": 32990.99,
+                    "transaction_id": 112795213
+                },
+                {
+                    "date": "2022-09-09",
+                    "description": "Deposit",
+                    "amount": 35229.67,
+                    "transaction_id": 31472341
+                },
+                {
+                    "date": "2023-07-21",
+                    "description": "Withdrawal",
+                    "amount": 927.18,
+                    "transaction_id": 43575222
+                }
+            ]
+        }
+    }
+}

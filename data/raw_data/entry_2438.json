@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Chad Morris MD",
+        "age": 66,
+        "gender": "male",
+        "address": "71697 James Stream Apt. 409, Jacksonview, WV 31954",
+        "phone": "001-752-763-6962x921",
+        "email": "srivera@example.com",
+        "account": {
+            "account_number": "bb81bed3-c59a-4f27-b979-ae457bfd57f5",
+            "balance": 2745.43,
+            "transactions": [
+                {
+                    "date": "2024-01-15",
+                    "description": "Deposit",
+                    "amount": 22085.48,
+                    "transaction_id": 49329042
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Withdrawal",
+                    "amount": 18280.49,
+                    "transaction_id": 14686994
+                }
+            ]
+        }
+    }
+}

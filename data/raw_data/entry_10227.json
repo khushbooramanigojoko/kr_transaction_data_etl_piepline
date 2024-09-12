@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Robertson",
+        "age": 93,
+        "gender": "female",
+        "address": "USS Wade, FPO AA 87761",
+        "phone": "001-709-289-4494x3409",
+        "email": "dhawkins@example.com",
+        "account": {
+            "account_number": "baad2233-2be2-4376-a022-443eeaf4f725",
+            "balance": -978.79,
+            "transactions": [
+                {
+                    "date": "2024-07-08",
+                    "description": "Withdrawal",
+                    "amount": -3877.61,
+                    "transaction_id": 27601771
+                },
+                {
+                    "date": "2022-09-16",
+                    "description": "Withdrawal",
+                    "amount": -3677.11,
+                    "transaction_id": 67866823
+                }
+            ]
+        }
+    }
+}

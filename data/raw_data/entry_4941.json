@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amanda Larson",
+        "age": 40,
+        "gender": "female",
+        "address": "00012 Brock Hollow, South Dianefort, AR 48463",
+        "phone": "235-427-5565",
+        "email": "gblair@example.com",
+        "account": {
+            "account_number": "eca87ed1-63c7-4639-926f-deeb981ab897",
+            "balance": 48750.66,
+            "transactions": [
+                {
+                    "date": "2023-06-25",
+                    "description": "Deposit",
+                    "amount": 9858.75,
+                    "transaction_id": 101427836
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Interest",
+                    "amount": 19713.25,
+                    "transaction_id": 26140372
+                }
+            ]
+        }
+    }
+}

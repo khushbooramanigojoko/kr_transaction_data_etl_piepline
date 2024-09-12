@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 24,
+        "gender": "female",
+        "address": "3087 Stanley Shores, Lake Claytonland, PR 26383",
+        "phone": "638.311.3321x5646",
+        "email": "kpayne@example.net",
+        "account": {
+            "account_number": "f2f3b147-a3e5-47a1-8f3e-f76452dceca7",
+            "balance": 18232.0,
+            "transactions": [
+                {
+                    "date": "2023-02-19",
+                    "description": "Withdrawal",
+                    "amount": -1426.63,
+                    "transaction_id": 14166080
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Withdrawal",
+                    "amount": 4335.18,
+                    "transaction_id": 60871829
+                }
+            ]
+        }
+    }
+}

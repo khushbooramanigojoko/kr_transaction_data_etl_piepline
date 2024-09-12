@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "David Jacobs",
+        "age": 31,
+        "gender": "male",
+        "address": "7205 Romero Point, North Michaelmouth, VI 46714",
+        "phone": "367.220.2893",
+        "email": "tharmon@example.org",
+        "account": {
+            "account_number": "1bf18ce3-0a0f-41dd-b49c-2929226da510",
+            "balance": 44264.27,
+            "transactions": [
+                {
+                    "date": "2024-07-20",
+                    "description": "Deposit",
+                    "amount": 21059.69,
+                    "transaction_id": 97234542
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Deposit",
+                    "amount": 30612.59,
+                    "transaction_id": 60158768
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Withdrawal",
+                    "amount": 9522.49,
+                    "transaction_id": 52792311
+                }
+            ]
+        }
+    }
+}

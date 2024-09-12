@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ronald Garrett",
+        "age": 80,
+        "gender": "male",
+        "address": "2457 Justin Inlet Suite 958, Bethanymouth, KY 26872",
+        "phone": "260-476-6519x5270",
+        "email": "kporter@example.net",
+        "account": {
+            "account_number": "c7ad160e-313e-4c80-a19c-82bb0256468e",
+            "balance": 45221.86,
+            "transactions": [
+                {
+                    "date": "2024-02-22",
+                    "description": "Deposit",
+                    "amount": 27139.74,
+                    "transaction_id": 42039215
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Withdrawal",
+                    "amount": 18410.86,
+                    "transaction_id": 21944318
+                }
+            ]
+        }
+    }
+}

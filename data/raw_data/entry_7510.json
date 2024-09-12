@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amber Porter",
+        "age": 46,
+        "gender": "female",
+        "address": "06154 Michelle Forges Apt. 524, North Christianton, MP 16710",
+        "phone": "435.619.0766x4045",
+        "email": "mike41@example.net",
+        "account": {
+            "account_number": "cc7fd2f6-55e0-4908-8b10-10784b4b651c",
+            "balance": 17405.91,
+            "transactions": [
+                {
+                    "date": "2024-05-06",
+                    "description": "Withdrawal",
+                    "amount": 25368.66,
+                    "transaction_id": 2120604
+                }
+            ]
+        }
+    }
+}

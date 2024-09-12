@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Debbie Everett",
+        "age": 23,
+        "gender": "male",
+        "address": "13897 Wright Ports Suite 914, Laurentown, MA 20069",
+        "phone": "596-377-1051x109",
+        "email": "kelly26@example.net",
+        "account": {
+            "account_number": "c6a12636-9bd8-4f2d-97b4-71078b00d008",
+            "balance": 18934.41,
+            "transactions": [
+                {
+                    "date": "2023-12-29",
+                    "description": "Withdrawal",
+                    "amount": 33176.17,
+                    "transaction_id": 26163513
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Leslie Mcdonald",
+        "age": 93,
+        "gender": "male",
+        "address": "686 Odom Shores, North Brianborough, CO 18863",
+        "phone": "(853)676-1869x5974",
+        "email": "miguelbennett@example.org",
+        "account": {
+            "account_number": "969106ea-b000-4251-a6b5-b969edd68e24",
+            "balance": -23965.41,
+            "transactions": [
+                {
+                    "date": "2022-10-05",
+                    "description": "Interest",
+                    "amount": -992.36,
+                    "transaction_id": 49117632
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Interest",
+                    "amount": 1424.35,
+                    "transaction_id": 51319934
+                },
+                {
+                    "date": "2022-11-07",
+                    "description": "Deposit",
+                    "amount": -933.89,
+                    "transaction_id": 41709100
+                },
+                {
+                    "date": "2023-09-19",
+                    "description": "Interest",
+                    "amount": -2985.99,
+                    "transaction_id": 26345193
+                },
+                {
+                    "date": "2024-01-23",
+                    "description": "Interest",
+                    "amount": 3015.92,
+                    "transaction_id": 111483974
+                }
+            ]
+        }
+    }
+}

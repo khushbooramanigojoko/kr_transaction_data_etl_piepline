@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Timothy Mcintyre",
+        "age": 72,
+        "gender": "female",
+        "address": "186 Mejia Plaza Apt. 686, Lestermouth, AS 33255",
+        "phone": "531.324.5219x6582",
+        "email": "yday@example.org",
+        "account": {
+            "account_number": "bb285440-f5ec-4c77-9875-6dc084c834fe",
+            "balance": 16243.66,
+            "transactions": [
+                {
+                    "date": "2023-12-22",
+                    "description": "Withdrawal",
+                    "amount": 2772.4,
+                    "transaction_id": 2339293
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Withdrawal",
+                    "amount": 39904.08,
+                    "transaction_id": 59514864
+                },
+                {
+                    "date": "2023-05-07",
+                    "description": "Interest",
+                    "amount": 21350.01,
+                    "transaction_id": 32897766
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Interest",
+                    "amount": 37497.77,
+                    "transaction_id": 29555788
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Withdrawal",
+                    "amount": 22911.26,
+                    "transaction_id": 74730742
+                }
+            ]
+        }
+    }
+}

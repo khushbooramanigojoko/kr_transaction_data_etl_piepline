@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kirsten Calderon",
+        "age": 41,
+        "gender": "male",
+        "address": "6182 Ruth Avenue Apt. 769, Kimberlyport, AK 83974",
+        "phone": "398.870.2697x7051",
+        "email": "kevinjordan@example.net",
+        "account": {
+            "account_number": "3e850435-cdbf-4fb0-a5f6-701aa3ad673f",
+            "balance": 1958.14,
+            "transactions": [
+                {
+                    "date": "2024-07-23",
+                    "description": "Interest",
+                    "amount": 42174.1,
+                    "transaction_id": 111359997
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Interest",
+                    "amount": 34468.41,
+                    "transaction_id": 72343539
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Withdrawal",
+                    "amount": 7223.4,
+                    "transaction_id": 25228432
+                },
+                {
+                    "date": "2024-04-13",
+                    "description": "Deposit",
+                    "amount": 26890.34,
+                    "transaction_id": 106925357
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Withdrawal",
+                    "amount": 7259.14,
+                    "transaction_id": 119426946
+                }
+            ]
+        }
+    }
+}

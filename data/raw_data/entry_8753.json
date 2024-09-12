@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "John Morris",
+        "age": 92,
+        "gender": "male",
+        "address": "9928 Barr Center Suite 143, Lake Samuel, FM 94060",
+        "phone": "205-226-6633",
+        "email": "rsnyder@example.com",
+        "account": {
+            "account_number": "84163c83-7a5d-4f79-b0bb-a19bd674c4bc",
+            "balance": -48846.92,
+            "transactions": [
+                {
+                    "date": "2023-01-17",
+                    "description": "Withdrawal",
+                    "amount": 4403.73,
+                    "transaction_id": 23712789
+                },
+                {
+                    "date": "2023-05-05",
+                    "description": "Interest",
+                    "amount": -1410.81,
+                    "transaction_id": 68874698
+                }
+            ]
+        }
+    }
+}

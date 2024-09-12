@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jeffrey Moore",
+        "age": 90,
+        "gender": "male",
+        "address": "9975 Hannah Squares Suite 526, Port Ronnieland, ME 70743",
+        "phone": "001-480-663-4319x342",
+        "email": "kevin58@example.net",
+        "account": {
+            "account_number": "cf65ab69-d0fc-4f2b-a289-6a8a94506e2f",
+            "balance": 30861.04,
+            "transactions": [
+                {
+                    "date": "2023-05-11",
+                    "description": "Interest",
+                    "amount": 14453.11,
+                    "transaction_id": 82323820
+                },
+                {
+                    "date": "2022-09-16",
+                    "description": "Interest",
+                    "amount": 10578.97,
+                    "transaction_id": 13513811
+                },
+                {
+                    "date": "2024-05-20",
+                    "description": "Interest",
+                    "amount": 41495.32,
+                    "transaction_id": 37054808
+                },
+                {
+                    "date": "2023-10-22",
+                    "description": "Interest",
+                    "amount": 26814.88,
+                    "transaction_id": 102721272
+                }
+            ]
+        }
+    }
+}

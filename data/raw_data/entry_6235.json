@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lisa Pearson",
+        "age": 86,
+        "gender": "male",
+        "address": "79075 Scott Ridge, East Michaelfort, NH 34214",
+        "phone": "+1-979-378-0998x55161",
+        "email": "johnmcguire@example.com",
+        "account": {
+            "account_number": "0621d4cd-5ba2-4b8d-95c6-4b001085e40e",
+            "balance": 22660.13,
+            "transactions": [
+                {
+                    "date": "2023-12-21",
+                    "description": "Withdrawal",
+                    "amount": 49017.39,
+                    "transaction_id": 64401917
+                }
+            ]
+        }
+    }
+}

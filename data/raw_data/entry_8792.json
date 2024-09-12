@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Scott Moore",
+        "age": 67,
+        "gender": "male",
+        "address": "8138 Nicole Inlet Suite 857, Rebeccaport, MP 78521",
+        "phone": "9494506301",
+        "email": "hsmith@example.org",
+        "account": {
+            "account_number": "8d295cd8-719d-4ff5-a84c-aa5ca821c512",
+            "balance": -23455.17,
+            "transactions": [
+                {
+                    "date": "2024-03-20",
+                    "description": "Deposit",
+                    "amount": 4635.79,
+                    "transaction_id": 57293570
+                },
+                {
+                    "date": "2023-09-28",
+                    "description": "Deposit",
+                    "amount": 4473.13,
+                    "transaction_id": 110668628
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Withdrawal",
+                    "amount": -172.42,
+                    "transaction_id": 115996710
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Interest",
+                    "amount": -2909.83,
+                    "transaction_id": 22824788
+                }
+            ]
+        }
+    }
+}

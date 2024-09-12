@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nicholas Wilson",
+        "age": 38,
+        "gender": "female",
+        "address": "205 Carrie Crossroad, Kristinefurt, WV 89861",
+        "phone": "(775)618-4430",
+        "email": "walkervalerie@example.com",
+        "account": {
+            "account_number": "8407e976-58e3-4c05-a757-81cfaa838db6",
+            "balance": 5950.09,
+            "transactions": [
+                {
+                    "date": "2023-05-08",
+                    "description": "Withdrawal",
+                    "amount": 30310.53,
+                    "transaction_id": 66899082
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Deposit",
+                    "amount": 2486.56,
+                    "transaction_id": 46738616
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Interest",
+                    "amount": 4682.06,
+                    "transaction_id": 72734244
+                },
+                {
+                    "date": "2024-01-30",
+                    "description": "Interest",
+                    "amount": 10630.27,
+                    "transaction_id": 20257180
+                },
+                {
+                    "date": "2023-02-27",
+                    "description": "Interest",
+                    "amount": 34372.59,
+                    "transaction_id": 21775260
+                }
+            ]
+        }
+    }
+}

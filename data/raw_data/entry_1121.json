@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dean Austin",
+        "age": 78,
+        "gender": "female",
+        "address": "9163 Steven Landing Suite 105, Tonyport, DE 83802",
+        "phone": "(934)565-3720x42199",
+        "email": "ilee@example.org",
+        "account": {
+            "account_number": "e8ebe3c7-b67d-43ad-a988-ce5aa6378ff5",
+            "balance": 31500.66,
+            "transactions": [
+                {
+                    "date": "2023-06-23",
+                    "description": "Deposit",
+                    "amount": 36301.09,
+                    "transaction_id": 31655955
+                }
+            ]
+        }
+    }
+}

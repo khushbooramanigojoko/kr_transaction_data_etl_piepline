@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Megan Smith",
+        "age": 69,
+        "gender": "male",
+        "address": "6635 Hannah Rue Suite 497, East Jonathanbury, NH 48691",
+        "phone": "001-606-452-5828x61100",
+        "email": "petergreene@example.net",
+        "account": {
+            "account_number": "9efc2f40-4579-4f65-8b98-2cc39493520b",
+            "balance": 14659.34,
+            "transactions": [
+                {
+                    "date": "2023-01-12",
+                    "description": "Deposit",
+                    "amount": 29358.45,
+                    "transaction_id": 42331807
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Deposit",
+                    "amount": 40752.2,
+                    "transaction_id": 117743725
+                }
+            ]
+        }
+    }
+}

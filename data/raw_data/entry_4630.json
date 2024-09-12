@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Anne Proctor",
+        "age": 87,
+        "gender": "male",
+        "address": "443 Nicholas Grove, Port Dwaynechester, GA 29381",
+        "phone": "828-239-0274x408",
+        "email": "wdudley@example.org",
+        "account": {
+            "account_number": "8622c1e7-3ed6-4a33-a8e2-982cda7b8292",
+            "balance": 2592.57,
+            "transactions": [
+                {
+                    "date": "2023-07-24",
+                    "description": "Deposit",
+                    "amount": 24244.2,
+                    "transaction_id": 19660102
+                },
+                {
+                    "date": "2024-05-04",
+                    "description": "Deposit",
+                    "amount": 46782.12,
+                    "transaction_id": 90056911
+                },
+                {
+                    "date": "2023-04-09",
+                    "description": "Withdrawal",
+                    "amount": 1338.13,
+                    "transaction_id": 61045016
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Deposit",
+                    "amount": 27286.28,
+                    "transaction_id": 5218326
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Withdrawal",
+                    "amount": 1060.77,
+                    "transaction_id": 38244266
+                }
+            ]
+        }
+    }
+}

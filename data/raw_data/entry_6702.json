@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tammy Pierce",
+        "age": 93,
+        "gender": "female",
+        "address": "0280 Erickson Drive Suite 212, West Davidport, WV 43617",
+        "phone": "+1-878-699-5968",
+        "email": "chelseaschneider@example.com",
+        "account": {
+            "account_number": "4d1d46de-e08b-4e32-9887-15cdd990d6c7",
+            "balance": 6240.16,
+            "transactions": [
+                {
+                    "date": "2024-03-02",
+                    "description": "Interest",
+                    "amount": 34230.7,
+                    "transaction_id": 42799000
+                },
+                {
+                    "date": "2023-07-04",
+                    "description": "Deposit",
+                    "amount": 25938.2,
+                    "transaction_id": 98816183
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Interest",
+                    "amount": 12610.23,
+                    "transaction_id": 88899684
+                }
+            ]
+        }
+    }
+}

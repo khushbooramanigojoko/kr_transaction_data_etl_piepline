@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 24,
+        "gender": "female",
+        "address": "49362 Matthew Rue Apt. 411, West Suzanneborough, SD 33700",
+        "phone": "+1-735-255-0271x645",
+        "email": "nmarshall@example.com",
+        "account": {
+            "account_number": "9ffd3e3f-50f4-4ffd-a7b6-baafa5972eb6",
+            "balance": 28978.99,
+            "transactions": [
+                {
+                    "date": "2023-02-28",
+                    "description": "Interest",
+                    "amount": 2973.43,
+                    "transaction_id": 81212719
+                }
+            ]
+        }
+    }
+}

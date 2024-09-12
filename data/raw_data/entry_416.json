@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Phillips",
+        "age": 18,
+        "gender": "male",
+        "address": "7577 Sheila Forge Apt. 844, Adamsside, MD 36972",
+        "phone": "+1-502-490-4543",
+        "email": "margaretray@example.com",
+        "account": {
+            "account_number": "fae52a23-444a-40a4-b288-1b66ef43c2db",
+            "balance": 33819.8,
+            "transactions": [
+                {
+                    "date": "2024-08-27",
+                    "description": "Deposit",
+                    "amount": 4120.59,
+                    "transaction_id": 19389062
+                },
+                {
+                    "date": "2024-03-12",
+                    "description": "Interest",
+                    "amount": 47781.25,
+                    "transaction_id": 14542566
+                },
+                {
+                    "date": "2024-08-24",
+                    "description": "Interest",
+                    "amount": 37066.94,
+                    "transaction_id": 73485974
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Withdrawal",
+                    "amount": 11407.25,
+                    "transaction_id": 78097844
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Withdrawal",
+                    "amount": 35211.72,
+                    "transaction_id": 66874493
+                }
+            ]
+        }
+    }
+}

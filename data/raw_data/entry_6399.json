@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lauren Herman",
+        "age": 81,
+        "gender": "female",
+        "address": "Unit 3854 Box 4487, DPO AA 17022",
+        "phone": "(207)326-9065x50073",
+        "email": "hsparks@example.com",
+        "account": {
+            "account_number": "d203df77-912f-4ff5-b7fb-10e4d6178e75",
+            "balance": 13614.25,
+            "transactions": [
+                {
+                    "date": "2023-01-05",
+                    "description": "Withdrawal",
+                    "amount": 8763.52,
+                    "transaction_id": 23292542
+                }
+            ]
+        }
+    }
+}

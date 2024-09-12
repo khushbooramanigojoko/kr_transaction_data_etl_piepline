@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kimberly Blanchard",
+        "age": 82,
+        "gender": "male",
+        "address": "397 Jonathon Pike Suite 411, Lake Brendastad, WY 70045",
+        "phone": "569.564.3979",
+        "email": "rmichael@example.com",
+        "account": {
+            "account_number": "b7c862a0-1898-4751-919d-3a4f9e370a9f",
+            "balance": 33648.68,
+            "transactions": [
+                {
+                    "date": "2023-06-15",
+                    "description": "Interest",
+                    "amount": 19027.81,
+                    "transaction_id": 79211819
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Interest",
+                    "amount": 14892.52,
+                    "transaction_id": 3888733
+                },
+                {
+                    "date": "2023-05-25",
+                    "description": "Interest",
+                    "amount": 5837.46,
+                    "transaction_id": 25521187
+                }
+            ]
+        }
+    }
+}

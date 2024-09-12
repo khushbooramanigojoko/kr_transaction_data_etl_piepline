@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Davis DDS",
+        "age": 79,
+        "gender": "male",
+        "address": "6366 James Lock, North Rachelview, CA 93104",
+        "phone": "984-771-1057x320",
+        "email": "edwin64@example.org",
+        "account": {
+            "account_number": "0c6059c9-cc29-4be7-bb79-76f65e421a65",
+            "balance": 22641.92,
+            "transactions": [
+                {
+                    "date": "2023-09-23",
+                    "description": "Interest",
+                    "amount": 17437.74,
+                    "transaction_id": 1628542
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Withdrawal",
+                    "amount": 12021.5,
+                    "transaction_id": 68969600
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Deposit",
+                    "amount": 18685.2,
+                    "transaction_id": 24483804
+                }
+            ]
+        }
+    }
+}

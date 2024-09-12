@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Timothy Hardy",
+        "age": 68,
+        "gender": "female",
+        "address": "38305 Christy Lodge, Powellchester, CO 02751",
+        "phone": "349.745.3356x344",
+        "email": "hshea@example.net",
+        "account": {
+            "account_number": "ab4f4aaf-86a8-4488-bedc-674ac10ab971",
+            "balance": 20471.36,
+            "transactions": [
+                {
+                    "date": "2023-08-25",
+                    "description": "Withdrawal",
+                    "amount": 44364.15,
+                    "transaction_id": 34948946
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Deposit",
+                    "amount": 16044.48,
+                    "transaction_id": 79166750
+                },
+                {
+                    "date": "2023-09-30",
+                    "description": "Deposit",
+                    "amount": 31280.32,
+                    "transaction_id": 88493657
+                },
+                {
+                    "date": "2023-07-13",
+                    "description": "Withdrawal",
+                    "amount": 39665.54,
+                    "transaction_id": 9714020
+                }
+            ]
+        }
+    }
+}

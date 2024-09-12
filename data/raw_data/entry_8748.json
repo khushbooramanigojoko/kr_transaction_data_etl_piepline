@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joseph Brennan",
+        "age": 19,
+        "gender": "male",
+        "address": "4568 Johnson Ville Apt. 521, Michelleberg, KY 57867",
+        "phone": "613-960-5928x4625",
+        "email": "hardyjennifer@example.net",
+        "account": {
+            "account_number": "1a9c8401-3b87-48cc-9483-8c136478e99f",
+            "balance": -4794.18,
+            "transactions": [
+                {
+                    "date": "2023-03-12",
+                    "description": "Deposit",
+                    "amount": 2204.58,
+                    "transaction_id": 58744712
+                }
+            ]
+        }
+    }
+}

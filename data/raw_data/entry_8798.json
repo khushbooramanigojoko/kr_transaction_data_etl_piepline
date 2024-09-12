@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 25,
+        "gender": "male",
+        "address": "72328 Mullins Expressway, Thomasstad, HI 91278",
+        "phone": "001-858-829-5369x69507",
+        "email": "hardingmariah@example.com",
+        "account": {
+            "account_number": "24df4015-47aa-4709-a16e-50331e74f850",
+            "balance": 48116.94,
+            "transactions": [
+                {
+                    "date": "2023-06-08",
+                    "description": "Interest",
+                    "amount": -4504.09,
+                    "transaction_id": 41140857
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Withdrawal",
+                    "amount": 3402.39,
+                    "transaction_id": 78990142
+                }
+            ]
+        }
+    }
+}

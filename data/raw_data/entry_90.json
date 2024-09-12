@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Margaret Garner",
+        "age": 38,
+        "gender": "male",
+        "address": "87034 Gould Hollow, West Andrew, DE 08574",
+        "phone": "477.993.2986x46856",
+        "email": "zstewart@example.org",
+        "account": {
+            "account_number": "09ce880b-fb30-4de2-845e-ef7bcc5c6dd4",
+            "balance": 25376.07,
+            "transactions": [
+                {
+                    "date": "2022-11-04",
+                    "description": "Interest",
+                    "amount": 7376.05,
+                    "transaction_id": 67107337
+                },
+                {
+                    "date": "2024-06-08",
+                    "description": "Withdrawal",
+                    "amount": 48475.63,
+                    "transaction_id": 39140728
+                },
+                {
+                    "date": "2022-12-04",
+                    "description": "Interest",
+                    "amount": 34626.05,
+                    "transaction_id": 102612372
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Interest",
+                    "amount": 49825.58,
+                    "transaction_id": 112272714
+                },
+                {
+                    "date": "2023-03-18",
+                    "description": "Interest",
+                    "amount": 14215.42,
+                    "transaction_id": 87079615
+                }
+            ]
+        }
+    }
+}

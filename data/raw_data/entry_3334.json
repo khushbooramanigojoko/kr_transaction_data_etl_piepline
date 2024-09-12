@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brianna Anderson",
+        "age": 18,
+        "gender": "male",
+        "address": "31194 Robbins Greens, South Brittany, WV 13279",
+        "phone": "001-918-525-8360x2920",
+        "email": "gbeard@example.com",
+        "account": {
+            "account_number": "8645a62b-f732-490b-9bfb-2bace5a74ca4",
+            "balance": 33951.53,
+            "transactions": [
+                {
+                    "date": "2024-02-13",
+                    "description": "Interest",
+                    "amount": 31299.82,
+                    "transaction_id": 80841894
+                },
+                {
+                    "date": "2024-01-09",
+                    "description": "Deposit",
+                    "amount": 21779.62,
+                    "transaction_id": 14829417
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Deposit",
+                    "amount": 48659.59,
+                    "transaction_id": 42209657
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Withdrawal",
+                    "amount": 24973.61,
+                    "transaction_id": 45410814
+                },
+                {
+                    "date": "2024-03-07",
+                    "description": "Deposit",
+                    "amount": 33405.97,
+                    "transaction_id": 9208678
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mike Sanchez",
+        "age": 18,
+        "gender": "female",
+        "address": "PSC 7334, Box 7300, APO AA 52093",
+        "phone": "+1-246-704-8012",
+        "email": "michaelpeterson@example.net",
+        "account": {
+            "account_number": "49ec2f1f-1d5a-445e-9101-fa93b57f4aff",
+            "balance": -4084.08,
+            "transactions": [
+                {
+                    "date": "2024-06-11",
+                    "description": "Withdrawal",
+                    "amount": 2465.61,
+                    "transaction_id": 23310384
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Interest",
+                    "amount": 1293.17,
+                    "transaction_id": 59594123
+                },
+                {
+                    "date": "2022-12-29",
+                    "description": "Interest",
+                    "amount": -755.54,
+                    "transaction_id": 14451278
+                },
+                {
+                    "date": "2023-07-20",
+                    "description": "Interest",
+                    "amount": 363.43,
+                    "transaction_id": 108034926
+                }
+            ]
+        }
+    }
+}

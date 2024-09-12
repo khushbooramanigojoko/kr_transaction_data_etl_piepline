@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Nicolas Owens",
+        "age": 20,
+        "gender": "female",
+        "address": "Unit 1189 Box 6416, DPO AP 79843",
+        "phone": "558-373-8603",
+        "email": "jenkinsdanielle@example.com",
+        "account": {
+            "account_number": "ac983eef-5088-431a-98db-941909b95456",
+            "balance": -47264.82,
+            "transactions": [
+                {
+                    "date": "2023-05-11",
+                    "description": "Interest",
+                    "amount": -4348.97,
+                    "transaction_id": 2147857
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Deposit",
+                    "amount": 2875.14,
+                    "transaction_id": 19240688
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Withdrawal",
+                    "amount": 2986.06,
+                    "transaction_id": 34793054
+                }
+            ]
+        }
+    }
+}

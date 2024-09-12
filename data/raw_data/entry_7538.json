@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Eric Rollins",
+        "age": 98,
+        "gender": "female",
+        "address": "45285 Teresa Locks Apt. 739, Bethstad, GA 74879",
+        "phone": "671.706.6995x455",
+        "email": "johnsontyler@example.org",
+        "account": {
+            "account_number": "31ed41d1-37b0-4a72-905f-bbf20ac70da8",
+            "balance": 22234.03,
+            "transactions": [
+                {
+                    "date": "2023-11-24",
+                    "description": "Interest",
+                    "amount": 43741.28,
+                    "transaction_id": 47544400
+                },
+                {
+                    "date": "2024-07-18",
+                    "description": "Deposit",
+                    "amount": 42351.34,
+                    "transaction_id": 46241038
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "April Nolan",
+        "age": 76,
+        "gender": "male",
+        "address": "218 Janet Dale, Kirbyberg, ME 32125",
+        "phone": "+1-778-445-3598x676",
+        "email": "rhahn@example.com",
+        "account": {
+            "account_number": "4bcf1418-c957-420b-b050-a41982a6f0a1",
+            "balance": 44930.61,
+            "transactions": [
+                {
+                    "date": "2022-11-08",
+                    "description": "Deposit",
+                    "amount": 10418.19,
+                    "transaction_id": 61652137
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Withdrawal",
+                    "amount": 10150.03,
+                    "transaction_id": 39756377
+                }
+            ]
+        }
+    }
+}

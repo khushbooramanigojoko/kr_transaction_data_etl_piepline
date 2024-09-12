@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Gabrielle Lopez",
+        "age": 92,
+        "gender": "female",
+        "address": "394 Steele Key, Baileyberg, IN 11032",
+        "phone": "001-416-712-2694x32046",
+        "email": "desiree05@example.net",
+        "account": {
+            "account_number": "67835440-a6ac-43a3-a110-eeaa4fc7a6d6",
+            "balance": 18272.67,
+            "transactions": [
+                {
+                    "date": "2022-11-10",
+                    "description": "Withdrawal",
+                    "amount": 11876.74,
+                    "transaction_id": 87713124
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Withdrawal",
+                    "amount": 31528.76,
+                    "transaction_id": 33886546
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sherri Esparza",
+        "age": 70,
+        "gender": "male",
+        "address": "405 Dunn Village, East Kurt, RI 55475",
+        "phone": "001-740-844-3196x932",
+        "email": "scottjames@example.net",
+        "account": {
+            "account_number": "6b1d12b4-568c-4113-a128-e9e16b5ce2d5",
+            "balance": 30196.33,
+            "transactions": [
+                {
+                    "date": "2022-09-24",
+                    "description": "Deposit",
+                    "amount": 5494.17,
+                    "transaction_id": 116385511
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Withdrawal",
+                    "amount": 42480.82,
+                    "transaction_id": 80335329
+                }
+            ]
+        }
+    }
+}

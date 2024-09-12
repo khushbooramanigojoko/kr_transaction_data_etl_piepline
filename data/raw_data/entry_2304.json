@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Deborah Farrell",
+        "age": 20,
+        "gender": "female",
+        "address": "945 Juan Ways, Port Cynthiaport, TX 28561",
+        "phone": "587-396-1194",
+        "email": "brittanyspencer@example.org",
+        "account": {
+            "account_number": "45d94506-9e61-4a4b-b49a-0377d1597a1a",
+            "balance": 3836.67,
+            "transactions": [
+                {
+                    "date": "2023-10-04",
+                    "description": "Interest",
+                    "amount": 27228.6,
+                    "transaction_id": 106990448
+                },
+                {
+                    "date": "2024-03-01",
+                    "description": "Deposit",
+                    "amount": 33408.39,
+                    "transaction_id": 45511030
+                }
+            ]
+        }
+    }
+}

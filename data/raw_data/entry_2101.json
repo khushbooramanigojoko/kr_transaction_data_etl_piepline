@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christopher Chen",
+        "age": 19,
+        "gender": "male",
+        "address": "90199 Steven Spring Suite 232, Theresamouth, MS 72072",
+        "phone": "235.578.6946x994",
+        "email": "ethanlee@example.com",
+        "account": {
+            "account_number": "4ea0e3cf-869f-4e87-afe4-a0753a76ae20",
+            "balance": 35356.36,
+            "transactions": [
+                {
+                    "date": "2023-08-07",
+                    "description": "Deposit",
+                    "amount": 25547.5,
+                    "transaction_id": 105698142
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Withdrawal",
+                    "amount": 8755.15,
+                    "transaction_id": 114082604
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Deposit",
+                    "amount": 23520.79,
+                    "transaction_id": 31365164
+                },
+                {
+                    "date": "2023-08-13",
+                    "description": "Withdrawal",
+                    "amount": 37618.14,
+                    "transaction_id": 73589313
+                }
+            ]
+        }
+    }
+}

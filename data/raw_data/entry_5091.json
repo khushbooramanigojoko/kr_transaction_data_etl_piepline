@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Susan Howard",
+        "age": 34,
+        "gender": "male",
+        "address": "8579 Sheila Summit, Donaldberg, MT 21974",
+        "phone": "270-880-9570",
+        "email": "hlozano@example.com",
+        "account": {
+            "account_number": "2fe869ed-851b-49e7-8b06-a31e73b6c090",
+            "balance": 25620.98,
+            "transactions": [
+                {
+                    "date": "2024-04-17",
+                    "description": "Withdrawal",
+                    "amount": 40084.99,
+                    "transaction_id": 80909515
+                },
+                {
+                    "date": "2023-08-03",
+                    "description": "Withdrawal",
+                    "amount": 22513.87,
+                    "transaction_id": 2613129
+                },
+                {
+                    "date": "2024-05-19",
+                    "description": "Interest",
+                    "amount": 12120.53,
+                    "transaction_id": 101107408
+                },
+                {
+                    "date": "2024-01-02",
+                    "description": "Deposit",
+                    "amount": 43622.28,
+                    "transaction_id": 46024322
+                }
+            ]
+        }
+    }
+}

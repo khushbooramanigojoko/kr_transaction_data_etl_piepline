@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Adam Wallace DVM",
+        "age": 42,
+        "gender": "male",
+        "address": "342 Paul Ways Suite 837, Bobbybury, DC 93414",
+        "phone": "+1-612-475-8702",
+        "email": "orocha@example.com",
+        "account": {
+            "account_number": "0f8654bd-eedf-4ebb-8aa7-c0aecb740cf0",
+            "balance": 22273.41,
+            "transactions": [
+                {
+                    "date": "2022-12-07",
+                    "description": "Deposit",
+                    "amount": 12922.4,
+                    "transaction_id": 22695079
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Interest",
+                    "amount": 16070.47,
+                    "transaction_id": 50191458
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Interest",
+                    "amount": 36427.22,
+                    "transaction_id": 12229872
+                }
+            ]
+        }
+    }
+}

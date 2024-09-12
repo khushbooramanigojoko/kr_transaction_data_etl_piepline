@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 65,
+        "gender": "male",
+        "address": "735 Alexander Forest, Lake Julie, VI 93198",
+        "phone": "855.798.5699x5819",
+        "email": "zwalker@example.net",
+        "account": {
+            "account_number": "50e2dcbe-4070-41d0-9860-05b3277d0d56",
+            "balance": 30190.0,
+            "transactions": [
+                {
+                    "date": "2023-10-04",
+                    "description": "Interest",
+                    "amount": -612.28,
+                    "transaction_id": 23579808
+                },
+                {
+                    "date": "2023-02-05",
+                    "description": "Withdrawal",
+                    "amount": -4111.47,
+                    "transaction_id": 75789714
+                },
+                {
+                    "date": "2022-09-30",
+                    "description": "Interest",
+                    "amount": -3125.15,
+                    "transaction_id": 24779829
+                }
+            ]
+        }
+    }
+}

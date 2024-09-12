@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Rhonda Davis",
+        "age": 56,
+        "gender": "female",
+        "address": "0351 Poole Light Apt. 213, Poolemouth, WI 80093",
+        "phone": "496-288-3407",
+        "email": "terryjennifer@example.org",
+        "account": {
+            "account_number": "11c22e24-aab8-4c5c-a253-e87938040dd6",
+            "balance": 39721.15,
+            "transactions": [
+                {
+                    "date": "2023-09-20",
+                    "description": "Deposit",
+                    "amount": 43598.7,
+                    "transaction_id": 53075096
+                },
+                {
+                    "date": "2024-04-15",
+                    "description": "Withdrawal",
+                    "amount": 16901.71,
+                    "transaction_id": 12054222
+                },
+                {
+                    "date": "2024-08-11",
+                    "description": "Deposit",
+                    "amount": 40924.99,
+                    "transaction_id": 15539334
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Interest",
+                    "amount": 11181.76,
+                    "transaction_id": 49688846
+                }
+            ]
+        }
+    }
+}

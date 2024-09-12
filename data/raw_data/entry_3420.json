@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Buckley",
+        "age": 29,
+        "gender": "male",
+        "address": "110 Kendra Cliff Suite 529, Elizabethview, AR 55370",
+        "phone": "775.510.4624x306",
+        "email": "maddenjesse@example.com",
+        "account": {
+            "account_number": "cfb44111-e730-4960-940d-72c29694d6b4",
+            "balance": 28105.45,
+            "transactions": [
+                {
+                    "date": "2024-07-10",
+                    "description": "Interest",
+                    "amount": 35087.17,
+                    "transaction_id": 4761150
+                },
+                {
+                    "date": "2023-03-20",
+                    "description": "Deposit",
+                    "amount": 21399.81,
+                    "transaction_id": 2263158
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Deposit",
+                    "amount": 14799.3,
+                    "transaction_id": 3152667
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Interest",
+                    "amount": 2134.63,
+                    "transaction_id": 110818433
+                }
+            ]
+        }
+    }
+}

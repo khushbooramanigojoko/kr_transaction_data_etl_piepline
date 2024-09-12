@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jesse Black",
+        "age": 26,
+        "gender": "male",
+        "address": "549 Brett Mill Apt. 447, North Jason, DE 10411",
+        "phone": "463.540.6736",
+        "email": "bartlettcandice@example.org",
+        "account": {
+            "account_number": "80da4480-b742-4a7e-95dd-99aa940ee369",
+            "balance": 31425.06,
+            "transactions": [
+                {
+                    "date": "2023-10-30",
+                    "description": "Withdrawal",
+                    "amount": 9211.32,
+                    "transaction_id": 57127469
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Withdrawal",
+                    "amount": 34897.32,
+                    "transaction_id": 6902227
+                },
+                {
+                    "date": "2024-06-28",
+                    "description": "Deposit",
+                    "amount": 19213.52,
+                    "transaction_id": 16821202
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kelly Lee",
+        "age": 65,
+        "gender": "female",
+        "address": "22267 Myers Radial Apt. 603, Port Rickyport, NY 94854",
+        "phone": "907.846.8365",
+        "email": "powerskelly@example.org",
+        "account": {
+            "account_number": "a4fd7852-a382-4c40-90ab-3cf4c3ab817f",
+            "balance": 25771.5,
+            "transactions": [
+                {
+                    "date": "2024-03-01",
+                    "description": "Interest",
+                    "amount": 43977.14,
+                    "transaction_id": 70581898
+                },
+                {
+                    "date": "2022-09-07",
+                    "description": "Interest",
+                    "amount": 25796.54,
+                    "transaction_id": 108776552
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Alexander Woods",
+        "age": 40,
+        "gender": "male",
+        "address": "8601 Williams Green Apt. 564, New Kenneth, MS 20986",
+        "phone": "(298)522-5982",
+        "email": "kylegood@example.net",
+        "account": {
+            "account_number": "f6e78b3b-084a-48e3-aa65-bbf33817a605",
+            "balance": 36405.64,
+            "transactions": [
+                {
+                    "date": "2023-09-23",
+                    "description": "Withdrawal",
+                    "amount": 1969.63,
+                    "transaction_id": 29602241
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Interest",
+                    "amount": 15039.96,
+                    "transaction_id": 47784411
+                }
+            ]
+        }
+    }
+}

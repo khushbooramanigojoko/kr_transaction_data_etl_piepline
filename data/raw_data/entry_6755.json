@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mr. Christopher Rodriguez",
+        "age": 77,
+        "gender": "female",
+        "address": "569 Michael Junction, Heatherside, PW 28086",
+        "phone": "001-516-790-3694x45062",
+        "email": "chad75@example.net",
+        "account": {
+            "account_number": "fd02fb19-68c6-48c1-845b-b283bfae9391",
+            "balance": 22017.95,
+            "transactions": [
+                {
+                    "date": "2023-06-04",
+                    "description": "Withdrawal",
+                    "amount": 10837.75,
+                    "transaction_id": 104287935
+                },
+                {
+                    "date": "2023-07-04",
+                    "description": "Deposit",
+                    "amount": 9157.8,
+                    "transaction_id": 101949846
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Withdrawal",
+                    "amount": 31183.75,
+                    "transaction_id": 17553584
+                }
+            ]
+        }
+    }
+}

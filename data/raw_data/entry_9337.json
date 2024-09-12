@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 22,
+        "gender": "female",
+        "address": "771 Anne Courts, Johnsonbury, MA 56838",
+        "phone": "001-828-985-8575x3460",
+        "email": "joselewis@example.net",
+        "account": {
+            "account_number": "f391dfc1-877d-4b3e-bc53-7c8c393b46ad",
+            "balance": 5090.93,
+            "transactions": [
+                {
+                    "date": "2023-09-01",
+                    "description": "Interest",
+                    "amount": -2478.0,
+                    "transaction_id": 114428716
+                },
+                {
+                    "date": "2023-08-06",
+                    "description": "Withdrawal",
+                    "amount": -1656.45,
+                    "transaction_id": 30954179
+                },
+                {
+                    "date": "2023-07-24",
+                    "description": "Withdrawal",
+                    "amount": 1690.06,
+                    "transaction_id": 110392554
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Interest",
+                    "amount": 3215.09,
+                    "transaction_id": 62007300
+                },
+                {
+                    "date": "2024-03-01",
+                    "description": "Deposit",
+                    "amount": -4708.1,
+                    "transaction_id": 31295605
+                }
+            ]
+        }
+    }
+}

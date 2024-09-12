@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "female",
+        "address": "00727 Mills Mall Suite 486, South Steven, OR 65524",
+        "phone": "635-971-5557",
+        "email": "strongcassandra@example.net",
+        "account": {
+            "account_number": "c3f2398e-d8f3-4133-a87b-aaec2803629f",
+            "balance": 4861.49,
+            "transactions": [
+                {
+                    "date": "2023-12-11",
+                    "description": "Deposit",
+                    "amount": -2585.01,
+                    "transaction_id": 78169833
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Withdrawal",
+                    "amount": 4366.08,
+                    "transaction_id": 5740244
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Withdrawal",
+                    "amount": -1979.78,
+                    "transaction_id": 105845989
+                }
+            ]
+        }
+    }
+}

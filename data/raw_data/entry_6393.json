@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Cindy Moody",
+        "age": 23,
+        "gender": "male",
+        "address": "85348 Walker Dale, North Thomas, WV 29796",
+        "phone": "200.589.1995",
+        "email": "robertmiller@example.org",
+        "account": {
+            "account_number": "54ca064b-5577-45d7-be9a-534f808bfe42",
+            "balance": 15559.45,
+            "transactions": [
+                {
+                    "date": "2024-07-07",
+                    "description": "Interest",
+                    "amount": 27697.31,
+                    "transaction_id": 107244093
+                },
+                {
+                    "date": "2022-11-23",
+                    "description": "Interest",
+                    "amount": 40539.2,
+                    "transaction_id": 51561861
+                },
+                {
+                    "date": "2023-05-05",
+                    "description": "Interest",
+                    "amount": 19238.1,
+                    "transaction_id": 12804121
+                }
+            ]
+        }
+    }
+}

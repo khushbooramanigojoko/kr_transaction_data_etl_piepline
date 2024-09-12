@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Heidi Evans",
+        "age": 71,
+        "gender": "male",
+        "address": "23104 Amber Squares Apt. 796, Kevinside, WV 16900",
+        "phone": "334.214.8479x23933",
+        "email": "poneal@example.org",
+        "account": {
+            "account_number": "9252cf64-d142-4e80-a1f7-cb0648c18f4e",
+            "balance": 28606.22,
+            "transactions": [
+                {
+                    "date": "2024-06-28",
+                    "description": "Deposit",
+                    "amount": 39102.07,
+                    "transaction_id": 28079858
+                }
+            ]
+        }
+    }
+}

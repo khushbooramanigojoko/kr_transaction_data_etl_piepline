@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 52,
+        "gender": "female",
+        "address": "USNS Smith, FPO AP 06408",
+        "phone": "+1-240-961-3057x489",
+        "email": "thompsonbrittany@example.net",
+        "account": {
+            "account_number": "aaf59641-ad0d-4516-ab57-f5d3548597bb",
+            "balance": 14676.71,
+            "transactions": [
+                {
+                    "date": "2023-05-20",
+                    "description": "Deposit",
+                    "amount": 4797.44,
+                    "transaction_id": 41142550
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Withdrawal",
+                    "amount": -216.49,
+                    "transaction_id": 51687670
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Withdrawal",
+                    "amount": -1621.82,
+                    "transaction_id": 104322940
+                }
+            ]
+        }
+    }
+}

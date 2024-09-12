@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 45,
+        "gender": "male",
+        "address": "44855 Hughes Green, New Gerald, NM 76675",
+        "phone": "250-295-5140",
+        "email": "mooretimothy@example.org",
+        "account": {
+            "account_number": "c4f39321-4b49-49f1-b78b-7cb4ba5630d6",
+            "balance": 46870.44,
+            "transactions": [
+                {
+                    "date": "2023-08-30",
+                    "description": "Deposit",
+                    "amount": -4627.85,
+                    "transaction_id": 103752833
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Andrea Rice",
+        "age": 54,
+        "gender": "male",
+        "address": "5415 Daniels Port Suite 125, North Vanessa, FL 87598",
+        "phone": "583-922-4534",
+        "email": "ksmith@example.com",
+        "account": {
+            "account_number": "f10c8309-4e5e-4868-ac4f-9da22d1e76b0",
+            "balance": 5327.93,
+            "transactions": [
+                {
+                    "date": "2022-11-16",
+                    "description": "Deposit",
+                    "amount": 36591.26,
+                    "transaction_id": 83197192
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Withdrawal",
+                    "amount": 2313.41,
+                    "transaction_id": 91046756
+                }
+            ]
+        }
+    }
+}

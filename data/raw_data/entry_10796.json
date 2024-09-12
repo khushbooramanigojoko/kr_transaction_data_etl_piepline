@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ricardo Reyes",
+        "age": 27,
+        "gender": "male",
+        "address": "762 Justin Plains Suite 032, North Rayside, MS 32391",
+        "phone": "268.355.6239x4469",
+        "email": "rogerpayne@example.com",
+        "account": {
+            "account_number": "9dc244a4-5683-4a20-9f8d-79c85aa13118",
+            "balance": -22432.63,
+            "transactions": [
+                {
+                    "date": "2023-08-22",
+                    "description": "Interest",
+                    "amount": 2915.32,
+                    "transaction_id": 36159054
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Deposit",
+                    "amount": -3685.26,
+                    "transaction_id": 50799935
+                }
+            ]
+        }
+    }
+}

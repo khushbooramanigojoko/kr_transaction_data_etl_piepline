@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ms. Tina Jarvis",
+        "age": 98,
+        "gender": "female",
+        "address": "95548 Michele Cliff, Lake Christopher, OK 35573",
+        "phone": "001-444-349-7595x554",
+        "email": "pgalvan@example.net",
+        "account": {
+            "account_number": "2dd0c00d-c4d6-40df-ae57-388b111c1e59",
+            "balance": 37102.82,
+            "transactions": [
+                {
+                    "date": "2024-07-12",
+                    "description": "Interest",
+                    "amount": 18598.93,
+                    "transaction_id": 111840744
+                },
+                {
+                    "date": "2024-01-09",
+                    "description": "Deposit",
+                    "amount": 218.3,
+                    "transaction_id": 72391466
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Interest",
+                    "amount": 29658.24,
+                    "transaction_id": 50001497
+                },
+                {
+                    "date": "2024-03-14",
+                    "description": "Deposit",
+                    "amount": 4892.84,
+                    "transaction_id": 5657276
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Withdrawal",
+                    "amount": 6900.47,
+                    "transaction_id": 66795472
+                }
+            ]
+        }
+    }
+}

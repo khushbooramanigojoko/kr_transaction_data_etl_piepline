@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 44,
+        "gender": "female",
+        "address": "9186 Myers Corners, Melanieberg, MO 56785",
+        "phone": "001-545-449-2756x48140",
+        "email": "lauraavila@example.net",
+        "account": {
+            "account_number": "ed73d3dc-e0a1-4408-af7f-403b679d9bad",
+            "balance": 31673.29,
+            "transactions": [
+                {
+                    "date": "2024-03-07",
+                    "description": "Interest",
+                    "amount": -3255.83,
+                    "transaction_id": 79329057
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Deposit",
+                    "amount": 1022.29,
+                    "transaction_id": 35466378
+                },
+                {
+                    "date": "2023-12-05",
+                    "description": "Interest",
+                    "amount": -1367.17,
+                    "transaction_id": 63228329
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Teresa Cordova",
+        "age": 39,
+        "gender": "female",
+        "address": "860 Lisa Island, Rollinsfurt, UT 07723",
+        "phone": "001-791-761-7759x042",
+        "email": "alexanderrogers@example.net",
+        "account": {
+            "account_number": "0acd9c1c-b31b-486f-8e53-f58120125fbc",
+            "balance": -16252.36,
+            "transactions": [
+                {
+                    "date": "2023-03-14",
+                    "description": "Interest",
+                    "amount": -2654.89,
+                    "transaction_id": 44110648
+                },
+                {
+                    "date": "2023-04-22",
+                    "description": "Withdrawal",
+                    "amount": -1143.09,
+                    "transaction_id": 114349096
+                }
+            ]
+        }
+    }
+}

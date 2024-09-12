@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sharon Bush",
+        "age": 68,
+        "gender": "male",
+        "address": "USCGC Williams, FPO AE 95092",
+        "phone": "001-651-384-6521x63886",
+        "email": "woodskyle@example.net",
+        "account": {
+            "account_number": "e93b8a0f-6f03-4a7e-81a7-f6136f0d12bd",
+            "balance": 22644.1,
+            "transactions": [
+                {
+                    "date": "2024-03-20",
+                    "description": "Withdrawal",
+                    "amount": 32819.78,
+                    "transaction_id": 109324493
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Withdrawal",
+                    "amount": 11940.94,
+                    "transaction_id": 69500031
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Interest",
+                    "amount": 34431.84,
+                    "transaction_id": 35472881
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Deposit",
+                    "amount": 48477.35,
+                    "transaction_id": 2150466
+                }
+            ]
+        }
+    }
+}

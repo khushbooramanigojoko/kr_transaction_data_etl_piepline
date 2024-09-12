@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Valerie Duncan",
+        "age": 75,
+        "gender": "female",
+        "address": "5719 Raymond Ford, Raymondchester, VI 37378",
+        "phone": "(774)227-0220",
+        "email": "jenniferharper@example.org",
+        "account": {
+            "account_number": "5ac64b2c-88a7-46b5-836f-e4b9f9c7b1d8",
+            "balance": 38942.13,
+            "transactions": [
+                {
+                    "date": "2023-03-15",
+                    "description": "Withdrawal",
+                    "amount": 11747.03,
+                    "transaction_id": 40757258
+                },
+                {
+                    "date": "2022-12-07",
+                    "description": "Deposit",
+                    "amount": 1869.92,
+                    "transaction_id": 36773019
+                }
+            ]
+        }
+    }
+}

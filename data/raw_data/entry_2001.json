@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Andrea Greene",
+        "age": 59,
+        "gender": "female",
+        "address": "437 George Well, Port Denise, SD 67499",
+        "phone": "944-956-0548",
+        "email": "annday@example.org",
+        "account": {
+            "account_number": "1eb0b507-a168-4480-99bf-ae0e17c67ac8",
+            "balance": 15187.84,
+            "transactions": [
+                {
+                    "date": "2024-01-21",
+                    "description": "Interest",
+                    "amount": 37440.74,
+                    "transaction_id": 119617604
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Withdrawal",
+                    "amount": 36085.5,
+                    "transaction_id": 50323620
+                }
+            ]
+        }
+    }
+}

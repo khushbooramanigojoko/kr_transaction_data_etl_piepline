@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Matthew Robinson",
+        "age": 32,
+        "gender": "female",
+        "address": "Unit 2419 Box 9431, DPO AP 88956",
+        "phone": "+1-439-641-9862x61396",
+        "email": "wwilliams@example.org",
+        "account": {
+            "account_number": "f6b5402d-281b-4f30-9d0c-6b420bd95bf9",
+            "balance": 21821.77,
+            "transactions": [
+                {
+                    "date": "2023-07-02",
+                    "description": "Deposit",
+                    "amount": 15209.38,
+                    "transaction_id": 43195882
+                },
+                {
+                    "date": "2024-03-20",
+                    "description": "Interest",
+                    "amount": 5090.51,
+                    "transaction_id": 2114213
+                },
+                {
+                    "date": "2023-12-31",
+                    "description": "Withdrawal",
+                    "amount": 4882.63,
+                    "transaction_id": 88706450
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Deposit",
+                    "amount": 17232.76,
+                    "transaction_id": 21990899
+                }
+            ]
+        }
+    }
+}

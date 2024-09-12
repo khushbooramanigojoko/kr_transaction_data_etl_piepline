@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sergio Garrison",
+        "age": 92,
+        "gender": "female",
+        "address": "500 Zachary Vista, Johnschester, OK 67444",
+        "phone": "+1-939-446-5075x198",
+        "email": "shelby97@example.org",
+        "account": {
+            "account_number": "6c2a9876-905a-47b0-974b-3ff37838ffd4",
+            "balance": 20649.32,
+            "transactions": [
+                {
+                    "date": "2024-03-01",
+                    "description": "Withdrawal",
+                    "amount": 28666.7,
+                    "transaction_id": 20769083
+                }
+            ]
+        }
+    }
+}

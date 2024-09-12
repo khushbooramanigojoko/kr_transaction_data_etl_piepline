@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dawn Wright",
+        "age": 65,
+        "gender": "female",
+        "address": "7322 Edwards Drive Suite 471, Houseport, WI 66191",
+        "phone": "001-539-371-0111x7780",
+        "email": "dawnwilson@example.com",
+        "account": {
+            "account_number": "f83831d4-df8b-48d3-975b-ed3afc1ac023",
+            "balance": 18804.81,
+            "transactions": [
+                {
+                    "date": "2022-12-22",
+                    "description": "Deposit",
+                    "amount": 36038.85,
+                    "transaction_id": 115354229
+                }
+            ]
+        }
+    }
+}

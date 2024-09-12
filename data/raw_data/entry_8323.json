@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Charles Park",
+        "age": 37,
+        "gender": "male",
+        "address": "3700 Stephen Inlet Suite 188, North James, CT 22331",
+        "phone": "(906)915-9500x22370",
+        "email": "valdezkristin@example.org",
+        "account": {
+            "account_number": "8948bf10-ac2c-400c-8795-3675bbb7723b",
+            "balance": 48433.05,
+            "transactions": [
+                {
+                    "date": "2022-10-28",
+                    "description": "Withdrawal",
+                    "amount": 42018.66,
+                    "transaction_id": 72106158
+                },
+                {
+                    "date": "2022-12-11",
+                    "description": "Deposit",
+                    "amount": 10895.6,
+                    "transaction_id": 13221591
+                }
+            ]
+        }
+    }
+}

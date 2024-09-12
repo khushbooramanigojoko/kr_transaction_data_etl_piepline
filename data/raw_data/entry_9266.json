@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 26,
+        "gender": "female",
+        "address": "577 Gomez Drive Suite 014, West Ericside, MT 51831",
+        "phone": "303.748.1810x39915",
+        "email": "sarah16@example.net",
+        "account": {
+            "account_number": "431c988c-3d84-42d4-b438-e06310d53a47",
+            "balance": 40215.52,
+            "transactions": [
+                {
+                    "date": "2023-09-09",
+                    "description": "Interest",
+                    "amount": 4317.16,
+                    "transaction_id": 72259778
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Deposit",
+                    "amount": -1283.81,
+                    "transaction_id": 25028683
+                },
+                {
+                    "date": "2024-02-19",
+                    "description": "Withdrawal",
+                    "amount": 2031.59,
+                    "transaction_id": 27060320
+                }
+            ]
+        }
+    }
+}

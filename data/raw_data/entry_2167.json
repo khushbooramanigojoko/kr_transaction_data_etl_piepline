@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jessica Villarreal",
+        "age": 29,
+        "gender": "male",
+        "address": "USCGC Hammond, FPO AE 52063",
+        "phone": "+1-783-377-6308x28684",
+        "email": "scotthill@example.org",
+        "account": {
+            "account_number": "813002bc-f3ce-481f-a7e1-1931f9436456",
+            "balance": 41511.06,
+            "transactions": [
+                {
+                    "date": "2023-03-28",
+                    "description": "Interest",
+                    "amount": 33219.02,
+                    "transaction_id": 110282808
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Withdrawal",
+                    "amount": 48048.14,
+                    "transaction_id": 25569298
+                },
+                {
+                    "date": "2023-06-04",
+                    "description": "Interest",
+                    "amount": 15141.62,
+                    "transaction_id": 111550091
+                },
+                {
+                    "date": "2023-06-20",
+                    "description": "Deposit",
+                    "amount": 12412.34,
+                    "transaction_id": 60154540
+                }
+            ]
+        }
+    }
+}

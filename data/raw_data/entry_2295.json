@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jacob Spencer",
+        "age": 43,
+        "gender": "male",
+        "address": "6130 Williams Lodge, New Catherineside, NC 65007",
+        "phone": "956.398.2180",
+        "email": "katherineortega@example.org",
+        "account": {
+            "account_number": "4e1a7a02-826b-41c3-9d35-cbd2969ef126",
+            "balance": 19301.82,
+            "transactions": [
+                {
+                    "date": "2024-08-09",
+                    "description": "Deposit",
+                    "amount": 24529.72,
+                    "transaction_id": 17842210
+                },
+                {
+                    "date": "2023-02-05",
+                    "description": "Deposit",
+                    "amount": 42780.58,
+                    "transaction_id": 100267975
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Withdrawal",
+                    "amount": 49479.59,
+                    "transaction_id": 111780464
+                }
+            ]
+        }
+    }
+}

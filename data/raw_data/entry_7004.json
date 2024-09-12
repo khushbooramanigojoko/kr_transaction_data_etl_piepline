@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Pamela Hill",
+        "age": 69,
+        "gender": "male",
+        "address": "500 Macdonald Harbor Apt. 083, Kellystad, FM 99477",
+        "phone": "(978)827-5156",
+        "email": "daltonsherri@example.net",
+        "account": {
+            "account_number": "905e04f1-8c2e-4ca5-9515-8998b5ebe6d1",
+            "balance": 29953.32,
+            "transactions": [
+                {
+                    "date": "2022-10-17",
+                    "description": "Deposit",
+                    "amount": 840.29,
+                    "transaction_id": 102310096
+                },
+                {
+                    "date": "2024-08-12",
+                    "description": "Interest",
+                    "amount": 16722.11,
+                    "transaction_id": 105758790
+                }
+            ]
+        }
+    }
+}

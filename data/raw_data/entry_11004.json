@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kenneth Lee",
+        "age": 19,
+        "gender": "male",
+        "address": "172 Beck Hollow, Nicholasview, MP 14099",
+        "phone": "001-769-878-9986x76729",
+        "email": "dawn95@example.org",
+        "account": {
+            "account_number": "a9a62d80-a6da-49ff-8abb-360cecbd85e7",
+            "balance": -43731.86,
+            "transactions": [
+                {
+                    "date": "2022-12-16",
+                    "description": "Withdrawal",
+                    "amount": 1668.87,
+                    "transaction_id": 112454713
+                },
+                {
+                    "date": "2024-05-29",
+                    "description": "Deposit",
+                    "amount": -3468.69,
+                    "transaction_id": 95234276
+                }
+            ]
+        }
+    }
+}

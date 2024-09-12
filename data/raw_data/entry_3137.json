@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Logan",
+        "age": 65,
+        "gender": "female",
+        "address": "53357 Matthew Station Suite 470, North William, HI 60963",
+        "phone": "(822)748-3620x131",
+        "email": "cookarthur@example.net",
+        "account": {
+            "account_number": "4f013085-96e1-4045-a388-421e699dba45",
+            "balance": 28030.25,
+            "transactions": [
+                {
+                    "date": "2023-09-23",
+                    "description": "Interest",
+                    "amount": 3497.79,
+                    "transaction_id": 92438926
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Interest",
+                    "amount": 42094.67,
+                    "transaction_id": 55006760
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Withdrawal",
+                    "amount": 23914.43,
+                    "transaction_id": 71365434
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Deposit",
+                    "amount": 16544.47,
+                    "transaction_id": 101003543
+                }
+            ]
+        }
+    }
+}

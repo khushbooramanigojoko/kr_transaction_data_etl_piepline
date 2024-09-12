@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Scott Franco",
+        "age": 87,
+        "gender": "female",
+        "address": "USNV Allen, FPO AP 37954",
+        "phone": "2264781732",
+        "email": "randyhughes@example.com",
+        "account": {
+            "account_number": "86ee698e-6bec-497c-b269-7ff17e620beb",
+            "balance": 11069.1,
+            "transactions": [
+                {
+                    "date": "2024-02-19",
+                    "description": "Interest",
+                    "amount": 1031.43,
+                    "transaction_id": 88857232
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Withdrawal",
+                    "amount": 43607.05,
+                    "transaction_id": 83917020
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Deposit",
+                    "amount": 24600.45,
+                    "transaction_id": 42793234
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Deposit",
+                    "amount": 6567.88,
+                    "transaction_id": 85021251
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Morgan Strickland",
+        "age": 18,
+        "gender": "female",
+        "address": "6681 Werner Row Apt. 002, North Ryanborough, AR 05444",
+        "phone": "924.343.0467x8520",
+        "email": "ewilcox@example.org",
+        "account": {
+            "account_number": "305d5e35-1af1-4723-9ec9-a922b571538e",
+            "balance": 31869.13,
+            "transactions": [
+                {
+                    "date": "2023-12-29",
+                    "description": "Deposit",
+                    "amount": 2982.33,
+                    "transaction_id": 56459111
+                },
+                {
+                    "date": "2024-07-04",
+                    "description": "Deposit",
+                    "amount": 29292.75,
+                    "transaction_id": 95930860
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Withdrawal",
+                    "amount": 39045.28,
+                    "transaction_id": 113323247
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Deposit",
+                    "amount": 12321.16,
+                    "transaction_id": 47813748
+                },
+                {
+                    "date": "2023-07-01",
+                    "description": "Deposit",
+                    "amount": 7704.65,
+                    "transaction_id": 56067462
+                }
+            ]
+        }
+    }
+}

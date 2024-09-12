@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Louis King",
+        "age": 25,
+        "gender": "female",
+        "address": "9863 Lewis Road, Coxmouth, TX 74102",
+        "phone": "696.504.8076",
+        "email": "phillip07@example.net",
+        "account": {
+            "account_number": "de406495-d3f7-433a-9f96-a861e3a35f81",
+            "balance": 29700.87,
+            "transactions": [
+                {
+                    "date": "2023-07-05",
+                    "description": "Withdrawal",
+                    "amount": 25147.6,
+                    "transaction_id": 49862831
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Interest",
+                    "amount": 43508.6,
+                    "transaction_id": 58829129
+                }
+            ]
+        }
+    }
+}

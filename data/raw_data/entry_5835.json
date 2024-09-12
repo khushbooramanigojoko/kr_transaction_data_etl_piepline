@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stephanie Strong",
+        "age": 30,
+        "gender": "female",
+        "address": "7781 George Mountains Apt. 295, North Jodi, OR 69054",
+        "phone": "388.804.5909",
+        "email": "fsmith@example.net",
+        "account": {
+            "account_number": "f7b8b98d-9149-4880-8dc9-b43de11fe7b3",
+            "balance": 34781.64,
+            "transactions": [
+                {
+                    "date": "2023-04-14",
+                    "description": "Deposit",
+                    "amount": 17340.06,
+                    "transaction_id": 60554774
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Deposit",
+                    "amount": 23887.93,
+                    "transaction_id": 8386060
+                },
+                {
+                    "date": "2024-07-27",
+                    "description": "Interest",
+                    "amount": 39206.69,
+                    "transaction_id": 16020473
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Deposit",
+                    "amount": 12521.37,
+                    "transaction_id": 7373339
+                }
+            ]
+        }
+    }
+}

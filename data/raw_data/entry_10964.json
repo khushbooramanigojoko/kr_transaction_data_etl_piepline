@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dr. Brenda Mata DDS",
+        "age": 98,
+        "gender": "male",
+        "address": "24687 Gallagher Locks Apt. 904, West Meganton, WY 90526",
+        "phone": "(863)283-7708x6255",
+        "email": "pwatkins@example.net",
+        "account": {
+            "account_number": "fa52c39b-40b6-4acc-b9df-df4389ffb092",
+            "balance": -38995.15,
+            "transactions": [
+                {
+                    "date": "2023-02-08",
+                    "description": "Withdrawal",
+                    "amount": -3670.26,
+                    "transaction_id": 55804282
+                },
+                {
+                    "date": "2024-04-10",
+                    "description": "Withdrawal",
+                    "amount": -1322.07,
+                    "transaction_id": 52068740
+                },
+                {
+                    "date": "2024-01-25",
+                    "description": "Interest",
+                    "amount": 1553.92,
+                    "transaction_id": 59183845
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Withdrawal",
+                    "amount": 1122.81,
+                    "transaction_id": 21733957
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Interest",
+                    "amount": 4278.09,
+                    "transaction_id": 40709797
+                }
+            ]
+        }
+    }
+}

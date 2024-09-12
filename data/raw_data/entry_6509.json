@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Charles Jones",
+        "age": 45,
+        "gender": "male",
+        "address": "7246 Peters Rapids Suite 550, Josephville, NC 45503",
+        "phone": "373-587-0278",
+        "email": "andersonvalerie@example.net",
+        "account": {
+            "account_number": "1ce5a0d5-2139-4ca5-89bf-78fabcc45700",
+            "balance": 18991.8,
+            "transactions": [
+                {
+                    "date": "2023-08-14",
+                    "description": "Interest",
+                    "amount": 35260.12,
+                    "transaction_id": 91797518
+                },
+                {
+                    "date": "2023-10-30",
+                    "description": "Deposit",
+                    "amount": 24961.94,
+                    "transaction_id": 92909561
+                },
+                {
+                    "date": "2023-02-14",
+                    "description": "Deposit",
+                    "amount": 4245.39,
+                    "transaction_id": 89893845
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Interest",
+                    "amount": 29601.35,
+                    "transaction_id": 31303890
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Interest",
+                    "amount": 1997.65,
+                    "transaction_id": 87912557
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tanya Chan",
+        "age": 32,
+        "gender": "male",
+        "address": "8780 Ruiz Ville, Cardenasfurt, MS 71997",
+        "phone": "905.573.3444x097",
+        "email": "heidi75@example.com",
+        "account": {
+            "account_number": "e78651aa-d815-49c7-985e-d5036ffab3df",
+            "balance": 10792.89,
+            "transactions": [
+                {
+                    "date": "2022-11-12",
+                    "description": "Withdrawal",
+                    "amount": 44711.99,
+                    "transaction_id": 94622304
+                },
+                {
+                    "date": "2023-12-11",
+                    "description": "Interest",
+                    "amount": 24790.88,
+                    "transaction_id": 113261801
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Deposit",
+                    "amount": 44883.56,
+                    "transaction_id": 58538374
+                },
+                {
+                    "date": "2023-05-15",
+                    "description": "Deposit",
+                    "amount": 22472.76,
+                    "transaction_id": 45823370
+                }
+            ]
+        }
+    }
+}

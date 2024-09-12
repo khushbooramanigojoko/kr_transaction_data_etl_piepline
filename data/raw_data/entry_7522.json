@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Gary Wheeler",
+        "age": 41,
+        "gender": "female",
+        "address": "91159 Jennifer Parkway, West Christopher, MI 84189",
+        "phone": "001-988-210-6124x50627",
+        "email": "christopher88@example.org",
+        "account": {
+            "account_number": "9b6395e9-0122-46b8-9b2f-51883837422c",
+            "balance": 34496.05,
+            "transactions": [
+                {
+                    "date": "2023-04-07",
+                    "description": "Interest",
+                    "amount": 44912.15,
+                    "transaction_id": 89281144
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Withdrawal",
+                    "amount": 17716.66,
+                    "transaction_id": 92937673
+                }
+            ]
+        }
+    }
+}

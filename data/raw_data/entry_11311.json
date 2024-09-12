@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Monica Morrow",
+        "age": 49,
+        "gender": "male",
+        "address": "60237 Regina Pines, Jeremyfort, FM 80172",
+        "phone": "350.769.6570",
+        "email": "damoncampbell@example.net",
+        "account": {
+            "account_number": "451791eb-b890-460e-8d1a-d0d836f8063d",
+            "balance": -2894.82,
+            "transactions": [
+                {
+                    "date": "2024-03-24",
+                    "description": "Deposit",
+                    "amount": -1359.49,
+                    "transaction_id": 36091705
+                },
+                {
+                    "date": "2023-07-10",
+                    "description": "Withdrawal",
+                    "amount": 1180.48,
+                    "transaction_id": 15470230
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Withdrawal",
+                    "amount": 4740.57,
+                    "transaction_id": 117886470
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Deposit",
+                    "amount": -1655.51,
+                    "transaction_id": 21287888
+                },
+                {
+                    "date": "2023-12-20",
+                    "description": "Withdrawal",
+                    "amount": -174.04,
+                    "transaction_id": 33916089
+                }
+            ]
+        }
+    }
+}

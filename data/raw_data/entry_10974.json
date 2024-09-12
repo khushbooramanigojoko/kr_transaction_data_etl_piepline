@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Linda Tanner",
+        "age": 26,
+        "gender": "female",
+        "address": "98268 Scott Cliffs Suite 552, Port Faithhaven, HI 45666",
+        "phone": "343.682.8769",
+        "email": "iholt@example.net",
+        "account": {
+            "account_number": "4ffcb131-8fe8-4726-b58b-af74fe62565c",
+            "balance": -19997.25,
+            "transactions": [
+                {
+                    "date": "2022-09-14",
+                    "description": "Interest",
+                    "amount": 1360.63,
+                    "transaction_id": 35608917
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Withdrawal",
+                    "amount": -3802.96,
+                    "transaction_id": 32821969
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Deposit",
+                    "amount": 1601.6,
+                    "transaction_id": 99140074
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Interest",
+                    "amount": 29.45,
+                    "transaction_id": 47937490
+                }
+            ]
+        }
+    }
+}

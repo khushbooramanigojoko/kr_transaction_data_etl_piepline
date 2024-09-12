@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 43,
+        "gender": "female",
+        "address": "46222 William Hills Apt. 093, East Andrea, PA 27236",
+        "phone": "949.854.3014",
+        "email": "holtmelissa@example.com",
+        "account": {
+            "account_number": "e8172186-592c-40c9-ba24-ada18aacee16",
+            "balance": 39895.73,
+            "transactions": [
+                {
+                    "date": "2024-04-06",
+                    "description": "Deposit",
+                    "amount": -3170.16,
+                    "transaction_id": 65556202
+                }
+            ]
+        }
+    }
+}

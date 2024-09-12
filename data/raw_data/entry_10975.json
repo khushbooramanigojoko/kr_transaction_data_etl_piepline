@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 46,
+        "gender": "female",
+        "address": "382 Rhonda Park Suite 592, West Jennifer, NM 02694",
+        "phone": "477.943.7513",
+        "email": "christopher19@example.com",
+        "account": {
+            "account_number": "7eac5ddd-2bf8-46e4-a4ec-c823340e0003",
+            "balance": 6345.54,
+            "transactions": [
+                {
+                    "date": "2023-07-17",
+                    "description": "Interest",
+                    "amount": -1181.29,
+                    "transaction_id": 5388839
+                },
+                {
+                    "date": "2024-06-29",
+                    "description": "Withdrawal",
+                    "amount": 4366.68,
+                    "transaction_id": 35656122
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Interest",
+                    "amount": -3801.42,
+                    "transaction_id": 64175998
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Interest",
+                    "amount": -3988.39,
+                    "transaction_id": 106992039
+                }
+            ]
+        }
+    }
+}

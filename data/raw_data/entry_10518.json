@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Yolanda Mason",
+        "age": 83,
+        "gender": "female",
+        "address": "35095 Shaw Fork Apt. 869, Rachelstad, GA 04959",
+        "phone": "+1-339-825-8034",
+        "email": "tracey15@example.net",
+        "account": {
+            "account_number": "1d26b43b-a4a1-4c0e-8b35-2b369192126b",
+            "balance": -10310.6,
+            "transactions": [
+                {
+                    "date": "2024-03-31",
+                    "description": "Withdrawal",
+                    "amount": 362.82,
+                    "transaction_id": 3120084
+                }
+            ]
+        }
+    }
+}

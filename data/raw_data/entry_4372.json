@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jessica Robinson",
+        "age": 27,
+        "gender": "female",
+        "address": "07359 Tiffany Ridges, Lake Richardport, NH 11694",
+        "phone": "687-230-8529x0671",
+        "email": "graygrace@example.com",
+        "account": {
+            "account_number": "a0d49890-fbbd-4b4f-b1db-955471f919bb",
+            "balance": 8407.33,
+            "transactions": [
+                {
+                    "date": "2023-10-07",
+                    "description": "Interest",
+                    "amount": 2880.11,
+                    "transaction_id": 89606783
+                },
+                {
+                    "date": "2024-05-21",
+                    "description": "Interest",
+                    "amount": 22768.24,
+                    "transaction_id": 74422925
+                },
+                {
+                    "date": "2022-11-06",
+                    "description": "Deposit",
+                    "amount": 41548.9,
+                    "transaction_id": 109572745
+                },
+                {
+                    "date": "2023-09-06",
+                    "description": "Withdrawal",
+                    "amount": 31710.25,
+                    "transaction_id": 86484471
+                }
+            ]
+        }
+    }
+}

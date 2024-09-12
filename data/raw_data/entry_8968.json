@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amanda Gray",
+        "age": 24,
+        "gender": "female",
+        "address": "851 Tonya Hill Suite 641, Whiteton, MO 31611",
+        "phone": "001-339-833-1493",
+        "email": "plopez@example.com",
+        "account": {
+            "account_number": "25ae4418-e497-4815-bb91-709ae98e24e3",
+            "balance": -21567.0,
+            "transactions": [
+                {
+                    "date": "2023-07-05",
+                    "description": "Interest",
+                    "amount": -3789.89,
+                    "transaction_id": 41480885
+                },
+                {
+                    "date": "2023-07-30",
+                    "description": "Deposit",
+                    "amount": -3749.64,
+                    "transaction_id": 66476469
+                },
+                {
+                    "date": "2024-03-05",
+                    "description": "Withdrawal",
+                    "amount": 811.11,
+                    "transaction_id": 117657450
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Withdrawal",
+                    "amount": 4216.41,
+                    "transaction_id": 67209139
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 81,
+        "gender": "female",
+        "address": "USS Guzman, FPO AA 39610",
+        "phone": "725.340.6921",
+        "email": "xestes@example.net",
+        "account": {
+            "account_number": "8dbd5326-f04b-45f3-abfc-70e08776443e",
+            "balance": 33743.66,
+            "transactions": [
+                {
+                    "date": "2023-11-19",
+                    "description": "Withdrawal",
+                    "amount": -4384.75,
+                    "transaction_id": 23446434
+                }
+            ]
+        }
+    }
+}

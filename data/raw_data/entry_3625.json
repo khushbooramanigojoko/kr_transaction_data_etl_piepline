@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alexis Mack",
+        "age": 45,
+        "gender": "female",
+        "address": "107 Michael Vista, Shanebury, MS 16776",
+        "phone": "001-235-866-2762x372",
+        "email": "daisycooper@example.org",
+        "account": {
+            "account_number": "89bf1cc4-19eb-4ed4-b2ce-5c186fd73747",
+            "balance": 35452.07,
+            "transactions": [
+                {
+                    "date": "2023-11-29",
+                    "description": "Interest",
+                    "amount": 48209.95,
+                    "transaction_id": 80426276
+                },
+                {
+                    "date": "2022-11-17",
+                    "description": "Interest",
+                    "amount": 26089.56,
+                    "transaction_id": 69724293
+                },
+                {
+                    "date": "2024-08-12",
+                    "description": "Interest",
+                    "amount": 41563.37,
+                    "transaction_id": 38944775
+                },
+                {
+                    "date": "2023-12-21",
+                    "description": "Withdrawal",
+                    "amount": 8779.09,
+                    "transaction_id": 32686361
+                }
+            ]
+        }
+    }
+}

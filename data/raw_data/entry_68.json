@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kristen Kim",
+        "age": 23,
+        "gender": "female",
+        "address": "112 Brooks Land, North Sarahhaven, IA 10004",
+        "phone": "5569569935",
+        "email": "eric88@example.org",
+        "account": {
+            "account_number": "be9ab30b-5e4b-440a-bcbe-c431e735bbe7",
+            "balance": 48612.88,
+            "transactions": [
+                {
+                    "date": "2024-06-06",
+                    "description": "Withdrawal",
+                    "amount": 20000.52,
+                    "transaction_id": 26394857
+                }
+            ]
+        }
+    }
+}

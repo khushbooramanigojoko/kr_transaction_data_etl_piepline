@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 47,
+        "gender": "female",
+        "address": "35740 Steven Bridge, North Matthew, NE 27986",
+        "phone": "(274)259-7191",
+        "email": "lewisrichard@example.com",
+        "account": {
+            "account_number": "a08b9307-83f8-4af4-bc51-d97eccd9edaa",
+            "balance": 45854.66,
+            "transactions": [
+                {
+                    "date": "2024-05-31",
+                    "description": "Deposit",
+                    "amount": 4852.58,
+                    "transaction_id": 13027003
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Carpenter",
+        "age": 67,
+        "gender": "female",
+        "address": "PSC 5990, Box 6681, APO AA 99620",
+        "phone": "440-743-2433x015",
+        "email": "jamessmith@example.net",
+        "account": {
+            "account_number": "2ce8cb8d-24c0-4b54-8abc-14257d75fa7d",
+            "balance": 44452.79,
+            "transactions": [
+                {
+                    "date": "2023-09-03",
+                    "description": "Withdrawal",
+                    "amount": 22528.67,
+                    "transaction_id": 79399419
+                },
+                {
+                    "date": "2023-04-26",
+                    "description": "Deposit",
+                    "amount": 3749.4,
+                    "transaction_id": 30920118
+                },
+                {
+                    "date": "2023-01-13",
+                    "description": "Deposit",
+                    "amount": 43280.59,
+                    "transaction_id": 7655859
+                }
+            ]
+        }
+    }
+}

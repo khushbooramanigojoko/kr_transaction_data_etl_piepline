@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Elizabeth Green",
+        "age": 67,
+        "gender": "male",
+        "address": "638 Bruce Valleys Suite 104, Lorichester, AR 85960",
+        "phone": "001-827-666-8132",
+        "email": "eriklopez@example.org",
+        "account": {
+            "account_number": "f40eb892-0a30-4f6f-8d24-dd0317de499b",
+            "balance": 40306.18,
+            "transactions": [
+                {
+                    "date": "2024-08-30",
+                    "description": "Deposit",
+                    "amount": 44708.33,
+                    "transaction_id": 81426018
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Interest",
+                    "amount": 33158.88,
+                    "transaction_id": 96642744
+                }
+            ]
+        }
+    }
+}

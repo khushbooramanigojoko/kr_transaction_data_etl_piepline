@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ryan Lopez",
+        "age": 64,
+        "gender": "female",
+        "address": "59829 Natasha Plains Suite 409, Prattfort, MD 61872",
+        "phone": "(281)293-4758x111",
+        "email": "charleswilliams@example.com",
+        "account": {
+            "account_number": "41f76996-d06a-4bdd-afa8-7af6a37bc6b3",
+            "balance": 12718.96,
+            "transactions": [
+                {
+                    "date": "2024-06-09",
+                    "description": "Interest",
+                    "amount": 12555.04,
+                    "transaction_id": 73539835
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Interest",
+                    "amount": 14844.92,
+                    "transaction_id": 60390899
+                }
+            ]
+        }
+    }
+}

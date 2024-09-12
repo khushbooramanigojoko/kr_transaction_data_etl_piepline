@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 95,
+        "gender": "male",
+        "address": "588 Ashley Pass, Carrolltown, WV 25484",
+        "phone": "+1-209-261-7377x97825",
+        "email": "daniel85@example.com",
+        "account": {
+            "account_number": "ce7f4652-42fd-460c-9a37-c969383d0cfb",
+            "balance": 24124.36,
+            "transactions": [
+                {
+                    "date": "2022-11-18",
+                    "description": "Withdrawal",
+                    "amount": 4246.61,
+                    "transaction_id": 50045674
+                },
+                {
+                    "date": "2024-03-31",
+                    "description": "Interest",
+                    "amount": -2844.44,
+                    "transaction_id": 108753319
+                }
+            ]
+        }
+    }
+}

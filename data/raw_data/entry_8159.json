@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kenneth Jackson",
+        "age": 55,
+        "gender": "male",
+        "address": "5710 Wong Plain, West Kimberly, MA 48280",
+        "phone": "835.915.3161x35149",
+        "email": "brittany01@example.com",
+        "account": {
+            "account_number": "d7f3bb77-926d-47e5-acbd-ff645acaa358",
+            "balance": 49281.41,
+            "transactions": [
+                {
+                    "date": "2023-08-06",
+                    "description": "Deposit",
+                    "amount": 38205.86,
+                    "transaction_id": 104560288
+                }
+            ]
+        }
+    }
+}

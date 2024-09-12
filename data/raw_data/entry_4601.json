@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christina Torres",
+        "age": 59,
+        "gender": "female",
+        "address": "136 Andres Crest, Stricklandside, PA 87706",
+        "phone": "001-804-914-8780x532",
+        "email": "donaldreed@example.net",
+        "account": {
+            "account_number": "cd6f738e-ddbe-4608-ba71-edea74e1845e",
+            "balance": 21347.76,
+            "transactions": [
+                {
+                    "date": "2023-05-13",
+                    "description": "Withdrawal",
+                    "amount": 28027.22,
+                    "transaction_id": 106044884
+                },
+                {
+                    "date": "2023-09-09",
+                    "description": "Interest",
+                    "amount": 18895.41,
+                    "transaction_id": 80524390
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Deposit",
+                    "amount": 26379.05,
+                    "transaction_id": 65960489
+                },
+                {
+                    "date": "2023-11-14",
+                    "description": "Interest",
+                    "amount": 39992.54,
+                    "transaction_id": 17394118
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Interest",
+                    "amount": 11296.24,
+                    "transaction_id": 46588917
+                }
+            ]
+        }
+    }
+}

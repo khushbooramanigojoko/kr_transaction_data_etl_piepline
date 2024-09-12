@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brendan Mason",
+        "age": 71,
+        "gender": "female",
+        "address": "USNS Howard, FPO AA 91772",
+        "phone": "(668)471-6037",
+        "email": "brian60@example.com",
+        "account": {
+            "account_number": "675b5e70-2161-4336-8440-3c0d05d41a33",
+            "balance": 39694.51,
+            "transactions": [
+                {
+                    "date": "2024-07-06",
+                    "description": "Interest",
+                    "amount": 43982.5,
+                    "transaction_id": 66394998
+                },
+                {
+                    "date": "2024-03-31",
+                    "description": "Deposit",
+                    "amount": 5775.65,
+                    "transaction_id": 20589912
+                },
+                {
+                    "date": "2023-12-05",
+                    "description": "Interest",
+                    "amount": 5936.08,
+                    "transaction_id": 116211802
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Withdrawal",
+                    "amount": 2109.12,
+                    "transaction_id": 6221809
+                },
+                {
+                    "date": "2024-02-13",
+                    "description": "Interest",
+                    "amount": 3295.78,
+                    "transaction_id": 100235078
+                }
+            ]
+        }
+    }
+}

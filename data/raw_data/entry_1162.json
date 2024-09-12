@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kendra Harmon",
+        "age": 77,
+        "gender": "female",
+        "address": "78326 Walker Locks Apt. 779, Carrieborough, TN 91886",
+        "phone": "001-824-912-4416x9609",
+        "email": "anna95@example.org",
+        "account": {
+            "account_number": "68bf9cc6-f0e6-4fd1-a119-9abf808bc982",
+            "balance": 37703.83,
+            "transactions": [
+                {
+                    "date": "2023-01-18",
+                    "description": "Withdrawal",
+                    "amount": 11115.68,
+                    "transaction_id": 37775995
+                }
+            ]
+        }
+    }
+}

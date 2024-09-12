@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ashley Gardner",
+        "age": 59,
+        "gender": "female",
+        "address": "USNV Allison, FPO AA 33259",
+        "phone": "001-576-493-7746x422",
+        "email": "justinross@example.net",
+        "account": {
+            "account_number": "22c99363-7978-4630-8e39-478238d7caba",
+            "balance": -12044.38,
+            "transactions": [
+                {
+                    "date": "2023-03-26",
+                    "description": "Deposit",
+                    "amount": 1405.32,
+                    "transaction_id": 38230962
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Deposit",
+                    "amount": -3373.37,
+                    "transaction_id": 6067165
+                },
+                {
+                    "date": "2023-08-24",
+                    "description": "Withdrawal",
+                    "amount": 4692.0,
+                    "transaction_id": 4520601
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Interest",
+                    "amount": 270.4,
+                    "transaction_id": 32717259
+                }
+            ]
+        }
+    }
+}

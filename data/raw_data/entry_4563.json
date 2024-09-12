@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Taylor Sanders",
+        "age": 59,
+        "gender": "female",
+        "address": "7330 John Lane Suite 122, Danielleshire, CO 01830",
+        "phone": "570-366-7153x9612",
+        "email": "ryanramos@example.net",
+        "account": {
+            "account_number": "9382ca76-2ae9-4456-bc18-8dcf02e5461b",
+            "balance": 3749.22,
+            "transactions": [
+                {
+                    "date": "2023-11-22",
+                    "description": "Withdrawal",
+                    "amount": 44663.53,
+                    "transaction_id": 100457197
+                }
+            ]
+        }
+    }
+}

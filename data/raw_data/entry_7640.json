@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Blake Jennings",
+        "age": 45,
+        "gender": "male",
+        "address": "98241 Abigail Extensions Apt. 885, Alexbury, MI 21768",
+        "phone": "001-221-288-9964x612",
+        "email": "jimmy13@example.com",
+        "account": {
+            "account_number": "760e1a0a-19fb-4887-b127-8b788ca302ea",
+            "balance": 45974.42,
+            "transactions": [
+                {
+                    "date": "2022-11-23",
+                    "description": "Withdrawal",
+                    "amount": 16604.14,
+                    "transaction_id": 50338138
+                },
+                {
+                    "date": "2022-10-09",
+                    "description": "Interest",
+                    "amount": 14435.55,
+                    "transaction_id": 75996135
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Interest",
+                    "amount": 673.24,
+                    "transaction_id": 42243079
+                },
+                {
+                    "date": "2022-12-11",
+                    "description": "Deposit",
+                    "amount": 38241.59,
+                    "transaction_id": 111176079
+                },
+                {
+                    "date": "2024-03-22",
+                    "description": "Deposit",
+                    "amount": 48261.38,
+                    "transaction_id": 107767043
+                }
+            ]
+        }
+    }
+}

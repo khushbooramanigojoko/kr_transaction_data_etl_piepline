@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Ayala",
+        "age": 75,
+        "gender": "female",
+        "address": "117 Bailey Harbor, North Rebecca, OH 59103",
+        "phone": "001-212-738-7243x106",
+        "email": "mgregory@example.org",
+        "account": {
+            "account_number": "9aad2b1e-16ed-434a-9d6c-28b85ab5c52c",
+            "balance": -38253.57,
+            "transactions": [
+                {
+                    "date": "2022-09-17",
+                    "description": "Withdrawal",
+                    "amount": 338.36,
+                    "transaction_id": 19023251
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Withdrawal",
+                    "amount": -310.39,
+                    "transaction_id": 69209446
+                },
+                {
+                    "date": "2023-11-09",
+                    "description": "Interest",
+                    "amount": 2928.14,
+                    "transaction_id": 67202123
+                },
+                {
+                    "date": "2023-06-30",
+                    "description": "Withdrawal",
+                    "amount": 3807.36,
+                    "transaction_id": 105840322
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Deposit",
+                    "amount": -2861.52,
+                    "transaction_id": 22164185
+                }
+            ]
+        }
+    }
+}

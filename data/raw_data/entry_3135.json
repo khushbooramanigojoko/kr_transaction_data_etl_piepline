@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Stacey Mack DDS",
+        "age": 23,
+        "gender": "female",
+        "address": "61035 Nicholas Wells, South Timothymouth, CT 06433",
+        "phone": "(534)730-6277",
+        "email": "conradjames@example.org",
+        "account": {
+            "account_number": "98710e33-4f6e-4863-a9d0-6c0b3cc30b1b",
+            "balance": 26679.51,
+            "transactions": [
+                {
+                    "date": "2022-12-06",
+                    "description": "Withdrawal",
+                    "amount": 33983.13,
+                    "transaction_id": 72978195
+                },
+                {
+                    "date": "2024-05-06",
+                    "description": "Withdrawal",
+                    "amount": 25461.66,
+                    "transaction_id": 63133875
+                }
+            ]
+        }
+    }
+}

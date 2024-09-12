@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "April Lopez",
+        "age": 39,
+        "gender": "female",
+        "address": "5029 Christopher Plaza Apt. 913, Port Kellieport, MN 44564",
+        "phone": "+1-933-710-6646x595",
+        "email": "joshuarodriguez@example.com",
+        "account": {
+            "account_number": "d65487d3-06eb-4c20-ab34-c85710d3f11e",
+            "balance": 44615.69,
+            "transactions": [
+                {
+                    "date": "2024-02-25",
+                    "description": "Interest",
+                    "amount": 18715.15,
+                    "transaction_id": 19233597
+                },
+                {
+                    "date": "2024-07-27",
+                    "description": "Deposit",
+                    "amount": 18422.68,
+                    "transaction_id": 43467294
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Withdrawal",
+                    "amount": 48748.56,
+                    "transaction_id": 43821534
+                },
+                {
+                    "date": "2023-05-07",
+                    "description": "Deposit",
+                    "amount": 15371.37,
+                    "transaction_id": 83901759
+                },
+                {
+                    "date": "2024-03-30",
+                    "description": "Withdrawal",
+                    "amount": 49446.75,
+                    "transaction_id": 67408006
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Robert Bowen",
+        "age": 57,
+        "gender": "female",
+        "address": "588 Linda Plain Suite 995, Monicaberg, NJ 39765",
+        "phone": "533.444.3135",
+        "email": "igross@example.org",
+        "account": {
+            "account_number": "13fa3611-3776-48dd-9800-63106b37b876",
+            "balance": 49872.23,
+            "transactions": [
+                {
+                    "date": "2023-03-30",
+                    "description": "Interest",
+                    "amount": 32618.41,
+                    "transaction_id": 5682236
+                }
+            ]
+        }
+    }
+}

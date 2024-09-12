@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Steven Rich",
+        "age": 64,
+        "gender": "female",
+        "address": "Unit 3719 Box 8841, DPO AE 74163",
+        "phone": "325-678-5090",
+        "email": "lorimorgan@example.org",
+        "account": {
+            "account_number": "9753c05a-1051-404d-b94f-46a1fe129332",
+            "balance": 32128.96,
+            "transactions": [
+                {
+                    "date": "2023-07-02",
+                    "description": "Interest",
+                    "amount": 4327.39,
+                    "transaction_id": 86527067
+                }
+            ]
+        }
+    }
+}

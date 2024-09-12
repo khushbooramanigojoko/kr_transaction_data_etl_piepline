@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lisa Moore",
+        "age": 23,
+        "gender": "female",
+        "address": "76247 Smith Heights Suite 613, East Sarah, PR 99642",
+        "phone": "409-466-9986",
+        "email": "ruizmarissa@example.com",
+        "account": {
+            "account_number": "35db3bde-cb2c-4349-b30f-b196d706ba42",
+            "balance": 6219.87,
+            "transactions": [
+                {
+                    "date": "2023-03-22",
+                    "description": "Deposit",
+                    "amount": 40601.77,
+                    "transaction_id": 50467167
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Carl Stewart",
+        "age": 77,
+        "gender": "female",
+        "address": "11912 Walker Way, Port Connie, MD 03984",
+        "phone": "482.850.5510x5191",
+        "email": "toddconner@example.net",
+        "account": {
+            "account_number": "32e4198f-00f2-4f38-89f5-923b3b615d34",
+            "balance": 3725.97,
+            "transactions": [
+                {
+                    "date": "2023-11-11",
+                    "description": "Interest",
+                    "amount": 22891.78,
+                    "transaction_id": 76603832
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Interest",
+                    "amount": 47359.82,
+                    "transaction_id": 74260396
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Shawn Powell",
+        "age": 20,
+        "gender": "female",
+        "address": "487 Edwin Avenue Suite 869, Moyerburgh, IN 81115",
+        "phone": "295-345-2290x7379",
+        "email": "allisondowns@example.com",
+        "account": {
+            "account_number": "f565a716-ee0b-4fdb-b8d3-14c818c3a8e6",
+            "balance": 27072.38,
+            "transactions": [
+                {
+                    "date": "2024-01-17",
+                    "description": "Withdrawal",
+                    "amount": 9301.4,
+                    "transaction_id": 97652811
+                },
+                {
+                    "date": "2022-10-25",
+                    "description": "Withdrawal",
+                    "amount": 4807.98,
+                    "transaction_id": 15161352
+                }
+            ]
+        }
+    }
+}

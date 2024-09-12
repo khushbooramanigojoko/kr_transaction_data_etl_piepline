@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Corey Phelps",
+        "age": 25,
+        "gender": "female",
+        "address": "400 Samuel Walk Suite 441, South Frank, NM 48849",
+        "phone": "(944)446-9239x4596",
+        "email": "chad73@example.org",
+        "account": {
+            "account_number": "fc967438-39ae-48cc-8a37-1c8bafaae0b3",
+            "balance": 25393.25,
+            "transactions": [
+                {
+                    "date": "2023-12-15",
+                    "description": "Interest",
+                    "amount": 24560.12,
+                    "transaction_id": 41490724
+                },
+                {
+                    "date": "2024-06-10",
+                    "description": "Withdrawal",
+                    "amount": 22639.98,
+                    "transaction_id": 32124088
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Deposit",
+                    "amount": 34782.3,
+                    "transaction_id": 104923165
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Deposit",
+                    "amount": 22136.11,
+                    "transaction_id": 56585374
+                },
+                {
+                    "date": "2024-07-03",
+                    "description": "Withdrawal",
+                    "amount": 46664.45,
+                    "transaction_id": 40121331
+                }
+            ]
+        }
+    }
+}

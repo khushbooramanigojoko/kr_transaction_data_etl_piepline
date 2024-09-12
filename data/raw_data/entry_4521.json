@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Bryan Lee",
+        "age": 38,
+        "gender": "female",
+        "address": "561 Oconnor Lights, West Ricardo, AK 42286",
+        "phone": "001-517-619-3691x77440",
+        "email": "justin82@example.net",
+        "account": {
+            "account_number": "577e13ab-977a-406e-8233-b26b06039f07",
+            "balance": 37305.15,
+            "transactions": [
+                {
+                    "date": "2023-04-10",
+                    "description": "Interest",
+                    "amount": 4383.24,
+                    "transaction_id": 35099864
+                },
+                {
+                    "date": "2023-05-21",
+                    "description": "Interest",
+                    "amount": 37427.6,
+                    "transaction_id": 79190124
+                },
+                {
+                    "date": "2024-08-03",
+                    "description": "Withdrawal",
+                    "amount": 11498.87,
+                    "transaction_id": 54314586
+                },
+                {
+                    "date": "2024-03-24",
+                    "description": "Deposit",
+                    "amount": 35236.62,
+                    "transaction_id": 62840606
+                },
+                {
+                    "date": "2024-02-20",
+                    "description": "Interest",
+                    "amount": 39678.39,
+                    "transaction_id": 6807059
+                }
+            ]
+        }
+    }
+}

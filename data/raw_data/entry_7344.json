@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jerome White",
+        "age": 87,
+        "gender": "male",
+        "address": "4454 Robert Cove, New Amanda, NV 05822",
+        "phone": "+1-273-462-8014x19884",
+        "email": "adamsstephanie@example.com",
+        "account": {
+            "account_number": "e44bef39-0063-46bb-9578-7405ec8bb86c",
+            "balance": 35963.29,
+            "transactions": [
+                {
+                    "date": "2023-10-14",
+                    "description": "Withdrawal",
+                    "amount": 4974.42,
+                    "transaction_id": 50435053
+                },
+                {
+                    "date": "2022-12-25",
+                    "description": "Interest",
+                    "amount": 46604.45,
+                    "transaction_id": 66519255
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Deposit",
+                    "amount": 31690.67,
+                    "transaction_id": 109046581
+                }
+            ]
+        }
+    }
+}

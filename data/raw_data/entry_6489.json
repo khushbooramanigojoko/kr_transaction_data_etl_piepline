@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Heidi Davis",
+        "age": 34,
+        "gender": "female",
+        "address": "120 Gregory Shoals Suite 611, East Jeremyborough, MA 56586",
+        "phone": "+1-205-918-5172",
+        "email": "thomasjames@example.net",
+        "account": {
+            "account_number": "ce39933a-84f1-423b-b66c-0876bd9cfed7",
+            "balance": 43434.88,
+            "transactions": [
+                {
+                    "date": "2024-02-13",
+                    "description": "Withdrawal",
+                    "amount": 39204.19,
+                    "transaction_id": 1125616
+                },
+                {
+                    "date": "2023-09-21",
+                    "description": "Withdrawal",
+                    "amount": 21945.35,
+                    "transaction_id": 61219207
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Interest",
+                    "amount": 25423.92,
+                    "transaction_id": 67184449
+                }
+            ]
+        }
+    }
+}

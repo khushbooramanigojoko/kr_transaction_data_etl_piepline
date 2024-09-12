@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jorge Leonard",
+        "age": 80,
+        "gender": "male",
+        "address": "739 Spears Stravenue Apt. 508, Port Kaylee, KS 56506",
+        "phone": "001-409-418-4083x56961",
+        "email": "evanslisa@example.net",
+        "account": {
+            "account_number": "7e2993a8-8548-4494-a9ca-5e0727e3caa4",
+            "balance": 8503.64,
+            "transactions": [
+                {
+                    "date": "2022-12-21",
+                    "description": "Withdrawal",
+                    "amount": 30097.27,
+                    "transaction_id": 6125817
+                }
+            ]
+        }
+    }
+}

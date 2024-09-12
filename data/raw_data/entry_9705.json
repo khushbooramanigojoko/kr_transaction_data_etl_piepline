@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "male",
+        "address": "8615 Michael Alley Apt. 800, North Debbie, IN 52445",
+        "phone": "(767)856-2960x704",
+        "email": "natalieduke@example.net",
+        "account": {
+            "account_number": "aa1ad722-27d1-4f0c-a986-004da0b78f23",
+            "balance": 38498.2,
+            "transactions": [
+                {
+                    "date": "2024-03-19",
+                    "description": "Deposit",
+                    "amount": -501.23,
+                    "transaction_id": 90473069
+                }
+            ]
+        }
+    }
+}

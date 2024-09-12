@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 71,
+        "gender": "female",
+        "address": "2514 Courtney Lock, South Sarahstad, GU 13564",
+        "phone": "+1-660-495-7939x78026",
+        "email": "brentschultz@example.net",
+        "account": {
+            "account_number": "f73ad83b-f087-4c71-a651-e5b2034e44f7",
+            "balance": 18199.7,
+            "transactions": [
+                {
+                    "date": "2024-02-27",
+                    "description": "Interest",
+                    "amount": -2373.15,
+                    "transaction_id": 74076219
+                },
+                {
+                    "date": "2022-12-02",
+                    "description": "Withdrawal",
+                    "amount": -281.89,
+                    "transaction_id": 71024208
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Withdrawal",
+                    "amount": 2853.42,
+                    "transaction_id": 69387496
+                }
+            ]
+        }
+    }
+}

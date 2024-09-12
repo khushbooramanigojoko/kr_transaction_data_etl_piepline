@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jeremy Cole",
+        "age": 30,
+        "gender": "male",
+        "address": "9764 Duran Wall, Lake Sarachester, RI 86573",
+        "phone": "926-706-3182x11942",
+        "email": "smithmark@example.com",
+        "account": {
+            "account_number": "c6f6b074-3fd5-4fcc-bea6-f0e293fe06c9",
+            "balance": 25106.98,
+            "transactions": [
+                {
+                    "date": "2023-11-05",
+                    "description": "Deposit",
+                    "amount": 47390.92,
+                    "transaction_id": 110095408
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Interest",
+                    "amount": 45881.05,
+                    "transaction_id": 26124928
+                },
+                {
+                    "date": "2024-07-09",
+                    "description": "Deposit",
+                    "amount": 29476.06,
+                    "transaction_id": 29566480
+                },
+                {
+                    "date": "2023-10-20",
+                    "description": "Interest",
+                    "amount": 14616.12,
+                    "transaction_id": 60590395
+                },
+                {
+                    "date": "2022-10-03",
+                    "description": "Interest",
+                    "amount": 3005.36,
+                    "transaction_id": 1213008
+                }
+            ]
+        }
+    }
+}

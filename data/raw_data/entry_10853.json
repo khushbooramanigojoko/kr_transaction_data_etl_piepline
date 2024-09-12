@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Debra Velazquez",
+        "age": 47,
+        "gender": "female",
+        "address": "1652 Jennifer Parkway Suite 896, Benjaminfurt, IN 84732",
+        "phone": "550-840-4745",
+        "email": "smithdiana@example.net",
+        "account": {
+            "account_number": "76c5ba35-477e-4bb5-9a61-339db8cd1478",
+            "balance": -21839.06,
+            "transactions": [
+                {
+                    "date": "2022-12-31",
+                    "description": "Deposit",
+                    "amount": -3363.27,
+                    "transaction_id": 30618439
+                },
+                {
+                    "date": "2023-08-31",
+                    "description": "Withdrawal",
+                    "amount": 1026.07,
+                    "transaction_id": 39875271
+                }
+            ]
+        }
+    }
+}

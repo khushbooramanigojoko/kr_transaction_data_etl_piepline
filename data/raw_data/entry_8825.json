@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 91,
+        "gender": "female",
+        "address": "50612 Wood Gateway Suite 995, Debbiechester, OR 55358",
+        "phone": "697-463-0880",
+        "email": "greerrebecca@example.com",
+        "account": {
+            "account_number": "489e276f-3bde-4021-a166-3a8ab564c6d8",
+            "balance": 16598.87,
+            "transactions": [
+                {
+                    "date": "2022-11-21",
+                    "description": "Deposit",
+                    "amount": 2537.74,
+                    "transaction_id": 114071797
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Interest",
+                    "amount": 1729.73,
+                    "transaction_id": 61277192
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Withdrawal",
+                    "amount": -1330.91,
+                    "transaction_id": 117708212
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Interest",
+                    "amount": -4408.96,
+                    "transaction_id": 32688485
+                }
+            ]
+        }
+    }
+}

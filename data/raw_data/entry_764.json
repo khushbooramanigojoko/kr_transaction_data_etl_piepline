@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Victor Johnson",
+        "age": 74,
+        "gender": "female",
+        "address": "21252 Mcdonald Ranch, Port Michael, TN 09473",
+        "phone": "001-793-587-4047x3604",
+        "email": "tyler45@example.com",
+        "account": {
+            "account_number": "25158f8e-9420-4e9c-816f-b23721938220",
+            "balance": 11295.31,
+            "transactions": [
+                {
+                    "date": "2023-11-24",
+                    "description": "Withdrawal",
+                    "amount": 21394.06,
+                    "transaction_id": 66413990
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Interest",
+                    "amount": 1732.74,
+                    "transaction_id": 71303341
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Deposit",
+                    "amount": 17448.83,
+                    "transaction_id": 48253140
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Deposit",
+                    "amount": 25008.79,
+                    "transaction_id": 40926505
+                }
+            ]
+        }
+    }
+}

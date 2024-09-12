@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Aaron Thomas",
+        "age": 62,
+        "gender": "male",
+        "address": "1455 Murphy Roads Suite 133, East Wyatt, ND 84982",
+        "phone": "812-342-3990",
+        "email": "tina10@example.com",
+        "account": {
+            "account_number": "84e4c7b0-4a90-4518-a8e1-5b2a7a69f6a3",
+            "balance": 49459.77,
+            "transactions": [
+                {
+                    "date": "2023-03-04",
+                    "description": "Deposit",
+                    "amount": 42619.86,
+                    "transaction_id": 49547755
+                },
+                {
+                    "date": "2022-10-03",
+                    "description": "Withdrawal",
+                    "amount": 38257.43,
+                    "transaction_id": 10499815
+                },
+                {
+                    "date": "2024-06-17",
+                    "description": "Withdrawal",
+                    "amount": 17215.91,
+                    "transaction_id": 81959340
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Deposit",
+                    "amount": 48193.81,
+                    "transaction_id": 59351146
+                },
+                {
+                    "date": "2023-12-18",
+                    "description": "Deposit",
+                    "amount": 17049.03,
+                    "transaction_id": 16327209
+                }
+            ]
+        }
+    }
+}

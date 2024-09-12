@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Shelley Conrad",
+        "age": 35,
+        "gender": "female",
+        "address": "400 Christopher Brook Apt. 232, Port Thomaston, UT 72698",
+        "phone": "935-949-3107x1198",
+        "email": "vwashington@example.com",
+        "account": {
+            "account_number": "45ba6623-4bdd-44b0-a917-c34f877a92e9",
+            "balance": 7420.17,
+            "transactions": [
+                {
+                    "date": "2024-05-07",
+                    "description": "Interest",
+                    "amount": 33110.42,
+                    "transaction_id": 81495899
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Withdrawal",
+                    "amount": 22769.3,
+                    "transaction_id": 106449808
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Withdrawal",
+                    "amount": 34222.33,
+                    "transaction_id": 108820816
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Emily Montgomery",
+        "age": 38,
+        "gender": "female",
+        "address": "588 Burgess Plains, Port Cherylhaven, ID 77452",
+        "phone": "(508)250-2050x0583",
+        "email": "thomasthornton@example.org",
+        "account": {
+            "account_number": "6e35e422-6e48-4f3a-bbe5-7363eae20bf8",
+            "balance": 33051.66,
+            "transactions": [
+                {
+                    "date": "2022-11-06",
+                    "description": "Interest",
+                    "amount": 29466.78,
+                    "transaction_id": 31141742
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Interest",
+                    "amount": 24908.53,
+                    "transaction_id": 37289237
+                }
+            ]
+        }
+    }
+}

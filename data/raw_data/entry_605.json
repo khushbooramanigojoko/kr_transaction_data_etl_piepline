@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Ortega",
+        "age": 91,
+        "gender": "male",
+        "address": "88480 Marquez Inlet Apt. 700, Lake Lisastad, SD 50932",
+        "phone": "(702)802-1037",
+        "email": "hjohnson@example.com",
+        "account": {
+            "account_number": "8e049cce-07e9-46c6-9324-50076d6800fb",
+            "balance": 4875.04,
+            "transactions": [
+                {
+                    "date": "2023-12-06",
+                    "description": "Withdrawal",
+                    "amount": 7545.1,
+                    "transaction_id": 10496085
+                },
+                {
+                    "date": "2023-11-14",
+                    "description": "Interest",
+                    "amount": 17619.68,
+                    "transaction_id": 14048219
+                },
+                {
+                    "date": "2023-05-30",
+                    "description": "Interest",
+                    "amount": 24749.62,
+                    "transaction_id": 53532151
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Deposit",
+                    "amount": 30309.97,
+                    "transaction_id": 56834754
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Withdrawal",
+                    "amount": 18727.66,
+                    "transaction_id": 100603768
+                }
+            ]
+        }
+    }
+}

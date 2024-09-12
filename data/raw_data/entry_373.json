@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Elizabeth Davis",
+        "age": 98,
+        "gender": "male",
+        "address": "0548 Madison Knolls, Piercefort, NM 66411",
+        "phone": "001-331-460-8660x934",
+        "email": "tallison@example.net",
+        "account": {
+            "account_number": "f187fc21-2fdb-41a5-839f-907a4cbdf47c",
+            "balance": 22497.57,
+            "transactions": [
+                {
+                    "date": "2024-06-18",
+                    "description": "Withdrawal",
+                    "amount": 13779.6,
+                    "transaction_id": 58241879
+                },
+                {
+                    "date": "2024-05-19",
+                    "description": "Interest",
+                    "amount": 13571.86,
+                    "transaction_id": 97722363
+                },
+                {
+                    "date": "2023-09-02",
+                    "description": "Deposit",
+                    "amount": 9229.0,
+                    "transaction_id": 99798010
+                },
+                {
+                    "date": "2024-08-16",
+                    "description": "Withdrawal",
+                    "amount": 44344.34,
+                    "transaction_id": 15118440
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Deborah Fischer",
+        "age": 33,
+        "gender": "female",
+        "address": "97108 Jessica Springs, Jeremyview, RI 57958",
+        "phone": "533.530.8205x34685",
+        "email": "kaitlin80@example.com",
+        "account": {
+            "account_number": "a614e196-ae1c-492e-89c9-c65e6f84d592",
+            "balance": 34469.31,
+            "transactions": [
+                {
+                    "date": "2023-05-23",
+                    "description": "Interest",
+                    "amount": 36115.37,
+                    "transaction_id": 36304674
+                }
+            ]
+        }
+    }
+}

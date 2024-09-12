@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Colleen Brown",
+        "age": 34,
+        "gender": "male",
+        "address": "Unit 3167 Box 6953, DPO AP 56244",
+        "phone": "001-569-454-6338",
+        "email": "xalvarez@example.net",
+        "account": {
+            "account_number": "558aa190-f2f1-42b2-91bc-c538707318cd",
+            "balance": 36066.46,
+            "transactions": [
+                {
+                    "date": "2024-06-14",
+                    "description": "Deposit",
+                    "amount": 1627.78,
+                    "transaction_id": 33140581
+                },
+                {
+                    "date": "2024-04-11",
+                    "description": "Interest",
+                    "amount": 29078.82,
+                    "transaction_id": 4533656
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Interest",
+                    "amount": 23330.72,
+                    "transaction_id": 11978887
+                }
+            ]
+        }
+    }
+}

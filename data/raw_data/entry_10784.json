@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 49,
+        "gender": "female",
+        "address": "5475 Justin Ports Apt. 685, Port Benjamin, IL 92190",
+        "phone": "8503765828",
+        "email": "ebates@example.org",
+        "account": {
+            "account_number": "d450476f-c8a0-48aa-af45-7bac40e77081",
+            "balance": 17241.06,
+            "transactions": [
+                {
+                    "date": "2023-07-26",
+                    "description": "Deposit",
+                    "amount": 4894.83,
+                    "transaction_id": 16077601
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Interest",
+                    "amount": -4389.82,
+                    "transaction_id": 8941542
+                }
+            ]
+        }
+    }
+}

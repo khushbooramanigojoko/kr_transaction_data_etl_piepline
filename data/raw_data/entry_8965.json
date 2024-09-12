@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Alexandra Sutton",
+        "age": 46,
+        "gender": "female",
+        "address": "278 Duran Harbors, Port Whitney, OK 38517",
+        "phone": "9349250938",
+        "email": "stonelynn@example.org",
+        "account": {
+            "account_number": "d56d248a-9370-4195-b90e-bbe9a36b9f8d",
+            "balance": -45274.92,
+            "transactions": [
+                {
+                    "date": "2023-06-27",
+                    "description": "Interest",
+                    "amount": 2784.32,
+                    "transaction_id": 67840908
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Withdrawal",
+                    "amount": -893.29,
+                    "transaction_id": 2225112
+                }
+            ]
+        }
+    }
+}

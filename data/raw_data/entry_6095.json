@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amy Hooper",
+        "age": 45,
+        "gender": "female",
+        "address": "Unit 5980 Box 4253, DPO AE 58927",
+        "phone": "(536)635-1202",
+        "email": "beverly48@example.net",
+        "account": {
+            "account_number": "dce967f0-1e84-453a-b4fe-5a8f240e05d3",
+            "balance": 2841.45,
+            "transactions": [
+                {
+                    "date": "2023-03-20",
+                    "description": "Deposit",
+                    "amount": 22509.72,
+                    "transaction_id": 30465411
+                },
+                {
+                    "date": "2023-10-02",
+                    "description": "Withdrawal",
+                    "amount": 26519.58,
+                    "transaction_id": 78865618
+                }
+            ]
+        }
+    }
+}

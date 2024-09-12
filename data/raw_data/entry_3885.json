@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jennifer Smith",
+        "age": 92,
+        "gender": "male",
+        "address": "3981 Allison Street, Seanstad, ME 05649",
+        "phone": "340-667-4442",
+        "email": "scottphillips@example.net",
+        "account": {
+            "account_number": "b216a5b4-958d-4180-93f2-f1f0210f7f95",
+            "balance": 24595.2,
+            "transactions": [
+                {
+                    "date": "2023-09-05",
+                    "description": "Deposit",
+                    "amount": 9033.19,
+                    "transaction_id": 7645762
+                },
+                {
+                    "date": "2024-08-24",
+                    "description": "Interest",
+                    "amount": 38828.06,
+                    "transaction_id": 80899837
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Deposit",
+                    "amount": 21502.87,
+                    "transaction_id": 33129941
+                },
+                {
+                    "date": "2022-11-23",
+                    "description": "Withdrawal",
+                    "amount": 43136.01,
+                    "transaction_id": 34217249
+                }
+            ]
+        }
+    }
+}

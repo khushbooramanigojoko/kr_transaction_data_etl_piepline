@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sheri Delacruz",
+        "age": 96,
+        "gender": "male",
+        "address": "9642 Carter Course Suite 633, Charlesberg, MD 59415",
+        "phone": "654.333.9675x3981",
+        "email": "angela56@example.com",
+        "account": {
+            "account_number": "6176fdd9-bb3b-4701-a380-7cd800cbce41",
+            "balance": 34047.47,
+            "transactions": [
+                {
+                    "date": "2024-01-17",
+                    "description": "Withdrawal",
+                    "amount": 36582.75,
+                    "transaction_id": 111508000
+                },
+                {
+                    "date": "2024-08-22",
+                    "description": "Withdrawal",
+                    "amount": 34245.44,
+                    "transaction_id": 49537122
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Withdrawal",
+                    "amount": 35899.97,
+                    "transaction_id": 64118250
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Withdrawal",
+                    "amount": 19829.46,
+                    "transaction_id": 21435962
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Withdrawal",
+                    "amount": 16576.34,
+                    "transaction_id": 28787617
+                }
+            ]
+        }
+    }
+}

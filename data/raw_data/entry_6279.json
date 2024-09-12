@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jason Walker",
+        "age": 36,
+        "gender": "female",
+        "address": "85864 Jonathan Estates Apt. 041, Beckville, OK 98308",
+        "phone": "360-634-2002x853",
+        "email": "garzasara@example.org",
+        "account": {
+            "account_number": "0cf1d65b-3a2f-4f8a-8b77-3e0490503268",
+            "balance": 24131.99,
+            "transactions": [
+                {
+                    "date": "2024-08-02",
+                    "description": "Deposit",
+                    "amount": 33017.55,
+                    "transaction_id": 50670335
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Interest",
+                    "amount": 31356.77,
+                    "transaction_id": 102907247
+                },
+                {
+                    "date": "2024-03-08",
+                    "description": "Interest",
+                    "amount": 28116.32,
+                    "transaction_id": 107316655
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Deposit",
+                    "amount": 41625.63,
+                    "transaction_id": 102597110
+                }
+            ]
+        }
+    }
+}

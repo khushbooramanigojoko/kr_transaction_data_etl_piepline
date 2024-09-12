@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Whitney Rodriguez",
+        "age": 88,
+        "gender": "male",
+        "address": "92200 Christopher Underpass, Hollandfort, UT 46503",
+        "phone": "+1-790-933-1511x90082",
+        "email": "matthew16@example.org",
+        "account": {
+            "account_number": "bfcaa6bb-e37a-4e69-8f4a-b1af3626a062",
+            "balance": 28221.14,
+            "transactions": [
+                {
+                    "date": "2024-04-21",
+                    "description": "Interest",
+                    "amount": 12070.03,
+                    "transaction_id": 83178170
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Withdrawal",
+                    "amount": 37116.36,
+                    "transaction_id": 37658762
+                }
+            ]
+        }
+    }
+}

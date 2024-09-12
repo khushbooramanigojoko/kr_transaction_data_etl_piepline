@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sandra Taylor",
+        "age": 95,
+        "gender": "male",
+        "address": "PSC 4911, Box 3506, APO AE 15584",
+        "phone": "801-993-8477x950",
+        "email": "ystewart@example.com",
+        "account": {
+            "account_number": "e183dbce-cd01-4b80-9abc-0eaaee89ad6b",
+            "balance": 39499.45,
+            "transactions": [
+                {
+                    "date": "2023-06-08",
+                    "description": "Withdrawal",
+                    "amount": 33146.56,
+                    "transaction_id": 105669808
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Interest",
+                    "amount": 49077.36,
+                    "transaction_id": 64083834
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Interest",
+                    "amount": 42730.86,
+                    "transaction_id": 52430575
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Withdrawal",
+                    "amount": 16886.61,
+                    "transaction_id": 83958547
+                }
+            ]
+        }
+    }
+}

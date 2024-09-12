@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Toni Hernandez",
+        "age": 95,
+        "gender": "male",
+        "address": "32947 Kristina Station, West Deborah, IA 38560",
+        "phone": "(900)468-3976x967",
+        "email": "patriciafox@example.net",
+        "account": {
+            "account_number": "6aee4842-3998-42c7-869a-cdb6ec5632c7",
+            "balance": 4847.32,
+            "transactions": [
+                {
+                    "date": "2023-07-13",
+                    "description": "Deposit",
+                    "amount": 28417.09,
+                    "transaction_id": 110939352
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Deposit",
+                    "amount": 47020.25,
+                    "transaction_id": 105362254
+                },
+                {
+                    "date": "2023-03-10",
+                    "description": "Interest",
+                    "amount": 5293.39,
+                    "transaction_id": 18535784
+                },
+                {
+                    "date": "2023-03-10",
+                    "description": "Interest",
+                    "amount": 23636.03,
+                    "transaction_id": 93658746
+                }
+            ]
+        }
+    }
+}

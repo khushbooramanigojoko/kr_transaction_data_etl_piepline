@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rebecca Jones",
+        "age": 24,
+        "gender": "female",
+        "address": "95331 Angela Ports, Port Donna, NH 06384",
+        "phone": "(813)479-2352x4289",
+        "email": "angelaayers@example.net",
+        "account": {
+            "account_number": "a77795df-b069-4a10-8ff8-13397adbe8f8",
+            "balance": 41693.13,
+            "transactions": [
+                {
+                    "date": "2023-11-05",
+                    "description": "Withdrawal",
+                    "amount": 29193.0,
+                    "transaction_id": 76759918
+                }
+            ]
+        }
+    }
+}

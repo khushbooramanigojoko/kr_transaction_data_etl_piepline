@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "April Flores",
+        "age": 28,
+        "gender": "female",
+        "address": "PSC 6081, Box 1594, APO AE 28792",
+        "phone": "746-601-2321x934",
+        "email": "mluna@example.net",
+        "account": {
+            "account_number": "b77f46f2-914c-4b22-91cc-0e09514153b3",
+            "balance": 2158.11,
+            "transactions": [
+                {
+                    "date": "2024-03-22",
+                    "description": "Interest",
+                    "amount": 38484.38,
+                    "transaction_id": 55289516
+                },
+                {
+                    "date": "2023-06-27",
+                    "description": "Deposit",
+                    "amount": 19462.5,
+                    "transaction_id": 73952780
+                },
+                {
+                    "date": "2023-04-29",
+                    "description": "Withdrawal",
+                    "amount": 15567.56,
+                    "transaction_id": 47164102
+                },
+                {
+                    "date": "2023-08-29",
+                    "description": "Deposit",
+                    "amount": 27577.94,
+                    "transaction_id": 15375528
+                },
+                {
+                    "date": "2022-11-13",
+                    "description": "Withdrawal",
+                    "amount": 4140.68,
+                    "transaction_id": 101747410
+                }
+            ]
+        }
+    }
+}

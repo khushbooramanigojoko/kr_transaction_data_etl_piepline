@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Rachel Castro",
+        "age": 92,
+        "gender": "male",
+        "address": "17393 Carlos Isle, Garymouth, SD 76134",
+        "phone": "+1-715-682-9952x5592",
+        "email": "michael07@example.net",
+        "account": {
+            "account_number": "4b861f7d-4adc-4630-823b-c8dd63ae47b8",
+            "balance": -36252.14,
+            "transactions": [
+                {
+                    "date": "2022-10-16",
+                    "description": "Withdrawal",
+                    "amount": 632.4,
+                    "transaction_id": 51088751
+                },
+                {
+                    "date": "2023-11-08",
+                    "description": "Interest",
+                    "amount": 4265.71,
+                    "transaction_id": 119843895
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Withdrawal",
+                    "amount": -3232.03,
+                    "transaction_id": 109347496
+                },
+                {
+                    "date": "2023-03-11",
+                    "description": "Withdrawal",
+                    "amount": 450.57,
+                    "transaction_id": 115446472
+                }
+            ]
+        }
+    }
+}

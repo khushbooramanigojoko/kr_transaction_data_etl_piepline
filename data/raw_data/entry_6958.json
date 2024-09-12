@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Maria Mcmillan",
+        "age": 43,
+        "gender": "male",
+        "address": "138 Ross Neck, Heathertown, LA 18521",
+        "phone": "828-223-0896",
+        "email": "ahale@example.net",
+        "account": {
+            "account_number": "4a7923c7-8bea-4af2-8b56-40c7a8b0ed6e",
+            "balance": 49234.72,
+            "transactions": [
+                {
+                    "date": "2024-03-19",
+                    "description": "Deposit",
+                    "amount": 14767.99,
+                    "transaction_id": 119690440
+                }
+            ]
+        }
+    }
+}

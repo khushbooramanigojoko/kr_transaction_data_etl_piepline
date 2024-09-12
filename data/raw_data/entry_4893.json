@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christine Sloan",
+        "age": 79,
+        "gender": "male",
+        "address": "9900 Emily Lights, Lake Sarahstad, SC 34482",
+        "phone": "001-990-759-1061",
+        "email": "donald75@example.com",
+        "account": {
+            "account_number": "73342494-1965-43ce-97e5-e1d7f1eb6e92",
+            "balance": 4833.44,
+            "transactions": [
+                {
+                    "date": "2024-06-19",
+                    "description": "Withdrawal",
+                    "amount": 22886.29,
+                    "transaction_id": 78090204
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Deposit",
+                    "amount": 9478.32,
+                    "transaction_id": 72673443
+                }
+            ]
+        }
+    }
+}

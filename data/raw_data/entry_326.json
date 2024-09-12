@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lauren Anderson",
+        "age": 68,
+        "gender": "female",
+        "address": "812 Lee Village Suite 418, Shawtown, MS 83089",
+        "phone": "001-682-578-3814x6240",
+        "email": "tanyaroberts@example.com",
+        "account": {
+            "account_number": "25403bbc-ff01-4843-9005-bf5063d0aa9b",
+            "balance": 45022.03,
+            "transactions": [
+                {
+                    "date": "2023-11-11",
+                    "description": "Interest",
+                    "amount": 35243.91,
+                    "transaction_id": 117619150
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Withdrawal",
+                    "amount": 47650.91,
+                    "transaction_id": 117621885
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Withdrawal",
+                    "amount": 43789.8,
+                    "transaction_id": 57268468
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Interest",
+                    "amount": 6325.32,
+                    "transaction_id": 73291819
+                }
+            ]
+        }
+    }
+}

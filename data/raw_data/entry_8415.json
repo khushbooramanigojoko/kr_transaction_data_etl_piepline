@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nicholas Campbell",
+        "age": 41,
+        "gender": "female",
+        "address": "5503 Dunlap Circle Suite 545, Timothyburgh, NE 77643",
+        "phone": "952-757-5452",
+        "email": "ericgentry@example.com",
+        "account": {
+            "account_number": "9ef5baa6-856f-4a46-bba8-5132ee6c4851",
+            "balance": 8214.55,
+            "transactions": [
+                {
+                    "date": "2024-05-23",
+                    "description": "Withdrawal",
+                    "amount": 4685.59,
+                    "transaction_id": 103488764
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Deposit",
+                    "amount": 4288.29,
+                    "transaction_id": 61139991
+                },
+                {
+                    "date": "2023-08-12",
+                    "description": "Interest",
+                    "amount": 954.0,
+                    "transaction_id": 53714548
+                },
+                {
+                    "date": "2023-03-20",
+                    "description": "Withdrawal",
+                    "amount": 16427.84,
+                    "transaction_id": 74107046
+                }
+            ]
+        }
+    }
+}

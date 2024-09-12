@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Frank Moore",
+        "age": 50,
+        "gender": "female",
+        "address": "279 Malone Spring, Brittneymouth, UT 19871",
+        "phone": "(332)723-0345x0565",
+        "email": "townsendkarina@example.net",
+        "account": {
+            "account_number": "99ad14b8-b314-432d-abf1-410ef07f4c6b",
+            "balance": 1082.84,
+            "transactions": [
+                {
+                    "date": "2024-02-28",
+                    "description": "Withdrawal",
+                    "amount": 21773.69,
+                    "transaction_id": 50036115
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Interest",
+                    "amount": 2966.73,
+                    "transaction_id": 116874311
+                }
+            ]
+        }
+    }
+}

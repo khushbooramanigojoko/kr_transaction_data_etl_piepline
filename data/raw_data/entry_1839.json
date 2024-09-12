@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kelsey Walker",
+        "age": 84,
+        "gender": "male",
+        "address": "160 Timothy Centers Apt. 705, West Kellytown, IN 82817",
+        "phone": "471-712-4438x5600",
+        "email": "kelly13@example.com",
+        "account": {
+            "account_number": "2d3473c9-074a-49e1-8d68-53e87bcf306e",
+            "balance": 42884.96,
+            "transactions": [
+                {
+                    "date": "2023-02-19",
+                    "description": "Withdrawal",
+                    "amount": 5088.39,
+                    "transaction_id": 24462160
+                }
+            ]
+        }
+    }
+}

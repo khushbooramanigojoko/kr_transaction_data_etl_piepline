@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Barbara Lopez",
+        "age": 37,
+        "gender": "female",
+        "address": "567 Lauren Highway, Burnstown, RI 56962",
+        "phone": "601.968.5642",
+        "email": "swarner@example.org",
+        "account": {
+            "account_number": "5704f1bc-ed21-493b-8fd0-46f97aefa083",
+            "balance": 43288.35,
+            "transactions": [
+                {
+                    "date": "2023-11-29",
+                    "description": "Deposit",
+                    "amount": 35931.74,
+                    "transaction_id": 117908727
+                }
+            ]
+        }
+    }
+}

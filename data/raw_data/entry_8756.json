@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Diana Dean",
+        "age": 41,
+        "gender": "male",
+        "address": "128 Wright Roads, Jacobland, SD 31975",
+        "phone": "+1-277-231-9274",
+        "email": "fholland@example.com",
+        "account": {
+            "account_number": "6f85ef43-dd9a-4d31-9b37-b7889a2aa4f2",
+            "balance": -25296.36,
+            "transactions": [
+                {
+                    "date": "2024-07-29",
+                    "description": "Deposit",
+                    "amount": -498.08,
+                    "transaction_id": 9319499
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Withdrawal",
+                    "amount": 2325.77,
+                    "transaction_id": 85910206
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Interest",
+                    "amount": -1524.68,
+                    "transaction_id": 13732663
+                }
+            ]
+        }
+    }
+}

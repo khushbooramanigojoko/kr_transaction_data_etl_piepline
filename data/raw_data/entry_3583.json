@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dr. Joshua Acevedo",
+        "age": 24,
+        "gender": "female",
+        "address": "156 Ponce Well Suite 580, Adrienneshire, KS 46047",
+        "phone": "001-564-817-7076",
+        "email": "hoffmanrichard@example.com",
+        "account": {
+            "account_number": "23c422cf-5a74-4f45-9de9-caad85bd2cf4",
+            "balance": 17337.78,
+            "transactions": [
+                {
+                    "date": "2024-08-18",
+                    "description": "Withdrawal",
+                    "amount": 19095.14,
+                    "transaction_id": 37652169
+                }
+            ]
+        }
+    }
+}

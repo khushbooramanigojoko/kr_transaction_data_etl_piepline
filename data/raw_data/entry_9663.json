@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Robert Jensen",
+        "age": 44,
+        "gender": "male",
+        "address": "0574 Mann Haven, Garrisonberg, AR 54323",
+        "phone": "+1-495-919-2331x85447",
+        "email": "chenashley@example.com",
+        "account": {
+            "account_number": "83d0ed89-f965-4454-84d1-4d1359c1e785",
+            "balance": -43107.11,
+            "transactions": [
+                {
+                    "date": "2022-10-03",
+                    "description": "Deposit",
+                    "amount": -1761.01,
+                    "transaction_id": 71349271
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Withdrawal",
+                    "amount": -543.93,
+                    "transaction_id": 38470422
+                }
+            ]
+        }
+    }
+}

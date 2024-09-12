@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph Hanna",
+        "age": 78,
+        "gender": "female",
+        "address": "4623 Sheila Inlet Suite 264, West Courtneyland, IA 56678",
+        "phone": "(924)601-9502x663",
+        "email": "gsweeney@example.net",
+        "account": {
+            "account_number": "138e7d51-d2c5-4727-9850-bbbd787822b3",
+            "balance": 17362.01,
+            "transactions": [
+                {
+                    "date": "2024-03-25",
+                    "description": "Withdrawal",
+                    "amount": 48049.7,
+                    "transaction_id": 6142595
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Interest",
+                    "amount": 25959.14,
+                    "transaction_id": 110155495
+                },
+                {
+                    "date": "2023-09-19",
+                    "description": "Deposit",
+                    "amount": 25927.23,
+                    "transaction_id": 115839167
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Withdrawal",
+                    "amount": 4514.51,
+                    "transaction_id": 1847770
+                }
+            ]
+        }
+    }
+}

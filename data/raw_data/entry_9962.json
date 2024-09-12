@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michelle Knight",
+        "age": 48,
+        "gender": "female",
+        "address": "2905 Jeremiah Forks Apt. 024, East Adam, VI 61566",
+        "phone": "654-202-0294x071",
+        "email": "melissa55@example.net",
+        "account": {
+            "account_number": "68f45a67-2637-439c-95f3-52d98d0f6105",
+            "balance": -4399.17,
+            "transactions": [
+                {
+                    "date": "2022-09-13",
+                    "description": "Deposit",
+                    "amount": 4395.41,
+                    "transaction_id": 11850143
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Deposit",
+                    "amount": 2368.19,
+                    "transaction_id": 64977516
+                },
+                {
+                    "date": "2023-10-25",
+                    "description": "Deposit",
+                    "amount": -2405.99,
+                    "transaction_id": 49135831
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Withdrawal",
+                    "amount": -529.6,
+                    "transaction_id": 30664687
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Withdrawal",
+                    "amount": 3759.75,
+                    "transaction_id": 86308196
+                }
+            ]
+        }
+    }
+}

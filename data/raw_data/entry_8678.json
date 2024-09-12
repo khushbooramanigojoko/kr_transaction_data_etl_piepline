@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jonathan Hansen",
+        "age": 46,
+        "gender": "female",
+        "address": "17275 Teresa Creek, Lake Megan, GU 46193",
+        "phone": "440-396-2522",
+        "email": "sara24@example.net",
+        "account": {
+            "account_number": "89f1cff5-8dd3-48ac-b5f4-363a11159b2a",
+            "balance": 1900.18,
+            "transactions": [
+                {
+                    "date": "2022-11-02",
+                    "description": "Deposit",
+                    "amount": 13662.47,
+                    "transaction_id": 23347401
+                }
+            ]
+        }
+    }
+}

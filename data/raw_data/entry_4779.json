@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amanda Foster",
+        "age": 80,
+        "gender": "female",
+        "address": "83402 Joel Trail Apt. 006, Margaretchester, AL 98338",
+        "phone": "+1-596-248-7575x140",
+        "email": "edwardgeorge@example.com",
+        "account": {
+            "account_number": "dcc617f0-3977-409f-81f3-ed8f16561d27",
+            "balance": 18618.85,
+            "transactions": [
+                {
+                    "date": "2023-06-04",
+                    "description": "Withdrawal",
+                    "amount": 46159.16,
+                    "transaction_id": 51189919
+                },
+                {
+                    "date": "2024-05-17",
+                    "description": "Deposit",
+                    "amount": 27911.29,
+                    "transaction_id": 97548039
+                }
+            ]
+        }
+    }
+}

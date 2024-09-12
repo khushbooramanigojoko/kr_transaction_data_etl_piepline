@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Deborah Davis",
+        "age": 62,
+        "gender": "female",
+        "address": "777 Owen Springs Suite 485, Josephfort, IN 35369",
+        "phone": "546.995.9299",
+        "email": "joelmason@example.org",
+        "account": {
+            "account_number": "3bd19cfe-6ee8-497d-a7b6-f0f5c9d63bb6",
+            "balance": -838.48,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Deposit",
+                    "amount": -1886.75,
+                    "transaction_id": 78229001
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Interest",
+                    "amount": 3763.27,
+                    "transaction_id": 92993319
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Gregory Bishop",
+        "age": 47,
+        "gender": "male",
+        "address": "7824 Shannon Pines, Amandashire, HI 55061",
+        "phone": "+1-897-891-7122x148",
+        "email": "fordkaren@example.com",
+        "account": {
+            "account_number": "e899a329-0640-4547-99a9-c7986ba454a4",
+            "balance": 23816.82,
+            "transactions": [
+                {
+                    "date": "2023-10-26",
+                    "description": "Interest",
+                    "amount": 35138.89,
+                    "transaction_id": 98725246
+                }
+            ]
+        }
+    }
+}

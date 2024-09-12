@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alexander Munoz",
+        "age": 62,
+        "gender": "female",
+        "address": "427 Levi Overpass, Jeremymouth, SD 07504",
+        "phone": "+1-449-984-1699",
+        "email": "anthonygonzalez@example.net",
+        "account": {
+            "account_number": "3c37ab2d-1201-47d4-9795-ccfbcaecddee",
+            "balance": 18334.74,
+            "transactions": [
+                {
+                    "date": "2023-03-31",
+                    "description": "Deposit",
+                    "amount": 19211.9,
+                    "transaction_id": 28524229
+                },
+                {
+                    "date": "2023-04-23",
+                    "description": "Interest",
+                    "amount": 7054.72,
+                    "transaction_id": 37814593
+                },
+                {
+                    "date": "2023-01-26",
+                    "description": "Interest",
+                    "amount": 13134.64,
+                    "transaction_id": 25973749
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Withdrawal",
+                    "amount": 38733.32,
+                    "transaction_id": 95744136
+                }
+            ]
+        }
+    }
+}

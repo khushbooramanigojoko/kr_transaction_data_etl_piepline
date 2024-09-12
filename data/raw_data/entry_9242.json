@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 52,
+        "gender": "male",
+        "address": "50387 Ryan Green Apt. 826, Orozcostad, WV 92975",
+        "phone": "+1-395-210-4873x878",
+        "email": "nkennedy@example.net",
+        "account": {
+            "account_number": "d6f3706e-ab3d-440d-81d5-5d39c218147c",
+            "balance": 26428.69,
+            "transactions": [
+                {
+                    "date": "2023-11-26",
+                    "description": "Interest",
+                    "amount": -1972.73,
+                    "transaction_id": 104203014
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Deposit",
+                    "amount": -2292.17,
+                    "transaction_id": 64941868
+                },
+                {
+                    "date": "2024-04-13",
+                    "description": "Withdrawal",
+                    "amount": 1865.09,
+                    "transaction_id": 80147063
+                }
+            ]
+        }
+    }
+}

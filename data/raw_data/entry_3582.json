@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brian Beltran",
+        "age": 56,
+        "gender": "female",
+        "address": "269 Ryan Isle Suite 415, Wigginsville, GU 56397",
+        "phone": "+1-513-487-7661",
+        "email": "jennifer04@example.com",
+        "account": {
+            "account_number": "56a64dce-9d1b-442a-bf37-e10d7fcc0389",
+            "balance": 23689.89,
+            "transactions": [
+                {
+                    "date": "2023-05-02",
+                    "description": "Interest",
+                    "amount": 27008.63,
+                    "transaction_id": 96473390
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Interest",
+                    "amount": 44105.55,
+                    "transaction_id": 4960127
+                },
+                {
+                    "date": "2023-07-20",
+                    "description": "Withdrawal",
+                    "amount": 7068.65,
+                    "transaction_id": 91868437
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Withdrawal",
+                    "amount": 20140.29,
+                    "transaction_id": 28073269
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Interest",
+                    "amount": 5398.42,
+                    "transaction_id": 65508329
+                }
+            ]
+        }
+    }
+}

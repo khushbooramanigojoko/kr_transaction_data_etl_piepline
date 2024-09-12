@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Benjamin Bradley",
+        "age": 57,
+        "gender": "male",
+        "address": "224 Tammy Plains Suite 214, Hudsontown, IN 39417",
+        "phone": "302-572-7741x67659",
+        "email": "wilcoxjennifer@example.com",
+        "account": {
+            "account_number": "6f9882ac-10f7-46e0-be58-29e16a4b97a3",
+            "balance": 23103.01,
+            "transactions": [
+                {
+                    "date": "2024-02-06",
+                    "description": "Deposit",
+                    "amount": 47016.62,
+                    "transaction_id": 85041152
+                }
+            ]
+        }
+    }
+}

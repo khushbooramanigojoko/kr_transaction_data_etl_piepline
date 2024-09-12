@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 48,
+        "gender": "female",
+        "address": "8605 Mark Crossroad, Jasmineberg, NV 05471",
+        "phone": "349-465-5696",
+        "email": "ronald25@example.net",
+        "account": {
+            "account_number": "e2104941-c45b-4444-90aa-165d87945522",
+            "balance": 39362.72,
+            "transactions": [
+                {
+                    "date": "2022-12-26",
+                    "description": "Deposit",
+                    "amount": 1964.24,
+                    "transaction_id": 12163818
+                },
+                {
+                    "date": "2023-10-05",
+                    "description": "Interest",
+                    "amount": 4054.16,
+                    "transaction_id": 7949068
+                }
+            ]
+        }
+    }
+}

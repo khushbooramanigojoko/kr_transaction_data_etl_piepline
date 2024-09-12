@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Gregory Martinez",
+        "age": 83,
+        "gender": "male",
+        "address": "171 Susan Lock, West Kristina, CA 13413",
+        "phone": "(263)263-1924",
+        "email": "jenkinscassandra@example.org",
+        "account": {
+            "account_number": "0ac73fce-0b6a-403f-8359-50d40638e895",
+            "balance": 22229.75,
+            "transactions": [
+                {
+                    "date": "2024-08-18",
+                    "description": "Deposit",
+                    "amount": 20256.2,
+                    "transaction_id": 117352063
+                },
+                {
+                    "date": "2024-03-10",
+                    "description": "Interest",
+                    "amount": 7559.3,
+                    "transaction_id": 43816218
+                }
+            ]
+        }
+    }
+}

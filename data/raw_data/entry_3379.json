@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kathryn Herrera",
+        "age": 59,
+        "gender": "male",
+        "address": "11172 Rebecca Locks, South Georgeview, TN 21924",
+        "phone": "526-482-1822",
+        "email": "leslie71@example.net",
+        "account": {
+            "account_number": "46c1ebd7-c635-478a-a1f3-66453b23dcae",
+            "balance": 8260.35,
+            "transactions": [
+                {
+                    "date": "2023-02-08",
+                    "description": "Withdrawal",
+                    "amount": 20940.2,
+                    "transaction_id": 2385311
+                },
+                {
+                    "date": "2024-03-26",
+                    "description": "Interest",
+                    "amount": 27549.3,
+                    "transaction_id": 93715396
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Withdrawal",
+                    "amount": 9744.01,
+                    "transaction_id": 4776939
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Deposit",
+                    "amount": 20864.15,
+                    "transaction_id": 114116573
+                }
+            ]
+        }
+    }
+}

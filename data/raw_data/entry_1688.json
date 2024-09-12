@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Laurie Hall",
+        "age": 77,
+        "gender": "male",
+        "address": "PSC 4928, Box 5939, APO AA 34872",
+        "phone": "768-200-4352x8302",
+        "email": "mcbridekristine@example.org",
+        "account": {
+            "account_number": "cf0ac68d-01b2-4c45-af25-74a4867157bc",
+            "balance": 30996.37,
+            "transactions": [
+                {
+                    "date": "2023-03-19",
+                    "description": "Interest",
+                    "amount": 45487.68,
+                    "transaction_id": 15920599
+                },
+                {
+                    "date": "2023-09-07",
+                    "description": "Withdrawal",
+                    "amount": 23471.18,
+                    "transaction_id": 8593672
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Interest",
+                    "amount": 11786.62,
+                    "transaction_id": 5609614
+                },
+                {
+                    "date": "2022-12-25",
+                    "description": "Withdrawal",
+                    "amount": 37694.63,
+                    "transaction_id": 88716711
+                },
+                {
+                    "date": "2024-02-14",
+                    "description": "Interest",
+                    "amount": 45613.69,
+                    "transaction_id": 64223962
+                }
+            ]
+        }
+    }
+}

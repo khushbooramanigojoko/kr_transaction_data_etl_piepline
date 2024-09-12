@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 91,
+        "gender": "female",
+        "address": "01049 Hill Lane, Port Beverly, ID 46475",
+        "phone": "444-608-5687x5627",
+        "email": "chasepatty@example.com",
+        "account": {
+            "account_number": "0820cbd6-07f6-4314-ab4d-9451ba269abb",
+            "balance": 43363.74,
+            "transactions": [
+                {
+                    "date": "2024-03-08",
+                    "description": "Interest",
+                    "amount": 2841.8,
+                    "transaction_id": 44794358
+                }
+            ]
+        }
+    }
+}

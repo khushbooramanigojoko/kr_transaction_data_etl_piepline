@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Andrew Bradshaw",
+        "age": 51,
+        "gender": "female",
+        "address": "240 Huffman Road, North David, KS 42301",
+        "phone": "4103486819",
+        "email": "vgutierrez@example.org",
+        "account": {
+            "account_number": "c3254981-79bd-4924-872b-a3042b38018d",
+            "balance": 15207.89,
+            "transactions": [
+                {
+                    "date": "2023-03-23",
+                    "description": "Interest",
+                    "amount": 31140.97,
+                    "transaction_id": 105581818
+                },
+                {
+                    "date": "2023-03-08",
+                    "description": "Interest",
+                    "amount": 43092.12,
+                    "transaction_id": 80395789
+                },
+                {
+                    "date": "2024-04-21",
+                    "description": "Withdrawal",
+                    "amount": 30046.5,
+                    "transaction_id": 70683589
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Withdrawal",
+                    "amount": 16966.02,
+                    "transaction_id": 69276715
+                }
+            ]
+        }
+    }
+}

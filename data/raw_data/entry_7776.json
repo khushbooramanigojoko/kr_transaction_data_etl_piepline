@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Angela Smith",
+        "age": 56,
+        "gender": "male",
+        "address": "11582 Morgan Rapid Apt. 220, Oliviaport, AL 92596",
+        "phone": "(328)885-0120x067",
+        "email": "wileyvictoria@example.com",
+        "account": {
+            "account_number": "d829747a-4561-4173-870b-841e11fc11aa",
+            "balance": 36826.4,
+            "transactions": [
+                {
+                    "date": "2023-07-08",
+                    "description": "Withdrawal",
+                    "amount": 4050.98,
+                    "transaction_id": 12698580
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Withdrawal",
+                    "amount": 38705.39,
+                    "transaction_id": 61747105
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Deposit",
+                    "amount": 13344.65,
+                    "transaction_id": 108366156
+                }
+            ]
+        }
+    }
+}

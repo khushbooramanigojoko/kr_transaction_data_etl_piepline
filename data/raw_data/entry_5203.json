@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kara Clark DDS",
+        "age": 19,
+        "gender": "male",
+        "address": "04112 Dawn Tunnel, West Jonmouth, PW 34645",
+        "phone": "001-259-201-9182",
+        "email": "hilldamon@example.org",
+        "account": {
+            "account_number": "982d7463-a8fc-45d1-bf7e-7bd624fb84b0",
+            "balance": 46035.12,
+            "transactions": [
+                {
+                    "date": "2023-01-06",
+                    "description": "Interest",
+                    "amount": 20897.08,
+                    "transaction_id": 15677719
+                },
+                {
+                    "date": "2023-08-13",
+                    "description": "Interest",
+                    "amount": 34319.92,
+                    "transaction_id": 32192848
+                },
+                {
+                    "date": "2023-10-22",
+                    "description": "Interest",
+                    "amount": 34953.19,
+                    "transaction_id": 3150467
+                },
+                {
+                    "date": "2023-12-05",
+                    "description": "Interest",
+                    "amount": 34353.17,
+                    "transaction_id": 3744270
+                }
+            ]
+        }
+    }
+}

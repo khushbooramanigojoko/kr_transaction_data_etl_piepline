@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 69,
+        "gender": "female",
+        "address": "2943 Mason Lock, Richardburgh, HI 87998",
+        "phone": "+1-677-824-8667",
+        "email": "gabrielle67@example.org",
+        "account": {
+            "account_number": "f34d53f8-ebbd-4471-ab3c-3311baae09f1",
+            "balance": 19950.42,
+            "transactions": [
+                {
+                    "date": "2023-12-12",
+                    "description": "Interest",
+                    "amount": 4589.6,
+                    "transaction_id": 23968273
+                },
+                {
+                    "date": "2023-03-30",
+                    "description": "Deposit",
+                    "amount": -2083.21,
+                    "transaction_id": 3286292
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Withdrawal",
+                    "amount": 164.21,
+                    "transaction_id": 69500202
+                },
+                {
+                    "date": "2023-05-22",
+                    "description": "Interest",
+                    "amount": 1571.3,
+                    "transaction_id": 46874243
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Richard Jones",
+        "age": 36,
+        "gender": "female",
+        "address": "64350 Kevin Loaf Suite 262, Robertmouth, ID 62137",
+        "phone": "(287)428-7431x72982",
+        "email": "eric95@example.com",
+        "account": {
+            "account_number": "7a0123ba-c9dc-47de-8ff4-98ef3fdac296",
+            "balance": 27415.59,
+            "transactions": [
+                {
+                    "date": "2023-09-14",
+                    "description": "Withdrawal",
+                    "amount": 8917.51,
+                    "transaction_id": 16761157
+                }
+            ]
+        }
+    }
+}

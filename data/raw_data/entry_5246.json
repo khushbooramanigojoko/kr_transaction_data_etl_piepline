@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kristin Holmes",
+        "age": 95,
+        "gender": "male",
+        "address": "65760 Young Union, Owensburgh, CA 91148",
+        "phone": "794.479.1555x066",
+        "email": "ujenkins@example.com",
+        "account": {
+            "account_number": "80ddc111-6abe-4dec-9740-619ee08528a3",
+            "balance": 4055.51,
+            "transactions": [
+                {
+                    "date": "2023-04-08",
+                    "description": "Withdrawal",
+                    "amount": 34279.0,
+                    "transaction_id": 73566051
+                },
+                {
+                    "date": "2023-03-29",
+                    "description": "Deposit",
+                    "amount": 46986.93,
+                    "transaction_id": 49758032
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Withdrawal",
+                    "amount": 42427.63,
+                    "transaction_id": 117364906
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Deposit",
+                    "amount": 19008.72,
+                    "transaction_id": 115838031
+                },
+                {
+                    "date": "2024-06-17",
+                    "description": "Withdrawal",
+                    "amount": 205.31,
+                    "transaction_id": 98538615
+                }
+            ]
+        }
+    }
+}

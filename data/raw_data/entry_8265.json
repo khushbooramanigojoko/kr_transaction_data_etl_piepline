@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sharon Lopez",
+        "age": 65,
+        "gender": "female",
+        "address": "USS Watson, FPO AE 09502",
+        "phone": "(210)306-8309",
+        "email": "nboyle@example.com",
+        "account": {
+            "account_number": "510a3736-f73c-45d3-b3db-7e886ab48b93",
+            "balance": 44890.83,
+            "transactions": [
+                {
+                    "date": "2023-06-30",
+                    "description": "Interest",
+                    "amount": 1748.77,
+                    "transaction_id": 46240074
+                }
+            ]
+        }
+    }
+}

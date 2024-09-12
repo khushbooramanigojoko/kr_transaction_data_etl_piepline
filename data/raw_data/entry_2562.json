@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stephen King",
+        "age": 94,
+        "gender": "male",
+        "address": "2338 Lester Route, Davidborough, IA 40689",
+        "phone": "755-281-7524x39966",
+        "email": "nicole58@example.com",
+        "account": {
+            "account_number": "c5fd4037-c1a2-4534-b3f5-62a628f335bd",
+            "balance": 24366.23,
+            "transactions": [
+                {
+                    "date": "2023-03-21",
+                    "description": "Interest",
+                    "amount": 34908.3,
+                    "transaction_id": 71673162
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Interest",
+                    "amount": 46584.3,
+                    "transaction_id": 74480460
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Withdrawal",
+                    "amount": 19964.11,
+                    "transaction_id": 109396793
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Interest",
+                    "amount": 42397.37,
+                    "transaction_id": 32040722
+                }
+            ]
+        }
+    }
+}

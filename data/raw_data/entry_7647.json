@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kevin Martinez",
+        "age": 20,
+        "gender": "female",
+        "address": "PSC 3910, Box 7218, APO AE 61160",
+        "phone": "+1-891-743-2542x24198",
+        "email": "joseph73@example.com",
+        "account": {
+            "account_number": "3f400b26-705b-4d06-90ec-39d5ccf6a291",
+            "balance": 21302.31,
+            "transactions": [
+                {
+                    "date": "2022-11-16",
+                    "description": "Interest",
+                    "amount": 31306.12,
+                    "transaction_id": 1695291
+                }
+            ]
+        }
+    }
+}

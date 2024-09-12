@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jessica Case",
+        "age": 97,
+        "gender": "female",
+        "address": "2002 Hoffman Creek, Gregoryburgh, GU 74593",
+        "phone": "553.982.9993",
+        "email": "zgarcia@example.net",
+        "account": {
+            "account_number": "4b627180-17ec-4756-90c3-4168d15e360a",
+            "balance": 29910.0,
+            "transactions": [
+                {
+                    "date": "2023-06-18",
+                    "description": "Withdrawal",
+                    "amount": 12157.77,
+                    "transaction_id": 105031262
+                },
+                {
+                    "date": "2023-04-24",
+                    "description": "Deposit",
+                    "amount": 39444.61,
+                    "transaction_id": 30235248
+                }
+            ]
+        }
+    }
+}

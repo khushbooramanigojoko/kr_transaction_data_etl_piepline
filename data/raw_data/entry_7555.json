@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jenny Cole",
+        "age": 76,
+        "gender": "female",
+        "address": "206 Baker Islands, Miguelshire, NC 26875",
+        "phone": "7508113831",
+        "email": "chamberssandra@example.com",
+        "account": {
+            "account_number": "a8d37982-e5ee-4292-bfdf-1fdef68c61cf",
+            "balance": 23023.42,
+            "transactions": [
+                {
+                    "date": "2024-03-22",
+                    "description": "Interest",
+                    "amount": 32950.18,
+                    "transaction_id": 23614671
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Deposit",
+                    "amount": 3014.37,
+                    "transaction_id": 69297369
+                }
+            ]
+        }
+    }
+}

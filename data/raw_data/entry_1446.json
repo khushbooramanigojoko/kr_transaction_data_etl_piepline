@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Melvin Price",
+        "age": 27,
+        "gender": "female",
+        "address": "09949 Kimberly Mission Apt. 334, New Beth, AR 40883",
+        "phone": "212.989.0242",
+        "email": "ricardo61@example.org",
+        "account": {
+            "account_number": "42a7d5c5-6549-4edc-9c3a-2519267b4aff",
+            "balance": 39240.54,
+            "transactions": [
+                {
+                    "date": "2023-11-18",
+                    "description": "Withdrawal",
+                    "amount": 48710.91,
+                    "transaction_id": 86172792
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Deposit",
+                    "amount": 39709.02,
+                    "transaction_id": 8343359
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Interest",
+                    "amount": 10538.0,
+                    "transaction_id": 7927966
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Deposit",
+                    "amount": 8189.05,
+                    "transaction_id": 40546291
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Deposit",
+                    "amount": 40204.61,
+                    "transaction_id": 110399246
+                }
+            ]
+        }
+    }
+}

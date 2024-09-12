@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Emily Smith",
+        "age": 75,
+        "gender": "female",
+        "address": "USNV Bryant, FPO AE 94023",
+        "phone": "001-526-366-6661x64971",
+        "email": "pbenjamin@example.org",
+        "account": {
+            "account_number": "f7341663-819b-4d90-a85a-f41dc82ae7d6",
+            "balance": 38714.66,
+            "transactions": [
+                {
+                    "date": "2024-02-15",
+                    "description": "Deposit",
+                    "amount": 35671.87,
+                    "transaction_id": 35978091
+                },
+                {
+                    "date": "2022-11-21",
+                    "description": "Withdrawal",
+                    "amount": 13143.84,
+                    "transaction_id": 81201007
+                }
+            ]
+        }
+    }
+}

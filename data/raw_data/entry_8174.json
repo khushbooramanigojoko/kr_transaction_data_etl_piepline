@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jason Gallagher",
+        "age": 59,
+        "gender": "male",
+        "address": "82685 Kelley Plain Suite 480, West Joshuaside, OK 54013",
+        "phone": "251-491-4244",
+        "email": "nicholas19@example.org",
+        "account": {
+            "account_number": "09f52239-31ba-4b19-a200-8662ceed6e4c",
+            "balance": 32186.32,
+            "transactions": [
+                {
+                    "date": "2023-01-26",
+                    "description": "Withdrawal",
+                    "amount": 20371.41,
+                    "transaction_id": 86568016
+                },
+                {
+                    "date": "2023-04-17",
+                    "description": "Deposit",
+                    "amount": 18488.06,
+                    "transaction_id": 5567777
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Interest",
+                    "amount": 15330.5,
+                    "transaction_id": 6624086
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Interest",
+                    "amount": 26000.86,
+                    "transaction_id": 55896675
+                }
+            ]
+        }
+    }
+}

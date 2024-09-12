@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christopher Evans",
+        "age": 72,
+        "gender": "male",
+        "address": "02516 Lisa Terrace Suite 615, Port Natasha, NY 83806",
+        "phone": "342.980.4882x10163",
+        "email": "salazarwesley@example.org",
+        "account": {
+            "account_number": "213b984c-51c1-4280-a84e-849f362824a6",
+            "balance": 45219.55,
+            "transactions": [
+                {
+                    "date": "2023-08-30",
+                    "description": "Deposit",
+                    "amount": 25980.82,
+                    "transaction_id": 113309643
+                },
+                {
+                    "date": "2024-07-18",
+                    "description": "Withdrawal",
+                    "amount": 49756.26,
+                    "transaction_id": 110144806
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Withdrawal",
+                    "amount": 6249.31,
+                    "transaction_id": 100895835
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Interest",
+                    "amount": 34519.1,
+                    "transaction_id": 64098125
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Withdrawal",
+                    "amount": 24824.64,
+                    "transaction_id": 19267957
+                }
+            ]
+        }
+    }
+}

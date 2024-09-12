@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jessica Brown",
+        "age": 49,
+        "gender": "female",
+        "address": "Unit 9339 Box 9034, DPO AE 95461",
+        "phone": "393.568.4484x00597",
+        "email": "martinezjoseph@example.com",
+        "account": {
+            "account_number": "17bfc62c-2b83-48b5-a523-0198de824874",
+            "balance": 13007.35,
+            "transactions": [
+                {
+                    "date": "2023-07-30",
+                    "description": "Withdrawal",
+                    "amount": 44525.1,
+                    "transaction_id": 98411534
+                },
+                {
+                    "date": "2023-07-24",
+                    "description": "Deposit",
+                    "amount": 27998.76,
+                    "transaction_id": 101382700
+                },
+                {
+                    "date": "2023-04-12",
+                    "description": "Deposit",
+                    "amount": 37062.67,
+                    "transaction_id": 107794025
+                },
+                {
+                    "date": "2024-07-16",
+                    "description": "Withdrawal",
+                    "amount": 4073.42,
+                    "transaction_id": 27943876
+                }
+            ]
+        }
+    }
+}

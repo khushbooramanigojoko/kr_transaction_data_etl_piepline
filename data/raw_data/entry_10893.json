@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 55,
+        "gender": "male",
+        "address": "2462 Little Ridges Suite 438, Lake Clayton, MA 28766",
+        "phone": "(493)689-5162",
+        "email": "eric45@example.org",
+        "account": {
+            "account_number": "92e86815-7eee-4b97-a550-a6ee2f5a3d6f",
+            "balance": 6040.37,
+            "transactions": [
+                {
+                    "date": "2023-01-22",
+                    "description": "Interest",
+                    "amount": -2498.85,
+                    "transaction_id": 92478003
+                },
+                {
+                    "date": "2023-12-08",
+                    "description": "Interest",
+                    "amount": 3174.46,
+                    "transaction_id": 55501671
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Deposit",
+                    "amount": 2094.5,
+                    "transaction_id": 20152634
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christina Hernandez",
+        "age": 28,
+        "gender": "male",
+        "address": "7334 Jennifer Spur Apt. 537, Lake Michael, RI 60882",
+        "phone": "001-760-416-7148",
+        "email": "ryan68@example.org",
+        "account": {
+            "account_number": "161d725c-05f7-418b-8c9c-842ff8381880",
+            "balance": 41619.13,
+            "transactions": [
+                {
+                    "date": "2022-11-26",
+                    "description": "Deposit",
+                    "amount": 2177.92,
+                    "transaction_id": 77048726
+                },
+                {
+                    "date": "2023-10-01",
+                    "description": "Interest",
+                    "amount": 45147.04,
+                    "transaction_id": 99707882
+                },
+                {
+                    "date": "2023-02-09",
+                    "description": "Withdrawal",
+                    "amount": 30272.17,
+                    "transaction_id": 3596128
+                },
+                {
+                    "date": "2023-11-08",
+                    "description": "Withdrawal",
+                    "amount": 29819.85,
+                    "transaction_id": 76371825
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Withdrawal",
+                    "amount": 32972.57,
+                    "transaction_id": 111528819
+                }
+            ]
+        }
+    }
+}

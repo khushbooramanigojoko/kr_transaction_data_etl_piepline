@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Elizabeth Thomas",
+        "age": 78,
+        "gender": "male",
+        "address": "036 Briana Tunnel Suite 192, East Stephanieberg, AL 62378",
+        "phone": "001-503-694-9291x5436",
+        "email": "wlane@example.org",
+        "account": {
+            "account_number": "263fc98a-3512-47f8-9214-fc71865d7a8c",
+            "balance": 11843.0,
+            "transactions": [
+                {
+                    "date": "2024-05-24",
+                    "description": "Withdrawal",
+                    "amount": 40266.24,
+                    "transaction_id": 79047332
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Deposit",
+                    "amount": 30546.8,
+                    "transaction_id": 58889033
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Withdrawal",
+                    "amount": 42201.28,
+                    "transaction_id": 29940526
+                },
+                {
+                    "date": "2023-10-10",
+                    "description": "Deposit",
+                    "amount": 15080.15,
+                    "transaction_id": 108662112
+                },
+                {
+                    "date": "2023-10-18",
+                    "description": "Deposit",
+                    "amount": 9022.31,
+                    "transaction_id": 30243142
+                }
+            ]
+        }
+    }
+}

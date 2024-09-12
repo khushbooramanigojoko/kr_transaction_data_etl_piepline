@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jeffrey Williams DVM",
+        "age": 18,
+        "gender": "female",
+        "address": "8975 Zimmerman Flats Apt. 317, Port Sabrina, NJ 14298",
+        "phone": "985.259.2572",
+        "email": "rodriguezthomas@example.org",
+        "account": {
+            "account_number": "4d068b51-4c39-43f2-9af3-3ecbda9967bd",
+            "balance": 9908.87,
+            "transactions": [
+                {
+                    "date": "2024-04-17",
+                    "description": "Withdrawal",
+                    "amount": 12559.84,
+                    "transaction_id": 74521210
+                },
+                {
+                    "date": "2023-02-23",
+                    "description": "Interest",
+                    "amount": 20314.35,
+                    "transaction_id": 82186703
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Deposit",
+                    "amount": 20812.05,
+                    "transaction_id": 118887603
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Deposit",
+                    "amount": 38576.94,
+                    "transaction_id": 108850622
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Elizabeth Holloway",
+        "age": 51,
+        "gender": "female",
+        "address": "20676 Carla Cliffs, West Sarahstad, CA 78519",
+        "phone": "267.807.2282x8117",
+        "email": "shelley60@example.com",
+        "account": {
+            "account_number": "3ad3d104-c7b0-4efa-9ab1-4dfad14aa454",
+            "balance": 14555.47,
+            "transactions": [
+                {
+                    "date": "2023-10-31",
+                    "description": "Withdrawal",
+                    "amount": 47031.34,
+                    "transaction_id": 76706732
+                },
+                {
+                    "date": "2022-09-09",
+                    "description": "Withdrawal",
+                    "amount": 1343.51,
+                    "transaction_id": 71350367
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Withdrawal",
+                    "amount": 26627.77,
+                    "transaction_id": 107527011
+                },
+                {
+                    "date": "2024-04-14",
+                    "description": "Interest",
+                    "amount": 21834.63,
+                    "transaction_id": 111492646
+                }
+            ]
+        }
+    }
+}

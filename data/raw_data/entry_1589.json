@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Robert Castillo",
+        "age": 57,
+        "gender": "female",
+        "address": "0449 Elizabeth Brooks, Michelleview, CA 49515",
+        "phone": "984-479-0417x76442",
+        "email": "turnerzachary@example.com",
+        "account": {
+            "account_number": "7de584dd-65a5-4c2e-ac66-4259b8115a9b",
+            "balance": 43101.76,
+            "transactions": [
+                {
+                    "date": "2024-08-10",
+                    "description": "Interest",
+                    "amount": 26860.59,
+                    "transaction_id": 40638742
+                },
+                {
+                    "date": "2023-09-08",
+                    "description": "Interest",
+                    "amount": 23194.16,
+                    "transaction_id": 60712910
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Withdrawal",
+                    "amount": 36236.46,
+                    "transaction_id": 13420939
+                },
+                {
+                    "date": "2023-07-13",
+                    "description": "Deposit",
+                    "amount": 44175.59,
+                    "transaction_id": 55522319
+                }
+            ]
+        }
+    }
+}

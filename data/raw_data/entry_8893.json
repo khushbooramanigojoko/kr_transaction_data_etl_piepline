@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Carol Henderson",
+        "age": 93,
+        "gender": "male",
+        "address": "1748 Jones Center, Whiteport, SC 17520",
+        "phone": "(976)682-0220",
+        "email": "cervanteskeith@example.net",
+        "account": {
+            "account_number": "885b1477-e14f-42a0-a1c1-15eff83a06df",
+            "balance": -22856.77,
+            "transactions": [
+                {
+                    "date": "2023-09-10",
+                    "description": "Interest",
+                    "amount": -3436.36,
+                    "transaction_id": 118529894
+                },
+                {
+                    "date": "2024-05-12",
+                    "description": "Withdrawal",
+                    "amount": -2831.82,
+                    "transaction_id": 5833941
+                },
+                {
+                    "date": "2022-12-29",
+                    "description": "Deposit",
+                    "amount": 2061.51,
+                    "transaction_id": 22515809
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Deposit",
+                    "amount": 4871.79,
+                    "transaction_id": 10985906
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Deposit",
+                    "amount": -4008.97,
+                    "transaction_id": 46232973
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jonathon Andrews",
+        "age": 86,
+        "gender": "female",
+        "address": "200 Bean Plains, North Emily, NE 90422",
+        "phone": "001-501-403-5216x019",
+        "email": "shelly31@example.com",
+        "account": {
+            "account_number": "bfd02845-886f-4b36-b346-3ccc6ed86809",
+            "balance": 35392.94,
+            "transactions": [
+                {
+                    "date": "2023-07-18",
+                    "description": "Deposit",
+                    "amount": 48071.6,
+                    "transaction_id": 39793188
+                }
+            ]
+        }
+    }
+}

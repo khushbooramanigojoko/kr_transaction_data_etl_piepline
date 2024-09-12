@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Schmidt",
+        "age": 75,
+        "gender": "male",
+        "address": "04442 Robert Spring, Bobbybury, CO 69476",
+        "phone": "521-869-9626x829",
+        "email": "brian70@example.com",
+        "account": {
+            "account_number": "8f1956ca-ff4a-46ff-941a-09bdf3fec24d",
+            "balance": 44669.79,
+            "transactions": [
+                {
+                    "date": "2023-04-22",
+                    "description": "Withdrawal",
+                    "amount": 48139.79,
+                    "transaction_id": 8976219
+                },
+                {
+                    "date": "2024-06-10",
+                    "description": "Interest",
+                    "amount": 3959.57,
+                    "transaction_id": 89820719
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Withdrawal",
+                    "amount": 24265.68,
+                    "transaction_id": 85726310
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Deposit",
+                    "amount": 24578.16,
+                    "transaction_id": 9734884
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kristopher Bray",
+        "age": 97,
+        "gender": "male",
+        "address": "52090 William Islands, Sarafort, WI 67390",
+        "phone": "906.923.7321",
+        "email": "hmoreno@example.org",
+        "account": {
+            "account_number": "3b00ffdf-204c-4d85-8619-92968c4d4b8d",
+            "balance": 48557.9,
+            "transactions": [
+                {
+                    "date": "2022-12-27",
+                    "description": "Interest",
+                    "amount": 30178.24,
+                    "transaction_id": 95593340
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Deposit",
+                    "amount": 27727.0,
+                    "transaction_id": 110539225
+                },
+                {
+                    "date": "2023-06-28",
+                    "description": "Interest",
+                    "amount": 22809.79,
+                    "transaction_id": 38998666
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Withdrawal",
+                    "amount": 10268.11,
+                    "transaction_id": 31408402
+                }
+            ]
+        }
+    }
+}

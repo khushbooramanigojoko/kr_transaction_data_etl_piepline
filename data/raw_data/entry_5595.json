@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Rich",
+        "age": 68,
+        "gender": "male",
+        "address": "74799 Mark Point Suite 729, Davidshire, HI 35658",
+        "phone": "461-278-3579x584",
+        "email": "hjohnson@example.org",
+        "account": {
+            "account_number": "98c7726d-c4fa-4da0-b7d3-91c6e93179a4",
+            "balance": 32962.23,
+            "transactions": [
+                {
+                    "date": "2023-06-20",
+                    "description": "Interest",
+                    "amount": 25475.83,
+                    "transaction_id": 80529662
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Deposit",
+                    "amount": 41469.57,
+                    "transaction_id": 62566922
+                },
+                {
+                    "date": "2024-01-24",
+                    "description": "Withdrawal",
+                    "amount": 26832.08,
+                    "transaction_id": 112874981
+                },
+                {
+                    "date": "2024-06-17",
+                    "description": "Deposit",
+                    "amount": 18528.81,
+                    "transaction_id": 118845181
+                },
+                {
+                    "date": "2023-04-20",
+                    "description": "Deposit",
+                    "amount": 44171.2,
+                    "transaction_id": 4739184
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Patricia Keller",
+        "age": 99,
+        "gender": "female",
+        "address": "666 Laurie Keys, Smithton, NE 10082",
+        "phone": "4414931759",
+        "email": "phillipsrachel@example.com",
+        "account": {
+            "account_number": "7d7a11c0-4a39-4cb0-b4b4-cb6f1a381cae",
+            "balance": 33386.64,
+            "transactions": [
+                {
+                    "date": "2023-02-20",
+                    "description": "Withdrawal",
+                    "amount": 13880.16,
+                    "transaction_id": 87202191
+                },
+                {
+                    "date": "2023-03-20",
+                    "description": "Interest",
+                    "amount": 3036.98,
+                    "transaction_id": 32576659
+                },
+                {
+                    "date": "2023-08-04",
+                    "description": "Interest",
+                    "amount": 26013.87,
+                    "transaction_id": 24575612
+                }
+            ]
+        }
+    }
+}

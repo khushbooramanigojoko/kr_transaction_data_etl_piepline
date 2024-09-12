@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Pamela Young",
+        "age": 99,
+        "gender": "female",
+        "address": "363 Patterson Burg, Freemanshire, NV 81447",
+        "phone": "573.802.7977x9188",
+        "email": "billymartinez@example.com",
+        "account": {
+            "account_number": "bfb09728-f919-4489-b578-f9ecd121e6d1",
+            "balance": 25450.92,
+            "transactions": [
+                {
+                    "date": "2022-09-30",
+                    "description": "Interest",
+                    "amount": 32917.41,
+                    "transaction_id": 14708637
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Interest",
+                    "amount": 41225.53,
+                    "transaction_id": 1181064
+                }
+            ]
+        }
+    }
+}

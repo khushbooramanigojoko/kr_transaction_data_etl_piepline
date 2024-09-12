@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Larsen",
+        "age": 46,
+        "gender": "male",
+        "address": "6105 Campbell Tunnel Suite 971, Lake Rebeccaville, AR 21499",
+        "phone": "+1-340-358-0846x339",
+        "email": "youngalyssa@example.com",
+        "account": {
+            "account_number": "f3537ed7-80dd-48a1-8840-23f0ee3d7360",
+            "balance": 6844.77,
+            "transactions": [
+                {
+                    "date": "2024-02-01",
+                    "description": "Deposit",
+                    "amount": 19601.15,
+                    "transaction_id": 46506436
+                }
+            ]
+        }
+    }
+}

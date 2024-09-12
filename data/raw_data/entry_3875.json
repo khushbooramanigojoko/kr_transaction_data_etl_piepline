@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Briana Mcintyre",
+        "age": 41,
+        "gender": "male",
+        "address": "700 Rachel Street Apt. 824, Tonyahaven, AS 59050",
+        "phone": "4345883872",
+        "email": "edwardskayla@example.net",
+        "account": {
+            "account_number": "626de36e-5c50-414e-93d0-1c6e059f9dac",
+            "balance": 37899.45,
+            "transactions": [
+                {
+                    "date": "2023-09-30",
+                    "description": "Withdrawal",
+                    "amount": 22144.25,
+                    "transaction_id": 85890176
+                },
+                {
+                    "date": "2024-04-23",
+                    "description": "Withdrawal",
+                    "amount": 17701.15,
+                    "transaction_id": 72111136
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Deposit",
+                    "amount": 7622.22,
+                    "transaction_id": 49222097
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Interest",
+                    "amount": 48176.35,
+                    "transaction_id": 66705503
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Interest",
+                    "amount": 5737.97,
+                    "transaction_id": 21060855
+                }
+            ]
+        }
+    }
+}

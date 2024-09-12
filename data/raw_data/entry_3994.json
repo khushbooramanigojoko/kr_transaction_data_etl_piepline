@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "William Lozano",
+        "age": 37,
+        "gender": "male",
+        "address": "32002 Jordan Fort, Richardsonberg, HI 66949",
+        "phone": "392.638.9520",
+        "email": "whitney01@example.org",
+        "account": {
+            "account_number": "679f7fa4-fa4a-4fa9-96ac-6e186a13be1d",
+            "balance": 23160.39,
+            "transactions": [
+                {
+                    "date": "2022-12-27",
+                    "description": "Interest",
+                    "amount": 38758.63,
+                    "transaction_id": 42413392
+                },
+                {
+                    "date": "2023-03-04",
+                    "description": "Interest",
+                    "amount": 36878.74,
+                    "transaction_id": 27495406
+                }
+            ]
+        }
+    }
+}

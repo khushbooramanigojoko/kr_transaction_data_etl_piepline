@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kayla Bennett",
+        "age": 47,
+        "gender": "female",
+        "address": "35561 Christopher Gateway, North Autumn, NC 58951",
+        "phone": "+1-317-345-1595x252",
+        "email": "courtney31@example.org",
+        "account": {
+            "account_number": "29f035b2-ed4b-4655-a3a6-a8c7c7035c71",
+            "balance": -29340.13,
+            "transactions": [
+                {
+                    "date": "2024-08-06",
+                    "description": "Deposit",
+                    "amount": 4150.04,
+                    "transaction_id": 86996333
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Deposit",
+                    "amount": 3968.92,
+                    "transaction_id": 70387435
+                },
+                {
+                    "date": "2024-04-23",
+                    "description": "Deposit",
+                    "amount": -3465.79,
+                    "transaction_id": 106157742
+                }
+            ]
+        }
+    }
+}

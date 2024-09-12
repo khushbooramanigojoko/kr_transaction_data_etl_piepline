@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Garrett Singh",
+        "age": 61,
+        "gender": "male",
+        "address": "0463 West Crescent, Carpenterbury, NM 05657",
+        "phone": "001-527-222-5632x84869",
+        "email": "kcollins@example.net",
+        "account": {
+            "account_number": "07d80d80-ecf9-44e8-b5b3-424a8e3b5545",
+            "balance": 16105.53,
+            "transactions": [
+                {
+                    "date": "2022-09-28",
+                    "description": "Withdrawal",
+                    "amount": 31246.08,
+                    "transaction_id": 17649845
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": 26058.32,
+                    "transaction_id": 41354653
+                },
+                {
+                    "date": "2022-10-13",
+                    "description": "Deposit",
+                    "amount": 44909.39,
+                    "transaction_id": 73034780
+                },
+                {
+                    "date": "2022-09-22",
+                    "description": "Withdrawal",
+                    "amount": 7823.01,
+                    "transaction_id": 36347441
+                },
+                {
+                    "date": "2024-01-11",
+                    "description": "Withdrawal",
+                    "amount": 9972.13,
+                    "transaction_id": 39540119
+                }
+            ]
+        }
+    }
+}

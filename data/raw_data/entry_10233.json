@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 49,
+        "gender": "male",
+        "address": "6703 Sandra Mills, Thomasbury, TN 13688",
+        "phone": "940.658.2764x122",
+        "email": "bosborne@example.com",
+        "account": {
+            "account_number": "f42010e5-74f2-4d27-96fd-4c4a87a7f638",
+            "balance": 24602.47,
+            "transactions": [
+                {
+                    "date": "2024-03-06",
+                    "description": "Deposit",
+                    "amount": -2852.08,
+                    "transaction_id": 67469118
+                },
+                {
+                    "date": "2022-10-20",
+                    "description": "Interest",
+                    "amount": 3347.76,
+                    "transaction_id": 67435099
+                }
+            ]
+        }
+    }
+}

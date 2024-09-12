@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sarah Daniel",
+        "age": 41,
+        "gender": "male",
+        "address": "5125 Miller Walks Suite 514, Jefferymouth, WY 53418",
+        "phone": "001-218-860-0733x71081",
+        "email": "williamsnathaniel@example.com",
+        "account": {
+            "account_number": "5f83c0ba-bb65-4dba-b30c-9e5efe1e38b9",
+            "balance": 40831.02,
+            "transactions": [
+                {
+                    "date": "2022-12-20",
+                    "description": "Withdrawal",
+                    "amount": 26121.71,
+                    "transaction_id": 18366283
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Interest",
+                    "amount": 27432.3,
+                    "transaction_id": 72190423
+                },
+                {
+                    "date": "2024-03-11",
+                    "description": "Withdrawal",
+                    "amount": 27618.1,
+                    "transaction_id": 32372375
+                },
+                {
+                    "date": "2023-08-22",
+                    "description": "Deposit",
+                    "amount": 45860.94,
+                    "transaction_id": 21338754
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Interest",
+                    "amount": 4005.29,
+                    "transaction_id": 112900830
+                }
+            ]
+        }
+    }
+}

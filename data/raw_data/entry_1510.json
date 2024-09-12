@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Rhonda Simpson",
+        "age": 23,
+        "gender": "female",
+        "address": "775 Christopher Way, Port Alexis, NV 05613",
+        "phone": "725-986-3491",
+        "email": "xstone@example.net",
+        "account": {
+            "account_number": "e49cddda-806c-4e32-979a-8a016f60e7c6",
+            "balance": 19775.35,
+            "transactions": [
+                {
+                    "date": "2024-02-29",
+                    "description": "Deposit",
+                    "amount": 41843.87,
+                    "transaction_id": 90098765
+                },
+                {
+                    "date": "2024-03-05",
+                    "description": "Withdrawal",
+                    "amount": 37952.64,
+                    "transaction_id": 69773279
+                }
+            ]
+        }
+    }
+}

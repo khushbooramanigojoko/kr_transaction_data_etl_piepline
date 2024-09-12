@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sarah Thomas",
+        "age": 81,
+        "gender": "female",
+        "address": "74290 Valerie Crest, Fletcherchester, UT 36163",
+        "phone": "001-887-770-1824",
+        "email": "teresawilson@example.com",
+        "account": {
+            "account_number": "7089f56c-1bfb-4b41-ae39-35b5e9bb27cb",
+            "balance": 2093.49,
+            "transactions": [
+                {
+                    "date": "2023-06-30",
+                    "description": "Interest",
+                    "amount": 10778.48,
+                    "transaction_id": 41265032
+                },
+                {
+                    "date": "2023-05-27",
+                    "description": "Interest",
+                    "amount": 178.62,
+                    "transaction_id": 82646387
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Interest",
+                    "amount": 18328.72,
+                    "transaction_id": 21061523
+                },
+                {
+                    "date": "2023-09-24",
+                    "description": "Interest",
+                    "amount": 16230.96,
+                    "transaction_id": 109000876
+                }
+            ]
+        }
+    }
+}

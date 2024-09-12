@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 57,
+        "gender": "male",
+        "address": "511 Lewis Forest, Port Jeffreyshire, ND 85695",
+        "phone": "(217)329-8518x660",
+        "email": "paigeharper@example.com",
+        "account": {
+            "account_number": "a40d496e-4024-40f6-8c1d-1a1a671b160b",
+            "balance": 9064.94,
+            "transactions": [
+                {
+                    "date": "2023-01-17",
+                    "description": "Deposit",
+                    "amount": 3057.47,
+                    "transaction_id": 106014251
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Deposit",
+                    "amount": -4521.36,
+                    "transaction_id": 20784664
+                },
+                {
+                    "date": "2023-03-26",
+                    "description": "Interest",
+                    "amount": 4699.33,
+                    "transaction_id": 79548558
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Interest",
+                    "amount": -3983.09,
+                    "transaction_id": 46682036
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kelly Navarro",
+        "age": 82,
+        "gender": "female",
+        "address": "223 Rivera Locks Apt. 643, Carrollfurt, SC 42792",
+        "phone": "456-335-7296x2189",
+        "email": "ajones@example.com",
+        "account": {
+            "account_number": "b454ffba-a28d-475d-95cc-da45a481353b",
+            "balance": 15940.62,
+            "transactions": [
+                {
+                    "date": "2023-04-08",
+                    "description": "Interest",
+                    "amount": 19306.81,
+                    "transaction_id": 109740224
+                },
+                {
+                    "date": "2023-10-20",
+                    "description": "Deposit",
+                    "amount": 17680.01,
+                    "transaction_id": 62192341
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Deposit",
+                    "amount": 17499.82,
+                    "transaction_id": 69408151
+                },
+                {
+                    "date": "2023-03-20",
+                    "description": "Deposit",
+                    "amount": 8293.2,
+                    "transaction_id": 19363880
+                }
+            ]
+        }
+    }
+}

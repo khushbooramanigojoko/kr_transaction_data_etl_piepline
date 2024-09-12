@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Barbara Dalton",
+        "age": 35,
+        "gender": "female",
+        "address": "Unit 1938 Box 1813, DPO AE 67074",
+        "phone": "238-395-7347",
+        "email": "markevans@example.org",
+        "account": {
+            "account_number": "5f4f103c-ac51-44e1-a381-03a39bf052d9",
+            "balance": 43501.52,
+            "transactions": [
+                {
+                    "date": "2024-02-12",
+                    "description": "Deposit",
+                    "amount": 3790.47,
+                    "transaction_id": 73460035
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Interest",
+                    "amount": 49071.09,
+                    "transaction_id": 63781796
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Withdrawal",
+                    "amount": 11749.33,
+                    "transaction_id": 29341918
+                }
+            ]
+        }
+    }
+}

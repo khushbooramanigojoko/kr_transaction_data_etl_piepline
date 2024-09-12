@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Zoe Ochoa",
+        "age": 90,
+        "gender": "male",
+        "address": "PSC 8750, Box 2441, APO AP 64654",
+        "phone": "2214181039",
+        "email": "smithjudith@example.net",
+        "account": {
+            "account_number": "be83c9c8-b0e6-416b-973b-580cc43df0a1",
+            "balance": 40503.35,
+            "transactions": [
+                {
+                    "date": "2023-09-06",
+                    "description": "Deposit",
+                    "amount": 16604.41,
+                    "transaction_id": 65792235
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Interest",
+                    "amount": 43748.21,
+                    "transaction_id": 58853246
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Interest",
+                    "amount": 323.71,
+                    "transaction_id": 116910360
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Withdrawal",
+                    "amount": 101.14,
+                    "transaction_id": 4367800
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Withdrawal",
+                    "amount": 42652.34,
+                    "transaction_id": 98591557
+                }
+            ]
+        }
+    }
+}

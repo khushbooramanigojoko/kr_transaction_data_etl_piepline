@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jean Lee",
+        "age": 34,
+        "gender": "male",
+        "address": "336 Frederick Lodge Apt. 474, South Petermouth, FL 90982",
+        "phone": "428-834-3426x7221",
+        "email": "samantha61@example.com",
+        "account": {
+            "account_number": "1086a7a9-dc7d-4fc6-b1ee-5624971c77bd",
+            "balance": 47782.13,
+            "transactions": [
+                {
+                    "date": "2023-08-03",
+                    "description": "Deposit",
+                    "amount": 40305.14,
+                    "transaction_id": 34618777
+                }
+            ]
+        }
+    }
+}

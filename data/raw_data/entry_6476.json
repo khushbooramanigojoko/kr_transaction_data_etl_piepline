@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Caroline Garcia",
+        "age": 64,
+        "gender": "male",
+        "address": "2408 Fisher Light, East Jesus, UT 88373",
+        "phone": "+1-662-495-8705x809",
+        "email": "lolsen@example.org",
+        "account": {
+            "account_number": "4682c41b-bc48-4d5b-a501-cb3553317f30",
+            "balance": 1797.92,
+            "transactions": [
+                {
+                    "date": "2023-09-08",
+                    "description": "Deposit",
+                    "amount": 12157.3,
+                    "transaction_id": 40373704
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Withdrawal",
+                    "amount": 26191.28,
+                    "transaction_id": 74605722
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Interest",
+                    "amount": 32932.21,
+                    "transaction_id": 38470531
+                },
+                {
+                    "date": "2022-09-09",
+                    "description": "Interest",
+                    "amount": 39710.02,
+                    "transaction_id": 26658923
+                }
+            ]
+        }
+    }
+}

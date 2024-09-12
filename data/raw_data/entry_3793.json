@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mr. Joshua Rodriguez",
+        "age": 48,
+        "gender": "male",
+        "address": "84111 Timothy Stream Suite 796, East Teresachester, MP 60887",
+        "phone": "+1-922-646-8636x686",
+        "email": "jeremiah20@example.net",
+        "account": {
+            "account_number": "36c88d24-057b-4d91-bde9-1d30283cc7e1",
+            "balance": 41372.3,
+            "transactions": [
+                {
+                    "date": "2023-12-14",
+                    "description": "Withdrawal",
+                    "amount": 45415.51,
+                    "transaction_id": 67528085
+                }
+            ]
+        }
+    }
+}

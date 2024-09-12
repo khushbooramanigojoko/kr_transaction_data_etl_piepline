@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 28,
+        "gender": "male",
+        "address": "224 Leslie Road Apt. 311, North Amandahaven, MT 02293",
+        "phone": "(775)263-2175x416",
+        "email": "kimbenjamin@example.org",
+        "account": {
+            "account_number": "be90f1ed-7f31-4ac7-9e94-42ebcca60580",
+            "balance": 21261.43,
+            "transactions": [
+                {
+                    "date": "2023-09-15",
+                    "description": "Deposit",
+                    "amount": 2253.81,
+                    "transaction_id": 59501792
+                },
+                {
+                    "date": "2023-12-05",
+                    "description": "Interest",
+                    "amount": 3980.09,
+                    "transaction_id": 109394780
+                },
+                {
+                    "date": "2024-06-20",
+                    "description": "Interest",
+                    "amount": -3737.02,
+                    "transaction_id": 71088388
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Deposit",
+                    "amount": -4481.61,
+                    "transaction_id": 21791818
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Deposit",
+                    "amount": 3073.8,
+                    "transaction_id": 101631841
+                }
+            ]
+        }
+    }
+}

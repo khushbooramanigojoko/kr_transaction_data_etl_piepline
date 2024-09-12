@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sandra Li",
+        "age": 88,
+        "gender": "female",
+        "address": "09738 Thomas Unions Suite 165, West Rachelton, CO 65580",
+        "phone": "475.533.1992x64722",
+        "email": "kenneth09@example.org",
+        "account": {
+            "account_number": "04a17668-8c3a-46d2-a171-72e0899c0e13",
+            "balance": 37357.05,
+            "transactions": [
+                {
+                    "date": "2023-06-10",
+                    "description": "Deposit",
+                    "amount": 27215.92,
+                    "transaction_id": 24805849
+                },
+                {
+                    "date": "2022-09-17",
+                    "description": "Withdrawal",
+                    "amount": 18482.87,
+                    "transaction_id": 2755755
+                }
+            ]
+        }
+    }
+}

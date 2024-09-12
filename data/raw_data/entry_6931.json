@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Hopkins",
+        "age": 45,
+        "gender": "female",
+        "address": "203 Elizabeth Mountains Apt. 777, North Jesse, OR 51299",
+        "phone": "+1-972-749-8671x582",
+        "email": "davidnavarro@example.net",
+        "account": {
+            "account_number": "4ba8fdb6-b395-4122-a18a-75a83341d266",
+            "balance": 4753.78,
+            "transactions": [
+                {
+                    "date": "2023-05-15",
+                    "description": "Deposit",
+                    "amount": 31248.73,
+                    "transaction_id": 85161545
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Deposit",
+                    "amount": 25222.69,
+                    "transaction_id": 56845625
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Interest",
+                    "amount": 25041.04,
+                    "transaction_id": 30325911
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Withdrawal",
+                    "amount": 23059.09,
+                    "transaction_id": 12812063
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Interest",
+                    "amount": 24605.44,
+                    "transaction_id": 83450613
+                }
+            ]
+        }
+    }
+}

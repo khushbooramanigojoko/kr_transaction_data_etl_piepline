@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Theresa Santiago",
+        "age": 27,
+        "gender": "male",
+        "address": "68771 Patrick Port, Audreymouth, HI 40574",
+        "phone": "001-300-965-3312",
+        "email": "mariakim@example.org",
+        "account": {
+            "account_number": "7428820d-cc50-4df6-9e40-257124d23e1b",
+            "balance": 33204.93,
+            "transactions": [
+                {
+                    "date": "2023-07-26",
+                    "description": "Interest",
+                    "amount": 35842.74,
+                    "transaction_id": 92435486
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Interest",
+                    "amount": 26146.82,
+                    "transaction_id": 38768989
+                },
+                {
+                    "date": "2023-09-04",
+                    "description": "Deposit",
+                    "amount": 26570.62,
+                    "transaction_id": 28072778
+                },
+                {
+                    "date": "2024-04-23",
+                    "description": "Interest",
+                    "amount": 509.34,
+                    "transaction_id": 67869674
+                }
+            ]
+        }
+    }
+}

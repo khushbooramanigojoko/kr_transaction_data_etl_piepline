@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Anthony Orr",
+        "age": 31,
+        "gender": "male",
+        "address": "49987 Gomez Manors, Margaretberg, FM 94512",
+        "phone": "(810)212-5441x7271",
+        "email": "uhampton@example.com",
+        "account": {
+            "account_number": "bac02c25-6743-4367-9d80-477e96eff5d6",
+            "balance": 41487.54,
+            "transactions": [
+                {
+                    "date": "2023-10-06",
+                    "description": "Deposit",
+                    "amount": 35044.55,
+                    "transaction_id": 46397462
+                },
+                {
+                    "date": "2023-09-06",
+                    "description": "Deposit",
+                    "amount": 27511.69,
+                    "transaction_id": 6006475
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Withdrawal",
+                    "amount": 37848.72,
+                    "transaction_id": 38077002
+                },
+                {
+                    "date": "2023-05-06",
+                    "description": "Interest",
+                    "amount": 41623.39,
+                    "transaction_id": 48055799
+                }
+            ]
+        }
+    }
+}

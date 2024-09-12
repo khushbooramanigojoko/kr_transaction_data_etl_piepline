@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Melissa Santana",
+        "age": 18,
+        "gender": "female",
+        "address": "4610 Wood Park Suite 365, Lake Debra, FM 78384",
+        "phone": "729-611-1204x8533",
+        "email": "djohnson@example.org",
+        "account": {
+            "account_number": "fdf80e57-c076-4e3a-bc58-55fc4949169c",
+            "balance": 16361.0,
+            "transactions": [
+                {
+                    "date": "2023-10-12",
+                    "description": "Interest",
+                    "amount": 18451.64,
+                    "transaction_id": 20876762
+                }
+            ]
+        }
+    }
+}

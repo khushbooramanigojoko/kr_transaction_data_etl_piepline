@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dillon Lewis",
+        "age": 98,
+        "gender": "male",
+        "address": "PSC 3470, Box 1290, APO AA 26815",
+        "phone": "929-569-9085",
+        "email": "torresmark@example.org",
+        "account": {
+            "account_number": "93c72bfb-5237-4f77-8fc1-471ca0b4e1e0",
+            "balance": 30612.1,
+            "transactions": [
+                {
+                    "date": "2024-05-20",
+                    "description": "Withdrawal",
+                    "amount": 36546.19,
+                    "transaction_id": 93326488
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Interest",
+                    "amount": 45973.51,
+                    "transaction_id": 78045943
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Interest",
+                    "amount": 6339.0,
+                    "transaction_id": 106220058
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Deposit",
+                    "amount": 14634.68,
+                    "transaction_id": 113487438
+                }
+            ]
+        }
+    }
+}

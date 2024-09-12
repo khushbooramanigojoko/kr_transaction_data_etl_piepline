@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brianna Beck",
+        "age": 96,
+        "gender": "male",
+        "address": "35367 Laura Point, Yolandaside, PW 44147",
+        "phone": "+1-243-900-1300x344",
+        "email": "huertajeffrey@example.net",
+        "account": {
+            "account_number": "49b06824-9552-4fcb-aaa3-bff7aed7a15b",
+            "balance": -3815.73,
+            "transactions": [
+                {
+                    "date": "2023-03-10",
+                    "description": "Deposit",
+                    "amount": 4737.7,
+                    "transaction_id": 118894236
+                }
+            ]
+        }
+    }
+}

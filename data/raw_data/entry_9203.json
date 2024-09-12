@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 66,
+        "gender": "male",
+        "address": "736 Anderson Station Suite 911, Patriciatown, KS 75436",
+        "phone": "638.674.6445x0328",
+        "email": "richardgarcia@example.com",
+        "account": {
+            "account_number": "bdcb947e-90ad-4b1c-aaf5-26b386adbf0e",
+            "balance": 7453.54,
+            "transactions": [
+                {
+                    "date": "2022-09-29",
+                    "description": "Interest",
+                    "amount": 1442.32,
+                    "transaction_id": 40502437
+                },
+                {
+                    "date": "2024-08-11",
+                    "description": "Withdrawal",
+                    "amount": -3690.86,
+                    "transaction_id": 67702480
+                },
+                {
+                    "date": "2023-01-21",
+                    "description": "Interest",
+                    "amount": -4365.8,
+                    "transaction_id": 63687781
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Deposit",
+                    "amount": 2498.8,
+                    "transaction_id": 15414812
+                }
+            ]
+        }
+    }
+}

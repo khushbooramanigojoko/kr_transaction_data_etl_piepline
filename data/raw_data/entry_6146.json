@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Destiny Cohen",
+        "age": 88,
+        "gender": "female",
+        "address": "03334 Mackenzie River Suite 082, Port William, CT 08274",
+        "phone": "001-692-878-8539x857",
+        "email": "wattsjennifer@example.com",
+        "account": {
+            "account_number": "f68ce5a0-ed7c-4a70-8918-a052a6da3336",
+            "balance": 19443.84,
+            "transactions": [
+                {
+                    "date": "2024-02-08",
+                    "description": "Interest",
+                    "amount": 1048.55,
+                    "transaction_id": 4327395
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Interest",
+                    "amount": 16481.62,
+                    "transaction_id": 73704527
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Deposit",
+                    "amount": 39834.74,
+                    "transaction_id": 88369735
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Withdrawal",
+                    "amount": 552.06,
+                    "transaction_id": 25966670
+                },
+                {
+                    "date": "2023-09-20",
+                    "description": "Withdrawal",
+                    "amount": 30818.55,
+                    "transaction_id": 17642959
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ariel Haas",
+        "age": 65,
+        "gender": "male",
+        "address": "68981 Heidi Ferry, South Brandontown, OH 23694",
+        "phone": "9525664725",
+        "email": "markadams@example.net",
+        "account": {
+            "account_number": "e266dbd4-4d86-4463-9310-2861d9efe2ad",
+            "balance": 29370.11,
+            "transactions": [
+                {
+                    "date": "2022-11-29",
+                    "description": "Deposit",
+                    "amount": 4612.05,
+                    "transaction_id": 23114304
+                },
+                {
+                    "date": "2023-01-09",
+                    "description": "Withdrawal",
+                    "amount": 46304.8,
+                    "transaction_id": 24480119
+                },
+                {
+                    "date": "2022-12-20",
+                    "description": "Interest",
+                    "amount": 28600.03,
+                    "transaction_id": 33788476
+                }
+            ]
+        }
+    }
+}

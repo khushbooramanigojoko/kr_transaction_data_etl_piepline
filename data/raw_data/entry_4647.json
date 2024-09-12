@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Christopher Lindsey",
+        "age": 65,
+        "gender": "male",
+        "address": "674 Valencia Fort, Toddmouth, TX 42038",
+        "phone": "869.316.6507x9187",
+        "email": "theresa12@example.net",
+        "account": {
+            "account_number": "7ba86980-bb1d-4f7b-8cd5-ef4e0c9d1446",
+            "balance": 17223.95,
+            "transactions": [
+                {
+                    "date": "2024-07-04",
+                    "description": "Interest",
+                    "amount": 34800.97,
+                    "transaction_id": 61081787
+                },
+                {
+                    "date": "2023-11-03",
+                    "description": "Deposit",
+                    "amount": 5111.49,
+                    "transaction_id": 27013112
+                },
+                {
+                    "date": "2023-09-29",
+                    "description": "Deposit",
+                    "amount": 12095.3,
+                    "transaction_id": 67973750
+                }
+            ]
+        }
+    }
+}

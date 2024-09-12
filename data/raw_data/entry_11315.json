@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 25,
+        "gender": "male",
+        "address": "737 Perez Estate, Combsshire, NE 63116",
+        "phone": "931-242-1402",
+        "email": "jeffreylozano@example.org",
+        "account": {
+            "account_number": "fa1c48b9-b1db-416d-bcf2-0b4decec8a88",
+            "balance": 1325.02,
+            "transactions": [
+                {
+                    "date": "2024-03-05",
+                    "description": "Deposit",
+                    "amount": 3636.31,
+                    "transaction_id": 9641033
+                },
+                {
+                    "date": "2022-10-11",
+                    "description": "Deposit",
+                    "amount": 4594.98,
+                    "transaction_id": 70913350
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Interest",
+                    "amount": -613.76,
+                    "transaction_id": 25079117
+                },
+                {
+                    "date": "2024-07-25",
+                    "description": "Withdrawal",
+                    "amount": -1656.56,
+                    "transaction_id": 103389692
+                },
+                {
+                    "date": "2023-12-19",
+                    "description": "Interest",
+                    "amount": 3391.35,
+                    "transaction_id": 62754144
+                }
+            ]
+        }
+    }
+}

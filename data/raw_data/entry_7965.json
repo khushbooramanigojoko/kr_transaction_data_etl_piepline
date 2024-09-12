@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jeremiah Stokes",
+        "age": 90,
+        "gender": "male",
+        "address": "60744 Brown Well, Millerfurt, FL 37988",
+        "phone": "560.926.1185x03291",
+        "email": "petersonmaria@example.net",
+        "account": {
+            "account_number": "3015462d-9900-4a35-b20e-bc3ac1f8edfa",
+            "balance": 29393.11,
+            "transactions": [
+                {
+                    "date": "2023-12-30",
+                    "description": "Interest",
+                    "amount": 22015.78,
+                    "transaction_id": 29659694
+                }
+            ]
+        }
+    }
+}

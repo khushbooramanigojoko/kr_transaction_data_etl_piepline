@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Randy Kim",
+        "age": 31,
+        "gender": "male",
+        "address": "24303 Lisa Fords, New Adam, TX 14542",
+        "phone": "(325)605-9064",
+        "email": "christine39@example.net",
+        "account": {
+            "account_number": "fb58895a-6c6d-4ad7-8102-24a45c6bf793",
+            "balance": 11989.55,
+            "transactions": [
+                {
+                    "date": "2023-01-20",
+                    "description": "Interest",
+                    "amount": 15484.83,
+                    "transaction_id": 55907121
+                },
+                {
+                    "date": "2022-12-29",
+                    "description": "Deposit",
+                    "amount": 4194.13,
+                    "transaction_id": 21275516
+                },
+                {
+                    "date": "2024-05-29",
+                    "description": "Withdrawal",
+                    "amount": 212.4,
+                    "transaction_id": 18104088
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Withdrawal",
+                    "amount": 17324.19,
+                    "transaction_id": 53204843
+                }
+            ]
+        }
+    }
+}

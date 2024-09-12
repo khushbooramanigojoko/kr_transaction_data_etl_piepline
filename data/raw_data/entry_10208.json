@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Philip Beasley",
+        "age": 24,
+        "gender": "female",
+        "address": "3852 Christopher Locks Suite 379, Jenkinsborough, KY 57832",
+        "phone": "341.775.6232",
+        "email": "baldwinkristen@example.net",
+        "account": {
+            "account_number": "4547b99b-d5f3-4fc5-a52d-afbbfa7d9429",
+            "balance": -1282.84,
+            "transactions": [
+                {
+                    "date": "2023-11-29",
+                    "description": "Deposit",
+                    "amount": -3041.4,
+                    "transaction_id": 28300040
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Interest",
+                    "amount": -4343.97,
+                    "transaction_id": 8192981
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Withdrawal",
+                    "amount": 3801.94,
+                    "transaction_id": 59155330
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Withdrawal",
+                    "amount": -2312.04,
+                    "transaction_id": 113898159
+                }
+            ]
+        }
+    }
+}

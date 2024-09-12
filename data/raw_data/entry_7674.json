@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kevin Mcdonald",
+        "age": 25,
+        "gender": "female",
+        "address": "737 Kathleen Forest Suite 552, New Rachel, AS 32582",
+        "phone": "(467)351-6155",
+        "email": "williamschristopher@example.org",
+        "account": {
+            "account_number": "3797d2ff-9785-4294-8f7f-b6c220546c20",
+            "balance": 14732.56,
+            "transactions": [
+                {
+                    "date": "2023-12-29",
+                    "description": "Deposit",
+                    "amount": 5125.72,
+                    "transaction_id": 112556166
+                },
+                {
+                    "date": "2024-07-14",
+                    "description": "Withdrawal",
+                    "amount": 10541.33,
+                    "transaction_id": 21540072
+                },
+                {
+                    "date": "2023-04-09",
+                    "description": "Interest",
+                    "amount": 12567.52,
+                    "transaction_id": 79440771
+                },
+                {
+                    "date": "2023-04-06",
+                    "description": "Interest",
+                    "amount": 41274.19,
+                    "transaction_id": 89603520
+                }
+            ]
+        }
+    }
+}

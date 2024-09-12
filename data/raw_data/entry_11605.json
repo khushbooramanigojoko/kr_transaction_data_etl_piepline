@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brian Barnett",
+        "age": 62,
+        "gender": "male",
+        "address": "07903 Lori Forge, Richardshaven, MH 47736",
+        "phone": "(203)432-2398x3081",
+        "email": "briannamccormick@example.com",
+        "account": {
+            "account_number": "a017f717-0d2b-4fbf-a4dc-b713c7528864",
+            "balance": -18083.96,
+            "transactions": [
+                {
+                    "date": "2024-08-26",
+                    "description": "Withdrawal",
+                    "amount": 2150.47,
+                    "transaction_id": 85768050
+                }
+            ]
+        }
+    }
+}

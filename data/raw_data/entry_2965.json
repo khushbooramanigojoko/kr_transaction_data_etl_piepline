@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "John Smith",
+        "age": 72,
+        "gender": "female",
+        "address": "461 Martin Prairie, Walkerville, OH 78739",
+        "phone": "603.253.7152",
+        "email": "diana35@example.net",
+        "account": {
+            "account_number": "9821831e-b205-48be-a050-886d8095aa35",
+            "balance": 14762.95,
+            "transactions": [
+                {
+                    "date": "2022-12-02",
+                    "description": "Withdrawal",
+                    "amount": 12530.16,
+                    "transaction_id": 50228187
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Deposit",
+                    "amount": 4608.81,
+                    "transaction_id": 102790516
+                }
+            ]
+        }
+    }
+}

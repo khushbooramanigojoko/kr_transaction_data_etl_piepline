@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jason Johnson",
+        "age": 24,
+        "gender": "male",
+        "address": "5744 Robert Heights, Port Joshuaton, TX 28261",
+        "phone": "651-564-0965",
+        "email": "flang@example.net",
+        "account": {
+            "account_number": "3331293d-9f46-4f73-9557-6f2c76c3f860",
+            "balance": -32643.02,
+            "transactions": [
+                {
+                    "date": "2023-04-29",
+                    "description": "Withdrawal",
+                    "amount": -4259.47,
+                    "transaction_id": 72305194
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Deposit",
+                    "amount": -2371.29,
+                    "transaction_id": 83094513
+                }
+            ]
+        }
+    }
+}

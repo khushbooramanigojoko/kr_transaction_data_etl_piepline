@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tyler Hudson",
+        "age": 36,
+        "gender": "male",
+        "address": "11132 John Row Apt. 889, South Jesseport, OH 37575",
+        "phone": "(846)817-8005x48588",
+        "email": "julie42@example.com",
+        "account": {
+            "account_number": "7adfb988-db72-4ef8-8280-1ef18da3b72a",
+            "balance": 14323.74,
+            "transactions": [
+                {
+                    "date": "2024-05-08",
+                    "description": "Deposit",
+                    "amount": 45056.78,
+                    "transaction_id": 49029256
+                },
+                {
+                    "date": "2023-02-08",
+                    "description": "Withdrawal",
+                    "amount": 38805.52,
+                    "transaction_id": 24299419
+                }
+            ]
+        }
+    }
+}

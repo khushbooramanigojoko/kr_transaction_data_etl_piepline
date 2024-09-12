@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "James Haney",
+        "age": 86,
+        "gender": "male",
+        "address": "67092 Tracie Stream, Grahamside, PR 34015",
+        "phone": "416.798.6031x939",
+        "email": "stanley10@example.org",
+        "account": {
+            "account_number": "37c226fe-0e1d-4a5c-935f-ce2555f8a1be",
+            "balance": 16181.16,
+            "transactions": [
+                {
+                    "date": "2023-07-26",
+                    "description": "Interest",
+                    "amount": 43771.75,
+                    "transaction_id": 84683511
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Withdrawal",
+                    "amount": 27064.8,
+                    "transaction_id": 106292048
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Withdrawal",
+                    "amount": 26470.81,
+                    "transaction_id": 53612503
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Deposit",
+                    "amount": 19021.54,
+                    "transaction_id": 72742520
+                }
+            ]
+        }
+    }
+}

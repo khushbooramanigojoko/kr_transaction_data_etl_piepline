@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Emily Hughes",
+        "age": 50,
+        "gender": "female",
+        "address": "02115 Sims Crest Apt. 267, Port Edward, LA 15706",
+        "phone": "564-890-6413x0779",
+        "email": "kimberly45@example.org",
+        "account": {
+            "account_number": "c2e5d95d-45e0-43f0-b3a9-c4576cdc468f",
+            "balance": -48200.69,
+            "transactions": [
+                {
+                    "date": "2023-06-06",
+                    "description": "Interest",
+                    "amount": 3234.3,
+                    "transaction_id": 2869160
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Deposit",
+                    "amount": -2338.84,
+                    "transaction_id": 88355528
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Withdrawal",
+                    "amount": 4077.64,
+                    "transaction_id": 104148078
+                },
+                {
+                    "date": "2022-10-11",
+                    "description": "Withdrawal",
+                    "amount": -4005.57,
+                    "transaction_id": 23550935
+                }
+            ]
+        }
+    }
+}

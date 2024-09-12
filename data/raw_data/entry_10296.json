@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Steve Williams",
+        "age": 67,
+        "gender": "female",
+        "address": "493 John Forks, New Ashleyburgh, MP 02231",
+        "phone": "(214)520-6856x68492",
+        "email": "greenegabriel@example.net",
+        "account": {
+            "account_number": "a0a2db52-33f3-4fe9-a6a3-8507092d0bfb",
+            "balance": -335.91,
+            "transactions": [
+                {
+                    "date": "2024-03-25",
+                    "description": "Deposit",
+                    "amount": -2956.03,
+                    "transaction_id": 74478702
+                },
+                {
+                    "date": "2023-01-21",
+                    "description": "Deposit",
+                    "amount": 1381.31,
+                    "transaction_id": 20529065
+                },
+                {
+                    "date": "2022-11-04",
+                    "description": "Withdrawal",
+                    "amount": -1161.99,
+                    "transaction_id": 77350147
+                },
+                {
+                    "date": "2023-12-31",
+                    "description": "Deposit",
+                    "amount": -3230.46,
+                    "transaction_id": 12226223
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Interest",
+                    "amount": 4868.28,
+                    "transaction_id": 116984950
+                }
+            ]
+        }
+    }
+}

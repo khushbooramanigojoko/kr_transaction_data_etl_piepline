@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Hunter Moore",
+        "age": 65,
+        "gender": "female",
+        "address": "439 Andrew Dam Suite 419, North David, NC 71559",
+        "phone": "001-751-971-0077x397",
+        "email": "markmiller@example.net",
+        "account": {
+            "account_number": "c64753be-35a6-449d-9106-1f16b2683068",
+            "balance": 36361.51,
+            "transactions": [
+                {
+                    "date": "2024-03-23",
+                    "description": "Withdrawal",
+                    "amount": 43849.72,
+                    "transaction_id": 114195146
+                }
+            ]
+        }
+    }
+}

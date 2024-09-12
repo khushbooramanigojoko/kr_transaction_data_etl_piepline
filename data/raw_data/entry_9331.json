@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 22,
+        "gender": "female",
+        "address": "89896 Paul Avenue Suite 654, West Jeremychester, IN 85934",
+        "phone": "001-351-956-2408x7625",
+        "email": "yfigueroa@example.org",
+        "account": {
+            "account_number": "fce02e77-69f0-4957-98a2-aab7eb83d8ac",
+            "balance": 48046.12,
+            "transactions": [
+                {
+                    "date": "2024-08-21",
+                    "description": "Deposit",
+                    "amount": -4343.93,
+                    "transaction_id": 20630059
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Deposit",
+                    "amount": 4586.47,
+                    "transaction_id": 48851533
+                },
+                {
+                    "date": "2023-05-06",
+                    "description": "Withdrawal",
+                    "amount": 4366.54,
+                    "transaction_id": 109180675
+                }
+            ]
+        }
+    }
+}

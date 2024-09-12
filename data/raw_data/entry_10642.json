@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sandra Owen",
+        "age": 62,
+        "gender": "male",
+        "address": "33221 Scott Springs, Smithmouth, DC 60207",
+        "phone": "(965)719-5404x8737",
+        "email": "madisongallegos@example.net",
+        "account": {
+            "account_number": "9dabcc1f-0c6a-461c-acf6-e5eb5b75b4b7",
+            "balance": -2711.75,
+            "transactions": [
+                {
+                    "date": "2023-10-06",
+                    "description": "Deposit",
+                    "amount": -1477.39,
+                    "transaction_id": 5101539
+                },
+                {
+                    "date": "2023-09-02",
+                    "description": "Interest",
+                    "amount": 3126.26,
+                    "transaction_id": 55360417
+                }
+            ]
+        }
+    }
+}

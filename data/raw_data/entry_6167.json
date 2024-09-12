@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Justin Wood",
+        "age": 75,
+        "gender": "female",
+        "address": "07376 Sarah Forge Apt. 089, Nicholasmouth, OH 67910",
+        "phone": "303-800-0284x370",
+        "email": "randyodom@example.net",
+        "account": {
+            "account_number": "84767639-2624-4a06-ae51-c836a466d580",
+            "balance": 20377.92,
+            "transactions": [
+                {
+                    "date": "2023-07-27",
+                    "description": "Deposit",
+                    "amount": 7705.23,
+                    "transaction_id": 57063556
+                },
+                {
+                    "date": "2022-11-29",
+                    "description": "Interest",
+                    "amount": 42949.23,
+                    "transaction_id": 53520270
+                }
+            ]
+        }
+    }
+}

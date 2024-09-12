@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sarah Hensley",
+        "age": 41,
+        "gender": "female",
+        "address": "904 Amy Courts, Kimberlystad, RI 10561",
+        "phone": "001-822-754-4284x44581",
+        "email": "gmurphy@example.net",
+        "account": {
+            "account_number": "7a19f84d-157b-4b76-a4f7-e88c8ca191e7",
+            "balance": 15412.57,
+            "transactions": [
+                {
+                    "date": "2023-12-17",
+                    "description": "Withdrawal",
+                    "amount": 9829.85,
+                    "transaction_id": 31879577
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Deposit",
+                    "amount": 38911.75,
+                    "transaction_id": 7660847
+                },
+                {
+                    "date": "2023-01-16",
+                    "description": "Deposit",
+                    "amount": 24103.25,
+                    "transaction_id": 92823011
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Withdrawal",
+                    "amount": 11597.45,
+                    "transaction_id": 75225784
+                },
+                {
+                    "date": "2024-02-21",
+                    "description": "Interest",
+                    "amount": 16405.7,
+                    "transaction_id": 42482652
+                }
+            ]
+        }
+    }
+}

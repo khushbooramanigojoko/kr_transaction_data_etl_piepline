@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Rachel Brown",
+        "age": 60,
+        "gender": "female",
+        "address": "6987 Robertson Orchard, Port Deborahbury, LA 21102",
+        "phone": "+1-753-819-1596x8816",
+        "email": "sherri24@example.net",
+        "account": {
+            "account_number": "892a4891-e2cb-4763-96a9-a308248c2d7e",
+            "balance": 28830.8,
+            "transactions": [
+                {
+                    "date": "2023-03-09",
+                    "description": "Interest",
+                    "amount": 36446.8,
+                    "transaction_id": 92979727
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Withdrawal",
+                    "amount": 46899.02,
+                    "transaction_id": 119453104
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Withdrawal",
+                    "amount": 44135.31,
+                    "transaction_id": 92699604
+                },
+                {
+                    "date": "2024-01-10",
+                    "description": "Interest",
+                    "amount": 45039.37,
+                    "transaction_id": 100965127
+                },
+                {
+                    "date": "2024-01-29",
+                    "description": "Withdrawal",
+                    "amount": 13193.78,
+                    "transaction_id": 11310531
+                }
+            ]
+        }
+    }
+}

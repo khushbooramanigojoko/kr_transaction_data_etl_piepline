@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Patricia Jones",
+        "age": 63,
+        "gender": "male",
+        "address": "77310 Kristi Extension, Lake Christopher, UT 43754",
+        "phone": "7669675740",
+        "email": "bennettsabrina@example.org",
+        "account": {
+            "account_number": "3f94244b-0aa3-4bd3-ad6c-bf5f8065acc1",
+            "balance": 31899.25,
+            "transactions": [
+                {
+                    "date": "2024-03-23",
+                    "description": "Deposit",
+                    "amount": 12998.53,
+                    "transaction_id": 85816850
+                },
+                {
+                    "date": "2023-07-13",
+                    "description": "Deposit",
+                    "amount": 12972.19,
+                    "transaction_id": 46361165
+                }
+            ]
+        }
+    }
+}

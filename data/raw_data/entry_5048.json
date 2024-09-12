@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Shane Harvey",
+        "age": 82,
+        "gender": "female",
+        "address": "Unit 4463 Box 7231, DPO AP 07620",
+        "phone": "4868311949",
+        "email": "cgrant@example.net",
+        "account": {
+            "account_number": "178ad9b1-fa47-4e99-9c21-27c390ce645b",
+            "balance": 36456.64,
+            "transactions": [
+                {
+                    "date": "2023-04-20",
+                    "description": "Interest",
+                    "amount": 31641.14,
+                    "transaction_id": 1863040
+                }
+            ]
+        }
+    }
+}

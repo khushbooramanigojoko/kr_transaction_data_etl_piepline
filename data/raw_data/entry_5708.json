@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Vanessa Cabrera",
+        "age": 52,
+        "gender": "male",
+        "address": "7293 Saunders Inlet, Lake Stephanieshire, OK 06826",
+        "phone": "596.643.1934",
+        "email": "ashley91@example.com",
+        "account": {
+            "account_number": "768c5ddd-b326-44e9-b269-2821f8f64b9c",
+            "balance": 4491.52,
+            "transactions": [
+                {
+                    "date": "2023-11-25",
+                    "description": "Interest",
+                    "amount": 11869.01,
+                    "transaction_id": 115933488
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Interest",
+                    "amount": 24578.07,
+                    "transaction_id": 112801949
+                }
+            ]
+        }
+    }
+}

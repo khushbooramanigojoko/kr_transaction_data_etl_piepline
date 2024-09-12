@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Margaret Lang",
+        "age": 22,
+        "gender": "female",
+        "address": "549 Moore Circles Apt. 553, Fosterberg, ID 56003",
+        "phone": "449.841.0015",
+        "email": "denise74@example.net",
+        "account": {
+            "account_number": "e2f38ba2-d1d4-4282-a7b9-ee64f6d17978",
+            "balance": 8344.5,
+            "transactions": [
+                {
+                    "date": "2024-05-03",
+                    "description": "Interest",
+                    "amount": 6603.48,
+                    "transaction_id": 42233821
+                },
+                {
+                    "date": "2023-10-11",
+                    "description": "Deposit",
+                    "amount": 45236.32,
+                    "transaction_id": 89525329
+                },
+                {
+                    "date": "2023-02-01",
+                    "description": "Interest",
+                    "amount": 2541.68,
+                    "transaction_id": 28109457
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Interest",
+                    "amount": 37368.83,
+                    "transaction_id": 54054082
+                }
+            ]
+        }
+    }
+}

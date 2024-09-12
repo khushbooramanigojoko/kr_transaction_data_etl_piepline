@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stephanie Fernandez",
+        "age": 66,
+        "gender": "male",
+        "address": "2819 Heather River, Lake Cristian, OH 01794",
+        "phone": "3322837949",
+        "email": "dduncan@example.net",
+        "account": {
+            "account_number": "8570437f-0279-4be8-a47f-9e61cbf3d8bc",
+            "balance": 19154.45,
+            "transactions": [
+                {
+                    "date": "2024-01-24",
+                    "description": "Interest",
+                    "amount": 44549.74,
+                    "transaction_id": 26930278
+                }
+            ]
+        }
+    }
+}

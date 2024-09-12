@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sherry Carrillo",
+        "age": 32,
+        "gender": "male",
+        "address": "Unit 6992 Box 7763, DPO AA 52137",
+        "phone": "657-366-7246x0621",
+        "email": "jessica12@example.org",
+        "account": {
+            "account_number": "7aa66028-1a3e-4d0f-8f51-2ff837f84e4e",
+            "balance": 23926.73,
+            "transactions": [
+                {
+                    "date": "2022-10-01",
+                    "description": "Withdrawal",
+                    "amount": 622.65,
+                    "transaction_id": 36281786
+                },
+                {
+                    "date": "2024-04-23",
+                    "description": "Withdrawal",
+                    "amount": 5254.96,
+                    "transaction_id": 25072591
+                },
+                {
+                    "date": "2024-08-03",
+                    "description": "Interest",
+                    "amount": 22924.41,
+                    "transaction_id": 24624450
+                },
+                {
+                    "date": "2023-01-26",
+                    "description": "Interest",
+                    "amount": 16989.66,
+                    "transaction_id": 108887272
+                }
+            ]
+        }
+    }
+}

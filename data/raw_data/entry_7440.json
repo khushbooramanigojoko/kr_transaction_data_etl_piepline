@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Karen Davila",
+        "age": 82,
+        "gender": "male",
+        "address": "627 Randy Walks Suite 495, Laurenchester, NH 15785",
+        "phone": "+1-727-386-4989x8394",
+        "email": "amanda25@example.com",
+        "account": {
+            "account_number": "e5cb7da5-9c70-4110-bcf4-d50ba339d8ca",
+            "balance": 40139.5,
+            "transactions": [
+                {
+                    "date": "2024-02-09",
+                    "description": "Withdrawal",
+                    "amount": 13230.94,
+                    "transaction_id": 54364652
+                }
+            ]
+        }
+    }
+}

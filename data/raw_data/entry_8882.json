@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 47,
+        "gender": "male",
+        "address": "PSC 5451, Box 4365, APO AE 86266",
+        "phone": "820-202-7892",
+        "email": "gomezjames@example.com",
+        "account": {
+            "account_number": "a1034ea0-0cb3-4a0f-873f-68c3732992af",
+            "balance": 10917.56,
+            "transactions": [
+                {
+                    "date": "2023-12-15",
+                    "description": "Interest",
+                    "amount": -1319.36,
+                    "transaction_id": 80614855
+                },
+                {
+                    "date": "2023-10-18",
+                    "description": "Deposit",
+                    "amount": 4180.02,
+                    "transaction_id": 23502618
+                },
+                {
+                    "date": "2023-01-13",
+                    "description": "Interest",
+                    "amount": 3644.36,
+                    "transaction_id": 101703416
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Deposit",
+                    "amount": 4450.19,
+                    "transaction_id": 3662270
+                },
+                {
+                    "date": "2024-07-24",
+                    "description": "Deposit",
+                    "amount": 63.6,
+                    "transaction_id": 77397859
+                }
+            ]
+        }
+    }
+}

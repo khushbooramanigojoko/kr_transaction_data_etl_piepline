@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amy Hughes",
+        "age": 50,
+        "gender": "male",
+        "address": "PSC 0940, Box 7956, APO AP 64796",
+        "phone": "780.259.4594x172",
+        "email": "bwilson@example.com",
+        "account": {
+            "account_number": "a1b3337d-80ba-4b63-ab55-9d88041c3502",
+            "balance": 43516.38,
+            "transactions": [
+                {
+                    "date": "2022-10-23",
+                    "description": "Withdrawal",
+                    "amount": 39281.69,
+                    "transaction_id": 103736461
+                }
+            ]
+        }
+    }
+}

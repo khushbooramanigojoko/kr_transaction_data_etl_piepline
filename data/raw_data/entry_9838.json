@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 34,
+        "gender": "male",
+        "address": "486 Davila Island Suite 428, Youngchester, CA 12004",
+        "phone": "+1-837-740-4934",
+        "email": "dmiller@example.com",
+        "account": {
+            "account_number": "cfbf7ebb-052d-4581-982a-6d745193680d",
+            "balance": 20423.24,
+            "transactions": [
+                {
+                    "date": "2023-05-12",
+                    "description": "Withdrawal",
+                    "amount": -2510.24,
+                    "transaction_id": 102389633
+                },
+                {
+                    "date": "2022-10-13",
+                    "description": "Withdrawal",
+                    "amount": 636.07,
+                    "transaction_id": 57679171
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Withdrawal",
+                    "amount": 1065.14,
+                    "transaction_id": 23621435
+                },
+                {
+                    "date": "2023-05-16",
+                    "description": "Deposit",
+                    "amount": 621.1,
+                    "transaction_id": 78090709
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Withdrawal",
+                    "amount": -4985.42,
+                    "transaction_id": 50402813
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Pam Jackson",
+        "age": 55,
+        "gender": "male",
+        "address": "8126 Valentine Keys, Kimberlyburgh, CO 85651",
+        "phone": "949.677.8885x85482",
+        "email": "dmyers@example.net",
+        "account": {
+            "account_number": "7aecf172-8a97-4c2c-8a55-80df15b7c787",
+            "balance": -24881.85,
+            "transactions": [
+                {
+                    "date": "2022-10-16",
+                    "description": "Deposit",
+                    "amount": -2902.01,
+                    "transaction_id": 110020975
+                }
+            ]
+        }
+    }
+}

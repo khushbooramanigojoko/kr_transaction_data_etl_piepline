@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Thomas Thomas",
+        "age": 27,
+        "gender": "female",
+        "address": "739 Weaver Village, Martinfurt, UT 43019",
+        "phone": "001-821-385-1715x9519",
+        "email": "uhammond@example.net",
+        "account": {
+            "account_number": "e7ccd863-776d-482d-8a43-ce82c0aa4921",
+            "balance": 32928.06,
+            "transactions": [
+                {
+                    "date": "2023-08-10",
+                    "description": "Deposit",
+                    "amount": 6787.42,
+                    "transaction_id": 39466095
+                },
+                {
+                    "date": "2024-08-08",
+                    "description": "Withdrawal",
+                    "amount": 6060.04,
+                    "transaction_id": 113471044
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Interest",
+                    "amount": 35700.79,
+                    "transaction_id": 16466804
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Interest",
+                    "amount": 36533.5,
+                    "transaction_id": 90800909
+                }
+            ]
+        }
+    }
+}

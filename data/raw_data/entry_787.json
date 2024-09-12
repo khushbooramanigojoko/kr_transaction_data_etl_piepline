@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Richard Hanson",
+        "age": 71,
+        "gender": "female",
+        "address": "5846 Parker Port, Travisberg, OK 48684",
+        "phone": "(684)385-0323x10536",
+        "email": "taylor93@example.com",
+        "account": {
+            "account_number": "80b9e65c-aea0-4d0c-8c9c-a476a1343846",
+            "balance": 8807.53,
+            "transactions": [
+                {
+                    "date": "2023-05-09",
+                    "description": "Withdrawal",
+                    "amount": 41172.42,
+                    "transaction_id": 99863162
+                },
+                {
+                    "date": "2023-09-28",
+                    "description": "Interest",
+                    "amount": 27728.33,
+                    "transaction_id": 25599382
+                }
+            ]
+        }
+    }
+}

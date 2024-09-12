@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Rhodes",
+        "age": 98,
+        "gender": "male",
+        "address": "287 Rodriguez Course Apt. 063, West Carolyn, AL 04932",
+        "phone": "9219438281",
+        "email": "brownkristin@example.net",
+        "account": {
+            "account_number": "05c7c9e1-f9df-489f-a544-4a08fb60d661",
+            "balance": 45734.23,
+            "transactions": [
+                {
+                    "date": "2023-04-23",
+                    "description": "Withdrawal",
+                    "amount": 36728.77,
+                    "transaction_id": 21689447
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Deposit",
+                    "amount": 2906.65,
+                    "transaction_id": 34046874
+                },
+                {
+                    "date": "2024-02-11",
+                    "description": "Interest",
+                    "amount": 26090.24,
+                    "transaction_id": 7262536
+                },
+                {
+                    "date": "2023-07-25",
+                    "description": "Deposit",
+                    "amount": 28974.4,
+                    "transaction_id": 98009318
+                },
+                {
+                    "date": "2024-07-16",
+                    "description": "Withdrawal",
+                    "amount": 43282.31,
+                    "transaction_id": 56824175
+                }
+            ]
+        }
+    }
+}

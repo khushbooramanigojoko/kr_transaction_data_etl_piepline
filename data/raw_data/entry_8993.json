@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 42,
+        "gender": "female",
+        "address": "2201 Kayla Course, Thomasside, VA 89841",
+        "phone": "+1-698-423-0547x18846",
+        "email": "hpeterson@example.org",
+        "account": {
+            "account_number": "5b2139ae-f75a-4581-9705-dd0dfd140e2d",
+            "balance": 45273.29,
+            "transactions": [
+                {
+                    "date": "2022-11-03",
+                    "description": "Interest",
+                    "amount": 84.4,
+                    "transaction_id": 46573724
+                },
+                {
+                    "date": "2024-04-19",
+                    "description": "Withdrawal",
+                    "amount": 1362.98,
+                    "transaction_id": 3416270
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Withdrawal",
+                    "amount": 1211.73,
+                    "transaction_id": 91679002
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Interest",
+                    "amount": -4246.37,
+                    "transaction_id": 72794067
+                }
+            ]
+        }
+    }
+}

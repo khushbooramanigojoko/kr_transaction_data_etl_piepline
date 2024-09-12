@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amber Rose",
+        "age": 99,
+        "gender": "female",
+        "address": "52625 Collins Lock, North Scottport, CT 51610",
+        "phone": "570-330-5587x7280",
+        "email": "kaylarios@example.org",
+        "account": {
+            "account_number": "61613e0d-b16c-46d3-87c7-d1c90d238d99",
+            "balance": 35758.78,
+            "transactions": [
+                {
+                    "date": "2024-03-15",
+                    "description": "Deposit",
+                    "amount": 11291.95,
+                    "transaction_id": 100777086
+                },
+                {
+                    "date": "2024-03-21",
+                    "description": "Withdrawal",
+                    "amount": 42347.88,
+                    "transaction_id": 90080187
+                }
+            ]
+        }
+    }
+}

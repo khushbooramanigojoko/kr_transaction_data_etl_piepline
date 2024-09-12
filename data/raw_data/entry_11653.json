@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "female",
+        "address": "20418 Franco Station Apt. 275, Danielbury, GA 02510",
+        "phone": "(366)707-5405",
+        "email": "jasminemunoz@example.com",
+        "account": {
+            "account_number": "da7b7c9a-21c4-41b2-a212-4c02ff7e33be",
+            "balance": 39383.76,
+            "transactions": [
+                {
+                    "date": "2023-12-22",
+                    "description": "Interest",
+                    "amount": -3733.31,
+                    "transaction_id": 116319256
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Deposit",
+                    "amount": -1535.11,
+                    "transaction_id": 49735123
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Interest",
+                    "amount": 3087.2,
+                    "transaction_id": 32878480
+                },
+                {
+                    "date": "2022-11-11",
+                    "description": "Deposit",
+                    "amount": -2872.3,
+                    "transaction_id": 107275649
+                }
+            ]
+        }
+    }
+}

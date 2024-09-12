@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 47,
+        "gender": "male",
+        "address": "949 Rodriguez Cliffs, South Jeffrey, VA 61061",
+        "phone": "(954)204-1653x141",
+        "email": "benjamin21@example.net",
+        "account": {
+            "account_number": "e6738d51-9a91-4bec-bdde-1560548c2c67",
+            "balance": 9185.8,
+            "transactions": [
+                {
+                    "date": "2022-12-17",
+                    "description": "Interest",
+                    "amount": 4171.91,
+                    "transaction_id": 115654592
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Interest",
+                    "amount": 586.23,
+                    "transaction_id": 47195459
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Deposit",
+                    "amount": 4703.55,
+                    "transaction_id": 66186818
+                }
+            ]
+        }
+    }
+}

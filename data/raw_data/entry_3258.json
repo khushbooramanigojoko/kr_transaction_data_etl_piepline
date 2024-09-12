@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Robert Barnes",
+        "age": 43,
+        "gender": "female",
+        "address": "27667 Ellis Springs, New Travisview, MA 91010",
+        "phone": "001-689-513-5032",
+        "email": "tmathis@example.org",
+        "account": {
+            "account_number": "b357f273-310c-4178-aec9-a6caaf338958",
+            "balance": 27967.27,
+            "transactions": [
+                {
+                    "date": "2024-05-05",
+                    "description": "Interest",
+                    "amount": 17360.04,
+                    "transaction_id": 95535962
+                },
+                {
+                    "date": "2022-12-10",
+                    "description": "Interest",
+                    "amount": 21571.49,
+                    "transaction_id": 62392733
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Deposit",
+                    "amount": 5624.31,
+                    "transaction_id": 56677673
+                }
+            ]
+        }
+    }
+}

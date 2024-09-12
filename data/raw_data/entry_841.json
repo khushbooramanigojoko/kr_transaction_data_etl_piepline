@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Taylor Reeves MD",
+        "age": 60,
+        "gender": "male",
+        "address": "33447 Melton Island, South Keith, MD 73027",
+        "phone": "574.702.2365x228",
+        "email": "robertnixon@example.com",
+        "account": {
+            "account_number": "e9d8a146-f929-4743-b335-0920d8851f62",
+            "balance": 41580.14,
+            "transactions": [
+                {
+                    "date": "2024-07-18",
+                    "description": "Interest",
+                    "amount": 26944.92,
+                    "transaction_id": 70027819
+                }
+            ]
+        }
+    }
+}

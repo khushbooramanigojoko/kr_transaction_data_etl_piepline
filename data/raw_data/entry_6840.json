@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "William Figueroa",
+        "age": 34,
+        "gender": "male",
+        "address": "456 Vanessa Parks, Lake Daleburgh, GU 94386",
+        "phone": "+1-766-797-4329x09037",
+        "email": "jamessharp@example.net",
+        "account": {
+            "account_number": "a5d8c16b-28c6-46ed-8fd7-de5cf2f900ff",
+            "balance": 36344.8,
+            "transactions": [
+                {
+                    "date": "2023-01-12",
+                    "description": "Deposit",
+                    "amount": 36614.39,
+                    "transaction_id": 72068974
+                }
+            ]
+        }
+    }
+}

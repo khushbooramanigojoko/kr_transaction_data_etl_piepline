@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Laura Gilmore",
+        "age": 94,
+        "gender": "female",
+        "address": "7856 Moran Cove, Davidville, OH 77852",
+        "phone": "+1-470-611-2087x059",
+        "email": "rodneyroberts@example.org",
+        "account": {
+            "account_number": "223b199c-c876-4581-b4ef-2923935a4f9c",
+            "balance": 3783.0,
+            "transactions": [
+                {
+                    "date": "2024-07-28",
+                    "description": "Interest",
+                    "amount": 14558.88,
+                    "transaction_id": 44039927
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Vincent Taylor",
+        "age": 37,
+        "gender": "female",
+        "address": "USCGC Garza, FPO AP 82501",
+        "phone": "001-315-727-3429x053",
+        "email": "sandersmegan@example.org",
+        "account": {
+            "account_number": "6d2c2e14-792c-4609-9040-b1fa7eb02b2b",
+            "balance": 9750.22,
+            "transactions": [
+                {
+                    "date": "2024-03-18",
+                    "description": "Deposit",
+                    "amount": 3049.97,
+                    "transaction_id": 79171720
+                },
+                {
+                    "date": "2024-05-09",
+                    "description": "Deposit",
+                    "amount": 45937.67,
+                    "transaction_id": 14262154
+                },
+                {
+                    "date": "2023-07-30",
+                    "description": "Deposit",
+                    "amount": 44725.86,
+                    "transaction_id": 95969158
+                },
+                {
+                    "date": "2024-06-27",
+                    "description": "Interest",
+                    "amount": 19736.35,
+                    "transaction_id": 99344748
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Deposit",
+                    "amount": 26099.79,
+                    "transaction_id": 119980435
+                }
+            ]
+        }
+    }
+}

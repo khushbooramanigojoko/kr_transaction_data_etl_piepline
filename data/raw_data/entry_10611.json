@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nicole Jones",
+        "age": 64,
+        "gender": "female",
+        "address": "1222 Rebecca Circles Suite 192, Margaretfurt, SD 26780",
+        "phone": "+1-958-586-5016x1323",
+        "email": "bgriffith@example.org",
+        "account": {
+            "account_number": "5a499857-355b-41b7-b915-c40d8fa3e298",
+            "balance": -46029.36,
+            "transactions": [
+                {
+                    "date": "2024-06-26",
+                    "description": "Interest",
+                    "amount": -72.34,
+                    "transaction_id": 65077603
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Withdrawal",
+                    "amount": 4266.35,
+                    "transaction_id": 20157257
+                },
+                {
+                    "date": "2022-11-23",
+                    "description": "Interest",
+                    "amount": -2170.36,
+                    "transaction_id": 113489453
+                },
+                {
+                    "date": "2024-06-27",
+                    "description": "Deposit",
+                    "amount": 815.66,
+                    "transaction_id": 64284110
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Withdrawal",
+                    "amount": 1010.33,
+                    "transaction_id": 36271207
+                }
+            ]
+        }
+    }
+}

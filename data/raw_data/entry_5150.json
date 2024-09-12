@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brittany Williams",
+        "age": 93,
+        "gender": "male",
+        "address": "180 Rebecca Flats, New Christianport, AR 29545",
+        "phone": "931-664-0612x19788",
+        "email": "brownteresa@example.net",
+        "account": {
+            "account_number": "202280ca-0376-4fcd-896c-38a7146eb24f",
+            "balance": 42872.31,
+            "transactions": [
+                {
+                    "date": "2024-03-21",
+                    "description": "Withdrawal",
+                    "amount": 25898.37,
+                    "transaction_id": 90948389
+                },
+                {
+                    "date": "2022-11-17",
+                    "description": "Deposit",
+                    "amount": 24523.93,
+                    "transaction_id": 2552985
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Interest",
+                    "amount": 2432.54,
+                    "transaction_id": 38224784
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Deposit",
+                    "amount": 44153.88,
+                    "transaction_id": 95134031
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 44,
+        "gender": "male",
+        "address": "637 Miller Hills, Lake Lisaville, IN 64373",
+        "phone": "(795)385-0427x325",
+        "email": "william27@example.org",
+        "account": {
+            "account_number": "0d1fcd3b-298c-4dfa-81f1-337aa94311de",
+            "balance": 7076.5,
+            "transactions": [
+                {
+                    "date": "2023-03-08",
+                    "description": "Withdrawal",
+                    "amount": -3966.22,
+                    "transaction_id": 111349868
+                },
+                {
+                    "date": "2023-07-20",
+                    "description": "Interest",
+                    "amount": -2281.5,
+                    "transaction_id": 82490083
+                },
+                {
+                    "date": "2022-11-12",
+                    "description": "Interest",
+                    "amount": -158.86,
+                    "transaction_id": 97136528
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Withdrawal",
+                    "amount": -4044.17,
+                    "transaction_id": 22706242
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Deposit",
+                    "amount": 16.3,
+                    "transaction_id": 108682143
+                }
+            ]
+        }
+    }
+}

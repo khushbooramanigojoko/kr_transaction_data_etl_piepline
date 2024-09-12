@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Julie Gonzalez",
+        "age": 30,
+        "gender": "female",
+        "address": "556 Ryan Loaf Suite 885, Lake Joshua, PA 82652",
+        "phone": "7114828308",
+        "email": "yvettehoffman@example.org",
+        "account": {
+            "account_number": "e4d29c2c-5f50-4c4e-ab86-9babe4fc4797",
+            "balance": -34090.09,
+            "transactions": [
+                {
+                    "date": "2024-02-21",
+                    "description": "Deposit",
+                    "amount": -2599.23,
+                    "transaction_id": 101766274
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Deposit",
+                    "amount": -3321.94,
+                    "transaction_id": 33197650
+                },
+                {
+                    "date": "2022-09-06",
+                    "description": "Withdrawal",
+                    "amount": 4871.45,
+                    "transaction_id": 10144541
+                },
+                {
+                    "date": "2023-04-11",
+                    "description": "Deposit",
+                    "amount": -3890.64,
+                    "transaction_id": 119173007
+                }
+            ]
+        }
+    }
+}

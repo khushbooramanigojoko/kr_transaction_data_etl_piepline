@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christine Kramer",
+        "age": 86,
+        "gender": "male",
+        "address": "5187 Jones Stream, Curtisshire, FM 96257",
+        "phone": "649-402-0687",
+        "email": "candace99@example.org",
+        "account": {
+            "account_number": "cf722154-8dbe-4fe7-ba6c-4b51596aca62",
+            "balance": 12846.26,
+            "transactions": [
+                {
+                    "date": "2023-01-24",
+                    "description": "Deposit",
+                    "amount": 2603.5,
+                    "transaction_id": 12187644
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Deposit",
+                    "amount": 27104.93,
+                    "transaction_id": 31045742
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Withdrawal",
+                    "amount": 28855.7,
+                    "transaction_id": 44606437
+                },
+                {
+                    "date": "2023-03-30",
+                    "description": "Interest",
+                    "amount": 7115.78,
+                    "transaction_id": 110229588
+                }
+            ]
+        }
+    }
+}

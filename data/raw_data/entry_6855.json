@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Patrick Walker",
+        "age": 47,
+        "gender": "female",
+        "address": "4690 Lee Fords, Davisville, WY 25679",
+        "phone": "001-464-295-3708x296",
+        "email": "delgadomelissa@example.net",
+        "account": {
+            "account_number": "f8fde8cb-4d93-41d0-8d12-d7993ad563b7",
+            "balance": 21839.26,
+            "transactions": [
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": 46067.89,
+                    "transaction_id": 46856219
+                },
+                {
+                    "date": "2024-03-31",
+                    "description": "Deposit",
+                    "amount": 20204.57,
+                    "transaction_id": 16195444
+                }
+            ]
+        }
+    }
+}

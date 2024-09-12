@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mary Hunt",
+        "age": 37,
+        "gender": "female",
+        "address": "379 Christopher Curve Apt. 973, Millerside, KY 11373",
+        "phone": "373.439.1692",
+        "email": "hcampbell@example.org",
+        "account": {
+            "account_number": "595599c0-9659-419f-812b-186664755bf2",
+            "balance": 9187.16,
+            "transactions": [
+                {
+                    "date": "2022-10-13",
+                    "description": "Deposit",
+                    "amount": 12372.78,
+                    "transaction_id": 40758364
+                },
+                {
+                    "date": "2024-02-25",
+                    "description": "Deposit",
+                    "amount": 24476.26,
+                    "transaction_id": 5854017
+                },
+                {
+                    "date": "2023-04-04",
+                    "description": "Withdrawal",
+                    "amount": 18595.37,
+                    "transaction_id": 8665618
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Interest",
+                    "amount": 21902.47,
+                    "transaction_id": 14073910
+                },
+                {
+                    "date": "2023-01-03",
+                    "description": "Interest",
+                    "amount": 14031.33,
+                    "transaction_id": 54623324
+                }
+            ]
+        }
+    }
+}

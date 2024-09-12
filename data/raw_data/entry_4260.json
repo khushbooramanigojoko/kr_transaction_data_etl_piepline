@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Samuel Brown",
+        "age": 74,
+        "gender": "male",
+        "address": "9901 Bradley Summit Suite 793, East Shari, KY 23660",
+        "phone": "(279)392-6888x96209",
+        "email": "vnguyen@example.net",
+        "account": {
+            "account_number": "24f92714-8ade-42e0-887f-b27e284c0ace",
+            "balance": 14370.86,
+            "transactions": [
+                {
+                    "date": "2024-05-22",
+                    "description": "Deposit",
+                    "amount": 47665.2,
+                    "transaction_id": 100981010
+                },
+                {
+                    "date": "2024-05-12",
+                    "description": "Withdrawal",
+                    "amount": 28462.24,
+                    "transaction_id": 48352357
+                },
+                {
+                    "date": "2023-04-24",
+                    "description": "Withdrawal",
+                    "amount": 16371.48,
+                    "transaction_id": 1758278
+                },
+                {
+                    "date": "2023-06-10",
+                    "description": "Withdrawal",
+                    "amount": 49498.09,
+                    "transaction_id": 13993044
+                },
+                {
+                    "date": "2024-06-17",
+                    "description": "Interest",
+                    "amount": 10759.82,
+                    "transaction_id": 41800408
+                }
+            ]
+        }
+    }
+}

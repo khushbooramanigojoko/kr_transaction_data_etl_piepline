@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Maria Lee",
+        "age": 55,
+        "gender": "male",
+        "address": "94362 Timothy Ridge Apt. 128, Annland, VA 72022",
+        "phone": "001-674-416-4965x0606",
+        "email": "nelsonlauren@example.com",
+        "account": {
+            "account_number": "18407442-3386-4136-af3e-d285157edf6c",
+            "balance": 34046.28,
+            "transactions": [
+                {
+                    "date": "2023-02-14",
+                    "description": "Interest",
+                    "amount": 36856.71,
+                    "transaction_id": 14348977
+                },
+                {
+                    "date": "2024-04-29",
+                    "description": "Withdrawal",
+                    "amount": 36431.53,
+                    "transaction_id": 2906018
+                },
+                {
+                    "date": "2023-12-10",
+                    "description": "Deposit",
+                    "amount": 36642.91,
+                    "transaction_id": 44839474
+                },
+                {
+                    "date": "2022-09-06",
+                    "description": "Interest",
+                    "amount": 15229.17,
+                    "transaction_id": 115610854
+                }
+            ]
+        }
+    }
+}

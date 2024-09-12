@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Craig Knight",
+        "age": 52,
+        "gender": "male",
+        "address": "4739 Morrison Crescent Apt. 406, Chadstad, VA 38255",
+        "phone": "+1-947-628-7152",
+        "email": "shawkins@example.com",
+        "account": {
+            "account_number": "ad79c10a-6a93-40c2-bf22-f381f328ffd9",
+            "balance": 26626.23,
+            "transactions": [
+                {
+                    "date": "2023-01-26",
+                    "description": "Deposit",
+                    "amount": 17531.02,
+                    "transaction_id": 63648212
+                },
+                {
+                    "date": "2024-07-29",
+                    "description": "Deposit",
+                    "amount": 4406.53,
+                    "transaction_id": 1460276
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Interest",
+                    "amount": 16846.43,
+                    "transaction_id": 82049742
+                }
+            ]
+        }
+    }
+}

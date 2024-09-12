@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amy Parrish",
+        "age": 85,
+        "gender": "female",
+        "address": "88316 Simpson Drives Apt. 898, Berryside, MS 51048",
+        "phone": "9142166474",
+        "email": "hallpaul@example.com",
+        "account": {
+            "account_number": "dc6e7800-c901-4e31-abbd-cfb0d513e77d",
+            "balance": 32050.34,
+            "transactions": [
+                {
+                    "date": "2022-09-27",
+                    "description": "Interest",
+                    "amount": 16559.37,
+                    "transaction_id": 17393059
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Withdrawal",
+                    "amount": 2439.74,
+                    "transaction_id": 14256662
+                }
+            ]
+        }
+    }
+}

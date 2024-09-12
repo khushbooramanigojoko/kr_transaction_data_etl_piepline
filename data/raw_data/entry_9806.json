@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Harry Russo",
+        "age": 67,
+        "gender": "female",
+        "address": "064 Nicole Mountain, Davidland, KY 65676",
+        "phone": "778.389.3175x4403",
+        "email": "jamestrujillo@example.net",
+        "account": {
+            "account_number": "26249115-2806-4aa3-a92b-3733c59d094f",
+            "balance": -46922.32,
+            "transactions": [
+                {
+                    "date": "2022-10-07",
+                    "description": "Interest",
+                    "amount": -585.58,
+                    "transaction_id": 97854326
+                },
+                {
+                    "date": "2023-01-22",
+                    "description": "Interest",
+                    "amount": -3628.18,
+                    "transaction_id": 100511367
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 70,
+        "gender": "female",
+        "address": "835 Smith Estate Suite 498, East Yolandatown, CT 09743",
+        "phone": "001-592-240-7711x03851",
+        "email": "xhaynes@example.org",
+        "account": {
+            "account_number": "c744ac48-9a81-4276-afc1-9257e02dd24e",
+            "balance": 10278.75,
+            "transactions": [
+                {
+                    "date": "2024-06-21",
+                    "description": "Interest",
+                    "amount": 840.83,
+                    "transaction_id": 8266967
+                },
+                {
+                    "date": "2024-08-03",
+                    "description": "Deposit",
+                    "amount": -1182.13,
+                    "transaction_id": 9560610
+                }
+            ]
+        }
+    }
+}

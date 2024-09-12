@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brooke Diaz",
+        "age": 50,
+        "gender": "male",
+        "address": "PSC 5045, Box 4587, APO AA 30728",
+        "phone": "991-353-8892x336",
+        "email": "fthomas@example.org",
+        "account": {
+            "account_number": "d3eedd5c-3284-482e-b701-3608b8b869d4",
+            "balance": -49446.14,
+            "transactions": [
+                {
+                    "date": "2023-02-08",
+                    "description": "Interest",
+                    "amount": 2000.33,
+                    "transaction_id": 24913626
+                },
+                {
+                    "date": "2023-07-24",
+                    "description": "Withdrawal",
+                    "amount": 1694.0,
+                    "transaction_id": 118690917
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 76,
+        "gender": "male",
+        "address": "054 Francis Parkways, North Kennethborough, DE 89715",
+        "phone": "001-369-892-2638",
+        "email": "keith24@example.net",
+        "account": {
+            "account_number": "d95b07fe-d533-4b76-9245-59ac1cd385bd",
+            "balance": 23460.39,
+            "transactions": [
+                {
+                    "date": "2024-06-03",
+                    "description": "Deposit",
+                    "amount": 1231.18,
+                    "transaction_id": 74724061
+                },
+                {
+                    "date": "2024-05-20",
+                    "description": "Interest",
+                    "amount": 2582.25,
+                    "transaction_id": 23215592
+                }
+            ]
+        }
+    }
+}

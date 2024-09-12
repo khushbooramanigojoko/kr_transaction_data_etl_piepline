@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 99,
+        "gender": "male",
+        "address": "2277 Gonzales Shoals, Davidhaven, MP 55241",
+        "phone": "(254)596-8581",
+        "email": "johnnykeith@example.net",
+        "account": {
+            "account_number": "6dbefec2-cdae-4477-b619-470800e2c5ca",
+            "balance": 27651.92,
+            "transactions": [
+                {
+                    "date": "2023-08-06",
+                    "description": "Interest",
+                    "amount": 1651.92,
+                    "transaction_id": 93255104
+                },
+                {
+                    "date": "2024-01-29",
+                    "description": "Deposit",
+                    "amount": -3173.45,
+                    "transaction_id": 112395192
+                }
+            ]
+        }
+    }
+}

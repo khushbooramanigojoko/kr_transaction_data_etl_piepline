@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jessica Pierce",
+        "age": 28,
+        "gender": "male",
+        "address": "637 Tiffany Isle Apt. 668, East Jessica, WA 70510",
+        "phone": "920-495-3163x86097",
+        "email": "alyssa40@example.com",
+        "account": {
+            "account_number": "9dd27a5d-203a-4f0a-9541-b6b870bf47ab",
+            "balance": 42366.66,
+            "transactions": [
+                {
+                    "date": "2022-11-17",
+                    "description": "Interest",
+                    "amount": 16520.88,
+                    "transaction_id": 49070557
+                },
+                {
+                    "date": "2023-01-22",
+                    "description": "Withdrawal",
+                    "amount": 12850.22,
+                    "transaction_id": 113915557
+                },
+                {
+                    "date": "2022-11-24",
+                    "description": "Interest",
+                    "amount": 10498.68,
+                    "transaction_id": 76736849
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Deposit",
+                    "amount": 300.09,
+                    "transaction_id": 88997753
+                }
+            ]
+        }
+    }
+}

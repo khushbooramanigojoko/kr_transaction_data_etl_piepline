@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "John Scott",
+        "age": 72,
+        "gender": "female",
+        "address": "2763 Koch Knoll, Lake Robertburgh, SD 23679",
+        "phone": "+1-902-412-4265x89619",
+        "email": "joserodriguez@example.net",
+        "account": {
+            "account_number": "e5f6771c-4db7-49ed-879d-0675d276d75a",
+            "balance": -7849.78,
+            "transactions": [
+                {
+                    "date": "2024-05-08",
+                    "description": "Interest",
+                    "amount": -4382.37,
+                    "transaction_id": 5898794
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Deposit",
+                    "amount": -2953.91,
+                    "transaction_id": 102131830
+                }
+            ]
+        }
+    }
+}

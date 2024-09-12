@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kenneth Pittman",
+        "age": 24,
+        "gender": "female",
+        "address": "666 Michael Course Apt. 048, West Bryanchester, IA 73557",
+        "phone": "(941)535-2377x145",
+        "email": "murillobrandy@example.net",
+        "account": {
+            "account_number": "7f1ba01d-35a8-4d87-aa96-dea63c78200c",
+            "balance": 20842.42,
+            "transactions": [
+                {
+                    "date": "2023-01-17",
+                    "description": "Interest",
+                    "amount": 33548.29,
+                    "transaction_id": 74820091
+                },
+                {
+                    "date": "2024-05-04",
+                    "description": "Deposit",
+                    "amount": 8920.68,
+                    "transaction_id": 37316213
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Lisa Banks",
+        "age": 46,
+        "gender": "male",
+        "address": "538 James Turnpike Suite 000, Port Josephbury, UT 13848",
+        "phone": "505.865.5780x5176",
+        "email": "robertskerri@example.com",
+        "account": {
+            "account_number": "ac843a59-336f-4021-9fb5-8cf0be8aa710",
+            "balance": -23579.91,
+            "transactions": [
+                {
+                    "date": "2022-09-18",
+                    "description": "Deposit",
+                    "amount": 4944.3,
+                    "transaction_id": 100873181
+                },
+                {
+                    "date": "2024-05-03",
+                    "description": "Withdrawal",
+                    "amount": 3094.23,
+                    "transaction_id": 42227949
+                },
+                {
+                    "date": "2023-02-27",
+                    "description": "Withdrawal",
+                    "amount": -1366.4,
+                    "transaction_id": 93452813
+                }
+            ]
+        }
+    }
+}

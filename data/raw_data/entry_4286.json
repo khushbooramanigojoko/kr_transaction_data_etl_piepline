@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "William Keith",
+        "age": 84,
+        "gender": "female",
+        "address": "Unit 5829 Box 3934, DPO AA 73563",
+        "phone": "378-395-3404x1997",
+        "email": "josephross@example.org",
+        "account": {
+            "account_number": "5144dd64-7fb7-41a5-90e8-456031f82fba",
+            "balance": 29456.79,
+            "transactions": [
+                {
+                    "date": "2023-04-20",
+                    "description": "Interest",
+                    "amount": 16077.65,
+                    "transaction_id": 50259723
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Withdrawal",
+                    "amount": 32785.76,
+                    "transaction_id": 93716469
+                },
+                {
+                    "date": "2023-05-17",
+                    "description": "Deposit",
+                    "amount": 29832.3,
+                    "transaction_id": 1863017
+                }
+            ]
+        }
+    }
+}

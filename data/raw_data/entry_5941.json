@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Cassandra Adams",
+        "age": 32,
+        "gender": "male",
+        "address": "883 Joshua Oval Suite 804, Jayport, IL 23468",
+        "phone": "(350)435-9899",
+        "email": "smithdavid@example.net",
+        "account": {
+            "account_number": "084d3603-021a-4647-b414-e6a1d09d2a00",
+            "balance": 40563.96,
+            "transactions": [
+                {
+                    "date": "2022-10-18",
+                    "description": "Deposit",
+                    "amount": 31036.81,
+                    "transaction_id": 48453897
+                }
+            ]
+        }
+    }
+}

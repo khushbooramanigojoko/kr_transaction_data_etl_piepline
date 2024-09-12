@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kenneth Werner",
+        "age": 94,
+        "gender": "female",
+        "address": "18364 Morales Branch Suite 352, Ritterberg, MP 66445",
+        "phone": "987-682-6149x84740",
+        "email": "ccarr@example.net",
+        "account": {
+            "account_number": "a7fc7c14-b5e2-49d8-a239-7b3cda7a5d53",
+            "balance": 17959.54,
+            "transactions": [
+                {
+                    "date": "2024-03-29",
+                    "description": "Deposit",
+                    "amount": 24229.65,
+                    "transaction_id": 43047208
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Interest",
+                    "amount": 46407.06,
+                    "transaction_id": 68083790
+                }
+            ]
+        }
+    }
+}

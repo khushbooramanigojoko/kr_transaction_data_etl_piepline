@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brenda Shannon",
+        "age": 92,
+        "gender": "female",
+        "address": "476 Jonathan Parks, West Deniseton, AS 76354",
+        "phone": "639.707.7484x42000",
+        "email": "matthewgentry@example.net",
+        "account": {
+            "account_number": "970c7f06-0bb2-497e-af7a-e9958678b5b2",
+            "balance": 49933.19,
+            "transactions": [
+                {
+                    "date": "2023-07-24",
+                    "description": "Deposit",
+                    "amount": 3472.65,
+                    "transaction_id": 37347035
+                },
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": 25206.91,
+                    "transaction_id": 101237819
+                },
+                {
+                    "date": "2024-05-30",
+                    "description": "Interest",
+                    "amount": 22852.19,
+                    "transaction_id": 15751191
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Interest",
+                    "amount": 14200.84,
+                    "transaction_id": 5392897
+                }
+            ]
+        }
+    }
+}

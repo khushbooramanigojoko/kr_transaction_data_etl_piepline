@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lori Wallace",
+        "age": 67,
+        "gender": "female",
+        "address": "47907 Mitchell Court Suite 825, North Marcus, AL 75342",
+        "phone": "+1-439-769-1091x41910",
+        "email": "jgibbs@example.org",
+        "account": {
+            "account_number": "39020eef-1da0-46e8-9fe2-f28388f1d6ad",
+            "balance": 33122.04,
+            "transactions": [
+                {
+                    "date": "2023-03-07",
+                    "description": "Withdrawal",
+                    "amount": 9494.62,
+                    "transaction_id": 58568003
+                }
+            ]
+        }
+    }
+}

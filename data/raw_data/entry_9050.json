@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Gomez",
+        "age": 33,
+        "gender": "female",
+        "address": "16256 Catherine Lodge Suite 811, Phillipsfort, HI 43851",
+        "phone": "379.336.8907x3958",
+        "email": "pamela85@example.com",
+        "account": {
+            "account_number": "0bea9643-1ed3-44b8-9b53-529c24d877db",
+            "balance": -2473.93,
+            "transactions": [
+                {
+                    "date": "2024-01-07",
+                    "description": "Deposit",
+                    "amount": -680.05,
+                    "transaction_id": 48085519
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Withdrawal",
+                    "amount": -4043.01,
+                    "transaction_id": 71063023
+                }
+            ]
+        }
+    }
+}

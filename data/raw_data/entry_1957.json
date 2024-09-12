@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Barbara Barr",
+        "age": 78,
+        "gender": "female",
+        "address": "02407 Sheppard Walks, Port Susanside, MT 48193",
+        "phone": "694-681-1213x30460",
+        "email": "jenna14@example.net",
+        "account": {
+            "account_number": "995debea-324f-4f27-abb9-69432c65fbf7",
+            "balance": 29545.84,
+            "transactions": [
+                {
+                    "date": "2023-07-07",
+                    "description": "Interest",
+                    "amount": 10570.36,
+                    "transaction_id": 41437400
+                }
+            ]
+        }
+    }
+}

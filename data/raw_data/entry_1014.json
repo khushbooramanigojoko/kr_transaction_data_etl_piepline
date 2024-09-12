@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jennifer Meyers MD",
+        "age": 84,
+        "gender": "male",
+        "address": "671 Patterson Radial Suite 544, Garciaton, ID 28335",
+        "phone": "749-747-2407",
+        "email": "cbarnes@example.org",
+        "account": {
+            "account_number": "586ebd3a-a582-4149-9d4d-132b75bc264f",
+            "balance": 44666.86,
+            "transactions": [
+                {
+                    "date": "2024-03-27",
+                    "description": "Deposit",
+                    "amount": 12275.3,
+                    "transaction_id": 11672895
+                },
+                {
+                    "date": "2023-02-27",
+                    "description": "Withdrawal",
+                    "amount": 8825.43,
+                    "transaction_id": 109044438
+                }
+            ]
+        }
+    }
+}

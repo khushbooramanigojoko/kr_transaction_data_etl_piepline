@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Deborah Callahan",
+        "age": 84,
+        "gender": "male",
+        "address": "325 Davis Islands Apt. 883, Thomasbury, NC 03217",
+        "phone": "778.972.1255",
+        "email": "umurray@example.org",
+        "account": {
+            "account_number": "69a6cdeb-b202-497e-9a17-ec286148fc30",
+            "balance": 23759.19,
+            "transactions": [
+                {
+                    "date": "2022-10-03",
+                    "description": "Deposit",
+                    "amount": 15141.59,
+                    "transaction_id": 34323763
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Interest",
+                    "amount": 13030.69,
+                    "transaction_id": 80270928
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Deposit",
+                    "amount": 4352.23,
+                    "transaction_id": 17744152
+                }
+            ]
+        }
+    }
+}

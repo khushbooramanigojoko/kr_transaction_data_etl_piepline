@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Rachel Davis",
+        "age": 27,
+        "gender": "male",
+        "address": "5168 Dorothy Pines, Burnshaven, DC 97716",
+        "phone": "+1-647-487-2066",
+        "email": "rosekenneth@example.com",
+        "account": {
+            "account_number": "406fc1fe-b464-4c64-bd62-81809c45fda6",
+            "balance": 2124.1,
+            "transactions": [
+                {
+                    "date": "2022-09-08",
+                    "description": "Deposit",
+                    "amount": 11280.02,
+                    "transaction_id": 84751376
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Interest",
+                    "amount": 16228.96,
+                    "transaction_id": 63679121
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Deposit",
+                    "amount": 45425.27,
+                    "transaction_id": 105874602
+                },
+                {
+                    "date": "2024-02-03",
+                    "description": "Deposit",
+                    "amount": 43032.82,
+                    "transaction_id": 7054029
+                },
+                {
+                    "date": "2023-04-30",
+                    "description": "Withdrawal",
+                    "amount": 13043.27,
+                    "transaction_id": 14418312
+                }
+            ]
+        }
+    }
+}

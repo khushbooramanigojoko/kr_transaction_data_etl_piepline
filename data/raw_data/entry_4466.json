@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sheila Williams",
+        "age": 46,
+        "gender": "male",
+        "address": "USS Anderson, FPO AA 34826",
+        "phone": "+1-923-809-6798x3892",
+        "email": "stevenmorrow@example.net",
+        "account": {
+            "account_number": "01b8ab99-d568-4eff-b4e3-bc0b52e315e7",
+            "balance": 30387.62,
+            "transactions": [
+                {
+                    "date": "2024-08-19",
+                    "description": "Deposit",
+                    "amount": 861.91,
+                    "transaction_id": 27117123
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Deposit",
+                    "amount": 46789.54,
+                    "transaction_id": 21444864
+                },
+                {
+                    "date": "2023-06-07",
+                    "description": "Withdrawal",
+                    "amount": 45670.57,
+                    "transaction_id": 29967409
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Withdrawal",
+                    "amount": 18707.22,
+                    "transaction_id": 40630292
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Withdrawal",
+                    "amount": 38479.86,
+                    "transaction_id": 48542333
+                }
+            ]
+        }
+    }
+}

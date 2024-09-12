@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Emily Williams",
+        "age": 65,
+        "gender": "male",
+        "address": "123 Adkins Ways Apt. 515, New Christopher, RI 75721",
+        "phone": "+1-867-929-5737x8067",
+        "email": "kelly58@example.net",
+        "account": {
+            "account_number": "62de28e2-e63d-470d-a698-a8d0b1739271",
+            "balance": 28943.17,
+            "transactions": [
+                {
+                    "date": "2024-06-28",
+                    "description": "Deposit",
+                    "amount": 25004.54,
+                    "transaction_id": 99774607
+                }
+            ]
+        }
+    }
+}

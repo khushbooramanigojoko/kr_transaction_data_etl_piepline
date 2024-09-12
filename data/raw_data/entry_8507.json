@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Margaret Wilson",
+        "age": 88,
+        "gender": "male",
+        "address": "7536 Carlson Brook, Scottville, DE 14836",
+        "phone": "(585)381-3132x423",
+        "email": "lynnstanley@example.org",
+        "account": {
+            "account_number": "89dc6f25-8a3d-402e-a61f-af5c9feb7f20",
+            "balance": 12124.17,
+            "transactions": [
+                {
+                    "date": "2023-10-31",
+                    "description": "Withdrawal",
+                    "amount": 9190.96,
+                    "transaction_id": 30416736
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Withdrawal",
+                    "amount": 39859.14,
+                    "transaction_id": 81096743
+                },
+                {
+                    "date": "2024-09-01",
+                    "description": "Deposit",
+                    "amount": 35257.15,
+                    "transaction_id": 113825720
+                },
+                {
+                    "date": "2023-10-31",
+                    "description": "Deposit",
+                    "amount": 27220.71,
+                    "transaction_id": 53545228
+                }
+            ]
+        }
+    }
+}

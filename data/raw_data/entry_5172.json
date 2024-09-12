@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Latoya Miller",
+        "age": 81,
+        "gender": "female",
+        "address": "7114 Vazquez Path Apt. 818, Wilsontown, TN 08201",
+        "phone": "(944)290-9514",
+        "email": "oyang@example.org",
+        "account": {
+            "account_number": "7b0fe254-914b-48f4-b8d9-1acdefdcb3bd",
+            "balance": 36359.56,
+            "transactions": [
+                {
+                    "date": "2024-07-30",
+                    "description": "Deposit",
+                    "amount": 34325.24,
+                    "transaction_id": 72336098
+                },
+                {
+                    "date": "2023-08-04",
+                    "description": "Interest",
+                    "amount": 22081.32,
+                    "transaction_id": 114622276
+                },
+                {
+                    "date": "2022-11-29",
+                    "description": "Deposit",
+                    "amount": 40190.32,
+                    "transaction_id": 61616401
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Interest",
+                    "amount": 29620.58,
+                    "transaction_id": 21703565
+                },
+                {
+                    "date": "2024-05-29",
+                    "description": "Interest",
+                    "amount": 23942.54,
+                    "transaction_id": 34437484
+                }
+            ]
+        }
+    }
+}

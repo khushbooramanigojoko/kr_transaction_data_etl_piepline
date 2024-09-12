@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tammy Duran",
+        "age": 95,
+        "gender": "male",
+        "address": "4292 Levi Prairie Suite 040, Port Patrickside, MA 45515",
+        "phone": "(989)322-6885x71150",
+        "email": "clee@example.com",
+        "account": {
+            "account_number": "69c96b1f-fa6e-4c23-a3c2-769bbfa9afc5",
+            "balance": 4760.7,
+            "transactions": [
+                {
+                    "date": "2023-12-15",
+                    "description": "Interest",
+                    "amount": 35423.34,
+                    "transaction_id": 115638399
+                },
+                {
+                    "date": "2022-11-21",
+                    "description": "Withdrawal",
+                    "amount": 20126.46,
+                    "transaction_id": 83048654
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Deposit",
+                    "amount": 12698.71,
+                    "transaction_id": 27035156
+                },
+                {
+                    "date": "2024-06-26",
+                    "description": "Deposit",
+                    "amount": 13036.69,
+                    "transaction_id": 95282072
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Deposit",
+                    "amount": 13807.61,
+                    "transaction_id": 113977426
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Peter Downs",
+        "age": 73,
+        "gender": "female",
+        "address": "USCGC Joseph, FPO AA 60647",
+        "phone": "+1-309-201-0393x6611",
+        "email": "john58@example.net",
+        "account": {
+            "account_number": "5de640a1-9f98-4ef4-9152-2a5533c9f91f",
+            "balance": 13885.79,
+            "transactions": [
+                {
+                    "date": "2023-04-28",
+                    "description": "Deposit",
+                    "amount": 41870.66,
+                    "transaction_id": 107885521
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Deposit",
+                    "amount": 37858.0,
+                    "transaction_id": 72721816
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Deposit",
+                    "amount": 49526.77,
+                    "transaction_id": 19046007
+                },
+                {
+                    "date": "2024-08-08",
+                    "description": "Deposit",
+                    "amount": 8856.47,
+                    "transaction_id": 50308278
+                }
+            ]
+        }
+    }
+}

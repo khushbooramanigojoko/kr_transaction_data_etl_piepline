@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 49,
+        "gender": "female",
+        "address": "298 Watkins Harbors, Lake Jasonport, KS 75717",
+        "phone": "371-210-1924",
+        "email": "ecole@example.org",
+        "account": {
+            "account_number": "d78131c5-c204-413c-8171-e79932f9b9fb",
+            "balance": 1410.69,
+            "transactions": [
+                {
+                    "date": "2023-09-26",
+                    "description": "Interest",
+                    "amount": -4291.15,
+                    "transaction_id": 65479302
+                },
+                {
+                    "date": "2024-06-30",
+                    "description": "Withdrawal",
+                    "amount": 609.69,
+                    "transaction_id": 73942634
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Interest",
+                    "amount": -3249.44,
+                    "transaction_id": 35311740
+                },
+                {
+                    "date": "2023-12-30",
+                    "description": "Deposit",
+                    "amount": -1635.33,
+                    "transaction_id": 99871037
+                }
+            ]
+        }
+    }
+}

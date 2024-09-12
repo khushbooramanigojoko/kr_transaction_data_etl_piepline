@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Taylor Russell",
+        "age": 79,
+        "gender": "male",
+        "address": "197 Kristine Common Apt. 074, West Jermainemouth, AZ 93661",
+        "phone": "(770)242-4176x35353",
+        "email": "david63@example.com",
+        "account": {
+            "account_number": "a50d30f1-e360-4d47-84d0-564b5caf2460",
+            "balance": 32761.93,
+            "transactions": [
+                {
+                    "date": "2023-10-26",
+                    "description": "Deposit",
+                    "amount": 28606.69,
+                    "transaction_id": 38050137
+                }
+            ]
+        }
+    }
+}

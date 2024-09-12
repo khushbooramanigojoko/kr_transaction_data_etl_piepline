@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ryan Gonzalez",
+        "age": 45,
+        "gender": "female",
+        "address": "USNS Wilson, FPO AE 33945",
+        "phone": "+1-264-924-7574",
+        "email": "whitneymurray@example.net",
+        "account": {
+            "account_number": "e17d261a-eee9-4499-94b5-f00edf542de7",
+            "balance": 24784.27,
+            "transactions": [
+                {
+                    "date": "2024-06-07",
+                    "description": "Deposit",
+                    "amount": 43945.93,
+                    "transaction_id": 97401867
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Deposit",
+                    "amount": 38257.99,
+                    "transaction_id": 53341678
+                }
+            ]
+        }
+    }
+}

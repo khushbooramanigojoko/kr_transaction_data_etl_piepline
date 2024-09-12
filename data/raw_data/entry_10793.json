@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sandra Vance",
+        "age": 20,
+        "gender": "female",
+        "address": "365 Barajas Mission Suite 215, East Timothyton, GU 14317",
+        "phone": "001-721-796-1586x1425",
+        "email": "frank69@example.com",
+        "account": {
+            "account_number": "82326242-112d-4595-8055-1144f077d0bd",
+            "balance": -48588.59,
+            "transactions": [
+                {
+                    "date": "2022-12-01",
+                    "description": "Deposit",
+                    "amount": -2257.32,
+                    "transaction_id": 26716646
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Withdrawal",
+                    "amount": 1562.1,
+                    "transaction_id": 7952911
+                }
+            ]
+        }
+    }
+}

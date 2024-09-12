@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Gregory Webster",
+        "age": 96,
+        "gender": "female",
+        "address": "207 James Bridge Apt. 764, Cookside, LA 55312",
+        "phone": "+1-992-738-3143x56709",
+        "email": "sbenson@example.net",
+        "account": {
+            "account_number": "add105d9-b332-4707-873f-05e6aa70b0b0",
+            "balance": 35343.19,
+            "transactions": [
+                {
+                    "date": "2024-04-20",
+                    "description": "Withdrawal",
+                    "amount": 39329.18,
+                    "transaction_id": 96088142
+                },
+                {
+                    "date": "2022-10-19",
+                    "description": "Withdrawal",
+                    "amount": 25588.47,
+                    "transaction_id": 110543252
+                }
+            ]
+        }
+    }
+}

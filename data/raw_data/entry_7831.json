@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kimberly Ruiz",
+        "age": 56,
+        "gender": "male",
+        "address": "9582 Matthew Light Apt. 143, West Erinview, UT 70790",
+        "phone": "986-376-8836",
+        "email": "greenejorge@example.org",
+        "account": {
+            "account_number": "a5cf8b39-3156-4639-b4f4-fbff6ad89a48",
+            "balance": 36913.39,
+            "transactions": [
+                {
+                    "date": "2023-06-25",
+                    "description": "Withdrawal",
+                    "amount": 15245.86,
+                    "transaction_id": 5246823
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Deposit",
+                    "amount": 17616.43,
+                    "transaction_id": 25208671
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Interest",
+                    "amount": 29645.52,
+                    "transaction_id": 19024886
+                },
+                {
+                    "date": "2022-12-02",
+                    "description": "Deposit",
+                    "amount": 21462.48,
+                    "transaction_id": 19457923
+                }
+            ]
+        }
+    }
+}

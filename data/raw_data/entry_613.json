@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Steven King",
+        "age": 48,
+        "gender": "female",
+        "address": "9597 Myers Walks, Port Heather, UT 29692",
+        "phone": "5669415103",
+        "email": "miguelwalton@example.net",
+        "account": {
+            "account_number": "73a52ef7-10b3-47ae-9d42-dbc720b36f73",
+            "balance": 35540.43,
+            "transactions": [
+                {
+                    "date": "2023-11-18",
+                    "description": "Deposit",
+                    "amount": 31641.64,
+                    "transaction_id": 44011504
+                },
+                {
+                    "date": "2022-11-23",
+                    "description": "Deposit",
+                    "amount": 3427.32,
+                    "transaction_id": 52912963
+                },
+                {
+                    "date": "2024-01-20",
+                    "description": "Deposit",
+                    "amount": 29077.6,
+                    "transaction_id": 110944102
+                },
+                {
+                    "date": "2023-07-24",
+                    "description": "Deposit",
+                    "amount": 13272.52,
+                    "transaction_id": 27115530
+                }
+            ]
+        }
+    }
+}

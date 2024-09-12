@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 85,
+        "gender": "male",
+        "address": "7961 Wilson Curve Apt. 091, North Hannahmouth, NC 47004",
+        "phone": "844.646.7230",
+        "email": "gmartinez@example.org",
+        "account": {
+            "account_number": "9f9dfa33-0b65-4082-af30-4926cb088174",
+            "balance": 9169.36,
+            "transactions": [
+                {
+                    "date": "2023-12-15",
+                    "description": "Withdrawal",
+                    "amount": -1487.71,
+                    "transaction_id": 93293794
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Interest",
+                    "amount": 3116.16,
+                    "transaction_id": 31455038
+                }
+            ]
+        }
+    }
+}

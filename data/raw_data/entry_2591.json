@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kevin Lee",
+        "age": 92,
+        "gender": "male",
+        "address": "2975 Li Oval, West Steveville, AL 98019",
+        "phone": "(814)876-1552x998",
+        "email": "jeffrey92@example.org",
+        "account": {
+            "account_number": "3f9423d7-c677-4a8d-8a7d-0344d2a92b0a",
+            "balance": 4667.56,
+            "transactions": [
+                {
+                    "date": "2023-12-21",
+                    "description": "Deposit",
+                    "amount": 11329.79,
+                    "transaction_id": 28531984
+                },
+                {
+                    "date": "2024-06-17",
+                    "description": "Deposit",
+                    "amount": 37506.25,
+                    "transaction_id": 87399909
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Deposit",
+                    "amount": 11298.47,
+                    "transaction_id": 56911802
+                },
+                {
+                    "date": "2024-01-27",
+                    "description": "Deposit",
+                    "amount": 25524.14,
+                    "transaction_id": 26807209
+                }
+            ]
+        }
+    }
+}

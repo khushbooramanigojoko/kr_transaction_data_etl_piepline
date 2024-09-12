@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jeffrey Mcintosh",
+        "age": 27,
+        "gender": "male",
+        "address": "USNS Marshall, FPO AE 65932",
+        "phone": "485-482-0731",
+        "email": "krystallawrence@example.com",
+        "account": {
+            "account_number": "dacb28f6-ce1e-4b7a-8f72-1ca497209c78",
+            "balance": 20351.12,
+            "transactions": [
+                {
+                    "date": "2024-04-01",
+                    "description": "Interest",
+                    "amount": 25895.58,
+                    "transaction_id": 113180537
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Withdrawal",
+                    "amount": 27243.69,
+                    "transaction_id": 83966177
+                },
+                {
+                    "date": "2023-12-18",
+                    "description": "Interest",
+                    "amount": 31581.43,
+                    "transaction_id": 20260701
+                },
+                {
+                    "date": "2023-08-23",
+                    "description": "Withdrawal",
+                    "amount": 37972.4,
+                    "transaction_id": 107681740
+                }
+            ]
+        }
+    }
+}

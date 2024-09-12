@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Benjamin Wilson",
+        "age": 51,
+        "gender": "male",
+        "address": "100 Christina Mews, Thomasborough, MH 23246",
+        "phone": "9006238378",
+        "email": "jasminemathews@example.com",
+        "account": {
+            "account_number": "5c4b2552-fda9-4264-8fa6-a8954dac79cc",
+            "balance": 33868.95,
+            "transactions": [
+                {
+                    "date": "2024-01-09",
+                    "description": "Deposit",
+                    "amount": 41222.56,
+                    "transaction_id": 110418445
+                }
+            ]
+        }
+    }
+}

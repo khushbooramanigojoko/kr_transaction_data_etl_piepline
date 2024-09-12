@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kathy Lewis",
+        "age": 39,
+        "gender": "male",
+        "address": "125 Jacob Light, South Allisonburgh, NE 57000",
+        "phone": "727.992.9566x29935",
+        "email": "johnstonanna@example.org",
+        "account": {
+            "account_number": "1a831c1a-9c35-4f5d-977e-bb3ddfe90eb3",
+            "balance": 12847.46,
+            "transactions": [
+                {
+                    "date": "2022-09-03",
+                    "description": "Interest",
+                    "amount": 9569.1,
+                    "transaction_id": 118837514
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Deposit",
+                    "amount": 44961.8,
+                    "transaction_id": 88544627
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Deposit",
+                    "amount": 8539.63,
+                    "transaction_id": 85821379
+                },
+                {
+                    "date": "2023-12-06",
+                    "description": "Withdrawal",
+                    "amount": 5587.99,
+                    "transaction_id": 66460111
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Interest",
+                    "amount": 39357.19,
+                    "transaction_id": 94462896
+                }
+            ]
+        }
+    }
+}

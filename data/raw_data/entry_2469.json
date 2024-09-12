@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rose Wood",
+        "age": 93,
+        "gender": "female",
+        "address": "PSC 2263, Box 9999, APO AE 48799",
+        "phone": "(602)241-6730",
+        "email": "michele15@example.org",
+        "account": {
+            "account_number": "81dc52ac-d77b-4512-bf04-a4ff019413c0",
+            "balance": 33717.41,
+            "transactions": [
+                {
+                    "date": "2023-08-20",
+                    "description": "Deposit",
+                    "amount": 24579.41,
+                    "transaction_id": 106255793
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 49,
+        "gender": "male",
+        "address": "436 Jensen Tunnel Suite 599, Mitchellfort, GA 05592",
+        "phone": "418-729-0245",
+        "email": "zturner@example.net",
+        "account": {
+            "account_number": "ab5a182a-0f0f-41e2-a15a-d8ee44a2dd77",
+            "balance": 44095.32,
+            "transactions": [
+                {
+                    "date": "2024-04-12",
+                    "description": "Interest",
+                    "amount": -3470.8,
+                    "transaction_id": 50588011
+                },
+                {
+                    "date": "2024-01-10",
+                    "description": "Interest",
+                    "amount": 2118.97,
+                    "transaction_id": 95065428
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Deposit",
+                    "amount": -953.46,
+                    "transaction_id": 111014177
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Clark",
+        "age": 77,
+        "gender": "male",
+        "address": "222 Melissa Vista, Briannaburgh, WV 70167",
+        "phone": "+1-814-647-7970x70099",
+        "email": "bgomez@example.com",
+        "account": {
+            "account_number": "07a68945-721f-4349-a75f-4bb26ccf9424",
+            "balance": 41017.82,
+            "transactions": [
+                {
+                    "date": "2023-03-25",
+                    "description": "Deposit",
+                    "amount": 971.99,
+                    "transaction_id": 63158279
+                },
+                {
+                    "date": "2023-04-30",
+                    "description": "Withdrawal",
+                    "amount": 44181.87,
+                    "transaction_id": 27030611
+                }
+            ]
+        }
+    }
+}

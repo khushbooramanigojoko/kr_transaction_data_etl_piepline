@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 68,
+        "gender": "female",
+        "address": "596 Hogan Locks, Ronaldhaven, NH 40055",
+        "phone": "(804)975-6626x92760",
+        "email": "jacobdickerson@example.org",
+        "account": {
+            "account_number": "fcd55482-6dc8-4edf-9ae5-bfae6c040714",
+            "balance": 27998.37,
+            "transactions": [
+                {
+                    "date": "2024-02-22",
+                    "description": "Deposit",
+                    "amount": 3329.27,
+                    "transaction_id": 75732038
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Interest",
+                    "amount": 194.91,
+                    "transaction_id": 8932328
+                }
+            ]
+        }
+    }
+}

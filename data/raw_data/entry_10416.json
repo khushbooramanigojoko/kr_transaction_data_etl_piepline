@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christina Daniels",
+        "age": 74,
+        "gender": "female",
+        "address": "09770 Kristin Unions, North Edward, AS 05461",
+        "phone": "772-905-3201",
+        "email": "arthur84@example.net",
+        "account": {
+            "account_number": "02cf2bef-19ab-46ab-a973-59548950970f",
+            "balance": -24011.89,
+            "transactions": [
+                {
+                    "date": "2023-11-06",
+                    "description": "Interest",
+                    "amount": -1852.39,
+                    "transaction_id": 70317752
+                },
+                {
+                    "date": "2023-01-21",
+                    "description": "Deposit",
+                    "amount": -4294.44,
+                    "transaction_id": 49276875
+                },
+                {
+                    "date": "2022-11-18",
+                    "description": "Interest",
+                    "amount": 2774.27,
+                    "transaction_id": 80027349
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Deposit",
+                    "amount": -4916.74,
+                    "transaction_id": 93441624
+                }
+            ]
+        }
+    }
+}

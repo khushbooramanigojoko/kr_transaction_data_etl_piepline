@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Monica Campbell",
+        "age": 71,
+        "gender": "male",
+        "address": "PSC 2746, Box 4589, APO AE 26138",
+        "phone": "8225382820",
+        "email": "mschmidt@example.org",
+        "account": {
+            "account_number": "5fc1c7f4-2898-4fc9-b33b-dbaf26de285d",
+            "balance": 44750.12,
+            "transactions": [
+                {
+                    "date": "2022-12-18",
+                    "description": "Withdrawal",
+                    "amount": 32563.88,
+                    "transaction_id": 87027718
+                },
+                {
+                    "date": "2023-07-21",
+                    "description": "Deposit",
+                    "amount": 44662.5,
+                    "transaction_id": 96868093
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Interest",
+                    "amount": 15251.35,
+                    "transaction_id": 66326897
+                },
+                {
+                    "date": "2023-07-26",
+                    "description": "Withdrawal",
+                    "amount": 18726.66,
+                    "transaction_id": 79968593
+                }
+            ]
+        }
+    }
+}

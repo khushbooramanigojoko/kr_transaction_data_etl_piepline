@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mary Hanna",
+        "age": 40,
+        "gender": "female",
+        "address": "470 Spencer Ports, Jenniferfurt, MP 42914",
+        "phone": "3888350016",
+        "email": "mullenmitchell@example.com",
+        "account": {
+            "account_number": "27ca8312-d62f-44e7-a0d9-9ee4969b080b",
+            "balance": 34230.39,
+            "transactions": [
+                {
+                    "date": "2024-09-01",
+                    "description": "Interest",
+                    "amount": 32925.02,
+                    "transaction_id": 65352298
+                },
+                {
+                    "date": "2023-12-13",
+                    "description": "Withdrawal",
+                    "amount": 40740.45,
+                    "transaction_id": 6619636
+                }
+            ]
+        }
+    }
+}

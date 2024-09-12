@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 99,
+        "gender": "male",
+        "address": "1569 Christopher Islands Apt. 622, Kristinaview, NJ 99605",
+        "phone": "436.892.7876",
+        "email": "barbaraphillips@example.net",
+        "account": {
+            "account_number": "8098504c-2bda-4ff7-8b45-cd3478a352fd",
+            "balance": 39778.33,
+            "transactions": [
+                {
+                    "date": "2024-01-15",
+                    "description": "Withdrawal",
+                    "amount": -2660.58,
+                    "transaction_id": 68870203
+                },
+                {
+                    "date": "2023-08-01",
+                    "description": "Interest",
+                    "amount": -3210.69,
+                    "transaction_id": 35952752
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Deposit",
+                    "amount": -3479.51,
+                    "transaction_id": 75478553
+                }
+            ]
+        }
+    }
+}

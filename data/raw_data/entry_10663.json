@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nicole Love",
+        "age": 79,
+        "gender": "female",
+        "address": "PSC 4363, Box 9103, APO AA 34125",
+        "phone": "658.581.3662x35332",
+        "email": "scottwilson@example.org",
+        "account": {
+            "account_number": "b6c221b5-172f-4977-9038-346f32c019d1",
+            "balance": -10724.61,
+            "transactions": [
+                {
+                    "date": "2023-07-18",
+                    "description": "Withdrawal",
+                    "amount": -2863.25,
+                    "transaction_id": 17874942
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Deposit",
+                    "amount": 3444.14,
+                    "transaction_id": 85783085
+                },
+                {
+                    "date": "2022-10-20",
+                    "description": "Deposit",
+                    "amount": -941.26,
+                    "transaction_id": 17252829
+                },
+                {
+                    "date": "2023-01-07",
+                    "description": "Interest",
+                    "amount": -3965.23,
+                    "transaction_id": 114675803
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Interest",
+                    "amount": 1685.31,
+                    "transaction_id": 98852911
+                }
+            ]
+        }
+    }
+}

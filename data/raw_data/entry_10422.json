@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 66,
+        "gender": "female",
+        "address": "82502 Sherman Turnpike, Davidland, CA 57592",
+        "phone": "+1-542-689-3062x12143",
+        "email": "michaelmclaughlin@example.net",
+        "account": {
+            "account_number": "cda2fbf3-6e71-4a28-bdf2-5d26bc1a83ab",
+            "balance": 30411.02,
+            "transactions": [
+                {
+                    "date": "2023-08-28",
+                    "description": "Withdrawal",
+                    "amount": 4124.82,
+                    "transaction_id": 85484500
+                },
+                {
+                    "date": "2022-12-11",
+                    "description": "Interest",
+                    "amount": 38.24,
+                    "transaction_id": 101970053
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Deposit",
+                    "amount": -4369.96,
+                    "transaction_id": 6240702
+                },
+                {
+                    "date": "2023-05-15",
+                    "description": "Deposit",
+                    "amount": -3448.79,
+                    "transaction_id": 76881544
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Interest",
+                    "amount": -4523.1,
+                    "transaction_id": 14307402
+                }
+            ]
+        }
+    }
+}

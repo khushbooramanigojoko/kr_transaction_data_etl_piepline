@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jonathan Baker",
+        "age": 87,
+        "gender": "female",
+        "address": "896 Stephen Trafficway, Solisland, GA 27178",
+        "phone": "546-227-8093",
+        "email": "torrestravis@example.net",
+        "account": {
+            "account_number": "366c8b3e-5a7a-490b-b52f-095406ab7d61",
+            "balance": 3305.56,
+            "transactions": [
+                {
+                    "date": "2023-02-06",
+                    "description": "Withdrawal",
+                    "amount": 12463.09,
+                    "transaction_id": 103390017
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Interest",
+                    "amount": 10044.47,
+                    "transaction_id": 17826554
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Interest",
+                    "amount": 28029.79,
+                    "transaction_id": 107619356
+                },
+                {
+                    "date": "2023-03-26",
+                    "description": "Deposit",
+                    "amount": 30733.61,
+                    "transaction_id": 73123955
+                }
+            ]
+        }
+    }
+}

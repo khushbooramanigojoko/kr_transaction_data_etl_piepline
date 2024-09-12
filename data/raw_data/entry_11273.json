@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Daniel Parrish",
+        "age": 51,
+        "gender": "male",
+        "address": "812 Lisa Streets Suite 011, East Stephanie, FL 99047",
+        "phone": "(628)429-1020",
+        "email": "adrienneoliver@example.org",
+        "account": {
+            "account_number": "2cfd0b10-8939-439d-a206-dea5e23ca61c",
+            "balance": -49902.59,
+            "transactions": [
+                {
+                    "date": "2022-12-05",
+                    "description": "Interest",
+                    "amount": 4153.09,
+                    "transaction_id": 15256531
+                }
+            ]
+        }
+    }
+}

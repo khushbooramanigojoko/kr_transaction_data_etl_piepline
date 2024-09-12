@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tina Williamson",
+        "age": 57,
+        "gender": "male",
+        "address": "80020 Perez Islands, East Jacobfort, MP 43461",
+        "phone": "427.629.1015x363",
+        "email": "kgarza@example.org",
+        "account": {
+            "account_number": "a431ac4c-b76b-481a-acf3-2a0ba816b9f7",
+            "balance": 39390.8,
+            "transactions": [
+                {
+                    "date": "2023-09-14",
+                    "description": "Deposit",
+                    "amount": 13128.9,
+                    "transaction_id": 7067721
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Interest",
+                    "amount": 45084.0,
+                    "transaction_id": 75725819
+                }
+            ]
+        }
+    }
+}

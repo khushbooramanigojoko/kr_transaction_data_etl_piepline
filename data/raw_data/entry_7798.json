@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ryan David",
+        "age": 40,
+        "gender": "female",
+        "address": "77220 Raymond Shores, Smithfort, WY 47165",
+        "phone": "592-402-7013x8466",
+        "email": "kaylaorr@example.net",
+        "account": {
+            "account_number": "763eb1a7-5ff1-406a-8fd6-7bdd3f60b6e5",
+            "balance": 9468.74,
+            "transactions": [
+                {
+                    "date": "2024-05-23",
+                    "description": "Withdrawal",
+                    "amount": 38258.2,
+                    "transaction_id": 91060667
+                },
+                {
+                    "date": "2023-08-30",
+                    "description": "Interest",
+                    "amount": 41371.97,
+                    "transaction_id": 101459218
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Withdrawal",
+                    "amount": 46421.55,
+                    "transaction_id": 81118684
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Deposit",
+                    "amount": 42922.21,
+                    "transaction_id": 51672272
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Deposit",
+                    "amount": 40355.23,
+                    "transaction_id": 12398461
+                }
+            ]
+        }
+    }
+}

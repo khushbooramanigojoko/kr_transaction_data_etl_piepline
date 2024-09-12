@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Zachary Anderson",
+        "age": 58,
+        "gender": "female",
+        "address": "PSC 9032, Box 7498, APO AA 86549",
+        "phone": "+1-639-691-2488x0621",
+        "email": "jose48@example.com",
+        "account": {
+            "account_number": "9a67d924-4a4f-4f34-9573-cb21b732fbc6",
+            "balance": -28183.25,
+            "transactions": [
+                {
+                    "date": "2022-11-25",
+                    "description": "Withdrawal",
+                    "amount": -2887.04,
+                    "transaction_id": 44653179
+                },
+                {
+                    "date": "2024-03-29",
+                    "description": "Deposit",
+                    "amount": 3713.54,
+                    "transaction_id": 16327266
+                }
+            ]
+        }
+    }
+}

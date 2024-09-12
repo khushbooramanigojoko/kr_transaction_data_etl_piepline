@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Julie Walters",
+        "age": 76,
+        "gender": "male",
+        "address": "21996 Chad Inlet, Jeremiahfurt, KS 82860",
+        "phone": "339-837-2792",
+        "email": "hcooper@example.org",
+        "account": {
+            "account_number": "49d0319b-6457-4cc5-9dd1-ee01b88e9780",
+            "balance": 13364.84,
+            "transactions": [
+                {
+                    "date": "2023-04-17",
+                    "description": "Interest",
+                    "amount": 1924.97,
+                    "transaction_id": 33873958
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Interest",
+                    "amount": 15488.82,
+                    "transaction_id": 23377293
+                }
+            ]
+        }
+    }
+}

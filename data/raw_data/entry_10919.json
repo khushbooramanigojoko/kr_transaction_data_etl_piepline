@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 70,
+        "gender": "female",
+        "address": "25709 Jackson Light, Phillipport, CO 16068",
+        "phone": "+1-292-918-7590x49044",
+        "email": "perrycaitlin@example.net",
+        "account": {
+            "account_number": "7487a189-9fea-4956-8a70-bd545a0be71a",
+            "balance": 33347.55,
+            "transactions": [
+                {
+                    "date": "2024-06-11",
+                    "description": "Interest",
+                    "amount": -4054.49,
+                    "transaction_id": 63884832
+                },
+                {
+                    "date": "2023-06-29",
+                    "description": "Interest",
+                    "amount": 3823.25,
+                    "transaction_id": 16308972
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Deposit",
+                    "amount": -2303.25,
+                    "transaction_id": 55716180
+                }
+            ]
+        }
+    }
+}

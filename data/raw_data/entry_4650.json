@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Angelica Johnston",
+        "age": 41,
+        "gender": "female",
+        "address": "8455 Wells Shores, Micheleton, MT 94388",
+        "phone": "001-958-353-0401x0842",
+        "email": "lisabrooks@example.com",
+        "account": {
+            "account_number": "1b4a629b-4093-4fb7-bf72-b73dfc9cab0b",
+            "balance": 46613.67,
+            "transactions": [
+                {
+                    "date": "2024-04-05",
+                    "description": "Withdrawal",
+                    "amount": 10845.1,
+                    "transaction_id": 66649609
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "William Hansen",
+        "age": 53,
+        "gender": "female",
+        "address": "49517 Garrett Ports Suite 869, Port Aaronview, TX 63187",
+        "phone": "245-640-9885",
+        "email": "logan88@example.net",
+        "account": {
+            "account_number": "8ca93da6-6635-4f25-b57e-bbb75b3bfcc5",
+            "balance": 26468.18,
+            "transactions": [
+                {
+                    "date": "2024-06-09",
+                    "description": "Interest",
+                    "amount": 7453.34,
+                    "transaction_id": 75598616
+                },
+                {
+                    "date": "2023-09-28",
+                    "description": "Withdrawal",
+                    "amount": 26234.12,
+                    "transaction_id": 108437100
+                }
+            ]
+        }
+    }
+}

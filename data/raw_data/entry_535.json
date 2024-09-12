@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christopher Rodriguez",
+        "age": 22,
+        "gender": "male",
+        "address": "85097 Perry River, West Ericborough, WV 14531",
+        "phone": "001-514-821-5196x384",
+        "email": "kariprice@example.net",
+        "account": {
+            "account_number": "2884a8e6-8d74-4ee6-92d3-52657d64540a",
+            "balance": 2247.22,
+            "transactions": [
+                {
+                    "date": "2024-01-12",
+                    "description": "Interest",
+                    "amount": 6604.56,
+                    "transaction_id": 7345837
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Deposit",
+                    "amount": 1190.69,
+                    "transaction_id": 57054862
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Deposit",
+                    "amount": 47988.87,
+                    "transaction_id": 81698787
+                },
+                {
+                    "date": "2022-09-14",
+                    "description": "Interest",
+                    "amount": 10317.67,
+                    "transaction_id": 102676714
+                },
+                {
+                    "date": "2022-09-23",
+                    "description": "Interest",
+                    "amount": 15519.8,
+                    "transaction_id": 112668405
+                }
+            ]
+        }
+    }
+}

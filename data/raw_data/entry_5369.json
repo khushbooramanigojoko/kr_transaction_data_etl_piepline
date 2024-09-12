@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Rick Erickson",
+        "age": 25,
+        "gender": "female",
+        "address": "61714 Allison Throughway Apt. 183, Port Melissafort, MD 27977",
+        "phone": "532-271-6083x100",
+        "email": "gonzalezsarah@example.net",
+        "account": {
+            "account_number": "bde7f156-b647-4655-b071-d07d45b1dded",
+            "balance": 30537.16,
+            "transactions": [
+                {
+                    "date": "2024-04-02",
+                    "description": "Withdrawal",
+                    "amount": 4705.43,
+                    "transaction_id": 70001725
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Deposit",
+                    "amount": 11534.22,
+                    "transaction_id": 103649640
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Deposit",
+                    "amount": 11499.79,
+                    "transaction_id": 46783359
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Withdrawal",
+                    "amount": 37588.77,
+                    "transaction_id": 46549037
+                }
+            ]
+        }
+    }
+}

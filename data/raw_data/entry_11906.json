@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 58,
+        "gender": "female",
+        "address": "53013 Michele Junctions Apt. 721, North Ana, VA 18714",
+        "phone": "(905)215-0459x6590",
+        "email": "anthony35@example.com",
+        "account": {
+            "account_number": "be621112-6d4e-4919-9bf3-601a6fc1198f",
+            "balance": 45523.5,
+            "transactions": [
+                {
+                    "date": "2024-01-18",
+                    "description": "Deposit",
+                    "amount": -1621.39,
+                    "transaction_id": 95624411
+                }
+            ]
+        }
+    }
+}

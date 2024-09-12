@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brian Thompson",
+        "age": 59,
+        "gender": "male",
+        "address": "968 Curtis Ramp Suite 803, Hansonborough, ID 96626",
+        "phone": "(270)243-1548x544",
+        "email": "kimberly54@example.com",
+        "account": {
+            "account_number": "f42ba9f4-647e-4ca7-a255-040d74e2958b",
+            "balance": 26595.17,
+            "transactions": [
+                {
+                    "date": "2022-11-13",
+                    "description": "Withdrawal",
+                    "amount": 42403.83,
+                    "transaction_id": 64523619
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Interest",
+                    "amount": 41586.38,
+                    "transaction_id": 111874229
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Deposit",
+                    "amount": 41378.01,
+                    "transaction_id": 82197396
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Interest",
+                    "amount": 10144.33,
+                    "transaction_id": 32660665
+                }
+            ]
+        }
+    }
+}

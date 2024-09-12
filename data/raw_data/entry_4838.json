@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alison Hunter",
+        "age": 70,
+        "gender": "male",
+        "address": "2287 Tyler Squares, West Tiffanyfort, SD 95823",
+        "phone": "436.889.6403x42445",
+        "email": "sanchezdylan@example.org",
+        "account": {
+            "account_number": "ca1103ab-590f-42b1-b7c2-a8521b90e783",
+            "balance": 31458.26,
+            "transactions": [
+                {
+                    "date": "2023-01-27",
+                    "description": "Interest",
+                    "amount": 12801.6,
+                    "transaction_id": 37363951
+                }
+            ]
+        }
+    }
+}

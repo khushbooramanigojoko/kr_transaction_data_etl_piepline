@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mary Contreras",
+        "age": 71,
+        "gender": "male",
+        "address": "97648 Nicholas Stream, Port Jeffrey, AZ 85990",
+        "phone": "470-841-6825x90822",
+        "email": "jordanryan@example.com",
+        "account": {
+            "account_number": "ce31ece0-9334-4403-959a-b5f76814d865",
+            "balance": 8505.49,
+            "transactions": [
+                {
+                    "date": "2024-05-05",
+                    "description": "Deposit",
+                    "amount": 42520.95,
+                    "transaction_id": 78982332
+                },
+                {
+                    "date": "2023-04-22",
+                    "description": "Interest",
+                    "amount": 27803.15,
+                    "transaction_id": 105823343
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Interest",
+                    "amount": 44505.56,
+                    "transaction_id": 72509746
+                },
+                {
+                    "date": "2023-09-07",
+                    "description": "Deposit",
+                    "amount": 3006.59,
+                    "transaction_id": 43146073
+                },
+                {
+                    "date": "2023-11-14",
+                    "description": "Interest",
+                    "amount": 7635.41,
+                    "transaction_id": 115017075
+                }
+            ]
+        }
+    }
+}

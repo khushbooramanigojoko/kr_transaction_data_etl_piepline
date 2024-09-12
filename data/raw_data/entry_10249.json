@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 69,
+        "gender": "female",
+        "address": "062 Edward Courts, Stephaniechester, MH 21973",
+        "phone": "(913)762-2571x66942",
+        "email": "paigecook@example.org",
+        "account": {
+            "account_number": "c93e6bf9-1d6f-40f5-b4e3-2649ef25d262",
+            "balance": 15728.7,
+            "transactions": [
+                {
+                    "date": "2024-04-28",
+                    "description": "Interest",
+                    "amount": -3310.56,
+                    "transaction_id": 45754092
+                },
+                {
+                    "date": "2024-05-29",
+                    "description": "Withdrawal",
+                    "amount": 1948.64,
+                    "transaction_id": 83028634
+                },
+                {
+                    "date": "2024-07-19",
+                    "description": "Withdrawal",
+                    "amount": 321.71,
+                    "transaction_id": 3640024
+                }
+            ]
+        }
+    }
+}

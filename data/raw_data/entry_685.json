@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amber Mccarty",
+        "age": 84,
+        "gender": "male",
+        "address": "62630 Foster Stravenue Apt. 753, Port Daniel, UT 26786",
+        "phone": "721.216.0292x50166",
+        "email": "collin16@example.org",
+        "account": {
+            "account_number": "6a31fcee-310a-481c-aa5c-b00f7bca7a6d",
+            "balance": 6171.31,
+            "transactions": [
+                {
+                    "date": "2023-05-19",
+                    "description": "Interest",
+                    "amount": 10031.54,
+                    "transaction_id": 99282448
+                }
+            ]
+        }
+    }
+}

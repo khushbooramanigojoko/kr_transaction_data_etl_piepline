@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stephanie Guzman",
+        "age": 87,
+        "gender": "female",
+        "address": "USNS Cooley, FPO AP 31937",
+        "phone": "712-280-2121x251",
+        "email": "bethany89@example.net",
+        "account": {
+            "account_number": "233f2fb8-a704-4f60-bfbb-98a06996714c",
+            "balance": 24212.73,
+            "transactions": [
+                {
+                    "date": "2024-04-22",
+                    "description": "Interest",
+                    "amount": 48885.93,
+                    "transaction_id": 5294855
+                },
+                {
+                    "date": "2022-11-17",
+                    "description": "Withdrawal",
+                    "amount": 36136.95,
+                    "transaction_id": 94730482
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Interest",
+                    "amount": 47363.53,
+                    "transaction_id": 29552339
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Deposit",
+                    "amount": 39256.14,
+                    "transaction_id": 119716597
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 23,
+        "gender": "female",
+        "address": "06880 Johnson Freeway, Greenhaven, MD 94089",
+        "phone": "+1-806-429-5867x6920",
+        "email": "frostvictoria@example.com",
+        "account": {
+            "account_number": "a802901b-61a6-42d1-8adb-f5d7fef6e64f",
+            "balance": 31376.64,
+            "transactions": [
+                {
+                    "date": "2022-11-28",
+                    "description": "Interest",
+                    "amount": 3251.23,
+                    "transaction_id": 87691657
+                }
+            ]
+        }
+    }
+}

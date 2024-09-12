@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mr. Brian Russell",
+        "age": 63,
+        "gender": "male",
+        "address": "27704 Diaz Village, Alejandroland, VT 05056",
+        "phone": "001-333-269-5318",
+        "email": "thomas83@example.net",
+        "account": {
+            "account_number": "cb7e397d-63db-46c7-8efb-a268469521c9",
+            "balance": 47964.79,
+            "transactions": [
+                {
+                    "date": "2024-06-18",
+                    "description": "Deposit",
+                    "amount": 37080.3,
+                    "transaction_id": 27643705
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Interest",
+                    "amount": 6646.32,
+                    "transaction_id": 93435137
+                },
+                {
+                    "date": "2024-07-14",
+                    "description": "Interest",
+                    "amount": 45012.83,
+                    "transaction_id": 5224962
+                },
+                {
+                    "date": "2024-04-07",
+                    "description": "Withdrawal",
+                    "amount": 17634.46,
+                    "transaction_id": 84899291
+                }
+            ]
+        }
+    }
+}

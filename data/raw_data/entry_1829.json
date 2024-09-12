@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Allison Newton",
+        "age": 64,
+        "gender": "male",
+        "address": "595 Lynn Underpass Apt. 320, South Dorisshire, NM 10706",
+        "phone": "401-375-5206x52354",
+        "email": "riveramargaret@example.com",
+        "account": {
+            "account_number": "6dfcbe11-3a2f-4bb2-aadf-e82d8dec0329",
+            "balance": 41552.19,
+            "transactions": [
+                {
+                    "date": "2022-12-17",
+                    "description": "Interest",
+                    "amount": 29618.2,
+                    "transaction_id": 106385772
+                },
+                {
+                    "date": "2023-01-08",
+                    "description": "Interest",
+                    "amount": 45350.33,
+                    "transaction_id": 26489721
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Deposit",
+                    "amount": 20908.1,
+                    "transaction_id": 10860987
+                }
+            ]
+        }
+    }
+}

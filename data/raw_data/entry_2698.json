@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Debra Hanson",
+        "age": 83,
+        "gender": "female",
+        "address": "343 Shannon Burgs, Lake Ashleytown, MI 47007",
+        "phone": "4345873917",
+        "email": "josephdawson@example.org",
+        "account": {
+            "account_number": "55002118-9e1b-4483-8bac-f96f982ce722",
+            "balance": 11141.14,
+            "transactions": [
+                {
+                    "date": "2024-07-12",
+                    "description": "Withdrawal",
+                    "amount": 30317.9,
+                    "transaction_id": 28123968
+                }
+            ]
+        }
+    }
+}

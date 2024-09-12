@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tamara Ellis",
+        "age": 52,
+        "gender": "male",
+        "address": "PSC 9345, Box 7505, APO AA 84599",
+        "phone": "001-565-907-0613x205",
+        "email": "harry63@example.net",
+        "account": {
+            "account_number": "e835201e-8467-4763-9d19-6c9af60cd803",
+            "balance": 30102.7,
+            "transactions": [
+                {
+                    "date": "2024-03-10",
+                    "description": "Withdrawal",
+                    "amount": 29175.42,
+                    "transaction_id": 103984613
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Interest",
+                    "amount": 1261.54,
+                    "transaction_id": 101309557
+                },
+                {
+                    "date": "2022-09-02",
+                    "description": "Withdrawal",
+                    "amount": 18858.22,
+                    "transaction_id": 52778135
+                },
+                {
+                    "date": "2022-10-19",
+                    "description": "Withdrawal",
+                    "amount": 22850.05,
+                    "transaction_id": 92315649
+                }
+            ]
+        }
+    }
+}

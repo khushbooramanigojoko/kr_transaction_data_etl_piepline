@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jonathan Davis",
+        "age": 58,
+        "gender": "female",
+        "address": "95581 Ward Parkway Apt. 099, New Sarah, WV 58532",
+        "phone": "(549)953-4884x82445",
+        "email": "christina51@example.net",
+        "account": {
+            "account_number": "0ff485dc-191f-4be9-9cb8-a96603e9f30e",
+            "balance": 42894.53,
+            "transactions": [
+                {
+                    "date": "2023-08-30",
+                    "description": "Interest",
+                    "amount": 15624.75,
+                    "transaction_id": 44709962
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Withdrawal",
+                    "amount": 17354.97,
+                    "transaction_id": 12118191
+                },
+                {
+                    "date": "2022-09-05",
+                    "description": "Deposit",
+                    "amount": 7024.5,
+                    "transaction_id": 57924745
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Deposit",
+                    "amount": 4932.43,
+                    "transaction_id": 93828928
+                }
+            ]
+        }
+    }
+}

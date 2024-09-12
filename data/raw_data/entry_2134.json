@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kimberly Mitchell",
+        "age": 88,
+        "gender": "male",
+        "address": "USNS Harris, FPO AP 57651",
+        "phone": "+1-227-445-9765",
+        "email": "melaniegarcia@example.org",
+        "account": {
+            "account_number": "29d09459-ed85-439b-99ec-8842ed84a0b0",
+            "balance": 40208.2,
+            "transactions": [
+                {
+                    "date": "2023-04-29",
+                    "description": "Withdrawal",
+                    "amount": 46781.35,
+                    "transaction_id": 29974856
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Interest",
+                    "amount": 29347.4,
+                    "transaction_id": 19961210
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Withdrawal",
+                    "amount": 40945.28,
+                    "transaction_id": 10516091
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Deposit",
+                    "amount": 28982.56,
+                    "transaction_id": 35134170
+                },
+                {
+                    "date": "2023-04-14",
+                    "description": "Deposit",
+                    "amount": 48471.81,
+                    "transaction_id": 48281445
+                }
+            ]
+        }
+    }
+}

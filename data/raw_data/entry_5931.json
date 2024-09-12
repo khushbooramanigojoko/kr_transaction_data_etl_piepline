@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sherry Mendez",
+        "age": 65,
+        "gender": "female",
+        "address": "03122 Meadows Fork Apt. 299, Swansonstad, HI 38580",
+        "phone": "+1-639-943-8554x72295",
+        "email": "yolandalawrence@example.org",
+        "account": {
+            "account_number": "0aa4e401-50e3-40e9-9461-a768b697c896",
+            "balance": 43625.55,
+            "transactions": [
+                {
+                    "date": "2024-06-20",
+                    "description": "Deposit",
+                    "amount": 37793.08,
+                    "transaction_id": 60383679
+                },
+                {
+                    "date": "2023-04-15",
+                    "description": "Withdrawal",
+                    "amount": 39889.8,
+                    "transaction_id": 52064887
+                },
+                {
+                    "date": "2023-07-03",
+                    "description": "Interest",
+                    "amount": 10860.02,
+                    "transaction_id": 62878186
+                }
+            ]
+        }
+    }
+}

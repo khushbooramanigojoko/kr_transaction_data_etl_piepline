@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 60,
+        "gender": "female",
+        "address": "9737 Derek Isle Apt. 819, Port Scott, UT 16835",
+        "phone": "939-627-4855x640",
+        "email": "solomonlouis@example.com",
+        "account": {
+            "account_number": "94013c95-2e6c-45ad-b5fd-0cd330945173",
+            "balance": 27302.46,
+            "transactions": [
+                {
+                    "date": "2023-01-12",
+                    "description": "Interest",
+                    "amount": 4161.44,
+                    "transaction_id": 69002682
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Timothy Evans",
+        "age": 75,
+        "gender": "female",
+        "address": "Unit 2265 Box 7850, DPO AA 85879",
+        "phone": "5813514174",
+        "email": "blake74@example.org",
+        "account": {
+            "account_number": "58d6e37b-f64d-484b-a571-afa5be645620",
+            "balance": -5744.47,
+            "transactions": [
+                {
+                    "date": "2023-05-29",
+                    "description": "Withdrawal",
+                    "amount": 4777.84,
+                    "transaction_id": 40529419
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Interest",
+                    "amount": -2969.56,
+                    "transaction_id": 46201630
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Deposit",
+                    "amount": 1678.63,
+                    "transaction_id": 79661524
+                }
+            ]
+        }
+    }
+}

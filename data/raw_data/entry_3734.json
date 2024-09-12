@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Timothy Morales MD",
+        "age": 36,
+        "gender": "female",
+        "address": "7884 Rachel Square, East Jaimestad, AR 01432",
+        "phone": "001-278-517-3816",
+        "email": "alexandriastevens@example.com",
+        "account": {
+            "account_number": "7978c15c-010a-4f9f-b52e-955ae38bdacb",
+            "balance": 44294.23,
+            "transactions": [
+                {
+                    "date": "2024-02-15",
+                    "description": "Interest",
+                    "amount": 5673.38,
+                    "transaction_id": 70462013
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Deposit",
+                    "amount": 33013.13,
+                    "transaction_id": 64926294
+                },
+                {
+                    "date": "2022-09-11",
+                    "description": "Deposit",
+                    "amount": 40672.54,
+                    "transaction_id": 25666013
+                },
+                {
+                    "date": "2023-02-18",
+                    "description": "Deposit",
+                    "amount": 14322.0,
+                    "transaction_id": 90291956
+                }
+            ]
+        }
+    }
+}

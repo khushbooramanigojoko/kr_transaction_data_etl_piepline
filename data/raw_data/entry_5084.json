@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ashley Jenkins",
+        "age": 48,
+        "gender": "male",
+        "address": "480 Jennifer Field Apt. 660, West Kiara, GA 27295",
+        "phone": "476.682.7063x686",
+        "email": "johnstonnathan@example.org",
+        "account": {
+            "account_number": "d6fe8e5f-1863-48dc-8f36-195093c7f755",
+            "balance": 11315.6,
+            "transactions": [
+                {
+                    "date": "2022-12-09",
+                    "description": "Withdrawal",
+                    "amount": 28143.54,
+                    "transaction_id": 56907025
+                },
+                {
+                    "date": "2024-06-14",
+                    "description": "Deposit",
+                    "amount": 32786.01,
+                    "transaction_id": 77463101
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Deposit",
+                    "amount": 23193.94,
+                    "transaction_id": 13483912
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Deposit",
+                    "amount": 45837.87,
+                    "transaction_id": 20912704
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Withdrawal",
+                    "amount": 17902.12,
+                    "transaction_id": 92429167
+                }
+            ]
+        }
+    }
+}

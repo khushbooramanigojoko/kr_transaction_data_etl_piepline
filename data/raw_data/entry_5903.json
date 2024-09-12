@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kelly Miller",
+        "age": 28,
+        "gender": "male",
+        "address": "825 Davis Junction, South Hannah, MT 09972",
+        "phone": "869.872.6240x3031",
+        "email": "taylor84@example.org",
+        "account": {
+            "account_number": "71372cfb-2deb-4fcf-b875-c8f662ddbf30",
+            "balance": 22862.39,
+            "transactions": [
+                {
+                    "date": "2023-09-27",
+                    "description": "Deposit",
+                    "amount": 42609.91,
+                    "transaction_id": 50468067
+                },
+                {
+                    "date": "2024-06-29",
+                    "description": "Interest",
+                    "amount": 47036.07,
+                    "transaction_id": 76705568
+                }
+            ]
+        }
+    }
+}

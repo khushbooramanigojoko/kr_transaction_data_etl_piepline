@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ryan Hammond",
+        "age": 42,
+        "gender": "female",
+        "address": "38781 Linda Throughway Apt. 408, New Evan, UT 55979",
+        "phone": "+1-234-562-8372x5323",
+        "email": "katherine17@example.net",
+        "account": {
+            "account_number": "e574846d-919a-456f-825e-63bfe4035988",
+            "balance": 29694.89,
+            "transactions": [
+                {
+                    "date": "2023-09-23",
+                    "description": "Interest",
+                    "amount": 6431.78,
+                    "transaction_id": 86925913
+                },
+                {
+                    "date": "2024-07-24",
+                    "description": "Withdrawal",
+                    "amount": 42764.78,
+                    "transaction_id": 46872805
+                }
+            ]
+        }
+    }
+}

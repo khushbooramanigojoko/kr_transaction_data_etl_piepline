@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Edwin Romero",
+        "age": 73,
+        "gender": "male",
+        "address": "622 Julie Inlet, Jamesstad, NH 97790",
+        "phone": "515.273.8924x6674",
+        "email": "juanfranklin@example.net",
+        "account": {
+            "account_number": "de815a4a-4af1-4caa-9d64-037a4904d31f",
+            "balance": 17440.82,
+            "transactions": [
+                {
+                    "date": "2022-11-16",
+                    "description": "Withdrawal",
+                    "amount": 17566.19,
+                    "transaction_id": 21859597
+                },
+                {
+                    "date": "2023-05-29",
+                    "description": "Deposit",
+                    "amount": 40431.49,
+                    "transaction_id": 69702188
+                }
+            ]
+        }
+    }
+}

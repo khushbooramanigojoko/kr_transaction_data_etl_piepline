@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Miss Suzanne Sanchez",
+        "age": 39,
+        "gender": "male",
+        "address": "9137 Nicole Road Apt. 799, Burkeport, ND 54203",
+        "phone": "+1-795-803-5523x0793",
+        "email": "codyadams@example.org",
+        "account": {
+            "account_number": "a4f729e6-4fac-48fb-b78d-337c6fcf26d1",
+            "balance": 15028.04,
+            "transactions": [
+                {
+                    "date": "2024-07-07",
+                    "description": "Interest",
+                    "amount": 16691.32,
+                    "transaction_id": 104439345
+                }
+            ]
+        }
+    }
+}

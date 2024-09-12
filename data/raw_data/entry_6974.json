@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brenda Melendez",
+        "age": 97,
+        "gender": "female",
+        "address": "301 Deanna Passage Apt. 565, South Kara, SC 28468",
+        "phone": "(470)732-0477x3296",
+        "email": "cgonzalez@example.com",
+        "account": {
+            "account_number": "e36fec78-14e8-4659-8c29-2d9bb356d1a7",
+            "balance": 6527.79,
+            "transactions": [
+                {
+                    "date": "2024-07-08",
+                    "description": "Deposit",
+                    "amount": 21103.76,
+                    "transaction_id": 16989888
+                }
+            ]
+        }
+    }
+}

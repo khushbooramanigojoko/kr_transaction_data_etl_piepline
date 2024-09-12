@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Richard Turner",
+        "age": 85,
+        "gender": "male",
+        "address": "638 Jason Grove, New Jerry, LA 26873",
+        "phone": "786.607.4319x6100",
+        "email": "andrepitts@example.com",
+        "account": {
+            "account_number": "f111a956-c8ae-4fc3-a1be-35a3a521f80e",
+            "balance": 12322.69,
+            "transactions": [
+                {
+                    "date": "2022-09-11",
+                    "description": "Deposit",
+                    "amount": 32588.38,
+                    "transaction_id": 51135702
+                },
+                {
+                    "date": "2023-08-25",
+                    "description": "Interest",
+                    "amount": 6734.03,
+                    "transaction_id": 56490864
+                },
+                {
+                    "date": "2022-12-02",
+                    "description": "Deposit",
+                    "amount": 21210.72,
+                    "transaction_id": 96234143
+                },
+                {
+                    "date": "2023-07-13",
+                    "description": "Withdrawal",
+                    "amount": 18895.83,
+                    "transaction_id": 60110477
+                }
+            ]
+        }
+    }
+}

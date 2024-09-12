@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lisa Holder",
+        "age": 37,
+        "gender": "female",
+        "address": "822 Nunez Lakes, Hernandezstad, IL 86324",
+        "phone": "(852)915-6003",
+        "email": "austinwarren@example.net",
+        "account": {
+            "account_number": "d6feaaf4-98c0-432b-9238-00c2c42c8fe0",
+            "balance": 11765.78,
+            "transactions": [
+                {
+                    "date": "2023-02-15",
+                    "description": "Interest",
+                    "amount": 44361.63,
+                    "transaction_id": 85043903
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Deposit",
+                    "amount": 26464.02,
+                    "transaction_id": 2191905
+                }
+            ]
+        }
+    }
+}

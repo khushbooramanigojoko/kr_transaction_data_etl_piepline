@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Hunter Ryan",
+        "age": 38,
+        "gender": "female",
+        "address": "39089 Jessica Land, New Annmouth, NC 75634",
+        "phone": "(520)662-8792x4477",
+        "email": "michaelwright@example.org",
+        "account": {
+            "account_number": "477bcace-5824-4356-99a8-8efcb98cf0b3",
+            "balance": 20108.94,
+            "transactions": [
+                {
+                    "date": "2023-03-28",
+                    "description": "Withdrawal",
+                    "amount": 34394.55,
+                    "transaction_id": 25420594
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Deposit",
+                    "amount": 22655.29,
+                    "transaction_id": 26242733
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Deposit",
+                    "amount": 29418.6,
+                    "transaction_id": 65172948
+                },
+                {
+                    "date": "2023-05-31",
+                    "description": "Withdrawal",
+                    "amount": 26969.53,
+                    "transaction_id": 69117294
+                }
+            ]
+        }
+    }
+}

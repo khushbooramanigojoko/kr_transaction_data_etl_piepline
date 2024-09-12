@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jason Scott",
+        "age": 48,
+        "gender": "male",
+        "address": "1658 Melissa Ville, Walkerburgh, NE 48540",
+        "phone": "(437)559-2793x60657",
+        "email": "sfitzgerald@example.net",
+        "account": {
+            "account_number": "22b13733-a022-45eb-af26-cf23090f2f47",
+            "balance": -21476.33,
+            "transactions": [
+                {
+                    "date": "2022-09-10",
+                    "description": "Deposit",
+                    "amount": -208.92,
+                    "transaction_id": 42042392
+                },
+                {
+                    "date": "2023-03-18",
+                    "description": "Deposit",
+                    "amount": -4.83,
+                    "transaction_id": 108526039
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Interest",
+                    "amount": 3034.57,
+                    "transaction_id": 63707922
+                },
+                {
+                    "date": "2022-12-26",
+                    "description": "Interest",
+                    "amount": -3656.69,
+                    "transaction_id": 42913854
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Interest",
+                    "amount": -1334.51,
+                    "transaction_id": 89678417
+                }
+            ]
+        }
+    }
+}

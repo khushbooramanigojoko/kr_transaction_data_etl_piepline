@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amber Park",
+        "age": 89,
+        "gender": "male",
+        "address": "PSC 3669, Box 5297, APO AP 06312",
+        "phone": "001-962-801-2810",
+        "email": "samanthasanchez@example.org",
+        "account": {
+            "account_number": "34f12c71-72d5-4e4f-943c-0a92e791301e",
+            "balance": 42181.73,
+            "transactions": [
+                {
+                    "date": "2024-06-17",
+                    "description": "Interest",
+                    "amount": 40477.44,
+                    "transaction_id": 57352397
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Deposit",
+                    "amount": 18127.84,
+                    "transaction_id": 66960908
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Interest",
+                    "amount": 25041.11,
+                    "transaction_id": 38702765
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Interest",
+                    "amount": 12110.66,
+                    "transaction_id": 119522474
+                }
+            ]
+        }
+    }
+}

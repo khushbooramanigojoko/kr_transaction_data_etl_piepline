@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Dustin Zimmerman",
+        "age": 81,
+        "gender": "male",
+        "address": "241 Joseph Rapids Apt. 108, New Robin, AR 37495",
+        "phone": "(894)430-0185",
+        "email": "asheppard@example.net",
+        "account": {
+            "account_number": "f1e47e7c-0634-4ba9-96e5-fb1aff42952b",
+            "balance": 16659.4,
+            "transactions": [
+                {
+                    "date": "2023-12-01",
+                    "description": "Interest",
+                    "amount": 23007.01,
+                    "transaction_id": 84747243
+                },
+                {
+                    "date": "2023-10-04",
+                    "description": "Deposit",
+                    "amount": 10997.07,
+                    "transaction_id": 73608873
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Withdrawal",
+                    "amount": 46529.58,
+                    "transaction_id": 100589464
+                }
+            ]
+        }
+    }
+}

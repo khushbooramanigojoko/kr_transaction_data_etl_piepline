@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 38,
+        "gender": "male",
+        "address": "USCGC Moreno, FPO AA 65242",
+        "phone": "227-241-7245",
+        "email": "rachel50@example.org",
+        "account": {
+            "account_number": "d446801a-fd9d-45e4-9cf5-42c6b1b8df07",
+            "balance": 14908.77,
+            "transactions": [
+                {
+                    "date": "2024-03-12",
+                    "description": "Deposit",
+                    "amount": 4049.61,
+                    "transaction_id": 115645968
+                },
+                {
+                    "date": "2024-08-23",
+                    "description": "Withdrawal",
+                    "amount": 1098.7,
+                    "transaction_id": 3000120
+                }
+            ]
+        }
+    }
+}

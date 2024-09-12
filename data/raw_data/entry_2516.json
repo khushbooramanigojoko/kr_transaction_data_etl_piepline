@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ashley Hernandez",
+        "age": 76,
+        "gender": "male",
+        "address": "PSC 0188, Box 5949, APO AE 30557",
+        "phone": "(553)550-5816x284",
+        "email": "linpaula@example.net",
+        "account": {
+            "account_number": "9bd0b412-4a4b-493e-b1f5-f116a88d137f",
+            "balance": 26360.12,
+            "transactions": [
+                {
+                    "date": "2023-05-19",
+                    "description": "Interest",
+                    "amount": 42774.57,
+                    "transaction_id": 16507383
+                },
+                {
+                    "date": "2024-06-26",
+                    "description": "Withdrawal",
+                    "amount": 16367.91,
+                    "transaction_id": 2907367
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Withdrawal",
+                    "amount": 41330.98,
+                    "transaction_id": 112165641
+                },
+                {
+                    "date": "2023-02-09",
+                    "description": "Deposit",
+                    "amount": 35185.45,
+                    "transaction_id": 25693260
+                },
+                {
+                    "date": "2024-06-11",
+                    "description": "Interest",
+                    "amount": 46085.64,
+                    "transaction_id": 47473367
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brian Fitzpatrick",
+        "age": 65,
+        "gender": "male",
+        "address": "86177 Douglas Fields Suite 653, North Adambury, CO 63985",
+        "phone": "8925052839",
+        "email": "karen57@example.net",
+        "account": {
+            "account_number": "d727afbd-1ebc-4fe3-8a8f-b5d542c45446",
+            "balance": -28044.81,
+            "transactions": [
+                {
+                    "date": "2023-08-09",
+                    "description": "Withdrawal",
+                    "amount": -3968.57,
+                    "transaction_id": 105479806
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Deposit",
+                    "amount": -1964.34,
+                    "transaction_id": 14598816
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Deposit",
+                    "amount": -1782.23,
+                    "transaction_id": 11879795
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Deposit",
+                    "amount": 907.51,
+                    "transaction_id": 85951330
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Withdrawal",
+                    "amount": 2979.27,
+                    "transaction_id": 4002350
+                }
+            ]
+        }
+    }
+}

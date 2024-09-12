@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Laura Bridges",
+        "age": 60,
+        "gender": "female",
+        "address": "4340 Nguyen Shoal, Robertsstad, NV 40784",
+        "phone": "600-261-2829x60162",
+        "email": "dodsontara@example.com",
+        "account": {
+            "account_number": "ae7e0d65-b282-4673-b4f8-986811c53190",
+            "balance": -15169.43,
+            "transactions": [
+                {
+                    "date": "2023-04-18",
+                    "description": "Interest",
+                    "amount": 419.13,
+                    "transaction_id": 90979430
+                },
+                {
+                    "date": "2023-04-26",
+                    "description": "Interest",
+                    "amount": 83.97,
+                    "transaction_id": 26680750
+                }
+            ]
+        }
+    }
+}

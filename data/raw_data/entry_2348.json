@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Diana Rice DVM",
+        "age": 33,
+        "gender": "male",
+        "address": "920 Matthew Meadow Apt. 519, North Alex, VA 68964",
+        "phone": "4474459946",
+        "email": "stevenscassidy@example.org",
+        "account": {
+            "account_number": "59877490-52f1-414a-b619-a841cdddca58",
+            "balance": 9587.38,
+            "transactions": [
+                {
+                    "date": "2022-11-01",
+                    "description": "Deposit",
+                    "amount": 8593.62,
+                    "transaction_id": 84738400
+                },
+                {
+                    "date": "2023-04-23",
+                    "description": "Deposit",
+                    "amount": 29555.72,
+                    "transaction_id": 88494586
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Withdrawal",
+                    "amount": 48276.26,
+                    "transaction_id": 113941813
+                },
+                {
+                    "date": "2024-01-02",
+                    "description": "Withdrawal",
+                    "amount": 43763.05,
+                    "transaction_id": 17713194
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Withdrawal",
+                    "amount": 47890.22,
+                    "transaction_id": 107752985
+                }
+            ]
+        }
+    }
+}

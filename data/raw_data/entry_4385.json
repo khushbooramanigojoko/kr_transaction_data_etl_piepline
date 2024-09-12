@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Robert Kelly",
+        "age": 91,
+        "gender": "male",
+        "address": "40482 Larry Mountain Apt. 103, West Annamouth, FL 38661",
+        "phone": "434.814.5140x67260",
+        "email": "egomez@example.com",
+        "account": {
+            "account_number": "cdb6a7e1-9794-45f3-bc6c-6b1670247ec4",
+            "balance": 20171.0,
+            "transactions": [
+                {
+                    "date": "2024-04-13",
+                    "description": "Interest",
+                    "amount": 27318.91,
+                    "transaction_id": 92585637
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Cassandra Smith",
+        "age": 67,
+        "gender": "female",
+        "address": "15761 Young Lodge Apt. 096, West Alexisbury, SC 68438",
+        "phone": "+1-598-460-5860",
+        "email": "brandonmorales@example.net",
+        "account": {
+            "account_number": "e0743d45-00a6-4ff7-8d52-7c2ca1bd6e9c",
+            "balance": 40717.03,
+            "transactions": [
+                {
+                    "date": "2023-02-26",
+                    "description": "Interest",
+                    "amount": 18431.78,
+                    "transaction_id": 45179482
+                }
+            ]
+        }
+    }
+}

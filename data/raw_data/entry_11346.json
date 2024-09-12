@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 56,
+        "gender": "female",
+        "address": "161 Costa Shores, West Katiemouth, PA 05313",
+        "phone": "420.758.6319x7485",
+        "email": "zacharywilliams@example.net",
+        "account": {
+            "account_number": "62001470-be33-4208-b610-f7e6916c9342",
+            "balance": 26539.76,
+            "transactions": [
+                {
+                    "date": "2024-01-29",
+                    "description": "Interest",
+                    "amount": 3218.96,
+                    "transaction_id": 46977955
+                },
+                {
+                    "date": "2023-06-23",
+                    "description": "Withdrawal",
+                    "amount": 205.15,
+                    "transaction_id": 90445711
+                },
+                {
+                    "date": "2024-06-06",
+                    "description": "Deposit",
+                    "amount": -4793.11,
+                    "transaction_id": 8256128
+                },
+                {
+                    "date": "2023-06-26",
+                    "description": "Withdrawal",
+                    "amount": 3232.4,
+                    "transaction_id": 83015630
+                },
+                {
+                    "date": "2022-12-07",
+                    "description": "Deposit",
+                    "amount": 3883.03,
+                    "transaction_id": 33800150
+                }
+            ]
+        }
+    }
+}

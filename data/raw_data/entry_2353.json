@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sandra Woodward",
+        "age": 72,
+        "gender": "female",
+        "address": "62810 Jimmy Track, Brownfurt, MN 30563",
+        "phone": "678-743-7479x07705",
+        "email": "lisa73@example.com",
+        "account": {
+            "account_number": "9bda998a-02c0-48eb-9dff-99600ee042e9",
+            "balance": 33284.19,
+            "transactions": [
+                {
+                    "date": "2024-05-12",
+                    "description": "Deposit",
+                    "amount": 36427.68,
+                    "transaction_id": 24349001
+                }
+            ]
+        }
+    }
+}

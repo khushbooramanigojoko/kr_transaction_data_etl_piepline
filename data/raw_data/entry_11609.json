@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 18,
+        "gender": "male",
+        "address": "16290 Gillespie Creek Suite 192, Petersonstad, DE 07489",
+        "phone": "574-464-6758x717",
+        "email": "yevans@example.com",
+        "account": {
+            "account_number": "0ce0d9e0-001e-45d3-9b78-8ba1dd6c89e3",
+            "balance": 2354.31,
+            "transactions": [
+                {
+                    "date": "2024-07-27",
+                    "description": "Withdrawal",
+                    "amount": -2363.51,
+                    "transaction_id": 89719682
+                }
+            ]
+        }
+    }
+}

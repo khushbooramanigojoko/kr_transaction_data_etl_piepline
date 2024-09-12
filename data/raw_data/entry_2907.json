@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Emily Thomas",
+        "age": 53,
+        "gender": "female",
+        "address": "29778 Walker Lodge Apt. 595, Angelaburgh, RI 94489",
+        "phone": "732.836.6490",
+        "email": "jamesrogers@example.com",
+        "account": {
+            "account_number": "6d1c0ac8-a3b7-42ef-8a2d-6ce5a9e4c838",
+            "balance": 14871.44,
+            "transactions": [
+                {
+                    "date": "2024-03-19",
+                    "description": "Withdrawal",
+                    "amount": 4943.17,
+                    "transaction_id": 21851974
+                },
+                {
+                    "date": "2024-07-23",
+                    "description": "Withdrawal",
+                    "amount": 1402.26,
+                    "transaction_id": 112907915
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Deposit",
+                    "amount": 42025.03,
+                    "transaction_id": 12116469
+                },
+                {
+                    "date": "2022-11-23",
+                    "description": "Deposit",
+                    "amount": 14219.63,
+                    "transaction_id": 119071803
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Miranda Harris",
+        "age": 82,
+        "gender": "male",
+        "address": "1841 Brandon Knolls, Haleyhaven, LA 38978",
+        "phone": "(773)985-6932x814",
+        "email": "vanessa15@example.org",
+        "account": {
+            "account_number": "0d6d9082-0f49-4ed3-bf05-0d9ad2a0b10b",
+            "balance": 41761.32,
+            "transactions": [
+                {
+                    "date": "2023-06-27",
+                    "description": "Deposit",
+                    "amount": 34088.88,
+                    "transaction_id": 19890704
+                }
+            ]
+        }
+    }
+}

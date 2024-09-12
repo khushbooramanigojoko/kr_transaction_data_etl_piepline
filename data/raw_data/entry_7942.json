@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michelle Green",
+        "age": 41,
+        "gender": "female",
+        "address": "49681 Douglas Harbors Suite 580, Smithside, NE 92301",
+        "phone": "001-386-661-7729",
+        "email": "deanhahn@example.com",
+        "account": {
+            "account_number": "9a78ffd2-150c-4021-9534-5f71d2a90681",
+            "balance": 47467.94,
+            "transactions": [
+                {
+                    "date": "2023-05-21",
+                    "description": "Withdrawal",
+                    "amount": 30518.5,
+                    "transaction_id": 93962033
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Interest",
+                    "amount": 23654.18,
+                    "transaction_id": 63619138
+                }
+            ]
+        }
+    }
+}

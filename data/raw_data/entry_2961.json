@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Traci Woods",
+        "age": 92,
+        "gender": "female",
+        "address": "946 Miller Ports, New Mark, SD 62665",
+        "phone": "(613)729-3018x018",
+        "email": "davidwarren@example.com",
+        "account": {
+            "account_number": "9ebde7d9-f6ff-42ba-acc1-59cd1b4bac27",
+            "balance": 31269.22,
+            "transactions": [
+                {
+                    "date": "2023-07-05",
+                    "description": "Interest",
+                    "amount": 24906.66,
+                    "transaction_id": 84331402
+                }
+            ]
+        }
+    }
+}

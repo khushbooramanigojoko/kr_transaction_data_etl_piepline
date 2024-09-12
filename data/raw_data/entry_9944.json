@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Alexander Williams",
+        "age": 34,
+        "gender": "male",
+        "address": "867 Cody Route, Romanmouth, GA 02505",
+        "phone": "+1-642-824-3983x6575",
+        "email": "jcooke@example.org",
+        "account": {
+            "account_number": "25b8a211-c80a-457f-b756-0b819d3bba6b",
+            "balance": -26248.98,
+            "transactions": [
+                {
+                    "date": "2024-08-06",
+                    "description": "Deposit",
+                    "amount": -209.85,
+                    "transaction_id": 101825740
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Deposit",
+                    "amount": 3593.31,
+                    "transaction_id": 84658460
+                }
+            ]
+        }
+    }
+}

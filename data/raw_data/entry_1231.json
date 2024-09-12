@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Douglas Nelson",
+        "age": 45,
+        "gender": "male",
+        "address": "4339 Jesse Avenue, Brendaport, VA 07501",
+        "phone": "347-330-2496x735",
+        "email": "ingramcrystal@example.com",
+        "account": {
+            "account_number": "d3121f20-50b1-4007-85a3-64c802f32825",
+            "balance": 9066.78,
+            "transactions": [
+                {
+                    "date": "2023-12-15",
+                    "description": "Interest",
+                    "amount": 23879.16,
+                    "transaction_id": 31705344
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Gregory Duffy",
+        "age": 58,
+        "gender": "female",
+        "address": "2956 Ashley Loaf, North Jennifer, MN 73814",
+        "phone": "259-678-7570x55439",
+        "email": "jennifermartin@example.net",
+        "account": {
+            "account_number": "77b0951c-7d00-46f1-bf81-3dacac206c22",
+            "balance": 15536.88,
+            "transactions": [
+                {
+                    "date": "2022-09-12",
+                    "description": "Withdrawal",
+                    "amount": 3164.84,
+                    "transaction_id": 97955777
+                },
+                {
+                    "date": "2023-12-18",
+                    "description": "Withdrawal",
+                    "amount": 21914.07,
+                    "transaction_id": 58297870
+                }
+            ]
+        }
+    }
+}

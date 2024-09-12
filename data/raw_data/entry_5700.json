@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jonathon Clarke",
+        "age": 38,
+        "gender": "male",
+        "address": "30506 White Garden, North Tamara, MA 29273",
+        "phone": "409-202-4567",
+        "email": "erikfrank@example.com",
+        "account": {
+            "account_number": "90bd901d-c319-4c1a-b616-2d5c984cfd1a",
+            "balance": 33059.92,
+            "transactions": [
+                {
+                    "date": "2023-10-19",
+                    "description": "Withdrawal",
+                    "amount": 27896.7,
+                    "transaction_id": 40298955
+                },
+                {
+                    "date": "2023-10-29",
+                    "description": "Interest",
+                    "amount": 24580.17,
+                    "transaction_id": 65097949
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Withdrawal",
+                    "amount": 46441.61,
+                    "transaction_id": 81371340
+                },
+                {
+                    "date": "2024-01-25",
+                    "description": "Interest",
+                    "amount": 28558.88,
+                    "transaction_id": 79019177
+                },
+                {
+                    "date": "2023-09-15",
+                    "description": "Withdrawal",
+                    "amount": 26440.43,
+                    "transaction_id": 70868252
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Henderson",
+        "age": 30,
+        "gender": "male",
+        "address": "990 Luis Stream Suite 358, Elizabethside, OK 73064",
+        "phone": "+1-755-980-4975",
+        "email": "johnmoore@example.com",
+        "account": {
+            "account_number": "8665bfb5-99d7-4430-8dde-be2612454b9a",
+            "balance": 16723.63,
+            "transactions": [
+                {
+                    "date": "2023-05-06",
+                    "description": "Interest",
+                    "amount": 35725.34,
+                    "transaction_id": 77223656
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Withdrawal",
+                    "amount": 6646.81,
+                    "transaction_id": 15271397
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Withdrawal",
+                    "amount": 7025.04,
+                    "transaction_id": 22068758
+                },
+                {
+                    "date": "2024-02-28",
+                    "description": "Interest",
+                    "amount": 9376.34,
+                    "transaction_id": 93408524
+                },
+                {
+                    "date": "2023-02-08",
+                    "description": "Interest",
+                    "amount": 12942.98,
+                    "transaction_id": 91859062
+                }
+            ]
+        }
+    }
+}

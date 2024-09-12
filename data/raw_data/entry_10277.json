@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 60,
+        "gender": "female",
+        "address": "USCGC Rose, FPO AP 03342",
+        "phone": "+1-395-308-0969x067",
+        "email": "scollins@example.net",
+        "account": {
+            "account_number": "21163998-87e7-46c2-8259-ab326dc66957",
+            "balance": 3350.25,
+            "transactions": [
+                {
+                    "date": "2023-10-22",
+                    "description": "Withdrawal",
+                    "amount": -3726.13,
+                    "transaction_id": 10798173
+                }
+            ]
+        }
+    }
+}

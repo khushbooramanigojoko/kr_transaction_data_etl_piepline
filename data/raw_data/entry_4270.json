@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Shelia Chen",
+        "age": 31,
+        "gender": "male",
+        "address": "930 Ortiz Club Suite 123, North Ryan, DC 14353",
+        "phone": "815-356-9632",
+        "email": "jerryhenderson@example.com",
+        "account": {
+            "account_number": "66205593-eb56-44bf-a8ab-a66576980ddb",
+            "balance": 46831.93,
+            "transactions": [
+                {
+                    "date": "2022-11-09",
+                    "description": "Deposit",
+                    "amount": 35695.96,
+                    "transaction_id": 39418935
+                },
+                {
+                    "date": "2024-04-11",
+                    "description": "Withdrawal",
+                    "amount": 47096.08,
+                    "transaction_id": 114817794
+                }
+            ]
+        }
+    }
+}

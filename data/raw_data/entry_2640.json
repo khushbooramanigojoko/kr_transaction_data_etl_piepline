@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sarah Reed",
+        "age": 59,
+        "gender": "male",
+        "address": "3831 Steven Islands, East Daniellefort, NH 78939",
+        "phone": "879-846-7093",
+        "email": "lee39@example.com",
+        "account": {
+            "account_number": "e5ed150b-2635-4b23-aaf5-7ee290431f7a",
+            "balance": 17515.57,
+            "transactions": [
+                {
+                    "date": "2024-02-03",
+                    "description": "Withdrawal",
+                    "amount": 45579.94,
+                    "transaction_id": 89340218
+                },
+                {
+                    "date": "2022-12-20",
+                    "description": "Deposit",
+                    "amount": 44407.51,
+                    "transaction_id": 84984426
+                },
+                {
+                    "date": "2023-07-09",
+                    "description": "Deposit",
+                    "amount": 7081.96,
+                    "transaction_id": 52047169
+                }
+            ]
+        }
+    }
+}

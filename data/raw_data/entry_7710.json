@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tina Haynes",
+        "age": 65,
+        "gender": "male",
+        "address": "1913 Wilson Grove Suite 183, Mcintyrechester, PR 18364",
+        "phone": "552.935.2847x8511",
+        "email": "frazieranthony@example.net",
+        "account": {
+            "account_number": "c4510e98-99d4-4d4c-9bed-62a9e77a1730",
+            "balance": 38295.98,
+            "transactions": [
+                {
+                    "date": "2023-11-25",
+                    "description": "Deposit",
+                    "amount": 48196.73,
+                    "transaction_id": 7626293
+                },
+                {
+                    "date": "2023-09-06",
+                    "description": "Deposit",
+                    "amount": 39197.08,
+                    "transaction_id": 74020283
+                },
+                {
+                    "date": "2024-01-30",
+                    "description": "Withdrawal",
+                    "amount": 36899.43,
+                    "transaction_id": 60996105
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Interest",
+                    "amount": 29444.25,
+                    "transaction_id": 26806976
+                }
+            ]
+        }
+    }
+}

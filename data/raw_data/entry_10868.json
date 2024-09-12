@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Rhonda Rivera",
+        "age": 45,
+        "gender": "female",
+        "address": "206 Richard Dale, Breannaborough, GA 54038",
+        "phone": "+1-706-689-3156x16228",
+        "email": "davislance@example.org",
+        "account": {
+            "account_number": "37f7748c-0074-49ac-9f79-0826c0e1fb87",
+            "balance": -18518.8,
+            "transactions": [
+                {
+                    "date": "2022-11-15",
+                    "description": "Withdrawal",
+                    "amount": -1616.74,
+                    "transaction_id": 83874772
+                },
+                {
+                    "date": "2023-10-16",
+                    "description": "Withdrawal",
+                    "amount": -4459.2,
+                    "transaction_id": 13717044
+                }
+            ]
+        }
+    }
+}

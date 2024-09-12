@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Carolyn Williams",
+        "age": 34,
+        "gender": "female",
+        "address": "9889 Jeffrey Dam Suite 539, Christopherport, TN 07398",
+        "phone": "929-802-4975x16474",
+        "email": "rosslinda@example.org",
+        "account": {
+            "account_number": "2b046005-3bd1-4579-b689-432a663765a8",
+            "balance": -32759.04,
+            "transactions": [
+                {
+                    "date": "2023-10-04",
+                    "description": "Deposit",
+                    "amount": -2421.13,
+                    "transaction_id": 16983954
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Interest",
+                    "amount": 1110.84,
+                    "transaction_id": 95317227
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Interest",
+                    "amount": 3869.68,
+                    "transaction_id": 85975963
+                },
+                {
+                    "date": "2024-03-24",
+                    "description": "Interest",
+                    "amount": 3450.77,
+                    "transaction_id": 40923904
+                }
+            ]
+        }
+    }
+}

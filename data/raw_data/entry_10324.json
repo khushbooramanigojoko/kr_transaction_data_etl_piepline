@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stephen Fernandez",
+        "age": 60,
+        "gender": "male",
+        "address": "170 Jamie Mews Suite 131, North Laurie, AR 39907",
+        "phone": "8728829673",
+        "email": "tiffanyfox@example.net",
+        "account": {
+            "account_number": "b6d903a8-1f85-4d35-927b-f13acfd0f172",
+            "balance": -19771.81,
+            "transactions": [
+                {
+                    "date": "2024-02-05",
+                    "description": "Withdrawal",
+                    "amount": 1924.68,
+                    "transaction_id": 35465208
+                }
+            ]
+        }
+    }
+}

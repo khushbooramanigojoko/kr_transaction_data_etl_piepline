@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jose Hall",
+        "age": 34,
+        "gender": "female",
+        "address": "82150 Jane Port Suite 982, Mirandahaven, NY 99730",
+        "phone": "(973)480-5916x8637",
+        "email": "lpatel@example.com",
+        "account": {
+            "account_number": "12289efa-3580-4dd5-90b9-d59f4660eaa4",
+            "balance": 40630.44,
+            "transactions": [
+                {
+                    "date": "2024-02-19",
+                    "description": "Withdrawal",
+                    "amount": 8379.32,
+                    "transaction_id": 38206386
+                },
+                {
+                    "date": "2023-03-10",
+                    "description": "Withdrawal",
+                    "amount": 29339.34,
+                    "transaction_id": 93457082
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Deposit",
+                    "amount": 39645.18,
+                    "transaction_id": 40029662
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Deposit",
+                    "amount": 31386.26,
+                    "transaction_id": 9016369
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Interest",
+                    "amount": 35013.74,
+                    "transaction_id": 60170049
+                }
+            ]
+        }
+    }
+}

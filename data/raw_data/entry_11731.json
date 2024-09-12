@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 83,
+        "gender": "male",
+        "address": "40491 John Path Apt. 321, Port Chrisfort, MN 74853",
+        "phone": "467-413-6904",
+        "email": "gibbsralph@example.org",
+        "account": {
+            "account_number": "b1924447-ba93-42a8-8090-3f09497af3e1",
+            "balance": 28685.02,
+            "transactions": [
+                {
+                    "date": "2023-03-18",
+                    "description": "Interest",
+                    "amount": -2905.73,
+                    "transaction_id": 2291576
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Interest",
+                    "amount": 481.56,
+                    "transaction_id": 43259744
+                }
+            ]
+        }
+    }
+}

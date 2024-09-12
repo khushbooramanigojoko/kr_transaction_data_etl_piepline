@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Carla Larsen",
+        "age": 60,
+        "gender": "male",
+        "address": "9271 Lee Glens Suite 133, East Jessica, KY 43624",
+        "phone": "+1-293-449-5316x45775",
+        "email": "scottrojas@example.com",
+        "account": {
+            "account_number": "4cbb8e61-87ec-4797-b963-40d49345c7d9",
+            "balance": 20598.31,
+            "transactions": [
+                {
+                    "date": "2024-07-25",
+                    "description": "Deposit",
+                    "amount": 38668.09,
+                    "transaction_id": 80812227
+                },
+                {
+                    "date": "2023-06-08",
+                    "description": "Withdrawal",
+                    "amount": 20603.93,
+                    "transaction_id": 39317048
+                },
+                {
+                    "date": "2023-04-11",
+                    "description": "Withdrawal",
+                    "amount": 42825.18,
+                    "transaction_id": 102598494
+                }
+            ]
+        }
+    }
+}

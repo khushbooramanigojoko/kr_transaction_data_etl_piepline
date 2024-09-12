@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 80,
+        "gender": "female",
+        "address": "PSC 6649, Box 9837, APO AP 21477",
+        "phone": "+1-800-717-2207x91804",
+        "email": "candaceholt@example.com",
+        "account": {
+            "account_number": "6d75a9fa-9236-47d7-9495-23ac4586e510",
+            "balance": 43029.4,
+            "transactions": [
+                {
+                    "date": "2024-02-16",
+                    "description": "Withdrawal",
+                    "amount": 4352.62,
+                    "transaction_id": 96115159
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Deposit",
+                    "amount": -1760.1,
+                    "transaction_id": 4095653
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Deposit",
+                    "amount": 3283.96,
+                    "transaction_id": 101966374
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Deposit",
+                    "amount": -1998.82,
+                    "transaction_id": 6831177
+                },
+                {
+                    "date": "2023-06-23",
+                    "description": "Interest",
+                    "amount": -1139.31,
+                    "transaction_id": 75497431
+                }
+            ]
+        }
+    }
+}

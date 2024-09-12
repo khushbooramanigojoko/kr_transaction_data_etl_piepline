@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brianna Smith",
+        "age": 48,
+        "gender": "female",
+        "address": "503 Smith Expressway Apt. 060, Hayesstad, KS 18432",
+        "phone": "(251)898-1648x4787",
+        "email": "nicolebradford@example.com",
+        "account": {
+            "account_number": "9d033614-f651-4e36-8a89-55253f257423",
+            "balance": 44965.21,
+            "transactions": [
+                {
+                    "date": "2023-04-27",
+                    "description": "Interest",
+                    "amount": 25500.08,
+                    "transaction_id": 17416971
+                },
+                {
+                    "date": "2024-05-12",
+                    "description": "Withdrawal",
+                    "amount": 47102.31,
+                    "transaction_id": 40819633
+                }
+            ]
+        }
+    }
+}

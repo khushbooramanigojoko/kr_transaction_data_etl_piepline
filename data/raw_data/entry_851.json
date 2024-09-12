@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Bradley Brown",
+        "age": 39,
+        "gender": "male",
+        "address": "209 Reed Locks, North Angela, SC 27751",
+        "phone": "001-866-724-9833x0468",
+        "email": "jillian41@example.org",
+        "account": {
+            "account_number": "56a23cd2-d2d0-4617-ad48-8bd08929f802",
+            "balance": 21036.47,
+            "transactions": [
+                {
+                    "date": "2023-02-06",
+                    "description": "Withdrawal",
+                    "amount": 45965.07,
+                    "transaction_id": 97330484
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Withdrawal",
+                    "amount": 11677.44,
+                    "transaction_id": 57174387
+                },
+                {
+                    "date": "2024-03-30",
+                    "description": "Interest",
+                    "amount": 232.18,
+                    "transaction_id": 88290892
+                }
+            ]
+        }
+    }
+}

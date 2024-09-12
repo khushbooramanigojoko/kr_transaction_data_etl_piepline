@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jeremiah Wong",
+        "age": 75,
+        "gender": "male",
+        "address": "USS Drake, FPO AE 29698",
+        "phone": "341.841.2392",
+        "email": "jasonandrews@example.com",
+        "account": {
+            "account_number": "64ffad81-3d0f-4e2a-8909-ee204e3a9acb",
+            "balance": -36652.77,
+            "transactions": [
+                {
+                    "date": "2023-04-15",
+                    "description": "Deposit",
+                    "amount": 2324.61,
+                    "transaction_id": 18404719
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Deposit",
+                    "amount": 3124.15,
+                    "transaction_id": 69871651
+                }
+            ]
+        }
+    }
+}

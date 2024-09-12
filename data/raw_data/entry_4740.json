@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Laura Miller",
+        "age": 81,
+        "gender": "male",
+        "address": "67206 Holmes Branch, Harperside, TX 53328",
+        "phone": "873-404-9279x28405",
+        "email": "jennifer77@example.com",
+        "account": {
+            "account_number": "f672b386-096b-4415-8b70-96f7ce3430ff",
+            "balance": 24182.06,
+            "transactions": [
+                {
+                    "date": "2023-12-16",
+                    "description": "Interest",
+                    "amount": 16015.69,
+                    "transaction_id": 102078190
+                },
+                {
+                    "date": "2022-10-24",
+                    "description": "Deposit",
+                    "amount": 36579.39,
+                    "transaction_id": 13239793
+                },
+                {
+                    "date": "2023-02-27",
+                    "description": "Withdrawal",
+                    "amount": 17805.42,
+                    "transaction_id": 85559712
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Deposit",
+                    "amount": 15168.72,
+                    "transaction_id": 74321742
+                }
+            ]
+        }
+    }
+}

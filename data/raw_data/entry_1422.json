@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kelly Peck",
+        "age": 99,
+        "gender": "male",
+        "address": "110 Nicholas Gardens, Parkerside, NH 35593",
+        "phone": "918.495.2111x420",
+        "email": "nicole22@example.org",
+        "account": {
+            "account_number": "0b6cc1c0-5b89-4583-8b4f-dfa1cd7abce5",
+            "balance": 41356.68,
+            "transactions": [
+                {
+                    "date": "2023-02-07",
+                    "description": "Deposit",
+                    "amount": 10316.8,
+                    "transaction_id": 53840412
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Deposit",
+                    "amount": 46162.23,
+                    "transaction_id": 43878890
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Withdrawal",
+                    "amount": 16579.34,
+                    "transaction_id": 67031323
+                },
+                {
+                    "date": "2023-11-14",
+                    "description": "Deposit",
+                    "amount": 15050.33,
+                    "transaction_id": 106969725
+                }
+            ]
+        }
+    }
+}

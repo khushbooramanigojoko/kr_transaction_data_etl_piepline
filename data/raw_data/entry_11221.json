@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christopher Dean",
+        "age": 62,
+        "gender": "female",
+        "address": "6567 Hansen Row, South Adamburgh, NY 36788",
+        "phone": "(280)997-3883x8430",
+        "email": "lwilson@example.com",
+        "account": {
+            "account_number": "1bb460b6-4081-4e16-9639-c2a579e7d5f8",
+            "balance": -40630.61,
+            "transactions": [
+                {
+                    "date": "2023-12-17",
+                    "description": "Interest",
+                    "amount": 2728.13,
+                    "transaction_id": 64486637
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Deposit",
+                    "amount": 989.34,
+                    "transaction_id": 5609214
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Interest",
+                    "amount": 2172.39,
+                    "transaction_id": 59480253
+                },
+                {
+                    "date": "2023-04-16",
+                    "description": "Withdrawal",
+                    "amount": -4103.99,
+                    "transaction_id": 57913782
+                }
+            ]
+        }
+    }
+}

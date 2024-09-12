@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kimberly Mccoy",
+        "age": 83,
+        "gender": "male",
+        "address": "PSC 6010, Box 7775, APO AP 80974",
+        "phone": "386.895.7653x362",
+        "email": "virginiatran@example.org",
+        "account": {
+            "account_number": "e6600fec-2740-48c9-b850-4cebedc5cf3c",
+            "balance": 47842.34,
+            "transactions": [
+                {
+                    "date": "2022-12-22",
+                    "description": "Withdrawal",
+                    "amount": 44104.88,
+                    "transaction_id": 104145083
+                }
+            ]
+        }
+    }
+}

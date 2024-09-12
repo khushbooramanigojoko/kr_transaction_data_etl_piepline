@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Elizabeth Perez",
+        "age": 53,
+        "gender": "female",
+        "address": "32333 Daniel Skyway Apt. 767, South Leeburgh, IN 60854",
+        "phone": "+1-521-288-6543x817",
+        "email": "katrinasingh@example.org",
+        "account": {
+            "account_number": "e904e583-cbe2-4150-a9c6-d2c005c52d6f",
+            "balance": 31993.53,
+            "transactions": [
+                {
+                    "date": "2024-03-21",
+                    "description": "Deposit",
+                    "amount": 1006.77,
+                    "transaction_id": 48724929
+                }
+            ]
+        }
+    }
+}

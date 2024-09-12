@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Nathan Boyd",
+        "age": 25,
+        "gender": "male",
+        "address": "4882 Daniel Forge Suite 052, North Kevin, VA 61105",
+        "phone": "(248)765-5197",
+        "email": "castrolisa@example.net",
+        "account": {
+            "account_number": "e540633d-d57b-4c63-8ea5-0a74e8d53b5d",
+            "balance": 25655.21,
+            "transactions": [
+                {
+                    "date": "2023-11-23",
+                    "description": "Deposit",
+                    "amount": 22156.13,
+                    "transaction_id": 72241833
+                }
+            ]
+        }
+    }
+}

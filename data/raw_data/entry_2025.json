@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Stephen Wood",
+        "age": 25,
+        "gender": "male",
+        "address": "44562 Davis Isle Apt. 489, Port Jeffreymouth, CT 67302",
+        "phone": "001-885-245-3934x4862",
+        "email": "ashley05@example.net",
+        "account": {
+            "account_number": "a1889acf-8525-4ce6-968f-36c0f7248df4",
+            "balance": 19231.52,
+            "transactions": [
+                {
+                    "date": "2024-04-12",
+                    "description": "Deposit",
+                    "amount": 42825.68,
+                    "transaction_id": 72551845
+                },
+                {
+                    "date": "2023-01-26",
+                    "description": "Interest",
+                    "amount": 48340.65,
+                    "transaction_id": 18743037
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Withdrawal",
+                    "amount": 25960.53,
+                    "transaction_id": 66978175
+                }
+            ]
+        }
+    }
+}

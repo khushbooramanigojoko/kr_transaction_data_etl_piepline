@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mr. Albert Reynolds",
+        "age": 98,
+        "gender": "female",
+        "address": "323 Young Junctions Apt. 272, North Josephstad, MA 72227",
+        "phone": "(638)948-5812x58805",
+        "email": "justinperry@example.com",
+        "account": {
+            "account_number": "154a32d3-2128-4970-b92b-cc965567595f",
+            "balance": 1435.64,
+            "transactions": [
+                {
+                    "date": "2022-11-17",
+                    "description": "Deposit",
+                    "amount": 17779.24,
+                    "transaction_id": 103356579
+                },
+                {
+                    "date": "2024-04-09",
+                    "description": "Withdrawal",
+                    "amount": 47788.09,
+                    "transaction_id": 113100439
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Deposit",
+                    "amount": 38736.6,
+                    "transaction_id": 94206203
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Withdrawal",
+                    "amount": 34825.56,
+                    "transaction_id": 49751907
+                },
+                {
+                    "date": "2023-01-22",
+                    "description": "Withdrawal",
+                    "amount": 11404.84,
+                    "transaction_id": 101953951
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 83,
+        "gender": "female",
+        "address": "1923 Nunez Falls, South Amanda, DC 92210",
+        "phone": "001-673-764-9534x791",
+        "email": "williamsmark@example.net",
+        "account": {
+            "account_number": "4fd77f5a-95b6-4163-bbc9-5e0d64b14a10",
+            "balance": 20223.87,
+            "transactions": [
+                {
+                    "date": "2023-04-02",
+                    "description": "Interest",
+                    "amount": -2072.34,
+                    "transaction_id": 96091316
+                }
+            ]
+        }
+    }
+}

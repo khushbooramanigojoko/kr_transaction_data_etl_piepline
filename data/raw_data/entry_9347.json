@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 97,
+        "gender": "male",
+        "address": "4224 Sexton Heights, Lake Lauren, WV 64725",
+        "phone": "794-765-4185x14500",
+        "email": "rojasmolly@example.com",
+        "account": {
+            "account_number": "7963ee3e-73d0-4852-8f8b-dafd79d7aa69",
+            "balance": 42347.54,
+            "transactions": [
+                {
+                    "date": "2024-08-12",
+                    "description": "Interest",
+                    "amount": -280.77,
+                    "transaction_id": 82487087
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": 1217.05,
+                    "transaction_id": 100741692
+                },
+                {
+                    "date": "2024-04-25",
+                    "description": "Withdrawal",
+                    "amount": 179.55,
+                    "transaction_id": 28144687
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Deposit",
+                    "amount": -4746.82,
+                    "transaction_id": 104701586
+                }
+            ]
+        }
+    }
+}

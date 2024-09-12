@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Logan Williams",
+        "age": 57,
+        "gender": "male",
+        "address": "185 Andrew Loaf Apt. 632, Kiddhaven, MP 21355",
+        "phone": "7748114457",
+        "email": "marcusgomez@example.com",
+        "account": {
+            "account_number": "8824856b-316a-4129-be7d-a0dbc23fa791",
+            "balance": 7253.93,
+            "transactions": [
+                {
+                    "date": "2023-10-17",
+                    "description": "Interest",
+                    "amount": 26254.25,
+                    "transaction_id": 48025107
+                },
+                {
+                    "date": "2023-10-12",
+                    "description": "Deposit",
+                    "amount": 37155.12,
+                    "transaction_id": 90829431
+                }
+            ]
+        }
+    }
+}

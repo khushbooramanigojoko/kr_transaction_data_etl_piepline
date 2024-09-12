@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Beth King",
+        "age": 32,
+        "gender": "female",
+        "address": "06456 Keith Knolls Suite 696, South Heather, RI 93237",
+        "phone": "(856)265-7437",
+        "email": "xjordan@example.org",
+        "account": {
+            "account_number": "0be6429c-df0d-4326-bc64-e9d3077647cf",
+            "balance": 47146.92,
+            "transactions": [
+                {
+                    "date": "2023-11-21",
+                    "description": "Withdrawal",
+                    "amount": 25570.88,
+                    "transaction_id": 27440772
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Interest",
+                    "amount": 48085.69,
+                    "transaction_id": 73670932
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Deposit",
+                    "amount": 7130.09,
+                    "transaction_id": 93926469
+                }
+            ]
+        }
+    }
+}

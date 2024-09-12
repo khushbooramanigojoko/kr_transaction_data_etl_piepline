@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Hailey Martinez",
+        "age": 26,
+        "gender": "male",
+        "address": "8466 Austin Pike, New Patriciatown, NY 34203",
+        "phone": "001-732-502-1999x556",
+        "email": "bonniedaniels@example.org",
+        "account": {
+            "account_number": "4621467f-cbdf-47ee-959d-d174df606ad7",
+            "balance": -1904.85,
+            "transactions": [
+                {
+                    "date": "2024-05-15",
+                    "description": "Interest",
+                    "amount": 4127.2,
+                    "transaction_id": 54519026
+                }
+            ]
+        }
+    }
+}

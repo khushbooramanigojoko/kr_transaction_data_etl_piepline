@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Melinda Miller",
+        "age": 61,
+        "gender": "female",
+        "address": "2710 Neal Passage Suite 799, Timothyberg, OH 66542",
+        "phone": "(549)413-2107x5294",
+        "email": "qpham@example.com",
+        "account": {
+            "account_number": "644c8cc4-4fcd-4a8a-9cf3-e88ac86c06b3",
+            "balance": 7714.29,
+            "transactions": [
+                {
+                    "date": "2024-02-12",
+                    "description": "Deposit",
+                    "amount": 38378.71,
+                    "transaction_id": 54877781
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Maria Wang",
+        "age": 85,
+        "gender": "male",
+        "address": "PSC 7584, Box 6371, APO AE 59045",
+        "phone": "+1-468-260-1973",
+        "email": "jeremy68@example.org",
+        "account": {
+            "account_number": "5c32f2e4-0583-4b52-8adf-a5af167de041",
+            "balance": 7605.96,
+            "transactions": [
+                {
+                    "date": "2023-09-11",
+                    "description": "Interest",
+                    "amount": 16640.33,
+                    "transaction_id": 56408914
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Withdrawal",
+                    "amount": 48533.23,
+                    "transaction_id": 112793520
+                },
+                {
+                    "date": "2023-10-08",
+                    "description": "Withdrawal",
+                    "amount": 48672.8,
+                    "transaction_id": 63489679
+                }
+            ]
+        }
+    }
+}

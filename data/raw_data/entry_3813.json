@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Young",
+        "age": 53,
+        "gender": "male",
+        "address": "17422 Alexander Drive, East Johnmouth, HI 67729",
+        "phone": "+1-743-738-1650x095",
+        "email": "stevenstephenson@example.com",
+        "account": {
+            "account_number": "c193625e-f4e4-4dac-890a-e5f380695b5c",
+            "balance": 15570.18,
+            "transactions": [
+                {
+                    "date": "2024-02-18",
+                    "description": "Withdrawal",
+                    "amount": 45758.96,
+                    "transaction_id": 55928412
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Deposit",
+                    "amount": 49545.63,
+                    "transaction_id": 104978441
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Deposit",
+                    "amount": 38770.56,
+                    "transaction_id": 7294438
+                },
+                {
+                    "date": "2022-12-10",
+                    "description": "Interest",
+                    "amount": 47436.78,
+                    "transaction_id": 41267911
+                }
+            ]
+        }
+    }
+}

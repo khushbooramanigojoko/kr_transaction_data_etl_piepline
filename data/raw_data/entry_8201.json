@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Theresa Holt",
+        "age": 60,
+        "gender": "male",
+        "address": "72001 Sexton Wells, Cindychester, VI 55785",
+        "phone": "3346890448",
+        "email": "james87@example.org",
+        "account": {
+            "account_number": "e1db6900-f238-47a1-be0e-1c0b5046e6a8",
+            "balance": 44103.84,
+            "transactions": [
+                {
+                    "date": "2023-05-13",
+                    "description": "Withdrawal",
+                    "amount": 32045.6,
+                    "transaction_id": 114520418
+                },
+                {
+                    "date": "2023-03-10",
+                    "description": "Withdrawal",
+                    "amount": 13487.61,
+                    "transaction_id": 57269789
+                },
+                {
+                    "date": "2022-11-24",
+                    "description": "Deposit",
+                    "amount": 43125.43,
+                    "transaction_id": 106147607
+                },
+                {
+                    "date": "2024-06-02",
+                    "description": "Withdrawal",
+                    "amount": 13300.39,
+                    "transaction_id": 72708239
+                },
+                {
+                    "date": "2023-08-30",
+                    "description": "Deposit",
+                    "amount": 48398.93,
+                    "transaction_id": 2981519
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lori Pena",
+        "age": 97,
+        "gender": "male",
+        "address": "6930 Cobb Extensions Apt. 908, South Trevorview, AK 06066",
+        "phone": "3988027471",
+        "email": "nicholas11@example.net",
+        "account": {
+            "account_number": "0394595d-38aa-4fea-94b0-61dee8b9722b",
+            "balance": 14660.39,
+            "transactions": [
+                {
+                    "date": "2023-10-20",
+                    "description": "Withdrawal",
+                    "amount": 21617.62,
+                    "transaction_id": 10085251
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Interest",
+                    "amount": 28660.52,
+                    "transaction_id": 53809573
+                }
+            ]
+        }
+    }
+}

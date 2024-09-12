@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nathan Gates",
+        "age": 24,
+        "gender": "male",
+        "address": "Unit 7209 Box 9057, DPO AA 02167",
+        "phone": "(996)702-7584",
+        "email": "dclayton@example.org",
+        "account": {
+            "account_number": "8723e489-fc34-44ed-a538-7cf97a2904c6",
+            "balance": 9475.27,
+            "transactions": [
+                {
+                    "date": "2024-03-05",
+                    "description": "Withdrawal",
+                    "amount": 23699.71,
+                    "transaction_id": 86912769
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Withdrawal",
+                    "amount": 46401.96,
+                    "transaction_id": 22114666
+                },
+                {
+                    "date": "2024-06-28",
+                    "description": "Interest",
+                    "amount": 43844.12,
+                    "transaction_id": 53724933
+                },
+                {
+                    "date": "2023-02-05",
+                    "description": "Deposit",
+                    "amount": 40177.99,
+                    "transaction_id": 94644453
+                }
+            ]
+        }
+    }
+}

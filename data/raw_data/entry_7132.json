@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Nicholas Finley",
+        "age": 18,
+        "gender": "female",
+        "address": "62958 Manuel Wall, North Teresafort, AL 68781",
+        "phone": "(379)618-1568x53827",
+        "email": "jasonschultz@example.com",
+        "account": {
+            "account_number": "0b8001fb-36bd-4a4e-af65-65488c668d11",
+            "balance": 30238.29,
+            "transactions": [
+                {
+                    "date": "2022-12-18",
+                    "description": "Interest",
+                    "amount": 46051.74,
+                    "transaction_id": 32630665
+                },
+                {
+                    "date": "2023-11-14",
+                    "description": "Withdrawal",
+                    "amount": 10208.55,
+                    "transaction_id": 104410161
+                }
+            ]
+        }
+    }
+}

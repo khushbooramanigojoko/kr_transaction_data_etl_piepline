@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nicole Newman",
+        "age": 85,
+        "gender": "male",
+        "address": "781 Tamara Plaza Apt. 956, South Carrie, IA 85285",
+        "phone": "+1-930-932-4908",
+        "email": "brandonturner@example.com",
+        "account": {
+            "account_number": "5f994819-2613-495b-8ed5-8e66e132babc",
+            "balance": 35325.81,
+            "transactions": [
+                {
+                    "date": "2023-05-18",
+                    "description": "Deposit",
+                    "amount": 24456.48,
+                    "transaction_id": 73772535
+                },
+                {
+                    "date": "2023-07-12",
+                    "description": "Withdrawal",
+                    "amount": 4433.84,
+                    "transaction_id": 9927016
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Withdrawal",
+                    "amount": 29125.02,
+                    "transaction_id": 47188099
+                },
+                {
+                    "date": "2024-01-21",
+                    "description": "Deposit",
+                    "amount": 7322.1,
+                    "transaction_id": 50374845
+                }
+            ]
+        }
+    }
+}

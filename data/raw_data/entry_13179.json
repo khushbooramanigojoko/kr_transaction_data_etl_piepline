@@ -1,0 +1,140 @@
+{
+    "customer": {
+        "name": "Scott Butler",
+        "gender": "male",
+        "address": "1048 Frank Squares Suite 666, Kemptown, OK 92095",
+        "email": "mburke@example.net",
+        "account": {
+            "account_number": "70fb0252-5760-48a8-9534-e707e0d4f8a8",
+            "balance": 19201.81,
+            "transactions": [
+                {
+                    "date": "2024-08-16",
+                    "description": "Refund",
+                    "amount": 1360.79,
+                    "transaction_id": 688298401
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Interest",
+                    "amount": 770.75,
+                    "transaction_id": 814786239
+                },
+                {
+                    "date": "2024-01-27",
+                    "description": "Purchase",
+                    "amount": 3104.49,
+                    "transaction_id": 338970194
+                },
+                {
+                    "date": "2024-04-14",
+                    "description": "Refund",
+                    "amount": 3194.41,
+                    "transaction_id": 419005449
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Fee",
+                    "amount": 4343.01,
+                    "transaction_id": 315746755
+                },
+                {
+                    "date": "2023-12-18",
+                    "description": "Refund",
+                    "amount": 57.9,
+                    "transaction_id": 282162214
+                },
+                {
+                    "date": "2023-09-30",
+                    "description": "Purchase",
+                    "amount": 4425.78,
+                    "transaction_id": 267291181
+                },
+                {
+                    "date": "2024-04-23",
+                    "description": "Interest",
+                    "amount": 739.12,
+                    "transaction_id": 884493677
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Fee",
+                    "amount": 2330.4,
+                    "transaction_id": 774190414
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Fee",
+                    "amount": 54.13,
+                    "transaction_id": 563386311
+                },
+                {
+                    "date": "2023-10-19",
+                    "description": "Fee",
+                    "amount": 3563.61,
+                    "transaction_id": 672162165
+                },
+                {
+                    "date": "2024-08-10",
+                    "description": "Interest",
+                    "amount": 4802.99,
+                    "transaction_id": 368379192
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Interest",
+                    "amount": -583.53,
+                    "transaction_id": 144668520
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Purchase",
+                    "amount": 4222.82,
+                    "transaction_id": 536544359
+                },
+                {
+                    "date": "2023-11-18",
+                    "description": "Interest",
+                    "amount": 1936.11,
+                    "transaction_id": 658160750
+                },
+                {
+                    "date": "2023-11-05",
+                    "description": "Fee",
+                    "amount": 1853.92,
+                    "transaction_id": 763082089
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Interest",
+                    "amount": 3539.05,
+                    "transaction_id": 480099761
+                },
+                {
+                    "date": "2024-09-10",
+                    "description": "Refund",
+                    "amount": 3762.27,
+                    "transaction_id": 973180181
+                },
+                {
+                    "date": "2024-03-31",
+                    "description": "Purchase",
+                    "amount": 536.61,
+                    "transaction_id": 867389816
+                },
+                {
+                    "date": "2024-07-27",
+                    "description": "Fee",
+                    "amount": 69.09,
+                    "transaction_id": 661629260
+                },
+                {
+                    "date": "2023-12-10",
+                    "description": "Interest",
+                    "amount": 2749.46,
+                    "transaction_id": 290245991
+                }
+            ]
+        }
+    }
+}

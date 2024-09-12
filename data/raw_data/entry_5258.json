@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Gina Andersen",
+        "age": 48,
+        "gender": "male",
+        "address": "99357 Campbell Estate, South Jessehaven, IL 33235",
+        "phone": "+1-937-351-6051x2019",
+        "email": "lynchjoshua@example.org",
+        "account": {
+            "account_number": "c3810742-f2e9-4677-a91f-ff787fe63934",
+            "balance": 44127.37,
+            "transactions": [
+                {
+                    "date": "2022-11-30",
+                    "description": "Withdrawal",
+                    "amount": 45228.54,
+                    "transaction_id": 110258397
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Interest",
+                    "amount": 4868.43,
+                    "transaction_id": 103916363
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Interest",
+                    "amount": 16704.02,
+                    "transaction_id": 107968377
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Withdrawal",
+                    "amount": 2644.76,
+                    "transaction_id": 106213752
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Withdrawal",
+                    "amount": 44288.36,
+                    "transaction_id": 103957452
+                }
+            ]
+        }
+    }
+}

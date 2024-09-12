@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "James Garcia",
+        "age": 67,
+        "gender": "female",
+        "address": "78804 Kelsey Viaduct, Clarenceborough, KY 09982",
+        "phone": "867.940.1392",
+        "email": "zbaker@example.com",
+        "account": {
+            "account_number": "98893983-2f51-41d4-8de2-be615bbaabb6",
+            "balance": 6246.42,
+            "transactions": [
+                {
+                    "date": "2023-08-24",
+                    "description": "Withdrawal",
+                    "amount": 22715.49,
+                    "transaction_id": 10603906
+                },
+                {
+                    "date": "2023-06-23",
+                    "description": "Deposit",
+                    "amount": 17804.6,
+                    "transaction_id": 9411753
+                },
+                {
+                    "date": "2023-09-09",
+                    "description": "Interest",
+                    "amount": 30552.85,
+                    "transaction_id": 14258461
+                }
+            ]
+        }
+    }
+}

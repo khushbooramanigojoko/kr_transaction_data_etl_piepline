@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Teresa Macias",
+        "age": 75,
+        "gender": "male",
+        "address": "8331 Campbell Garden Apt. 765, North Lisafort, WI 38016",
+        "phone": "001-280-305-3966",
+        "email": "bradleyshelton@example.com",
+        "account": {
+            "account_number": "01f6ab7c-223a-448f-9839-44e4d4da00ab",
+            "balance": 49323.36,
+            "transactions": [
+                {
+                    "date": "2024-01-20",
+                    "description": "Withdrawal",
+                    "amount": 22873.22,
+                    "transaction_id": 106240312
+                },
+                {
+                    "date": "2024-01-18",
+                    "description": "Withdrawal",
+                    "amount": 13011.95,
+                    "transaction_id": 21013403
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Deposit",
+                    "amount": 22357.89,
+                    "transaction_id": 65989779
+                },
+                {
+                    "date": "2023-08-31",
+                    "description": "Withdrawal",
+                    "amount": 9632.97,
+                    "transaction_id": 79286662
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Deposit",
+                    "amount": 43042.13,
+                    "transaction_id": 68798383
+                }
+            ]
+        }
+    }
+}

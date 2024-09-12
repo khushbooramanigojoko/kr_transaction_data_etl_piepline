@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brian Ellis",
+        "age": 60,
+        "gender": "male",
+        "address": "5461 Miguel Trail, New Robertville, ME 47467",
+        "phone": "581.796.7125x9740",
+        "email": "maddenlaura@example.net",
+        "account": {
+            "account_number": "8cec133c-ea9b-4c84-8fe6-41f53303b867",
+            "balance": 27331.64,
+            "transactions": [
+                {
+                    "date": "2024-08-16",
+                    "description": "Withdrawal",
+                    "amount": 18874.63,
+                    "transaction_id": 11912996
+                },
+                {
+                    "date": "2022-09-23",
+                    "description": "Withdrawal",
+                    "amount": 24269.99,
+                    "transaction_id": 78069971
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Deposit",
+                    "amount": 12905.68,
+                    "transaction_id": 9222299
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Withdrawal",
+                    "amount": 25805.23,
+                    "transaction_id": 85052480
+                },
+                {
+                    "date": "2024-01-25",
+                    "description": "Interest",
+                    "amount": 2013.03,
+                    "transaction_id": 31297605
+                }
+            ]
+        }
+    }
+}

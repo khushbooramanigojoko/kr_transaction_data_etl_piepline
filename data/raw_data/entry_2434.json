@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christopher Choi",
+        "age": 37,
+        "gender": "female",
+        "address": "318 Johnson Forges Apt. 402, Herringview, NM 50045",
+        "phone": "+1-574-860-6088",
+        "email": "brendabush@example.org",
+        "account": {
+            "account_number": "a6ab1790-5447-4924-a3b0-fa2bd18881c3",
+            "balance": 10492.03,
+            "transactions": [
+                {
+                    "date": "2024-07-25",
+                    "description": "Deposit",
+                    "amount": 32679.4,
+                    "transaction_id": 90500148
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Withdrawal",
+                    "amount": 25187.27,
+                    "transaction_id": 111436790
+                },
+                {
+                    "date": "2023-10-04",
+                    "description": "Deposit",
+                    "amount": 17966.21,
+                    "transaction_id": 7775451
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Withdrawal",
+                    "amount": 33542.49,
+                    "transaction_id": 102602573
+                }
+            ]
+        }
+    }
+}

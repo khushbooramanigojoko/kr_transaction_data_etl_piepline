@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dominique Clark",
+        "age": 50,
+        "gender": "male",
+        "address": "2612 Mark Flats, North Hollyberg, GU 14951",
+        "phone": "415-237-7837x766",
+        "email": "audrey52@example.org",
+        "account": {
+            "account_number": "11a84c81-6944-4022-a2cc-f91a0aa28b27",
+            "balance": 23655.46,
+            "transactions": [
+                {
+                    "date": "2022-12-07",
+                    "description": "Withdrawal",
+                    "amount": 21026.33,
+                    "transaction_id": 55054303
+                },
+                {
+                    "date": "2023-05-21",
+                    "description": "Deposit",
+                    "amount": 13404.21,
+                    "transaction_id": 69133941
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Deposit",
+                    "amount": 33889.46,
+                    "transaction_id": 18799984
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Interest",
+                    "amount": 7121.34,
+                    "transaction_id": 79277411
+                }
+            ]
+        }
+    }
+}

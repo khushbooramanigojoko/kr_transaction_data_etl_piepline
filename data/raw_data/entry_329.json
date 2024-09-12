@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Scott Leonard",
+        "age": 66,
+        "gender": "female",
+        "address": "Unit 0214 Box 9391, DPO AA 08779",
+        "phone": "(461)482-8452x666",
+        "email": "leesamantha@example.com",
+        "account": {
+            "account_number": "fc2044bc-6a4b-449e-ab63-35a7e5030ddf",
+            "balance": 33035.11,
+            "transactions": [
+                {
+                    "date": "2024-04-25",
+                    "description": "Deposit",
+                    "amount": 23423.07,
+                    "transaction_id": 62367926
+                },
+                {
+                    "date": "2023-07-01",
+                    "description": "Deposit",
+                    "amount": 41449.91,
+                    "transaction_id": 53403678
+                }
+            ]
+        }
+    }
+}

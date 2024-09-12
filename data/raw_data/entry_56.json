@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Angel Anderson",
+        "age": 61,
+        "gender": "male",
+        "address": "396 Scott Motorway, Samuelmouth, DE 92080",
+        "phone": "(380)541-6281x422",
+        "email": "oclark@example.net",
+        "account": {
+            "account_number": "1fdc14d7-d7c7-40df-a143-df74cffc45ff",
+            "balance": 49570.72,
+            "transactions": [
+                {
+                    "date": "2024-04-30",
+                    "description": "Deposit",
+                    "amount": 16952.06,
+                    "transaction_id": 99357121
+                },
+                {
+                    "date": "2024-03-30",
+                    "description": "Withdrawal",
+                    "amount": 45607.29,
+                    "transaction_id": 74293804
+                }
+            ]
+        }
+    }
+}

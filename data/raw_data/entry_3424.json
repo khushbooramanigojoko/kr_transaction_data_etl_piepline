@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Larry Thompson",
+        "age": 54,
+        "gender": "female",
+        "address": "18207 James Inlet Suite 332, Torresborough, ME 18010",
+        "phone": "724.760.8106x14137",
+        "email": "kylemendoza@example.net",
+        "account": {
+            "account_number": "c607ec27-941f-482b-a0cb-fdbe0b1440ea",
+            "balance": 15317.16,
+            "transactions": [
+                {
+                    "date": "2022-09-09",
+                    "description": "Withdrawal",
+                    "amount": 40565.77,
+                    "transaction_id": 111871212
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Deposit",
+                    "amount": 1747.96,
+                    "transaction_id": 69017812
+                },
+                {
+                    "date": "2023-12-13",
+                    "description": "Interest",
+                    "amount": 9164.27,
+                    "transaction_id": 79906730
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Interest",
+                    "amount": 14534.66,
+                    "transaction_id": 87331770
+                }
+            ]
+        }
+    }
+}

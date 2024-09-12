@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michael Poole",
+        "age": 39,
+        "gender": "male",
+        "address": "82535 Deborah Hill Suite 749, New Johnstad, CT 07107",
+        "phone": "(522)716-5891",
+        "email": "jwhitaker@example.net",
+        "account": {
+            "account_number": "4739f014-dfa6-4ff5-aa59-a797e01b9070",
+            "balance": 24868.52,
+            "transactions": [
+                {
+                    "date": "2023-08-31",
+                    "description": "Withdrawal",
+                    "amount": 10221.86,
+                    "transaction_id": 24249974
+                }
+            ]
+        }
+    }
+}

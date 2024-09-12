@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 49,
+        "gender": "female",
+        "address": "0182 Lisa Pass, Juanton, SC 91340",
+        "phone": "806.651.0127x689",
+        "email": "watkinsandrew@example.com",
+        "account": {
+            "account_number": "bf562125-33b6-46bd-8c2a-7396c205a43d",
+            "balance": 35002.32,
+            "transactions": [
+                {
+                    "date": "2024-03-22",
+                    "description": "Withdrawal",
+                    "amount": -502.19,
+                    "transaction_id": 10168258
+                },
+                {
+                    "date": "2024-03-11",
+                    "description": "Withdrawal",
+                    "amount": 3762.81,
+                    "transaction_id": 117042163
+                }
+            ]
+        }
+    }
+}

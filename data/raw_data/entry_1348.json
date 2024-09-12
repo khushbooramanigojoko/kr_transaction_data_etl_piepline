@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dylan Brown",
+        "age": 20,
+        "gender": "male",
+        "address": "04767 Katherine Inlet, Thomasville, KY 80626",
+        "phone": "4045711555",
+        "email": "frederick45@example.org",
+        "account": {
+            "account_number": "9161a679-dbe3-4778-b41f-b6f6364e8f9f",
+            "balance": 12256.58,
+            "transactions": [
+                {
+                    "date": "2023-05-08",
+                    "description": "Deposit",
+                    "amount": 25105.7,
+                    "transaction_id": 72513821
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Deposit",
+                    "amount": 30295.91,
+                    "transaction_id": 18584076
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Interest",
+                    "amount": 32821.62,
+                    "transaction_id": 72314323
+                },
+                {
+                    "date": "2023-01-16",
+                    "description": "Withdrawal",
+                    "amount": 18570.3,
+                    "transaction_id": 30686739
+                }
+            ]
+        }
+    }
+}

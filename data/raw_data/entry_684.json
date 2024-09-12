@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brittany Schmidt",
+        "age": 27,
+        "gender": "male",
+        "address": "08222 Nelson Divide Apt. 809, Lake Joshuafurt, MH 01212",
+        "phone": "+1-688-667-6448",
+        "email": "ryan34@example.net",
+        "account": {
+            "account_number": "2650d1ee-d97b-4377-97d2-780abe9cce57",
+            "balance": 36617.1,
+            "transactions": [
+                {
+                    "date": "2023-10-26",
+                    "description": "Interest",
+                    "amount": 24111.82,
+                    "transaction_id": 100694904
+                },
+                {
+                    "date": "2023-03-27",
+                    "description": "Deposit",
+                    "amount": 20515.21,
+                    "transaction_id": 9875170
+                }
+            ]
+        }
+    }
+}

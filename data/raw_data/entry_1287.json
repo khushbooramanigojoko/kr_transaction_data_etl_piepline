@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kim Reed",
+        "age": 49,
+        "gender": "male",
+        "address": "PSC 4274, Box 6540, APO AA 55801",
+        "phone": "882.772.2105x67787",
+        "email": "jasonwells@example.net",
+        "account": {
+            "account_number": "cc340386-232d-4a04-8be0-a63876b9b410",
+            "balance": 38187.06,
+            "transactions": [
+                {
+                    "date": "2023-04-29",
+                    "description": "Deposit",
+                    "amount": 10909.11,
+                    "transaction_id": 108904080
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Interest",
+                    "amount": 6735.71,
+                    "transaction_id": 73834321
+                },
+                {
+                    "date": "2023-12-31",
+                    "description": "Deposit",
+                    "amount": 274.86,
+                    "transaction_id": 86658171
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Withdrawal",
+                    "amount": 47931.62,
+                    "transaction_id": 95229897
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Deposit",
+                    "amount": 49335.06,
+                    "transaction_id": 68145651
+                }
+            ]
+        }
+    }
+}

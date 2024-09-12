@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Morrison",
+        "age": 55,
+        "gender": "male",
+        "address": "487 Julie Knolls Apt. 848, Pricemouth, IA 74696",
+        "phone": "990.616.2187x3268",
+        "email": "anthonystevens@example.com",
+        "account": {
+            "account_number": "1987ddaf-fc5a-410c-a9c2-99ede82eb56a",
+            "balance": -27191.08,
+            "transactions": [
+                {
+                    "date": "2024-01-30",
+                    "description": "Interest",
+                    "amount": 864.86,
+                    "transaction_id": 53291443
+                },
+                {
+                    "date": "2024-04-15",
+                    "description": "Withdrawal",
+                    "amount": 4255.51,
+                    "transaction_id": 102060326
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Withdrawal",
+                    "amount": -3825.18,
+                    "transaction_id": 71552282
+                },
+                {
+                    "date": "2022-11-22",
+                    "description": "Interest",
+                    "amount": -3127.61,
+                    "transaction_id": 18833208
+                }
+            ]
+        }
+    }
+}

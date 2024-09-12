@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph Villegas",
+        "age": 88,
+        "gender": "female",
+        "address": "1736 Margaret Grove, Langfurt, MA 69211",
+        "phone": "636.980.4008x513",
+        "email": "jonesdawn@example.net",
+        "account": {
+            "account_number": "c05ef693-24e2-4e38-9492-223d1a363d36",
+            "balance": 45684.43,
+            "transactions": [
+                {
+                    "date": "2024-08-17",
+                    "description": "Deposit",
+                    "amount": 16592.57,
+                    "transaction_id": 116857958
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Withdrawal",
+                    "amount": 41634.7,
+                    "transaction_id": 34596573
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Withdrawal",
+                    "amount": 33728.71,
+                    "transaction_id": 73463177
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Withdrawal",
+                    "amount": 1259.58,
+                    "transaction_id": 98300887
+                }
+            ]
+        }
+    }
+}

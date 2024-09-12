@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sarah Barton",
+        "age": 67,
+        "gender": "female",
+        "address": "369 Hammond Landing, Lake Chad, ME 58375",
+        "phone": "255.221.2557x6559",
+        "email": "abigail10@example.com",
+        "account": {
+            "account_number": "b09c5b52-2d11-4668-8dd1-d6711dee73f6",
+            "balance": 37421.74,
+            "transactions": [
+                {
+                    "date": "2024-03-30",
+                    "description": "Interest",
+                    "amount": 1854.17,
+                    "transaction_id": 31900959
+                },
+                {
+                    "date": "2024-07-19",
+                    "description": "Deposit",
+                    "amount": 339.15,
+                    "transaction_id": 31787053
+                },
+                {
+                    "date": "2024-03-01",
+                    "description": "Interest",
+                    "amount": 49912.03,
+                    "transaction_id": 41142980
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Interest",
+                    "amount": 7737.64,
+                    "transaction_id": 111451918
+                },
+                {
+                    "date": "2023-08-18",
+                    "description": "Deposit",
+                    "amount": 48709.94,
+                    "transaction_id": 112840791
+                }
+            ]
+        }
+    }
+}

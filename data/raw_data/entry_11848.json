@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Douglas Nelson",
+        "age": 96,
+        "gender": "male",
+        "address": "745 Griffith Walks Suite 369, Samanthashire, GU 96672",
+        "phone": "+1-480-263-1756x078",
+        "email": "stokesandrew@example.org",
+        "account": {
+            "account_number": "8bec1e9d-951b-44bf-872e-b9e995b88cc2",
+            "balance": -40975.59,
+            "transactions": [
+                {
+                    "date": "2023-05-19",
+                    "description": "Withdrawal",
+                    "amount": -1865.14,
+                    "transaction_id": 19036363
+                }
+            ]
+        }
+    }
+}

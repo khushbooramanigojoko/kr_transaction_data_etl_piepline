@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 95,
+        "gender": "female",
+        "address": "98369 John Prairie Suite 229, Port Jenniferville, NM 66415",
+        "phone": "530-267-0531x59199",
+        "email": "lisapope@example.org",
+        "account": {
+            "account_number": "7042421c-0001-43a2-bcd4-0881e7a9b8bf",
+            "balance": 2644.03,
+            "transactions": [
+                {
+                    "date": "2024-03-23",
+                    "description": "Interest",
+                    "amount": -1980.45,
+                    "transaction_id": 71648899
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Withdrawal",
+                    "amount": -2186.59,
+                    "transaction_id": 34258941
+                },
+                {
+                    "date": "2024-01-06",
+                    "description": "Withdrawal",
+                    "amount": 205.07,
+                    "transaction_id": 76867238
+                },
+                {
+                    "date": "2022-09-23",
+                    "description": "Deposit",
+                    "amount": -1811.69,
+                    "transaction_id": 10646112
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Withdrawal",
+                    "amount": 2401.04,
+                    "transaction_id": 75239324
+                }
+            ]
+        }
+    }
+}

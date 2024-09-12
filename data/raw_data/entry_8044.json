@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nathan Kramer",
+        "age": 41,
+        "gender": "female",
+        "address": "20836 George Groves, Danielberg, OH 89625",
+        "phone": "554.740.8261x8319",
+        "email": "gwilson@example.org",
+        "account": {
+            "account_number": "2323b892-e5ab-4638-8645-b253c8344c13",
+            "balance": 47852.6,
+            "transactions": [
+                {
+                    "date": "2024-04-25",
+                    "description": "Withdrawal",
+                    "amount": 31583.17,
+                    "transaction_id": 64236761
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Deposit",
+                    "amount": 1164.43,
+                    "transaction_id": 56006209
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Deposit",
+                    "amount": 26329.2,
+                    "transaction_id": 45542269
+                },
+                {
+                    "date": "2022-11-29",
+                    "description": "Withdrawal",
+                    "amount": 17179.36,
+                    "transaction_id": 60554073
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Elizabeth Wallace",
+        "age": 24,
+        "gender": "female",
+        "address": "772 Melinda Mountain, New Lisa, NH 40296",
+        "phone": "316.221.0136",
+        "email": "vmaldonado@example.com",
+        "account": {
+            "account_number": "95e4707b-03bc-4903-8291-89f26419d79a",
+            "balance": 17861.45,
+            "transactions": [
+                {
+                    "date": "2024-02-02",
+                    "description": "Withdrawal",
+                    "amount": 21391.1,
+                    "transaction_id": 95225111
+                },
+                {
+                    "date": "2024-06-25",
+                    "description": "Withdrawal",
+                    "amount": 32815.22,
+                    "transaction_id": 34999846
+                }
+            ]
+        }
+    }
+}

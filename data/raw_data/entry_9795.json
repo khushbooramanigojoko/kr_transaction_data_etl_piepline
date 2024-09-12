@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nicholas Stevens",
+        "age": 98,
+        "gender": "female",
+        "address": "7935 Timothy Knoll Apt. 535, Angelachester, OK 10189",
+        "phone": "001-435-343-8352x8436",
+        "email": "melindachang@example.net",
+        "account": {
+            "account_number": "5b251705-481e-46f1-a011-c0ac4e871fac",
+            "balance": -36063.08,
+            "transactions": [
+                {
+                    "date": "2024-02-27",
+                    "description": "Withdrawal",
+                    "amount": 3162.94,
+                    "transaction_id": 58294676
+                },
+                {
+                    "date": "2024-03-20",
+                    "description": "Interest",
+                    "amount": 4650.41,
+                    "transaction_id": 54637583
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Withdrawal",
+                    "amount": -961.05,
+                    "transaction_id": 16547708
+                },
+                {
+                    "date": "2024-06-08",
+                    "description": "Withdrawal",
+                    "amount": 2909.06,
+                    "transaction_id": 21244831
+                }
+            ]
+        }
+    }
+}

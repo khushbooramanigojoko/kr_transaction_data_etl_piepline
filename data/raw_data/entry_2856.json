@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Rose Turner MD",
+        "age": 64,
+        "gender": "male",
+        "address": "USS Tran, FPO AE 27941",
+        "phone": "987-673-2660x3889",
+        "email": "donald14@example.net",
+        "account": {
+            "account_number": "2cd6ab0a-e0c1-487c-b29f-a1fb33904bef",
+            "balance": 25351.66,
+            "transactions": [
+                {
+                    "date": "2022-10-26",
+                    "description": "Interest",
+                    "amount": 35508.0,
+                    "transaction_id": 15532938
+                },
+                {
+                    "date": "2023-10-12",
+                    "description": "Interest",
+                    "amount": 1721.87,
+                    "transaction_id": 58522689
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Deposit",
+                    "amount": 2676.34,
+                    "transaction_id": 109369618
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Deposit",
+                    "amount": 36823.14,
+                    "transaction_id": 118058225
+                },
+                {
+                    "date": "2022-12-21",
+                    "description": "Interest",
+                    "amount": 22548.65,
+                    "transaction_id": 88215097
+                }
+            ]
+        }
+    }
+}

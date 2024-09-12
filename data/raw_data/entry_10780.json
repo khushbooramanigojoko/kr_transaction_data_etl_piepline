@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christopher Shelton",
+        "age": 72,
+        "gender": "male",
+        "address": "63262 Zachary Square, Michaelshire, FL 90664",
+        "phone": "712-813-5255x8987",
+        "email": "watsonjulie@example.com",
+        "account": {
+            "account_number": "24066501-aa88-4bbe-9683-0670168943e8",
+            "balance": -39913.75,
+            "transactions": [
+                {
+                    "date": "2023-12-31",
+                    "description": "Deposit",
+                    "amount": 3362.19,
+                    "transaction_id": 66111862
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Interest",
+                    "amount": -2495.18,
+                    "transaction_id": 105145112
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Deposit",
+                    "amount": -3634.15,
+                    "transaction_id": 29697193
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Deposit",
+                    "amount": -2452.78,
+                    "transaction_id": 64354833
+                }
+            ]
+        }
+    }
+}

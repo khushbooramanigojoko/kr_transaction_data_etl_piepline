@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mary Wilson",
+        "age": 75,
+        "gender": "male",
+        "address": "9735 Taylor Expressway Suite 822, Lake Michelle, CA 32879",
+        "phone": "+1-614-573-6669",
+        "email": "bfisher@example.org",
+        "account": {
+            "account_number": "b53d0a4a-d878-4372-aac7-242e803474fe",
+            "balance": 45497.39,
+            "transactions": [
+                {
+                    "date": "2022-09-26",
+                    "description": "Interest",
+                    "amount": 29540.88,
+                    "transaction_id": 21881483
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Interest",
+                    "amount": 19326.35,
+                    "transaction_id": 57815559
+                },
+                {
+                    "date": "2023-12-06",
+                    "description": "Interest",
+                    "amount": 7897.06,
+                    "transaction_id": 11194512
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Withdrawal",
+                    "amount": 16055.43,
+                    "transaction_id": 64101409
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Interest",
+                    "amount": 9018.37,
+                    "transaction_id": 66808098
+                }
+            ]
+        }
+    }
+}

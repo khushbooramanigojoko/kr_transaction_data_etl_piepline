@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Aaron Schultz",
+        "age": 48,
+        "gender": "male",
+        "address": "Unit 4666 Box 9089, DPO AA 18135",
+        "phone": "605.944.5944x26114",
+        "email": "rebecca12@example.com",
+        "account": {
+            "account_number": "c58617b2-2b2c-4c03-b53e-19aeded80d5a",
+            "balance": 41848.72,
+            "transactions": [
+                {
+                    "date": "2024-02-06",
+                    "description": "Interest",
+                    "amount": 44536.72,
+                    "transaction_id": 3679866
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Withdrawal",
+                    "amount": 23416.93,
+                    "transaction_id": 106018825
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Deposit",
+                    "amount": 13029.13,
+                    "transaction_id": 54646506
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Interest",
+                    "amount": 9874.82,
+                    "transaction_id": 83478428
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Interest",
+                    "amount": 8493.94,
+                    "transaction_id": 23078713
+                }
+            ]
+        }
+    }
+}

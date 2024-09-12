@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Crystal Gonzalez",
+        "age": 84,
+        "gender": "male",
+        "address": "94202 Kim Dam Suite 656, Kathrynbury, NJ 04966",
+        "phone": "+1-648-397-9298x237",
+        "email": "zlivingston@example.org",
+        "account": {
+            "account_number": "74946c59-29b3-4d36-bb77-6e634d153d91",
+            "balance": 31048.2,
+            "transactions": [
+                {
+                    "date": "2023-04-15",
+                    "description": "Deposit",
+                    "amount": 34192.49,
+                    "transaction_id": 29287011
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Deposit",
+                    "amount": 21545.82,
+                    "transaction_id": 114080235
+                },
+                {
+                    "date": "2023-06-25",
+                    "description": "Withdrawal",
+                    "amount": 39801.7,
+                    "transaction_id": 7741512
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sarah Miller DDS",
+        "age": 49,
+        "gender": "male",
+        "address": "94299 Hobbs Pass, New Glenda, NM 48653",
+        "phone": "(900)754-5565",
+        "email": "rebecca21@example.org",
+        "account": {
+            "account_number": "2cefc459-0f21-463a-b7ff-bf62cf8f256f",
+            "balance": 10161.59,
+            "transactions": [
+                {
+                    "date": "2024-07-08",
+                    "description": "Deposit",
+                    "amount": 381.04,
+                    "transaction_id": 41939694
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Interest",
+                    "amount": 30992.96,
+                    "transaction_id": 102675587
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Deposit",
+                    "amount": 19004.16,
+                    "transaction_id": 96255698
+                },
+                {
+                    "date": "2023-09-08",
+                    "description": "Deposit",
+                    "amount": 12295.4,
+                    "transaction_id": 16980693
+                }
+            ]
+        }
+    }
+}

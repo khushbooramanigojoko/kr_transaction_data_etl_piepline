@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Bryce Mcpherson",
+        "age": 99,
+        "gender": "female",
+        "address": "1632 Larsen Plains Apt. 871, Bakerview, NC 69645",
+        "phone": "+1-854-451-6907x61207",
+        "email": "bakergerald@example.org",
+        "account": {
+            "account_number": "e8b5eecc-e6b6-4d3c-8fac-7fc00a276b6a",
+            "balance": 9446.18,
+            "transactions": [
+                {
+                    "date": "2024-01-24",
+                    "description": "Deposit",
+                    "amount": 22079.53,
+                    "transaction_id": 85148184
+                }
+            ]
+        }
+    }
+}

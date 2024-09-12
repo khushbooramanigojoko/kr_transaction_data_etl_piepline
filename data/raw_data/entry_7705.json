@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Allison Dodson",
+        "age": 24,
+        "gender": "male",
+        "address": "826 Nelson Greens, Ballshire, WA 13810",
+        "phone": "001-964-244-1802x2334",
+        "email": "fewing@example.net",
+        "account": {
+            "account_number": "3e800f7b-98ee-4b7c-a75e-14db140a22ed",
+            "balance": 23793.79,
+            "transactions": [
+                {
+                    "date": "2022-10-12",
+                    "description": "Withdrawal",
+                    "amount": 48057.07,
+                    "transaction_id": 25394260
+                },
+                {
+                    "date": "2022-11-07",
+                    "description": "Interest",
+                    "amount": 8776.71,
+                    "transaction_id": 52860367
+                },
+                {
+                    "date": "2023-10-29",
+                    "description": "Withdrawal",
+                    "amount": 22149.08,
+                    "transaction_id": 97233256
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Interest",
+                    "amount": 35168.11,
+                    "transaction_id": 58660998
+                },
+                {
+                    "date": "2024-05-28",
+                    "description": "Interest",
+                    "amount": 20838.65,
+                    "transaction_id": 21070420
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 78,
+        "gender": "female",
+        "address": "29009 Raymond Route, Sarahton, PR 76740",
+        "phone": "(768)288-6086x6828",
+        "email": "nhowell@example.org",
+        "account": {
+            "account_number": "a824a3d0-b8cc-444c-a374-7a820468039a",
+            "balance": 42013.6,
+            "transactions": [
+                {
+                    "date": "2024-02-22",
+                    "description": "Withdrawal",
+                    "amount": 4828.83,
+                    "transaction_id": 111971849
+                },
+                {
+                    "date": "2022-11-04",
+                    "description": "Interest",
+                    "amount": -1957.01,
+                    "transaction_id": 47637357
+                },
+                {
+                    "date": "2024-05-12",
+                    "description": "Withdrawal",
+                    "amount": 4298.6,
+                    "transaction_id": 81802457
+                },
+                {
+                    "date": "2024-06-27",
+                    "description": "Withdrawal",
+                    "amount": 86.89,
+                    "transaction_id": 21126141
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Interest",
+                    "amount": -951.71,
+                    "transaction_id": 58696548
+                }
+            ]
+        }
+    }
+}

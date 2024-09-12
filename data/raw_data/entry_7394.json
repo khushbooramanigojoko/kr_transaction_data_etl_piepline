@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michelle Jackson",
+        "age": 41,
+        "gender": "female",
+        "address": "657 Robert Loop Suite 685, New Markberg, MS 96794",
+        "phone": "374.662.7745x00509",
+        "email": "mmartin@example.org",
+        "account": {
+            "account_number": "53ccdadf-a6d2-4464-95bc-b27f0e087241",
+            "balance": 8550.18,
+            "transactions": [
+                {
+                    "date": "2023-06-14",
+                    "description": "Interest",
+                    "amount": 39672.04,
+                    "transaction_id": 25018581
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Deposit",
+                    "amount": 24421.51,
+                    "transaction_id": 4356303
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Withdrawal",
+                    "amount": 31965.29,
+                    "transaction_id": 17962728
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Deposit",
+                    "amount": 33696.85,
+                    "transaction_id": 21115730
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Withdrawal",
+                    "amount": 19744.35,
+                    "transaction_id": 103767644
+                }
+            ]
+        }
+    }
+}

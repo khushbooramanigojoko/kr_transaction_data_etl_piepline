@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Robert Davis",
+        "age": 23,
+        "gender": "female",
+        "address": "550 Ramos Turnpike Suite 001, Kingmouth, WV 04739",
+        "phone": "(336)577-8607",
+        "email": "lowewhitney@example.org",
+        "account": {
+            "account_number": "291b2ac5-33c2-4fab-b912-4e3d6c28f63f",
+            "balance": 16990.56,
+            "transactions": [
+                {
+                    "date": "2023-10-23",
+                    "description": "Withdrawal",
+                    "amount": 39138.46,
+                    "transaction_id": 69670185
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Interest",
+                    "amount": 49153.09,
+                    "transaction_id": 78890271
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Interest",
+                    "amount": 1683.29,
+                    "transaction_id": 103955230
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Withdrawal",
+                    "amount": 47951.97,
+                    "transaction_id": 24600856
+                },
+                {
+                    "date": "2023-03-11",
+                    "description": "Deposit",
+                    "amount": 8021.92,
+                    "transaction_id": 56873852
+                }
+            ]
+        }
+    }
+}

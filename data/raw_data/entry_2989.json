@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Alisha Tucker",
+        "age": 59,
+        "gender": "male",
+        "address": "6815 Ronald Parkways, Marvinchester, PW 31551",
+        "phone": "940.474.2780x199",
+        "email": "sarahmitchell@example.net",
+        "account": {
+            "account_number": "6a547b93-6c68-42b2-8db3-d4c5e474045c",
+            "balance": 39445.58,
+            "transactions": [
+                {
+                    "date": "2022-09-09",
+                    "description": "Deposit",
+                    "amount": 26561.54,
+                    "transaction_id": 62624906
+                },
+                {
+                    "date": "2023-09-28",
+                    "description": "Withdrawal",
+                    "amount": 34489.07,
+                    "transaction_id": 33612765
+                },
+                {
+                    "date": "2023-07-03",
+                    "description": "Withdrawal",
+                    "amount": 35003.92,
+                    "transaction_id": 70220799
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Withdrawal",
+                    "amount": 32034.67,
+                    "transaction_id": 109362409
+                },
+                {
+                    "date": "2023-05-22",
+                    "description": "Deposit",
+                    "amount": 23186.9,
+                    "transaction_id": 95786462
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 41,
+        "gender": "male",
+        "address": "58348 Hall Light Apt. 619, West Laurentown, KS 43321",
+        "phone": "+1-442-781-0757x0669",
+        "email": "sabrinafox@example.org",
+        "account": {
+            "account_number": "7da07d07-727c-45b3-b722-166be347da32",
+            "balance": 44740.36,
+            "transactions": [
+                {
+                    "date": "2023-01-27",
+                    "description": "Interest",
+                    "amount": -476.05,
+                    "transaction_id": 115709090
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Withdrawal",
+                    "amount": -3857.82,
+                    "transaction_id": 104632171
+                }
+            ]
+        }
+    }
+}

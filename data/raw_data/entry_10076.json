@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 86,
+        "gender": "male",
+        "address": "74244 Paula Ports, Anthonystad, LA 41950",
+        "phone": "618.257.6825",
+        "email": "melaniesmith@example.net",
+        "account": {
+            "account_number": "a8cdee0b-c26a-48d3-91a9-bb2fb229ddff",
+            "balance": 20682.89,
+            "transactions": [
+                {
+                    "date": "2024-03-20",
+                    "description": "Withdrawal",
+                    "amount": -2872.25,
+                    "transaction_id": 32379985
+                },
+                {
+                    "date": "2024-08-25",
+                    "description": "Withdrawal",
+                    "amount": -3287.54,
+                    "transaction_id": 38638759
+                }
+            ]
+        }
+    }
+}

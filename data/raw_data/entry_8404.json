@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "John Vazquez",
+        "age": 62,
+        "gender": "female",
+        "address": "1610 James Mount Suite 216, West Andre, NC 64844",
+        "phone": "(889)904-7492x4889",
+        "email": "pmiller@example.org",
+        "account": {
+            "account_number": "e2108518-d4d9-44c6-9b91-809c673b3663",
+            "balance": 15780.76,
+            "transactions": [
+                {
+                    "date": "2023-04-26",
+                    "description": "Deposit",
+                    "amount": 13730.15,
+                    "transaction_id": 112863133
+                },
+                {
+                    "date": "2023-03-18",
+                    "description": "Interest",
+                    "amount": 37529.95,
+                    "transaction_id": 113227075
+                },
+                {
+                    "date": "2022-11-29",
+                    "description": "Interest",
+                    "amount": 21059.26,
+                    "transaction_id": 114750146
+                }
+            ]
+        }
+    }
+}

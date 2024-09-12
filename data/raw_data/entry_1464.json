@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Todd Lewis",
+        "age": 60,
+        "gender": "male",
+        "address": "86088 Guerra Trafficway, West Madeline, MI 11708",
+        "phone": "(585)979-6764",
+        "email": "sanchezrichard@example.org",
+        "account": {
+            "account_number": "5a81bf48-6a79-47ea-b0ff-0a6e8c25f78d",
+            "balance": 17612.27,
+            "transactions": [
+                {
+                    "date": "2024-01-31",
+                    "description": "Withdrawal",
+                    "amount": 44582.1,
+                    "transaction_id": 101438162
+                }
+            ]
+        }
+    }
+}

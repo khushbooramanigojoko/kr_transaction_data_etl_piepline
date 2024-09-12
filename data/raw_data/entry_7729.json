@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kathryn White",
+        "age": 23,
+        "gender": "male",
+        "address": "271 Michael Coves, Port Matthew, TX 26398",
+        "phone": "636-442-5721",
+        "email": "wbyrd@example.com",
+        "account": {
+            "account_number": "a4e191de-ee90-4ce1-979a-9c38b9bcb604",
+            "balance": 24544.13,
+            "transactions": [
+                {
+                    "date": "2024-03-26",
+                    "description": "Deposit",
+                    "amount": 37518.43,
+                    "transaction_id": 28953929
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Deposit",
+                    "amount": 31975.05,
+                    "transaction_id": 81161645
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Withdrawal",
+                    "amount": 37872.11,
+                    "transaction_id": 87195092
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lisa Obrien",
+        "age": 84,
+        "gender": "male",
+        "address": "USS Wells, FPO AA 85674",
+        "phone": "+1-596-428-9344",
+        "email": "jesuschavez@example.org",
+        "account": {
+            "account_number": "42784a3a-6542-41ba-b2a3-54c9ab973eac",
+            "balance": 32800.96,
+            "transactions": [
+                {
+                    "date": "2024-02-17",
+                    "description": "Deposit",
+                    "amount": 22358.42,
+                    "transaction_id": 51914872
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Deposit",
+                    "amount": 28863.88,
+                    "transaction_id": 4804012
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Deposit",
+                    "amount": 38710.0,
+                    "transaction_id": 33474791
+                },
+                {
+                    "date": "2023-02-03",
+                    "description": "Deposit",
+                    "amount": 4309.82,
+                    "transaction_id": 119025270
+                }
+            ]
+        }
+    }
+}

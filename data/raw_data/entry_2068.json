@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amanda Meyers",
+        "age": 53,
+        "gender": "male",
+        "address": "09387 Amy Squares, North David, DC 25312",
+        "phone": "703.477.4253",
+        "email": "samanthataylor@example.org",
+        "account": {
+            "account_number": "ee297444-a0ca-4d1d-9569-b8a427889b39",
+            "balance": 11996.0,
+            "transactions": [
+                {
+                    "date": "2023-09-26",
+                    "description": "Interest",
+                    "amount": 6640.89,
+                    "transaction_id": 95161573
+                },
+                {
+                    "date": "2023-08-26",
+                    "description": "Interest",
+                    "amount": 37012.82,
+                    "transaction_id": 55132103
+                },
+                {
+                    "date": "2023-07-12",
+                    "description": "Deposit",
+                    "amount": 4033.28,
+                    "transaction_id": 69981300
+                },
+                {
+                    "date": "2023-08-07",
+                    "description": "Deposit",
+                    "amount": 26924.03,
+                    "transaction_id": 12940941
+                }
+            ]
+        }
+    }
+}

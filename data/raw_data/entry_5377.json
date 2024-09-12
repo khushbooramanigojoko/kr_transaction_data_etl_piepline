@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sally Gordon",
+        "age": 38,
+        "gender": "male",
+        "address": "871 Cindy Wall Apt. 271, Port Philipburgh, MS 11388",
+        "phone": "001-563-809-9923x322",
+        "email": "weberashley@example.org",
+        "account": {
+            "account_number": "c247f473-f9bb-4964-9952-6fc842745810",
+            "balance": 3696.75,
+            "transactions": [
+                {
+                    "date": "2024-06-20",
+                    "description": "Interest",
+                    "amount": 25303.17,
+                    "transaction_id": 90946799
+                }
+            ]
+        }
+    }
+}

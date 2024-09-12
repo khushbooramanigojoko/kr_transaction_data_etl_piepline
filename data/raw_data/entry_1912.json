@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Aaron Holt",
+        "age": 31,
+        "gender": "male",
+        "address": "676 Patterson Common, Port Laurenfort, LA 71889",
+        "phone": "480-716-6006x87182",
+        "email": "melissa85@example.org",
+        "account": {
+            "account_number": "a6a303cc-20db-47c8-b8f5-9167c449014e",
+            "balance": 13093.93,
+            "transactions": [
+                {
+                    "date": "2024-08-08",
+                    "description": "Deposit",
+                    "amount": 40978.97,
+                    "transaction_id": 58060099
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Interest",
+                    "amount": 5446.96,
+                    "transaction_id": 100745172
+                },
+                {
+                    "date": "2022-11-29",
+                    "description": "Interest",
+                    "amount": 6477.48,
+                    "transaction_id": 104242410
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Withdrawal",
+                    "amount": 885.47,
+                    "transaction_id": 11805719
+                }
+            ]
+        }
+    }
+}

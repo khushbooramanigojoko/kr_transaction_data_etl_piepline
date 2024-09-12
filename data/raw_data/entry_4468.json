@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Rodriguez",
+        "age": 51,
+        "gender": "female",
+        "address": "986 Ayers Square Apt. 211, North Robertchester, VA 96693",
+        "phone": "+1-468-945-2533x47253",
+        "email": "jonesshannon@example.org",
+        "account": {
+            "account_number": "956a8d71-0c83-41c6-bf55-acb7c4a989ad",
+            "balance": 23492.52,
+            "transactions": [
+                {
+                    "date": "2024-04-28",
+                    "description": "Deposit",
+                    "amount": 12349.33,
+                    "transaction_id": 41317873
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Withdrawal",
+                    "amount": 21396.77,
+                    "transaction_id": 77991705
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Deposit",
+                    "amount": 49111.57,
+                    "transaction_id": 42286449
+                },
+                {
+                    "date": "2024-06-27",
+                    "description": "Interest",
+                    "amount": 16037.29,
+                    "transaction_id": 58276411
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Withdrawal",
+                    "amount": 14039.53,
+                    "transaction_id": 43149326
+                }
+            ]
+        }
+    }
+}

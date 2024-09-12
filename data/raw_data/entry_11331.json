@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 32,
+        "gender": "female",
+        "address": "0924 Romero Route, Petersmouth, VA 31556",
+        "phone": "295.661.4127x899",
+        "email": "catherine46@example.com",
+        "account": {
+            "account_number": "8ed3373c-d7a9-4bcf-ad0f-98b0e4f591d9",
+            "balance": 3878.33,
+            "transactions": [
+                {
+                    "date": "2022-10-22",
+                    "description": "Interest",
+                    "amount": 451.99,
+                    "transaction_id": 49209627
+                },
+                {
+                    "date": "2022-09-04",
+                    "description": "Interest",
+                    "amount": 2638.3,
+                    "transaction_id": 18631303
+                }
+            ]
+        }
+    }
+}

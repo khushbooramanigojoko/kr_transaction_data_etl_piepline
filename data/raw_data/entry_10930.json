@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 86,
+        "gender": "male",
+        "address": "543 Erin Stravenue Suite 507, Bookerview, IN 51211",
+        "phone": "773-436-6930x7344",
+        "email": "daviskevin@example.com",
+        "account": {
+            "account_number": "0e2ff0d6-8738-466b-8ac5-c58af3cf9bda",
+            "balance": 21840.23,
+            "transactions": [
+                {
+                    "date": "2023-12-27",
+                    "description": "Interest",
+                    "amount": 4282.76,
+                    "transaction_id": 109111186
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Deposit",
+                    "amount": 3612.48,
+                    "transaction_id": 89794159
+                }
+            ]
+        }
+    }
+}

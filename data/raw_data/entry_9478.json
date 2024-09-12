@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 87,
+        "gender": "male",
+        "address": "64988 Elaine Bridge, Nathanton, ID 41353",
+        "phone": "+1-770-808-2644x87892",
+        "email": "hectorcasey@example.org",
+        "account": {
+            "account_number": "9b7cffa2-415c-4ced-a523-cf73290c2f18",
+            "balance": 46922.09,
+            "transactions": [
+                {
+                    "date": "2023-02-02",
+                    "description": "Interest",
+                    "amount": -2503.64,
+                    "transaction_id": 59498920
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Deposit",
+                    "amount": -729.22,
+                    "transaction_id": 40281449
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Interest",
+                    "amount": -2428.73,
+                    "transaction_id": 3033702
+                },
+                {
+                    "date": "2024-07-09",
+                    "description": "Interest",
+                    "amount": 3901.79,
+                    "transaction_id": 112761159
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Deposit",
+                    "amount": -3502.12,
+                    "transaction_id": 65658156
+                }
+            ]
+        }
+    }
+}

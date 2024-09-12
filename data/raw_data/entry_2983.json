@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Matthew Schneider",
+        "age": 46,
+        "gender": "male",
+        "address": "588 Farmer Underpass Apt. 611, Kaylaport, NV 75133",
+        "phone": "8678117155",
+        "email": "jessicahenderson@example.net",
+        "account": {
+            "account_number": "ce4426b3-07cb-4b67-8721-92ea79b717f0",
+            "balance": 19240.47,
+            "transactions": [
+                {
+                    "date": "2022-11-12",
+                    "description": "Deposit",
+                    "amount": 26956.04,
+                    "transaction_id": 95652568
+                },
+                {
+                    "date": "2023-09-18",
+                    "description": "Interest",
+                    "amount": 47621.92,
+                    "transaction_id": 59695731
+                },
+                {
+                    "date": "2023-08-22",
+                    "description": "Deposit",
+                    "amount": 4602.01,
+                    "transaction_id": 37640088
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Interest",
+                    "amount": 35840.94,
+                    "transaction_id": 117329553
+                },
+                {
+                    "date": "2022-12-28",
+                    "description": "Withdrawal",
+                    "amount": 5548.91,
+                    "transaction_id": 101118458
+                }
+            ]
+        }
+    }
+}

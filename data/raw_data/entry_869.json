@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph Stevens",
+        "age": 41,
+        "gender": "female",
+        "address": "096 Nancy Forge Apt. 301, North David, IA 24853",
+        "phone": "203.852.8904x87241",
+        "email": "ryanjohnson@example.org",
+        "account": {
+            "account_number": "4da2ae81-4ed4-4971-a1fa-a189a4c55bbe",
+            "balance": 16799.07,
+            "transactions": [
+                {
+                    "date": "2023-03-09",
+                    "description": "Withdrawal",
+                    "amount": 8720.8,
+                    "transaction_id": 64521915
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Interest",
+                    "amount": 32706.11,
+                    "transaction_id": 90988625
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Deposit",
+                    "amount": 25716.78,
+                    "transaction_id": 43858804
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Withdrawal",
+                    "amount": 27606.29,
+                    "transaction_id": 87400884
+                }
+            ]
+        }
+    }
+}

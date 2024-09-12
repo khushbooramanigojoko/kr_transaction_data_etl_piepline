@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 77,
+        "gender": "female",
+        "address": "USNV Tate, FPO AE 45262",
+        "phone": "001-255-275-4361x1920",
+        "email": "cwilliams@example.net",
+        "account": {
+            "account_number": "0c20c8f0-6319-4cea-a18e-bb301b149353",
+            "balance": 31208.17,
+            "transactions": [
+                {
+                    "date": "2024-04-14",
+                    "description": "Deposit",
+                    "amount": -2066.07,
+                    "transaction_id": 58619367
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Interest",
+                    "amount": -1290.19,
+                    "transaction_id": 97950383
+                }
+            ]
+        }
+    }
+}

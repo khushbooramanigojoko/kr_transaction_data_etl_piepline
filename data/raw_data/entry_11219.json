@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "female",
+        "address": "845 Matthew Harbor, Ryantown, AK 89485",
+        "phone": "294.372.7593",
+        "email": "zmoody@example.com",
+        "account": {
+            "account_number": "869e31d9-1716-4278-8e3c-1e04ea3d2c95",
+            "balance": 36508.09,
+            "transactions": [
+                {
+                    "date": "2023-04-02",
+                    "description": "Deposit",
+                    "amount": -1128.84,
+                    "transaction_id": 11368771
+                }
+            ]
+        }
+    }
+}

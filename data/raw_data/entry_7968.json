@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Douglas Rivera",
+        "age": 50,
+        "gender": "female",
+        "address": "59293 Jordan Inlet Suite 942, New Natashaborough, VA 03171",
+        "phone": "+1-755-349-8871x930",
+        "email": "amberyoung@example.com",
+        "account": {
+            "account_number": "c2c1b84b-abd8-485b-8ac6-fec5056787b1",
+            "balance": 15601.08,
+            "transactions": [
+                {
+                    "date": "2023-04-04",
+                    "description": "Withdrawal",
+                    "amount": 27724.51,
+                    "transaction_id": 111841159
+                },
+                {
+                    "date": "2023-12-05",
+                    "description": "Withdrawal",
+                    "amount": 46601.45,
+                    "transaction_id": 95941034
+                },
+                {
+                    "date": "2023-03-08",
+                    "description": "Withdrawal",
+                    "amount": 5325.49,
+                    "transaction_id": 101130250
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Withdrawal",
+                    "amount": 37359.84,
+                    "transaction_id": 29303153
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nicholas Galloway",
+        "age": 68,
+        "gender": "female",
+        "address": "8366 Welch Viaduct, Emilyland, GU 46256",
+        "phone": "896-617-5829x31545",
+        "email": "amber05@example.net",
+        "account": {
+            "account_number": "75d3cb12-f843-4924-8cd0-91a898cf2cf5",
+            "balance": 19693.05,
+            "transactions": [
+                {
+                    "date": "2023-02-25",
+                    "description": "Interest",
+                    "amount": 41661.17,
+                    "transaction_id": 90361712
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Deposit",
+                    "amount": 43540.77,
+                    "transaction_id": 12410029
+                },
+                {
+                    "date": "2022-11-04",
+                    "description": "Withdrawal",
+                    "amount": 39401.22,
+                    "transaction_id": 113295777
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Interest",
+                    "amount": 24009.05,
+                    "transaction_id": 97931247
+                }
+            ]
+        }
+    }
+}

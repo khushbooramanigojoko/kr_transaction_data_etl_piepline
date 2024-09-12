@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Hector Chandler",
+        "age": 84,
+        "gender": "female",
+        "address": "7215 Macias Radial, Woodside, MS 68399",
+        "phone": "(300)426-4377",
+        "email": "kathrynwilliams@example.com",
+        "account": {
+            "account_number": "42dfa682-157e-4117-a599-c3a1e4a25e19",
+            "balance": 43935.06,
+            "transactions": [
+                {
+                    "date": "2022-12-11",
+                    "description": "Deposit",
+                    "amount": 23018.22,
+                    "transaction_id": 30334430
+                },
+                {
+                    "date": "2024-05-26",
+                    "description": "Deposit",
+                    "amount": 37740.61,
+                    "transaction_id": 28442264
+                },
+                {
+                    "date": "2023-04-10",
+                    "description": "Deposit",
+                    "amount": 40726.62,
+                    "transaction_id": 9576699
+                },
+                {
+                    "date": "2023-09-24",
+                    "description": "Interest",
+                    "amount": 44202.78,
+                    "transaction_id": 91380860
+                }
+            ]
+        }
+    }
+}

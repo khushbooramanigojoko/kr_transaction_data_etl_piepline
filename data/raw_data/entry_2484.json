@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Brown",
+        "age": 80,
+        "gender": "male",
+        "address": "42417 Heather Expressway Apt. 431, West Davidmouth, IN 36744",
+        "phone": "433.300.1476x82801",
+        "email": "scott22@example.org",
+        "account": {
+            "account_number": "a1240a8b-3b97-4892-afbc-a633e86ee229",
+            "balance": 15610.3,
+            "transactions": [
+                {
+                    "date": "2023-10-21",
+                    "description": "Deposit",
+                    "amount": 43688.43,
+                    "transaction_id": 55540471
+                },
+                {
+                    "date": "2023-08-17",
+                    "description": "Deposit",
+                    "amount": 15924.93,
+                    "transaction_id": 35352499
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Deposit",
+                    "amount": 47980.23,
+                    "transaction_id": 84301813
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Withdrawal",
+                    "amount": 47201.59,
+                    "transaction_id": 19611179
+                },
+                {
+                    "date": "2023-03-26",
+                    "description": "Withdrawal",
+                    "amount": 40250.52,
+                    "transaction_id": 31230488
+                }
+            ]
+        }
+    }
+}

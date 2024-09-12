@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 46,
+        "gender": "female",
+        "address": "448 Meadows Prairie, New Lisa, MP 84335",
+        "phone": "001-611-529-0433x651",
+        "email": "jjordan@example.org",
+        "account": {
+            "account_number": "423d0b91-3cc6-4544-b1fb-412553703a75",
+            "balance": 32007.76,
+            "transactions": [
+                {
+                    "date": "2024-09-01",
+                    "description": "Interest",
+                    "amount": 646.18,
+                    "transaction_id": 12751818
+                },
+                {
+                    "date": "2024-06-02",
+                    "description": "Interest",
+                    "amount": 2348.05,
+                    "transaction_id": 96923446
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Deposit",
+                    "amount": 4648.49,
+                    "transaction_id": 74778340
+                }
+            ]
+        }
+    }
+}

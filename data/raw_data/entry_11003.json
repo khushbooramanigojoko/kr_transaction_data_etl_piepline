@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "male",
+        "address": "57476 Nicholas Mountain, South Laura, TX 84360",
+        "phone": "001-585-565-3322x32609",
+        "email": "michael87@example.com",
+        "account": {
+            "account_number": "b928c056-bc5b-4803-b417-cbf999b01223",
+            "balance": 15278.27,
+            "transactions": [
+                {
+                    "date": "2023-10-21",
+                    "description": "Deposit",
+                    "amount": -1943.3,
+                    "transaction_id": 84162496
+                },
+                {
+                    "date": "2023-04-19",
+                    "description": "Deposit",
+                    "amount": 2197.14,
+                    "transaction_id": 56614177
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Deposit",
+                    "amount": -3233.66,
+                    "transaction_id": 23466257
+                },
+                {
+                    "date": "2024-04-07",
+                    "description": "Interest",
+                    "amount": -739.86,
+                    "transaction_id": 75289848
+                },
+                {
+                    "date": "2022-11-18",
+                    "description": "Deposit",
+                    "amount": -229.15,
+                    "transaction_id": 19032078
+                }
+            ]
+        }
+    }
+}

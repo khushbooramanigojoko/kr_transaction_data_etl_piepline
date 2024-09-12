@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 72,
+        "gender": "female",
+        "address": "65183 Johnston Islands, Port Melvinchester, WA 75446",
+        "phone": "237-422-7062",
+        "email": "hwise@example.org",
+        "account": {
+            "account_number": "bc087cf0-423c-4e03-b55b-adc329133901",
+            "balance": 25317.66,
+            "transactions": [
+                {
+                    "date": "2024-01-14",
+                    "description": "Interest",
+                    "amount": -4573.32,
+                    "transaction_id": 50242525
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Interest",
+                    "amount": 4104.79,
+                    "transaction_id": 15769110
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Deposit",
+                    "amount": 3567.19,
+                    "transaction_id": 64643395
+                },
+                {
+                    "date": "2023-04-19",
+                    "description": "Withdrawal",
+                    "amount": 1679.25,
+                    "transaction_id": 70120567
+                },
+                {
+                    "date": "2023-12-13",
+                    "description": "Interest",
+                    "amount": -3243.88,
+                    "transaction_id": 102473819
+                }
+            ]
+        }
+    }
+}

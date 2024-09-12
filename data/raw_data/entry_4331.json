@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Dominique Smith",
+        "age": 39,
+        "gender": "female",
+        "address": "40270 Miller Walks, Anthonytown, IL 61577",
+        "phone": "288.806.0143x2979",
+        "email": "chaas@example.org",
+        "account": {
+            "account_number": "395419d5-249c-4c23-9043-74f02d63d35b",
+            "balance": 8609.0,
+            "transactions": [
+                {
+                    "date": "2024-03-12",
+                    "description": "Withdrawal",
+                    "amount": 31661.35,
+                    "transaction_id": 110997506
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Interest",
+                    "amount": 32702.46,
+                    "transaction_id": 70898090
+                }
+            ]
+        }
+    }
+}

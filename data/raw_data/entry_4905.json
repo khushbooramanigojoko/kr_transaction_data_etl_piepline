@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Cynthia Booker",
+        "age": 96,
+        "gender": "female",
+        "address": "025 Lopez Prairie, Jamesborough, MP 32522",
+        "phone": "415.519.5102x87313",
+        "email": "cheryl80@example.org",
+        "account": {
+            "account_number": "436f6476-3296-4e93-becc-48238fc373b9",
+            "balance": 19094.22,
+            "transactions": [
+                {
+                    "date": "2023-10-18",
+                    "description": "Withdrawal",
+                    "amount": 21766.98,
+                    "transaction_id": 55029414
+                },
+                {
+                    "date": "2023-06-28",
+                    "description": "Interest",
+                    "amount": 24967.09,
+                    "transaction_id": 96479706
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Interest",
+                    "amount": 12991.29,
+                    "transaction_id": 13327450
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Deposit",
+                    "amount": 48630.77,
+                    "transaction_id": 97355242
+                },
+                {
+                    "date": "2023-12-13",
+                    "description": "Interest",
+                    "amount": 15849.47,
+                    "transaction_id": 12660000
+                }
+            ]
+        }
+    }
+}

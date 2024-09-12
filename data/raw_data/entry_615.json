@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Anthony Howard",
+        "age": 38,
+        "gender": "male",
+        "address": "32994 Riggs Tunnel, Martinezfurt, VT 95620",
+        "phone": "509.547.3126x78680",
+        "email": "greg62@example.com",
+        "account": {
+            "account_number": "39601af6-c956-4e7a-9427-7dce92c91296",
+            "balance": 14528.75,
+            "transactions": [
+                {
+                    "date": "2023-02-02",
+                    "description": "Deposit",
+                    "amount": 40489.65,
+                    "transaction_id": 26576621
+                },
+                {
+                    "date": "2022-10-20",
+                    "description": "Interest",
+                    "amount": 47433.93,
+                    "transaction_id": 14943527
+                }
+            ]
+        }
+    }
+}

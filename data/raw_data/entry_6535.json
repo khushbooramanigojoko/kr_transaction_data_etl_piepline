@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Bobby Simpson",
+        "age": 31,
+        "gender": "female",
+        "address": "514 Robert Rest, West Lawrencemouth, IN 34906",
+        "phone": "+1-604-821-5736x548",
+        "email": "waltonrichard@example.org",
+        "account": {
+            "account_number": "e732a665-0919-47c1-b753-d35015c2017a",
+            "balance": 28330.73,
+            "transactions": [
+                {
+                    "date": "2022-09-17",
+                    "description": "Deposit",
+                    "amount": 18292.63,
+                    "transaction_id": 81705547
+                },
+                {
+                    "date": "2023-05-27",
+                    "description": "Interest",
+                    "amount": 29919.67,
+                    "transaction_id": 28932040
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Withdrawal",
+                    "amount": 17886.03,
+                    "transaction_id": 110506732
+                }
+            ]
+        }
+    }
+}

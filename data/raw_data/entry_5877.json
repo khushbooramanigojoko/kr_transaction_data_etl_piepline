@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Rachel Young",
+        "age": 49,
+        "gender": "male",
+        "address": "26729 Hopkins Plain, Nunezbury, HI 60950",
+        "phone": "+1-480-392-7548",
+        "email": "nwright@example.org",
+        "account": {
+            "account_number": "b813821e-8401-49b8-ab9f-02d565a0c253",
+            "balance": 5362.17,
+            "transactions": [
+                {
+                    "date": "2024-03-17",
+                    "description": "Interest",
+                    "amount": 31788.62,
+                    "transaction_id": 15999347
+                },
+                {
+                    "date": "2022-09-16",
+                    "description": "Withdrawal",
+                    "amount": 47133.43,
+                    "transaction_id": 56356685
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Interest",
+                    "amount": 13572.59,
+                    "transaction_id": 10193453
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Withdrawal",
+                    "amount": 48425.38,
+                    "transaction_id": 21470593
+                }
+            ]
+        }
+    }
+}

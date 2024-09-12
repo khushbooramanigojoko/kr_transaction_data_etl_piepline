@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Karen Brady",
+        "age": 72,
+        "gender": "male",
+        "address": "42218 Jasmin Grove Suite 157, West Alexisberg, MT 56701",
+        "phone": "554.590.3153x5204",
+        "email": "josephjones@example.org",
+        "account": {
+            "account_number": "547d2443-c94a-4ba5-8040-6332810cfdae",
+            "balance": 9221.94,
+            "transactions": [
+                {
+                    "date": "2024-04-07",
+                    "description": "Deposit",
+                    "amount": 26271.84,
+                    "transaction_id": 80231958
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Interest",
+                    "amount": 42855.2,
+                    "transaction_id": 22981138
+                },
+                {
+                    "date": "2022-11-27",
+                    "description": "Interest",
+                    "amount": 26701.77,
+                    "transaction_id": 119522666
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Interest",
+                    "amount": 2484.21,
+                    "transaction_id": 19073221
+                },
+                {
+                    "date": "2023-01-13",
+                    "description": "Deposit",
+                    "amount": 27593.73,
+                    "transaction_id": 98780004
+                }
+            ]
+        }
+    }
+}

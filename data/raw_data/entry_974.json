@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "James Jacobson",
+        "age": 61,
+        "gender": "female",
+        "address": "4591 Nancy Prairie, Lopezberg, VI 25357",
+        "phone": "930.255.1142",
+        "email": "dawn27@example.org",
+        "account": {
+            "account_number": "47aea286-ddc2-43d2-842f-b85d5bbaacd7",
+            "balance": 16833.49,
+            "transactions": [
+                {
+                    "date": "2023-08-24",
+                    "description": "Interest",
+                    "amount": 35782.81,
+                    "transaction_id": 29954706
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Deposit",
+                    "amount": 31431.44,
+                    "transaction_id": 75871075
+                }
+            ]
+        }
+    }
+}

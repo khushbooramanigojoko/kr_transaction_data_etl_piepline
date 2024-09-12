@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 53,
+        "gender": "female",
+        "address": "027 Bautista Pass, New Joseside, OH 27176",
+        "phone": "001-479-363-9963x8988",
+        "email": "sophiawilson@example.org",
+        "account": {
+            "account_number": "5ca8bdc3-12b9-4337-a90f-2b46f1f569f0",
+            "balance": 46504.54,
+            "transactions": [
+                {
+                    "date": "2023-04-06",
+                    "description": "Deposit",
+                    "amount": -2033.84,
+                    "transaction_id": 109582425
+                },
+                {
+                    "date": "2024-01-16",
+                    "description": "Withdrawal",
+                    "amount": -4225.81,
+                    "transaction_id": 77847728
+                }
+            ]
+        }
+    }
+}

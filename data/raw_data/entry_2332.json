@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Robin Simmons",
+        "age": 39,
+        "gender": "male",
+        "address": "127 Armstrong Parkway Apt. 659, North Melissa, AR 57838",
+        "phone": "917-941-0269x691",
+        "email": "brian18@example.net",
+        "account": {
+            "account_number": "8c2f58d4-bab4-477a-81a3-d0cbefafc79a",
+            "balance": 37006.71,
+            "transactions": [
+                {
+                    "date": "2023-06-02",
+                    "description": "Withdrawal",
+                    "amount": 24885.35,
+                    "transaction_id": 77528624
+                }
+            ]
+        }
+    }
+}

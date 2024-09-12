@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Wyatt Sutton",
+        "age": 28,
+        "gender": "female",
+        "address": "32557 Salas Via Suite 244, Jamesstad, LA 07683",
+        "phone": "666.574.7359x51308",
+        "email": "jonathonwright@example.org",
+        "account": {
+            "account_number": "98109b6e-fc65-49be-a457-0f125f7aebe2",
+            "balance": 37347.18,
+            "transactions": [
+                {
+                    "date": "2023-09-07",
+                    "description": "Interest",
+                    "amount": 25147.45,
+                    "transaction_id": 96154638
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Interest",
+                    "amount": 2942.96,
+                    "transaction_id": 5678634
+                }
+            ]
+        }
+    }
+}

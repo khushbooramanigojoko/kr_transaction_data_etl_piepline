@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "James Owens",
+        "age": 49,
+        "gender": "female",
+        "address": "22211 Abigail Pass, Port Tonya, MH 61303",
+        "phone": "917-889-0620",
+        "email": "jamesschroeder@example.com",
+        "account": {
+            "account_number": "8f529533-6462-4b45-9bb4-be58b6e23d62",
+            "balance": 20979.62,
+            "transactions": [
+                {
+                    "date": "2024-07-14",
+                    "description": "Withdrawal",
+                    "amount": 26704.52,
+                    "transaction_id": 61745919
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jeffrey Chavez",
+        "age": 20,
+        "gender": "male",
+        "address": "7182 Tanner Spring, South Hayden, NH 20799",
+        "phone": "8737891258",
+        "email": "amanda19@example.org",
+        "account": {
+            "account_number": "8ca42f4f-5b22-4716-abaa-b83f5071a0ad",
+            "balance": 13206.96,
+            "transactions": [
+                {
+                    "date": "2024-01-03",
+                    "description": "Interest",
+                    "amount": 9159.82,
+                    "transaction_id": 8211696
+                },
+                {
+                    "date": "2022-12-26",
+                    "description": "Deposit",
+                    "amount": 1477.36,
+                    "transaction_id": 119511103
+                },
+                {
+                    "date": "2023-02-03",
+                    "description": "Withdrawal",
+                    "amount": 25435.45,
+                    "transaction_id": 42434527
+                },
+                {
+                    "date": "2023-12-30",
+                    "description": "Withdrawal",
+                    "amount": 31258.61,
+                    "transaction_id": 113280667
+                },
+                {
+                    "date": "2023-05-25",
+                    "description": "Interest",
+                    "amount": 6041.4,
+                    "transaction_id": 72875762
+                }
+            ]
+        }
+    }
+}

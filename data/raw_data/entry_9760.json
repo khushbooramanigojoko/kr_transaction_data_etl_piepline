@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 26,
+        "gender": "male",
+        "address": "293 Marshall Greens Apt. 712, Stevenborough, MS 63269",
+        "phone": "001-523-831-7284",
+        "email": "dbrandt@example.com",
+        "account": {
+            "account_number": "0233b795-94a2-4e80-aa3d-951c081cc81a",
+            "balance": 21714.48,
+            "transactions": [
+                {
+                    "date": "2022-10-26",
+                    "description": "Interest",
+                    "amount": 617.56,
+                    "transaction_id": 94162475
+                }
+            ]
+        }
+    }
+}

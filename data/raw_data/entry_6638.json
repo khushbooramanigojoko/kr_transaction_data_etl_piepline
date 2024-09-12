@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stephanie Miller",
+        "age": 58,
+        "gender": "female",
+        "address": "43090 Mason Gardens Suite 667, East Christinaview, NM 30613",
+        "phone": "420-593-9520",
+        "email": "molson@example.net",
+        "account": {
+            "account_number": "5be9e5a6-00e1-4613-b36b-1294e9241765",
+            "balance": 44537.19,
+            "transactions": [
+                {
+                    "date": "2023-09-27",
+                    "description": "Interest",
+                    "amount": 16337.39,
+                    "transaction_id": 63746501
+                }
+            ]
+        }
+    }
+}

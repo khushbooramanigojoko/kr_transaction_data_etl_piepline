@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Brady Banks",
+        "age": 21,
+        "gender": "male",
+        "address": "94471 Jennifer Brooks, Stoneview, AL 85939",
+        "phone": "+1-853-349-0003",
+        "email": "gharmon@example.org",
+        "account": {
+            "account_number": "7747c7b4-1451-4de7-bf28-59fe12f698b2",
+            "balance": 30762.27,
+            "transactions": [
+                {
+                    "date": "2024-01-05",
+                    "description": "Interest",
+                    "amount": 3007.72,
+                    "transaction_id": 37619077
+                },
+                {
+                    "date": "2023-02-03",
+                    "description": "Withdrawal",
+                    "amount": 41462.42,
+                    "transaction_id": 16117050
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Interest",
+                    "amount": 830.74,
+                    "transaction_id": 51451995
+                }
+            ]
+        }
+    }
+}

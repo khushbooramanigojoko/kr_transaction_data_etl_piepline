@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mark Conner",
+        "age": 90,
+        "gender": "male",
+        "address": "724 Johnson Vista, New Conniechester, TN 48664",
+        "phone": "604-460-5060x400",
+        "email": "rodney25@example.org",
+        "account": {
+            "account_number": "f3cb1f21-7ee8-4a11-9399-2a1602243dda",
+            "balance": 1735.85,
+            "transactions": [
+                {
+                    "date": "2024-03-09",
+                    "description": "Interest",
+                    "amount": 17998.45,
+                    "transaction_id": 88063825
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Withdrawal",
+                    "amount": 49609.62,
+                    "transaction_id": 86202530
+                }
+            ]
+        }
+    }
+}

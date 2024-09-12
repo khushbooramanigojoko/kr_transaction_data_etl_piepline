@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lori Ellis",
+        "age": 26,
+        "gender": "female",
+        "address": "4386 Frey River Suite 293, Douglasborough, FL 41459",
+        "phone": "(943)604-9031x584",
+        "email": "jody08@example.com",
+        "account": {
+            "account_number": "4485bc34-089b-4545-9fcf-6d1796654717",
+            "balance": 3632.48,
+            "transactions": [
+                {
+                    "date": "2022-12-07",
+                    "description": "Interest",
+                    "amount": 2246.35,
+                    "transaction_id": 52721607
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Withdrawal",
+                    "amount": 5160.01,
+                    "transaction_id": 116904879
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Andrea Hernandez",
+        "age": 61,
+        "gender": "female",
+        "address": "660 Donald Roads Apt. 461, Port Laura, TX 79440",
+        "phone": "323.318.6874x043",
+        "email": "chenry@example.org",
+        "account": {
+            "account_number": "a4392ae2-ca33-4d43-996c-2756be254dc0",
+            "balance": 39749.65,
+            "transactions": [
+                {
+                    "date": "2024-05-01",
+                    "description": "Interest",
+                    "amount": 31965.85,
+                    "transaction_id": 52546509
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Deposit",
+                    "amount": 140.7,
+                    "transaction_id": 42572901
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Edward Mckay",
+        "age": 79,
+        "gender": "male",
+        "address": "7794 Durham Ridges, Rachelchester, CA 94241",
+        "phone": "472.471.3336x62313",
+        "email": "jonesbethany@example.net",
+        "account": {
+            "account_number": "4acca29a-b3b9-4780-aeee-bd2a71f67205",
+            "balance": 37010.66,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Deposit",
+                    "amount": 43496.71,
+                    "transaction_id": 28840705
+                }
+            ]
+        }
+    }
+}

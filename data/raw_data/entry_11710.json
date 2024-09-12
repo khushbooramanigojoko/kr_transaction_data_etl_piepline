@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dustin Moore",
+        "age": 46,
+        "gender": "female",
+        "address": "PSC 4599, Box 8238, APO AP 00505",
+        "phone": "+1-351-324-6364",
+        "email": "marissa01@example.com",
+        "account": {
+            "account_number": "610fc20c-82be-4d61-8758-4d894467e832",
+            "balance": -8980.98,
+            "transactions": [
+                {
+                    "date": "2022-11-10",
+                    "description": "Deposit",
+                    "amount": 2459.97,
+                    "transaction_id": 2432680
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Deposit",
+                    "amount": -3962.28,
+                    "transaction_id": 43649908
+                },
+                {
+                    "date": "2024-02-21",
+                    "description": "Withdrawal",
+                    "amount": -1467.13,
+                    "transaction_id": 85906425
+                },
+                {
+                    "date": "2023-01-07",
+                    "description": "Deposit",
+                    "amount": 4031.95,
+                    "transaction_id": 36954676
+                },
+                {
+                    "date": "2023-07-19",
+                    "description": "Interest",
+                    "amount": -3774.02,
+                    "transaction_id": 83686946
+                }
+            ]
+        }
+    }
+}

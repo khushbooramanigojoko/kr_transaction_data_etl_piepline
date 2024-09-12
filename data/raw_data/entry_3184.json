@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Baird",
+        "age": 86,
+        "gender": "male",
+        "address": "3268 Lisa Keys, West Jessicafort, ND 95276",
+        "phone": "932-654-5843x32514",
+        "email": "johnstoncynthia@example.org",
+        "account": {
+            "account_number": "fa013f24-801f-4c96-b2dc-32669771d6ba",
+            "balance": 9520.95,
+            "transactions": [
+                {
+                    "date": "2024-07-14",
+                    "description": "Interest",
+                    "amount": 48587.74,
+                    "transaction_id": 78077488
+                },
+                {
+                    "date": "2023-03-23",
+                    "description": "Withdrawal",
+                    "amount": 27555.35,
+                    "transaction_id": 42833534
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Deposit",
+                    "amount": 5460.3,
+                    "transaction_id": 11048260
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Interest",
+                    "amount": 42407.11,
+                    "transaction_id": 43834955
+                }
+            ]
+        }
+    }
+}

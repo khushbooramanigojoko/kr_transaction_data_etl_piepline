@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alexandra Villegas",
+        "age": 70,
+        "gender": "male",
+        "address": "429 Hall Cliffs Suite 400, South Jaredburgh, LA 89844",
+        "phone": "9428928448",
+        "email": "fdavidson@example.net",
+        "account": {
+            "account_number": "d4786456-9323-47e5-9945-c80fadd31a21",
+            "balance": 37473.39,
+            "transactions": [
+                {
+                    "date": "2024-02-13",
+                    "description": "Deposit",
+                    "amount": 4617.17,
+                    "transaction_id": 57358348
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Deposit",
+                    "amount": 29316.99,
+                    "transaction_id": 32941438
+                },
+                {
+                    "date": "2023-07-10",
+                    "description": "Deposit",
+                    "amount": 43434.78,
+                    "transaction_id": 22609963
+                },
+                {
+                    "date": "2022-10-12",
+                    "description": "Withdrawal",
+                    "amount": 1575.52,
+                    "transaction_id": 114947849
+                }
+            ]
+        }
+    }
+}

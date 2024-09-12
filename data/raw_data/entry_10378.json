@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 96,
+        "gender": "female",
+        "address": "PSC 6683, Box 4819, APO AA 78116",
+        "phone": "796.367.3111",
+        "email": "medinaapril@example.net",
+        "account": {
+            "account_number": "448c8861-7cf2-4656-958b-d9b079ba1c55",
+            "balance": 38371.35,
+            "transactions": [
+                {
+                    "date": "2022-11-02",
+                    "description": "Deposit",
+                    "amount": -530.64,
+                    "transaction_id": 36375231
+                },
+                {
+                    "date": "2023-01-06",
+                    "description": "Withdrawal",
+                    "amount": 1156.27,
+                    "transaction_id": 64544597
+                },
+                {
+                    "date": "2023-05-15",
+                    "description": "Deposit",
+                    "amount": -4079.61,
+                    "transaction_id": 30095254
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Deposit",
+                    "amount": -891.88,
+                    "transaction_id": 112992176
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Withdrawal",
+                    "amount": -2938.76,
+                    "transaction_id": 31249340
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mr. Thomas Allen",
+        "age": 65,
+        "gender": "male",
+        "address": "6294 Rhonda Tunnel, Alantown, AL 01092",
+        "phone": "+1-328-890-8257x022",
+        "email": "baldwinjonathan@example.org",
+        "account": {
+            "account_number": "f8948859-1e82-4697-97ed-63c2f7b74ff2",
+            "balance": 6737.0,
+            "transactions": [
+                {
+                    "date": "2023-11-08",
+                    "description": "Deposit",
+                    "amount": 26849.79,
+                    "transaction_id": 11732989
+                },
+                {
+                    "date": "2023-10-29",
+                    "description": "Interest",
+                    "amount": 7988.02,
+                    "transaction_id": 92734643
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Deposit",
+                    "amount": 18570.61,
+                    "transaction_id": 86758825
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Interest",
+                    "amount": 45094.0,
+                    "transaction_id": 83476091
+                },
+                {
+                    "date": "2024-07-04",
+                    "description": "Deposit",
+                    "amount": 26815.23,
+                    "transaction_id": 45959878
+                }
+            ]
+        }
+    }
+}

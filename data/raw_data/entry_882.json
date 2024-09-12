@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Scott Walters",
+        "age": 34,
+        "gender": "male",
+        "address": "7341 Thornton Mill, Port Melissa, WI 52497",
+        "phone": "220-530-2415",
+        "email": "hendrixsusan@example.com",
+        "account": {
+            "account_number": "0dd6539c-9f46-4b6d-b8c5-3959d24c776c",
+            "balance": 36747.94,
+            "transactions": [
+                {
+                    "date": "2023-02-04",
+                    "description": "Withdrawal",
+                    "amount": 32620.67,
+                    "transaction_id": 35323874
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Interest",
+                    "amount": 20164.38,
+                    "transaction_id": 11195170
+                },
+                {
+                    "date": "2023-01-27",
+                    "description": "Withdrawal",
+                    "amount": 2172.43,
+                    "transaction_id": 19166922
+                }
+            ]
+        }
+    }
+}

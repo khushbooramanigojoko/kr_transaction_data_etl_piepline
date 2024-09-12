@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mary White",
+        "age": 25,
+        "gender": "male",
+        "address": "280 Jones Forges Suite 942, Port Allenfurt, SC 13529",
+        "phone": "(467)446-6673x42386",
+        "email": "markgarcia@example.net",
+        "account": {
+            "account_number": "41962d64-16dd-4157-816c-1e7132f87b0f",
+            "balance": 9812.59,
+            "transactions": [
+                {
+                    "date": "2023-04-30",
+                    "description": "Deposit",
+                    "amount": 6244.42,
+                    "transaction_id": 21032276
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Withdrawal",
+                    "amount": 48127.37,
+                    "transaction_id": 101379156
+                },
+                {
+                    "date": "2024-07-09",
+                    "description": "Interest",
+                    "amount": 23831.07,
+                    "transaction_id": 114174098
+                }
+            ]
+        }
+    }
+}

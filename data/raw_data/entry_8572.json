@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kimberly Howard",
+        "age": 95,
+        "gender": "female",
+        "address": "307 Swanson Stream Suite 551, Parksmouth, MS 53015",
+        "phone": "001-846-219-1701x2967",
+        "email": "watsondaniel@example.net",
+        "account": {
+            "account_number": "49aaee8e-5f30-4ab4-9f8f-e174056e49f7",
+            "balance": 11961.35,
+            "transactions": [
+                {
+                    "date": "2024-02-27",
+                    "description": "Deposit",
+                    "amount": 37378.55,
+                    "transaction_id": 49437404
+                }
+            ]
+        }
+    }
+}

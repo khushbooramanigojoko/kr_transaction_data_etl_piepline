@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Shawn Strong",
+        "age": 33,
+        "gender": "female",
+        "address": "3255 Rollins Cove Apt. 496, Johnsonville, DC 48361",
+        "phone": "+1-681-454-1265x21795",
+        "email": "michelle49@example.com",
+        "account": {
+            "account_number": "37ee3a91-184d-4f58-becd-43fbe443d442",
+            "balance": 26017.55,
+            "transactions": [
+                {
+                    "date": "2023-05-30",
+                    "description": "Interest",
+                    "amount": 41124.4,
+                    "transaction_id": 79155130
+                },
+                {
+                    "date": "2024-06-29",
+                    "description": "Deposit",
+                    "amount": 13602.19,
+                    "transaction_id": 23954685
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Deposit",
+                    "amount": 17647.35,
+                    "transaction_id": 15249183
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Withdrawal",
+                    "amount": 29443.57,
+                    "transaction_id": 44896264
+                }
+            ]
+        }
+    }
+}

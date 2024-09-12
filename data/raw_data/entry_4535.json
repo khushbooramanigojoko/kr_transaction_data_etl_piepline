@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Daniel Williams",
+        "age": 40,
+        "gender": "female",
+        "address": "9946 Flowers Landing Apt. 927, Jenniferville, NV 93623",
+        "phone": "(209)893-6540x6719",
+        "email": "frenchyvonne@example.com",
+        "account": {
+            "account_number": "986472db-5253-4c04-96d8-6a0aa96c44d1",
+            "balance": 1619.25,
+            "transactions": [
+                {
+                    "date": "2024-02-07",
+                    "description": "Deposit",
+                    "amount": 11718.62,
+                    "transaction_id": 42540888
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Deposit",
+                    "amount": 32656.63,
+                    "transaction_id": 100531973
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Interest",
+                    "amount": 41344.37,
+                    "transaction_id": 73457891
+                },
+                {
+                    "date": "2023-12-06",
+                    "description": "Deposit",
+                    "amount": 47922.55,
+                    "transaction_id": 112241257
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Austin Jones",
+        "age": 52,
+        "gender": "female",
+        "address": "83969 Matthew Branch, Lake Kathryn, VI 75323",
+        "phone": "(230)455-8029",
+        "email": "hbrown@example.com",
+        "account": {
+            "account_number": "6e51f64d-cf54-4b76-86b2-f14a62137956",
+            "balance": 6097.95,
+            "transactions": [
+                {
+                    "date": "2022-09-22",
+                    "description": "Withdrawal",
+                    "amount": 35576.12,
+                    "transaction_id": 81810595
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Deposit",
+                    "amount": 18098.23,
+                    "transaction_id": 69689822
+                }
+            ]
+        }
+    }
+}

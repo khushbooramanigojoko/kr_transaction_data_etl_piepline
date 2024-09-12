@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 80,
+        "gender": "female",
+        "address": "Unit 9568 Box 0514, DPO AE 95372",
+        "phone": "(770)535-2155x121",
+        "email": "hmiller@example.org",
+        "account": {
+            "account_number": "b297b884-5bf6-47ed-ac0b-da9f4ddf4601",
+            "balance": 32699.76,
+            "transactions": [
+                {
+                    "date": "2024-05-29",
+                    "description": "Deposit",
+                    "amount": 3615.0,
+                    "transaction_id": 111840134
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Interest",
+                    "amount": -4087.38,
+                    "transaction_id": 103013300
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Deposit",
+                    "amount": 2171.18,
+                    "transaction_id": 67109797
+                }
+            ]
+        }
+    }
+}

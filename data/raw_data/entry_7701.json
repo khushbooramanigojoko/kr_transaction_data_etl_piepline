@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nathan Brown",
+        "age": 45,
+        "gender": "male",
+        "address": "042 Lewis Field Suite 464, Jamesstad, SD 10318",
+        "phone": "885.481.4568x76702",
+        "email": "cmathews@example.com",
+        "account": {
+            "account_number": "bd3de637-9779-4e11-a51c-5f035d07f747",
+            "balance": 37979.79,
+            "transactions": [
+                {
+                    "date": "2023-02-19",
+                    "description": "Withdrawal",
+                    "amount": 32749.94,
+                    "transaction_id": 84372912
+                },
+                {
+                    "date": "2023-03-08",
+                    "description": "Deposit",
+                    "amount": 41148.72,
+                    "transaction_id": 80746465
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Interest",
+                    "amount": 22988.27,
+                    "transaction_id": 19963366
+                },
+                {
+                    "date": "2023-02-10",
+                    "description": "Interest",
+                    "amount": 19424.57,
+                    "transaction_id": 54605764
+                }
+            ]
+        }
+    }
+}

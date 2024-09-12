@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Walter Johnson",
+        "age": 44,
+        "gender": "female",
+        "address": "82273 Morales Inlet Suite 197, Port Hollyfort, OK 31758",
+        "phone": "908-279-2411",
+        "email": "vcarney@example.org",
+        "account": {
+            "account_number": "118a0779-7dbc-4f04-9cb6-4e9ca4ec4849",
+            "balance": 29106.13,
+            "transactions": [
+                {
+                    "date": "2024-06-17",
+                    "description": "Withdrawal",
+                    "amount": 1170.66,
+                    "transaction_id": 88152107
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Interest",
+                    "amount": 5862.73,
+                    "transaction_id": 15592514
+                },
+                {
+                    "date": "2023-02-23",
+                    "description": "Deposit",
+                    "amount": 37873.29,
+                    "transaction_id": 25390987
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Deposit",
+                    "amount": 33434.51,
+                    "transaction_id": 81943986
+                }
+            ]
+        }
+    }
+}

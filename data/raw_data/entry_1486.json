@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Andrew Figueroa",
+        "age": 50,
+        "gender": "male",
+        "address": "89220 Smith Shoals, Port Sonya, NH 08261",
+        "phone": "4913988265",
+        "email": "emilymyers@example.com",
+        "account": {
+            "account_number": "adfb7074-8b4c-4426-a5fe-53fe147e8e00",
+            "balance": 6615.83,
+            "transactions": [
+                {
+                    "date": "2023-11-01",
+                    "description": "Deposit",
+                    "amount": 5883.03,
+                    "transaction_id": 87948199
+                },
+                {
+                    "date": "2023-07-08",
+                    "description": "Interest",
+                    "amount": 29568.32,
+                    "transaction_id": 46654001
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Withdrawal",
+                    "amount": 39720.56,
+                    "transaction_id": 4168107
+                },
+                {
+                    "date": "2023-03-02",
+                    "description": "Interest",
+                    "amount": 25370.81,
+                    "transaction_id": 47205928
+                }
+            ]
+        }
+    }
+}

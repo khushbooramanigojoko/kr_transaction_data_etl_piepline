@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Holly Humphrey",
+        "age": 76,
+        "gender": "male",
+        "address": "141 Kathryn Cliffs Suite 591, East Jamesshire, NM 92473",
+        "phone": "876-297-1052x3097",
+        "email": "nthompson@example.net",
+        "account": {
+            "account_number": "1968bc65-7eaf-43af-9aab-2fe957b4b416",
+            "balance": 35074.81,
+            "transactions": [
+                {
+                    "date": "2024-04-24",
+                    "description": "Withdrawal",
+                    "amount": 32342.94,
+                    "transaction_id": 115635752
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Withdrawal",
+                    "amount": 33871.27,
+                    "transaction_id": 77955506
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Deposit",
+                    "amount": 27915.47,
+                    "transaction_id": 50178476
+                }
+            ]
+        }
+    }
+}

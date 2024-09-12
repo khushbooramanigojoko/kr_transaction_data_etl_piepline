@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brittany Love",
+        "age": 62,
+        "gender": "female",
+        "address": "52312 Huang Mountains Apt. 005, Keithstad, ME 52023",
+        "phone": "001-568-756-9359x552",
+        "email": "danielvaldez@example.org",
+        "account": {
+            "account_number": "a4b9ee95-ba1a-469d-9db8-3738a973587c",
+            "balance": 14560.57,
+            "transactions": [
+                {
+                    "date": "2024-01-19",
+                    "description": "Deposit",
+                    "amount": 48117.8,
+                    "transaction_id": 103252195
+                },
+                {
+                    "date": "2024-07-23",
+                    "description": "Withdrawal",
+                    "amount": 40288.01,
+                    "transaction_id": 31941372
+                }
+            ]
+        }
+    }
+}

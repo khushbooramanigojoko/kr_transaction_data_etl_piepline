@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joseph Snyder",
+        "age": 80,
+        "gender": "male",
+        "address": "3015 Daniel Spurs Apt. 307, West Justinhaven, MS 22805",
+        "phone": "(532)488-3069",
+        "email": "jbell@example.com",
+        "account": {
+            "account_number": "3a5123f9-772e-4652-83a9-f644fc3e8b44",
+            "balance": 31559.99,
+            "transactions": [
+                {
+                    "date": "2023-03-28",
+                    "description": "Withdrawal",
+                    "amount": 30147.22,
+                    "transaction_id": 25342750
+                },
+                {
+                    "date": "2022-09-11",
+                    "description": "Deposit",
+                    "amount": 12868.16,
+                    "transaction_id": 66015012
+                },
+                {
+                    "date": "2024-05-26",
+                    "description": "Withdrawal",
+                    "amount": 48424.73,
+                    "transaction_id": 26779853
+                }
+            ]
+        }
+    }
+}

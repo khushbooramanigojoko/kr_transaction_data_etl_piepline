@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Wendy Ayers",
+        "age": 96,
+        "gender": "female",
+        "address": "27386 Yang Walk Suite 083, Charlesburgh, NJ 28133",
+        "phone": "462-544-8480",
+        "email": "astevenson@example.org",
+        "account": {
+            "account_number": "ac9843ed-39df-4aba-b31c-3a2a722098a3",
+            "balance": 11209.02,
+            "transactions": [
+                {
+                    "date": "2024-08-31",
+                    "description": "Interest",
+                    "amount": 14537.05,
+                    "transaction_id": 83397782
+                }
+            ]
+        }
+    }
+}

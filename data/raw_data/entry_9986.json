@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sean Carpenter",
+        "age": 30,
+        "gender": "male",
+        "address": "825 Pamela Key, Johnsonside, NJ 82261",
+        "phone": "+1-863-847-4975x42480",
+        "email": "rbrown@example.com",
+        "account": {
+            "account_number": "44d9e716-d182-4ec9-9e0f-7fab848814d3",
+            "balance": -2830.9,
+            "transactions": [
+                {
+                    "date": "2023-09-19",
+                    "description": "Withdrawal",
+                    "amount": -4938.64,
+                    "transaction_id": 102776243
+                },
+                {
+                    "date": "2023-01-09",
+                    "description": "Withdrawal",
+                    "amount": -2684.28,
+                    "transaction_id": 21380056
+                },
+                {
+                    "date": "2023-11-10",
+                    "description": "Deposit",
+                    "amount": -2710.17,
+                    "transaction_id": 21627420
+                },
+                {
+                    "date": "2023-12-12",
+                    "description": "Withdrawal",
+                    "amount": -2091.36,
+                    "transaction_id": 89414054
+                }
+            ]
+        }
+    }
+}

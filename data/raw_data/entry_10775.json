@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Willie Day",
+        "age": 54,
+        "gender": "male",
+        "address": "76893 Melissa Pike Suite 948, New Amanda, NY 42280",
+        "phone": "908-963-5436",
+        "email": "thompsonnancy@example.net",
+        "account": {
+            "account_number": "d3324a18-4fa3-4875-a898-89b41276523b",
+            "balance": -30757.72,
+            "transactions": [
+                {
+                    "date": "2022-11-29",
+                    "description": "Interest",
+                    "amount": -426.17,
+                    "transaction_id": 11423977
+                },
+                {
+                    "date": "2022-09-02",
+                    "description": "Deposit",
+                    "amount": 4030.56,
+                    "transaction_id": 24015789
+                }
+            ]
+        }
+    }
+}

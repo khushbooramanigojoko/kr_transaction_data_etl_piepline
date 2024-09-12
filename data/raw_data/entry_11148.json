@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brian Walsh",
+        "age": 68,
+        "gender": "female",
+        "address": "9376 Moreno Shoals, Brandonchester, NE 27011",
+        "phone": "001-431-509-5194x79862",
+        "email": "ivan82@example.net",
+        "account": {
+            "account_number": "bc969953-2009-4763-aef1-1dd0141a46b0",
+            "balance": -47159.34,
+            "transactions": [
+                {
+                    "date": "2023-10-29",
+                    "description": "Withdrawal",
+                    "amount": 2149.77,
+                    "transaction_id": 87792997
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Interest",
+                    "amount": 4689.11,
+                    "transaction_id": 50076074
+                }
+            ]
+        }
+    }
+}

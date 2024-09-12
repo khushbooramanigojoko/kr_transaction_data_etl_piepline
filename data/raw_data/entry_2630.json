@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jeffrey Cline",
+        "age": 82,
+        "gender": "female",
+        "address": "5535 Cooper Key, Jackiestad, ME 39375",
+        "phone": "(561)704-6663x287",
+        "email": "cortezclayton@example.com",
+        "account": {
+            "account_number": "b77ccfc2-5d44-4654-9213-effc3eef1d42",
+            "balance": 41023.48,
+            "transactions": [
+                {
+                    "date": "2023-01-27",
+                    "description": "Withdrawal",
+                    "amount": 48310.98,
+                    "transaction_id": 36231814
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Interest",
+                    "amount": 8751.75,
+                    "transaction_id": 107129303
+                },
+                {
+                    "date": "2024-05-13",
+                    "description": "Interest",
+                    "amount": 7242.44,
+                    "transaction_id": 62932046
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Interest",
+                    "amount": 24247.77,
+                    "transaction_id": 4299458
+                },
+                {
+                    "date": "2022-11-05",
+                    "description": "Interest",
+                    "amount": 560.99,
+                    "transaction_id": 22096489
+                }
+            ]
+        }
+    }
+}

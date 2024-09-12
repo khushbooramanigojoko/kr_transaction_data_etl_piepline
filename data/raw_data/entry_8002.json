@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "David Smith",
+        "age": 66,
+        "gender": "male",
+        "address": "Unit 8924 Box 3323, DPO AA 88618",
+        "phone": "465.274.7126x27519",
+        "email": "tlee@example.net",
+        "account": {
+            "account_number": "a77ab3a9-7379-4053-b387-da4eea898a0e",
+            "balance": 2719.17,
+            "transactions": [
+                {
+                    "date": "2023-09-19",
+                    "description": "Interest",
+                    "amount": 11746.84,
+                    "transaction_id": 7824632
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Interest",
+                    "amount": 11178.7,
+                    "transaction_id": 91503471
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Interest",
+                    "amount": 33707.29,
+                    "transaction_id": 110595417
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Deposit",
+                    "amount": 29897.34,
+                    "transaction_id": 23366283
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tasha Gardner",
+        "age": 40,
+        "gender": "male",
+        "address": "80662 Lester Shoal Apt. 184, Lake Melissa, WV 08651",
+        "phone": "471-885-1061x22058",
+        "email": "jensenpeter@example.org",
+        "account": {
+            "account_number": "c51c8b6c-7f7b-4030-a2c2-0315f6765020",
+            "balance": 48612.85,
+            "transactions": [
+                {
+                    "date": "2023-03-24",
+                    "description": "Deposit",
+                    "amount": 1944.89,
+                    "transaction_id": 18944434
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Deposit",
+                    "amount": 35855.42,
+                    "transaction_id": 85013945
+                },
+                {
+                    "date": "2023-02-03",
+                    "description": "Withdrawal",
+                    "amount": 40815.85,
+                    "transaction_id": 88161929
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Larry Butler",
+        "age": 65,
+        "gender": "female",
+        "address": "7398 Brown Fords, South Edward, TX 29459",
+        "phone": "+1-247-687-2496x07084",
+        "email": "christopherjohnson@example.net",
+        "account": {
+            "account_number": "48ba6ff3-7a25-42f7-bdc3-ab36beb70859",
+            "balance": 9318.03,
+            "transactions": [
+                {
+                    "date": "2024-01-02",
+                    "description": "Withdrawal",
+                    "amount": 39809.85,
+                    "transaction_id": 30836654
+                },
+                {
+                    "date": "2024-02-03",
+                    "description": "Deposit",
+                    "amount": 29220.56,
+                    "transaction_id": 2870573
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Deposit",
+                    "amount": 7911.54,
+                    "transaction_id": 71048801
+                }
+            ]
+        }
+    }
+}

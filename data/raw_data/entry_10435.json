@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 77,
+        "gender": "male",
+        "address": "5874 Erika Fork Suite 574, South Samuel, WI 21561",
+        "phone": "+1-781-681-4523x777",
+        "email": "phernandez@example.org",
+        "account": {
+            "account_number": "e3dfda64-a963-47e8-a6db-ac689fc8269c",
+            "balance": 37857.37,
+            "transactions": [
+                {
+                    "date": "2023-01-30",
+                    "description": "Interest",
+                    "amount": 2378.66,
+                    "transaction_id": 59188949
+                }
+            ]
+        }
+    }
+}

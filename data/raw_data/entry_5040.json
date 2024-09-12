@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lori James",
+        "age": 58,
+        "gender": "female",
+        "address": "8940 Christine Way Suite 627, Rodriguezburgh, WV 91076",
+        "phone": "8695204483",
+        "email": "bcampbell@example.org",
+        "account": {
+            "account_number": "6c95a1f7-588a-4877-b133-f6dc543d94c2",
+            "balance": 36053.52,
+            "transactions": [
+                {
+                    "date": "2024-02-04",
+                    "description": "Deposit",
+                    "amount": 14163.96,
+                    "transaction_id": 94413793
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Withdrawal",
+                    "amount": 35018.62,
+                    "transaction_id": 53660414
+                }
+            ]
+        }
+    }
+}

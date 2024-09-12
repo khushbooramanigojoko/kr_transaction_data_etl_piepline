@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Daniel Ramos",
+        "age": 78,
+        "gender": "female",
+        "address": "348 Brewer Crest, Tommychester, NC 20118",
+        "phone": "(292)406-6505",
+        "email": "rasmussendeborah@example.com",
+        "account": {
+            "account_number": "8f269aec-4f27-489e-987e-2827238b2089",
+            "balance": 38912.4,
+            "transactions": [
+                {
+                    "date": "2024-01-28",
+                    "description": "Withdrawal",
+                    "amount": 45608.03,
+                    "transaction_id": 3582319
+                }
+            ]
+        }
+    }
+}

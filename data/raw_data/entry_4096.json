@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Martin",
+        "age": 81,
+        "gender": "male",
+        "address": "0231 Dunn Rapid, Morganmouth, WY 28171",
+        "phone": "743-373-0824x108",
+        "email": "daniellefernandez@example.org",
+        "account": {
+            "account_number": "d3320e6d-b907-452d-bba4-17ebc6e917bb",
+            "balance": 16993.63,
+            "transactions": [
+                {
+                    "date": "2022-12-19",
+                    "description": "Interest",
+                    "amount": 36282.01,
+                    "transaction_id": 91978174
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Deposit",
+                    "amount": 21927.25,
+                    "transaction_id": 54770576
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Withdrawal",
+                    "amount": 45319.37,
+                    "transaction_id": 93336203
+                },
+                {
+                    "date": "2024-08-16",
+                    "description": "Deposit",
+                    "amount": 15899.63,
+                    "transaction_id": 5403376
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Interest",
+                    "amount": 46079.85,
+                    "transaction_id": 33525247
+                }
+            ]
+        }
+    }
+}

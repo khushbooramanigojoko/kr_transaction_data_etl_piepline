@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Felicia Macdonald",
+        "age": 24,
+        "gender": "male",
+        "address": "343 Berry Brook, Williamsside, AR 79565",
+        "phone": "4793946692",
+        "email": "jasmine98@example.net",
+        "account": {
+            "account_number": "6a08c0f5-ce34-468e-a02c-c71825496032",
+            "balance": 28678.58,
+            "transactions": [
+                {
+                    "date": "2023-12-03",
+                    "description": "Withdrawal",
+                    "amount": 35953.92,
+                    "transaction_id": 24492295
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Deposit",
+                    "amount": 48436.14,
+                    "transaction_id": 13479420
+                }
+            ]
+        }
+    }
+}

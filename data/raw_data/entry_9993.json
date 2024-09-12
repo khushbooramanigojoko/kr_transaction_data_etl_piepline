@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jeanette Mcconnell",
+        "age": 87,
+        "gender": "male",
+        "address": "6813 Kathryn Keys Apt. 901, Robinchester, AZ 35360",
+        "phone": "001-254-491-1966",
+        "email": "jennifergonzalez@example.net",
+        "account": {
+            "account_number": "e946e5f8-581f-495b-bba8-706f847daca8",
+            "balance": -34193.93,
+            "transactions": [
+                {
+                    "date": "2024-03-27",
+                    "description": "Interest",
+                    "amount": 4940.91,
+                    "transaction_id": 89826052
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Deposit",
+                    "amount": -305.67,
+                    "transaction_id": 94096747
+                },
+                {
+                    "date": "2024-04-14",
+                    "description": "Deposit",
+                    "amount": 2486.98,
+                    "transaction_id": 60303660
+                },
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": -1641.12,
+                    "transaction_id": 72388846
+                },
+                {
+                    "date": "2022-10-24",
+                    "description": "Withdrawal",
+                    "amount": -2805.65,
+                    "transaction_id": 54869312
+                }
+            ]
+        }
+    }
+}

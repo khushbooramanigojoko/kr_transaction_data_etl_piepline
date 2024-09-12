@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jennifer Fowler",
+        "age": 35,
+        "gender": "male",
+        "address": "4843 Jennifer Court Apt. 927, East Elizabeth, NC 32160",
+        "phone": "686.498.2086x938",
+        "email": "michael17@example.com",
+        "account": {
+            "account_number": "b1286ebf-1af2-46dc-a443-8627352af3f5",
+            "balance": 19057.21,
+            "transactions": [
+                {
+                    "date": "2022-10-31",
+                    "description": "Interest",
+                    "amount": 6321.79,
+                    "transaction_id": 116026086
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alexandria Anderson",
+        "age": 58,
+        "gender": "male",
+        "address": "689 Stephanie Stream Suite 796, Hardyland, ID 76775",
+        "phone": "323.616.1739",
+        "email": "zford@example.com",
+        "account": {
+            "account_number": "c667b4b0-a446-498e-85f1-4e155193d26d",
+            "balance": 42731.09,
+            "transactions": [
+                {
+                    "date": "2024-01-23",
+                    "description": "Withdrawal",
+                    "amount": 28788.49,
+                    "transaction_id": 11904296
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Withdrawal",
+                    "amount": 45617.89,
+                    "transaction_id": 18861652
+                },
+                {
+                    "date": "2023-04-16",
+                    "description": "Deposit",
+                    "amount": 19101.14,
+                    "transaction_id": 34770475
+                },
+                {
+                    "date": "2023-10-30",
+                    "description": "Interest",
+                    "amount": 16041.18,
+                    "transaction_id": 42923190
+                }
+            ]
+        }
+    }
+}

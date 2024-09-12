@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 97,
+        "gender": "female",
+        "address": "7227 Walter Estate, Elizabethtown, IA 66110",
+        "phone": "001-750-723-6820",
+        "email": "richardwelch@example.org",
+        "account": {
+            "account_number": "5d6573c5-1c00-47ad-9df0-b48947ea53ab",
+            "balance": 1700.52,
+            "transactions": [
+                {
+                    "date": "2023-02-26",
+                    "description": "Deposit",
+                    "amount": 854.78,
+                    "transaction_id": 9676420
+                },
+                {
+                    "date": "2022-12-04",
+                    "description": "Withdrawal",
+                    "amount": -2307.64,
+                    "transaction_id": 68546174
+                },
+                {
+                    "date": "2024-02-19",
+                    "description": "Withdrawal",
+                    "amount": -1620.77,
+                    "transaction_id": 91588297
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Interest",
+                    "amount": 1501.06,
+                    "transaction_id": 53829768
+                },
+                {
+                    "date": "2023-12-13",
+                    "description": "Interest",
+                    "amount": -4620.15,
+                    "transaction_id": 3356595
+                }
+            ]
+        }
+    }
+}

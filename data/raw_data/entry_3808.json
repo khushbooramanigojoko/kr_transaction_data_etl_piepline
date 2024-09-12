@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Chad Herman",
+        "age": 82,
+        "gender": "female",
+        "address": "2962 Gonzalez Streets, Port John, MD 64014",
+        "phone": "4688332281",
+        "email": "katiedunn@example.com",
+        "account": {
+            "account_number": "8c19b783-f6d8-427a-badc-7e4a9241e5fe",
+            "balance": 46366.72,
+            "transactions": [
+                {
+                    "date": "2023-12-07",
+                    "description": "Interest",
+                    "amount": 33202.07,
+                    "transaction_id": 22623437
+                },
+                {
+                    "date": "2023-12-10",
+                    "description": "Deposit",
+                    "amount": 11693.08,
+                    "transaction_id": 100737327
+                }
+            ]
+        }
+    }
+}

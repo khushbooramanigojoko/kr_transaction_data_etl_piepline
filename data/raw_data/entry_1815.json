@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Monica Davis DDS",
+        "age": 85,
+        "gender": "male",
+        "address": "381 Lyons Mountain, Victorport, UT 36134",
+        "phone": "001-553-969-7042x364",
+        "email": "crawfordbelinda@example.org",
+        "account": {
+            "account_number": "e5264ee5-c6da-4ab8-afd9-94ce0efdd5c8",
+            "balance": 45250.36,
+            "transactions": [
+                {
+                    "date": "2023-07-08",
+                    "description": "Withdrawal",
+                    "amount": 10982.56,
+                    "transaction_id": 41384759
+                },
+                {
+                    "date": "2022-09-19",
+                    "description": "Withdrawal",
+                    "amount": 19585.57,
+                    "transaction_id": 73020385
+                },
+                {
+                    "date": "2024-08-24",
+                    "description": "Interest",
+                    "amount": 2594.41,
+                    "transaction_id": 49849458
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Interest",
+                    "amount": 35230.95,
+                    "transaction_id": 55622391
+                }
+            ]
+        }
+    }
+}

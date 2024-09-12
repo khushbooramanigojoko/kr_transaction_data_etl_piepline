@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Samantha Miller",
+        "age": 30,
+        "gender": "female",
+        "address": "182 Crystal Springs, Juanmouth, CT 22149",
+        "phone": "(886)423-7196",
+        "email": "butlerisabella@example.com",
+        "account": {
+            "account_number": "31c1bcd4-4d1c-47f8-a439-1adbea9aafe7",
+            "balance": -13575.59,
+            "transactions": [
+                {
+                    "date": "2023-12-25",
+                    "description": "Withdrawal",
+                    "amount": 386.26,
+                    "transaction_id": 16267603
+                }
+            ]
+        }
+    }
+}

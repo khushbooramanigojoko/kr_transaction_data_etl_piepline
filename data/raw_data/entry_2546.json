@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Daniel Harris",
+        "age": 53,
+        "gender": "male",
+        "address": "USNV Cole, FPO AP 45900",
+        "phone": "+1-679-712-6911x685",
+        "email": "wwilson@example.org",
+        "account": {
+            "account_number": "1477f882-4e26-42ca-b2a6-b2f9705dbc10",
+            "balance": 47315.74,
+            "transactions": [
+                {
+                    "date": "2023-07-19",
+                    "description": "Interest",
+                    "amount": 29080.23,
+                    "transaction_id": 38483196
+                },
+                {
+                    "date": "2024-04-01",
+                    "description": "Deposit",
+                    "amount": 8858.59,
+                    "transaction_id": 35688735
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Withdrawal",
+                    "amount": 25808.28,
+                    "transaction_id": 27449295
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Deposit",
+                    "amount": 1791.91,
+                    "transaction_id": 41425182
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 35,
+        "gender": "male",
+        "address": "01109 Heather Prairie, New Jackport, GU 21049",
+        "phone": "001-326-793-8510x70233",
+        "email": "hhill@example.org",
+        "account": {
+            "account_number": "a4d4dace-1517-4500-8877-ddbdc2996179",
+            "balance": 48742.64,
+            "transactions": [
+                {
+                    "date": "2023-05-12",
+                    "description": "Withdrawal",
+                    "amount": 4907.78,
+                    "transaction_id": 13490516
+                },
+                {
+                    "date": "2023-04-14",
+                    "description": "Withdrawal",
+                    "amount": 3653.78,
+                    "transaction_id": 3297074
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Interest",
+                    "amount": -36.44,
+                    "transaction_id": 41764034
+                },
+                {
+                    "date": "2023-05-29",
+                    "description": "Withdrawal",
+                    "amount": -4554.42,
+                    "transaction_id": 58360571
+                }
+            ]
+        }
+    }
+}

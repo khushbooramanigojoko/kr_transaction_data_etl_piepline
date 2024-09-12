@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jason Bryant",
+        "age": 72,
+        "gender": "male",
+        "address": "09220 Carter Street, East Steven, NE 32142",
+        "phone": "(965)220-6753x577",
+        "email": "kayla78@example.org",
+        "account": {
+            "account_number": "5e5ea3a6-a1d7-4733-b8de-f96898596341",
+            "balance": 47784.82,
+            "transactions": [
+                {
+                    "date": "2024-06-25",
+                    "description": "Withdrawal",
+                    "amount": 40907.86,
+                    "transaction_id": 28037794
+                },
+                {
+                    "date": "2023-10-29",
+                    "description": "Withdrawal",
+                    "amount": 28850.79,
+                    "transaction_id": 106934924
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Interest",
+                    "amount": 46262.54,
+                    "transaction_id": 57453702
+                }
+            ]
+        }
+    }
+}

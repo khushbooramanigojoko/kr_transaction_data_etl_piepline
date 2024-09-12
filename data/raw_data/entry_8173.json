@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Logan Martinez",
+        "age": 24,
+        "gender": "male",
+        "address": "342 Amy Radial, Lake Jenniferberg, NH 59163",
+        "phone": "8686484743",
+        "email": "adriennekelly@example.org",
+        "account": {
+            "account_number": "bef6249b-3dcf-4ff8-8e13-35c56f0e74c9",
+            "balance": 4518.56,
+            "transactions": [
+                {
+                    "date": "2024-06-11",
+                    "description": "Interest",
+                    "amount": 26598.51,
+                    "transaction_id": 100634637
+                },
+                {
+                    "date": "2024-01-18",
+                    "description": "Withdrawal",
+                    "amount": 22285.27,
+                    "transaction_id": 59102540
+                },
+                {
+                    "date": "2023-07-10",
+                    "description": "Withdrawal",
+                    "amount": 32240.56,
+                    "transaction_id": 62513775
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Deposit",
+                    "amount": 1531.15,
+                    "transaction_id": 98794579
+                },
+                {
+                    "date": "2023-03-26",
+                    "description": "Interest",
+                    "amount": 15904.71,
+                    "transaction_id": 87833079
+                }
+            ]
+        }
+    }
+}

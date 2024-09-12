@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tabitha Short",
+        "age": 91,
+        "gender": "female",
+        "address": "169 Smith Lake Apt. 998, Jordanberg, AK 45272",
+        "phone": "+1-826-423-3405x84123",
+        "email": "kathrynshaffer@example.com",
+        "account": {
+            "account_number": "2cd7b959-880e-4015-849f-07c7e55a8590",
+            "balance": 41325.69,
+            "transactions": [
+                {
+                    "date": "2023-05-03",
+                    "description": "Deposit",
+                    "amount": 4907.49,
+                    "transaction_id": 107376050
+                },
+                {
+                    "date": "2023-02-14",
+                    "description": "Interest",
+                    "amount": 22393.65,
+                    "transaction_id": 49620159
+                },
+                {
+                    "date": "2023-06-18",
+                    "description": "Interest",
+                    "amount": 43420.66,
+                    "transaction_id": 94450360
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Withdrawal",
+                    "amount": 24345.1,
+                    "transaction_id": 66389620
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Withdrawal",
+                    "amount": 1053.43,
+                    "transaction_id": 82047095
+                }
+            ]
+        }
+    }
+}

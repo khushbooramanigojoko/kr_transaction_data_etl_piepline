@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Thomas Ross",
+        "age": 64,
+        "gender": "female",
+        "address": "066 Lawrence Stream, Gillbury, PW 20101",
+        "phone": "300-771-8576",
+        "email": "harmonreginald@example.net",
+        "account": {
+            "account_number": "9e1fabea-1b50-4dab-a046-60d5cada3453",
+            "balance": 39525.27,
+            "transactions": [
+                {
+                    "date": "2022-10-11",
+                    "description": "Interest",
+                    "amount": 3348.45,
+                    "transaction_id": 114611014
+                }
+            ]
+        }
+    }
+}

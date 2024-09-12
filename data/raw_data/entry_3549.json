@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jennifer Moon",
+        "age": 85,
+        "gender": "male",
+        "address": "264 Emily Brooks, Brooksfurt, DC 88813",
+        "phone": "5572448622",
+        "email": "derekreyes@example.com",
+        "account": {
+            "account_number": "40eb56ab-d500-4406-931f-ee6e5c503e85",
+            "balance": 13230.96,
+            "transactions": [
+                {
+                    "date": "2024-04-06",
+                    "description": "Deposit",
+                    "amount": 17108.62,
+                    "transaction_id": 99378264
+                }
+            ]
+        }
+    }
+}

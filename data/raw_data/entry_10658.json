@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Zoe Smith",
+        "age": 85,
+        "gender": "male",
+        "address": "41605 Gabriela Viaduct Apt. 872, Hunttown, MT 32210",
+        "phone": "916.945.1289x600",
+        "email": "hruiz@example.org",
+        "account": {
+            "account_number": "7282a7b2-fdb7-475d-85a8-2ccabcbabc08",
+            "balance": -47044.27,
+            "transactions": [
+                {
+                    "date": "2022-12-06",
+                    "description": "Interest",
+                    "amount": -4238.0,
+                    "transaction_id": 83391419
+                },
+                {
+                    "date": "2023-07-04",
+                    "description": "Withdrawal",
+                    "amount": -628.27,
+                    "transaction_id": 35800776
+                },
+                {
+                    "date": "2023-06-30",
+                    "description": "Withdrawal",
+                    "amount": -1516.96,
+                    "transaction_id": 9163639
+                },
+                {
+                    "date": "2024-04-01",
+                    "description": "Interest",
+                    "amount": 2907.9,
+                    "transaction_id": 80782595
+                }
+            ]
+        }
+    }
+}

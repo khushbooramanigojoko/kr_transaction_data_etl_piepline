@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "April Russell",
+        "age": 31,
+        "gender": "male",
+        "address": "2226 Jennifer Road Suite 665, Alexandermouth, RI 87786",
+        "phone": "(649)999-3626",
+        "email": "patrick80@example.com",
+        "account": {
+            "account_number": "2ce1ae9a-bf4a-48a9-a44d-62ed3ef80852",
+            "balance": 13230.99,
+            "transactions": [
+                {
+                    "date": "2023-07-05",
+                    "description": "Deposit",
+                    "amount": 14916.57,
+                    "transaction_id": 80326768
+                },
+                {
+                    "date": "2023-06-28",
+                    "description": "Withdrawal",
+                    "amount": 35849.35,
+                    "transaction_id": 97989423
+                },
+                {
+                    "date": "2023-09-10",
+                    "description": "Deposit",
+                    "amount": 28236.89,
+                    "transaction_id": 15744335
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Interest",
+                    "amount": 4972.72,
+                    "transaction_id": 87120704
+                }
+            ]
+        }
+    }
+}

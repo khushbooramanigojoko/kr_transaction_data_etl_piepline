@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Casey Fields",
+        "age": 43,
+        "gender": "female",
+        "address": "93478 Lori Road, East Williamland, AZ 78301",
+        "phone": "695-853-3468",
+        "email": "jennifer07@example.org",
+        "account": {
+            "account_number": "1d47e9fb-39de-4aac-9bff-853c01ac5ed6",
+            "balance": 45636.71,
+            "transactions": [
+                {
+                    "date": "2024-04-04",
+                    "description": "Interest",
+                    "amount": 41478.62,
+                    "transaction_id": 34541662
+                },
+                {
+                    "date": "2023-07-01",
+                    "description": "Deposit",
+                    "amount": 5134.69,
+                    "transaction_id": 60989277
+                },
+                {
+                    "date": "2023-04-18",
+                    "description": "Deposit",
+                    "amount": 17227.01,
+                    "transaction_id": 41007754
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Interest",
+                    "amount": 9989.61,
+                    "transaction_id": 49174966
+                }
+            ]
+        }
+    }
+}

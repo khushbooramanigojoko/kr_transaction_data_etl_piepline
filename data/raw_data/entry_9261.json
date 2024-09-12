@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 90,
+        "gender": "male",
+        "address": "83917 Garza Brook Apt. 964, West Lisa, MS 17794",
+        "phone": "390.468.2840",
+        "email": "tthomas@example.org",
+        "account": {
+            "account_number": "e6b6e0c3-b1d1-4eec-8ce3-b5bdb7152c31",
+            "balance": 31271.05,
+            "transactions": [
+                {
+                    "date": "2024-02-19",
+                    "description": "Interest",
+                    "amount": -2650.38,
+                    "transaction_id": 102353145
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Deposit",
+                    "amount": 1929.21,
+                    "transaction_id": 95138974
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Withdrawal",
+                    "amount": -3150.88,
+                    "transaction_id": 36811628
+                },
+                {
+                    "date": "2023-06-29",
+                    "description": "Interest",
+                    "amount": -4076.77,
+                    "transaction_id": 88102573
+                }
+            ]
+        }
+    }
+}

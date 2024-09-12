@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Marcus Cooke",
+        "age": 89,
+        "gender": "male",
+        "address": "7116 Abbott Burg Apt. 797, Port Sheena, MA 93389",
+        "phone": "984-255-2377",
+        "email": "samanthalambert@example.com",
+        "account": {
+            "account_number": "83b5404a-4dca-443b-935e-c700c9969ae0",
+            "balance": 49715.94,
+            "transactions": [
+                {
+                    "date": "2023-06-30",
+                    "description": "Interest",
+                    "amount": 6001.54,
+                    "transaction_id": 43681811
+                },
+                {
+                    "date": "2023-08-25",
+                    "description": "Interest",
+                    "amount": 48079.8,
+                    "transaction_id": 51435858
+                }
+            ]
+        }
+    }
+}

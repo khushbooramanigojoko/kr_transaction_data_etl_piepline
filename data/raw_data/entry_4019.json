@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rose Lee",
+        "age": 85,
+        "gender": "male",
+        "address": "467 Chapman Via Suite 686, Frankfurt, AR 81103",
+        "phone": "001-845-477-1671",
+        "email": "vrojas@example.net",
+        "account": {
+            "account_number": "9f9fde45-c54d-4e0d-8227-263fc62a6787",
+            "balance": 49909.51,
+            "transactions": [
+                {
+                    "date": "2024-05-11",
+                    "description": "Deposit",
+                    "amount": 11187.09,
+                    "transaction_id": 25777189
+                }
+            ]
+        }
+    }
+}

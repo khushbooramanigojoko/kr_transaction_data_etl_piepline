@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Thomas Jones",
+        "age": 94,
+        "gender": "female",
+        "address": "125 Donna Hills Apt. 202, Lake Brianaberg, NM 25119",
+        "phone": "+1-483-535-0576x49821",
+        "email": "edwardslogan@example.net",
+        "account": {
+            "account_number": "4ce25b02-4e4d-42a9-b379-1eca8ccbf653",
+            "balance": 33275.88,
+            "transactions": [
+                {
+                    "date": "2023-04-22",
+                    "description": "Interest",
+                    "amount": 42789.1,
+                    "transaction_id": 5649842
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Interest",
+                    "amount": 3575.28,
+                    "transaction_id": 105714321
+                },
+                {
+                    "date": "2024-06-21",
+                    "description": "Withdrawal",
+                    "amount": 20269.8,
+                    "transaction_id": 16132250
+                },
+                {
+                    "date": "2023-12-12",
+                    "description": "Withdrawal",
+                    "amount": 18238.61,
+                    "transaction_id": 98136554
+                }
+            ]
+        }
+    }
+}

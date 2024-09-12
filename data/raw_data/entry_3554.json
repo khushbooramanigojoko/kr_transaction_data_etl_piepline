@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joshua Herrera",
+        "age": 81,
+        "gender": "female",
+        "address": "37609 Kenneth Station Suite 541, Danielsside, GU 00658",
+        "phone": "543-904-4979x277",
+        "email": "juanjones@example.net",
+        "account": {
+            "account_number": "a73d8028-ff8d-4a2d-9e20-c10db33c7080",
+            "balance": 19657.6,
+            "transactions": [
+                {
+                    "date": "2024-03-01",
+                    "description": "Interest",
+                    "amount": 33964.05,
+                    "transaction_id": 85825096
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Deposit",
+                    "amount": 37264.89,
+                    "transaction_id": 64769260
+                },
+                {
+                    "date": "2023-07-15",
+                    "description": "Deposit",
+                    "amount": 27352.47,
+                    "transaction_id": 102941315
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Deposit",
+                    "amount": 39639.4,
+                    "transaction_id": 31383608
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Deposit",
+                    "amount": 6216.92,
+                    "transaction_id": 112673223
+                }
+            ]
+        }
+    }
+}

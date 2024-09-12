@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kristina Martinez",
+        "age": 29,
+        "gender": "female",
+        "address": "299 Phillip Viaduct Apt. 600, South Alyssa, OR 46054",
+        "phone": "001-327-665-2533x25951",
+        "email": "kevin88@example.net",
+        "account": {
+            "account_number": "2fb16a13-5355-4442-a113-4fa0e51ffdf1",
+            "balance": 45466.5,
+            "transactions": [
+                {
+                    "date": "2022-09-04",
+                    "description": "Withdrawal",
+                    "amount": 799.38,
+                    "transaction_id": 16188425
+                },
+                {
+                    "date": "2024-04-29",
+                    "description": "Interest",
+                    "amount": 46067.61,
+                    "transaction_id": 53096444
+                }
+            ]
+        }
+    }
+}

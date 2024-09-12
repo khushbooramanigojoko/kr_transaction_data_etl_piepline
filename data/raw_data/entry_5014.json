@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Daniel Baker",
+        "age": 93,
+        "gender": "female",
+        "address": "3274 Fox Pines Suite 884, North Margaret, ME 31852",
+        "phone": "+1-416-635-5752",
+        "email": "bellkristin@example.com",
+        "account": {
+            "account_number": "1b742dae-ac81-4089-811b-cb4bc120f494",
+            "balance": 8947.38,
+            "transactions": [
+                {
+                    "date": "2022-10-21",
+                    "description": "Interest",
+                    "amount": 23142.36,
+                    "transaction_id": 18867032
+                }
+            ]
+        }
+    }
+}

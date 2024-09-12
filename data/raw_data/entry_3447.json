@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Becky Cunningham",
+        "age": 52,
+        "gender": "male",
+        "address": "09424 Campbell Pass Suite 416, Lake Brittany, KY 67225",
+        "phone": "001-309-465-8846x070",
+        "email": "kdennis@example.org",
+        "account": {
+            "account_number": "a5253d8e-74a8-4b31-8c42-a7f4c47457c6",
+            "balance": 5784.54,
+            "transactions": [
+                {
+                    "date": "2023-05-18",
+                    "description": "Deposit",
+                    "amount": 16309.46,
+                    "transaction_id": 66455694
+                },
+                {
+                    "date": "2024-08-23",
+                    "description": "Withdrawal",
+                    "amount": 39045.55,
+                    "transaction_id": 113997428
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Interest",
+                    "amount": 35183.06,
+                    "transaction_id": 24700197
+                }
+            ]
+        }
+    }
+}

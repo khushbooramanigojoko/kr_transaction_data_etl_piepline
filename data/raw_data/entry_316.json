@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mario Hall",
+        "age": 81,
+        "gender": "male",
+        "address": "132 Gutierrez Shoals, Theresamouth, OK 83529",
+        "phone": "+1-838-373-9454x355",
+        "email": "sgreen@example.net",
+        "account": {
+            "account_number": "48df0da1-3525-44d0-ba6a-80a90b04145a",
+            "balance": 38656.34,
+            "transactions": [
+                {
+                    "date": "2023-03-18",
+                    "description": "Interest",
+                    "amount": 43118.4,
+                    "transaction_id": 73387739
+                }
+            ]
+        }
+    }
+}

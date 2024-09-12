@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Desiree Bernard",
+        "age": 76,
+        "gender": "female",
+        "address": "Unit 2516 Box 4091, DPO AA 74454",
+        "phone": "287.476.4068x641",
+        "email": "robinmiller@example.com",
+        "account": {
+            "account_number": "1b320764-aa88-42b3-80a1-00ef164e6edb",
+            "balance": -26762.51,
+            "transactions": [
+                {
+                    "date": "2023-01-15",
+                    "description": "Deposit",
+                    "amount": 2837.07,
+                    "transaction_id": 29041049
+                }
+            ]
+        }
+    }
+}

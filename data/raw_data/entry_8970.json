@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Amy Navarro",
+        "age": 40,
+        "gender": "female",
+        "address": "124 Christopher Union Apt. 045, Jasontown, ND 14844",
+        "phone": "804-660-2659",
+        "email": "kim40@example.com",
+        "account": {
+            "account_number": "dbca58bd-74ca-40f1-817f-11e59772040e",
+            "balance": -30820.04,
+            "transactions": [
+                {
+                    "date": "2023-04-16",
+                    "description": "Interest",
+                    "amount": 1912.41,
+                    "transaction_id": 51120727
+                },
+                {
+                    "date": "2023-05-21",
+                    "description": "Withdrawal",
+                    "amount": 1963.01,
+                    "transaction_id": 20799654
+                },
+                {
+                    "date": "2024-03-22",
+                    "description": "Interest",
+                    "amount": -2573.54,
+                    "transaction_id": 91642400
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tracy Simpson",
+        "age": 38,
+        "gender": "male",
+        "address": "523 Bennett Green Apt. 116, Port Michael, HI 02878",
+        "phone": "(387)364-1416x026",
+        "email": "chad80@example.net",
+        "account": {
+            "account_number": "9202debe-1151-4e16-a71b-f51fac1a23d8",
+            "balance": -22846.52,
+            "transactions": [
+                {
+                    "date": "2024-03-10",
+                    "description": "Withdrawal",
+                    "amount": -4713.5,
+                    "transaction_id": 80896922
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Deposit",
+                    "amount": -4992.3,
+                    "transaction_id": 97658997
+                }
+            ]
+        }
+    }
+}

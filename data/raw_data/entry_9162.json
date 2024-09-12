@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joshua Hall",
+        "age": 27,
+        "gender": "female",
+        "address": "432 Tracy Route, West John, ME 22053",
+        "phone": "447.987.8900",
+        "email": "zacharycarlson@example.com",
+        "account": {
+            "account_number": "c5cf6ec0-5fec-4ee2-b2e0-e834575fc86b",
+            "balance": -27874.57,
+            "transactions": [
+                {
+                    "date": "2022-09-03",
+                    "description": "Interest",
+                    "amount": 1711.85,
+                    "transaction_id": 22041043
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Deposit",
+                    "amount": 1443.23,
+                    "transaction_id": 88964371
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Withdrawal",
+                    "amount": 3073.87,
+                    "transaction_id": 119851559
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Interest",
+                    "amount": 3745.04,
+                    "transaction_id": 34844499
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Interest",
+                    "amount": 2969.83,
+                    "transaction_id": 36722767
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jason Haynes",
+        "age": 68,
+        "gender": "male",
+        "address": "221 Hurst Green, Jenniferport, LA 76116",
+        "phone": "762-303-5866x41408",
+        "email": "anita66@example.net",
+        "account": {
+            "account_number": "89a8f9db-92e0-4277-98e7-7fbd2c8be177",
+            "balance": 45720.36,
+            "transactions": [
+                {
+                    "date": "2023-01-22",
+                    "description": "Interest",
+                    "amount": 32302.64,
+                    "transaction_id": 88431371
+                }
+            ]
+        }
+    }
+}

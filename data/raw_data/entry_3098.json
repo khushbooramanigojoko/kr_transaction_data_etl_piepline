@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Melinda Briggs",
+        "age": 77,
+        "gender": "male",
+        "address": "95717 Murphy Corners Apt. 551, Emilyborough, MP 94498",
+        "phone": "(773)222-6547x898",
+        "email": "ahansen@example.org",
+        "account": {
+            "account_number": "780fd460-a901-403f-adf0-11bd4f3815bb",
+            "balance": 49846.45,
+            "transactions": [
+                {
+                    "date": "2022-11-27",
+                    "description": "Interest",
+                    "amount": 25033.61,
+                    "transaction_id": 75612466
+                }
+            ]
+        }
+    }
+}

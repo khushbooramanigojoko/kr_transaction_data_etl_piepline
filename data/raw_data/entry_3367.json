@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jay Greene",
+        "age": 32,
+        "gender": "male",
+        "address": "94409 Steven Plains, East Michaelside, NC 12222",
+        "phone": "343-913-2167x9294",
+        "email": "samanthasnow@example.net",
+        "account": {
+            "account_number": "3b79334a-788f-46bd-812e-20547739590f",
+            "balance": 2076.91,
+            "transactions": [
+                {
+                    "date": "2023-09-22",
+                    "description": "Interest",
+                    "amount": 26196.1,
+                    "transaction_id": 11079985
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Withdrawal",
+                    "amount": 44851.24,
+                    "transaction_id": 50281930
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Deposit",
+                    "amount": 32865.2,
+                    "transaction_id": 85640728
+                }
+            ]
+        }
+    }
+}

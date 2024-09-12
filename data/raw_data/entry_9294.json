@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jonathan Hays",
+        "age": 57,
+        "gender": "female",
+        "address": "0743 Victoria Hills, Crystalmouth, OK 45094",
+        "phone": "001-419-963-1321",
+        "email": "vmiller@example.org",
+        "account": {
+            "account_number": "7362c4ed-2c16-48b4-8e6d-50ed2fd9b7b6",
+            "balance": -5332.76,
+            "transactions": [
+                {
+                    "date": "2023-09-30",
+                    "description": "Deposit",
+                    "amount": 4314.52,
+                    "transaction_id": 85075409
+                },
+                {
+                    "date": "2022-12-03",
+                    "description": "Deposit",
+                    "amount": -2856.1,
+                    "transaction_id": 6172102
+                },
+                {
+                    "date": "2023-06-28",
+                    "description": "Deposit",
+                    "amount": 2057.26,
+                    "transaction_id": 95481537
+                }
+            ]
+        }
+    }
+}

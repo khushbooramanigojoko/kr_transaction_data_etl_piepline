@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Whitney Taylor",
+        "age": 81,
+        "gender": "male",
+        "address": "47149 Young Greens, New Marie, WV 75370",
+        "phone": "8726278967",
+        "email": "robinsonjames@example.net",
+        "account": {
+            "account_number": "9b93ea15-5e30-47bd-ad48-0ff2bc984f00",
+            "balance": 7779.93,
+            "transactions": [
+                {
+                    "date": "2024-07-17",
+                    "description": "Withdrawal",
+                    "amount": 44333.2,
+                    "transaction_id": 112532291
+                }
+            ]
+        }
+    }
+}

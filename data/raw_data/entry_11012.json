@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 71,
+        "gender": "female",
+        "address": "183 Michelle Shore, Micheleview, KS 88991",
+        "phone": "(374)257-5818x77020",
+        "email": "harrisonkatrina@example.org",
+        "account": {
+            "account_number": "16a71ebd-8d84-4d3a-9b49-7d9ba7e24fef",
+            "balance": 36640.04,
+            "transactions": [
+                {
+                    "date": "2024-02-29",
+                    "description": "Interest",
+                    "amount": 1741.62,
+                    "transaction_id": 104474831
+                },
+                {
+                    "date": "2022-09-20",
+                    "description": "Deposit",
+                    "amount": 3651.04,
+                    "transaction_id": 43939864
+                },
+                {
+                    "date": "2023-11-21",
+                    "description": "Withdrawal",
+                    "amount": 740.83,
+                    "transaction_id": 110630052
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Interest",
+                    "amount": -4760.16,
+                    "transaction_id": 117077730
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Deposit",
+                    "amount": -2893.54,
+                    "transaction_id": 117929640
+                }
+            ]
+        }
+    }
+}

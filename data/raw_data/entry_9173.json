@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 87,
+        "gender": "female",
+        "address": "81646 Bishop Lodge Apt. 694, Buchananhaven, PA 20509",
+        "phone": "+1-545-949-6319x71328",
+        "email": "baileymelissa@example.com",
+        "account": {
+            "account_number": "916e60a3-687d-415b-9b95-b5e8c3ae542c",
+            "balance": 5731.97,
+            "transactions": [
+                {
+                    "date": "2023-06-15",
+                    "description": "Interest",
+                    "amount": -1147.91,
+                    "transaction_id": 4978326
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Interest",
+                    "amount": -76.49,
+                    "transaction_id": 98697319
+                },
+                {
+                    "date": "2024-08-23",
+                    "description": "Interest",
+                    "amount": -1232.38,
+                    "transaction_id": 54537338
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Withdrawal",
+                    "amount": -3588.81,
+                    "transaction_id": 43361519
+                }
+            ]
+        }
+    }
+}

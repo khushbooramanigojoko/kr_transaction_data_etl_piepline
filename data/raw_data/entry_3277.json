@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mary Hurley",
+        "age": 50,
+        "gender": "female",
+        "address": "2670 Kyle Cliff, Weaverland, WY 26794",
+        "phone": "996.448.4283x2883",
+        "email": "riley13@example.net",
+        "account": {
+            "account_number": "1bb2545a-746f-449f-815c-030054a2d7e5",
+            "balance": 19699.78,
+            "transactions": [
+                {
+                    "date": "2024-04-14",
+                    "description": "Deposit",
+                    "amount": 33244.1,
+                    "transaction_id": 5264365
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Deposit",
+                    "amount": 32530.61,
+                    "transaction_id": 42468103
+                },
+                {
+                    "date": "2022-11-27",
+                    "description": "Withdrawal",
+                    "amount": 17592.11,
+                    "transaction_id": 10095717
+                },
+                {
+                    "date": "2024-02-19",
+                    "description": "Withdrawal",
+                    "amount": 34780.22,
+                    "transaction_id": 119705213
+                },
+                {
+                    "date": "2024-01-02",
+                    "description": "Withdrawal",
+                    "amount": 8131.82,
+                    "transaction_id": 87180766
+                }
+            ]
+        }
+    }
+}

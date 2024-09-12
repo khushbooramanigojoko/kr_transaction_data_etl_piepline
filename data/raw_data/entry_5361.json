@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tammy Morris",
+        "age": 31,
+        "gender": "female",
+        "address": "740 Kayla Estate Suite 161, New Garytown, NH 68352",
+        "phone": "(404)665-8411x177",
+        "email": "mcbrideelizabeth@example.com",
+        "account": {
+            "account_number": "5692e2f1-f876-4a00-b885-7d2e36cb7c4e",
+            "balance": 20575.03,
+            "transactions": [
+                {
+                    "date": "2023-02-08",
+                    "description": "Interest",
+                    "amount": 30056.78,
+                    "transaction_id": 82745374
+                }
+            ]
+        }
+    }
+}

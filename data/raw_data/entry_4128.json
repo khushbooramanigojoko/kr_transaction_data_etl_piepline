@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sandra Gallagher",
+        "age": 80,
+        "gender": "female",
+        "address": "95312 Ronald Knolls Apt. 827, Stephanieborough, NJ 70068",
+        "phone": "001-231-931-1339x34574",
+        "email": "kendra42@example.org",
+        "account": {
+            "account_number": "9524e34c-0c86-40eb-bb93-7046956d75bd",
+            "balance": 44331.24,
+            "transactions": [
+                {
+                    "date": "2024-01-07",
+                    "description": "Interest",
+                    "amount": 9728.83,
+                    "transaction_id": 118186611
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Deposit",
+                    "amount": 23057.45,
+                    "transaction_id": 94881983
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Interest",
+                    "amount": 18796.63,
+                    "transaction_id": 57047204
+                },
+                {
+                    "date": "2023-12-20",
+                    "description": "Interest",
+                    "amount": 24076.47,
+                    "transaction_id": 40889538
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Withdrawal",
+                    "amount": 46725.22,
+                    "transaction_id": 62433720
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Angela Smith",
+        "age": 73,
+        "gender": "male",
+        "address": "561 Sanford Extensions Apt. 961, Brianside, OR 06633",
+        "phone": "421-533-4107x844",
+        "email": "leetodd@example.net",
+        "account": {
+            "account_number": "c22c25c0-7977-4514-97c0-84d008b2626e",
+            "balance": 36210.18,
+            "transactions": [
+                {
+                    "date": "2023-02-20",
+                    "description": "Interest",
+                    "amount": 5408.47,
+                    "transaction_id": 84209984
+                }
+            ]
+        }
+    }
+}

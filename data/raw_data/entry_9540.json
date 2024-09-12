@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 84,
+        "gender": "female",
+        "address": "5477 Ferguson Mills Apt. 547, Port Ashleyport, WV 28834",
+        "phone": "001-632-485-9449x1882",
+        "email": "tiffany34@example.org",
+        "account": {
+            "account_number": "20a84a6e-4ef8-4e15-9653-db29485155b7",
+            "balance": 49177.47,
+            "transactions": [
+                {
+                    "date": "2023-06-04",
+                    "description": "Interest",
+                    "amount": 4996.39,
+                    "transaction_id": 33269626
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Withdrawal",
+                    "amount": 398.85,
+                    "transaction_id": 34437730
+                },
+                {
+                    "date": "2023-04-18",
+                    "description": "Withdrawal",
+                    "amount": -3373.37,
+                    "transaction_id": 75234899
+                },
+                {
+                    "date": "2024-07-29",
+                    "description": "Deposit",
+                    "amount": -1624.87,
+                    "transaction_id": 34467281
+                },
+                {
+                    "date": "2024-06-03",
+                    "description": "Interest",
+                    "amount": 2708.23,
+                    "transaction_id": 23432199
+                }
+            ]
+        }
+    }
+}

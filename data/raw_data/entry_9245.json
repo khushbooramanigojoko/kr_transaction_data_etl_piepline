@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Nathan Ortiz",
+        "age": 31,
+        "gender": "female",
+        "address": "32735 Amanda Gateway, West Juan, VA 50290",
+        "phone": "562.245.1051",
+        "email": "matthewsmanuel@example.net",
+        "account": {
+            "account_number": "f1fba8e1-ff8d-49a8-83d1-a11aed9168ee",
+            "balance": -14033.64,
+            "transactions": [
+                {
+                    "date": "2023-05-16",
+                    "description": "Withdrawal",
+                    "amount": 2304.03,
+                    "transaction_id": 39197878
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Deposit",
+                    "amount": -1230.98,
+                    "transaction_id": 104119798
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Interest",
+                    "amount": -2314.06,
+                    "transaction_id": 51027521
+                }
+            ]
+        }
+    }
+}

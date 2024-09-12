@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sean Lawrence",
+        "age": 41,
+        "gender": "male",
+        "address": "9660 Joshua Harbors Apt. 236, Williamstown, OK 67147",
+        "phone": "2742222409",
+        "email": "wvillarreal@example.org",
+        "account": {
+            "account_number": "adf3e925-11b9-4c06-b013-393d1632c6fa",
+            "balance": 5700.41,
+            "transactions": [
+                {
+                    "date": "2024-08-12",
+                    "description": "Deposit",
+                    "amount": 10604.49,
+                    "transaction_id": 91011973
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Withdrawal",
+                    "amount": 8632.96,
+                    "transaction_id": 22894991
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Interest",
+                    "amount": 38006.62,
+                    "transaction_id": 12880137
+                }
+            ]
+        }
+    }
+}

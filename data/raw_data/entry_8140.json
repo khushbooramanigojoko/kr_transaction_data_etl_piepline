@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sydney Burns",
+        "age": 18,
+        "gender": "female",
+        "address": "90839 Dana Canyon, New Gregory, ND 51137",
+        "phone": "940.769.8586x0850",
+        "email": "brian75@example.net",
+        "account": {
+            "account_number": "d46f647b-6e93-4800-bc93-050665d325cf",
+            "balance": 21798.03,
+            "transactions": [
+                {
+                    "date": "2023-01-02",
+                    "description": "Withdrawal",
+                    "amount": 24278.09,
+                    "transaction_id": 60014741
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Interest",
+                    "amount": 6613.12,
+                    "transaction_id": 101827770
+                }
+            ]
+        }
+    }
+}

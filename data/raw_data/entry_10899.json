@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jennifer Nunez",
+        "age": 54,
+        "gender": "female",
+        "address": "60554 Kimberly Passage Suite 868, Bryantborough, WA 87291",
+        "phone": "(937)582-8527",
+        "email": "ejacobs@example.com",
+        "account": {
+            "account_number": "f1375f4d-be07-4e06-8738-afbdd5401d72",
+            "balance": -27411.59,
+            "transactions": [
+                {
+                    "date": "2024-07-24",
+                    "description": "Deposit",
+                    "amount": -4735.75,
+                    "transaction_id": 100860372
+                }
+            ]
+        }
+    }
+}

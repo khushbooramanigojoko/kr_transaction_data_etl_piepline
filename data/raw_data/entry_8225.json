@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lisa Taylor",
+        "age": 85,
+        "gender": "male",
+        "address": "78009 Brown Forks, South Jenniferton, TX 40766",
+        "phone": "915-713-7825x089",
+        "email": "carlos70@example.org",
+        "account": {
+            "account_number": "72376a9f-a721-4e17-a73c-5b6aa90c9674",
+            "balance": 3280.42,
+            "transactions": [
+                {
+                    "date": "2024-07-12",
+                    "description": "Interest",
+                    "amount": 33117.12,
+                    "transaction_id": 38308097
+                }
+            ]
+        }
+    }
+}

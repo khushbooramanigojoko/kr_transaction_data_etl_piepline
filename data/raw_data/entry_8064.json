@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kevin Clark",
+        "age": 20,
+        "gender": "female",
+        "address": "Unit 3226 Box 3866, DPO AP 89234",
+        "phone": "515.340.5927x448",
+        "email": "davidolson@example.org",
+        "account": {
+            "account_number": "04680bb0-91fc-4af7-9f1b-29c9723a0891",
+            "balance": 6995.63,
+            "transactions": [
+                {
+                    "date": "2023-12-08",
+                    "description": "Deposit",
+                    "amount": 24078.02,
+                    "transaction_id": 7020917
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Interest",
+                    "amount": 40075.44,
+                    "transaction_id": 14600106
+                }
+            ]
+        }
+    }
+}

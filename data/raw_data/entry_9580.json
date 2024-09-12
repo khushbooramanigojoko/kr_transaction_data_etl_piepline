@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jordan Wagner",
+        "age": 81,
+        "gender": "female",
+        "address": "239 Lopez Mill Apt. 909, Ricardobury, OH 80182",
+        "phone": "327-306-3121",
+        "email": "stephensaaron@example.net",
+        "account": {
+            "account_number": "8bebec33-f9ae-43ed-91f7-3b591f082905",
+            "balance": -43995.93,
+            "transactions": [
+                {
+                    "date": "2023-12-20",
+                    "description": "Interest",
+                    "amount": 1933.27,
+                    "transaction_id": 38446345
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Deposit",
+                    "amount": -268.6,
+                    "transaction_id": 81963356
+                }
+            ]
+        }
+    }
+}

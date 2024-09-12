@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "David Harmon",
+        "age": 71,
+        "gender": "female",
+        "address": "95803 Traci Lock Suite 187, Port Johnstad, CT 57375",
+        "phone": "001-745-849-1988",
+        "email": "zcunningham@example.net",
+        "account": {
+            "account_number": "2a0b74a7-3729-4c61-8677-9275f77e89ec",
+            "balance": 9587.68,
+            "transactions": [
+                {
+                    "date": "2024-01-04",
+                    "description": "Interest",
+                    "amount": 23646.55,
+                    "transaction_id": 108326780
+                },
+                {
+                    "date": "2023-02-09",
+                    "description": "Interest",
+                    "amount": 10700.91,
+                    "transaction_id": 39770756
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Withdrawal",
+                    "amount": 25140.01,
+                    "transaction_id": 99990481
+                }
+            ]
+        }
+    }
+}

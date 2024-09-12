@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "David Calderon",
+        "age": 98,
+        "gender": "male",
+        "address": "44064 Davis Point, Burnsbury, NE 46758",
+        "phone": "001-987-818-3489x36581",
+        "email": "jacquelinewagner@example.com",
+        "account": {
+            "account_number": "d6a079db-9f16-4d5b-a59c-d2d4e413f9c5",
+            "balance": 33335.83,
+            "transactions": [
+                {
+                    "date": "2022-10-02",
+                    "description": "Interest",
+                    "amount": 29406.49,
+                    "transaction_id": 23389634
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Deposit",
+                    "amount": 43720.55,
+                    "transaction_id": 3288887
+                },
+                {
+                    "date": "2024-03-20",
+                    "description": "Interest",
+                    "amount": 7721.27,
+                    "transaction_id": 91361874
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Interest",
+                    "amount": 39369.68,
+                    "transaction_id": 55829616
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Withdrawal",
+                    "amount": 24150.37,
+                    "transaction_id": 4014259
+                }
+            ]
+        }
+    }
+}

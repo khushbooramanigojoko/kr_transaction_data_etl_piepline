@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Frederick Obrien",
+        "age": 62,
+        "gender": "female",
+        "address": "5425 Lloyd Valleys Suite 209, Gloverfurt, MD 64291",
+        "phone": "358-895-3635x2311",
+        "email": "james23@example.com",
+        "account": {
+            "account_number": "95216b7f-5fe6-4a54-8e36-dd2d0ce83c77",
+            "balance": 49414.71,
+            "transactions": [
+                {
+                    "date": "2023-09-20",
+                    "description": "Withdrawal",
+                    "amount": 29712.46,
+                    "transaction_id": 100225064
+                }
+            ]
+        }
+    }
+}

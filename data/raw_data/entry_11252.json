@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stephanie Woodard",
+        "age": 37,
+        "gender": "female",
+        "address": "19427 Rebecca Prairie, Port Bradley, FM 64796",
+        "phone": "+1-775-379-4251x9112",
+        "email": "shawn32@example.com",
+        "account": {
+            "account_number": "1134557d-1e99-4c6d-8f6a-39b911547b6c",
+            "balance": -9698.09,
+            "transactions": [
+                {
+                    "date": "2024-05-18",
+                    "description": "Withdrawal",
+                    "amount": 4179.36,
+                    "transaction_id": 110160577
+                },
+                {
+                    "date": "2023-08-12",
+                    "description": "Withdrawal",
+                    "amount": -4087.3,
+                    "transaction_id": 83011715
+                },
+                {
+                    "date": "2024-05-04",
+                    "description": "Interest",
+                    "amount": 2114.47,
+                    "transaction_id": 17217720
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Interest",
+                    "amount": -4424.41,
+                    "transaction_id": 95359709
+                }
+            ]
+        }
+    }
+}

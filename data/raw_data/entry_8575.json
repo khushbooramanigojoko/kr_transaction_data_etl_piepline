@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ryan Carney",
+        "age": 54,
+        "gender": "male",
+        "address": "691 Sandra Prairie, Deborahburgh, CO 07455",
+        "phone": "001-334-816-3951",
+        "email": "nicholasjohnson@example.org",
+        "account": {
+            "account_number": "415e596a-5068-472a-b34c-c92f0e131c46",
+            "balance": 2505.65,
+            "transactions": [
+                {
+                    "date": "2023-05-25",
+                    "description": "Interest",
+                    "amount": 35943.85,
+                    "transaction_id": 93946814
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Deposit",
+                    "amount": 7168.86,
+                    "transaction_id": 23437495
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Interest",
+                    "amount": 29461.85,
+                    "transaction_id": 107667326
+                },
+                {
+                    "date": "2023-03-04",
+                    "description": "Withdrawal",
+                    "amount": 17615.02,
+                    "transaction_id": 33808029
+                },
+                {
+                    "date": "2023-04-14",
+                    "description": "Deposit",
+                    "amount": 23553.63,
+                    "transaction_id": 14574526
+                }
+            ]
+        }
+    }
+}

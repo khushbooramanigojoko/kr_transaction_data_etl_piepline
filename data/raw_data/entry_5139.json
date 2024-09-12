@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Deborah Gray",
+        "age": 88,
+        "gender": "male",
+        "address": "17149 Avila Mount, Millerberg, NJ 23969",
+        "phone": "(565)539-9038x20651",
+        "email": "albert11@example.org",
+        "account": {
+            "account_number": "dd4597d0-5b44-458e-895b-73b79aa4f6bd",
+            "balance": 16076.05,
+            "transactions": [
+                {
+                    "date": "2024-03-22",
+                    "description": "Withdrawal",
+                    "amount": 39255.42,
+                    "transaction_id": 107700209
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Withdrawal",
+                    "amount": 35105.15,
+                    "transaction_id": 94038542
+                },
+                {
+                    "date": "2023-12-10",
+                    "description": "Interest",
+                    "amount": 45735.38,
+                    "transaction_id": 72955075
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Deposit",
+                    "amount": 36460.43,
+                    "transaction_id": 30084797
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Willis",
+        "age": 55,
+        "gender": "male",
+        "address": "2980 Daniel Route, Schmidtborough, MP 82749",
+        "phone": "+1-506-362-7413x50671",
+        "email": "sarahramirez@example.com",
+        "account": {
+            "account_number": "61bc371c-8b49-43eb-9040-34ed47371660",
+            "balance": 24186.98,
+            "transactions": [
+                {
+                    "date": "2023-05-14",
+                    "description": "Interest",
+                    "amount": 31369.05,
+                    "transaction_id": 9485305
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Interest",
+                    "amount": 45807.17,
+                    "transaction_id": 46472974
+                },
+                {
+                    "date": "2024-01-23",
+                    "description": "Withdrawal",
+                    "amount": 18258.08,
+                    "transaction_id": 77897767
+                },
+                {
+                    "date": "2024-02-14",
+                    "description": "Interest",
+                    "amount": 22104.64,
+                    "transaction_id": 96094597
+                },
+                {
+                    "date": "2023-08-07",
+                    "description": "Interest",
+                    "amount": 24336.91,
+                    "transaction_id": 93550221
+                }
+            ]
+        }
+    }
+}

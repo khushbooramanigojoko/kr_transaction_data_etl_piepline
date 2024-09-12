@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kristina Miller",
+        "age": 25,
+        "gender": "male",
+        "address": "USNV Miller, FPO AP 94199",
+        "phone": "001-344-207-1414x598",
+        "email": "emurphy@example.com",
+        "account": {
+            "account_number": "35d78982-144b-493f-8111-2dede431b901",
+            "balance": 34907.08,
+            "transactions": [
+                {
+                    "date": "2022-10-31",
+                    "description": "Interest",
+                    "amount": 8481.98,
+                    "transaction_id": 108666032
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Deposit",
+                    "amount": 27929.17,
+                    "transaction_id": 4541626
+                }
+            ]
+        }
+    }
+}

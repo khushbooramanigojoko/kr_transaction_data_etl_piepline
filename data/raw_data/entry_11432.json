@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jennifer Sullivan DVM",
+        "age": 98,
+        "gender": "female",
+        "address": "2835 Sherman Walks, Heatherton, ND 72632",
+        "phone": "+1-254-885-8272x287",
+        "email": "meltonalexander@example.com",
+        "account": {
+            "account_number": "faef6c21-3ff1-4f3f-af60-08802f2ae26d",
+            "balance": -31533.99,
+            "transactions": [
+                {
+                    "date": "2022-10-08",
+                    "description": "Deposit",
+                    "amount": 3765.95,
+                    "transaction_id": 83634370
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Deposit",
+                    "amount": -3082.03,
+                    "transaction_id": 55709689
+                }
+            ]
+        }
+    }
+}

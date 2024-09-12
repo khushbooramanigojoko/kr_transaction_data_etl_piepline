@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Dylan Guerrero",
+        "age": 35,
+        "gender": "male",
+        "address": "4970 Samantha Unions, Vargasport, IA 61991",
+        "phone": "7678759786",
+        "email": "scottgarza@example.org",
+        "account": {
+            "account_number": "7bc96c92-9497-4eae-8e59-b1110156da22",
+            "balance": 25685.11,
+            "transactions": [
+                {
+                    "date": "2023-02-20",
+                    "description": "Deposit",
+                    "amount": 18651.1,
+                    "transaction_id": 51449909
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Withdrawal",
+                    "amount": 45733.91,
+                    "transaction_id": 106848906
+                }
+            ]
+        }
+    }
+}

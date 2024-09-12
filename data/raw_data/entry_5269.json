@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sherry Turner",
+        "age": 18,
+        "gender": "male",
+        "address": "Unit 2370 Box 6904, DPO AP 46573",
+        "phone": "512-764-2366x41878",
+        "email": "theodoreconway@example.org",
+        "account": {
+            "account_number": "7b14399c-17b4-4836-b92a-7cc7bdb22245",
+            "balance": 27486.97,
+            "transactions": [
+                {
+                    "date": "2024-05-13",
+                    "description": "Deposit",
+                    "amount": 49071.86,
+                    "transaction_id": 39467386
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Susan Marsh",
+        "age": 95,
+        "gender": "male",
+        "address": "13485 Neal Flats, North Natashatown, AS 84551",
+        "phone": "+1-617-373-9145",
+        "email": "alexisolson@example.net",
+        "account": {
+            "account_number": "922ffa39-fb7a-4f43-9d93-0415418f3b6e",
+            "balance": 48901.04,
+            "transactions": [
+                {
+                    "date": "2023-10-02",
+                    "description": "Interest",
+                    "amount": 38236.46,
+                    "transaction_id": 57526326
+                },
+                {
+                    "date": "2023-06-29",
+                    "description": "Interest",
+                    "amount": 38274.14,
+                    "transaction_id": 118432067
+                },
+                {
+                    "date": "2023-08-29",
+                    "description": "Interest",
+                    "amount": 3338.8,
+                    "transaction_id": 83667426
+                }
+            ]
+        }
+    }
+}

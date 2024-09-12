@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Timothy Martin",
+        "age": 21,
+        "gender": "female",
+        "address": "0483 Angela Pines Suite 991, Ramseyfurt, NH 04345",
+        "phone": "(758)778-8169x491",
+        "email": "thomas19@example.org",
+        "account": {
+            "account_number": "bf78eed5-d563-4c6d-86b9-bafca9c028e4",
+            "balance": 13554.4,
+            "transactions": [
+                {
+                    "date": "2022-09-12",
+                    "description": "Deposit",
+                    "amount": 9001.45,
+                    "transaction_id": 87449646
+                },
+                {
+                    "date": "2023-03-11",
+                    "description": "Withdrawal",
+                    "amount": 11104.97,
+                    "transaction_id": 13126840
+                },
+                {
+                    "date": "2024-06-02",
+                    "description": "Withdrawal",
+                    "amount": 41312.26,
+                    "transaction_id": 79922554
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Interest",
+                    "amount": 44644.36,
+                    "transaction_id": 15932128
+                },
+                {
+                    "date": "2022-12-03",
+                    "description": "Deposit",
+                    "amount": 46909.25,
+                    "transaction_id": 48531125
+                }
+            ]
+        }
+    }
+}

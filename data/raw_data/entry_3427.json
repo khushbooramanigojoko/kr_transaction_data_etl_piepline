@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kimberly Davis",
+        "age": 83,
+        "gender": "female",
+        "address": "64140 Reyes Stravenue Apt. 478, Jaimehaven, OK 19113",
+        "phone": "(299)340-2139x21720",
+        "email": "perezjennifer@example.org",
+        "account": {
+            "account_number": "59c4f8c0-52aa-4d9c-93e4-b9f5ac97eb20",
+            "balance": 22275.84,
+            "transactions": [
+                {
+                    "date": "2024-02-13",
+                    "description": "Withdrawal",
+                    "amount": 44425.7,
+                    "transaction_id": 100201947
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Withdrawal",
+                    "amount": 19770.35,
+                    "transaction_id": 111908347
+                }
+            ]
+        }
+    }
+}

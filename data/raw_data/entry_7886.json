@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Caldwell",
+        "age": 30,
+        "gender": "female",
+        "address": "6889 Michael Village Suite 507, New Susanland, MN 68014",
+        "phone": "613.790.5763x1294",
+        "email": "charles08@example.com",
+        "account": {
+            "account_number": "04f7d0d7-fe39-406e-bfb4-9d28327a02df",
+            "balance": 21400.92,
+            "transactions": [
+                {
+                    "date": "2022-10-11",
+                    "description": "Deposit",
+                    "amount": 47150.69,
+                    "transaction_id": 12728964
+                }
+            ]
+        }
+    }
+}

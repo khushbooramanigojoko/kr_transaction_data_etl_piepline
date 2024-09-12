@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mary Rogers",
+        "age": 94,
+        "gender": "male",
+        "address": "866 Hobbs Creek, South Karen, WV 74621",
+        "phone": "371-906-3572x540",
+        "email": "bakerdaniel@example.org",
+        "account": {
+            "account_number": "a8fa59d9-d86d-43d9-890c-91629c8b42e3",
+            "balance": -29336.28,
+            "transactions": [
+                {
+                    "date": "2022-10-12",
+                    "description": "Interest",
+                    "amount": -1405.8,
+                    "transaction_id": 76493015
+                },
+                {
+                    "date": "2023-04-12",
+                    "description": "Interest",
+                    "amount": -3953.07,
+                    "transaction_id": 79153525
+                }
+            ]
+        }
+    }
+}

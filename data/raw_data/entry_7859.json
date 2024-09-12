@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jonathan Martinez",
+        "age": 86,
+        "gender": "male",
+        "address": "78905 Lopez Loaf, Port Williamburgh, MS 69754",
+        "phone": "+1-260-964-3694x17781",
+        "email": "jessicaenglish@example.com",
+        "account": {
+            "account_number": "31fb6471-3003-422b-b3c3-1e6c5d05d878",
+            "balance": 47298.46,
+            "transactions": [
+                {
+                    "date": "2022-09-24",
+                    "description": "Deposit",
+                    "amount": 5433.4,
+                    "transaction_id": 58016059
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Deposit",
+                    "amount": 20824.28,
+                    "transaction_id": 27719194
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Deposit",
+                    "amount": 25533.51,
+                    "transaction_id": 30045547
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Withdrawal",
+                    "amount": 39109.69,
+                    "transaction_id": 18647863
+                },
+                {
+                    "date": "2023-10-25",
+                    "description": "Deposit",
+                    "amount": 34272.47,
+                    "transaction_id": 12006465
+                }
+            ]
+        }
+    }
+}

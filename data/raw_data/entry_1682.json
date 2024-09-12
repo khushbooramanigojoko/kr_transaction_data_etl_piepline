@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "William Mcdonald",
+        "age": 62,
+        "gender": "female",
+        "address": "USCGC James, FPO AA 90672",
+        "phone": "001-808-245-1166x144",
+        "email": "dwright@example.org",
+        "account": {
+            "account_number": "66f8e919-109e-49e2-8822-0982ebb35401",
+            "balance": 17922.15,
+            "transactions": [
+                {
+                    "date": "2023-10-07",
+                    "description": "Deposit",
+                    "amount": 6457.28,
+                    "transaction_id": 89349162
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Deposit",
+                    "amount": 42523.74,
+                    "transaction_id": 118894938
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Interest",
+                    "amount": 190.34,
+                    "transaction_id": 43771689
+                }
+            ]
+        }
+    }
+}

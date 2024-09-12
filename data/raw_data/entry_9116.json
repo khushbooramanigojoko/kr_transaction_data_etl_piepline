@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Danielle Hudson",
+        "age": 83,
+        "gender": "male",
+        "address": "Unit 5661 Box 2803, DPO AE 34205",
+        "phone": "965-215-5561x55091",
+        "email": "david46@example.com",
+        "account": {
+            "account_number": "3a04202f-e26c-4d3c-b9e5-ba3a9267cd7f",
+            "balance": -34100.46,
+            "transactions": [
+                {
+                    "date": "2022-11-01",
+                    "description": "Deposit",
+                    "amount": -4106.37,
+                    "transaction_id": 44979861
+                },
+                {
+                    "date": "2023-06-29",
+                    "description": "Deposit",
+                    "amount": 3368.73,
+                    "transaction_id": 108995240
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Deposit",
+                    "amount": -3374.89,
+                    "transaction_id": 42983226
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Interest",
+                    "amount": 3959.38,
+                    "transaction_id": 112062683
+                },
+                {
+                    "date": "2024-09-01",
+                    "description": "Interest",
+                    "amount": -809.83,
+                    "transaction_id": 115050917
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Lindsay Jordan",
+        "age": 64,
+        "gender": "female",
+        "address": "USCGC Johnston, FPO AE 18674",
+        "phone": "702-910-1034x1578",
+        "email": "willisgloria@example.net",
+        "account": {
+            "account_number": "42382e7a-9275-4261-b645-d60c75bd196c",
+            "balance": 27045.65,
+            "transactions": [
+                {
+                    "date": "2023-10-22",
+                    "description": "Withdrawal",
+                    "amount": 22699.74,
+                    "transaction_id": 35608975
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Withdrawal",
+                    "amount": 37665.39,
+                    "transaction_id": 96324366
+                },
+                {
+                    "date": "2023-12-21",
+                    "description": "Interest",
+                    "amount": 22285.87,
+                    "transaction_id": 48342993
+                }
+            ]
+        }
+    }
+}

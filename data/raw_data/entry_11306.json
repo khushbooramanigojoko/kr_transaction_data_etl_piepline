@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 69,
+        "gender": "female",
+        "address": "968 Darlene Avenue Suite 899, Donaldland, NM 88854",
+        "phone": "001-875-999-5675x62745",
+        "email": "shaun12@example.org",
+        "account": {
+            "account_number": "8cfb6838-f410-43ca-b1c6-a7f548cb8d52",
+            "balance": 48933.43,
+            "transactions": [
+                {
+                    "date": "2024-02-09",
+                    "description": "Interest",
+                    "amount": 579.33,
+                    "transaction_id": 12383894
+                },
+                {
+                    "date": "2024-08-16",
+                    "description": "Withdrawal",
+                    "amount": 4349.09,
+                    "transaction_id": 44622563
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Deposit",
+                    "amount": 1537.8,
+                    "transaction_id": 20034586
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Withdrawal",
+                    "amount": 1262.05,
+                    "transaction_id": 50153616
+                }
+            ]
+        }
+    }
+}

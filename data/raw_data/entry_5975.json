@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Matthew Shaw",
+        "age": 38,
+        "gender": "male",
+        "address": "114 Michael Bypass Suite 305, Lake Kevin, WY 18616",
+        "phone": "(228)248-5915x95557",
+        "email": "kathrynmartin@example.com",
+        "account": {
+            "account_number": "77e539f4-3b1a-4ec8-98e6-0dfcf955c536",
+            "balance": 23573.22,
+            "transactions": [
+                {
+                    "date": "2024-08-31",
+                    "description": "Deposit",
+                    "amount": 2959.79,
+                    "transaction_id": 70164150
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Deposit",
+                    "amount": 21661.42,
+                    "transaction_id": 42975716
+                },
+                {
+                    "date": "2024-08-09",
+                    "description": "Interest",
+                    "amount": 44179.19,
+                    "transaction_id": 83491523
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Withdrawal",
+                    "amount": 28256.25,
+                    "transaction_id": 1424290
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Withdrawal",
+                    "amount": 13210.13,
+                    "transaction_id": 55669590
+                }
+            ]
+        }
+    }
+}

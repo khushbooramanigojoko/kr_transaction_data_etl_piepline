@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Melissa Tate",
+        "age": 46,
+        "gender": "male",
+        "address": "Unit 8756 Box 7610, DPO AP 26706",
+        "phone": "001-640-320-1368",
+        "email": "johnsonjennifer@example.com",
+        "account": {
+            "account_number": "1b196bb6-827a-48dd-a9af-beee20140120",
+            "balance": 22565.55,
+            "transactions": [
+                {
+                    "date": "2022-10-29",
+                    "description": "Deposit",
+                    "amount": 18684.57,
+                    "transaction_id": 21959290
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Withdrawal",
+                    "amount": 21445.08,
+                    "transaction_id": 60072540
+                },
+                {
+                    "date": "2023-11-21",
+                    "description": "Deposit",
+                    "amount": 36072.8,
+                    "transaction_id": 2299392
+                },
+                {
+                    "date": "2023-04-18",
+                    "description": "Interest",
+                    "amount": 24531.3,
+                    "transaction_id": 102819570
+                }
+            ]
+        }
+    }
+}

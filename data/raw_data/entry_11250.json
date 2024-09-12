@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Anthony Miller",
+        "age": 72,
+        "gender": "male",
+        "address": "20844 Cameron Keys Suite 976, Blackfort, VA 13027",
+        "phone": "(431)308-1014x66504",
+        "email": "jesseanderson@example.net",
+        "account": {
+            "account_number": "343fd996-5af8-482e-8094-10322ff32039",
+            "balance": -39431.72,
+            "transactions": [
+                {
+                    "date": "2023-04-14",
+                    "description": "Deposit",
+                    "amount": -4351.56,
+                    "transaction_id": 64824988
+                },
+                {
+                    "date": "2022-12-09",
+                    "description": "Interest",
+                    "amount": -2662.76,
+                    "transaction_id": 66301198
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Grant Page",
+        "age": 39,
+        "gender": "female",
+        "address": "646 Smith Plains, Robersonview, ND 50355",
+        "phone": "001-669-913-8878x3276",
+        "email": "jennifermorgan@example.org",
+        "account": {
+            "account_number": "f90628be-e900-4fc7-8a25-30b63fc630f1",
+            "balance": -15725.64,
+            "transactions": [
+                {
+                    "date": "2023-01-08",
+                    "description": "Withdrawal",
+                    "amount": -3846.31,
+                    "transaction_id": 38764696
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Withdrawal",
+                    "amount": -2985.67,
+                    "transaction_id": 7036875
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Deposit",
+                    "amount": 563.82,
+                    "transaction_id": 5958271
+                },
+                {
+                    "date": "2022-10-24",
+                    "description": "Withdrawal",
+                    "amount": 2098.03,
+                    "transaction_id": 103814233
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Frederick Davis",
+        "age": 84,
+        "gender": "male",
+        "address": "5077 Villarreal Rue Apt. 534, West Annette, NM 40279",
+        "phone": "2612583257",
+        "email": "katelynmyers@example.net",
+        "account": {
+            "account_number": "a9188427-decc-4114-adde-5c655fb834c2",
+            "balance": -44617.71,
+            "transactions": [
+                {
+                    "date": "2024-05-31",
+                    "description": "Withdrawal",
+                    "amount": 3383.31,
+                    "transaction_id": 111595403
+                },
+                {
+                    "date": "2023-10-01",
+                    "description": "Withdrawal",
+                    "amount": -439.1,
+                    "transaction_id": 70789302
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Interest",
+                    "amount": 671.6,
+                    "transaction_id": 112248493
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Deposit",
+                    "amount": 834.72,
+                    "transaction_id": 22588491
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Deposit",
+                    "amount": 2996.23,
+                    "transaction_id": 77153528
+                }
+            ]
+        }
+    }
+}

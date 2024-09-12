@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 65,
+        "gender": "male",
+        "address": "1259 Black Glens Apt. 252, Briantown, PA 22846",
+        "phone": "(301)375-7682",
+        "email": "unelson@example.net",
+        "account": {
+            "account_number": "3fb96e72-6629-4524-99d2-c5bea2b0024c",
+            "balance": 7282.27,
+            "transactions": [
+                {
+                    "date": "2022-09-27",
+                    "description": "Interest",
+                    "amount": -1847.58,
+                    "transaction_id": 117935462
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Withdrawal",
+                    "amount": 236.98,
+                    "transaction_id": 90199178
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Withdrawal",
+                    "amount": 3502.53,
+                    "transaction_id": 63522281
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Interest",
+                    "amount": -1524.91,
+                    "transaction_id": 64690539
+                }
+            ]
+        }
+    }
+}

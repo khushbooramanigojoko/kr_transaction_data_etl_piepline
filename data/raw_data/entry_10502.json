@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 45,
+        "gender": "male",
+        "address": "023 Michelle Pine, Acostabury, MT 46354",
+        "phone": "582-396-1016",
+        "email": "nicholas28@example.net",
+        "account": {
+            "account_number": "fff18f2d-0289-4264-8548-8787383f1a7d",
+            "balance": 36439.85,
+            "transactions": [
+                {
+                    "date": "2023-02-06",
+                    "description": "Interest",
+                    "amount": 2016.96,
+                    "transaction_id": 63525252
+                }
+            ]
+        }
+    }
+}

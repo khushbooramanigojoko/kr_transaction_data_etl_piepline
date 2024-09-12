@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Gary Golden",
+        "age": 95,
+        "gender": "female",
+        "address": "8276 Mcdonald Forges Suite 852, Lukemouth, TX 09617",
+        "phone": "001-452-474-3242x84556",
+        "email": "perezdustin@example.org",
+        "account": {
+            "account_number": "fde978aa-1226-45c6-af66-b98321721bfb",
+            "balance": 6571.76,
+            "transactions": [
+                {
+                    "date": "2023-09-10",
+                    "description": "Deposit",
+                    "amount": 10921.2,
+                    "transaction_id": 85590743
+                },
+                {
+                    "date": "2023-12-20",
+                    "description": "Withdrawal",
+                    "amount": 29154.49,
+                    "transaction_id": 37839189
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Withdrawal",
+                    "amount": 31425.1,
+                    "transaction_id": 83301677
+                },
+                {
+                    "date": "2023-09-28",
+                    "description": "Interest",
+                    "amount": 44310.77,
+                    "transaction_id": 106129370
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 92,
+        "gender": "male",
+        "address": "4846 Christopher Mission Suite 088, Danielport, PA 97183",
+        "phone": "820-916-2636x8379",
+        "email": "john21@example.net",
+        "account": {
+            "account_number": "60ec42cc-169c-4d95-b241-dcef06a84d4c",
+            "balance": 46717.38,
+            "transactions": [
+                {
+                    "date": "2023-12-15",
+                    "description": "Deposit",
+                    "amount": -3460.37,
+                    "transaction_id": 113142601
+                }
+            ]
+        }
+    }
+}

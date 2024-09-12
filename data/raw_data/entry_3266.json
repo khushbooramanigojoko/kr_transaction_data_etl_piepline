@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kimberly Walsh",
+        "age": 49,
+        "gender": "male",
+        "address": "4582 Jessica Drive Apt. 486, South Antonio, NE 34236",
+        "phone": "(734)712-1465",
+        "email": "julieadams@example.org",
+        "account": {
+            "account_number": "72af27ca-27b5-448f-881e-87cd4adc18cf",
+            "balance": 6474.64,
+            "transactions": [
+                {
+                    "date": "2024-05-15",
+                    "description": "Withdrawal",
+                    "amount": 34313.39,
+                    "transaction_id": 40881430
+                },
+                {
+                    "date": "2023-07-01",
+                    "description": "Withdrawal",
+                    "amount": 39042.61,
+                    "transaction_id": 24932800
+                },
+                {
+                    "date": "2024-07-13",
+                    "description": "Withdrawal",
+                    "amount": 34206.55,
+                    "transaction_id": 96540920
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Deposit",
+                    "amount": 5043.43,
+                    "transaction_id": 9633719
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Withdrawal",
+                    "amount": 11140.76,
+                    "transaction_id": 26931890
+                }
+            ]
+        }
+    }
+}

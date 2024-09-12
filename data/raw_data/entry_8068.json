@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jonathan Mccarthy",
+        "age": 88,
+        "gender": "male",
+        "address": "289 Hoffman Passage Apt. 221, Lake Bryan, RI 56838",
+        "phone": "858-200-4139x622",
+        "email": "warejessica@example.net",
+        "account": {
+            "account_number": "386c143d-490b-4111-b4c5-5504741a1b62",
+            "balance": 26112.42,
+            "transactions": [
+                {
+                    "date": "2023-06-03",
+                    "description": "Deposit",
+                    "amount": 48993.6,
+                    "transaction_id": 30575023
+                }
+            ]
+        }
+    }
+}

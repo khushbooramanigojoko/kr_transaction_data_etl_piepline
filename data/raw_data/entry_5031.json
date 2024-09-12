@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Anna Phillips",
+        "age": 91,
+        "gender": "female",
+        "address": "82427 James Station Apt. 284, Robertfurt, NE 02000",
+        "phone": "001-567-833-6997",
+        "email": "ethanbell@example.net",
+        "account": {
+            "account_number": "c28ecf11-1056-4333-8de2-b8b576992526",
+            "balance": 1248.12,
+            "transactions": [
+                {
+                    "date": "2024-06-02",
+                    "description": "Withdrawal",
+                    "amount": 32852.64,
+                    "transaction_id": 95663679
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Deposit",
+                    "amount": 39446.74,
+                    "transaction_id": 9487764
+                },
+                {
+                    "date": "2023-01-10",
+                    "description": "Deposit",
+                    "amount": 49983.73,
+                    "transaction_id": 77145008
+                }
+            ]
+        }
+    }
+}

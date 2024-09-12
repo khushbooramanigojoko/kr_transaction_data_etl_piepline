@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Brandi Vargas",
+        "age": 45,
+        "gender": "female",
+        "address": "866 Charles Wells, North Angelaport, NC 83722",
+        "phone": "462-369-3482",
+        "email": "qcompton@example.com",
+        "account": {
+            "account_number": "b6c9d28a-9905-410f-91dd-311f8e849e3c",
+            "balance": 21949.63,
+            "transactions": [
+                {
+                    "date": "2023-03-10",
+                    "description": "Deposit",
+                    "amount": 20264.67,
+                    "transaction_id": 43010658
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Withdrawal",
+                    "amount": 1776.16,
+                    "transaction_id": 93169938
+                },
+                {
+                    "date": "2023-05-06",
+                    "description": "Deposit",
+                    "amount": 15865.89,
+                    "transaction_id": 54636223
+                }
+            ]
+        }
+    }
+}

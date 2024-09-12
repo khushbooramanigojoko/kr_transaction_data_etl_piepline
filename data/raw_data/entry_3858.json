@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Felicia Williams",
+        "age": 43,
+        "gender": "female",
+        "address": "33589 Clark Cliffs, East Kristybury, SD 50348",
+        "phone": "001-355-296-6025x073",
+        "email": "vramsey@example.net",
+        "account": {
+            "account_number": "a06a0299-f23c-441c-93df-fe84902de503",
+            "balance": 21296.77,
+            "transactions": [
+                {
+                    "date": "2024-07-05",
+                    "description": "Interest",
+                    "amount": 39210.72,
+                    "transaction_id": 69636540
+                },
+                {
+                    "date": "2024-07-04",
+                    "description": "Interest",
+                    "amount": 33229.16,
+                    "transaction_id": 87658687
+                }
+            ]
+        }
+    }
+}

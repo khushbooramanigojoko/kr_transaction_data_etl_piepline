@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Wheeler",
+        "age": 93,
+        "gender": "female",
+        "address": "3369 Debra Tunnel, New Jeffery, UT 49806",
+        "phone": "(789)599-5434",
+        "email": "sweaver@example.org",
+        "account": {
+            "account_number": "7ae935fd-e5d7-4691-854d-c6b431966b6e",
+            "balance": 12943.27,
+            "transactions": [
+                {
+                    "date": "2024-09-01",
+                    "description": "Withdrawal",
+                    "amount": 14095.14,
+                    "transaction_id": 65975529
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Interest",
+                    "amount": 28882.48,
+                    "transaction_id": 70511632
+                },
+                {
+                    "date": "2024-05-03",
+                    "description": "Deposit",
+                    "amount": 24183.92,
+                    "transaction_id": 7803767
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Withdrawal",
+                    "amount": 25394.83,
+                    "transaction_id": 50214140
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Interest",
+                    "amount": 24215.59,
+                    "transaction_id": 1071055
+                }
+            ]
+        }
+    }
+}

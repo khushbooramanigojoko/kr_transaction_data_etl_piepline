@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Jefferson",
+        "age": 35,
+        "gender": "female",
+        "address": "761 Frank Mountains Suite 757, Fredside, HI 55211",
+        "phone": "(239)886-9443x865",
+        "email": "thomasbenjamin@example.org",
+        "account": {
+            "account_number": "6b60ee38-718a-4733-8a1b-3ea4dd1757a8",
+            "balance": 17325.46,
+            "transactions": [
+                {
+                    "date": "2023-06-25",
+                    "description": "Deposit",
+                    "amount": 2966.94,
+                    "transaction_id": 48604442
+                },
+                {
+                    "date": "2024-05-24",
+                    "description": "Withdrawal",
+                    "amount": 25819.38,
+                    "transaction_id": 110220773
+                },
+                {
+                    "date": "2023-09-28",
+                    "description": "Withdrawal",
+                    "amount": 10447.24,
+                    "transaction_id": 33323163
+                }
+            ]
+        }
+    }
+}

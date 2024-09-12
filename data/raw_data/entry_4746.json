@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Samantha Hull",
+        "age": 32,
+        "gender": "male",
+        "address": "85305 Oscar Mountains, North Antonioberg, ND 54969",
+        "phone": "001-294-973-1746x1370",
+        "email": "umaynard@example.com",
+        "account": {
+            "account_number": "b9a1c30e-7a7a-4345-b106-f3205c93ca0b",
+            "balance": 14993.37,
+            "transactions": [
+                {
+                    "date": "2024-01-05",
+                    "description": "Interest",
+                    "amount": 27487.39,
+                    "transaction_id": 85548889
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Withdrawal",
+                    "amount": 6747.46,
+                    "transaction_id": 86107798
+                }
+            ]
+        }
+    }
+}

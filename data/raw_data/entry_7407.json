@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Roger Rogers",
+        "age": 73,
+        "gender": "female",
+        "address": "793 Castaneda Divide, Whitebury, DE 91019",
+        "phone": "(523)250-0625x821",
+        "email": "hicksjesse@example.com",
+        "account": {
+            "account_number": "7bb35b8d-3556-4986-b813-1bb6690d798f",
+            "balance": 30626.75,
+            "transactions": [
+                {
+                    "date": "2022-11-13",
+                    "description": "Deposit",
+                    "amount": 36547.5,
+                    "transaction_id": 32169177
+                },
+                {
+                    "date": "2023-03-08",
+                    "description": "Withdrawal",
+                    "amount": 6990.67,
+                    "transaction_id": 84763523
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Withdrawal",
+                    "amount": 45607.98,
+                    "transaction_id": 111657907
+                },
+                {
+                    "date": "2023-05-16",
+                    "description": "Withdrawal",
+                    "amount": 13538.62,
+                    "transaction_id": 30231335
+                }
+            ]
+        }
+    }
+}

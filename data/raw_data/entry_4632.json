@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Robert Joyce",
+        "age": 45,
+        "gender": "male",
+        "address": "707 Wagner Square Apt. 500, South Johnny, NJ 35961",
+        "phone": "001-340-567-4341x03561",
+        "email": "smithisabella@example.com",
+        "account": {
+            "account_number": "d1058be3-c865-408a-9040-8b77b25c45a0",
+            "balance": 24121.2,
+            "transactions": [
+                {
+                    "date": "2022-10-08",
+                    "description": "Deposit",
+                    "amount": 16309.76,
+                    "transaction_id": 26734716
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Withdrawal",
+                    "amount": 6371.22,
+                    "transaction_id": 25094050
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "James Gilbert",
+        "age": 61,
+        "gender": "female",
+        "address": "395 Dyer Shoals, West Ryanland, MI 06437",
+        "phone": "(749)845-6327x585",
+        "email": "weissbrian@example.org",
+        "account": {
+            "account_number": "02b17e48-cd02-49d4-9d48-6af0967fad2b",
+            "balance": 17670.03,
+            "transactions": [
+                {
+                    "date": "2024-05-30",
+                    "description": "Interest",
+                    "amount": 1006.31,
+                    "transaction_id": 91046198
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Interest",
+                    "amount": 18557.98,
+                    "transaction_id": 31577316
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Deposit",
+                    "amount": 18615.99,
+                    "transaction_id": 50298770
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Withdrawal",
+                    "amount": 15488.73,
+                    "transaction_id": 20757287
+                }
+            ]
+        }
+    }
+}

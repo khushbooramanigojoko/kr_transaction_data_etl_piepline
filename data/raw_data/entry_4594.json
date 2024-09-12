@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mr. Victor Singleton",
+        "age": 25,
+        "gender": "male",
+        "address": "39129 Jones Pass Suite 899, Port Robinfurt, IN 55745",
+        "phone": "(422)400-5397x527",
+        "email": "vnewman@example.net",
+        "account": {
+            "account_number": "5872587a-b8c4-4768-9a4b-22bc3b6f78a7",
+            "balance": 1666.58,
+            "transactions": [
+                {
+                    "date": "2022-10-28",
+                    "description": "Deposit",
+                    "amount": 9754.86,
+                    "transaction_id": 8932690
+                }
+            ]
+        }
+    }
+}

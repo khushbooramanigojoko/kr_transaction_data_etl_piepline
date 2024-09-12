@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Stephen Porter",
+        "age": 64,
+        "gender": "male",
+        "address": "7183 Bowen Courts, Kellyport, MS 28754",
+        "phone": "462.585.0017x81817",
+        "email": "browningsandy@example.org",
+        "account": {
+            "account_number": "13e42d3e-e34c-4087-9fd0-0c8264971b81",
+            "balance": 25459.24,
+            "transactions": [
+                {
+                    "date": "2023-06-07",
+                    "description": "Deposit",
+                    "amount": 1761.51,
+                    "transaction_id": 59526311
+                },
+                {
+                    "date": "2023-02-08",
+                    "description": "Withdrawal",
+                    "amount": 17879.04,
+                    "transaction_id": 53265981
+                }
+            ]
+        }
+    }
+}

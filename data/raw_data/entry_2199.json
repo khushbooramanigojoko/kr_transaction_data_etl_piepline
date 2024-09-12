@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kenneth Medina MD",
+        "age": 51,
+        "gender": "male",
+        "address": "USS Jimenez, FPO AE 49423",
+        "phone": "(836)877-2412x8133",
+        "email": "fdaugherty@example.org",
+        "account": {
+            "account_number": "b4aad5e2-f90f-4ff8-a5af-ce128c5fba63",
+            "balance": 18001.57,
+            "transactions": [
+                {
+                    "date": "2022-11-02",
+                    "description": "Deposit",
+                    "amount": 34895.69,
+                    "transaction_id": 104021176
+                }
+            ]
+        }
+    }
+}

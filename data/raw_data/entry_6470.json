@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Erin Gray",
+        "age": 56,
+        "gender": "male",
+        "address": "064 Bell Station Suite 199, Sheilashire, NC 99656",
+        "phone": "752.591.0578",
+        "email": "ericlarson@example.net",
+        "account": {
+            "account_number": "32765954-46ee-4030-aa81-80452a6e3e86",
+            "balance": 10250.11,
+            "transactions": [
+                {
+                    "date": "2023-05-02",
+                    "description": "Deposit",
+                    "amount": 33145.26,
+                    "transaction_id": 48207754
+                },
+                {
+                    "date": "2023-09-09",
+                    "description": "Withdrawal",
+                    "amount": 13397.56,
+                    "transaction_id": 24126204
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Deposit",
+                    "amount": 8732.66,
+                    "transaction_id": 80616033
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Withdrawal",
+                    "amount": 15461.45,
+                    "transaction_id": 68082213
+                }
+            ]
+        }
+    }
+}

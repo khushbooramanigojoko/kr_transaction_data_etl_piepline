@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Brandon Brown",
+        "age": 40,
+        "gender": "male",
+        "address": "Unit 0278 Box 8855, DPO AA 65589",
+        "phone": "402-980-9606",
+        "email": "courtneyjohnson@example.org",
+        "account": {
+            "account_number": "e8336afa-aa9d-4922-a064-6db5fa9e2742",
+            "balance": 30213.5,
+            "transactions": [
+                {
+                    "date": "2023-10-01",
+                    "description": "Withdrawal",
+                    "amount": 45652.31,
+                    "transaction_id": 48295179
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Interest",
+                    "amount": 37236.45,
+                    "transaction_id": 18774899
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Deposit",
+                    "amount": 21863.84,
+                    "transaction_id": 100377924
+                }
+            ]
+        }
+    }
+}

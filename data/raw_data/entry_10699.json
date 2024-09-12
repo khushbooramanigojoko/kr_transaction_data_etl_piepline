@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Marc Bradley",
+        "age": 86,
+        "gender": "male",
+        "address": "13984 Paul Knolls, Rayborough, FL 70937",
+        "phone": "568.202.4645",
+        "email": "zanderson@example.com",
+        "account": {
+            "account_number": "6b54af3a-d24d-4617-b71c-ad13a421611a",
+            "balance": -7187.68,
+            "transactions": [
+                {
+                    "date": "2024-08-23",
+                    "description": "Deposit",
+                    "amount": 1818.05,
+                    "transaction_id": 48780781
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Deposit",
+                    "amount": 435.5,
+                    "transaction_id": 65351080
+                },
+                {
+                    "date": "2022-10-18",
+                    "description": "Deposit",
+                    "amount": 601.56,
+                    "transaction_id": 105361625
+                },
+                {
+                    "date": "2024-02-11",
+                    "description": "Interest",
+                    "amount": -449.41,
+                    "transaction_id": 3155708
+                }
+            ]
+        }
+    }
+}

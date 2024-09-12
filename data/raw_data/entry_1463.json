@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Vanessa Miller",
+        "age": 45,
+        "gender": "female",
+        "address": "975 Crawford Rue Apt. 432, Christianstad, AS 72437",
+        "phone": "5733564088",
+        "email": "sduncan@example.org",
+        "account": {
+            "account_number": "9457baeb-92ee-4352-992d-6767ce7247c5",
+            "balance": 21744.31,
+            "transactions": [
+                {
+                    "date": "2023-12-06",
+                    "description": "Deposit",
+                    "amount": 42416.24,
+                    "transaction_id": 29758321
+                },
+                {
+                    "date": "2022-10-30",
+                    "description": "Deposit",
+                    "amount": 33545.47,
+                    "transaction_id": 70451523
+                },
+                {
+                    "date": "2022-09-23",
+                    "description": "Withdrawal",
+                    "amount": 45874.31,
+                    "transaction_id": 87795305
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Withdrawal",
+                    "amount": 24547.45,
+                    "transaction_id": 54773681
+                }
+            ]
+        }
+    }
+}

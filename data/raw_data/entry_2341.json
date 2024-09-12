@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Elizabeth Garcia",
+        "age": 62,
+        "gender": "male",
+        "address": "96973 Jennifer Ville, Jamesburgh, MD 63216",
+        "phone": "+1-604-923-0315x71168",
+        "email": "marquezalyssa@example.net",
+        "account": {
+            "account_number": "3f166bcd-35db-430b-8a4a-484d7b483146",
+            "balance": 3254.73,
+            "transactions": [
+                {
+                    "date": "2024-01-08",
+                    "description": "Interest",
+                    "amount": 4910.34,
+                    "transaction_id": 95683649
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Withdrawal",
+                    "amount": 20456.45,
+                    "transaction_id": 105449289
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Withdrawal",
+                    "amount": 46955.23,
+                    "transaction_id": 28316625
+                },
+                {
+                    "date": "2024-07-09",
+                    "description": "Deposit",
+                    "amount": 23511.37,
+                    "transaction_id": 23948102
+                },
+                {
+                    "date": "2023-04-20",
+                    "description": "Interest",
+                    "amount": 33961.97,
+                    "transaction_id": 106937403
+                }
+            ]
+        }
+    }
+}

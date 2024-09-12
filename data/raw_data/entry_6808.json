@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michelle Evans",
+        "age": 73,
+        "gender": "female",
+        "address": "USNV Griffith, FPO AE 59456",
+        "phone": "857-646-4344",
+        "email": "meganrobinson@example.com",
+        "account": {
+            "account_number": "39d357ee-0706-4476-add4-d1fada97febf",
+            "balance": 18400.04,
+            "transactions": [
+                {
+                    "date": "2022-11-04",
+                    "description": "Withdrawal",
+                    "amount": 29291.95,
+                    "transaction_id": 110238911
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Interest",
+                    "amount": 5055.27,
+                    "transaction_id": 33829066
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Deposit",
+                    "amount": 35889.21,
+                    "transaction_id": 88442141
+                }
+            ]
+        }
+    }
+}

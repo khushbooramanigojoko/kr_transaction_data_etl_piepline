@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 18,
+        "gender": "male",
+        "address": "USNS Trujillo, FPO AA 02278",
+        "phone": "555-689-6616x119",
+        "email": "thomascox@example.com",
+        "account": {
+            "account_number": "d47182cc-2079-47e9-bf20-9a2143bf9aea",
+            "balance": 9936.47,
+            "transactions": [
+                {
+                    "date": "2022-10-14",
+                    "description": "Deposit",
+                    "amount": 4714.92,
+                    "transaction_id": 73238168
+                },
+                {
+                    "date": "2024-06-03",
+                    "description": "Deposit",
+                    "amount": 602.95,
+                    "transaction_id": 49181764
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Deposit",
+                    "amount": -2181.85,
+                    "transaction_id": 53227655
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Deposit",
+                    "amount": -309.98,
+                    "transaction_id": 45637619
+                }
+            ]
+        }
+    }
+}

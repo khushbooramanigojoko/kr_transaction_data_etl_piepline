@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joshua Robles",
+        "age": 31,
+        "gender": "female",
+        "address": "287 Hoover Ports Suite 901, Davidfurt, WV 65914",
+        "phone": "6339831983",
+        "email": "latoyacampos@example.net",
+        "account": {
+            "account_number": "ae8e0c57-207c-4fc0-a1e9-2f2166b9379f",
+            "balance": 30214.05,
+            "transactions": [
+                {
+                    "date": "2024-03-16",
+                    "description": "Withdrawal",
+                    "amount": 6952.89,
+                    "transaction_id": 44590019
+                },
+                {
+                    "date": "2023-01-11",
+                    "description": "Deposit",
+                    "amount": 25607.74,
+                    "transaction_id": 76279220
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Interest",
+                    "amount": 42687.32,
+                    "transaction_id": 119595777
+                }
+            ]
+        }
+    }
+}

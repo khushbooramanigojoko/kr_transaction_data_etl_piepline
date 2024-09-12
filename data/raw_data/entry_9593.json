@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 44,
+        "gender": "female",
+        "address": "16586 Eric Station Suite 809, South Angelatown, MA 73655",
+        "phone": "746-301-9647",
+        "email": "porterjacob@example.net",
+        "account": {
+            "account_number": "b29ed04e-b5f7-4e63-a72d-cc4fccc133dd",
+            "balance": 31667.79,
+            "transactions": [
+                {
+                    "date": "2024-05-29",
+                    "description": "Interest",
+                    "amount": -1716.61,
+                    "transaction_id": 56670261
+                },
+                {
+                    "date": "2022-12-08",
+                    "description": "Interest",
+                    "amount": 2813.43,
+                    "transaction_id": 64438866
+                },
+                {
+                    "date": "2023-06-23",
+                    "description": "Deposit",
+                    "amount": 736.18,
+                    "transaction_id": 17434276
+                },
+                {
+                    "date": "2023-01-16",
+                    "description": "Withdrawal",
+                    "amount": 1870.15,
+                    "transaction_id": 48983170
+                },
+                {
+                    "date": "2023-10-21",
+                    "description": "Deposit",
+                    "amount": 4759.26,
+                    "transaction_id": 97235303
+                }
+            ]
+        }
+    }
+}

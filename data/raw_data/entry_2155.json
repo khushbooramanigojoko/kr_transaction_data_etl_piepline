@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Colin Woodard",
+        "age": 69,
+        "gender": "male",
+        "address": "26133 Lisa Forge Apt. 138, West Tracyport, NC 42076",
+        "phone": "959.867.3294",
+        "email": "jason55@example.com",
+        "account": {
+            "account_number": "a020cb79-3312-4262-bee9-10f0d8140eb2",
+            "balance": 4604.97,
+            "transactions": [
+                {
+                    "date": "2023-11-04",
+                    "description": "Withdrawal",
+                    "amount": 12920.91,
+                    "transaction_id": 77860092
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Deposit",
+                    "amount": 47005.17,
+                    "transaction_id": 82582310
+                },
+                {
+                    "date": "2023-10-04",
+                    "description": "Interest",
+                    "amount": 33215.03,
+                    "transaction_id": 70358323
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 58,
+        "gender": "male",
+        "address": "Unit 4216 Box 2367, DPO AP 31993",
+        "phone": "(260)551-6979x4505",
+        "email": "lgreen@example.org",
+        "account": {
+            "account_number": "a1733e77-affa-40d4-ba30-eb5c32e91519",
+            "balance": 12505.22,
+            "transactions": [
+                {
+                    "date": "2024-08-23",
+                    "description": "Deposit",
+                    "amount": 5.81,
+                    "transaction_id": 76150466
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Withdrawal",
+                    "amount": 1716.76,
+                    "transaction_id": 90159614
+                }
+            ]
+        }
+    }
+}

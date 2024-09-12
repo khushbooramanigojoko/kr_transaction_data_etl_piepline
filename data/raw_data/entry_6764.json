@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Janice Harvey",
+        "age": 41,
+        "gender": "male",
+        "address": "849 Stephens Prairie, West Matthew, FL 23031",
+        "phone": "267.415.1717x429",
+        "email": "scottjessica@example.org",
+        "account": {
+            "account_number": "1cf29f02-8ec8-4231-8638-a3a3e93dbf94",
+            "balance": 13814.66,
+            "transactions": [
+                {
+                    "date": "2023-01-31",
+                    "description": "Deposit",
+                    "amount": 7414.76,
+                    "transaction_id": 52137910
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Interest",
+                    "amount": 17434.7,
+                    "transaction_id": 59427055
+                },
+                {
+                    "date": "2023-12-19",
+                    "description": "Interest",
+                    "amount": 38017.34,
+                    "transaction_id": 32659269
+                },
+                {
+                    "date": "2024-05-05",
+                    "description": "Withdrawal",
+                    "amount": 29071.69,
+                    "transaction_id": 49948696
+                }
+            ]
+        }
+    }
+}

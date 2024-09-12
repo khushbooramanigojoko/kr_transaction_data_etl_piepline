@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Cassandra Hartman",
+        "age": 67,
+        "gender": "female",
+        "address": "60979 Christina Crossing Suite 297, Lake Crystal, NC 40004",
+        "phone": "+1-634-926-8981x750",
+        "email": "mcclureamanda@example.org",
+        "account": {
+            "account_number": "e665ee1f-fccf-4f03-a867-bd3e447b5496",
+            "balance": -28921.4,
+            "transactions": [
+                {
+                    "date": "2023-06-01",
+                    "description": "Deposit",
+                    "amount": 3145.49,
+                    "transaction_id": 46479580
+                },
+                {
+                    "date": "2022-11-18",
+                    "description": "Deposit",
+                    "amount": 2891.07,
+                    "transaction_id": 18599545
+                }
+            ]
+        }
+    }
+}

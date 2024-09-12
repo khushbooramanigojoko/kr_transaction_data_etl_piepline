@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Scott Thomas",
+        "age": 99,
+        "gender": "male",
+        "address": "7421 Romero Union Suite 378, Port Steven, SC 40946",
+        "phone": "001-667-967-3652x010",
+        "email": "phillippineda@example.net",
+        "account": {
+            "account_number": "c09eb52a-8e31-4654-932a-e1aada97a11b",
+            "balance": 44421.68,
+            "transactions": [
+                {
+                    "date": "2023-04-23",
+                    "description": "Withdrawal",
+                    "amount": 38547.02,
+                    "transaction_id": 11140930
+                }
+            ]
+        }
+    }
+}

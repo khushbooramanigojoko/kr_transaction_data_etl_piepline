@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "James Hahn Jr.",
+        "age": 84,
+        "gender": "male",
+        "address": "58566 Meyer Manors Suite 948, South Dakotamouth, VA 21838",
+        "phone": "001-865-702-4748x0381",
+        "email": "jvazquez@example.org",
+        "account": {
+            "account_number": "4c2fcfd2-aa18-4d2f-be3d-e53cd990d081",
+            "balance": 26876.79,
+            "transactions": [
+                {
+                    "date": "2023-01-07",
+                    "description": "Interest",
+                    "amount": 37020.18,
+                    "transaction_id": 107127541
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Deposit",
+                    "amount": 19130.2,
+                    "transaction_id": 79975677
+                },
+                {
+                    "date": "2024-01-08",
+                    "description": "Deposit",
+                    "amount": 35697.34,
+                    "transaction_id": 81504142
+                },
+                {
+                    "date": "2024-08-15",
+                    "description": "Interest",
+                    "amount": 38416.07,
+                    "transaction_id": 6605346
+                }
+            ]
+        }
+    }
+}

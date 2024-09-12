@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jonathan Smith",
+        "age": 18,
+        "gender": "female",
+        "address": "69358 Steven Summit, South Julia, MN 63074",
+        "phone": "449.838.3701x1184",
+        "email": "jonesharry@example.org",
+        "account": {
+            "account_number": "42562838-6634-4d24-8f8e-3ad611085b07",
+            "balance": 43834.37,
+            "transactions": [
+                {
+                    "date": "2023-05-17",
+                    "description": "Withdrawal",
+                    "amount": 6885.16,
+                    "transaction_id": 85637658
+                },
+                {
+                    "date": "2024-04-25",
+                    "description": "Withdrawal",
+                    "amount": 19757.72,
+                    "transaction_id": 118297235
+                },
+                {
+                    "date": "2024-08-14",
+                    "description": "Interest",
+                    "amount": 6447.63,
+                    "transaction_id": 67089144
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Withdrawal",
+                    "amount": 46039.01,
+                    "transaction_id": 80559261
+                },
+                {
+                    "date": "2022-12-08",
+                    "description": "Interest",
+                    "amount": 645.95,
+                    "transaction_id": 90217261
+                }
+            ]
+        }
+    }
+}

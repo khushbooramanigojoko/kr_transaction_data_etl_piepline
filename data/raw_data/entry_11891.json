@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Megan Smith",
+        "age": 22,
+        "gender": "male",
+        "address": "54419 Timothy Well Suite 900, West Emilyburgh, PR 21075",
+        "phone": "(673)542-5438",
+        "email": "davidsonshelby@example.org",
+        "account": {
+            "account_number": "90374fe1-df21-45e8-93c0-f82ae5a3d6cc",
+            "balance": -42977.23,
+            "transactions": [
+                {
+                    "date": "2022-11-19",
+                    "description": "Deposit",
+                    "amount": -4701.48,
+                    "transaction_id": 49599844
+                }
+            ]
+        }
+    }
+}

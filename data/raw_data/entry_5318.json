@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dennis Blanchard",
+        "age": 24,
+        "gender": "female",
+        "address": "USCGC Rose, FPO AA 27431",
+        "phone": "946.344.7384",
+        "email": "mpayne@example.net",
+        "account": {
+            "account_number": "7f6ebd61-8ef6-4011-9cd4-7f1b09ab0c45",
+            "balance": 12356.78,
+            "transactions": [
+                {
+                    "date": "2023-03-19",
+                    "description": "Interest",
+                    "amount": 1453.72,
+                    "transaction_id": 62797335
+                }
+            ]
+        }
+    }
+}

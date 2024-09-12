@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Brittany Miles",
+        "age": 90,
+        "gender": "female",
+        "address": "Unit 3189 Box 7136, DPO AA 93419",
+        "phone": "467-884-2155x884",
+        "email": "fischerrussell@example.net",
+        "account": {
+            "account_number": "9cf453b1-16a5-4e71-b1dd-7d482e2b970f",
+            "balance": 23911.97,
+            "transactions": [
+                {
+                    "date": "2023-08-12",
+                    "description": "Interest",
+                    "amount": 36328.01,
+                    "transaction_id": 58598322
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Deposit",
+                    "amount": 11847.19,
+                    "transaction_id": 43502299
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Deposit",
+                    "amount": 48787.61,
+                    "transaction_id": 44339533
+                }
+            ]
+        }
+    }
+}

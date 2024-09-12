@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 22,
+        "gender": "male",
+        "address": "50421 Wilson Isle, Port Edwardmouth, UT 72195",
+        "phone": "(910)328-4220x7498",
+        "email": "perrycynthia@example.net",
+        "account": {
+            "account_number": "65770a0e-8f3e-4dd1-b1d6-8ebd15df1304",
+            "balance": 25225.23,
+            "transactions": [
+                {
+                    "date": "2023-01-24",
+                    "description": "Deposit",
+                    "amount": 3069.66,
+                    "transaction_id": 111704699
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Withdrawal",
+                    "amount": -2514.36,
+                    "transaction_id": 20595980
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Deposit",
+                    "amount": -1601.71,
+                    "transaction_id": 42283092
+                },
+                {
+                    "date": "2023-10-10",
+                    "description": "Interest",
+                    "amount": 1658.2,
+                    "transaction_id": 6590342
+                }
+            ]
+        }
+    }
+}

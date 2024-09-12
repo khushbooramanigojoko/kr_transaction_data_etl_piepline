@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Benjamin Hansen",
+        "age": 23,
+        "gender": "female",
+        "address": "PSC 3211, Box 6050, APO AP 47374",
+        "phone": "+1-745-501-6591",
+        "email": "griffinkathleen@example.org",
+        "account": {
+            "account_number": "93ad8a3d-7ff3-434f-b1e5-10e4aed7974d",
+            "balance": 34686.86,
+            "transactions": [
+                {
+                    "date": "2023-10-28",
+                    "description": "Withdrawal",
+                    "amount": 16961.52,
+                    "transaction_id": 16476650
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Withdrawal",
+                    "amount": 10694.96,
+                    "transaction_id": 24616294
+                },
+                {
+                    "date": "2023-12-12",
+                    "description": "Deposit",
+                    "amount": 4889.23,
+                    "transaction_id": 68379765
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Withdrawal",
+                    "amount": 5720.76,
+                    "transaction_id": 93363821
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Deposit",
+                    "amount": 24829.41,
+                    "transaction_id": 60624233
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 20,
+        "gender": "male",
+        "address": "1955 Olsen Ports Apt. 268, Morrisport, VI 18583",
+        "phone": "+1-456-591-6672",
+        "email": "lovekimberly@example.com",
+        "account": {
+            "account_number": "08e5a969-dc0d-4ba2-b2db-33a60a380994",
+            "balance": 10022.52,
+            "transactions": [
+                {
+                    "date": "2024-02-10",
+                    "description": "Deposit",
+                    "amount": 362.64,
+                    "transaction_id": 31120063
+                },
+                {
+                    "date": "2024-04-04",
+                    "description": "Deposit",
+                    "amount": -4677.5,
+                    "transaction_id": 9662745
+                }
+            ]
+        }
+    }
+}

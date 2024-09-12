@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jacob Cohen",
+        "age": 79,
+        "gender": "male",
+        "address": "95643 Vanessa Crossroad, South Denise, WV 07253",
+        "phone": "+1-299-444-4037x193",
+        "email": "conleyryan@example.org",
+        "account": {
+            "account_number": "392bd22c-51c2-4da1-a444-0a574f312227",
+            "balance": 5471.83,
+            "transactions": [
+                {
+                    "date": "2023-08-20",
+                    "description": "Deposit",
+                    "amount": 1151.2,
+                    "transaction_id": 117234824
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Eric Johnson",
+        "age": 75,
+        "gender": "female",
+        "address": "039 King Brook Suite 226, Douglasland, MD 83676",
+        "phone": "712-932-1402x39195",
+        "email": "luis97@example.net",
+        "account": {
+            "account_number": "6624bc96-abf0-485a-898d-3d7464282b20",
+            "balance": -37608.66,
+            "transactions": [
+                {
+                    "date": "2023-04-17",
+                    "description": "Interest",
+                    "amount": 1016.44,
+                    "transaction_id": 35063490
+                },
+                {
+                    "date": "2023-01-22",
+                    "description": "Interest",
+                    "amount": -1812.03,
+                    "transaction_id": 75135513
+                }
+            ]
+        }
+    }
+}

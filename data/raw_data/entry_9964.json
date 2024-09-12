@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jessica Olson",
+        "age": 39,
+        "gender": "male",
+        "address": "7137 Christy Inlet Suite 130, Port Maria, MD 41510",
+        "phone": "(491)839-2454",
+        "email": "jonesdanny@example.org",
+        "account": {
+            "account_number": "1eaefa26-6892-4f37-b122-f6b353432d6d",
+            "balance": -33477.21,
+            "transactions": [
+                {
+                    "date": "2023-07-04",
+                    "description": "Withdrawal",
+                    "amount": 2479.62,
+                    "transaction_id": 75712350
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Deposit",
+                    "amount": 4573.7,
+                    "transaction_id": 30014884
+                }
+            ]
+        }
+    }
+}

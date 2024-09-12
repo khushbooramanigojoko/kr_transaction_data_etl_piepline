@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Dunn",
+        "age": 68,
+        "gender": "female",
+        "address": "766 Brock Ville, Curtisshire, IA 72422",
+        "phone": "873-359-7989x399",
+        "email": "jamespage@example.net",
+        "account": {
+            "account_number": "1cb3e408-72e6-4a6a-ba6c-dadc6b9e3377",
+            "balance": 8577.36,
+            "transactions": [
+                {
+                    "date": "2022-10-24",
+                    "description": "Interest",
+                    "amount": 21103.26,
+                    "transaction_id": 53874999
+                }
+            ]
+        }
+    }
+}

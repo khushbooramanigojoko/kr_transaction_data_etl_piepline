@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 83,
+        "gender": "male",
+        "address": "96033 Bryan Brook, Cunninghammouth, WV 84156",
+        "phone": "001-923-803-9102x47412",
+        "email": "xtorres@example.net",
+        "account": {
+            "account_number": "ed277be9-0a22-4ff4-bd81-82e6f3231d70",
+            "balance": 48012.2,
+            "transactions": [
+                {
+                    "date": "2023-11-27",
+                    "description": "Interest",
+                    "amount": -417.64,
+                    "transaction_id": 59226931
+                },
+                {
+                    "date": "2023-07-13",
+                    "description": "Withdrawal",
+                    "amount": -3607.97,
+                    "transaction_id": 39398582
+                },
+                {
+                    "date": "2023-07-09",
+                    "description": "Interest",
+                    "amount": 2040.16,
+                    "transaction_id": 104300122
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Withdrawal",
+                    "amount": -3363.24,
+                    "transaction_id": 7160165
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Deposit",
+                    "amount": 1138.83,
+                    "transaction_id": 15908354
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Benjamin Ingram",
+        "age": 54,
+        "gender": "male",
+        "address": "3135 Hays Manors, Sextonside, MP 97550",
+        "phone": "556-662-4748",
+        "email": "kristi60@example.com",
+        "account": {
+            "account_number": "ec64815b-1c84-4137-aee4-a3646041e93f",
+            "balance": 13324.47,
+            "transactions": [
+                {
+                    "date": "2023-12-14",
+                    "description": "Withdrawal",
+                    "amount": 8016.16,
+                    "transaction_id": 62700750
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Withdrawal",
+                    "amount": 5478.59,
+                    "transaction_id": 13809376
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Interest",
+                    "amount": 49582.39,
+                    "transaction_id": 110564483
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Interest",
+                    "amount": 35215.8,
+                    "transaction_id": 63802119
+                }
+            ]
+        }
+    }
+}

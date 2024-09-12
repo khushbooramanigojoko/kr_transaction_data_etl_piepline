@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "male",
+        "address": "602 Lauren Cove, Paulberg, IN 27514",
+        "phone": "001-260-834-3624x318",
+        "email": "gail86@example.org",
+        "account": {
+            "account_number": "7fc42db5-7c7a-47f2-bcb6-a289f2aa69a2",
+            "balance": 7750.9,
+            "transactions": [
+                {
+                    "date": "2023-08-18",
+                    "description": "Interest",
+                    "amount": 4964.72,
+                    "transaction_id": 54026086
+                }
+            ]
+        }
+    }
+}

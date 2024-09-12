@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Eric English",
+        "age": 95,
+        "gender": "male",
+        "address": "19456 Davis Bypass Apt. 178, South Cameron, NE 96946",
+        "phone": "001-896-556-3773",
+        "email": "andrea44@example.com",
+        "account": {
+            "account_number": "043c7290-ec7e-4071-9645-bfef549cb68e",
+            "balance": 1480.76,
+            "transactions": [
+                {
+                    "date": "2024-03-02",
+                    "description": "Interest",
+                    "amount": 30599.47,
+                    "transaction_id": 40463370
+                },
+                {
+                    "date": "2023-02-21",
+                    "description": "Deposit",
+                    "amount": 49154.0,
+                    "transaction_id": 78248561
+                },
+                {
+                    "date": "2023-08-25",
+                    "description": "Withdrawal",
+                    "amount": 1117.19,
+                    "transaction_id": 94168657
+                },
+                {
+                    "date": "2022-11-22",
+                    "description": "Withdrawal",
+                    "amount": 45191.46,
+                    "transaction_id": 49471376
+                }
+            ]
+        }
+    }
+}

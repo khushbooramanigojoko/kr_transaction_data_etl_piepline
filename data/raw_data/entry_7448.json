@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Frank Taylor",
+        "age": 75,
+        "gender": "male",
+        "address": "437 Cox Estates Apt. 584, West Ethanville, VI 62280",
+        "phone": "001-707-363-4715x298",
+        "email": "karen22@example.com",
+        "account": {
+            "account_number": "d468e868-c195-4730-b235-be805f457525",
+            "balance": 47665.23,
+            "transactions": [
+                {
+                    "date": "2023-08-21",
+                    "description": "Deposit",
+                    "amount": 37675.27,
+                    "transaction_id": 55213204
+                },
+                {
+                    "date": "2023-09-01",
+                    "description": "Interest",
+                    "amount": 2644.18,
+                    "transaction_id": 83378813
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Withdrawal",
+                    "amount": 40847.96,
+                    "transaction_id": 37791694
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Deposit",
+                    "amount": 3740.74,
+                    "transaction_id": 82371029
+                }
+            ]
+        }
+    }
+}

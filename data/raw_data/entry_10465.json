@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Cassidy Gonzalez",
+        "age": 31,
+        "gender": "male",
+        "address": "31775 Gray Vista Apt. 952, Riversmouth, VT 04348",
+        "phone": "+1-639-719-9462x078",
+        "email": "kguerrero@example.com",
+        "account": {
+            "account_number": "d4db2ab0-5ef0-47cc-adbe-5b56bf8b22c3",
+            "balance": -14623.43,
+            "transactions": [
+                {
+                    "date": "2024-02-27",
+                    "description": "Withdrawal",
+                    "amount": 4956.99,
+                    "transaction_id": 71909124
+                },
+                {
+                    "date": "2023-10-21",
+                    "description": "Deposit",
+                    "amount": 1397.42,
+                    "transaction_id": 88358065
+                }
+            ]
+        }
+    }
+}

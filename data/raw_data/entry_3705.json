@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Karen Fry MD",
+        "age": 44,
+        "gender": "female",
+        "address": "90437 Daniel Course, Donnaport, MD 39898",
+        "phone": "(771)838-5815x035",
+        "email": "rebeccadean@example.org",
+        "account": {
+            "account_number": "18e1402d-9944-4a7f-b949-98d9904669f4",
+            "balance": 30569.32,
+            "transactions": [
+                {
+                    "date": "2024-02-23",
+                    "description": "Deposit",
+                    "amount": 35372.16,
+                    "transaction_id": 73256732
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Deposit",
+                    "amount": 18788.56,
+                    "transaction_id": 84760444
+                },
+                {
+                    "date": "2024-08-10",
+                    "description": "Interest",
+                    "amount": 24268.94,
+                    "transaction_id": 37456081
+                },
+                {
+                    "date": "2022-09-20",
+                    "description": "Withdrawal",
+                    "amount": 33021.25,
+                    "transaction_id": 41401836
+                }
+            ]
+        }
+    }
+}

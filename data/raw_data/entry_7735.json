@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lisa Schaefer",
+        "age": 35,
+        "gender": "male",
+        "address": "7338 John Forge, Timothyton, DC 31563",
+        "phone": "517-924-6288x7631",
+        "email": "sydneysmith@example.org",
+        "account": {
+            "account_number": "d0435364-6f09-4162-b139-30a39ea6eb93",
+            "balance": 35448.38,
+            "transactions": [
+                {
+                    "date": "2024-06-04",
+                    "description": "Withdrawal",
+                    "amount": 2007.34,
+                    "transaction_id": 1521635
+                },
+                {
+                    "date": "2024-08-20",
+                    "description": "Withdrawal",
+                    "amount": 31730.94,
+                    "transaction_id": 56443269
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Withdrawal",
+                    "amount": 48238.82,
+                    "transaction_id": 105034420
+                },
+                {
+                    "date": "2023-12-19",
+                    "description": "Deposit",
+                    "amount": 33473.0,
+                    "transaction_id": 42086000
+                }
+            ]
+        }
+    }
+}

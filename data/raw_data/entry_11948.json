@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jerry Nelson",
+        "age": 23,
+        "gender": "male",
+        "address": "0795 Anna Plaza Apt. 270, West Stephanieville, NJ 39993",
+        "phone": "698.761.5736x70604",
+        "email": "woodswilliam@example.com",
+        "account": {
+            "account_number": "7ef960fa-93c8-44ba-b300-d17237e88dd4",
+            "balance": 42396.01,
+            "transactions": [
+                {
+                    "date": "2023-06-14",
+                    "description": "Withdrawal",
+                    "amount": 41272.39,
+                    "transaction_id": 15717309
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Interest",
+                    "amount": 32736.14,
+                    "transaction_id": 64542670
+                },
+                {
+                    "date": "2023-09-11",
+                    "description": "Interest",
+                    "amount": 1350.91,
+                    "transaction_id": 88110366
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Withdrawal",
+                    "amount": 9266.36,
+                    "transaction_id": 102215736
+                },
+                {
+                    "date": "2023-01-29",
+                    "description": "Withdrawal",
+                    "amount": 19061.02,
+                    "transaction_id": 3218223
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joshua Ramirez",
+        "age": 18,
+        "gender": "female",
+        "address": "29562 Miles Curve, Donaldstad, GU 46745",
+        "phone": "(850)720-1829x1894",
+        "email": "jamesnavarro@example.org",
+        "account": {
+            "account_number": "a6501ec8-14da-45f1-bbcd-133878a4dd78",
+            "balance": 19093.4,
+            "transactions": [
+                {
+                    "date": "2023-03-13",
+                    "description": "Interest",
+                    "amount": 16162.26,
+                    "transaction_id": 19212322
+                },
+                {
+                    "date": "2024-08-14",
+                    "description": "Deposit",
+                    "amount": 39555.89,
+                    "transaction_id": 40939957
+                },
+                {
+                    "date": "2022-09-20",
+                    "description": "Interest",
+                    "amount": 39693.85,
+                    "transaction_id": 115722854
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Deposit",
+                    "amount": 47481.47,
+                    "transaction_id": 83748873
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Withdrawal",
+                    "amount": 677.94,
+                    "transaction_id": 119496135
+                }
+            ]
+        }
+    }
+}

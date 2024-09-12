@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Derrick Stevens",
+        "age": 21,
+        "gender": "male",
+        "address": "5102 Mullins Ways, North Emily, MT 79558",
+        "phone": "(586)377-0854x793",
+        "email": "jameshorn@example.com",
+        "account": {
+            "account_number": "9319cc11-8a26-4ab4-96e3-4c2cbcc97a0e",
+            "balance": 26442.7,
+            "transactions": [
+                {
+                    "date": "2023-06-14",
+                    "description": "Withdrawal",
+                    "amount": 3091.03,
+                    "transaction_id": 64660929
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Interest",
+                    "amount": 40816.06,
+                    "transaction_id": 78774791
+                }
+            ]
+        }
+    }
+}

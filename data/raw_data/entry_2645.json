@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Nicole Williams",
+        "age": 70,
+        "gender": "male",
+        "address": "449 Michael Ville Suite 210, New Stephanie, TN 77846",
+        "phone": "256.221.1666",
+        "email": "christina49@example.net",
+        "account": {
+            "account_number": "8760cdad-9de9-49d3-a1e1-d22a9adce2cc",
+            "balance": 21933.81,
+            "transactions": [
+                {
+                    "date": "2023-03-01",
+                    "description": "Interest",
+                    "amount": 15825.03,
+                    "transaction_id": 82468287
+                }
+            ]
+        }
+    }
+}

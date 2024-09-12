@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "James Hubbard",
+        "age": 67,
+        "gender": "male",
+        "address": "1251 Hanson Islands Suite 259, Paulhaven, PW 43041",
+        "phone": "456.501.9050x982",
+        "email": "rsmith@example.com",
+        "account": {
+            "account_number": "76db3f96-29d5-4ec7-83c6-d27504c23108",
+            "balance": 12076.21,
+            "transactions": [
+                {
+                    "date": "2023-06-24",
+                    "description": "Interest",
+                    "amount": 9031.65,
+                    "transaction_id": 38066442
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Deposit",
+                    "amount": 5124.84,
+                    "transaction_id": 88912907
+                }
+            ]
+        }
+    }
+}

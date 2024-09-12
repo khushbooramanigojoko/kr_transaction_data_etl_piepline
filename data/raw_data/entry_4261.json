@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Patrick Barron",
+        "age": 65,
+        "gender": "female",
+        "address": "5570 Collins Passage Apt. 372, Parkerstad, MA 66855",
+        "phone": "001-368-685-1639x86539",
+        "email": "brenda88@example.net",
+        "account": {
+            "account_number": "bb5bdcef-c767-4d9b-8013-74e270851ccb",
+            "balance": 6982.2,
+            "transactions": [
+                {
+                    "date": "2023-10-18",
+                    "description": "Deposit",
+                    "amount": 13694.52,
+                    "transaction_id": 63261141
+                },
+                {
+                    "date": "2024-06-12",
+                    "description": "Deposit",
+                    "amount": 4716.76,
+                    "transaction_id": 69468792
+                },
+                {
+                    "date": "2023-04-11",
+                    "description": "Deposit",
+                    "amount": 3404.93,
+                    "transaction_id": 74952233
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Interest",
+                    "amount": 20351.91,
+                    "transaction_id": 108793130
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Interest",
+                    "amount": 6507.57,
+                    "transaction_id": 86472881
+                }
+            ]
+        }
+    }
+}

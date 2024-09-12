@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kimberly Zavala",
+        "age": 60,
+        "gender": "female",
+        "address": "33787 Davis Plain, North Nicolestad, AS 71979",
+        "phone": "(249)256-2544",
+        "email": "thomas32@example.org",
+        "account": {
+            "account_number": "24584ffb-5f4e-48ec-9c8e-4e23b1cacc72",
+            "balance": 35651.12,
+            "transactions": [
+                {
+                    "date": "2022-11-01",
+                    "description": "Interest",
+                    "amount": 25161.16,
+                    "transaction_id": 68481296
+                }
+            ]
+        }
+    }
+}

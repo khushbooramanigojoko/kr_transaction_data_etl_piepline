@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kevin Lloyd",
+        "age": 63,
+        "gender": "male",
+        "address": "04749 Jennifer Place, Petersburgh, IA 85119",
+        "phone": "+1-220-381-9424x450",
+        "email": "richardjohnson@example.net",
+        "account": {
+            "account_number": "2317fe80-b7b9-4fa3-b1d1-7ef2f7faa79d",
+            "balance": 16823.25,
+            "transactions": [
+                {
+                    "date": "2023-12-16",
+                    "description": "Deposit",
+                    "amount": 31545.02,
+                    "transaction_id": 45111023
+                }
+            ]
+        }
+    }
+}

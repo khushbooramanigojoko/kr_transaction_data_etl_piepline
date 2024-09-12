@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lauren Friedman",
+        "age": 99,
+        "gender": "male",
+        "address": "82030 Simmons Square Suite 939, Alextown, AL 48576",
+        "phone": "590-339-6408x544",
+        "email": "hlynch@example.com",
+        "account": {
+            "account_number": "ce43f186-9d7b-47e7-b822-03f68137a6b3",
+            "balance": 33476.37,
+            "transactions": [
+                {
+                    "date": "2024-08-28",
+                    "description": "Interest",
+                    "amount": 16653.71,
+                    "transaction_id": 119172972
+                },
+                {
+                    "date": "2023-01-09",
+                    "description": "Withdrawal",
+                    "amount": 161.26,
+                    "transaction_id": 109524986
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Deposit",
+                    "amount": 7661.2,
+                    "transaction_id": 119519161
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Interest",
+                    "amount": 687.78,
+                    "transaction_id": 11298928
+                }
+            ]
+        }
+    }
+}

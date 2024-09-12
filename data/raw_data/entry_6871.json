@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jason Becker",
+        "age": 74,
+        "gender": "female",
+        "address": "12668 Jerry Garden Suite 115, New Richard, NY 39520",
+        "phone": "+1-351-933-4684",
+        "email": "hschroeder@example.com",
+        "account": {
+            "account_number": "8a8b4b1f-b318-45f5-90cd-aba631c8baaf",
+            "balance": 36606.5,
+            "transactions": [
+                {
+                    "date": "2023-05-26",
+                    "description": "Deposit",
+                    "amount": 31706.53,
+                    "transaction_id": 116555327
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Deposit",
+                    "amount": 4789.96,
+                    "transaction_id": 38012003
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Withdrawal",
+                    "amount": 14464.26,
+                    "transaction_id": 97358741
+                },
+                {
+                    "date": "2024-04-06",
+                    "description": "Withdrawal",
+                    "amount": 16629.03,
+                    "transaction_id": 39703458
+                }
+            ]
+        }
+    }
+}

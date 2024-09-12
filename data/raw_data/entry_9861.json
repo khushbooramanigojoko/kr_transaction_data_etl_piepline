@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ashley Jensen",
+        "age": 97,
+        "gender": "male",
+        "address": "Unit 9396 Box 0459, DPO AP 07547",
+        "phone": "001-438-816-3559x3077",
+        "email": "selenaanderson@example.org",
+        "account": {
+            "account_number": "42235131-6547-477c-8cf5-f0a24a933120",
+            "balance": -34856.56,
+            "transactions": [
+                {
+                    "date": "2023-08-10",
+                    "description": "Interest",
+                    "amount": 573.94,
+                    "transaction_id": 95277094
+                },
+                {
+                    "date": "2023-01-13",
+                    "description": "Deposit",
+                    "amount": 2899.65,
+                    "transaction_id": 6218965
+                },
+                {
+                    "date": "2022-09-11",
+                    "description": "Withdrawal",
+                    "amount": 3264.33,
+                    "transaction_id": 16915871
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kayla Jordan",
+        "age": 41,
+        "gender": "female",
+        "address": "64452 Rachel Points Apt. 392, Kirstenview, CA 68611",
+        "phone": "001-833-679-0021",
+        "email": "kristine73@example.com",
+        "account": {
+            "account_number": "cb33a0d3-3ab8-4ff6-bb95-31e05507aba0",
+            "balance": -8020.63,
+            "transactions": [
+                {
+                    "date": "2023-12-28",
+                    "description": "Withdrawal",
+                    "amount": 53.47,
+                    "transaction_id": 57554573
+                }
+            ]
+        }
+    }
+}

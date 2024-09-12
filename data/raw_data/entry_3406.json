@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Steven Villa",
+        "age": 26,
+        "gender": "male",
+        "address": "7911 Tanner Parkways Suite 042, Barnesport, NM 07445",
+        "phone": "308.480.0636x518",
+        "email": "icarpenter@example.net",
+        "account": {
+            "account_number": "0fb8fb7a-e088-464e-a484-2fabd03f40d5",
+            "balance": 42699.48,
+            "transactions": [
+                {
+                    "date": "2024-08-24",
+                    "description": "Deposit",
+                    "amount": 34926.04,
+                    "transaction_id": 15729310
+                },
+                {
+                    "date": "2022-11-11",
+                    "description": "Deposit",
+                    "amount": 10355.34,
+                    "transaction_id": 53475142
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Samantha Lamb",
+        "age": 28,
+        "gender": "female",
+        "address": "88054 Hobbs Greens, West Stephenport, VI 29622",
+        "phone": "(641)587-8498",
+        "email": "steven40@example.org",
+        "account": {
+            "account_number": "7ed96f02-ca06-49a1-88d1-6ef5338add4f",
+            "balance": 4192.73,
+            "transactions": [
+                {
+                    "date": "2023-05-31",
+                    "description": "Deposit",
+                    "amount": 5034.32,
+                    "transaction_id": 105152372
+                }
+            ]
+        }
+    }
+}

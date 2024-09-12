@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Suzanne Peterson",
+        "age": 89,
+        "gender": "male",
+        "address": "553 Davidson Place, North Jason, PA 00636",
+        "phone": "632.996.5132",
+        "email": "nathan36@example.org",
+        "account": {
+            "account_number": "af83bfee-26ee-47b1-b3ed-0c81eb5308b0",
+            "balance": 5981.46,
+            "transactions": [
+                {
+                    "date": "2024-02-23",
+                    "description": "Withdrawal",
+                    "amount": 13914.94,
+                    "transaction_id": 50353303
+                },
+                {
+                    "date": "2023-07-08",
+                    "description": "Deposit",
+                    "amount": 6264.58,
+                    "transaction_id": 88980061
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Interest",
+                    "amount": 42915.69,
+                    "transaction_id": 32082603
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Withdrawal",
+                    "amount": 13674.04,
+                    "transaction_id": 53875628
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Interest",
+                    "amount": 42210.23,
+                    "transaction_id": 15768561
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Keith Mejia",
+        "age": 96,
+        "gender": "female",
+        "address": "9532 Clark Squares Apt. 621, East Alexis, CA 72189",
+        "phone": "898.431.2206x553",
+        "email": "tarahoffman@example.net",
+        "account": {
+            "account_number": "070dd238-b465-4d07-941d-4767952cad53",
+            "balance": 40053.69,
+            "transactions": [
+                {
+                    "date": "2024-05-15",
+                    "description": "Withdrawal",
+                    "amount": 24546.02,
+                    "transaction_id": 46362502
+                },
+                {
+                    "date": "2022-12-04",
+                    "description": "Interest",
+                    "amount": 6141.11,
+                    "transaction_id": 12565761
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jon Lin",
+        "age": 39,
+        "gender": "female",
+        "address": "26780 Johnson Shoal, North Troy, NV 25762",
+        "phone": "+1-728-765-6520x48883",
+        "email": "thomas40@example.org",
+        "account": {
+            "account_number": "718c2499-d5a4-4b46-8f33-6633ed2604dd",
+            "balance": 18023.07,
+            "transactions": [
+                {
+                    "date": "2024-07-15",
+                    "description": "Interest",
+                    "amount": 2542.21,
+                    "transaction_id": 77750115
+                },
+                {
+                    "date": "2022-11-27",
+                    "description": "Interest",
+                    "amount": 20072.41,
+                    "transaction_id": 38609047
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Deposit",
+                    "amount": 585.39,
+                    "transaction_id": 20961212
+                },
+                {
+                    "date": "2024-08-14",
+                    "description": "Withdrawal",
+                    "amount": 47236.6,
+                    "transaction_id": 50320888
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Withdrawal",
+                    "amount": 10557.07,
+                    "transaction_id": 80888312
+                }
+            ]
+        }
+    }
+}

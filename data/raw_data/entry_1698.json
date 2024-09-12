@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joshua Bowen",
+        "age": 83,
+        "gender": "male",
+        "address": "89394 Walsh Highway Suite 165, Port Kristy, HI 67677",
+        "phone": "803.548.9569x804",
+        "email": "james96@example.com",
+        "account": {
+            "account_number": "c1176d66-2e7a-428f-86a8-01fceb9d9443",
+            "balance": 14697.62,
+            "transactions": [
+                {
+                    "date": "2022-12-01",
+                    "description": "Withdrawal",
+                    "amount": 691.76,
+                    "transaction_id": 29228049
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Interest",
+                    "amount": 24765.71,
+                    "transaction_id": 71337958
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Interest",
+                    "amount": 2844.71,
+                    "transaction_id": 21402869
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Interest",
+                    "amount": 46056.67,
+                    "transaction_id": 30842383
+                },
+                {
+                    "date": "2023-03-19",
+                    "description": "Withdrawal",
+                    "amount": 20762.18,
+                    "transaction_id": 2990461
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Harold Baker",
+        "age": 59,
+        "gender": "female",
+        "address": "2938 Danielle Harbor Apt. 755, Rodriguezview, NJ 41002",
+        "phone": "+1-619-433-3697x67093",
+        "email": "davidacosta@example.com",
+        "account": {
+            "account_number": "4b833d5b-fd3e-4605-be6c-7a4ca2aaeade",
+            "balance": -18451.59,
+            "transactions": [
+                {
+                    "date": "2022-10-04",
+                    "description": "Interest",
+                    "amount": 4126.19,
+                    "transaction_id": 87154894
+                },
+                {
+                    "date": "2024-01-27",
+                    "description": "Interest",
+                    "amount": -3194.86,
+                    "transaction_id": 116990913
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Interest",
+                    "amount": -1316.62,
+                    "transaction_id": 62323285
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Deposit",
+                    "amount": 1197.69,
+                    "transaction_id": 51963546
+                }
+            ]
+        }
+    }
+}

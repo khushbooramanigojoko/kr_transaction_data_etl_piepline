@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alyssa Steele",
+        "age": 86,
+        "gender": "female",
+        "address": "2404 Lisa Estates Suite 986, Aaronland, ND 85663",
+        "phone": "+1-818-928-3306x33982",
+        "email": "stacy11@example.com",
+        "account": {
+            "account_number": "9080248f-0b28-4648-bdd5-02bd0c27530f",
+            "balance": 4428.81,
+            "transactions": [
+                {
+                    "date": "2024-05-01",
+                    "description": "Deposit",
+                    "amount": 44454.87,
+                    "transaction_id": 102924345
+                }
+            ]
+        }
+    }
+}

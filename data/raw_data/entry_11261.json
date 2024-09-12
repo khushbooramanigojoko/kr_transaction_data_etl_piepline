@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 27,
+        "gender": "female",
+        "address": "66433 James Plain Apt. 774, South Daniel, IN 25764",
+        "phone": "718-321-3288",
+        "email": "wpreston@example.net",
+        "account": {
+            "account_number": "9b4f979d-bfd6-4224-ac31-26ecd1dc16e4",
+            "balance": 12241.44,
+            "transactions": [
+                {
+                    "date": "2023-05-18",
+                    "description": "Withdrawal",
+                    "amount": -3137.72,
+                    "transaction_id": 5342361
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Withdrawal",
+                    "amount": 1904.63,
+                    "transaction_id": 65142319
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Interest",
+                    "amount": -4811.47,
+                    "transaction_id": 110745053
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Deposit",
+                    "amount": 1773.27,
+                    "transaction_id": 29710103
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Deposit",
+                    "amount": 1220.69,
+                    "transaction_id": 28341627
+                }
+            ]
+        }
+    }
+}

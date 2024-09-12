@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Denise Armstrong",
+        "age": 93,
+        "gender": "male",
+        "address": "929 Collins Land Suite 260, Wilsonport, NE 84281",
+        "phone": "951-779-9578x69601",
+        "email": "jonesamber@example.org",
+        "account": {
+            "account_number": "e359298a-47cb-441b-a00d-56f00189629b",
+            "balance": 46594.05,
+            "transactions": [
+                {
+                    "date": "2023-12-29",
+                    "description": "Withdrawal",
+                    "amount": 27800.67,
+                    "transaction_id": 95728601
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Interest",
+                    "amount": 29019.75,
+                    "transaction_id": 93880884
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Interest",
+                    "amount": 7761.23,
+                    "transaction_id": 97296865
+                }
+            ]
+        }
+    }
+}

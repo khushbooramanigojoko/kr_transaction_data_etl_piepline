@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Amy Kim",
+        "age": 19,
+        "gender": "male",
+        "address": "0892 Griffin Well Suite 628, North Sharon, RI 33623",
+        "phone": "903-952-9399x581",
+        "email": "nicolasjuarez@example.net",
+        "account": {
+            "account_number": "feb98ec6-97d5-4e46-9c95-c7343208b5e1",
+            "balance": 6500.12,
+            "transactions": [
+                {
+                    "date": "2024-05-30",
+                    "description": "Interest",
+                    "amount": 2886.47,
+                    "transaction_id": 93852946
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Interest",
+                    "amount": 15111.69,
+                    "transaction_id": 61893449
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Withdrawal",
+                    "amount": 47526.28,
+                    "transaction_id": 97309701
+                }
+            ]
+        }
+    }
+}

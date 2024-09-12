@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Shannon King",
+        "age": 92,
+        "gender": "female",
+        "address": "9156 Montoya Route Suite 200, West Christopher, ND 01188",
+        "phone": "(689)466-2006",
+        "email": "melindagonzalez@example.net",
+        "account": {
+            "account_number": "de12909d-30c9-4b38-9338-659b53e1f960",
+            "balance": 34874.3,
+            "transactions": [
+                {
+                    "date": "2024-08-26",
+                    "description": "Withdrawal",
+                    "amount": 30789.55,
+                    "transaction_id": 114772766
+                },
+                {
+                    "date": "2024-01-16",
+                    "description": "Interest",
+                    "amount": 2309.14,
+                    "transaction_id": 99455232
+                }
+            ]
+        }
+    }
+}

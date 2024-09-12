@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Carrie Martinez",
+        "age": 63,
+        "gender": "male",
+        "address": "405 Christopher Greens Suite 094, New Brendaville, OK 46156",
+        "phone": "(431)359-2586x94683",
+        "email": "graytravis@example.com",
+        "account": {
+            "account_number": "b877dd95-057c-4a42-93b2-3901762a6c89",
+            "balance": 44321.49,
+            "transactions": [
+                {
+                    "date": "2023-12-16",
+                    "description": "Interest",
+                    "amount": 40002.42,
+                    "transaction_id": 70248905
+                }
+            ]
+        }
+    }
+}

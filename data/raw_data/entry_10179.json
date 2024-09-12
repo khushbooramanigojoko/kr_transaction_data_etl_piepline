@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 80,
+        "gender": "female",
+        "address": "PSC 0741, Box 4353, APO AE 61460",
+        "phone": "+1-324-373-2868x799",
+        "email": "qrobles@example.com",
+        "account": {
+            "account_number": "027be91e-0bbf-4a7d-bc22-173ef591b609",
+            "balance": 4247.42,
+            "transactions": [
+                {
+                    "date": "2023-06-21",
+                    "description": "Withdrawal",
+                    "amount": 3239.21,
+                    "transaction_id": 83877891
+                },
+                {
+                    "date": "2024-01-29",
+                    "description": "Interest",
+                    "amount": 3331.02,
+                    "transaction_id": 69989311
+                },
+                {
+                    "date": "2023-01-24",
+                    "description": "Withdrawal",
+                    "amount": 2232.44,
+                    "transaction_id": 87393482
+                },
+                {
+                    "date": "2023-01-29",
+                    "description": "Deposit",
+                    "amount": -4434.96,
+                    "transaction_id": 51948461
+                },
+                {
+                    "date": "2023-05-22",
+                    "description": "Interest",
+                    "amount": 3356.54,
+                    "transaction_id": 88682817
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kristin Hanson",
+        "age": 55,
+        "gender": "male",
+        "address": "6549 Mckinney Ports Apt. 333, Lake Brian, KY 32827",
+        "phone": "840.558.1185",
+        "email": "kevinpetersen@example.net",
+        "account": {
+            "account_number": "08a5f4ae-7812-4eb9-977d-ff080329a034",
+            "balance": 44635.74,
+            "transactions": [
+                {
+                    "date": "2024-08-08",
+                    "description": "Interest",
+                    "amount": 20167.21,
+                    "transaction_id": 4337455
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Deposit",
+                    "amount": 10522.53,
+                    "transaction_id": 33118623
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Deposit",
+                    "amount": 11255.08,
+                    "transaction_id": 11756907
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Interest",
+                    "amount": 474.95,
+                    "transaction_id": 5793083
+                }
+            ]
+        }
+    }
+}

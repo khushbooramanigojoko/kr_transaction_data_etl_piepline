@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 25,
+        "gender": "male",
+        "address": "79713 Perry Loop, Nguyenburgh, PA 66493",
+        "phone": "(334)511-0594x6866",
+        "email": "erictran@example.org",
+        "account": {
+            "account_number": "3bce513f-c432-4893-a7b2-7aaba81af18a",
+            "balance": 24472.63,
+            "transactions": [
+                {
+                    "date": "2022-12-15",
+                    "description": "Interest",
+                    "amount": -3.41,
+                    "transaction_id": 32734009
+                },
+                {
+                    "date": "2022-12-26",
+                    "description": "Deposit",
+                    "amount": -350.58,
+                    "transaction_id": 65844545
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Withdrawal",
+                    "amount": -1724.11,
+                    "transaction_id": 38558376
+                },
+                {
+                    "date": "2023-04-06",
+                    "description": "Interest",
+                    "amount": -2811.07,
+                    "transaction_id": 103515489
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Scott Cummings",
+        "age": 93,
+        "gender": "female",
+        "address": "1889 Quinn Orchard, Jeremyshire, UT 86315",
+        "phone": "001-457-559-3991x7862",
+        "email": "jbarton@example.org",
+        "account": {
+            "account_number": "f9d3d65b-57b8-4842-a577-a2aa25c713fb",
+            "balance": 28759.77,
+            "transactions": [
+                {
+                    "date": "2023-05-25",
+                    "description": "Deposit",
+                    "amount": 8465.87,
+                    "transaction_id": 66021612
+                }
+            ]
+        }
+    }
+}

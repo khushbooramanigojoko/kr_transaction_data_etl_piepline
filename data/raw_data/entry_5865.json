@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Craig Adkins",
+        "age": 20,
+        "gender": "male",
+        "address": "2679 Lisa Lights Apt. 695, Robertstad, MP 31977",
+        "phone": "(777)727-6654",
+        "email": "jacob53@example.com",
+        "account": {
+            "account_number": "ae29c48c-61b1-4ec7-b4a5-4a2ed6c2e114",
+            "balance": 31391.01,
+            "transactions": [
+                {
+                    "date": "2023-07-18",
+                    "description": "Interest",
+                    "amount": 16797.0,
+                    "transaction_id": 50389338
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Interest",
+                    "amount": 45565.42,
+                    "transaction_id": 118557829
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Withdrawal",
+                    "amount": 31650.66,
+                    "transaction_id": 26876542
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Donald Erickson",
+        "age": 24,
+        "gender": "male",
+        "address": "4124 Daniel Forges Suite 714, New Joseph, AZ 13870",
+        "phone": "+1-382-478-8100",
+        "email": "kgonzalez@example.net",
+        "account": {
+            "account_number": "a876976a-cbd5-450c-a602-6d28b92dd905",
+            "balance": 26782.0,
+            "transactions": [
+                {
+                    "date": "2024-02-02",
+                    "description": "Interest",
+                    "amount": 17249.16,
+                    "transaction_id": 93583392
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Deposit",
+                    "amount": 6176.93,
+                    "transaction_id": 40217740
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Interest",
+                    "amount": 4820.99,
+                    "transaction_id": 86962699
+                }
+            ]
+        }
+    }
+}

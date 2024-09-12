@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Matthew Rivera",
+        "age": 74,
+        "gender": "male",
+        "address": "804 Boyle Lock, Reyesmouth, NH 02203",
+        "phone": "001-378-698-5467x140",
+        "email": "lwarner@example.com",
+        "account": {
+            "account_number": "df19f6fc-1497-43fc-9352-8e6e002107bf",
+            "balance": 45079.42,
+            "transactions": [
+                {
+                    "date": "2022-09-05",
+                    "description": "Withdrawal",
+                    "amount": 26370.89,
+                    "transaction_id": 67669927
+                },
+                {
+                    "date": "2022-10-18",
+                    "description": "Interest",
+                    "amount": 1944.23,
+                    "transaction_id": 70964835
+                }
+            ]
+        }
+    }
+}

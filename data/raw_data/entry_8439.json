@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Robert Cole",
+        "age": 91,
+        "gender": "female",
+        "address": "Unit 8855 Box 5529, DPO AE 16012",
+        "phone": "001-703-877-2607x615",
+        "email": "yanderson@example.org",
+        "account": {
+            "account_number": "1caa05b0-c61c-4847-ab6e-9e38b3c79107",
+            "balance": 37466.35,
+            "transactions": [
+                {
+                    "date": "2024-06-25",
+                    "description": "Deposit",
+                    "amount": 45154.69,
+                    "transaction_id": 96721440
+                },
+                {
+                    "date": "2023-08-24",
+                    "description": "Withdrawal",
+                    "amount": 1703.1,
+                    "transaction_id": 99160424
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Withdrawal",
+                    "amount": 8506.81,
+                    "transaction_id": 29098349
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Withdrawal",
+                    "amount": 20345.62,
+                    "transaction_id": 21926672
+                },
+                {
+                    "date": "2023-07-31",
+                    "description": "Withdrawal",
+                    "amount": 3434.8,
+                    "transaction_id": 9842782
+                }
+            ]
+        }
+    }
+}

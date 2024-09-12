@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Damon Camacho",
+        "age": 37,
+        "gender": "male",
+        "address": "9210 Ruth Drive, Shermanfurt, DE 38147",
+        "phone": "+1-802-969-8042x492",
+        "email": "rebecca83@example.com",
+        "account": {
+            "account_number": "c2cc5573-13e0-44fc-8582-29f3013af1ed",
+            "balance": -21925.26,
+            "transactions": [
+                {
+                    "date": "2024-03-04",
+                    "description": "Withdrawal",
+                    "amount": -4549.37,
+                    "transaction_id": 46797876
+                },
+                {
+                    "date": "2023-12-20",
+                    "description": "Deposit",
+                    "amount": 2304.76,
+                    "transaction_id": 106194155
+                }
+            ]
+        }
+    }
+}

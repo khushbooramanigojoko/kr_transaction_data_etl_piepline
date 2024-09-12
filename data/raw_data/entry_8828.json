@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Audrey Fleming",
+        "age": 44,
+        "gender": "male",
+        "address": "85294 Joshua Grove, Rodriguezbury, TX 32393",
+        "phone": "826.423.9503",
+        "email": "htapia@example.org",
+        "account": {
+            "account_number": "89bc6968-83ea-482c-a777-96d4c9906916",
+            "balance": -35192.3,
+            "transactions": [
+                {
+                    "date": "2023-03-17",
+                    "description": "Withdrawal",
+                    "amount": -4505.38,
+                    "transaction_id": 7236173
+                },
+                {
+                    "date": "2022-10-20",
+                    "description": "Withdrawal",
+                    "amount": 3883.75,
+                    "transaction_id": 111045359
+                },
+                {
+                    "date": "2024-06-26",
+                    "description": "Interest",
+                    "amount": 4826.16,
+                    "transaction_id": 35609288
+                },
+                {
+                    "date": "2023-04-26",
+                    "description": "Withdrawal",
+                    "amount": -2909.18,
+                    "transaction_id": 61292546
+                },
+                {
+                    "date": "2024-06-05",
+                    "description": "Deposit",
+                    "amount": 4776.64,
+                    "transaction_id": 30320430
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sarah Cunningham",
+        "age": 78,
+        "gender": "male",
+        "address": "1021 James Courts Suite 018, North Normanfurt, NV 59909",
+        "phone": "248.502.3579",
+        "email": "carterlaura@example.org",
+        "account": {
+            "account_number": "8b2bbf06-79c9-4cf3-b8ef-24c059fa3405",
+            "balance": 47394.38,
+            "transactions": [
+                {
+                    "date": "2023-01-06",
+                    "description": "Deposit",
+                    "amount": 35872.27,
+                    "transaction_id": 109422583
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Interest",
+                    "amount": 18179.18,
+                    "transaction_id": 48666083
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Withdrawal",
+                    "amount": 6812.21,
+                    "transaction_id": 72667749
+                },
+                {
+                    "date": "2023-10-02",
+                    "description": "Deposit",
+                    "amount": 16463.57,
+                    "transaction_id": 110407882
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kimberly Harmon",
+        "age": 97,
+        "gender": "female",
+        "address": "3389 Buck Ways Suite 890, West Alishafort, ID 48001",
+        "phone": "001-639-949-2233x9921",
+        "email": "stevengibbs@example.org",
+        "account": {
+            "account_number": "873fc64f-4464-40e4-bd9a-aef86571f049",
+            "balance": 8364.55,
+            "transactions": [
+                {
+                    "date": "2023-12-21",
+                    "description": "Interest",
+                    "amount": 7396.81,
+                    "transaction_id": 102412784
+                },
+                {
+                    "date": "2023-05-23",
+                    "description": "Withdrawal",
+                    "amount": 15551.06,
+                    "transaction_id": 65585121
+                }
+            ]
+        }
+    }
+}

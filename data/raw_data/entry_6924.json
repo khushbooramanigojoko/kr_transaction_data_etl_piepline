@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Crystal Bruce",
+        "age": 25,
+        "gender": "female",
+        "address": "4753 Noble Manor, Benjaminstad, GA 67137",
+        "phone": "928-474-8424",
+        "email": "joannward@example.net",
+        "account": {
+            "account_number": "7cd57000-224e-4ce7-833d-83edf8e8400a",
+            "balance": 42365.19,
+            "transactions": [
+                {
+                    "date": "2023-05-30",
+                    "description": "Withdrawal",
+                    "amount": 6928.48,
+                    "transaction_id": 93966835
+                },
+                {
+                    "date": "2024-01-29",
+                    "description": "Interest",
+                    "amount": 1101.58,
+                    "transaction_id": 94444956
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Keith Diaz",
+        "age": 59,
+        "gender": "female",
+        "address": "511 Gary Walk Apt. 264, Lake Zacharyborough, MD 11252",
+        "phone": "+1-562-793-6923",
+        "email": "slopez@example.com",
+        "account": {
+            "account_number": "6f3eb59d-65f3-4431-932f-08a31c7aba75",
+            "balance": 25490.74,
+            "transactions": [
+                {
+                    "date": "2022-11-08",
+                    "description": "Withdrawal",
+                    "amount": 31265.25,
+                    "transaction_id": 56476088
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Interest",
+                    "amount": 39273.44,
+                    "transaction_id": 73976359
+                }
+            ]
+        }
+    }
+}

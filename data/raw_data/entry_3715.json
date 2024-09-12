@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ashlee Green",
+        "age": 81,
+        "gender": "male",
+        "address": "PSC 7596, Box 9192, APO AP 48750",
+        "phone": "6274575287",
+        "email": "emmarobinson@example.org",
+        "account": {
+            "account_number": "90019ba2-3617-4271-a7a4-fc7a69d7da82",
+            "balance": 24611.53,
+            "transactions": [
+                {
+                    "date": "2024-05-06",
+                    "description": "Deposit",
+                    "amount": 16904.88,
+                    "transaction_id": 31419016
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Interest",
+                    "amount": 44601.14,
+                    "transaction_id": 106647274
+                },
+                {
+                    "date": "2024-05-25",
+                    "description": "Deposit",
+                    "amount": 22540.93,
+                    "transaction_id": 32724324
+                }
+            ]
+        }
+    }
+}

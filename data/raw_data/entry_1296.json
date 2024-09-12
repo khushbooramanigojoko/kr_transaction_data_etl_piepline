@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Debbie Johnson",
+        "age": 53,
+        "gender": "male",
+        "address": "164 Jerry Springs, Alexview, MP 39401",
+        "phone": "+1-545-366-1122x895",
+        "email": "nunezjesus@example.org",
+        "account": {
+            "account_number": "0e8e1cf3-fde2-4300-b040-3186efe30f0d",
+            "balance": 1930.77,
+            "transactions": [
+                {
+                    "date": "2023-08-10",
+                    "description": "Withdrawal",
+                    "amount": 8026.06,
+                    "transaction_id": 41894112
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Aaron Ingram",
+        "age": 64,
+        "gender": "male",
+        "address": "2033 Margaret Parkway Suite 781, New Christopher, NV 97932",
+        "phone": "5162537904",
+        "email": "robert80@example.net",
+        "account": {
+            "account_number": "e90230e0-ced4-45fb-815c-c9b5963cf91d",
+            "balance": 5433.44,
+            "transactions": [
+                {
+                    "date": "2023-01-23",
+                    "description": "Withdrawal",
+                    "amount": 31024.18,
+                    "transaction_id": 48184562
+                },
+                {
+                    "date": "2024-07-18",
+                    "description": "Withdrawal",
+                    "amount": 36644.81,
+                    "transaction_id": 24675020
+                }
+            ]
+        }
+    }
+}

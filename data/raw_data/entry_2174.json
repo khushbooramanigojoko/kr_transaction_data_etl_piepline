@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Allison Martin",
+        "age": 43,
+        "gender": "male",
+        "address": "583 Kayla Circle, North Jasonland, LA 66102",
+        "phone": "5724857383",
+        "email": "jasonmartin@example.com",
+        "account": {
+            "account_number": "d9f93709-5a54-412f-baf9-87a986267379",
+            "balance": 47121.52,
+            "transactions": [
+                {
+                    "date": "2023-05-09",
+                    "description": "Withdrawal",
+                    "amount": 45867.45,
+                    "transaction_id": 34153786
+                },
+                {
+                    "date": "2024-03-22",
+                    "description": "Withdrawal",
+                    "amount": 45556.0,
+                    "transaction_id": 35245725
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michael Woods",
+        "age": 61,
+        "gender": "male",
+        "address": "USCGC Robertson, FPO AP 70299",
+        "phone": "(435)545-9754",
+        "email": "sdavis@example.net",
+        "account": {
+            "account_number": "23b5a489-72ba-40a1-9bbb-642ed1f9fc13",
+            "balance": 44552.14,
+            "transactions": [
+                {
+                    "date": "2023-07-22",
+                    "description": "Withdrawal",
+                    "amount": 21611.08,
+                    "transaction_id": 96691788
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Aaron Clark",
+        "age": 41,
+        "gender": "female",
+        "address": "4555 Abigail Curve, Lisachester, KS 06386",
+        "phone": "506-263-8837",
+        "email": "christophervaldez@example.net",
+        "account": {
+            "account_number": "cd13b5ee-be34-4ab1-89ed-3519827023a9",
+            "balance": -44847.99,
+            "transactions": [
+                {
+                    "date": "2024-04-14",
+                    "description": "Interest",
+                    "amount": -4872.68,
+                    "transaction_id": 100538441
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Deposit",
+                    "amount": 4860.76,
+                    "transaction_id": 87698301
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Deposit",
+                    "amount": -2211.04,
+                    "transaction_id": 26608127
+                },
+                {
+                    "date": "2024-05-21",
+                    "description": "Interest",
+                    "amount": 3264.8,
+                    "transaction_id": 61072795
+                }
+            ]
+        }
+    }
+}

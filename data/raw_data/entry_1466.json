@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Rebecca Romero",
+        "age": 68,
+        "gender": "male",
+        "address": "2729 Valentine Inlet, Heathermouth, AR 37363",
+        "phone": "+1-875-368-6509x3879",
+        "email": "nicolehunter@example.org",
+        "account": {
+            "account_number": "cd430c5d-6d5b-44d1-95ca-a521b58d308b",
+            "balance": 35244.17,
+            "transactions": [
+                {
+                    "date": "2023-11-02",
+                    "description": "Deposit",
+                    "amount": 31679.51,
+                    "transaction_id": 63710799
+                },
+                {
+                    "date": "2023-07-19",
+                    "description": "Deposit",
+                    "amount": 48752.04,
+                    "transaction_id": 116556501
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Emily Perez",
+        "age": 89,
+        "gender": "female",
+        "address": "06991 Leonard Mountains Apt. 347, Webbberg, KS 25684",
+        "phone": "8025410369",
+        "email": "william61@example.org",
+        "account": {
+            "account_number": "b48264c8-5b0f-466e-931b-0a819c7667a2",
+            "balance": -21948.04,
+            "transactions": [
+                {
+                    "date": "2022-11-19",
+                    "description": "Deposit",
+                    "amount": -4962.38,
+                    "transaction_id": 95838022
+                },
+                {
+                    "date": "2023-10-21",
+                    "description": "Interest",
+                    "amount": -1644.61,
+                    "transaction_id": 16603677
+                },
+                {
+                    "date": "2023-04-09",
+                    "description": "Interest",
+                    "amount": -3123.82,
+                    "transaction_id": 42806891
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Bianca Thomas",
+        "age": 41,
+        "gender": "female",
+        "address": "14158 Chang Curve Suite 778, North Laura, MO 70279",
+        "phone": "001-858-221-5213x8543",
+        "email": "anthony97@example.com",
+        "account": {
+            "account_number": "423472b2-a2ca-48cd-b847-c607c8e6314c",
+            "balance": 5501.83,
+            "transactions": [
+                {
+                    "date": "2022-10-22",
+                    "description": "Interest",
+                    "amount": 17739.26,
+                    "transaction_id": 97604833
+                }
+            ]
+        }
+    }
+}

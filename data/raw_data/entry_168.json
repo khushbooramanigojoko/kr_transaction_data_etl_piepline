@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Susan Barber",
+        "age": 84,
+        "gender": "male",
+        "address": "925 Finley Forge, West Melissa, NE 24610",
+        "phone": "810.794.7250x3247",
+        "email": "brockjason@example.com",
+        "account": {
+            "account_number": "e32f2fdb-08a3-491b-acaa-1146805c10c3",
+            "balance": 49080.05,
+            "transactions": [
+                {
+                    "date": "2024-04-28",
+                    "description": "Interest",
+                    "amount": 14321.15,
+                    "transaction_id": 105062851
+                }
+            ]
+        }
+    }
+}

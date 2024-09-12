@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Calvin Golden",
+        "age": 40,
+        "gender": "female",
+        "address": "748 Smith Way Apt. 750, North Christy, CO 77814",
+        "phone": "(595)737-3935x88780",
+        "email": "kennethibarra@example.net",
+        "account": {
+            "account_number": "796cf8da-e1a7-4e0d-985a-58802f11f2fa",
+            "balance": 31882.2,
+            "transactions": [
+                {
+                    "date": "2023-05-03",
+                    "description": "Deposit",
+                    "amount": 2099.32,
+                    "transaction_id": 17460704
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Interest",
+                    "amount": 19875.04,
+                    "transaction_id": 57509804
+                },
+                {
+                    "date": "2023-08-23",
+                    "description": "Withdrawal",
+                    "amount": 25425.36,
+                    "transaction_id": 119134004
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Interest",
+                    "amount": 15062.78,
+                    "transaction_id": 26167107
+                }
+            ]
+        }
+    }
+}

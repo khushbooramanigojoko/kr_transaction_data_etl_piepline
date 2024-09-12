@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Stewart",
+        "age": 82,
+        "gender": "male",
+        "address": "USNS Ball, FPO AP 36725",
+        "phone": "730-974-3747x2170",
+        "email": "brookseric@example.com",
+        "account": {
+            "account_number": "fcf2307b-d436-414c-9bfa-2e0ce31f7642",
+            "balance": 19900.13,
+            "transactions": [
+                {
+                    "date": "2023-12-19",
+                    "description": "Deposit",
+                    "amount": 12059.6,
+                    "transaction_id": 57545764
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Deposit",
+                    "amount": 38230.04,
+                    "transaction_id": 113477873
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Interest",
+                    "amount": 28384.11,
+                    "transaction_id": 48534582
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Interest",
+                    "amount": 33966.21,
+                    "transaction_id": 98506223
+                },
+                {
+                    "date": "2023-06-10",
+                    "description": "Deposit",
+                    "amount": 15940.08,
+                    "transaction_id": 72222416
+                }
+            ]
+        }
+    }
+}

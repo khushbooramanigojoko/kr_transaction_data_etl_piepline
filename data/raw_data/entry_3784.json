@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Todd Williams",
+        "age": 40,
+        "gender": "male",
+        "address": "391 Rachel Lakes Suite 792, Beckerville, AZ 72960",
+        "phone": "001-435-312-8465x0548",
+        "email": "mariokramer@example.com",
+        "account": {
+            "account_number": "a5a0ef46-3ad8-4c75-b551-043bea622dcb",
+            "balance": 36623.0,
+            "transactions": [
+                {
+                    "date": "2023-09-06",
+                    "description": "Interest",
+                    "amount": 46685.61,
+                    "transaction_id": 15545218
+                },
+                {
+                    "date": "2023-04-28",
+                    "description": "Deposit",
+                    "amount": 44463.44,
+                    "transaction_id": 68319587
+                },
+                {
+                    "date": "2023-08-31",
+                    "description": "Interest",
+                    "amount": 9593.13,
+                    "transaction_id": 101257210
+                },
+                {
+                    "date": "2024-08-14",
+                    "description": "Withdrawal",
+                    "amount": 43743.08,
+                    "transaction_id": 41325822
+                }
+            ]
+        }
+    }
+}

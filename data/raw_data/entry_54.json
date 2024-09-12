@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Terry Hicks",
+        "age": 21,
+        "gender": "male",
+        "address": "PSC 7119, Box 3494, APO AP 81962",
+        "phone": "5192274551",
+        "email": "daniel75@example.com",
+        "account": {
+            "account_number": "5812f85c-207e-4394-9ede-dbf392b28b9f",
+            "balance": 24033.65,
+            "transactions": [
+                {
+                    "date": "2022-09-22",
+                    "description": "Withdrawal",
+                    "amount": 41694.18,
+                    "transaction_id": 59088021
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Interest",
+                    "amount": 2072.04,
+                    "transaction_id": 52293369
+                },
+                {
+                    "date": "2023-08-09",
+                    "description": "Interest",
+                    "amount": 11305.71,
+                    "transaction_id": 57229530
+                },
+                {
+                    "date": "2023-10-20",
+                    "description": "Interest",
+                    "amount": 38270.59,
+                    "transaction_id": 105462871
+                }
+            ]
+        }
+    }
+}

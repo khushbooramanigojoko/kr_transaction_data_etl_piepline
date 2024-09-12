@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Timothy Baird",
+        "age": 22,
+        "gender": "male",
+        "address": "7475 Tucker Manors, Stephaniehaven, PW 78529",
+        "phone": "001-854-446-9186x01476",
+        "email": "dadkins@example.com",
+        "account": {
+            "account_number": "344b7bd8-1ee3-48c2-838e-18dbe6e8dd5a",
+            "balance": 18434.71,
+            "transactions": [
+                {
+                    "date": "2024-05-11",
+                    "description": "Deposit",
+                    "amount": 27496.22,
+                    "transaction_id": 7515622
+                },
+                {
+                    "date": "2024-02-27",
+                    "description": "Deposit",
+                    "amount": 638.65,
+                    "transaction_id": 60662257
+                },
+                {
+                    "date": "2024-08-16",
+                    "description": "Interest",
+                    "amount": 39553.33,
+                    "transaction_id": 66403041
+                }
+            ]
+        }
+    }
+}

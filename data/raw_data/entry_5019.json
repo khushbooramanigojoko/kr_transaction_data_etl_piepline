@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Robert Hawkins",
+        "age": 87,
+        "gender": "female",
+        "address": "74480 Case Coves Suite 570, Lake Tamarafort, NM 98800",
+        "phone": "(685)622-2428x0996",
+        "email": "joannanguyen@example.net",
+        "account": {
+            "account_number": "e17bf802-a381-4561-b6e1-69f9acd71558",
+            "balance": 5977.3,
+            "transactions": [
+                {
+                    "date": "2022-11-16",
+                    "description": "Withdrawal",
+                    "amount": 2183.6,
+                    "transaction_id": 72892895
+                },
+                {
+                    "date": "2023-01-08",
+                    "description": "Interest",
+                    "amount": 28781.09,
+                    "transaction_id": 113241220
+                },
+                {
+                    "date": "2024-08-11",
+                    "description": "Interest",
+                    "amount": 26296.36,
+                    "transaction_id": 73471640
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Deposit",
+                    "amount": 34200.22,
+                    "transaction_id": 15509113
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christina Price",
+        "age": 57,
+        "gender": "male",
+        "address": "5884 James Divide Apt. 365, Lake Adamview, FM 27838",
+        "phone": "781.448.2068x4595",
+        "email": "gsimmons@example.org",
+        "account": {
+            "account_number": "de0768d0-85f3-44a0-9e0d-3c1f4fb0e891",
+            "balance": -25149.0,
+            "transactions": [
+                {
+                    "date": "2022-10-22",
+                    "description": "Interest",
+                    "amount": -2483.52,
+                    "transaction_id": 11281813
+                },
+                {
+                    "date": "2023-05-17",
+                    "description": "Withdrawal",
+                    "amount": 250.75,
+                    "transaction_id": 93340276
+                },
+                {
+                    "date": "2023-11-11",
+                    "description": "Deposit",
+                    "amount": -3894.63,
+                    "transaction_id": 89088565
+                },
+                {
+                    "date": "2023-10-12",
+                    "description": "Deposit",
+                    "amount": -3439.62,
+                    "transaction_id": 22008324
+                }
+            ]
+        }
+    }
+}

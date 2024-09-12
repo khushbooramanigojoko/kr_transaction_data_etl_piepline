@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jessica Moss",
+        "age": 77,
+        "gender": "male",
+        "address": "32000 Andrew Ridge Suite 497, Kinghaven, RI 87684",
+        "phone": "(461)904-6484x6411",
+        "email": "thomas87@example.org",
+        "account": {
+            "account_number": "5bf92b4b-f889-4ad1-93e1-76259c44eda1",
+            "balance": 7392.98,
+            "transactions": [
+                {
+                    "date": "2022-09-07",
+                    "description": "Withdrawal",
+                    "amount": 31333.42,
+                    "transaction_id": 31450452
+                },
+                {
+                    "date": "2024-07-13",
+                    "description": "Interest",
+                    "amount": 10350.75,
+                    "transaction_id": 110456576
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Interest",
+                    "amount": 10596.55,
+                    "transaction_id": 54438391
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Deposit",
+                    "amount": 31800.83,
+                    "transaction_id": 25934235
+                }
+            ]
+        }
+    }
+}

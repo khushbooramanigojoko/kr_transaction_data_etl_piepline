@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Antonio Tran",
+        "age": 89,
+        "gender": "female",
+        "address": "14914 Casey Shore, Lake Ianchester, MP 86804",
+        "phone": "2189788404",
+        "email": "jeffreywilliams@example.org",
+        "account": {
+            "account_number": "f33d0f2f-d1fa-49ab-b408-df233841b122",
+            "balance": -9584.78,
+            "transactions": [
+                {
+                    "date": "2023-07-21",
+                    "description": "Withdrawal",
+                    "amount": -1922.72,
+                    "transaction_id": 23976010
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Deposit",
+                    "amount": -1199.32,
+                    "transaction_id": 18548728
+                }
+            ]
+        }
+    }
+}

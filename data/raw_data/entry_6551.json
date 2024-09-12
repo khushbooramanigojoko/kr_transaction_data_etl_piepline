@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brianna Livingston",
+        "age": 42,
+        "gender": "male",
+        "address": "67677 Peter Parkways, West Dorisbury, AR 12532",
+        "phone": "231-966-9773",
+        "email": "zacharyjohnson@example.com",
+        "account": {
+            "account_number": "659d8999-ae9c-4c04-a80c-71b8a2a1281e",
+            "balance": 9180.96,
+            "transactions": [
+                {
+                    "date": "2023-02-22",
+                    "description": "Deposit",
+                    "amount": 12938.13,
+                    "transaction_id": 103742537
+                },
+                {
+                    "date": "2023-03-30",
+                    "description": "Withdrawal",
+                    "amount": 24480.97,
+                    "transaction_id": 89094404
+                }
+            ]
+        }
+    }
+}

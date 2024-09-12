@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Juan Castro",
+        "age": 46,
+        "gender": "female",
+        "address": "1334 Beck Flat, East Robin, ID 27653",
+        "phone": "272-921-9770x437",
+        "email": "moorelindsay@example.net",
+        "account": {
+            "account_number": "b73cbfa6-368a-4403-a00a-343561f4e731",
+            "balance": 37572.62,
+            "transactions": [
+                {
+                    "date": "2024-07-20",
+                    "description": "Interest",
+                    "amount": 17537.9,
+                    "transaction_id": 10261412
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Deposit",
+                    "amount": 32929.6,
+                    "transaction_id": 85874000
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Interest",
+                    "amount": 25271.98,
+                    "transaction_id": 22107475
+                }
+            ]
+        }
+    }
+}

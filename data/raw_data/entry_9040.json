@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sherri Jackson",
+        "age": 24,
+        "gender": "female",
+        "address": "54377 Kirk Summit Apt. 846, North Jonathan, SC 14592",
+        "phone": "(869)744-7270",
+        "email": "ywatts@example.org",
+        "account": {
+            "account_number": "2d6c863c-8885-447d-a8b6-b5002f4c74c6",
+            "balance": -23773.84,
+            "transactions": [
+                {
+                    "date": "2024-02-02",
+                    "description": "Deposit",
+                    "amount": 4464.35,
+                    "transaction_id": 111148813
+                },
+                {
+                    "date": "2024-07-19",
+                    "description": "Deposit",
+                    "amount": -1159.3,
+                    "transaction_id": 22641764
+                }
+            ]
+        }
+    }
+}

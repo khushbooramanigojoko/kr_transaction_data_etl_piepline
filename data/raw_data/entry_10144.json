@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 53,
+        "gender": "female",
+        "address": "USNV Curtis, FPO AA 89016",
+        "phone": "8296076816",
+        "email": "todd29@example.net",
+        "account": {
+            "account_number": "259bc5a1-c470-4b9d-9d0f-5f73e03a3365",
+            "balance": 44125.12,
+            "transactions": [
+                {
+                    "date": "2023-12-21",
+                    "description": "Deposit",
+                    "amount": 4977.7,
+                    "transaction_id": 88412940
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Deposit",
+                    "amount": 2108.68,
+                    "transaction_id": 10116743
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Withdrawal",
+                    "amount": -2560.4,
+                    "transaction_id": 102263281
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Deposit",
+                    "amount": -2234.7,
+                    "transaction_id": 105363290
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Interest",
+                    "amount": 1372.61,
+                    "transaction_id": 84895768
+                }
+            ]
+        }
+    }
+}

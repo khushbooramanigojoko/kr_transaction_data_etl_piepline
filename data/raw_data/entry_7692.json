@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sara Parrish",
+        "age": 82,
+        "gender": "male",
+        "address": "6445 Maria Oval, Clayland, PA 14128",
+        "phone": "+1-863-981-5332x52611",
+        "email": "rachel06@example.org",
+        "account": {
+            "account_number": "396c620f-ad4d-4411-ae43-d81dda6cb4a5",
+            "balance": 26279.88,
+            "transactions": [
+                {
+                    "date": "2022-11-30",
+                    "description": "Deposit",
+                    "amount": 18430.48,
+                    "transaction_id": 72098907
+                }
+            ]
+        }
+    }
+}

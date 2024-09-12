@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Danielle Stark",
+        "age": 83,
+        "gender": "female",
+        "address": "659 Fuller Springs, South Meganport, SD 42850",
+        "phone": "624-815-6966x6874",
+        "email": "james66@example.org",
+        "account": {
+            "account_number": "9cd384ae-d953-4682-bf2b-ff33f9d080ab",
+            "balance": 3774.79,
+            "transactions": [
+                {
+                    "date": "2024-03-21",
+                    "description": "Withdrawal",
+                    "amount": 27365.61,
+                    "transaction_id": 24416705
+                }
+            ]
+        }
+    }
+}

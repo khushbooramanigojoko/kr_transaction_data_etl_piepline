@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dustin Bowen",
+        "age": 44,
+        "gender": "female",
+        "address": "14256 Judy Stream, Cohenhaven, MT 60313",
+        "phone": "256-974-6303",
+        "email": "russellstevenson@example.net",
+        "account": {
+            "account_number": "c96a74b8-e957-447e-91b6-0b4cd691351a",
+            "balance": 37830.46,
+            "transactions": [
+                {
+                    "date": "2022-11-07",
+                    "description": "Withdrawal",
+                    "amount": 46311.18,
+                    "transaction_id": 50496065
+                },
+                {
+                    "date": "2023-04-04",
+                    "description": "Deposit",
+                    "amount": 26244.02,
+                    "transaction_id": 18479709
+                },
+                {
+                    "date": "2024-07-14",
+                    "description": "Deposit",
+                    "amount": 6972.06,
+                    "transaction_id": 115231135
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Withdrawal",
+                    "amount": 834.83,
+                    "transaction_id": 8156665
+                }
+            ]
+        }
+    }
+}

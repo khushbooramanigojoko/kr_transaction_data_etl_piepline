@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michele Dudley",
+        "age": 67,
+        "gender": "male",
+        "address": "533 Jason Crest Apt. 930, South Feliciatown, WI 44869",
+        "phone": "(372)776-5669x400",
+        "email": "camposwillie@example.org",
+        "account": {
+            "account_number": "c477843c-8924-42e7-b654-ef732c93835e",
+            "balance": -47347.6,
+            "transactions": [
+                {
+                    "date": "2023-12-20",
+                    "description": "Deposit",
+                    "amount": 99.89,
+                    "transaction_id": 93954790
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Deposit",
+                    "amount": -4003.25,
+                    "transaction_id": 26807997
+                }
+            ]
+        }
+    }
+}

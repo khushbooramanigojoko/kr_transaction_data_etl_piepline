@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 44,
+        "gender": "male",
+        "address": "77876 Boyd Lights, New Carmen, MD 64262",
+        "phone": "786.376.0201",
+        "email": "taylorzachary@example.com",
+        "account": {
+            "account_number": "ab672139-b829-4e49-a017-30a25907c36e",
+            "balance": 19688.3,
+            "transactions": [
+                {
+                    "date": "2024-04-13",
+                    "description": "Interest",
+                    "amount": 1234.7,
+                    "transaction_id": 51329311
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Deposit",
+                    "amount": -2141.48,
+                    "transaction_id": 56109376
+                },
+                {
+                    "date": "2023-01-07",
+                    "description": "Interest",
+                    "amount": 734.11,
+                    "transaction_id": 39388211
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Interest",
+                    "amount": -3794.58,
+                    "transaction_id": 53815325
+                },
+                {
+                    "date": "2024-01-24",
+                    "description": "Deposit",
+                    "amount": -1404.17,
+                    "transaction_id": 51917950
+                }
+            ]
+        }
+    }
+}

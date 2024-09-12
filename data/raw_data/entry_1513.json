@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Peterson",
+        "age": 65,
+        "gender": "female",
+        "address": "Unit 9303 Box 7814, DPO AA 80180",
+        "phone": "(654)668-1072",
+        "email": "susan94@example.net",
+        "account": {
+            "account_number": "7da4049b-c435-4d9f-b704-17979c4d59d0",
+            "balance": 35867.25,
+            "transactions": [
+                {
+                    "date": "2024-08-31",
+                    "description": "Withdrawal",
+                    "amount": 36044.7,
+                    "transaction_id": 109216994
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Deposit",
+                    "amount": 23901.76,
+                    "transaction_id": 115460229
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Deposit",
+                    "amount": 34939.28,
+                    "transaction_id": 34540163
+                },
+                {
+                    "date": "2022-10-27",
+                    "description": "Deposit",
+                    "amount": 10986.88,
+                    "transaction_id": 45962398
+                }
+            ]
+        }
+    }
+}

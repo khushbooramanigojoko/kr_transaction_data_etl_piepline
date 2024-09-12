@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dustin Norton",
+        "age": 50,
+        "gender": "female",
+        "address": "Unit 6565 Box 2071, DPO AA 60607",
+        "phone": "898.277.3946",
+        "email": "farrellkimberly@example.net",
+        "account": {
+            "account_number": "ad7fec04-50fb-4782-a803-83113db54845",
+            "balance": 31900.85,
+            "transactions": [
+                {
+                    "date": "2023-12-25",
+                    "description": "Deposit",
+                    "amount": 2830.01,
+                    "transaction_id": 89166290
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Interest",
+                    "amount": 12802.71,
+                    "transaction_id": 98842831
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Withdrawal",
+                    "amount": 32821.63,
+                    "transaction_id": 33510751
+                },
+                {
+                    "date": "2024-03-21",
+                    "description": "Deposit",
+                    "amount": 5547.94,
+                    "transaction_id": 10711726
+                }
+            ]
+        }
+    }
+}

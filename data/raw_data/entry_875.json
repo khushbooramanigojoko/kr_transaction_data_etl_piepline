@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Cody Mcintosh",
+        "age": 91,
+        "gender": "male",
+        "address": "2726 Lisa Village, East Kimberlytown, WA 08729",
+        "phone": "+1-929-616-5804",
+        "email": "kelly84@example.com",
+        "account": {
+            "account_number": "f4073bff-0c37-4489-af9a-75209c271dbb",
+            "balance": 7210.42,
+            "transactions": [
+                {
+                    "date": "2023-02-23",
+                    "description": "Deposit",
+                    "amount": 7783.68,
+                    "transaction_id": 15272329
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Deposit",
+                    "amount": 4406.39,
+                    "transaction_id": 49906639
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Interest",
+                    "amount": 36092.62,
+                    "transaction_id": 100494658
+                }
+            ]
+        }
+    }
+}

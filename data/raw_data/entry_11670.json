@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 26,
+        "gender": "male",
+        "address": "663 William Field, Jamieville, PR 66238",
+        "phone": "(858)412-1933x8671",
+        "email": "tracy12@example.com",
+        "account": {
+            "account_number": "e4edbf89-e330-4699-bf74-d8bf897e4d1e",
+            "balance": 19906.07,
+            "transactions": [
+                {
+                    "date": "2024-05-11",
+                    "description": "Deposit",
+                    "amount": -1809.25,
+                    "transaction_id": 59686414
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Withdrawal",
+                    "amount": 4078.88,
+                    "transaction_id": 45249002
+                },
+                {
+                    "date": "2023-02-03",
+                    "description": "Interest",
+                    "amount": -2240.79,
+                    "transaction_id": 44889157
+                },
+                {
+                    "date": "2024-06-10",
+                    "description": "Deposit",
+                    "amount": 564.32,
+                    "transaction_id": 77939368
+                }
+            ]
+        }
+    }
+}

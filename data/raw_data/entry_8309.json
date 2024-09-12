@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Donna Bradley",
+        "age": 33,
+        "gender": "female",
+        "address": "212 Brown Spurs Apt. 976, Allenland, ID 72416",
+        "phone": "634-836-9564x6335",
+        "email": "william37@example.org",
+        "account": {
+            "account_number": "31e30318-f18e-415f-8a6d-4eeaef412ecb",
+            "balance": 35555.37,
+            "transactions": [
+                {
+                    "date": "2023-07-30",
+                    "description": "Withdrawal",
+                    "amount": 32483.78,
+                    "transaction_id": 26375356
+                }
+            ]
+        }
+    }
+}

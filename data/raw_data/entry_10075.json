@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 94,
+        "gender": "female",
+        "address": "922 Jackson Hill Suite 493, New Shirleyview, NH 80832",
+        "phone": "+1-251-663-0445x8722",
+        "email": "troman@example.org",
+        "account": {
+            "account_number": "400a54e9-0a42-4f11-a7cc-5a4be6b9ee23",
+            "balance": 49598.61,
+            "transactions": [
+                {
+                    "date": "2024-07-19",
+                    "description": "Withdrawal",
+                    "amount": -1708.16,
+                    "transaction_id": 19858865
+                }
+            ]
+        }
+    }
+}

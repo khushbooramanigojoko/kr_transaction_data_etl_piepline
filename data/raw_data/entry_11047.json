@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jay Hamilton",
+        "age": 60,
+        "gender": "female",
+        "address": "5976 Walker Lakes Suite 836, New Eric, NM 65376",
+        "phone": "240-490-9353",
+        "email": "kimberly79@example.com",
+        "account": {
+            "account_number": "d8641b94-3dc6-4b77-a164-197ff9804ca1",
+            "balance": -7059.35,
+            "transactions": [
+                {
+                    "date": "2023-12-30",
+                    "description": "Withdrawal",
+                    "amount": -1168.7,
+                    "transaction_id": 8279522
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Interest",
+                    "amount": 2089.11,
+                    "transaction_id": 26685606
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Withdrawal",
+                    "amount": -3380.96,
+                    "transaction_id": 25811887
+                },
+                {
+                    "date": "2023-04-20",
+                    "description": "Deposit",
+                    "amount": -3403.35,
+                    "transaction_id": 7444475
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Withdrawal",
+                    "amount": -826.13,
+                    "transaction_id": 85328633
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alex Mcdonald",
+        "age": 66,
+        "gender": "male",
+        "address": "37985 Wendy Forges Apt. 107, Joseshire, NJ 30448",
+        "phone": "001-763-888-7853x5920",
+        "email": "charlotteallison@example.org",
+        "account": {
+            "account_number": "80a6bdeb-17b8-4e69-867b-2e82fb409d5a",
+            "balance": -49875.87,
+            "transactions": [
+                {
+                    "date": "2023-12-20",
+                    "description": "Interest",
+                    "amount": -4106.87,
+                    "transaction_id": 21398185
+                },
+                {
+                    "date": "2024-03-21",
+                    "description": "Deposit",
+                    "amount": -1073.12,
+                    "transaction_id": 73303458
+                },
+                {
+                    "date": "2023-07-09",
+                    "description": "Deposit",
+                    "amount": 4714.84,
+                    "transaction_id": 52120983
+                },
+                {
+                    "date": "2022-11-19",
+                    "description": "Withdrawal",
+                    "amount": -2314.47,
+                    "transaction_id": 84071391
+                }
+            ]
+        }
+    }
+}

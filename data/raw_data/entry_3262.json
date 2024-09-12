@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Johnson",
+        "age": 98,
+        "gender": "male",
+        "address": "5893 Amber Prairie, North Jenniferfurt, MP 31481",
+        "phone": "001-701-863-1118x50369",
+        "email": "murilloadam@example.com",
+        "account": {
+            "account_number": "cc54903a-bcc0-415f-9713-1fe9ab3d50b8",
+            "balance": 23358.38,
+            "transactions": [
+                {
+                    "date": "2023-12-03",
+                    "description": "Deposit",
+                    "amount": 24537.65,
+                    "transaction_id": 119898401
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Withdrawal",
+                    "amount": 32361.31,
+                    "transaction_id": 6956725
+                },
+                {
+                    "date": "2023-12-08",
+                    "description": "Deposit",
+                    "amount": 39123.97,
+                    "transaction_id": 57265817
+                },
+                {
+                    "date": "2023-08-18",
+                    "description": "Deposit",
+                    "amount": 6624.58,
+                    "transaction_id": 59271943
+                }
+            ]
+        }
+    }
+}

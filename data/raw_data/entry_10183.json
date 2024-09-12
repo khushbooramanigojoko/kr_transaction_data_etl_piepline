@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 55,
+        "gender": "male",
+        "address": "1478 Scott Pine Suite 924, Arnoldland, MH 72927",
+        "phone": "907-356-9226",
+        "email": "williamsmith@example.com",
+        "account": {
+            "account_number": "620f19af-e7ec-42ba-84fe-4e9580a1550a",
+            "balance": 6578.7,
+            "transactions": [
+                {
+                    "date": "2022-09-19",
+                    "description": "Interest",
+                    "amount": 2638.91,
+                    "transaction_id": 3469003
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Withdrawal",
+                    "amount": -2860.26,
+                    "transaction_id": 117602665
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Deposit",
+                    "amount": -1748.82,
+                    "transaction_id": 35104571
+                }
+            ]
+        }
+    }
+}

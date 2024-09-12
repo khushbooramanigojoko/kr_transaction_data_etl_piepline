@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jeffrey Clark",
+        "age": 95,
+        "gender": "female",
+        "address": "63287 Hahn Ford Suite 295, Port Lori, AL 00522",
+        "phone": "908.262.0735",
+        "email": "youngbilly@example.net",
+        "account": {
+            "account_number": "d28e8f62-a819-4bf2-a310-02afe115a51b",
+            "balance": -29705.82,
+            "transactions": [
+                {
+                    "date": "2024-07-19",
+                    "description": "Deposit",
+                    "amount": 540.12,
+                    "transaction_id": 63045491
+                },
+                {
+                    "date": "2024-08-22",
+                    "description": "Deposit",
+                    "amount": -4561.5,
+                    "transaction_id": 109967171
+                },
+                {
+                    "date": "2024-01-31",
+                    "description": "Withdrawal",
+                    "amount": 1147.95,
+                    "transaction_id": 17184403
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kimberly Baldwin",
+        "age": 60,
+        "gender": "male",
+        "address": "4045 Denise Grove, North Ashleyton, OR 54906",
+        "phone": "951.691.9625x47698",
+        "email": "jane71@example.org",
+        "account": {
+            "account_number": "6cd75db1-00b0-4b62-bbd1-9df6ef61c6bc",
+            "balance": 44910.64,
+            "transactions": [
+                {
+                    "date": "2023-10-13",
+                    "description": "Interest",
+                    "amount": 12736.46,
+                    "transaction_id": 30582215
+                }
+            ]
+        }
+    }
+}

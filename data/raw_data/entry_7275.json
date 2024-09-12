@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Angela Brown",
+        "age": 89,
+        "gender": "male",
+        "address": "950 Hodge Spring Suite 570, East Lori, DE 27547",
+        "phone": "764-782-7230x6455",
+        "email": "vfrost@example.org",
+        "account": {
+            "account_number": "91adb6fb-96ce-4276-82f4-ca8eddc9086f",
+            "balance": 1749.12,
+            "transactions": [
+                {
+                    "date": "2024-02-24",
+                    "description": "Deposit",
+                    "amount": 21392.29,
+                    "transaction_id": 61215374
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Deposit",
+                    "amount": 30676.0,
+                    "transaction_id": 55299421
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Interest",
+                    "amount": 9192.84,
+                    "transaction_id": 116075282
+                },
+                {
+                    "date": "2024-02-28",
+                    "description": "Deposit",
+                    "amount": 24653.9,
+                    "transaction_id": 25409845
+                }
+            ]
+        }
+    }
+}

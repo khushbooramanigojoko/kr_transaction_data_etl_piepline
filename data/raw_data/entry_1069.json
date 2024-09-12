@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mr. Colin Baker Jr.",
+        "age": 86,
+        "gender": "female",
+        "address": "70121 Harmon Ville Apt. 484, Hannahport, TX 25342",
+        "phone": "319-910-0064",
+        "email": "gpeters@example.net",
+        "account": {
+            "account_number": "7d5594b5-122a-4cb5-971c-904cefc040ea",
+            "balance": 18180.9,
+            "transactions": [
+                {
+                    "date": "2024-01-25",
+                    "description": "Interest",
+                    "amount": 6094.8,
+                    "transaction_id": 30793482
+                }
+            ]
+        }
+    }
+}

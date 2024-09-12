@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Antonio Cannon",
+        "age": 67,
+        "gender": "female",
+        "address": "51773 Eric Inlet, West Courtney, FL 96914",
+        "phone": "663.316.5912",
+        "email": "michaelherring@example.com",
+        "account": {
+            "account_number": "a17a011c-6a2c-45f3-b21a-e02138261639",
+            "balance": 9403.23,
+            "transactions": [
+                {
+                    "date": "2023-04-08",
+                    "description": "Deposit",
+                    "amount": 40517.3,
+                    "transaction_id": 39603147
+                },
+                {
+                    "date": "2023-04-12",
+                    "description": "Deposit",
+                    "amount": 20698.13,
+                    "transaction_id": 31227679
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Interest",
+                    "amount": 12172.03,
+                    "transaction_id": 109019046
+                }
+            ]
+        }
+    }
+}

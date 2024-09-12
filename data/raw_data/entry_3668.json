@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Gray",
+        "age": 89,
+        "gender": "female",
+        "address": "6398 David Plains Suite 875, Susanchester, KS 34642",
+        "phone": "348-502-3682x709",
+        "email": "hunteramber@example.org",
+        "account": {
+            "account_number": "254f82b8-0374-4d19-8080-52a5b988ecf0",
+            "balance": 2925.17,
+            "transactions": [
+                {
+                    "date": "2024-04-15",
+                    "description": "Withdrawal",
+                    "amount": 41965.05,
+                    "transaction_id": 96232358
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Interest",
+                    "amount": 7726.76,
+                    "transaction_id": 58269368
+                }
+            ]
+        }
+    }
+}

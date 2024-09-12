@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 62,
+        "gender": "female",
+        "address": "149 Shawn Locks, New Michael, MP 96729",
+        "phone": "491.566.4516x91287",
+        "email": "richardsoncarl@example.com",
+        "account": {
+            "account_number": "b1720edc-6196-4df7-8a2a-f630ab67019b",
+            "balance": 41967.99,
+            "transactions": [
+                {
+                    "date": "2024-06-05",
+                    "description": "Withdrawal",
+                    "amount": 2683.76,
+                    "transaction_id": 107440191
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Bobby Jordan",
+        "age": 33,
+        "gender": "female",
+        "address": "59929 Michelle Freeway Suite 519, Davisbury, VA 51329",
+        "phone": "(920)671-9712",
+        "email": "ambersantana@example.org",
+        "account": {
+            "account_number": "c7194c25-5acd-4e85-951e-919d9e42f75d",
+            "balance": 46363.62,
+            "transactions": [
+                {
+                    "date": "2022-11-10",
+                    "description": "Deposit",
+                    "amount": 31159.43,
+                    "transaction_id": 48365438
+                }
+            ]
+        }
+    }
+}

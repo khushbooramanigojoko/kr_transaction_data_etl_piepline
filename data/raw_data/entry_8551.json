@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Emily Willis",
+        "age": 37,
+        "gender": "female",
+        "address": "USNV Diaz, FPO AP 77763",
+        "phone": "+1-438-355-2841",
+        "email": "andrewanderson@example.net",
+        "account": {
+            "account_number": "47c99f4a-7917-4874-82f1-7b57d6732190",
+            "balance": 21185.69,
+            "transactions": [
+                {
+                    "date": "2023-06-12",
+                    "description": "Deposit",
+                    "amount": 27241.62,
+                    "transaction_id": 88289366
+                },
+                {
+                    "date": "2024-07-25",
+                    "description": "Deposit",
+                    "amount": 36175.76,
+                    "transaction_id": 31161207
+                },
+                {
+                    "date": "2023-10-10",
+                    "description": "Deposit",
+                    "amount": 33290.11,
+                    "transaction_id": 78495997
+                },
+                {
+                    "date": "2024-04-13",
+                    "description": "Deposit",
+                    "amount": 12368.22,
+                    "transaction_id": 70363519
+                },
+                {
+                    "date": "2023-02-05",
+                    "description": "Deposit",
+                    "amount": 15514.02,
+                    "transaction_id": 30751087
+                }
+            ]
+        }
+    }
+}

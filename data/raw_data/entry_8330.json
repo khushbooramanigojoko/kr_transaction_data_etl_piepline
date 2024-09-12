@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jessica Stewart",
+        "age": 78,
+        "gender": "male",
+        "address": "629 Connie Square Suite 586, West Antoniochester, HI 56444",
+        "phone": "526-800-5673",
+        "email": "garciapatrick@example.org",
+        "account": {
+            "account_number": "6e15b37c-c786-46ea-8031-80e56845cc13",
+            "balance": 43789.1,
+            "transactions": [
+                {
+                    "date": "2023-04-06",
+                    "description": "Deposit",
+                    "amount": 17071.69,
+                    "transaction_id": 62741973
+                },
+                {
+                    "date": "2024-02-11",
+                    "description": "Deposit",
+                    "amount": 31401.96,
+                    "transaction_id": 104505444
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Interest",
+                    "amount": 12849.75,
+                    "transaction_id": 81065852
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Interest",
+                    "amount": 34611.89,
+                    "transaction_id": 45874063
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Withdrawal",
+                    "amount": 5369.92,
+                    "transaction_id": 25053560
+                }
+            ]
+        }
+    }
+}

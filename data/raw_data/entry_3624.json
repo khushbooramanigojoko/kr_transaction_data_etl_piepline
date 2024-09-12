@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Raymond Martin",
+        "age": 62,
+        "gender": "female",
+        "address": "Unit 1760 Box 0222, DPO AP 71604",
+        "phone": "(300)595-2220x285",
+        "email": "vwalker@example.org",
+        "account": {
+            "account_number": "5d31692b-4592-406c-9295-f7ab86413639",
+            "balance": 49337.52,
+            "transactions": [
+                {
+                    "date": "2022-12-29",
+                    "description": "Deposit",
+                    "amount": 8843.64,
+                    "transaction_id": 60507472
+                },
+                {
+                    "date": "2023-04-24",
+                    "description": "Deposit",
+                    "amount": 40266.82,
+                    "transaction_id": 90992078
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Interest",
+                    "amount": 5807.34,
+                    "transaction_id": 115517084
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Deposit",
+                    "amount": 16335.57,
+                    "transaction_id": 51987767
+                }
+            ]
+        }
+    }
+}

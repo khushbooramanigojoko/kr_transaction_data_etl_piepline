@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kenneth Combs",
+        "age": 65,
+        "gender": "male",
+        "address": "220 Michael Parkways Apt. 141, Lake Mariaburgh, ME 55607",
+        "phone": "001-396-373-8005x8628",
+        "email": "lynchelizabeth@example.net",
+        "account": {
+            "account_number": "1c591cda-68ab-4ddf-8922-00b9e6104964",
+            "balance": 34961.58,
+            "transactions": [
+                {
+                    "date": "2023-10-29",
+                    "description": "Deposit",
+                    "amount": 42287.37,
+                    "transaction_id": 43245416
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Deposit",
+                    "amount": 29937.0,
+                    "transaction_id": 25002037
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Interest",
+                    "amount": 49468.25,
+                    "transaction_id": 64717395
+                },
+                {
+                    "date": "2024-07-21",
+                    "description": "Withdrawal",
+                    "amount": 11585.8,
+                    "transaction_id": 58823736
+                }
+            ]
+        }
+    }
+}

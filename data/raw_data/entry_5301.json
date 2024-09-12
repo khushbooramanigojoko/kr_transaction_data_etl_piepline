@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ashley Underwood",
+        "age": 98,
+        "gender": "female",
+        "address": "374 Madison Ports Apt. 798, West Cynthiachester, LA 72816",
+        "phone": "966-484-5697x77109",
+        "email": "spencerdebra@example.org",
+        "account": {
+            "account_number": "bb592b16-6060-41d1-bb78-2e4a3290fef6",
+            "balance": 43539.89,
+            "transactions": [
+                {
+                    "date": "2023-01-16",
+                    "description": "Deposit",
+                    "amount": 4819.74,
+                    "transaction_id": 33499842
+                },
+                {
+                    "date": "2023-11-07",
+                    "description": "Interest",
+                    "amount": 9099.82,
+                    "transaction_id": 21867055
+                },
+                {
+                    "date": "2023-07-22",
+                    "description": "Interest",
+                    "amount": 42576.94,
+                    "transaction_id": 89129505
+                },
+                {
+                    "date": "2023-11-18",
+                    "description": "Withdrawal",
+                    "amount": 17224.28,
+                    "transaction_id": 1748918
+                }
+            ]
+        }
+    }
+}

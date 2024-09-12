@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jose Baker",
+        "age": 21,
+        "gender": "female",
+        "address": "4719 Michelle Way, Lake Sonyabury, HI 20481",
+        "phone": "(749)812-3175x452",
+        "email": "zparks@example.com",
+        "account": {
+            "account_number": "7e29b3f0-f6e9-4dc7-95b1-9fc0873676e1",
+            "balance": 23408.04,
+            "transactions": [
+                {
+                    "date": "2024-07-28",
+                    "description": "Interest",
+                    "amount": 23979.9,
+                    "transaction_id": 110709875
+                }
+            ]
+        }
+    }
+}

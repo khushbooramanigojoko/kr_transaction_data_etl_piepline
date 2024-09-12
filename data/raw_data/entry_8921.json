@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 99,
+        "gender": "female",
+        "address": "163 Patel Unions, Crystalbury, CA 64855",
+        "phone": "5707976722",
+        "email": "ricestephen@example.org",
+        "account": {
+            "account_number": "56e8690e-9a81-4ba9-b241-60786acc3a5b",
+            "balance": 45800.39,
+            "transactions": [
+                {
+                    "date": "2023-08-25",
+                    "description": "Withdrawal",
+                    "amount": -1981.43,
+                    "transaction_id": 34541764
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Interest",
+                    "amount": -2547.67,
+                    "transaction_id": 36039410
+                }
+            ]
+        }
+    }
+}

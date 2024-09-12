@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Paul Lawrence",
+        "age": 58,
+        "gender": "male",
+        "address": "346 Smith Rue, Lake Chad, TX 49894",
+        "phone": "748-757-0849",
+        "email": "nnunez@example.net",
+        "account": {
+            "account_number": "fdf0ab3b-9914-4400-9602-c84a97c2354a",
+            "balance": 46517.89,
+            "transactions": [
+                {
+                    "date": "2022-11-09",
+                    "description": "Interest",
+                    "amount": 24207.87,
+                    "transaction_id": 20232537
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Withdrawal",
+                    "amount": 9755.44,
+                    "transaction_id": 9844833
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Deposit",
+                    "amount": 43756.63,
+                    "transaction_id": 62516334
+                }
+            ]
+        }
+    }
+}

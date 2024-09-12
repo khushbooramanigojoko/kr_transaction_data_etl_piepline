@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Theresa Gentry",
+        "age": 44,
+        "gender": "female",
+        "address": "USS Harrison, FPO AA 06886",
+        "phone": "(484)820-5705",
+        "email": "moralessteven@example.com",
+        "account": {
+            "account_number": "a3324cb3-1b62-4936-8724-bc73b5bc8157",
+            "balance": 3135.94,
+            "transactions": [
+                {
+                    "date": "2023-04-30",
+                    "description": "Withdrawal",
+                    "amount": 25078.16,
+                    "transaction_id": 2232862
+                },
+                {
+                    "date": "2022-12-10",
+                    "description": "Interest",
+                    "amount": 19044.84,
+                    "transaction_id": 74711739
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Interest",
+                    "amount": 38380.07,
+                    "transaction_id": 68413632
+                }
+            ]
+        }
+    }
+}

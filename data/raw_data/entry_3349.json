@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Snyder",
+        "age": 59,
+        "gender": "male",
+        "address": "75727 Scott Station Apt. 914, West Samantha, PW 55263",
+        "phone": "001-889-263-0498x13407",
+        "email": "reynoldsmarcus@example.org",
+        "account": {
+            "account_number": "1a5351de-9f1d-46e2-b850-f573fa5b8af6",
+            "balance": 32539.69,
+            "transactions": [
+                {
+                    "date": "2024-02-18",
+                    "description": "Withdrawal",
+                    "amount": 43147.32,
+                    "transaction_id": 30675771
+                },
+                {
+                    "date": "2023-01-14",
+                    "description": "Interest",
+                    "amount": 17431.87,
+                    "transaction_id": 14070496
+                }
+            ]
+        }
+    }
+}

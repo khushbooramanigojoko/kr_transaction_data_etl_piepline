@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Eric Sanders",
+        "age": 21,
+        "gender": "male",
+        "address": "Unit 0949 Box 9813, DPO AP 13722",
+        "phone": "(394)448-8738x22304",
+        "email": "odudley@example.org",
+        "account": {
+            "account_number": "c6923bd1-e322-4604-85a5-eb9166d7b2fa",
+            "balance": 31188.18,
+            "transactions": [
+                {
+                    "date": "2023-03-03",
+                    "description": "Withdrawal",
+                    "amount": 3922.6,
+                    "transaction_id": 20506430
+                },
+                {
+                    "date": "2022-11-29",
+                    "description": "Deposit",
+                    "amount": 619.92,
+                    "transaction_id": 19735478
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Interest",
+                    "amount": 33337.91,
+                    "transaction_id": 114011055
+                }
+            ]
+        }
+    }
+}

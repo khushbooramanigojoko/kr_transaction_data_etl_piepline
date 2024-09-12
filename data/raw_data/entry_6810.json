@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Christina Valdez",
+        "age": 97,
+        "gender": "male",
+        "address": "7189 Gregory Park Suite 468, East Jonathan, OK 10008",
+        "phone": "911.915.7732x4636",
+        "email": "russellrobert@example.org",
+        "account": {
+            "account_number": "c65ff413-5cdb-413a-9f08-fb55f9d91327",
+            "balance": 8374.18,
+            "transactions": [
+                {
+                    "date": "2024-01-07",
+                    "description": "Deposit",
+                    "amount": 9225.63,
+                    "transaction_id": 86823436
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Deposit",
+                    "amount": 8472.27,
+                    "transaction_id": 112931056
+                },
+                {
+                    "date": "2023-08-24",
+                    "description": "Interest",
+                    "amount": 21732.96,
+                    "transaction_id": 96710674
+                }
+            ]
+        }
+    }
+}

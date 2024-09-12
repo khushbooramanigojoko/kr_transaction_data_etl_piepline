@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Stacey Perez",
+        "age": 79,
+        "gender": "female",
+        "address": "126 Andrew Lock, Port Omarfurt, FM 78785",
+        "phone": "(930)273-9339",
+        "email": "jonathanwilliams@example.com",
+        "account": {
+            "account_number": "6a239ed9-98a4-4b67-8041-f64e631f7f1d",
+            "balance": 36785.44,
+            "transactions": [
+                {
+                    "date": "2024-07-21",
+                    "description": "Withdrawal",
+                    "amount": 37457.25,
+                    "transaction_id": 106220588
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Deposit",
+                    "amount": 42992.74,
+                    "transaction_id": 36891072
+                },
+                {
+                    "date": "2024-05-17",
+                    "description": "Deposit",
+                    "amount": 464.84,
+                    "transaction_id": 109292941
+                }
+            ]
+        }
+    }
+}

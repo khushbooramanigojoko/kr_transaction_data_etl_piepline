@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mary Strickland",
+        "age": 18,
+        "gender": "female",
+        "address": "589 Thomas Burgs Apt. 087, Lake Jenniferland, DE 19848",
+        "phone": "001-608-908-1852x385",
+        "email": "thomas26@example.org",
+        "account": {
+            "account_number": "d34b1bd0-7cab-4924-be54-87997c5a96df",
+            "balance": 27908.61,
+            "transactions": [
+                {
+                    "date": "2024-03-21",
+                    "description": "Interest",
+                    "amount": 23130.53,
+                    "transaction_id": 104047464
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Interest",
+                    "amount": 33093.68,
+                    "transaction_id": 31593288
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Bonnie Thompson",
+        "age": 66,
+        "gender": "female",
+        "address": "5361 Small Meadow Suite 749, North Ryan, PW 82439",
+        "phone": "001-624-257-2443x33870",
+        "email": "uwilson@example.net",
+        "account": {
+            "account_number": "e64b8809-3a27-410c-b9a1-076af967688b",
+            "balance": 28170.31,
+            "transactions": [
+                {
+                    "date": "2023-06-19",
+                    "description": "Deposit",
+                    "amount": 12066.89,
+                    "transaction_id": 73756260
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Deposit",
+                    "amount": 23871.85,
+                    "transaction_id": 79617802
+                },
+                {
+                    "date": "2023-01-15",
+                    "description": "Deposit",
+                    "amount": 15847.61,
+                    "transaction_id": 117431214
+                },
+                {
+                    "date": "2023-10-12",
+                    "description": "Interest",
+                    "amount": 9582.68,
+                    "transaction_id": 109254736
+                }
+            ]
+        }
+    }
+}

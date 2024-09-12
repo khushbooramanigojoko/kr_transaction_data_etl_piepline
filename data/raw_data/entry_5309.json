@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Nicole Barker",
+        "age": 47,
+        "gender": "male",
+        "address": "13125 Jesse Divide, Lake Alexis, OH 22074",
+        "phone": "980.367.3316x3326",
+        "email": "edwinowen@example.net",
+        "account": {
+            "account_number": "46b9f3a5-b747-4d7f-8580-aa7be9b0377a",
+            "balance": 30140.9,
+            "transactions": [
+                {
+                    "date": "2023-09-06",
+                    "description": "Deposit",
+                    "amount": 48348.93,
+                    "transaction_id": 55562869
+                }
+            ]
+        }
+    }
+}

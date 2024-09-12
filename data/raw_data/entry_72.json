@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amanda Alexander",
+        "age": 99,
+        "gender": "male",
+        "address": "28007 Rangel Crest, Denniston, GA 47716",
+        "phone": "556.405.4506x83557",
+        "email": "skinnerdebra@example.net",
+        "account": {
+            "account_number": "f65681d1-54b5-4953-b659-db1b101b345b",
+            "balance": 30738.8,
+            "transactions": [
+                {
+                    "date": "2022-11-25",
+                    "description": "Withdrawal",
+                    "amount": 45669.15,
+                    "transaction_id": 99556812
+                },
+                {
+                    "date": "2023-04-06",
+                    "description": "Withdrawal",
+                    "amount": 27144.89,
+                    "transaction_id": 88732375
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Withdrawal",
+                    "amount": 19990.41,
+                    "transaction_id": 61943606
+                },
+                {
+                    "date": "2022-12-10",
+                    "description": "Withdrawal",
+                    "amount": 49693.87,
+                    "transaction_id": 79685687
+                }
+            ]
+        }
+    }
+}

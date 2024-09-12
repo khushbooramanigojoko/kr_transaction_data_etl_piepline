@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jeff Brown",
+        "age": 66,
+        "gender": "female",
+        "address": "7744 Shane Station, Vanessachester, NH 53171",
+        "phone": "4989753133",
+        "email": "fluna@example.org",
+        "account": {
+            "account_number": "a5a17790-961f-44c4-9e66-71e0ec3e0e3b",
+            "balance": 11988.64,
+            "transactions": [
+                {
+                    "date": "2024-07-09",
+                    "description": "Interest",
+                    "amount": 17833.24,
+                    "transaction_id": 78393074
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Interest",
+                    "amount": 17875.61,
+                    "transaction_id": 40916413
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Withdrawal",
+                    "amount": 4772.86,
+                    "transaction_id": 87619916
+                },
+                {
+                    "date": "2024-05-31",
+                    "description": "Withdrawal",
+                    "amount": 21533.11,
+                    "transaction_id": 103208694
+                }
+            ]
+        }
+    }
+}

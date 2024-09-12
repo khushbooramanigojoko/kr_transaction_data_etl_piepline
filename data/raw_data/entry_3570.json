@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mary Collins",
+        "age": 55,
+        "gender": "male",
+        "address": "8978 Jeffery Vista Suite 904, New Danielborough, CT 30710",
+        "phone": "001-811-250-3373x029",
+        "email": "kevinsantiago@example.net",
+        "account": {
+            "account_number": "66fd0843-ce7e-4c43-833e-294bdb5ff49f",
+            "balance": 22196.2,
+            "transactions": [
+                {
+                    "date": "2023-03-20",
+                    "description": "Interest",
+                    "amount": 10296.68,
+                    "transaction_id": 72937347
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Deposit",
+                    "amount": 41306.88,
+                    "transaction_id": 75818528
+                },
+                {
+                    "date": "2023-07-31",
+                    "description": "Interest",
+                    "amount": 14410.77,
+                    "transaction_id": 80334518
+                }
+            ]
+        }
+    }
+}

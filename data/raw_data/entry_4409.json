@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dennis Trevino",
+        "age": 80,
+        "gender": "female",
+        "address": "12196 Elizabeth Extensions Suite 352, Alexanderhaven, MH 95960",
+        "phone": "585.791.2728x1129",
+        "email": "margaretnovak@example.net",
+        "account": {
+            "account_number": "fd255d11-d813-4049-800f-d38cdb134a42",
+            "balance": 28174.21,
+            "transactions": [
+                {
+                    "date": "2023-08-04",
+                    "description": "Deposit",
+                    "amount": 41374.01,
+                    "transaction_id": 69103682
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Withdrawal",
+                    "amount": 23984.42,
+                    "transaction_id": 18521730
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Withdrawal",
+                    "amount": 30921.3,
+                    "transaction_id": 67985801
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Withdrawal",
+                    "amount": 44619.91,
+                    "transaction_id": 7629461
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Withdrawal",
+                    "amount": 49370.79,
+                    "transaction_id": 72094446
+                }
+            ]
+        }
+    }
+}

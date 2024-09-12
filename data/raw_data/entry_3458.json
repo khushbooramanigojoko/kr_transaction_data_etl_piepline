@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Stephen Powell",
+        "age": 43,
+        "gender": "male",
+        "address": "071 Jessica Pines, South Debraville, VT 66826",
+        "phone": "(501)480-9806x377",
+        "email": "erinfoster@example.org",
+        "account": {
+            "account_number": "449cf1bd-7bbb-4702-87f9-ee8527a94af0",
+            "balance": 7840.47,
+            "transactions": [
+                {
+                    "date": "2022-11-24",
+                    "description": "Deposit",
+                    "amount": 23294.39,
+                    "transaction_id": 19689437
+                },
+                {
+                    "date": "2023-09-02",
+                    "description": "Interest",
+                    "amount": 17853.48,
+                    "transaction_id": 31300566
+                }
+            ]
+        }
+    }
+}

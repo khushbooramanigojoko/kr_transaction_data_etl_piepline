@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Erin Schneider",
+        "age": 73,
+        "gender": "male",
+        "address": "589 Darren Passage Suite 019, West Davechester, NY 71767",
+        "phone": "8573029639",
+        "email": "hstewart@example.net",
+        "account": {
+            "account_number": "e1377f59-63cc-4631-ba93-c2737c22d42d",
+            "balance": 4547.62,
+            "transactions": [
+                {
+                    "date": "2023-05-25",
+                    "description": "Deposit",
+                    "amount": 44032.66,
+                    "transaction_id": 77501833
+                },
+                {
+                    "date": "2024-04-09",
+                    "description": "Withdrawal",
+                    "amount": 17919.0,
+                    "transaction_id": 66951078
+                },
+                {
+                    "date": "2024-03-25",
+                    "description": "Interest",
+                    "amount": 28802.67,
+                    "transaction_id": 47017698
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Withdrawal",
+                    "amount": 4723.31,
+                    "transaction_id": 90325691
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Interest",
+                    "amount": 1440.71,
+                    "transaction_id": 49454124
+                }
+            ]
+        }
+    }
+}

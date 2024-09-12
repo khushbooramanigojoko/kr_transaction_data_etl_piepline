@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rebecca Thompson",
+        "age": 37,
+        "gender": "male",
+        "address": "883 King Village Suite 440, Whiteton, MA 01269",
+        "phone": "9055258901",
+        "email": "lfigueroa@example.com",
+        "account": {
+            "account_number": "92418f68-5f23-4336-896d-c118c322e161",
+            "balance": 46703.52,
+            "transactions": [
+                {
+                    "date": "2024-06-05",
+                    "description": "Interest",
+                    "amount": 41056.16,
+                    "transaction_id": 84918222
+                }
+            ]
+        }
+    }
+}

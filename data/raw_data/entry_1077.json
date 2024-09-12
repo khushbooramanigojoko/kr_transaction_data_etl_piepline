@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Linda Wood",
+        "age": 78,
+        "gender": "male",
+        "address": "Unit 1021 Box 4913, DPO AP 98319",
+        "phone": "4698610158",
+        "email": "rossjamie@example.org",
+        "account": {
+            "account_number": "c9c193c3-1e51-40bd-bcab-0d03f84efa3c",
+            "balance": 6268.21,
+            "transactions": [
+                {
+                    "date": "2023-10-12",
+                    "description": "Interest",
+                    "amount": 47034.29,
+                    "transaction_id": 118450329
+                },
+                {
+                    "date": "2023-04-28",
+                    "description": "Interest",
+                    "amount": 856.05,
+                    "transaction_id": 14892174
+                },
+                {
+                    "date": "2023-03-20",
+                    "description": "Deposit",
+                    "amount": 20771.55,
+                    "transaction_id": 56863356
+                },
+                {
+                    "date": "2023-05-07",
+                    "description": "Interest",
+                    "amount": 33706.38,
+                    "transaction_id": 74224311
+                }
+            ]
+        }
+    }
+}

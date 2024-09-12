@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 21,
+        "gender": "male",
+        "address": "91185 Diaz Island Apt. 978, Lanehaven, KS 20029",
+        "phone": "768.925.8022x71001",
+        "email": "lskinner@example.org",
+        "account": {
+            "account_number": "5c94ecdf-c3bd-41fd-a6b7-648d5cefedc8",
+            "balance": 25547.97,
+            "transactions": [
+                {
+                    "date": "2024-08-20",
+                    "description": "Deposit",
+                    "amount": 3771.35,
+                    "transaction_id": 37465605
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Deposit",
+                    "amount": -2942.9,
+                    "transaction_id": 90406825
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Interest",
+                    "amount": 1444.19,
+                    "transaction_id": 64984824
+                }
+            ]
+        }
+    }
+}

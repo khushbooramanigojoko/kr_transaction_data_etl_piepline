@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Martinez",
+        "age": 63,
+        "gender": "female",
+        "address": "20993 Sarah Union, Hullport, SC 94750",
+        "phone": "+1-308-699-3968x36084",
+        "email": "ebriggs@example.org",
+        "account": {
+            "account_number": "71ef50bd-59a5-46da-a4c7-ff268746776e",
+            "balance": 42392.64,
+            "transactions": [
+                {
+                    "date": "2023-07-23",
+                    "description": "Withdrawal",
+                    "amount": 28724.96,
+                    "transaction_id": 103887243
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Deposit",
+                    "amount": 45262.65,
+                    "transaction_id": 67321005
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Withdrawal",
+                    "amount": 2769.96,
+                    "transaction_id": 20239843
+                }
+            ]
+        }
+    }
+}

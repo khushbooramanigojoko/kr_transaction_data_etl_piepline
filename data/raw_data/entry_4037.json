@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mr. Ronald Freeman",
+        "age": 95,
+        "gender": "male",
+        "address": "2734 Burton Causeway Suite 341, Bernardchester, AS 50735",
+        "phone": "245.999.6245",
+        "email": "stephanieadams@example.net",
+        "account": {
+            "account_number": "1b4decc3-5d32-45c7-991c-42bcc9ccdd74",
+            "balance": 11344.49,
+            "transactions": [
+                {
+                    "date": "2024-04-30",
+                    "description": "Interest",
+                    "amount": 40675.18,
+                    "transaction_id": 11742767
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Interest",
+                    "amount": 33941.24,
+                    "transaction_id": 22844494
+                },
+                {
+                    "date": "2023-07-31",
+                    "description": "Interest",
+                    "amount": 46974.25,
+                    "transaction_id": 117444914
+                },
+                {
+                    "date": "2023-12-21",
+                    "description": "Interest",
+                    "amount": 19315.15,
+                    "transaction_id": 26334457
+                }
+            ]
+        }
+    }
+}

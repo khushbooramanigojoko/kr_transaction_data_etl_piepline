@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Anthony Boyer",
+        "age": 44,
+        "gender": "female",
+        "address": "81999 Lisa Glens Apt. 970, Seanmouth, ND 03613",
+        "phone": "976-377-7848",
+        "email": "stucker@example.com",
+        "account": {
+            "account_number": "2acb51b5-9cc4-48af-abea-4b10a63f77c3",
+            "balance": 42123.02,
+            "transactions": [
+                {
+                    "date": "2023-05-29",
+                    "description": "Withdrawal",
+                    "amount": 12336.7,
+                    "transaction_id": 83451464
+                },
+                {
+                    "date": "2023-07-12",
+                    "description": "Withdrawal",
+                    "amount": 48577.32,
+                    "transaction_id": 24938406
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 81,
+        "gender": "female",
+        "address": "41895 Moore Dale Suite 800, Jacobberg, NJ 02618",
+        "phone": "(313)809-1152x09200",
+        "email": "simsryan@example.net",
+        "account": {
+            "account_number": "eed37edc-2ccd-4b5d-a283-b11031f561df",
+            "balance": 3990.63,
+            "transactions": [
+                {
+                    "date": "2023-03-31",
+                    "description": "Interest",
+                    "amount": -48.44,
+                    "transaction_id": 6938217
+                },
+                {
+                    "date": "2024-06-28",
+                    "description": "Interest",
+                    "amount": 1533.97,
+                    "transaction_id": 7177749
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Deposit",
+                    "amount": 282.59,
+                    "transaction_id": 23629640
+                }
+            ]
+        }
+    }
+}

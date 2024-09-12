@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Anthony Hendrix",
+        "age": 18,
+        "gender": "female",
+        "address": "51883 Tracey Rapids, New Chelsea, SD 60437",
+        "phone": "883-293-6208x285",
+        "email": "tommy93@example.org",
+        "account": {
+            "account_number": "e11a0352-2e4a-4ac0-97c0-1505d9e91dd3",
+            "balance": 27336.78,
+            "transactions": [
+                {
+                    "date": "2023-04-13",
+                    "description": "Deposit",
+                    "amount": 47626.76,
+                    "transaction_id": 14232963
+                }
+            ]
+        }
+    }
+}

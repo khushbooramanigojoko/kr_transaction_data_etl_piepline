@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Bowers",
+        "age": 47,
+        "gender": "female",
+        "address": "876 Smith Lake, North William, TX 98877",
+        "phone": "(749)762-6991",
+        "email": "lawrenceedward@example.net",
+        "account": {
+            "account_number": "46d04a40-efa0-4753-aded-84643ce8eefb",
+            "balance": 20519.26,
+            "transactions": [
+                {
+                    "date": "2022-11-08",
+                    "description": "Interest",
+                    "amount": 25256.7,
+                    "transaction_id": 118676729
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Deposit",
+                    "amount": 11719.65,
+                    "transaction_id": 90904948
+                },
+                {
+                    "date": "2023-12-12",
+                    "description": "Interest",
+                    "amount": 20543.87,
+                    "transaction_id": 92897019
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Deposit",
+                    "amount": 33441.27,
+                    "transaction_id": 30598924
+                }
+            ]
+        }
+    }
+}

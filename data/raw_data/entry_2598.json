@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kristin Smith",
+        "age": 65,
+        "gender": "male",
+        "address": "5165 Potter Points Suite 953, North Jimmybury, DE 40261",
+        "phone": "+1-787-768-6351x1041",
+        "email": "john16@example.org",
+        "account": {
+            "account_number": "6ec284b7-6979-4761-9a21-ca1707a8ed8e",
+            "balance": 29052.87,
+            "transactions": [
+                {
+                    "date": "2023-01-20",
+                    "description": "Withdrawal",
+                    "amount": 14382.72,
+                    "transaction_id": 20427945
+                }
+            ]
+        }
+    }
+}

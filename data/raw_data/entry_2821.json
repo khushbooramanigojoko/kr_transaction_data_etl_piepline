@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Anna Mcguire",
+        "age": 66,
+        "gender": "male",
+        "address": "PSC 0445, Box 2031, APO AE 11453",
+        "phone": "8663522648",
+        "email": "ujones@example.com",
+        "account": {
+            "account_number": "515f5418-6bf5-4e1d-be08-f7bcb1b4b1b8",
+            "balance": 47260.21,
+            "transactions": [
+                {
+                    "date": "2024-03-22",
+                    "description": "Withdrawal",
+                    "amount": 35434.97,
+                    "transaction_id": 24620935
+                },
+                {
+                    "date": "2022-11-13",
+                    "description": "Deposit",
+                    "amount": 4483.74,
+                    "transaction_id": 119192575
+                }
+            ]
+        }
+    }
+}

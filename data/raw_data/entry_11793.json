@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 60,
+        "gender": "female",
+        "address": "24528 Roberson Plain Apt. 331, Tinashire, IL 52573",
+        "phone": "7534948765",
+        "email": "anna39@example.net",
+        "account": {
+            "account_number": "c3798c4e-19ed-496b-bc82-af2f234a3d50",
+            "balance": 45691.15,
+            "transactions": [
+                {
+                    "date": "2023-07-08",
+                    "description": "Interest",
+                    "amount": 2455.43,
+                    "transaction_id": 87806071
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Interest",
+                    "amount": -3546.04,
+                    "transaction_id": 115069100
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Deposit",
+                    "amount": -487.39,
+                    "transaction_id": 65463260
+                },
+                {
+                    "date": "2024-07-24",
+                    "description": "Deposit",
+                    "amount": 2299.01,
+                    "transaction_id": 82775190
+                }
+            ]
+        }
+    }
+}

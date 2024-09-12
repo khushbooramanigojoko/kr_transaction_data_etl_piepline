@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Lisa Haynes",
+        "age": 18,
+        "gender": "male",
+        "address": "513 Beasley Fort, Lake Justin, FM 35062",
+        "phone": "239-441-0604x28057",
+        "email": "stephanie55@example.org",
+        "account": {
+            "account_number": "e70bfe26-da7f-4eb0-87e3-83d371c0d185",
+            "balance": 48514.53,
+            "transactions": [
+                {
+                    "date": "2022-09-02",
+                    "description": "Interest",
+                    "amount": 11787.68,
+                    "transaction_id": 3201019
+                },
+                {
+                    "date": "2023-12-10",
+                    "description": "Interest",
+                    "amount": 18258.0,
+                    "transaction_id": 98867474
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Withdrawal",
+                    "amount": 11527.69,
+                    "transaction_id": 55865920
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Deposit",
+                    "amount": 45483.16,
+                    "transaction_id": 12101973
+                },
+                {
+                    "date": "2024-06-27",
+                    "description": "Interest",
+                    "amount": 41480.93,
+                    "transaction_id": 24423510
+                }
+            ]
+        }
+    }
+}

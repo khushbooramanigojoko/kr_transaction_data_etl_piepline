@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Shannon Vega",
+        "age": 29,
+        "gender": "male",
+        "address": "PSC 8032, Box 6527, APO AA 19305",
+        "phone": "525.937.9283x5191",
+        "email": "michael80@example.org",
+        "account": {
+            "account_number": "65b626de-1d1f-4e43-8380-e4bdca44d6f0",
+            "balance": 21419.62,
+            "transactions": [
+                {
+                    "date": "2023-10-20",
+                    "description": "Deposit",
+                    "amount": 2548.38,
+                    "transaction_id": 116304433
+                },
+                {
+                    "date": "2022-11-18",
+                    "description": "Withdrawal",
+                    "amount": 33495.8,
+                    "transaction_id": 8766700
+                }
+            ]
+        }
+    }
+}

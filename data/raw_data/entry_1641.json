@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Emily Espinoza",
+        "age": 27,
+        "gender": "male",
+        "address": "6779 Johnston Ridge, South Wendy, MS 31961",
+        "phone": "7922980162",
+        "email": "hannah11@example.net",
+        "account": {
+            "account_number": "61a19598-3aa5-4e63-8586-836a4ff4ff1e",
+            "balance": 39638.19,
+            "transactions": [
+                {
+                    "date": "2023-08-03",
+                    "description": "Withdrawal",
+                    "amount": 36179.1,
+                    "transaction_id": 30873573
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Interest",
+                    "amount": 2601.4,
+                    "transaction_id": 97639333
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Interest",
+                    "amount": 5129.95,
+                    "transaction_id": 9405851
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Dr. Allen Burch",
+        "age": 72,
+        "gender": "female",
+        "address": "504 Sutton Island Apt. 204, Benjaminmouth, FL 51395",
+        "phone": "668-729-3828x31953",
+        "email": "osmith@example.org",
+        "account": {
+            "account_number": "7ae164ed-431c-4919-9364-fd6c01bcbeb9",
+            "balance": -39778.05,
+            "transactions": [
+                {
+                    "date": "2023-07-05",
+                    "description": "Withdrawal",
+                    "amount": 1837.0,
+                    "transaction_id": 114284406
+                },
+                {
+                    "date": "2024-07-21",
+                    "description": "Withdrawal",
+                    "amount": -2721.78,
+                    "transaction_id": 110101306
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Withdrawal",
+                    "amount": -844.98,
+                    "transaction_id": 102776205
+                }
+            ]
+        }
+    }
+}

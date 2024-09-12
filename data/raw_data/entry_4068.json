@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Karl Hunt",
+        "age": 55,
+        "gender": "male",
+        "address": "178 Duane Unions Apt. 171, Kington, SC 87208",
+        "phone": "898.699.1257",
+        "email": "matthew81@example.org",
+        "account": {
+            "account_number": "cc286955-e30c-4f3d-9230-72b3eedf6c7d",
+            "balance": 36793.18,
+            "transactions": [
+                {
+                    "date": "2024-06-15",
+                    "description": "Interest",
+                    "amount": 1606.6,
+                    "transaction_id": 82500508
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Deposit",
+                    "amount": 32612.03,
+                    "transaction_id": 113944518
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Deposit",
+                    "amount": 25775.13,
+                    "transaction_id": 23152742
+                }
+            ]
+        }
+    }
+}

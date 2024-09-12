@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joshua Fischer",
+        "age": 86,
+        "gender": "female",
+        "address": "9056 Dean Pine, Taylorchester, NV 80202",
+        "phone": "001-293-820-7329",
+        "email": "alvarezmelanie@example.net",
+        "account": {
+            "account_number": "f879c572-12a6-425c-8386-7495e9a71f84",
+            "balance": -16484.81,
+            "transactions": [
+                {
+                    "date": "2023-09-16",
+                    "description": "Deposit",
+                    "amount": 3642.23,
+                    "transaction_id": 17183984
+                },
+                {
+                    "date": "2023-07-15",
+                    "description": "Withdrawal",
+                    "amount": -4685.57,
+                    "transaction_id": 16755944
+                }
+            ]
+        }
+    }
+}

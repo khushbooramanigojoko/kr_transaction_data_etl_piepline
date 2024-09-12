@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Deanna Sanchez",
+        "age": 45,
+        "gender": "male",
+        "address": "131 Lopez Bridge, South Jordan, SD 43586",
+        "phone": "+1-464-270-3993",
+        "email": "spearssamuel@example.com",
+        "account": {
+            "account_number": "8d32988e-8432-4e64-83f6-f116cfdce502",
+            "balance": -5877.87,
+            "transactions": [
+                {
+                    "date": "2024-05-31",
+                    "description": "Interest",
+                    "amount": -4595.9,
+                    "transaction_id": 45830293
+                }
+            ]
+        }
+    }
+}

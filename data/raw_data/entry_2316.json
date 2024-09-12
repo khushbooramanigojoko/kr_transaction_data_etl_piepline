@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Wendy Terry",
+        "age": 67,
+        "gender": "male",
+        "address": "846 Johnson Stream Apt. 957, Kathrynland, NV 06976",
+        "phone": "+1-661-862-9921x36317",
+        "email": "tamara90@example.com",
+        "account": {
+            "account_number": "bd984f64-9bc3-4050-b133-0343a255b550",
+            "balance": 1552.6,
+            "transactions": [
+                {
+                    "date": "2023-06-05",
+                    "description": "Withdrawal",
+                    "amount": 22158.44,
+                    "transaction_id": 41961142
+                },
+                {
+                    "date": "2023-10-12",
+                    "description": "Withdrawal",
+                    "amount": 47633.57,
+                    "transaction_id": 26511413
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Deposit",
+                    "amount": 26008.93,
+                    "transaction_id": 52239860
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Withdrawal",
+                    "amount": 7867.42,
+                    "transaction_id": 35128836
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Interest",
+                    "amount": 25669.73,
+                    "transaction_id": 67148322
+                }
+            ]
+        }
+    }
+}

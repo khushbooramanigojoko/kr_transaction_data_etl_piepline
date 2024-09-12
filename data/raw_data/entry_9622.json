@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 71,
+        "gender": "female",
+        "address": "USNV Hernandez, FPO AA 81931",
+        "phone": "001-603-522-2627x5549",
+        "email": "fmills@example.net",
+        "account": {
+            "account_number": "5f942031-6525-4fde-aa53-e21c0e6071ee",
+            "balance": 21578.96,
+            "transactions": [
+                {
+                    "date": "2023-08-08",
+                    "description": "Deposit",
+                    "amount": 4470.69,
+                    "transaction_id": 19297820
+                }
+            ]
+        }
+    }
+}

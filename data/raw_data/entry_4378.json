@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kenneth Walls",
+        "age": 90,
+        "gender": "male",
+        "address": "2575 Miller Pike, East Tiffany, CT 62205",
+        "phone": "210-974-8831x5950",
+        "email": "dthomas@example.com",
+        "account": {
+            "account_number": "1d4d0459-f8a1-4d3a-af8b-385b519c922a",
+            "balance": 39904.94,
+            "transactions": [
+                {
+                    "date": "2023-04-19",
+                    "description": "Interest",
+                    "amount": 47445.33,
+                    "transaction_id": 95792928
+                },
+                {
+                    "date": "2024-03-11",
+                    "description": "Interest",
+                    "amount": 14809.25,
+                    "transaction_id": 104755777
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Deposit",
+                    "amount": 40172.36,
+                    "transaction_id": 2422328
+                },
+                {
+                    "date": "2023-04-05",
+                    "description": "Deposit",
+                    "amount": 9094.68,
+                    "transaction_id": 7292314
+                }
+            ]
+        }
+    }
+}

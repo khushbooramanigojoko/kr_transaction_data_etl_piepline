@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 97,
+        "gender": "female",
+        "address": "094 Abigail Skyway Apt. 081, Stephenberg, WY 85648",
+        "phone": "731.936.8498",
+        "email": "melanie63@example.com",
+        "account": {
+            "account_number": "c22ac2d2-1775-4440-a9b5-7cc989fe8815",
+            "balance": 33112.65,
+            "transactions": [
+                {
+                    "date": "2024-06-03",
+                    "description": "Withdrawal",
+                    "amount": 66.28,
+                    "transaction_id": 106791300
+                },
+                {
+                    "date": "2023-08-05",
+                    "description": "Interest",
+                    "amount": 4357.67,
+                    "transaction_id": 95922276
+                }
+            ]
+        }
+    }
+}

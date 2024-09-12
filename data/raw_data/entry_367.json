@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "David Mcmillan",
+        "age": 78,
+        "gender": "female",
+        "address": "6701 Rose Pine, Alexandermouth, KY 23785",
+        "phone": "358.632.8785x87439",
+        "email": "karenmalone@example.net",
+        "account": {
+            "account_number": "5727fae2-680b-44b8-be0a-6d67388a2972",
+            "balance": 8528.4,
+            "transactions": [
+                {
+                    "date": "2023-08-07",
+                    "description": "Interest",
+                    "amount": 10725.32,
+                    "transaction_id": 22793821
+                },
+                {
+                    "date": "2023-05-31",
+                    "description": "Deposit",
+                    "amount": 44284.74,
+                    "transaction_id": 95326973
+                },
+                {
+                    "date": "2023-05-30",
+                    "description": "Withdrawal",
+                    "amount": 20798.59,
+                    "transaction_id": 21056734
+                },
+                {
+                    "date": "2022-09-07",
+                    "description": "Deposit",
+                    "amount": 39065.27,
+                    "transaction_id": 70855480
+                }
+            ]
+        }
+    }
+}

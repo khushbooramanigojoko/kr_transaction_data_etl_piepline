@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christopher Ryan",
+        "age": 28,
+        "gender": "male",
+        "address": "37510 Lindsay Isle, Seanport, CO 95129",
+        "phone": "(661)986-9208x1462",
+        "email": "lowerymichelle@example.com",
+        "account": {
+            "account_number": "6620003d-6118-41be-b784-cf649c8781fd",
+            "balance": 30451.42,
+            "transactions": [
+                {
+                    "date": "2024-03-22",
+                    "description": "Deposit",
+                    "amount": 13132.79,
+                    "transaction_id": 109445716
+                },
+                {
+                    "date": "2024-02-14",
+                    "description": "Withdrawal",
+                    "amount": 46903.27,
+                    "transaction_id": 57105940
+                },
+                {
+                    "date": "2022-09-02",
+                    "description": "Interest",
+                    "amount": 45275.75,
+                    "transaction_id": 92116072
+                },
+                {
+                    "date": "2024-02-05",
+                    "description": "Interest",
+                    "amount": 30878.07,
+                    "transaction_id": 114220990
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Deposit",
+                    "amount": 18737.24,
+                    "transaction_id": 90269655
+                }
+            ]
+        }
+    }
+}

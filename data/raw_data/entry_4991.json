@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Matthew Archer",
+        "age": 38,
+        "gender": "male",
+        "address": "Unit 8738 Box 8173, DPO AP 18641",
+        "phone": "445.830.5425x1534",
+        "email": "johnsonteresa@example.net",
+        "account": {
+            "account_number": "5e7f805f-8516-402f-8937-71192fcf425d",
+            "balance": 39698.21,
+            "transactions": [
+                {
+                    "date": "2023-11-21",
+                    "description": "Interest",
+                    "amount": 43392.59,
+                    "transaction_id": 109070717
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Interest",
+                    "amount": 18964.02,
+                    "transaction_id": 16565348
+                },
+                {
+                    "date": "2024-01-27",
+                    "description": "Deposit",
+                    "amount": 24336.02,
+                    "transaction_id": 75148397
+                }
+            ]
+        }
+    }
+}

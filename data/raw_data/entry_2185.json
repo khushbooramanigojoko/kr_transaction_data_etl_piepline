@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Laura Gallagher",
+        "age": 22,
+        "gender": "female",
+        "address": "426 Rodriguez Knolls Apt. 449, Andreafort, AS 18668",
+        "phone": "(218)862-5902x6077",
+        "email": "patrick52@example.com",
+        "account": {
+            "account_number": "bfca9e5a-1d48-4061-9b25-b75789ccf7b3",
+            "balance": 41650.72,
+            "transactions": [
+                {
+                    "date": "2023-11-24",
+                    "description": "Withdrawal",
+                    "amount": 48040.74,
+                    "transaction_id": 44415271
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amy Spencer",
+        "age": 86,
+        "gender": "male",
+        "address": "43680 Sawyer Crossroad, Port Steven, RI 26502",
+        "phone": "(297)304-4472",
+        "email": "ysantiago@example.net",
+        "account": {
+            "account_number": "925e7303-a79c-4e57-88e1-a7095b373853",
+            "balance": -16772.26,
+            "transactions": [
+                {
+                    "date": "2023-04-16",
+                    "description": "Interest",
+                    "amount": 481.52,
+                    "transaction_id": 115661336
+                }
+            ]
+        }
+    }
+}

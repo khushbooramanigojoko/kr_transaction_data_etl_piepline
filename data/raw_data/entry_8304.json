@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Keith Moss",
+        "age": 67,
+        "gender": "female",
+        "address": "229 Brian Brooks Suite 750, East James, MO 13598",
+        "phone": "(615)291-7316",
+        "email": "jakemorgan@example.com",
+        "account": {
+            "account_number": "202dc978-fc39-4758-a1c5-a9fdf1677085",
+            "balance": 42271.19,
+            "transactions": [
+                {
+                    "date": "2023-09-27",
+                    "description": "Deposit",
+                    "amount": 34215.89,
+                    "transaction_id": 26579118
+                },
+                {
+                    "date": "2022-09-20",
+                    "description": "Withdrawal",
+                    "amount": 12718.83,
+                    "transaction_id": 103035743
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Deposit",
+                    "amount": 22162.46,
+                    "transaction_id": 98063568
+                },
+                {
+                    "date": "2022-11-18",
+                    "description": "Deposit",
+                    "amount": 4107.77,
+                    "transaction_id": 11046792
+                }
+            ]
+        }
+    }
+}

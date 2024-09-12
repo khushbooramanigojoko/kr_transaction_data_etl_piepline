@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Dorothy Johnson",
+        "age": 20,
+        "gender": "male",
+        "address": "07342 Davis Stream, Lake Brian, IL 35312",
+        "phone": "607.447.6794",
+        "email": "bday@example.net",
+        "account": {
+            "account_number": "28286dc8-a858-4dfe-8bf3-2cd0a587241f",
+            "balance": 38769.41,
+            "transactions": [
+                {
+                    "date": "2024-01-11",
+                    "description": "Withdrawal",
+                    "amount": 15947.0,
+                    "transaction_id": 99543076
+                },
+                {
+                    "date": "2023-08-08",
+                    "description": "Deposit",
+                    "amount": 16268.54,
+                    "transaction_id": 40509062
+                },
+                {
+                    "date": "2023-07-26",
+                    "description": "Withdrawal",
+                    "amount": 10742.62,
+                    "transaction_id": 39359646
+                }
+            ]
+        }
+    }
+}

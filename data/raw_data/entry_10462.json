@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Melissa Lam",
+        "age": 40,
+        "gender": "male",
+        "address": "3579 Michael Expressway, Rossburgh, CO 14033",
+        "phone": "001-342-594-4972x81403",
+        "email": "mooreamy@example.net",
+        "account": {
+            "account_number": "0f20c575-7208-4213-95a7-9635e018fae4",
+            "balance": -13311.91,
+            "transactions": [
+                {
+                    "date": "2024-07-23",
+                    "description": "Deposit",
+                    "amount": 4818.89,
+                    "transaction_id": 77302056
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Deposit",
+                    "amount": 243.54,
+                    "transaction_id": 87857418
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Withdrawal",
+                    "amount": -831.15,
+                    "transaction_id": 83267080
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Withdrawal",
+                    "amount": 1345.37,
+                    "transaction_id": 108946991
+                }
+            ]
+        }
+    }
+}

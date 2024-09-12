@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Woodard",
+        "age": 61,
+        "gender": "male",
+        "address": "9781 Wilson Hill, South Nicole, ID 30386",
+        "phone": "001-933-367-8908x54737",
+        "email": "erikstewart@example.net",
+        "account": {
+            "account_number": "61d7cd1d-e730-4d53-8bb2-1465f3cf9dfb",
+            "balance": -5975.19,
+            "transactions": [
+                {
+                    "date": "2023-11-17",
+                    "description": "Interest",
+                    "amount": -2503.24,
+                    "transaction_id": 1128832
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Withdrawal",
+                    "amount": -2869.26,
+                    "transaction_id": 64499526
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Deposit",
+                    "amount": 3482.55,
+                    "transaction_id": 114687838
+                }
+            ]
+        }
+    }
+}

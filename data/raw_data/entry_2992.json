@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jennifer Johnson",
+        "age": 69,
+        "gender": "male",
+        "address": "3590 David Point Suite 859, Travismouth, AR 01978",
+        "phone": "001-597-979-6194x721",
+        "email": "kristi40@example.net",
+        "account": {
+            "account_number": "98ea960f-41d2-4eaa-9be4-1864d665068f",
+            "balance": 23176.51,
+            "transactions": [
+                {
+                    "date": "2022-11-18",
+                    "description": "Deposit",
+                    "amount": 17698.96,
+                    "transaction_id": 99517060
+                }
+            ]
+        }
+    }
+}

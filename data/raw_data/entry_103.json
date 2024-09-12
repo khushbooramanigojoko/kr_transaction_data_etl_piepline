@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dawn Vincent",
+        "age": 47,
+        "gender": "male",
+        "address": "1785 Emily Curve Suite 316, West Scotthaven, OK 21126",
+        "phone": "212-635-8377x8901",
+        "email": "mmcguire@example.net",
+        "account": {
+            "account_number": "f695472e-d57b-4a2e-aa5c-562efecbe28a",
+            "balance": 30473.35,
+            "transactions": [
+                {
+                    "date": "2024-04-30",
+                    "description": "Withdrawal",
+                    "amount": 43569.77,
+                    "transaction_id": 92267319
+                },
+                {
+                    "date": "2023-04-17",
+                    "description": "Deposit",
+                    "amount": 1190.37,
+                    "transaction_id": 36323261
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Deposit",
+                    "amount": 46013.79,
+                    "transaction_id": 68061188
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Withdrawal",
+                    "amount": 35187.54,
+                    "transaction_id": 66178138
+                }
+            ]
+        }
+    }
+}

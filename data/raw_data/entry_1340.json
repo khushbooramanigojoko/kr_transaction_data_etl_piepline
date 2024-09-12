@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Debra Rich",
+        "age": 71,
+        "gender": "male",
+        "address": "239 Anderson Inlet Apt. 554, Christopherburgh, WA 49401",
+        "phone": "296.457.2028x8609",
+        "email": "mwheeler@example.org",
+        "account": {
+            "account_number": "da6ef122-c431-499b-89b2-6b9b61813dd7",
+            "balance": 38284.86,
+            "transactions": [
+                {
+                    "date": "2023-10-18",
+                    "description": "Deposit",
+                    "amount": 3345.24,
+                    "transaction_id": 5377590
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Withdrawal",
+                    "amount": 21198.75,
+                    "transaction_id": 86382861
+                },
+                {
+                    "date": "2024-02-20",
+                    "description": "Interest",
+                    "amount": 38123.76,
+                    "transaction_id": 47442168
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Withdrawal",
+                    "amount": 19725.28,
+                    "transaction_id": 99635345
+                }
+            ]
+        }
+    }
+}

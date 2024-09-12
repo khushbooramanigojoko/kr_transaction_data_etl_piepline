@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Erin Bender",
+        "age": 47,
+        "gender": "female",
+        "address": "534 Bailey Street, East Tamara, NV 27677",
+        "phone": "(452)881-9962",
+        "email": "colliercourtney@example.net",
+        "account": {
+            "account_number": "9eda9e37-02af-47e1-a62c-06eee2133181",
+            "balance": 44771.26,
+            "transactions": [
+                {
+                    "date": "2024-08-02",
+                    "description": "Interest",
+                    "amount": 726.46,
+                    "transaction_id": 32346889
+                },
+                {
+                    "date": "2023-02-23",
+                    "description": "Interest",
+                    "amount": 47590.87,
+                    "transaction_id": 38199675
+                }
+            ]
+        }
+    }
+}

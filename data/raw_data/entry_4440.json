@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Bates",
+        "age": 23,
+        "gender": "female",
+        "address": "22256 Ruiz Glens, Brownstad, NJ 01871",
+        "phone": "(568)580-3010",
+        "email": "flemingroberto@example.com",
+        "account": {
+            "account_number": "c414fc08-8a81-4615-aa8e-37240a53328e",
+            "balance": 6138.95,
+            "transactions": [
+                {
+                    "date": "2024-06-25",
+                    "description": "Interest",
+                    "amount": 33410.17,
+                    "transaction_id": 98760526
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Withdrawal",
+                    "amount": 31346.59,
+                    "transaction_id": 70203961
+                },
+                {
+                    "date": "2022-10-10",
+                    "description": "Deposit",
+                    "amount": 49233.84,
+                    "transaction_id": 4802002
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Withdrawal",
+                    "amount": 48212.47,
+                    "transaction_id": 48910032
+                }
+            ]
+        }
+    }
+}

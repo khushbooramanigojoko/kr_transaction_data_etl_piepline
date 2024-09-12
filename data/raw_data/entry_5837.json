@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Zachary Spencer",
+        "age": 61,
+        "gender": "male",
+        "address": "077 Kevin Harbor Apt. 839, Clarkview, KS 09920",
+        "phone": "+1-389-538-9675x65734",
+        "email": "vgreene@example.net",
+        "account": {
+            "account_number": "e828720d-0a71-4816-8965-ff08b2b2af28",
+            "balance": 17953.44,
+            "transactions": [
+                {
+                    "date": "2024-02-10",
+                    "description": "Withdrawal",
+                    "amount": 41786.59,
+                    "transaction_id": 18130693
+                }
+            ]
+        }
+    }
+}

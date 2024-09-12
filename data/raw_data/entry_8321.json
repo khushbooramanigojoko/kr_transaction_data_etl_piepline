@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Angela Smith",
+        "age": 31,
+        "gender": "female",
+        "address": "3744 Jason Turnpike Apt. 600, Lake Stanley, NM 82193",
+        "phone": "001-348-344-1779x78553",
+        "email": "nwashington@example.org",
+        "account": {
+            "account_number": "be71d627-5605-4573-948c-a69d9dab78b8",
+            "balance": 23902.66,
+            "transactions": [
+                {
+                    "date": "2023-11-27",
+                    "description": "Deposit",
+                    "amount": 26982.78,
+                    "transaction_id": 73594320
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Withdrawal",
+                    "amount": 40741.77,
+                    "transaction_id": 45661263
+                },
+                {
+                    "date": "2023-06-30",
+                    "description": "Withdrawal",
+                    "amount": 21084.06,
+                    "transaction_id": 35579077
+                },
+                {
+                    "date": "2023-01-15",
+                    "description": "Deposit",
+                    "amount": 48576.34,
+                    "transaction_id": 11213936
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Deposit",
+                    "amount": 30144.57,
+                    "transaction_id": 33298733
+                }
+            ]
+        }
+    }
+}

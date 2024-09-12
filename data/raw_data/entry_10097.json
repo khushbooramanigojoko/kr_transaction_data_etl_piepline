@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Anna Patel",
+        "age": 55,
+        "gender": "female",
+        "address": "74879 Walker Course Apt. 494, Melissachester, MS 04003",
+        "phone": "001-308-596-0671",
+        "email": "qmckinney@example.org",
+        "account": {
+            "account_number": "20858695-35b8-4dcb-bc18-b1e132e46a25",
+            "balance": -5384.33,
+            "transactions": [
+                {
+                    "date": "2024-02-26",
+                    "description": "Withdrawal",
+                    "amount": -3733.65,
+                    "transaction_id": 93832342
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Deposit",
+                    "amount": -2377.56,
+                    "transaction_id": 57843703
+                },
+                {
+                    "date": "2024-05-21",
+                    "description": "Interest",
+                    "amount": -56.07,
+                    "transaction_id": 18141897
+                }
+            ]
+        }
+    }
+}

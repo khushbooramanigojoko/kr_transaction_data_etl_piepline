@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Eric Werner",
+        "age": 91,
+        "gender": "female",
+        "address": "1067 Gray Garden, Christophershire, PA 05048",
+        "phone": "855.387.1182",
+        "email": "justin35@example.org",
+        "account": {
+            "account_number": "adb3409a-4b94-4230-a506-9e534ef16d3f",
+            "balance": 26241.96,
+            "transactions": [
+                {
+                    "date": "2024-08-16",
+                    "description": "Interest",
+                    "amount": 49595.55,
+                    "transaction_id": 69320819
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Deposit",
+                    "amount": 38570.25,
+                    "transaction_id": 110907846
+                },
+                {
+                    "date": "2024-09-01",
+                    "description": "Deposit",
+                    "amount": 43889.81,
+                    "transaction_id": 8345801
+                }
+            ]
+        }
+    }
+}

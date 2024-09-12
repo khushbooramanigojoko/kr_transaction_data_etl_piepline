@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Melissa Davis",
+        "age": 46,
+        "gender": "female",
+        "address": "179 Tracey Glens Apt. 449, Kaylashire, CT 06776",
+        "phone": "524-491-3190x5146",
+        "email": "andrew79@example.com",
+        "account": {
+            "account_number": "71929317-343f-4fb8-bfd5-64c915cb8a21",
+            "balance": 10602.08,
+            "transactions": [
+                {
+                    "date": "2023-05-20",
+                    "description": "Interest",
+                    "amount": 17945.75,
+                    "transaction_id": 63111669
+                }
+            ]
+        }
+    }
+}

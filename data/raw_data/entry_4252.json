@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Amanda Bowen",
+        "age": 92,
+        "gender": "female",
+        "address": "PSC 2677, Box 3608, APO AA 37864",
+        "phone": "+1-843-471-6886",
+        "email": "mberger@example.com",
+        "account": {
+            "account_number": "d92d976f-b40b-445e-a1a3-105501a53b7e",
+            "balance": 25092.84,
+            "transactions": [
+                {
+                    "date": "2024-01-12",
+                    "description": "Withdrawal",
+                    "amount": 5817.98,
+                    "transaction_id": 43297165
+                },
+                {
+                    "date": "2022-10-10",
+                    "description": "Deposit",
+                    "amount": 23440.7,
+                    "transaction_id": 108087803
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Withdrawal",
+                    "amount": 46822.52,
+                    "transaction_id": 105594467
+                }
+            ]
+        }
+    }
+}

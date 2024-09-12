@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 75,
+        "gender": "male",
+        "address": "16242 Caitlin Lakes Apt. 168, Michaelborough, IL 47249",
+        "phone": "001-761-632-7867x6271",
+        "email": "coledeborah@example.org",
+        "account": {
+            "account_number": "5e368b4e-9489-4256-8098-657c7198cba3",
+            "balance": 4344.86,
+            "transactions": [
+                {
+                    "date": "2024-03-20",
+                    "description": "Interest",
+                    "amount": -3790.24,
+                    "transaction_id": 104894223
+                }
+            ]
+        }
+    }
+}

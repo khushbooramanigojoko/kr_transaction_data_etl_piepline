@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "James Peterson",
+        "age": 96,
+        "gender": "female",
+        "address": "784 Ray Cove Suite 697, Kennethborough, NH 22094",
+        "phone": "001-326-777-7041",
+        "email": "mariathomas@example.net",
+        "account": {
+            "account_number": "f9888071-022f-4322-88d5-787fad3592e6",
+            "balance": 2054.58,
+            "transactions": [
+                {
+                    "date": "2024-05-25",
+                    "description": "Withdrawal",
+                    "amount": 30774.19,
+                    "transaction_id": 118551476
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Withdrawal",
+                    "amount": 32808.21,
+                    "transaction_id": 83288643
+                }
+            ]
+        }
+    }
+}

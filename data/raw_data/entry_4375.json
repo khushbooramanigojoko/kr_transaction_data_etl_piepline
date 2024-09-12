@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Alexandra Aguilar",
+        "age": 50,
+        "gender": "female",
+        "address": "36672 Daniels Shoals, Brianmouth, AK 34919",
+        "phone": "577.273.7377x023",
+        "email": "callahankatherine@example.com",
+        "account": {
+            "account_number": "0c4470ac-c913-4446-8025-20563b283bd1",
+            "balance": 38224.76,
+            "transactions": [
+                {
+                    "date": "2023-11-18",
+                    "description": "Deposit",
+                    "amount": 7713.02,
+                    "transaction_id": 20941973
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Interest",
+                    "amount": 22814.14,
+                    "transaction_id": 83607550
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Interest",
+                    "amount": 40743.54,
+                    "transaction_id": 13333053
+                }
+            ]
+        }
+    }
+}

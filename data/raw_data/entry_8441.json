@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Shannon Herman",
+        "age": 74,
+        "gender": "male",
+        "address": "61818 Eric Ridges Suite 942, Robinsonburgh, DC 13603",
+        "phone": "856.491.3471x17187",
+        "email": "francismichael@example.org",
+        "account": {
+            "account_number": "b9b30d55-024b-4055-bee0-dcb5bc1b69ca",
+            "balance": 23931.59,
+            "transactions": [
+                {
+                    "date": "2022-10-03",
+                    "description": "Interest",
+                    "amount": 24992.16,
+                    "transaction_id": 73419501
+                },
+                {
+                    "date": "2023-06-06",
+                    "description": "Withdrawal",
+                    "amount": 4281.41,
+                    "transaction_id": 43049760
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Interest",
+                    "amount": 48501.57,
+                    "transaction_id": 82038016
+                }
+            ]
+        }
+    }
+}

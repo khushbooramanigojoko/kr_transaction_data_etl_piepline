@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Wendy Pacheco",
+        "age": 53,
+        "gender": "female",
+        "address": "04768 Reeves Stream, Paynetown, PA 21404",
+        "phone": "735.366.5307",
+        "email": "charlesrodriguez@example.org",
+        "account": {
+            "account_number": "6f9777b7-aeec-4c61-b341-435acfba405f",
+            "balance": 33772.12,
+            "transactions": [
+                {
+                    "date": "2024-08-20",
+                    "description": "Deposit",
+                    "amount": 31236.16,
+                    "transaction_id": 77258811
+                }
+            ]
+        }
+    }
+}

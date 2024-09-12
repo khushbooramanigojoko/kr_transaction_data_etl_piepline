@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jesus Bowers",
+        "age": 26,
+        "gender": "male",
+        "address": "64844 Elizabeth Tunnel Apt. 468, Dominguezland, MP 46326",
+        "phone": "483-777-6611x681",
+        "email": "whoward@example.com",
+        "account": {
+            "account_number": "4f7239f5-887f-47ad-af30-1a40c5ac9f8d",
+            "balance": 26479.67,
+            "transactions": [
+                {
+                    "date": "2023-08-17",
+                    "description": "Deposit",
+                    "amount": 36820.75,
+                    "transaction_id": 41919185
+                }
+            ]
+        }
+    }
+}

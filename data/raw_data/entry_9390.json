@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 27,
+        "gender": "female",
+        "address": "8844 Anderson Park, Johnsonshire, MO 06219",
+        "phone": "001-324-635-9037x012",
+        "email": "morganheather@example.com",
+        "account": {
+            "account_number": "f004f410-d139-492a-941e-dfdbdd77ddf6",
+            "balance": 15134.02,
+            "transactions": [
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": 345.5,
+                    "transaction_id": 98083559
+                },
+                {
+                    "date": "2023-08-01",
+                    "description": "Deposit",
+                    "amount": -2634.9,
+                    "transaction_id": 63005366
+                }
+            ]
+        }
+    }
+}

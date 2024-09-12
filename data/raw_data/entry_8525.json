@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Steve Kelley",
+        "age": 74,
+        "gender": "male",
+        "address": "0255 Foley Loop, Port Brianfurt, AL 90010",
+        "phone": "+1-557-511-9155x9388",
+        "email": "vcollier@example.net",
+        "account": {
+            "account_number": "3317f05c-9984-4f02-ab35-fe01450af854",
+            "balance": 6507.89,
+            "transactions": [
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": 34517.84,
+                    "transaction_id": 99280967
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Deposit",
+                    "amount": 25914.42,
+                    "transaction_id": 26938503
+                },
+                {
+                    "date": "2023-06-20",
+                    "description": "Withdrawal",
+                    "amount": 44062.98,
+                    "transaction_id": 13498414
+                }
+            ]
+        }
+    }
+}

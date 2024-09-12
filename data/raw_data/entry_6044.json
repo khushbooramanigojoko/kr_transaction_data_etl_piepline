@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Lucas Goodman",
+        "age": 97,
+        "gender": "male",
+        "address": "953 Perez Orchard Suite 126, South Shane, NM 41238",
+        "phone": "584-352-5775x1021",
+        "email": "shafferkrystal@example.org",
+        "account": {
+            "account_number": "b965e5b5-8d2f-490a-8cdc-bd46f8008005",
+            "balance": 15149.27,
+            "transactions": [
+                {
+                    "date": "2023-09-13",
+                    "description": "Withdrawal",
+                    "amount": 2814.3,
+                    "transaction_id": 59730458
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Interest",
+                    "amount": 6736.09,
+                    "transaction_id": 52868908
+                },
+                {
+                    "date": "2024-05-30",
+                    "description": "Interest",
+                    "amount": 22406.05,
+                    "transaction_id": 10206926
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Withdrawal",
+                    "amount": 16247.19,
+                    "transaction_id": 97821641
+                },
+                {
+                    "date": "2024-06-01",
+                    "description": "Withdrawal",
+                    "amount": 891.34,
+                    "transaction_id": 27138495
+                }
+            ]
+        }
+    }
+}

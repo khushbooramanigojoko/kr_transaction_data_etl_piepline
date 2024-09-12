@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Cheryl Hayes",
+        "age": 62,
+        "gender": "female",
+        "address": "154 Tricia Valley, East Jacqueline, NM 99733",
+        "phone": "(479)601-2324x293",
+        "email": "allisongary@example.com",
+        "account": {
+            "account_number": "986c062a-4352-4a6c-bea6-27b548b0356e",
+            "balance": 48006.42,
+            "transactions": [
+                {
+                    "date": "2024-01-21",
+                    "description": "Withdrawal",
+                    "amount": 28098.12,
+                    "transaction_id": 89516695
+                },
+                {
+                    "date": "2024-05-26",
+                    "description": "Interest",
+                    "amount": 45683.79,
+                    "transaction_id": 67591998
+                },
+                {
+                    "date": "2024-05-04",
+                    "description": "Withdrawal",
+                    "amount": 17643.26,
+                    "transaction_id": 104484938
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Deposit",
+                    "amount": 8970.36,
+                    "transaction_id": 60498424
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Deposit",
+                    "amount": 26869.36,
+                    "transaction_id": 49568706
+                }
+            ]
+        }
+    }
+}

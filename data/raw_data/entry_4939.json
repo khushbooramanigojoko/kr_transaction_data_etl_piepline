@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tiffany Scott",
+        "age": 39,
+        "gender": "female",
+        "address": "079 Owens Expressway, Yangfurt, OK 52625",
+        "phone": "246.542.1514x2290",
+        "email": "deanmark@example.org",
+        "account": {
+            "account_number": "69f7e252-5e8c-435e-9d57-a4c17a8926e5",
+            "balance": 43824.47,
+            "transactions": [
+                {
+                    "date": "2024-04-01",
+                    "description": "Deposit",
+                    "amount": 47750.82,
+                    "transaction_id": 59177395
+                },
+                {
+                    "date": "2023-07-02",
+                    "description": "Interest",
+                    "amount": 35782.64,
+                    "transaction_id": 27283115
+                },
+                {
+                    "date": "2024-05-07",
+                    "description": "Withdrawal",
+                    "amount": 25344.17,
+                    "transaction_id": 13189132
+                },
+                {
+                    "date": "2023-04-30",
+                    "description": "Deposit",
+                    "amount": 22070.0,
+                    "transaction_id": 38966069
+                }
+            ]
+        }
+    }
+}

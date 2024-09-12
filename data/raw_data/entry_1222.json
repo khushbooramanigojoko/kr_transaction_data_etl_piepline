@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Bryan Price",
+        "age": 96,
+        "gender": "male",
+        "address": "95565 Ryan Knolls Suite 112, Hessstad, MN 91425",
+        "phone": "7429269728",
+        "email": "gperry@example.net",
+        "account": {
+            "account_number": "53c53bea-0a2d-4063-9702-89fbd6a30832",
+            "balance": 12256.53,
+            "transactions": [
+                {
+                    "date": "2022-10-02",
+                    "description": "Withdrawal",
+                    "amount": 1969.65,
+                    "transaction_id": 6954557
+                },
+                {
+                    "date": "2023-10-02",
+                    "description": "Interest",
+                    "amount": 5608.92,
+                    "transaction_id": 24977088
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 21,
+        "gender": "female",
+        "address": "128 Regina River, West Jackberg, AS 51511",
+        "phone": "+1-282-987-3750x548",
+        "email": "lauren79@example.com",
+        "account": {
+            "account_number": "52709d52-1a44-404b-ae0c-5b33a6b25e0e",
+            "balance": 48882.65,
+            "transactions": [
+                {
+                    "date": "2024-05-21",
+                    "description": "Deposit",
+                    "amount": 83.07,
+                    "transaction_id": 97061222
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Deposit",
+                    "amount": 2296.08,
+                    "transaction_id": 36595849
+                }
+            ]
+        }
+    }
+}

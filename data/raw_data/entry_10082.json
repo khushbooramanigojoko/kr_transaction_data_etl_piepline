@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 47,
+        "gender": "female",
+        "address": "367 Vargas Turnpike Apt. 944, Port Rebeccamouth, MS 15862",
+        "phone": "584-958-4291",
+        "email": "brandonyoung@example.org",
+        "account": {
+            "account_number": "7420bd11-5643-4437-9cca-c417a8c353ba",
+            "balance": 24457.23,
+            "transactions": [
+                {
+                    "date": "2023-12-26",
+                    "description": "Withdrawal",
+                    "amount": 2077.27,
+                    "transaction_id": 73721593
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Interest",
+                    "amount": 724.9,
+                    "transaction_id": 26413021
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Interest",
+                    "amount": -3267.66,
+                    "transaction_id": 31089667
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Withdrawal",
+                    "amount": 102.01,
+                    "transaction_id": 99357012
+                }
+            ]
+        }
+    }
+}

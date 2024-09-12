@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Melissa Mccoy",
+        "age": 37,
+        "gender": "female",
+        "address": "4582 Rivera Rue, Port Raymond, WY 05952",
+        "phone": "212-284-6684",
+        "email": "susangomez@example.net",
+        "account": {
+            "account_number": "1cbd2c6a-df44-4ef9-bb39-da74513cc0f9",
+            "balance": 26247.52,
+            "transactions": [
+                {
+                    "date": "2024-06-30",
+                    "description": "Withdrawal",
+                    "amount": 45998.63,
+                    "transaction_id": 34057571
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Withdrawal",
+                    "amount": 3388.55,
+                    "transaction_id": 67028817
+                }
+            ]
+        }
+    }
+}

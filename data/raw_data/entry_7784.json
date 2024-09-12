@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Karen Solomon",
+        "age": 46,
+        "gender": "male",
+        "address": "3310 Andrew Estates, Wademouth, ME 72651",
+        "phone": "7763255831",
+        "email": "khouston@example.com",
+        "account": {
+            "account_number": "d03ff8f1-4aab-4b7a-9a9b-7f0e3b13a2a0",
+            "balance": 2765.45,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Interest",
+                    "amount": 26267.41,
+                    "transaction_id": 74569954
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Deposit",
+                    "amount": 47658.24,
+                    "transaction_id": 69351859
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Deposit",
+                    "amount": 38552.42,
+                    "transaction_id": 56036044
+                },
+                {
+                    "date": "2022-09-16",
+                    "description": "Withdrawal",
+                    "amount": 1702.42,
+                    "transaction_id": 91762415
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Deposit",
+                    "amount": 34382.81,
+                    "transaction_id": 95084383
+                }
+            ]
+        }
+    }
+}

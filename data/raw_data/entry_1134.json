@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tracy Ramirez",
+        "age": 18,
+        "gender": "male",
+        "address": "64990 Daniel Ville, New Amanda, MT 73457",
+        "phone": "(888)307-8122x54838",
+        "email": "hmorton@example.net",
+        "account": {
+            "account_number": "60c24f53-f64e-487c-9224-1beef52a3fde",
+            "balance": 29677.49,
+            "transactions": [
+                {
+                    "date": "2024-01-13",
+                    "description": "Deposit",
+                    "amount": 7785.88,
+                    "transaction_id": 78222504
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Deposit",
+                    "amount": 48582.2,
+                    "transaction_id": 109428251
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Withdrawal",
+                    "amount": 15069.03,
+                    "transaction_id": 34662589
+                },
+                {
+                    "date": "2024-08-11",
+                    "description": "Interest",
+                    "amount": 20123.8,
+                    "transaction_id": 31686015
+                },
+                {
+                    "date": "2023-12-23",
+                    "description": "Deposit",
+                    "amount": 36754.62,
+                    "transaction_id": 95291470
+                }
+            ]
+        }
+    }
+}

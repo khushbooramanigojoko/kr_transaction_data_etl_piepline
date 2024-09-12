@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jesus Ortiz",
+        "age": 93,
+        "gender": "male",
+        "address": "Unit 5259 Box 2347, DPO AE 10368",
+        "phone": "787.889.0161",
+        "email": "xglenn@example.org",
+        "account": {
+            "account_number": "6f100fb0-9ccf-4bb3-874c-c7276f09d1d0",
+            "balance": -13509.0,
+            "transactions": [
+                {
+                    "date": "2024-06-04",
+                    "description": "Withdrawal",
+                    "amount": -635.45,
+                    "transaction_id": 18585571
+                },
+                {
+                    "date": "2023-08-07",
+                    "description": "Deposit",
+                    "amount": -3330.5,
+                    "transaction_id": 63286054
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Deposit",
+                    "amount": 3220.1,
+                    "transaction_id": 15557301
+                },
+                {
+                    "date": "2023-10-11",
+                    "description": "Deposit",
+                    "amount": -1396.28,
+                    "transaction_id": 3828417
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Interest",
+                    "amount": -1270.58,
+                    "transaction_id": 28722786
+                }
+            ]
+        }
+    }
+}

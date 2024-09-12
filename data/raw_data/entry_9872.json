@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Taylor Mayer MD",
+        "age": 78,
+        "gender": "male",
+        "address": "469 Calderon Spur, Sheliachester, OH 76770",
+        "phone": "(206)433-9573x25549",
+        "email": "rachel58@example.org",
+        "account": {
+            "account_number": "ac4b9379-fc0b-4e13-b5dd-3ff09d0a7a5d",
+            "balance": -21056.35,
+            "transactions": [
+                {
+                    "date": "2024-02-04",
+                    "description": "Deposit",
+                    "amount": 1058.5,
+                    "transaction_id": 25283485
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Deposit",
+                    "amount": 2805.95,
+                    "transaction_id": 60439371
+                }
+            ]
+        }
+    }
+}

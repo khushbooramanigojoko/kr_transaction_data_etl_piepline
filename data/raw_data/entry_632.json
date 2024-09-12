@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michele Bennett",
+        "age": 22,
+        "gender": "male",
+        "address": "108 Deborah Divide Suite 369, Lake Deborah, DE 72559",
+        "phone": "431-626-6765x29541",
+        "email": "singhgerald@example.com",
+        "account": {
+            "account_number": "d9db7bc2-f22c-4873-9f51-4a22200b0bd4",
+            "balance": 23268.31,
+            "transactions": [
+                {
+                    "date": "2023-03-13",
+                    "description": "Withdrawal",
+                    "amount": 45534.87,
+                    "transaction_id": 69565021
+                },
+                {
+                    "date": "2023-01-15",
+                    "description": "Interest",
+                    "amount": 46082.48,
+                    "transaction_id": 54448088
+                },
+                {
+                    "date": "2024-03-23",
+                    "description": "Withdrawal",
+                    "amount": 17430.51,
+                    "transaction_id": 39911710
+                }
+            ]
+        }
+    }
+}

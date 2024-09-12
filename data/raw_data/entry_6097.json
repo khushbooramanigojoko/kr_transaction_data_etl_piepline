@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Makayla Nelson",
+        "age": 37,
+        "gender": "male",
+        "address": "34141 Lindsay Valley, Port John, HI 36666",
+        "phone": "490-323-9274",
+        "email": "clarkepatricia@example.net",
+        "account": {
+            "account_number": "e4473460-05ce-458b-be4d-8ed7f2b7a1bd",
+            "balance": 20523.62,
+            "transactions": [
+                {
+                    "date": "2024-02-03",
+                    "description": "Interest",
+                    "amount": 8557.49,
+                    "transaction_id": 52043063
+                },
+                {
+                    "date": "2024-03-28",
+                    "description": "Deposit",
+                    "amount": 21722.37,
+                    "transaction_id": 76198164
+                },
+                {
+                    "date": "2024-04-17",
+                    "description": "Deposit",
+                    "amount": 1725.73,
+                    "transaction_id": 77770672
+                },
+                {
+                    "date": "2023-01-27",
+                    "description": "Deposit",
+                    "amount": 26672.68,
+                    "transaction_id": 49720426
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Withdrawal",
+                    "amount": 19105.26,
+                    "transaction_id": 2146482
+                }
+            ]
+        }
+    }
+}

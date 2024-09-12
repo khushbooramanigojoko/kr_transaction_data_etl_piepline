@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Adam Hamilton",
+        "age": 54,
+        "gender": "male",
+        "address": "093 Hayes Orchard Suite 284, Lake Robert, MD 95130",
+        "phone": "(356)398-7406",
+        "email": "martin73@example.com",
+        "account": {
+            "account_number": "108a5c5b-079f-409a-b7ed-98413d0d6651",
+            "balance": 28832.76,
+            "transactions": [
+                {
+                    "date": "2024-04-07",
+                    "description": "Withdrawal",
+                    "amount": 28888.77,
+                    "transaction_id": 34360130
+                }
+            ]
+        }
+    }
+}

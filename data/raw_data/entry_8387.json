@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Donna Chavez",
+        "age": 68,
+        "gender": "male",
+        "address": "96413 Garcia Pass Suite 800, Angelafurt, PR 98784",
+        "phone": "888-374-0501x79998",
+        "email": "brittanyroberts@example.org",
+        "account": {
+            "account_number": "8aaef892-5d53-41d8-9dc3-8e1a782c965d",
+            "balance": 34061.68,
+            "transactions": [
+                {
+                    "date": "2023-02-17",
+                    "description": "Deposit",
+                    "amount": 14154.92,
+                    "transaction_id": 117034317
+                },
+                {
+                    "date": "2023-09-24",
+                    "description": "Interest",
+                    "amount": 42705.53,
+                    "transaction_id": 20808539
+                },
+                {
+                    "date": "2023-01-11",
+                    "description": "Interest",
+                    "amount": 28008.21,
+                    "transaction_id": 85338879
+                },
+                {
+                    "date": "2024-03-07",
+                    "description": "Deposit",
+                    "amount": 31229.91,
+                    "transaction_id": 42852124
+                }
+            ]
+        }
+    }
+}

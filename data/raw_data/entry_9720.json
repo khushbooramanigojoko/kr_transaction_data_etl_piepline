@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 59,
+        "gender": "female",
+        "address": "3017 Taylor Walk, Lake Darrell, AS 55277",
+        "phone": "634.462.7373",
+        "email": "felicia47@example.org",
+        "account": {
+            "account_number": "21469f4f-e8ef-4dad-899c-05697b152331",
+            "balance": 3303.61,
+            "transactions": [
+                {
+                    "date": "2023-01-28",
+                    "description": "Deposit",
+                    "amount": 2035.28,
+                    "transaction_id": 84498654
+                },
+                {
+                    "date": "2024-05-17",
+                    "description": "Withdrawal",
+                    "amount": -1643.19,
+                    "transaction_id": 78990817
+                },
+                {
+                    "date": "2023-01-27",
+                    "description": "Interest",
+                    "amount": 4717.49,
+                    "transaction_id": 75044318
+                },
+                {
+                    "date": "2024-04-06",
+                    "description": "Interest",
+                    "amount": 3965.03,
+                    "transaction_id": 103634764
+                },
+                {
+                    "date": "2023-07-31",
+                    "description": "Withdrawal",
+                    "amount": -2179.08,
+                    "transaction_id": 80159544
+                }
+            ]
+        }
+    }
+}

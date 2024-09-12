@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Gary Brown",
+        "age": 86,
+        "gender": "male",
+        "address": "Unit 2697 Box 4898, DPO AP 83953",
+        "phone": "+1-301-900-0509x1821",
+        "email": "mrose@example.org",
+        "account": {
+            "account_number": "d9789aba-f1e5-411d-b479-837f14fda15e",
+            "balance": 1792.81,
+            "transactions": [
+                {
+                    "date": "2023-03-17",
+                    "description": "Withdrawal",
+                    "amount": 18986.45,
+                    "transaction_id": 28667868
+                },
+                {
+                    "date": "2023-11-12",
+                    "description": "Deposit",
+                    "amount": 2213.24,
+                    "transaction_id": 59727254
+                },
+                {
+                    "date": "2024-07-07",
+                    "description": "Deposit",
+                    "amount": 17284.6,
+                    "transaction_id": 3725270
+                },
+                {
+                    "date": "2024-07-14",
+                    "description": "Withdrawal",
+                    "amount": 5641.75,
+                    "transaction_id": 87117196
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ryan Gibson",
+        "age": 53,
+        "gender": "female",
+        "address": "9506 Timothy Bridge Suite 284, Tinachester, ND 10713",
+        "phone": "902-439-2867x5388",
+        "email": "njones@example.com",
+        "account": {
+            "account_number": "7b555466-fb0b-4144-9093-339373f90eb8",
+            "balance": 1633.33,
+            "transactions": [
+                {
+                    "date": "2023-08-17",
+                    "description": "Deposit",
+                    "amount": 33354.13,
+                    "transaction_id": 6497350
+                },
+                {
+                    "date": "2022-12-09",
+                    "description": "Deposit",
+                    "amount": 47065.5,
+                    "transaction_id": 71564689
+                },
+                {
+                    "date": "2023-12-23",
+                    "description": "Deposit",
+                    "amount": 45071.42,
+                    "transaction_id": 75430675
+                },
+                {
+                    "date": "2022-12-20",
+                    "description": "Withdrawal",
+                    "amount": 19533.65,
+                    "transaction_id": 21037036
+                }
+            ]
+        }
+    }
+}

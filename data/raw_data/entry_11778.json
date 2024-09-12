@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "female",
+        "address": "21356 Jamie Plaza Apt. 732, Paulville, GU 20968",
+        "phone": "001-403-516-3525",
+        "email": "bwilson@example.net",
+        "account": {
+            "account_number": "79e3e622-4a0e-4469-b300-760128d2866d",
+            "balance": 16375.61,
+            "transactions": [
+                {
+                    "date": "2023-12-03",
+                    "description": "Deposit",
+                    "amount": 2489.27,
+                    "transaction_id": 116409152
+                }
+            ]
+        }
+    }
+}

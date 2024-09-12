@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Gregory West DDS",
+        "age": 18,
+        "gender": "female",
+        "address": "Unit 8876 Box 6074, DPO AP 34439",
+        "phone": "8088365790",
+        "email": "smithbrenda@example.com",
+        "account": {
+            "account_number": "adf57c48-bd39-4499-a65d-e04d09f4dc1d",
+            "balance": 12959.4,
+            "transactions": [
+                {
+                    "date": "2023-03-04",
+                    "description": "Deposit",
+                    "amount": 14441.21,
+                    "transaction_id": 102712800
+                },
+                {
+                    "date": "2023-09-08",
+                    "description": "Withdrawal",
+                    "amount": 41952.94,
+                    "transaction_id": 80632225
+                },
+                {
+                    "date": "2023-10-04",
+                    "description": "Deposit",
+                    "amount": 5963.16,
+                    "transaction_id": 33233854
+                }
+            ]
+        }
+    }
+}

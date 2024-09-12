@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Katrina Martinez",
+        "age": 35,
+        "gender": "male",
+        "address": "85493 Miller Ramp Suite 471, South Victorchester, AK 73427",
+        "phone": "368-328-5893x74319",
+        "email": "stephaniethompson@example.net",
+        "account": {
+            "account_number": "ab79ff4b-d0b0-4a73-a58e-fa27fac55d7f",
+            "balance": -7591.66,
+            "transactions": [
+                {
+                    "date": "2023-11-28",
+                    "description": "Deposit",
+                    "amount": -1572.54,
+                    "transaction_id": 42368101
+                },
+                {
+                    "date": "2023-03-08",
+                    "description": "Deposit",
+                    "amount": 1724.63,
+                    "transaction_id": 34358527
+                }
+            ]
+        }
+    }
+}

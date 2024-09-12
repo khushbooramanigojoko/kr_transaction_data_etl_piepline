@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Troy Hickman",
+        "age": 69,
+        "gender": "female",
+        "address": "31054 Margaret Inlet, Sherryfurt, LA 37113",
+        "phone": "+1-639-369-9506x93382",
+        "email": "karenwalker@example.com",
+        "account": {
+            "account_number": "26f8b5f8-11f8-4579-aa3b-31619b272a07",
+            "balance": 9362.37,
+            "transactions": [
+                {
+                    "date": "2024-01-06",
+                    "description": "Interest",
+                    "amount": 32936.76,
+                    "transaction_id": 57109724
+                },
+                {
+                    "date": "2023-02-23",
+                    "description": "Interest",
+                    "amount": 49145.37,
+                    "transaction_id": 95902289
+                },
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": 42023.82,
+                    "transaction_id": 43818137
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Withdrawal",
+                    "amount": 44043.28,
+                    "transaction_id": 59062996
+                },
+                {
+                    "date": "2023-05-20",
+                    "description": "Interest",
+                    "amount": 49640.34,
+                    "transaction_id": 99241155
+                }
+            ]
+        }
+    }
+}

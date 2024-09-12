@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tyler Turner",
+        "age": 54,
+        "gender": "female",
+        "address": "4049 Kimberly Vista Suite 475, East Alexander, DE 01473",
+        "phone": "389.990.4416",
+        "email": "john43@example.net",
+        "account": {
+            "account_number": "dc38b59c-933c-4c82-8110-2ba4b5dc1818",
+            "balance": 26102.51,
+            "transactions": [
+                {
+                    "date": "2023-05-30",
+                    "description": "Interest",
+                    "amount": 18192.64,
+                    "transaction_id": 38746138
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Interest",
+                    "amount": 48115.14,
+                    "transaction_id": 105665774
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Interest",
+                    "amount": 12868.75,
+                    "transaction_id": 84368923
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Bradley Martin",
+        "age": 22,
+        "gender": "female",
+        "address": "0864 Kathryn Views Apt. 394, Lake Wesleyport, WI 43064",
+        "phone": "(455)903-1416",
+        "email": "guzmanmaria@example.com",
+        "account": {
+            "account_number": "d6b6e2cd-0886-4a64-b917-7d95cf4402dd",
+            "balance": 20231.66,
+            "transactions": [
+                {
+                    "date": "2023-05-13",
+                    "description": "Deposit",
+                    "amount": 49794.25,
+                    "transaction_id": 21563382
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Deposit",
+                    "amount": 15704.18,
+                    "transaction_id": 81354180
+                }
+            ]
+        }
+    }
+}

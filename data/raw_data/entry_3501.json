@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Thomas Perez",
+        "age": 99,
+        "gender": "female",
+        "address": "5349 David Curve Suite 200, Popeland, VI 61017",
+        "phone": "474-621-2292x80660",
+        "email": "oconnordesiree@example.com",
+        "account": {
+            "account_number": "b403e493-d45a-4f8a-8620-a89f0b9a8b71",
+            "balance": 2394.24,
+            "transactions": [
+                {
+                    "date": "2022-10-21",
+                    "description": "Withdrawal",
+                    "amount": 42394.13,
+                    "transaction_id": 60261738
+                },
+                {
+                    "date": "2024-01-23",
+                    "description": "Withdrawal",
+                    "amount": 28912.81,
+                    "transaction_id": 108094495
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Interest",
+                    "amount": 6274.09,
+                    "transaction_id": 23681813
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Interest",
+                    "amount": 36022.68,
+                    "transaction_id": 7184841
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 33,
+        "gender": "female",
+        "address": "8604 Diamond Circle, Port Emilybury, NH 82731",
+        "phone": "(880)617-1870x6862",
+        "email": "colemanwilliam@example.net",
+        "account": {
+            "account_number": "e0dee41f-232a-40e9-8978-1d3e98f17f85",
+            "balance": 21526.15,
+            "transactions": [
+                {
+                    "date": "2022-12-04",
+                    "description": "Withdrawal",
+                    "amount": -1379.16,
+                    "transaction_id": 113215249
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amanda Hamilton",
+        "age": 71,
+        "gender": "male",
+        "address": "645 Martin Ridge, South Kimberlymouth, MN 37477",
+        "phone": "001-427-339-1954",
+        "email": "johnsonjohn@example.org",
+        "account": {
+            "account_number": "dc4f469b-4403-4ed9-8368-083ed606eeb4",
+            "balance": 18830.33,
+            "transactions": [
+                {
+                    "date": "2022-09-07",
+                    "description": "Deposit",
+                    "amount": 15976.99,
+                    "transaction_id": 113877216
+                },
+                {
+                    "date": "2023-01-26",
+                    "description": "Interest",
+                    "amount": 47078.52,
+                    "transaction_id": 2052816
+                }
+            ]
+        }
+    }
+}

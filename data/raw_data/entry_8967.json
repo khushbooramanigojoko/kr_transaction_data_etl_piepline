@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 49,
+        "gender": "male",
+        "address": "1473 Michelle Prairie Apt. 978, Port Elizabethhaven, SD 45617",
+        "phone": "+1-433-758-7724x42614",
+        "email": "savagejoanne@example.org",
+        "account": {
+            "account_number": "5fc6ca85-1d33-4000-bcbc-ce879e056ac9",
+            "balance": 9967.83,
+            "transactions": [
+                {
+                    "date": "2022-09-20",
+                    "description": "Withdrawal",
+                    "amount": -3843.42,
+                    "transaction_id": 96370695
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Hatfield",
+        "age": 27,
+        "gender": "male",
+        "address": "759 Garcia Harbors, South Tammystad, ND 99044",
+        "phone": "001-362-905-7041x6263",
+        "email": "madison65@example.org",
+        "account": {
+            "account_number": "9d9ae2bf-0c33-4a9c-961b-49c479513211",
+            "balance": 15139.36,
+            "transactions": [
+                {
+                    "date": "2023-04-13",
+                    "description": "Interest",
+                    "amount": 24820.68,
+                    "transaction_id": 104339657
+                }
+            ]
+        }
+    }
+}

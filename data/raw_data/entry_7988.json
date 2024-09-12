@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Evan Benson",
+        "age": 30,
+        "gender": "male",
+        "address": "00734 Zamora Forge Apt. 408, East Daniel, NE 33798",
+        "phone": "915.980.8036",
+        "email": "dpena@example.net",
+        "account": {
+            "account_number": "c5702b99-8598-419e-a914-33f17e7bce7f",
+            "balance": 5658.14,
+            "transactions": [
+                {
+                    "date": "2024-01-03",
+                    "description": "Withdrawal",
+                    "amount": 15788.32,
+                    "transaction_id": 87733848
+                },
+                {
+                    "date": "2022-09-09",
+                    "description": "Deposit",
+                    "amount": 16356.87,
+                    "transaction_id": 96752848
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Deposit",
+                    "amount": 17094.89,
+                    "transaction_id": 24420010
+                },
+                {
+                    "date": "2024-07-27",
+                    "description": "Interest",
+                    "amount": 42722.59,
+                    "transaction_id": 69638683
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Withdrawal",
+                    "amount": 5686.94,
+                    "transaction_id": 35560182
+                }
+            ]
+        }
+    }
+}

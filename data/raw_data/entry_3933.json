@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Robert Mccann",
+        "age": 74,
+        "gender": "male",
+        "address": "07389 Jose Mount, Mooreton, LA 61437",
+        "phone": "556.742.4349x88827",
+        "email": "gina86@example.com",
+        "account": {
+            "account_number": "6841494c-1968-4895-a07e-af43de2c0a65",
+            "balance": 18702.29,
+            "transactions": [
+                {
+                    "date": "2023-06-18",
+                    "description": "Withdrawal",
+                    "amount": 32262.46,
+                    "transaction_id": 55271452
+                },
+                {
+                    "date": "2023-08-21",
+                    "description": "Withdrawal",
+                    "amount": 29452.53,
+                    "transaction_id": 22259908
+                },
+                {
+                    "date": "2023-03-18",
+                    "description": "Interest",
+                    "amount": 23772.82,
+                    "transaction_id": 51918899
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Deposit",
+                    "amount": 9768.64,
+                    "transaction_id": 13481255
+                },
+                {
+                    "date": "2024-03-10",
+                    "description": "Interest",
+                    "amount": 41908.92,
+                    "transaction_id": 76675387
+                }
+            ]
+        }
+    }
+}

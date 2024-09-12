@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Darren Dawson",
+        "age": 38,
+        "gender": "female",
+        "address": "647 Robert Rest Suite 673, North Brandontown, UT 96024",
+        "phone": "720-292-2375",
+        "email": "jamieholmes@example.com",
+        "account": {
+            "account_number": "9475ead5-33af-42b2-8c6a-44fc0808b2a8",
+            "balance": -29653.44,
+            "transactions": [
+                {
+                    "date": "2022-11-11",
+                    "description": "Withdrawal",
+                    "amount": 1498.94,
+                    "transaction_id": 2743290
+                },
+                {
+                    "date": "2023-01-08",
+                    "description": "Deposit",
+                    "amount": -132.31,
+                    "transaction_id": 26482087
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Deposit",
+                    "amount": -3549.67,
+                    "transaction_id": 9294499
+                },
+                {
+                    "date": "2024-08-15",
+                    "description": "Interest",
+                    "amount": -1333.85,
+                    "transaction_id": 47174727
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amber Nelson",
+        "age": 98,
+        "gender": "male",
+        "address": "4040 Gregory Squares Suite 227, Lake Jean, OR 20089",
+        "phone": "+1-941-337-9376x3860",
+        "email": "zphelps@example.org",
+        "account": {
+            "account_number": "e0a2120f-537a-4fe7-aeaa-5052c2c374fa",
+            "balance": 31645.24,
+            "transactions": [
+                {
+                    "date": "2024-02-10",
+                    "description": "Withdrawal",
+                    "amount": 41818.3,
+                    "transaction_id": 24449974
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Deposit",
+                    "amount": 39311.77,
+                    "transaction_id": 4449411
+                }
+            ]
+        }
+    }
+}

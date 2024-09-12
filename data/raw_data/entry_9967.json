@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mark Adams",
+        "age": 81,
+        "gender": "female",
+        "address": "6601 Blake Hill Suite 799, Randyview, DC 93293",
+        "phone": "269.355.5280",
+        "email": "john57@example.org",
+        "account": {
+            "account_number": "f17ee664-09ef-42e9-82f5-05c4241f7325",
+            "balance": -13258.03,
+            "transactions": [
+                {
+                    "date": "2023-12-03",
+                    "description": "Interest",
+                    "amount": 2707.78,
+                    "transaction_id": 46122553
+                },
+                {
+                    "date": "2023-04-09",
+                    "description": "Deposit",
+                    "amount": 2556.79,
+                    "transaction_id": 102372407
+                }
+            ]
+        }
+    }
+}

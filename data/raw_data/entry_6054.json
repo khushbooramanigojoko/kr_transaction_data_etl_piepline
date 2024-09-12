@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jamie Maddox",
+        "age": 21,
+        "gender": "female",
+        "address": "39324 Aguilar Camp, Port Jennifer, MS 89102",
+        "phone": "537.545.8396",
+        "email": "matthewchen@example.net",
+        "account": {
+            "account_number": "22f240f8-9ee4-4de2-b5a8-c28c8fc7ccc6",
+            "balance": 13276.65,
+            "transactions": [
+                {
+                    "date": "2024-06-04",
+                    "description": "Withdrawal",
+                    "amount": 15559.67,
+                    "transaction_id": 8363510
+                }
+            ]
+        }
+    }
+}

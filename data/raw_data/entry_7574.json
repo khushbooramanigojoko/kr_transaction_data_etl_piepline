@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Raymond Coffey",
+        "age": 74,
+        "gender": "male",
+        "address": "99953 Rodney Alley, Anthonyview, AK 95348",
+        "phone": "769-284-8166",
+        "email": "lhouse@example.com",
+        "account": {
+            "account_number": "a420f5d5-844d-44d6-b2bf-e032e2ceb760",
+            "balance": 21155.14,
+            "transactions": [
+                {
+                    "date": "2022-10-23",
+                    "description": "Deposit",
+                    "amount": 3021.09,
+                    "transaction_id": 23856881
+                },
+                {
+                    "date": "2022-09-17",
+                    "description": "Interest",
+                    "amount": 29338.29,
+                    "transaction_id": 36725787
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Deposit",
+                    "amount": 42425.12,
+                    "transaction_id": 34291942
+                },
+                {
+                    "date": "2023-08-23",
+                    "description": "Deposit",
+                    "amount": 30651.83,
+                    "transaction_id": 25422143
+                }
+            ]
+        }
+    }
+}

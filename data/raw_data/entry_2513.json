@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Erik Humphrey",
+        "age": 92,
+        "gender": "male",
+        "address": "494 Chase Cape Apt. 549, North Amyhaven, PA 80969",
+        "phone": "8676394861",
+        "email": "zramos@example.net",
+        "account": {
+            "account_number": "2343c6c8-8afe-49b7-8cba-e62a9a31900e",
+            "balance": 13778.34,
+            "transactions": [
+                {
+                    "date": "2023-09-17",
+                    "description": "Interest",
+                    "amount": 44299.22,
+                    "transaction_id": 49036530
+                },
+                {
+                    "date": "2023-03-04",
+                    "description": "Withdrawal",
+                    "amount": 8643.76,
+                    "transaction_id": 14562579
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Deposit",
+                    "amount": 19975.64,
+                    "transaction_id": 80240930
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Interest",
+                    "amount": 7512.05,
+                    "transaction_id": 13458849
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Interest",
+                    "amount": 33409.24,
+                    "transaction_id": 110499622
+                }
+            ]
+        }
+    }
+}

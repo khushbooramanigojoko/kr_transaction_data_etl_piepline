@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Larry Carr",
+        "age": 70,
+        "gender": "female",
+        "address": "69199 Juan Mount, East Christopherfort, RI 91619",
+        "phone": "6622188662",
+        "email": "tsanchez@example.com",
+        "account": {
+            "account_number": "a62229e6-747d-421e-8c6f-96fd8c3aa4fe",
+            "balance": 29487.49,
+            "transactions": [
+                {
+                    "date": "2022-09-14",
+                    "description": "Deposit",
+                    "amount": 46596.1,
+                    "transaction_id": 80379066
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph Brown",
+        "age": 58,
+        "gender": "male",
+        "address": "121 Christian Garden Suite 658, Michaelport, VI 36898",
+        "phone": "001-560-416-5595x923",
+        "email": "amynguyen@example.org",
+        "account": {
+            "account_number": "11255580-dc6d-4202-aa73-2abcdea5918e",
+            "balance": 1542.21,
+            "transactions": [
+                {
+                    "date": "2024-01-03",
+                    "description": "Deposit",
+                    "amount": 34408.89,
+                    "transaction_id": 4070702
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Interest",
+                    "amount": 17036.23,
+                    "transaction_id": 104265577
+                },
+                {
+                    "date": "2023-10-14",
+                    "description": "Interest",
+                    "amount": 3061.05,
+                    "transaction_id": 29342322
+                },
+                {
+                    "date": "2023-04-03",
+                    "description": "Withdrawal",
+                    "amount": 23275.07,
+                    "transaction_id": 59953274
+                }
+            ]
+        }
+    }
+}

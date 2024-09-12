@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mr. Robert Campbell",
+        "age": 62,
+        "gender": "female",
+        "address": "409 Pena Locks Suite 111, Stantonborough, RI 26271",
+        "phone": "8974197461",
+        "email": "susan38@example.org",
+        "account": {
+            "account_number": "94959a00-01c4-416b-a13e-1f275ce9665b",
+            "balance": 35492.14,
+            "transactions": [
+                {
+                    "date": "2024-08-06",
+                    "description": "Interest",
+                    "amount": 35976.64,
+                    "transaction_id": 82169169
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Robin Dalton",
+        "age": 88,
+        "gender": "female",
+        "address": "8202 Jessica Manor, New Vanessa, CO 15635",
+        "phone": "(782)388-9178",
+        "email": "matthewtaylor@example.org",
+        "account": {
+            "account_number": "12958ecf-c201-43a1-9323-b3ec30fd2066",
+            "balance": 17968.7,
+            "transactions": [
+                {
+                    "date": "2023-06-23",
+                    "description": "Withdrawal",
+                    "amount": 34675.59,
+                    "transaction_id": 4514171
+                },
+                {
+                    "date": "2023-09-28",
+                    "description": "Interest",
+                    "amount": 26002.25,
+                    "transaction_id": 96339052
+                }
+            ]
+        }
+    }
+}

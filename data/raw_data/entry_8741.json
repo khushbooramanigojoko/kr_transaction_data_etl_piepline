@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kendra Hull",
+        "age": 27,
+        "gender": "female",
+        "address": "USCGC Baxter, FPO AA 97040",
+        "phone": "608-777-0870x13138",
+        "email": "irobertson@example.org",
+        "account": {
+            "account_number": "3219d5d8-03af-4d46-854d-8f400f840f6a",
+            "balance": -14205.51,
+            "transactions": [
+                {
+                    "date": "2022-10-13",
+                    "description": "Deposit",
+                    "amount": -3012.78,
+                    "transaction_id": 67554270
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Interest",
+                    "amount": -500.9,
+                    "transaction_id": 60805017
+                }
+            ]
+        }
+    }
+}

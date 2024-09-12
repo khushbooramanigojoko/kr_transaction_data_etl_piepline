@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joseph Garcia",
+        "age": 82,
+        "gender": "male",
+        "address": "315 Mcdowell Street, Deannamouth, PA 58106",
+        "phone": "+1-372-201-2445x8090",
+        "email": "cwaller@example.com",
+        "account": {
+            "account_number": "fd2cf144-41de-4276-b4fe-14508c110848",
+            "balance": -31221.26,
+            "transactions": [
+                {
+                    "date": "2022-11-16",
+                    "description": "Interest",
+                    "amount": -1827.86,
+                    "transaction_id": 56894003
+                },
+                {
+                    "date": "2023-01-23",
+                    "description": "Interest",
+                    "amount": 2829.68,
+                    "transaction_id": 71606293
+                },
+                {
+                    "date": "2023-11-28",
+                    "description": "Interest",
+                    "amount": -4296.73,
+                    "transaction_id": 1784444
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Deposit",
+                    "amount": -4701.14,
+                    "transaction_id": 45808003
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Withdrawal",
+                    "amount": -1548.85,
+                    "transaction_id": 73922660
+                }
+            ]
+        }
+    }
+}

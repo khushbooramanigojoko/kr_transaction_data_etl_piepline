@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joel Porter",
+        "age": 35,
+        "gender": "male",
+        "address": "55632 Laura Mill Apt. 874, New Stacyfort, WI 79135",
+        "phone": "001-242-456-8503x962",
+        "email": "kyle31@example.com",
+        "account": {
+            "account_number": "21cefeb4-08f6-4620-b74f-62964a34d183",
+            "balance": 38036.02,
+            "transactions": [
+                {
+                    "date": "2023-03-31",
+                    "description": "Interest",
+                    "amount": 14819.83,
+                    "transaction_id": 109009579
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Withdrawal",
+                    "amount": 21126.67,
+                    "transaction_id": 110247931
+                },
+                {
+                    "date": "2024-08-20",
+                    "description": "Deposit",
+                    "amount": 12552.68,
+                    "transaction_id": 32411207
+                }
+            ]
+        }
+    }
+}

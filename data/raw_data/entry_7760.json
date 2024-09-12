@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jose Huffman",
+        "age": 33,
+        "gender": "female",
+        "address": "28784 Jones Run Suite 827, West Johnview, VA 47007",
+        "phone": "630.294.3023x4200",
+        "email": "qbentley@example.com",
+        "account": {
+            "account_number": "50ac0bb8-84f7-4b9c-af3a-9e74f7570235",
+            "balance": 22509.2,
+            "transactions": [
+                {
+                    "date": "2023-01-25",
+                    "description": "Withdrawal",
+                    "amount": 3357.61,
+                    "transaction_id": 23863082
+                },
+                {
+                    "date": "2024-04-25",
+                    "description": "Withdrawal",
+                    "amount": 39547.91,
+                    "transaction_id": 37229214
+                },
+                {
+                    "date": "2024-01-18",
+                    "description": "Withdrawal",
+                    "amount": 29750.07,
+                    "transaction_id": 70983262
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Deposit",
+                    "amount": 25261.75,
+                    "transaction_id": 114647682
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Interest",
+                    "amount": 9176.68,
+                    "transaction_id": 57009972
+                }
+            ]
+        }
+    }
+}

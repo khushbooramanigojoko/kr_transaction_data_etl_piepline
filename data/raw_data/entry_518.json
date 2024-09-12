@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Maurice Martin",
+        "age": 71,
+        "gender": "male",
+        "address": "47450 Taylor Ports Suite 457, Justinhaven, AR 98753",
+        "phone": "001-633-678-0377x0417",
+        "email": "stephenscharles@example.net",
+        "account": {
+            "account_number": "23236dc9-2494-41fb-9303-29d4ccfffaa4",
+            "balance": 27885.97,
+            "transactions": [
+                {
+                    "date": "2022-12-16",
+                    "description": "Interest",
+                    "amount": 46760.75,
+                    "transaction_id": 92111476
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Interest",
+                    "amount": 27126.57,
+                    "transaction_id": 88522785
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Interest",
+                    "amount": 22709.34,
+                    "transaction_id": 92054511
+                },
+                {
+                    "date": "2023-05-06",
+                    "description": "Interest",
+                    "amount": 21774.41,
+                    "transaction_id": 24729142
+                },
+                {
+                    "date": "2024-03-15",
+                    "description": "Interest",
+                    "amount": 22079.54,
+                    "transaction_id": 15717028
+                }
+            ]
+        }
+    }
+}

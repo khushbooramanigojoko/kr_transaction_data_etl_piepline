@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Coffey",
+        "age": 67,
+        "gender": "female",
+        "address": "19943 Claire Fort, East Debrashire, PA 23573",
+        "phone": "(757)822-4071x3463",
+        "email": "joel75@example.org",
+        "account": {
+            "account_number": "6bf1ccea-70e5-4b07-9128-6ee67fe3b155",
+            "balance": -36741.54,
+            "transactions": [
+                {
+                    "date": "2024-06-25",
+                    "description": "Withdrawal",
+                    "amount": 2348.01,
+                    "transaction_id": 105459005
+                }
+            ]
+        }
+    }
+}

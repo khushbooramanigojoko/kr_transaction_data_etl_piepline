@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 98,
+        "gender": "male",
+        "address": "901 Warner Mews, South Steven, LA 34243",
+        "phone": "+1-565-330-5033x84815",
+        "email": "uhoffman@example.com",
+        "account": {
+            "account_number": "79b4d07d-f0b2-4228-9878-3c24e5f3a87e",
+            "balance": 35638.96,
+            "transactions": [
+                {
+                    "date": "2023-06-16",
+                    "description": "Interest",
+                    "amount": -4206.85,
+                    "transaction_id": 29265774
+                }
+            ]
+        }
+    }
+}

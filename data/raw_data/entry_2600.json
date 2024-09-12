@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Julia Anderson DDS",
+        "age": 25,
+        "gender": "male",
+        "address": "104 Harold Village, Adrianaborough, GU 48704",
+        "phone": "001-806-901-4920",
+        "email": "lindsey12@example.com",
+        "account": {
+            "account_number": "55fca0bb-e40a-4a8f-a625-ee4436b5c794",
+            "balance": 46410.94,
+            "transactions": [
+                {
+                    "date": "2023-12-27",
+                    "description": "Withdrawal",
+                    "amount": 45341.7,
+                    "transaction_id": 92791656
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Withdrawal",
+                    "amount": 37433.59,
+                    "transaction_id": 23255167
+                }
+            ]
+        }
+    }
+}

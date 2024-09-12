@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kevin Miller",
+        "age": 53,
+        "gender": "female",
+        "address": "086 Diane Mountain, New Jose, ME 30573",
+        "phone": "+1-869-752-3306",
+        "email": "dgates@example.com",
+        "account": {
+            "account_number": "d827317a-aeb8-4f8e-acfb-c51e1f2002f2",
+            "balance": 46466.93,
+            "transactions": [
+                {
+                    "date": "2024-04-27",
+                    "description": "Deposit",
+                    "amount": 30830.65,
+                    "transaction_id": 105878137
+                },
+                {
+                    "date": "2024-07-04",
+                    "description": "Withdrawal",
+                    "amount": 49323.77,
+                    "transaction_id": 108104794
+                },
+                {
+                    "date": "2022-11-17",
+                    "description": "Interest",
+                    "amount": 4925.1,
+                    "transaction_id": 81166699
+                },
+                {
+                    "date": "2024-07-03",
+                    "description": "Withdrawal",
+                    "amount": 42642.92,
+                    "transaction_id": 34552637
+                },
+                {
+                    "date": "2023-12-08",
+                    "description": "Withdrawal",
+                    "amount": 29965.89,
+                    "transaction_id": 117414292
+                }
+            ]
+        }
+    }
+}

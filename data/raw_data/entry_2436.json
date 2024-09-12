@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Robert Thompson",
+        "age": 21,
+        "gender": "female",
+        "address": "8339 Felicia Estate Apt. 868, Russellton, MI 10546",
+        "phone": "501-842-8673x6477",
+        "email": "danaevans@example.org",
+        "account": {
+            "account_number": "2655c7b3-fdc4-4f4a-b65c-d5ee4706d4cd",
+            "balance": 45881.24,
+            "transactions": [
+                {
+                    "date": "2023-08-14",
+                    "description": "Deposit",
+                    "amount": 16342.66,
+                    "transaction_id": 58703213
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Deposit",
+                    "amount": 14591.9,
+                    "transaction_id": 20162655
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Withdrawal",
+                    "amount": 17411.1,
+                    "transaction_id": 42037903
+                },
+                {
+                    "date": "2023-05-07",
+                    "description": "Interest",
+                    "amount": 6734.43,
+                    "transaction_id": 37444828
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Withdrawal",
+                    "amount": 47797.87,
+                    "transaction_id": 64420258
+                }
+            ]
+        }
+    }
+}

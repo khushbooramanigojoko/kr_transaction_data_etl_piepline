@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Steven Black",
+        "age": 86,
+        "gender": "male",
+        "address": "40260 Evans Run, Lake Michael, MI 86718",
+        "phone": "668-724-8812",
+        "email": "kimwarner@example.org",
+        "account": {
+            "account_number": "a2a89ed7-09be-4084-9760-d98ba9ea2ea4",
+            "balance": 48471.53,
+            "transactions": [
+                {
+                    "date": "2023-01-16",
+                    "description": "Withdrawal",
+                    "amount": 15722.6,
+                    "transaction_id": 97050818
+                },
+                {
+                    "date": "2024-05-29",
+                    "description": "Interest",
+                    "amount": 24430.08,
+                    "transaction_id": 110473218
+                }
+            ]
+        }
+    }
+}

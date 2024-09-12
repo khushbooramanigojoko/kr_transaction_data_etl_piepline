@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "James Leonard",
+        "age": 66,
+        "gender": "male",
+        "address": "USS Potts, FPO AP 84235",
+        "phone": "001-496-868-6815x7852",
+        "email": "michaelpennington@example.net",
+        "account": {
+            "account_number": "543eac0b-5ebf-4dfe-a38d-6847a0e0d6a2",
+            "balance": 29437.14,
+            "transactions": [
+                {
+                    "date": "2023-10-04",
+                    "description": "Deposit",
+                    "amount": 49999.85,
+                    "transaction_id": 50168640
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jaime Ryan",
+        "age": 77,
+        "gender": "male",
+        "address": "88123 Kimberly Run Apt. 141, Evelynchester, LA 28497",
+        "phone": "9424695524",
+        "email": "richardsondouglas@example.net",
+        "account": {
+            "account_number": "eac02d4b-c673-4309-998b-7a9433c4eaec",
+            "balance": 12104.38,
+            "transactions": [
+                {
+                    "date": "2024-07-27",
+                    "description": "Interest",
+                    "amount": 49080.21,
+                    "transaction_id": 79844022
+                },
+                {
+                    "date": "2022-12-07",
+                    "description": "Interest",
+                    "amount": 25203.05,
+                    "transaction_id": 51516125
+                },
+                {
+                    "date": "2022-12-16",
+                    "description": "Withdrawal",
+                    "amount": 25471.48,
+                    "transaction_id": 25753495
+                },
+                {
+                    "date": "2023-01-14",
+                    "description": "Interest",
+                    "amount": 18465.61,
+                    "transaction_id": 84344085
+                },
+                {
+                    "date": "2023-11-16",
+                    "description": "Interest",
+                    "amount": 49385.5,
+                    "transaction_id": 34922129
+                }
+            ]
+        }
+    }
+}

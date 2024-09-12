@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tammy Franklin",
+        "age": 35,
+        "gender": "female",
+        "address": "100 Kathryn Parkway, West Julia, AR 76810",
+        "phone": "434-531-5867x47861",
+        "email": "nicolefernandez@example.org",
+        "account": {
+            "account_number": "a92b7de5-2f59-47f9-80c3-f266a8e145d8",
+            "balance": -3720.43,
+            "transactions": [
+                {
+                    "date": "2022-11-13",
+                    "description": "Interest",
+                    "amount": 2208.05,
+                    "transaction_id": 55841633
+                }
+            ]
+        }
+    }
+}

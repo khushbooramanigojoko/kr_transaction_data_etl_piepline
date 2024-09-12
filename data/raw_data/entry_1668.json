@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jeremiah Dunlap",
+        "age": 85,
+        "gender": "female",
+        "address": "317 Matthew Vista, Rushborough, KS 17845",
+        "phone": "(208)533-8470",
+        "email": "vgomez@example.net",
+        "account": {
+            "account_number": "d9aa4904-69ad-4b68-8659-81879de0e9d1",
+            "balance": 27986.74,
+            "transactions": [
+                {
+                    "date": "2023-04-17",
+                    "description": "Interest",
+                    "amount": 15519.16,
+                    "transaction_id": 45302156
+                },
+                {
+                    "date": "2023-07-10",
+                    "description": "Deposit",
+                    "amount": 19795.14,
+                    "transaction_id": 94124802
+                }
+            ]
+        }
+    }
+}

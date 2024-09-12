@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 42,
+        "gender": "male",
+        "address": "8686 Matthews Manors, Anthonyborough, IL 91478",
+        "phone": "266-612-0867x589",
+        "email": "singhjennifer@example.org",
+        "account": {
+            "account_number": "f57ec302-ed1b-421b-8c7e-dd70fff0e089",
+            "balance": 8192.39,
+            "transactions": [
+                {
+                    "date": "2023-01-02",
+                    "description": "Withdrawal",
+                    "amount": -4286.53,
+                    "transaction_id": 76166164
+                },
+                {
+                    "date": "2022-12-20",
+                    "description": "Deposit",
+                    "amount": -669.47,
+                    "transaction_id": 107754350
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Withdrawal",
+                    "amount": 859.2,
+                    "transaction_id": 7635984
+                },
+                {
+                    "date": "2023-04-26",
+                    "description": "Withdrawal",
+                    "amount": -364.51,
+                    "transaction_id": 47331691
+                }
+            ]
+        }
+    }
+}

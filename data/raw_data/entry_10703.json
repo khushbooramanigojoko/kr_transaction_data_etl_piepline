@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Black",
+        "age": 74,
+        "gender": "male",
+        "address": "4126 Kathy Spurs, Kellytown, GU 51422",
+        "phone": "9869845364",
+        "email": "brownmichelle@example.com",
+        "account": {
+            "account_number": "7b5fab19-ea2d-4fe2-be3d-686c360fe656",
+            "balance": -23332.69,
+            "transactions": [
+                {
+                    "date": "2022-09-13",
+                    "description": "Deposit",
+                    "amount": -1467.24,
+                    "transaction_id": 25191835
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Withdrawal",
+                    "amount": -3981.47,
+                    "transaction_id": 33681290
+                }
+            ]
+        }
+    }
+}

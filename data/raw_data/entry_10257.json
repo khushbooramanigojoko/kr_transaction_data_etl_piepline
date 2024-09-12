@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 51,
+        "gender": "female",
+        "address": "806 Boyd Manors, New Timothy, IL 53183",
+        "phone": "001-508-237-7699x150",
+        "email": "marcusking@example.net",
+        "account": {
+            "account_number": "8ec855ba-7768-4259-b7ae-1c58b03f8e92",
+            "balance": 14723.97,
+            "transactions": [
+                {
+                    "date": "2023-12-11",
+                    "description": "Deposit",
+                    "amount": 573.88,
+                    "transaction_id": 92238934
+                }
+            ]
+        }
+    }
+}

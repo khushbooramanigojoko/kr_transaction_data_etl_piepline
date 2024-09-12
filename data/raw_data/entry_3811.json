@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Jackson",
+        "age": 88,
+        "gender": "male",
+        "address": "3058 Brandy Passage Suite 625, West Zachary, MP 56787",
+        "phone": "2654833467",
+        "email": "melissataylor@example.com",
+        "account": {
+            "account_number": "a04bb82f-d64b-48a2-8ba0-4c153f516233",
+            "balance": 33685.39,
+            "transactions": [
+                {
+                    "date": "2024-07-05",
+                    "description": "Withdrawal",
+                    "amount": 48666.83,
+                    "transaction_id": 48696334
+                },
+                {
+                    "date": "2023-03-24",
+                    "description": "Interest",
+                    "amount": 39803.48,
+                    "transaction_id": 23970419
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Withdrawal",
+                    "amount": 31234.48,
+                    "transaction_id": 39103667
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": 25241.92,
+                    "transaction_id": 69169989
+                },
+                {
+                    "date": "2023-07-13",
+                    "description": "Deposit",
+                    "amount": 43587.41,
+                    "transaction_id": 7632511
+                }
+            ]
+        }
+    }
+}

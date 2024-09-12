@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christian Reed",
+        "age": 54,
+        "gender": "male",
+        "address": "4522 Buckley Ford Apt. 247, Reevesberg, WI 56492",
+        "phone": "(208)790-6619",
+        "email": "rwatson@example.org",
+        "account": {
+            "account_number": "71caa8aa-baed-429c-bc6b-5db2079c34c3",
+            "balance": 35662.2,
+            "transactions": [
+                {
+                    "date": "2024-03-16",
+                    "description": "Withdrawal",
+                    "amount": 20292.66,
+                    "transaction_id": 17295502
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Deposit",
+                    "amount": 38948.28,
+                    "transaction_id": 104132237
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ariana Welch",
+        "age": 34,
+        "gender": "male",
+        "address": "988 Harris Land Apt. 299, New Deannachester, FL 50870",
+        "phone": "225-225-3612",
+        "email": "claudia25@example.com",
+        "account": {
+            "account_number": "828aeac0-1d84-4eda-bda3-184fe567c3a8",
+            "balance": 42940.16,
+            "transactions": [
+                {
+                    "date": "2023-07-15",
+                    "description": "Interest",
+                    "amount": 7799.29,
+                    "transaction_id": 111217862
+                },
+                {
+                    "date": "2022-10-10",
+                    "description": "Deposit",
+                    "amount": 7532.84,
+                    "transaction_id": 67838722
+                },
+                {
+                    "date": "2024-01-16",
+                    "description": "Deposit",
+                    "amount": 21503.86,
+                    "transaction_id": 72160820
+                }
+            ]
+        }
+    }
+}

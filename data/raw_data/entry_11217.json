@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jessica Rosario",
+        "age": 67,
+        "gender": "female",
+        "address": "116 Vaughan Drive, South Theresaton, SC 74867",
+        "phone": "849.808.4961",
+        "email": "thompsonashley@example.org",
+        "account": {
+            "account_number": "29d02653-1546-4fcb-8822-5f5af59cb5d0",
+            "balance": -14986.72,
+            "transactions": [
+                {
+                    "date": "2024-03-12",
+                    "description": "Interest",
+                    "amount": 3190.51,
+                    "transaction_id": 11343647
+                }
+            ]
+        }
+    }
+}

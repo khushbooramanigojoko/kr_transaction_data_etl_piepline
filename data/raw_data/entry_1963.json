@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sherri Smith",
+        "age": 81,
+        "gender": "male",
+        "address": "7952 Charles Lodge Suite 209, New Alexandraberg, NM 78527",
+        "phone": "+1-967-480-5764x6972",
+        "email": "patriciaduncan@example.org",
+        "account": {
+            "account_number": "6a06e425-1f92-4665-87ca-8632ce374dc7",
+            "balance": 43945.15,
+            "transactions": [
+                {
+                    "date": "2023-07-30",
+                    "description": "Deposit",
+                    "amount": 34033.69,
+                    "transaction_id": 97593025
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Interest",
+                    "amount": 26298.33,
+                    "transaction_id": 45772107
+                }
+            ]
+        }
+    }
+}

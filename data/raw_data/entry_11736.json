@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 34,
+        "gender": "male",
+        "address": "46030 Timothy Loop Apt. 099, Masonfort, UT 44955",
+        "phone": "(358)789-4242x910",
+        "email": "alejandrasims@example.org",
+        "account": {
+            "account_number": "008f6053-bb40-47a4-93b8-e7ac584fdd99",
+            "balance": 7247.57,
+            "transactions": [
+                {
+                    "date": "2024-07-09",
+                    "description": "Deposit",
+                    "amount": 4447.58,
+                    "transaction_id": 19707321
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Interest",
+                    "amount": 3429.23,
+                    "transaction_id": 113358659
+                },
+                {
+                    "date": "2023-03-20",
+                    "description": "Deposit",
+                    "amount": 1269.2,
+                    "transaction_id": 16706610
+                },
+                {
+                    "date": "2023-07-01",
+                    "description": "Withdrawal",
+                    "amount": 4459.04,
+                    "transaction_id": 23086429
+                },
+                {
+                    "date": "2023-01-31",
+                    "description": "Deposit",
+                    "amount": 4709.13,
+                    "transaction_id": 2593879
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Donald Nelson",
+        "age": 71,
+        "gender": "male",
+        "address": "158 Roberts Pass Apt. 426, New Jose, AK 54872",
+        "phone": "(862)978-9725",
+        "email": "nelsoncatherine@example.org",
+        "account": {
+            "account_number": "43898926-c6a2-4296-9b23-79070cc37de6",
+            "balance": 34006.36,
+            "transactions": [
+                {
+                    "date": "2024-01-04",
+                    "description": "Withdrawal",
+                    "amount": 22549.64,
+                    "transaction_id": 76215269
+                },
+                {
+                    "date": "2024-08-06",
+                    "description": "Deposit",
+                    "amount": 13473.04,
+                    "transaction_id": 116333715
+                }
+            ]
+        }
+    }
+}

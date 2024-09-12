@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Misty Massey",
+        "age": 18,
+        "gender": "female",
+        "address": "6074 Katelyn Corners Apt. 360, Evelynview, MI 68791",
+        "phone": "370-428-4169",
+        "email": "wintersamber@example.com",
+        "account": {
+            "account_number": "d5b4fec8-47e9-464a-bdbf-eec62a540690",
+            "balance": 40720.06,
+            "transactions": [
+                {
+                    "date": "2023-11-20",
+                    "description": "Deposit",
+                    "amount": 43252.79,
+                    "transaction_id": 86722124
+                }
+            ]
+        }
+    }
+}

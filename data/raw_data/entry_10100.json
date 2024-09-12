@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 52,
+        "gender": "male",
+        "address": "USCGC Camacho, FPO AA 09606",
+        "phone": "762-652-6413",
+        "email": "rbeck@example.com",
+        "account": {
+            "account_number": "2d4e6e3b-bf5b-41ae-af4f-dbf6182040e0",
+            "balance": 3757.43,
+            "transactions": [
+                {
+                    "date": "2022-11-07",
+                    "description": "Withdrawal",
+                    "amount": 4057.96,
+                    "transaction_id": 18408369
+                }
+            ]
+        }
+    }
+}

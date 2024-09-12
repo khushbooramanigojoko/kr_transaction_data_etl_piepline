@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mariah Greene",
+        "age": 83,
+        "gender": "male",
+        "address": "367 Chapman Manor Apt. 657, Lake Calvinfurt, NC 41510",
+        "phone": "+1-592-754-5077x910",
+        "email": "aclark@example.com",
+        "account": {
+            "account_number": "15d6d077-26a3-469b-b1cc-91f404876021",
+            "balance": 44608.8,
+            "transactions": [
+                {
+                    "date": "2022-09-24",
+                    "description": "Interest",
+                    "amount": 27061.1,
+                    "transaction_id": 55696247
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Deposit",
+                    "amount": 41977.56,
+                    "transaction_id": 95183002
+                },
+                {
+                    "date": "2023-06-06",
+                    "description": "Interest",
+                    "amount": 4293.71,
+                    "transaction_id": 94967480
+                },
+                {
+                    "date": "2022-11-06",
+                    "description": "Deposit",
+                    "amount": 43099.6,
+                    "transaction_id": 52667179
+                },
+                {
+                    "date": "2023-07-01",
+                    "description": "Interest",
+                    "amount": 21002.61,
+                    "transaction_id": 42000846
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alexander Mcintyre",
+        "age": 58,
+        "gender": "female",
+        "address": "USCGC Tucker, FPO AE 44947",
+        "phone": "+1-351-853-0034x4683",
+        "email": "ana22@example.net",
+        "account": {
+            "account_number": "4d3da70f-0076-4fed-9af8-46a35129a93d",
+            "balance": 33879.82,
+            "transactions": [
+                {
+                    "date": "2022-12-23",
+                    "description": "Withdrawal",
+                    "amount": 47394.19,
+                    "transaction_id": 46067356
+                }
+            ]
+        }
+    }
+}

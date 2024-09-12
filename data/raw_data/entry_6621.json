@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Rivera",
+        "age": 79,
+        "gender": "male",
+        "address": "05750 Garza Terrace, Matthewshire, NV 05427",
+        "phone": "523.923.5829x073",
+        "email": "ryanmarshall@example.net",
+        "account": {
+            "account_number": "174ffd0f-4d37-45be-a6cb-379b68a4debd",
+            "balance": 5101.45,
+            "transactions": [
+                {
+                    "date": "2023-06-27",
+                    "description": "Withdrawal",
+                    "amount": 9784.44,
+                    "transaction_id": 88616131
+                },
+                {
+                    "date": "2023-06-25",
+                    "description": "Deposit",
+                    "amount": 32869.38,
+                    "transaction_id": 33828567
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Withdrawal",
+                    "amount": 12054.92,
+                    "transaction_id": 98578964
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Deposit",
+                    "amount": 28622.01,
+                    "transaction_id": 103019337
+                },
+                {
+                    "date": "2023-08-12",
+                    "description": "Withdrawal",
+                    "amount": 40569.03,
+                    "transaction_id": 89993895
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Lowery",
+        "age": 52,
+        "gender": "female",
+        "address": "788 Zachary Trafficway Apt. 225, Howardside, MT 92111",
+        "phone": "677-959-9902",
+        "email": "sharoncantrell@example.com",
+        "account": {
+            "account_number": "74f512a7-ae57-4e1f-9d30-62adf7e447f5",
+            "balance": 18651.6,
+            "transactions": [
+                {
+                    "date": "2023-11-14",
+                    "description": "Withdrawal",
+                    "amount": 31344.08,
+                    "transaction_id": 116789357
+                },
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": 24962.03,
+                    "transaction_id": 116106243
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Withdrawal",
+                    "amount": 11440.67,
+                    "transaction_id": 42018191
+                }
+            ]
+        }
+    }
+}

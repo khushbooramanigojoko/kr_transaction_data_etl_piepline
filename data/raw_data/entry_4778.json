@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Linda Alexander",
+        "age": 75,
+        "gender": "female",
+        "address": "28327 Martinez Grove Apt. 569, Pattersonborough, CO 22152",
+        "phone": "001-842-509-8811x04628",
+        "email": "cburton@example.com",
+        "account": {
+            "account_number": "80a1f6b6-4b2b-4a3b-bd13-63d4f8b603fa",
+            "balance": 4561.93,
+            "transactions": [
+                {
+                    "date": "2023-07-04",
+                    "description": "Interest",
+                    "amount": 47847.87,
+                    "transaction_id": 60886347
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Interest",
+                    "amount": 41551.57,
+                    "transaction_id": 3199896
+                },
+                {
+                    "date": "2023-03-06",
+                    "description": "Interest",
+                    "amount": 19846.26,
+                    "transaction_id": 112783470
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Interest",
+                    "amount": 44201.98,
+                    "transaction_id": 99646751
+                }
+            ]
+        }
+    }
+}

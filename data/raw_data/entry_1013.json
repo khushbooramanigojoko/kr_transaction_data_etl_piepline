@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Kerr",
+        "age": 84,
+        "gender": "female",
+        "address": "8487 Ellen Ports, Port Christopherfurt, SC 87748",
+        "phone": "405-326-9043x5048",
+        "email": "alison33@example.com",
+        "account": {
+            "account_number": "b809547f-7cdb-4d19-817e-572f58d744d1",
+            "balance": 17997.49,
+            "transactions": [
+                {
+                    "date": "2023-09-22",
+                    "description": "Interest",
+                    "amount": 13917.41,
+                    "transaction_id": 68713410
+                },
+                {
+                    "date": "2024-05-06",
+                    "description": "Interest",
+                    "amount": 5458.04,
+                    "transaction_id": 107023245
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Withdrawal",
+                    "amount": 32822.32,
+                    "transaction_id": 59751507
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Interest",
+                    "amount": 26256.78,
+                    "transaction_id": 109655175
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Withdrawal",
+                    "amount": 22995.44,
+                    "transaction_id": 31469149
+                }
+            ]
+        }
+    }
+}

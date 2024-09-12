@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "John Wilkins",
+        "age": 53,
+        "gender": "female",
+        "address": "624 Rodriguez Pines Suite 478, New Tammy, NE 80716",
+        "phone": "869-334-0859x21875",
+        "email": "kingsara@example.net",
+        "account": {
+            "account_number": "b5b64646-2b01-482d-9db3-cbb1b910eb30",
+            "balance": -28880.2,
+            "transactions": [
+                {
+                    "date": "2022-12-10",
+                    "description": "Withdrawal",
+                    "amount": 1626.23,
+                    "transaction_id": 67753386
+                }
+            ]
+        }
+    }
+}

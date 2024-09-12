@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Susan Charles",
+        "age": 85,
+        "gender": "male",
+        "address": "68381 Stewart Spring, Bradleymouth, VI 45943",
+        "phone": "841.737.7948x77141",
+        "email": "amandasoto@example.org",
+        "account": {
+            "account_number": "9b07b209-7eb1-4d10-875c-c55326cc78ab",
+            "balance": 33901.39,
+            "transactions": [
+                {
+                    "date": "2024-08-08",
+                    "description": "Withdrawal",
+                    "amount": 2751.3,
+                    "transaction_id": 108314472
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mr. Ronnie Davis MD",
+        "age": 73,
+        "gender": "female",
+        "address": "454 Lisa Spur Apt. 103, Lauraland, TN 78398",
+        "phone": "7855913232",
+        "email": "johnsonscott@example.com",
+        "account": {
+            "account_number": "4d63accc-8d75-4b6a-b9eb-7ae609b9a347",
+            "balance": 10566.56,
+            "transactions": [
+                {
+                    "date": "2024-02-01",
+                    "description": "Withdrawal",
+                    "amount": 22835.15,
+                    "transaction_id": 65216132
+                },
+                {
+                    "date": "2022-11-10",
+                    "description": "Interest",
+                    "amount": 306.22,
+                    "transaction_id": 104907608
+                }
+            ]
+        }
+    }
+}

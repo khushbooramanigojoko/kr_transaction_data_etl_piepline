@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sarah Lopez",
+        "age": 28,
+        "gender": "male",
+        "address": "7743 Emma Drive, Paulaland, IN 24048",
+        "phone": "920.840.9010x5878",
+        "email": "longmelissa@example.com",
+        "account": {
+            "account_number": "55a75abe-19d8-44fa-ac76-10bb58c3d6c8",
+            "balance": 25128.54,
+            "transactions": [
+                {
+                    "date": "2022-09-10",
+                    "description": "Interest",
+                    "amount": 45794.5,
+                    "transaction_id": 74909852
+                },
+                {
+                    "date": "2023-12-08",
+                    "description": "Interest",
+                    "amount": 9675.64,
+                    "transaction_id": 99452190
+                },
+                {
+                    "date": "2024-03-25",
+                    "description": "Interest",
+                    "amount": 42529.15,
+                    "transaction_id": 24507854
+                }
+            ]
+        }
+    }
+}

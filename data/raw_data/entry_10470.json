@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 31,
+        "gender": "female",
+        "address": "573 Gordon Orchard Suite 269, Thompsonfurt, SC 38247",
+        "phone": "603-227-6340",
+        "email": "turnerwilliam@example.com",
+        "account": {
+            "account_number": "bf3b3e31-7270-47f9-9bb5-1d0b54777467",
+            "balance": 2120.19,
+            "transactions": [
+                {
+                    "date": "2023-05-02",
+                    "description": "Deposit",
+                    "amount": 98.11,
+                    "transaction_id": 64875634
+                },
+                {
+                    "date": "2023-10-04",
+                    "description": "Withdrawal",
+                    "amount": 4790.05,
+                    "transaction_id": 58453620
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Withdrawal",
+                    "amount": -1463.54,
+                    "transaction_id": 26909667
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Withdrawal",
+                    "amount": -2435.88,
+                    "transaction_id": 88963700
+                }
+            ]
+        }
+    }
+}

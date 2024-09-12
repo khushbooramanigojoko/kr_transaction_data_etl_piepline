@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "David Thompson",
+        "age": 39,
+        "gender": "female",
+        "address": "Unit 9515 Box 1526, DPO AP 70612",
+        "phone": "4453837142",
+        "email": "michelle43@example.net",
+        "account": {
+            "account_number": "beed6072-04b7-4c7b-8ef1-02a27386e1f3",
+            "balance": 6317.75,
+            "transactions": [
+                {
+                    "date": "2022-09-07",
+                    "description": "Interest",
+                    "amount": 32743.78,
+                    "transaction_id": 65937079
+                },
+                {
+                    "date": "2023-11-21",
+                    "description": "Deposit",
+                    "amount": 12081.74,
+                    "transaction_id": 96101906
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Withdrawal",
+                    "amount": 23745.39,
+                    "transaction_id": 20431537
+                },
+                {
+                    "date": "2024-04-23",
+                    "description": "Deposit",
+                    "amount": 1853.35,
+                    "transaction_id": 105480181
+                }
+            ]
+        }
+    }
+}

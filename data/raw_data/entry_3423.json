@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joshua Wolf",
+        "age": 50,
+        "gender": "male",
+        "address": "PSC 6907, Box 3755, APO AP 19539",
+        "phone": "+1-425-306-6062x7647",
+        "email": "youngjennifer@example.org",
+        "account": {
+            "account_number": "d0056a26-1891-478a-8a76-18f7c727fd97",
+            "balance": 45544.61,
+            "transactions": [
+                {
+                    "date": "2023-12-21",
+                    "description": "Interest",
+                    "amount": 17288.67,
+                    "transaction_id": 114865186
+                }
+            ]
+        }
+    }
+}

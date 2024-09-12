@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nicholas Zuniga",
+        "age": 38,
+        "gender": "female",
+        "address": "1212 Ray Island, Abigailbury, PW 33746",
+        "phone": "858-244-7970",
+        "email": "david64@example.org",
+        "account": {
+            "account_number": "e9eb4c18-f2e6-4e34-b5f6-18987a2094cf",
+            "balance": 12171.36,
+            "transactions": [
+                {
+                    "date": "2023-11-10",
+                    "description": "Withdrawal",
+                    "amount": 15502.37,
+                    "transaction_id": 49183520
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Deposit",
+                    "amount": 45410.1,
+                    "transaction_id": 71437730
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Deposit",
+                    "amount": 39118.11,
+                    "transaction_id": 73183723
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Deposit",
+                    "amount": 4280.36,
+                    "transaction_id": 51285141
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Withdrawal",
+                    "amount": 19854.59,
+                    "transaction_id": 45346311
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Gary Gonzales",
+        "age": 54,
+        "gender": "female",
+        "address": "8710 William Pike, Bonnieberg, SD 20820",
+        "phone": "(920)616-9592x060",
+        "email": "jordan72@example.com",
+        "account": {
+            "account_number": "d552d67a-6c82-4142-91f6-8522d3705b98",
+            "balance": -36502.8,
+            "transactions": [
+                {
+                    "date": "2024-05-03",
+                    "description": "Interest",
+                    "amount": 3501.69,
+                    "transaction_id": 103426782
+                }
+            ]
+        }
+    }
+}

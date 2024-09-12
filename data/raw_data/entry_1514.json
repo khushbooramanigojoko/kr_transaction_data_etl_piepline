@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Angela Harris",
+        "age": 91,
+        "gender": "male",
+        "address": "31958 Mcdowell Cape Suite 428, Andreamouth, AL 15442",
+        "phone": "724.888.3004",
+        "email": "donald97@example.net",
+        "account": {
+            "account_number": "95e76c91-c9ee-4cfb-8777-d07d9794df50",
+            "balance": 8261.86,
+            "transactions": [
+                {
+                    "date": "2024-01-12",
+                    "description": "Interest",
+                    "amount": 18134.07,
+                    "transaction_id": 97650212
+                },
+                {
+                    "date": "2022-09-02",
+                    "description": "Deposit",
+                    "amount": 34808.05,
+                    "transaction_id": 29302577
+                },
+                {
+                    "date": "2024-03-22",
+                    "description": "Withdrawal",
+                    "amount": 2756.19,
+                    "transaction_id": 50472277
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Deposit",
+                    "amount": 40218.41,
+                    "transaction_id": 68013388
+                }
+            ]
+        }
+    }
+}

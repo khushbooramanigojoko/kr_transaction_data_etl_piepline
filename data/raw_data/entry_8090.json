@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tyler Ferguson",
+        "age": 81,
+        "gender": "female",
+        "address": "2155 Dustin Cliffs Apt. 556, East Natalie, OR 87136",
+        "phone": "234-441-3364",
+        "email": "douglasterri@example.com",
+        "account": {
+            "account_number": "289f72a8-4d5b-470d-90ff-c35c4aa2e3d9",
+            "balance": 40447.89,
+            "transactions": [
+                {
+                    "date": "2024-01-31",
+                    "description": "Interest",
+                    "amount": 47594.26,
+                    "transaction_id": 82490111
+                },
+                {
+                    "date": "2022-11-05",
+                    "description": "Withdrawal",
+                    "amount": 42930.16,
+                    "transaction_id": 97489007
+                }
+            ]
+        }
+    }
+}

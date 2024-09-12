@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kenneth Hernandez",
+        "age": 60,
+        "gender": "male",
+        "address": "039 Kathy Union, Adamberg, KS 50297",
+        "phone": "962.760.2142x054",
+        "email": "shawangela@example.net",
+        "account": {
+            "account_number": "98024340-e719-4977-98d4-bd678334d6ed",
+            "balance": 12610.1,
+            "transactions": [
+                {
+                    "date": "2023-03-24",
+                    "description": "Withdrawal",
+                    "amount": 30423.26,
+                    "transaction_id": 51604397
+                },
+                {
+                    "date": "2023-05-23",
+                    "description": "Interest",
+                    "amount": 47467.27,
+                    "transaction_id": 31230254
+                }
+            ]
+        }
+    }
+}

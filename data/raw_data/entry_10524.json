@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Richard Ramirez",
+        "age": 47,
+        "gender": "male",
+        "address": "41180 Victor Lodge, Davidport, VT 65917",
+        "phone": "(836)812-7526x43267",
+        "email": "elliottdanielle@example.com",
+        "account": {
+            "account_number": "541823fd-01f2-427c-802a-1abe78eff28a",
+            "balance": -34216.68,
+            "transactions": [
+                {
+                    "date": "2023-12-14",
+                    "description": "Interest",
+                    "amount": -1147.94,
+                    "transaction_id": 91551963
+                },
+                {
+                    "date": "2024-04-25",
+                    "description": "Interest",
+                    "amount": -4262.35,
+                    "transaction_id": 25126610
+                },
+                {
+                    "date": "2024-03-11",
+                    "description": "Deposit",
+                    "amount": -1088.47,
+                    "transaction_id": 41404980
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Interest",
+                    "amount": 1189.61,
+                    "transaction_id": 43407897
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Withdrawal",
+                    "amount": -1461.14,
+                    "transaction_id": 6587347
+                }
+            ]
+        }
+    }
+}

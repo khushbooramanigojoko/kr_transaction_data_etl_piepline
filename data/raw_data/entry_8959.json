@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 37,
+        "gender": "male",
+        "address": "170 Terrell Camp, Jenniferville, MO 91375",
+        "phone": "7687288425",
+        "email": "luiskelly@example.com",
+        "account": {
+            "account_number": "de402e67-54db-4b47-9275-9cfe88fca58f",
+            "balance": 5085.71,
+            "transactions": [
+                {
+                    "date": "2022-11-23",
+                    "description": "Interest",
+                    "amount": -349.47,
+                    "transaction_id": 32181627
+                }
+            ]
+        }
+    }
+}

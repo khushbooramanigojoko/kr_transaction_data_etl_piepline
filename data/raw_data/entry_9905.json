@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 75,
+        "gender": "male",
+        "address": "26330 James Rapids, South Lauren, IN 72242",
+        "phone": "9615995642",
+        "email": "frederickelizabeth@example.org",
+        "account": {
+            "account_number": "92aeee6b-465b-4133-80ae-93d8da26b16a",
+            "balance": 5982.09,
+            "transactions": [
+                {
+                    "date": "2023-02-01",
+                    "description": "Withdrawal",
+                    "amount": -3321.79,
+                    "transaction_id": 44175746
+                },
+                {
+                    "date": "2024-01-29",
+                    "description": "Withdrawal",
+                    "amount": 2350.24,
+                    "transaction_id": 14580121
+                }
+            ]
+        }
+    }
+}

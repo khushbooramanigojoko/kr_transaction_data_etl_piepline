@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 89,
+        "gender": "female",
+        "address": "Unit 8727 Box 3581, DPO AP 52223",
+        "phone": "858.294.7622",
+        "email": "cthomas@example.net",
+        "account": {
+            "account_number": "a3604719-3e45-4cbe-9962-f1bf60c8d28e",
+            "balance": 25926.07,
+            "transactions": [
+                {
+                    "date": "2024-05-05",
+                    "description": "Withdrawal",
+                    "amount": 1180.38,
+                    "transaction_id": 111417755
+                }
+            ]
+        }
+    }
+}

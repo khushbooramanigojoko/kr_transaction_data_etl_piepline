@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mitchell Sanders",
+        "age": 34,
+        "gender": "female",
+        "address": "269 Todd Prairie Suite 802, South Dave, ID 32628",
+        "phone": "601.874.2688x239",
+        "email": "christopherroberts@example.net",
+        "account": {
+            "account_number": "79e1c649-7360-42a9-bc7b-1af187ec0ef9",
+            "balance": 16472.38,
+            "transactions": [
+                {
+                    "date": "2023-01-03",
+                    "description": "Withdrawal",
+                    "amount": 22979.44,
+                    "transaction_id": 115587035
+                },
+                {
+                    "date": "2023-05-25",
+                    "description": "Withdrawal",
+                    "amount": 13915.3,
+                    "transaction_id": 99979192
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Deposit",
+                    "amount": 19547.63,
+                    "transaction_id": 53721176
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Deposit",
+                    "amount": 24924.97,
+                    "transaction_id": 68260741
+                }
+            ]
+        }
+    }
+}

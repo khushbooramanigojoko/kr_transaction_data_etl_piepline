@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Pamela Evans",
+        "age": 25,
+        "gender": "male",
+        "address": "41473 Bates Creek Suite 963, East Johnstad, MA 50304",
+        "phone": "9335126008",
+        "email": "pdonaldson@example.com",
+        "account": {
+            "account_number": "0f4e61d5-ecf4-4056-a8af-2a76468734dc",
+            "balance": 45088.53,
+            "transactions": [
+                {
+                    "date": "2023-12-01",
+                    "description": "Interest",
+                    "amount": 27123.97,
+                    "transaction_id": 92654401
+                }
+            ]
+        }
+    }
+}

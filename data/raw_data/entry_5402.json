@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Amy Anderson",
+        "age": 93,
+        "gender": "male",
+        "address": "1569 Gallagher Fort Suite 493, Thomaston, DC 74591",
+        "phone": "979-502-4398x02538",
+        "email": "tramirez@example.com",
+        "account": {
+            "account_number": "725ea9b0-8cc6-4454-b645-645be8f254e7",
+            "balance": 3507.64,
+            "transactions": [
+                {
+                    "date": "2023-06-14",
+                    "description": "Interest",
+                    "amount": 17942.3,
+                    "transaction_id": 107283709
+                },
+                {
+                    "date": "2023-04-22",
+                    "description": "Withdrawal",
+                    "amount": 20088.29,
+                    "transaction_id": 54365656
+                },
+                {
+                    "date": "2023-01-03",
+                    "description": "Deposit",
+                    "amount": 16268.88,
+                    "transaction_id": 44665963
+                },
+                {
+                    "date": "2023-12-06",
+                    "description": "Interest",
+                    "amount": 24043.52,
+                    "transaction_id": 94318824
+                },
+                {
+                    "date": "2023-08-24",
+                    "description": "Deposit",
+                    "amount": 5150.93,
+                    "transaction_id": 54378647
+                }
+            ]
+        }
+    }
+}

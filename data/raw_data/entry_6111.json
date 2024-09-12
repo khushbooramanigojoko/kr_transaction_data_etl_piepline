@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Denise Dixon",
+        "age": 92,
+        "gender": "male",
+        "address": "73432 James Landing, Port Jacobton, ID 02150",
+        "phone": "412.446.6559x582",
+        "email": "barnettpatrick@example.org",
+        "account": {
+            "account_number": "7be8b236-2170-45ec-b179-696c32a2e01a",
+            "balance": 28674.11,
+            "transactions": [
+                {
+                    "date": "2022-10-07",
+                    "description": "Deposit",
+                    "amount": 2652.89,
+                    "transaction_id": 26869388
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Withdrawal",
+                    "amount": 18663.37,
+                    "transaction_id": 38403144
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Deposit",
+                    "amount": 37906.62,
+                    "transaction_id": 81707505
+                },
+                {
+                    "date": "2024-01-30",
+                    "description": "Deposit",
+                    "amount": 8653.36,
+                    "transaction_id": 105508882
+                }
+            ]
+        }
+    }
+}

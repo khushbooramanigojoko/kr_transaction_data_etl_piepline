@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Robert Rodriguez",
+        "age": 78,
+        "gender": "male",
+        "address": "65230 Patterson Heights Apt. 119, Lake Melissa, MT 62179",
+        "phone": "(641)417-0226x08109",
+        "email": "hweaver@example.com",
+        "account": {
+            "account_number": "1a11bf9b-5f82-414e-97b8-4938df1433dd",
+            "balance": 23665.08,
+            "transactions": [
+                {
+                    "date": "2023-02-22",
+                    "description": "Deposit",
+                    "amount": 29975.32,
+                    "transaction_id": 47209619
+                },
+                {
+                    "date": "2024-03-11",
+                    "description": "Interest",
+                    "amount": 11606.31,
+                    "transaction_id": 90193239
+                }
+            ]
+        }
+    }
+}

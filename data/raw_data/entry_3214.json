@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Doris Mcfarland MD",
+        "age": 29,
+        "gender": "female",
+        "address": "500 Calderon Flat, Timothyside, FM 81342",
+        "phone": "+1-706-954-4200x700",
+        "email": "cantrellphilip@example.org",
+        "account": {
+            "account_number": "e8143b64-d64a-492d-9a63-2f3a2467bff1",
+            "balance": 27979.95,
+            "transactions": [
+                {
+                    "date": "2023-01-07",
+                    "description": "Withdrawal",
+                    "amount": 46908.44,
+                    "transaction_id": 12751813
+                },
+                {
+                    "date": "2022-10-30",
+                    "description": "Deposit",
+                    "amount": 26791.52,
+                    "transaction_id": 89162882
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Deposit",
+                    "amount": 23029.81,
+                    "transaction_id": 89706644
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Interest",
+                    "amount": 41114.61,
+                    "transaction_id": 23695766
+                }
+            ]
+        }
+    }
+}

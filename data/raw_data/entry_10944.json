@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Carol Hill",
+        "age": 83,
+        "gender": "female",
+        "address": "76827 Holt Ridges, Thomasmouth, CA 00611",
+        "phone": "6173257349",
+        "email": "mercadogail@example.org",
+        "account": {
+            "account_number": "f361c968-14ce-48b0-9361-79aa6abbceec",
+            "balance": -29581.11,
+            "transactions": [
+                {
+                    "date": "2023-01-21",
+                    "description": "Interest",
+                    "amount": 1387.59,
+                    "transaction_id": 52266117
+                }
+            ]
+        }
+    }
+}

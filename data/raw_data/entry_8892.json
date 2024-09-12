@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Todd Chung",
+        "age": 73,
+        "gender": "male",
+        "address": "201 Johnson Extensions, Deborahstad, SD 36825",
+        "phone": "948-859-4357",
+        "email": "ujennings@example.com",
+        "account": {
+            "account_number": "cf85ab50-9987-4ef8-a7b8-8e0135cc096d",
+            "balance": -24201.35,
+            "transactions": [
+                {
+                    "date": "2023-07-06",
+                    "description": "Withdrawal",
+                    "amount": -4755.03,
+                    "transaction_id": 13695845
+                },
+                {
+                    "date": "2023-01-01",
+                    "description": "Withdrawal",
+                    "amount": -849.62,
+                    "transaction_id": 104241518
+                },
+                {
+                    "date": "2023-07-25",
+                    "description": "Withdrawal",
+                    "amount": -181.44,
+                    "transaction_id": 5607486
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Interest",
+                    "amount": -2649.95,
+                    "transaction_id": 13547428
+                },
+                {
+                    "date": "2023-11-27",
+                    "description": "Deposit",
+                    "amount": -3386.71,
+                    "transaction_id": 114492174
+                }
+            ]
+        }
+    }
+}

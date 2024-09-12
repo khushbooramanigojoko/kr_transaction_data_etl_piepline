@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kevin Collins",
+        "age": 44,
+        "gender": "male",
+        "address": "2438 Combs Square Suite 816, West Danielville, PR 86437",
+        "phone": "(495)588-7935",
+        "email": "amanda18@example.org",
+        "account": {
+            "account_number": "99d6c931-1dca-4fdd-add7-1504e60b9a54",
+            "balance": 23472.7,
+            "transactions": [
+                {
+                    "date": "2024-01-09",
+                    "description": "Interest",
+                    "amount": 40801.12,
+                    "transaction_id": 4064736
+                }
+            ]
+        }
+    }
+}

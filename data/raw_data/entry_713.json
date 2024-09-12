@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Ramirez",
+        "age": 50,
+        "gender": "female",
+        "address": "885 Christopher Village, Munozborough, MD 86472",
+        "phone": "954-267-2277",
+        "email": "debraburton@example.org",
+        "account": {
+            "account_number": "471547d6-2f85-4dfa-a391-50a1a9002dd8",
+            "balance": 5124.89,
+            "transactions": [
+                {
+                    "date": "2024-05-03",
+                    "description": "Deposit",
+                    "amount": 19958.84,
+                    "transaction_id": 28359966
+                },
+                {
+                    "date": "2024-02-08",
+                    "description": "Deposit",
+                    "amount": 21489.51,
+                    "transaction_id": 15171774
+                }
+            ]
+        }
+    }
+}

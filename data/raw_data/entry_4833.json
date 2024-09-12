@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Hannah Green",
+        "age": 78,
+        "gender": "male",
+        "address": "211 Stevens Meadows Apt. 175, Lake Lorraineville, TN 53346",
+        "phone": "001-888-941-4810x817",
+        "email": "qmejia@example.com",
+        "account": {
+            "account_number": "e41a0710-1e85-44e8-80bd-be5f5735088f",
+            "balance": 7512.81,
+            "transactions": [
+                {
+                    "date": "2024-07-03",
+                    "description": "Deposit",
+                    "amount": 49826.12,
+                    "transaction_id": 56039803
+                },
+                {
+                    "date": "2022-11-10",
+                    "description": "Deposit",
+                    "amount": 27083.53,
+                    "transaction_id": 54993639
+                },
+                {
+                    "date": "2024-05-25",
+                    "description": "Interest",
+                    "amount": 13517.1,
+                    "transaction_id": 55572655
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Withdrawal",
+                    "amount": 6039.41,
+                    "transaction_id": 56431855
+                },
+                {
+                    "date": "2024-06-06",
+                    "description": "Deposit",
+                    "amount": 36221.24,
+                    "transaction_id": 119607371
+                }
+            ]
+        }
+    }
+}

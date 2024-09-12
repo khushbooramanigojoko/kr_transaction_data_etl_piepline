@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Alisha Adams",
+        "age": 99,
+        "gender": "male",
+        "address": "7881 Campbell Brooks Suite 680, Hardinghaven, SD 66252",
+        "phone": "+1-593-705-5461",
+        "email": "carsonmichele@example.org",
+        "account": {
+            "account_number": "27ed2488-3b8a-4390-bb27-d7033b69f6d7",
+            "balance": 24766.76,
+            "transactions": [
+                {
+                    "date": "2024-03-21",
+                    "description": "Withdrawal",
+                    "amount": 23670.86,
+                    "transaction_id": 16002758
+                },
+                {
+                    "date": "2022-10-09",
+                    "description": "Deposit",
+                    "amount": 18758.56,
+                    "transaction_id": 84514414
+                }
+            ]
+        }
+    }
+}

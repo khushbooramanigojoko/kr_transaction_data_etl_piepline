@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Chelsea Ellis",
+        "age": 96,
+        "gender": "female",
+        "address": "Unit 8428 Box 7749, DPO AP 31132",
+        "phone": "(384)816-1941x99526",
+        "email": "twright@example.net",
+        "account": {
+            "account_number": "24a62d09-42ff-457a-9282-103404a70f83",
+            "balance": 9105.38,
+            "transactions": [
+                {
+                    "date": "2023-03-02",
+                    "description": "Deposit",
+                    "amount": 14609.6,
+                    "transaction_id": 36481664
+                },
+                {
+                    "date": "2023-09-24",
+                    "description": "Deposit",
+                    "amount": 22972.54,
+                    "transaction_id": 20532491
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Withdrawal",
+                    "amount": 24717.02,
+                    "transaction_id": 86828943
+                },
+                {
+                    "date": "2024-04-10",
+                    "description": "Withdrawal",
+                    "amount": 3451.56,
+                    "transaction_id": 69356635
+                }
+            ]
+        }
+    }
+}

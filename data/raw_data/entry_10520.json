@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brandon Sanchez",
+        "age": 99,
+        "gender": "female",
+        "address": "412 Pennington Ridge Apt. 831, Lynnview, MP 27391",
+        "phone": "+1-487-880-0489",
+        "email": "jmoran@example.org",
+        "account": {
+            "account_number": "14798336-84fd-47ad-91d3-dab616ed2c26",
+            "balance": -8521.63,
+            "transactions": [
+                {
+                    "date": "2022-10-17",
+                    "description": "Withdrawal",
+                    "amount": 514.73,
+                    "transaction_id": 7101516
+                }
+            ]
+        }
+    }
+}

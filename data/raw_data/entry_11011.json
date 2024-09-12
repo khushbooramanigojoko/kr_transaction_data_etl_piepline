@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 22,
+        "gender": "male",
+        "address": "USCGC Williams, FPO AE 88244",
+        "phone": "608-241-4944",
+        "email": "esmith@example.org",
+        "account": {
+            "account_number": "f4e6bea9-6a7a-49bf-95d4-a193e51f3a34",
+            "balance": 46343.29,
+            "transactions": [
+                {
+                    "date": "2023-02-22",
+                    "description": "Deposit",
+                    "amount": 1642.32,
+                    "transaction_id": 23944806
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Deposit",
+                    "amount": -3314.62,
+                    "transaction_id": 115583907
+                }
+            ]
+        }
+    }
+}

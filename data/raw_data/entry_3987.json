@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Paul Spencer",
+        "age": 89,
+        "gender": "female",
+        "address": "7686 Downs Ferry Apt. 597, Angelamouth, AL 94624",
+        "phone": "4248941403",
+        "email": "xnguyen@example.com",
+        "account": {
+            "account_number": "16eb26f0-88a2-4d75-8b92-477714df787f",
+            "balance": 29870.69,
+            "transactions": [
+                {
+                    "date": "2024-02-17",
+                    "description": "Interest",
+                    "amount": 42022.57,
+                    "transaction_id": 107335075
+                }
+            ]
+        }
+    }
+}

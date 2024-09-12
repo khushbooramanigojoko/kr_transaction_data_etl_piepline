@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jeffery Schmidt",
+        "age": 70,
+        "gender": "female",
+        "address": "USS Henderson, FPO AA 76111",
+        "phone": "+1-524-737-4251x22742",
+        "email": "fernandezcorey@example.net",
+        "account": {
+            "account_number": "51188758-42d6-4fe8-b4ed-676a5b90af13",
+            "balance": 1933.48,
+            "transactions": [
+                {
+                    "date": "2024-05-11",
+                    "description": "Withdrawal",
+                    "amount": 13693.62,
+                    "transaction_id": 33481564
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Withdrawal",
+                    "amount": 17515.56,
+                    "transaction_id": 50502523
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Emily Williams",
+        "age": 18,
+        "gender": "male",
+        "address": "84893 Davis Pike Suite 942, New Toddton, WA 43651",
+        "phone": "(376)617-0531x585",
+        "email": "lopezangie@example.com",
+        "account": {
+            "account_number": "0d376d2e-d5a5-4317-b583-eb2466d05dcc",
+            "balance": 19008.77,
+            "transactions": [
+                {
+                    "date": "2024-05-22",
+                    "description": "Interest",
+                    "amount": 19100.0,
+                    "transaction_id": 80799373
+                },
+                {
+                    "date": "2022-09-30",
+                    "description": "Interest",
+                    "amount": 34719.16,
+                    "transaction_id": 56933042
+                }
+            ]
+        }
+    }
+}

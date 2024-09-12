@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 60,
+        "gender": "female",
+        "address": "14452 Chase Drive, Luisshire, WV 54545",
+        "phone": "(826)846-2239",
+        "email": "ywade@example.org",
+        "account": {
+            "account_number": "a8b061f2-a3d4-4279-88c8-515dc13993ab",
+            "balance": 26764.74,
+            "transactions": [
+                {
+                    "date": "2024-04-23",
+                    "description": "Deposit",
+                    "amount": 1960.38,
+                    "transaction_id": 3863870
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Deposit",
+                    "amount": 779.82,
+                    "transaction_id": 56952596
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Withdrawal",
+                    "amount": 3944.61,
+                    "transaction_id": 27180675
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Deposit",
+                    "amount": 4257.6,
+                    "transaction_id": 118681505
+                }
+            ]
+        }
+    }
+}

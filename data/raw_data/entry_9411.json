@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 94,
+        "gender": "male",
+        "address": "971 Amanda Course, Frenchberg, CA 87584",
+        "phone": "+1-650-798-3955x13395",
+        "email": "esmith@example.org",
+        "account": {
+            "account_number": "81cc03ac-8a10-48d0-a60e-cddde3b5be18",
+            "balance": 44608.82,
+            "transactions": [
+                {
+                    "date": "2023-01-18",
+                    "description": "Withdrawal",
+                    "amount": -2352.29,
+                    "transaction_id": 62628629
+                }
+            ]
+        }
+    }
+}

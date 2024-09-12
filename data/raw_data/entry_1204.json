@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Patricia Liu",
+        "age": 67,
+        "gender": "female",
+        "address": "889 Barbara Station Suite 499, Murraybury, MH 81744",
+        "phone": "296.461.7395x81408",
+        "email": "hriggs@example.org",
+        "account": {
+            "account_number": "102dcdba-7fc6-4290-be32-624f97706a77",
+            "balance": 15376.85,
+            "transactions": [
+                {
+                    "date": "2024-07-06",
+                    "description": "Interest",
+                    "amount": 41889.34,
+                    "transaction_id": 108453602
+                },
+                {
+                    "date": "2023-12-27",
+                    "description": "Interest",
+                    "amount": 23701.49,
+                    "transaction_id": 59564819
+                },
+                {
+                    "date": "2024-08-15",
+                    "description": "Withdrawal",
+                    "amount": 38124.8,
+                    "transaction_id": 88644656
+                }
+            ]
+        }
+    }
+}

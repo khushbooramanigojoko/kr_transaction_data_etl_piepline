@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mrs. Amanda Taylor MD",
+        "age": 58,
+        "gender": "male",
+        "address": "48045 Duran Junction Suite 154, Singhside, IL 95530",
+        "phone": "001-434-747-2615",
+        "email": "waltermay@example.net",
+        "account": {
+            "account_number": "b284a024-6dab-4f61-bcbf-a5c5e89d36b2",
+            "balance": 44988.26,
+            "transactions": [
+                {
+                    "date": "2024-01-08",
+                    "description": "Deposit",
+                    "amount": 14234.4,
+                    "transaction_id": 59581674
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Deposit",
+                    "amount": 1132.15,
+                    "transaction_id": 85135625
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kristin Collins",
+        "age": 81,
+        "gender": "male",
+        "address": "USCGC Black, FPO AP 58750",
+        "phone": "+1-496-728-0726x485",
+        "email": "xpayne@example.org",
+        "account": {
+            "account_number": "5024428a-d902-4970-a4bd-a76b57515714",
+            "balance": 46967.12,
+            "transactions": [
+                {
+                    "date": "2022-09-07",
+                    "description": "Withdrawal",
+                    "amount": 44398.55,
+                    "transaction_id": 45708628
+                },
+                {
+                    "date": "2022-11-07",
+                    "description": "Withdrawal",
+                    "amount": 32150.79,
+                    "transaction_id": 114542134
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Deposit",
+                    "amount": 29988.11,
+                    "transaction_id": 52786815
+                },
+                {
+                    "date": "2024-08-08",
+                    "description": "Withdrawal",
+                    "amount": 37437.56,
+                    "transaction_id": 81084427
+                }
+            ]
+        }
+    }
+}

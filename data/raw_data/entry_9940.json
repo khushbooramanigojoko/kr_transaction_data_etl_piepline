@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Melendez",
+        "age": 46,
+        "gender": "male",
+        "address": "USNV Carr, FPO AP 48820",
+        "phone": "(333)747-3244x254",
+        "email": "daniel67@example.com",
+        "account": {
+            "account_number": "ff9fe222-7339-42fe-94bc-1672c8f8637a",
+            "balance": -12101.7,
+            "transactions": [
+                {
+                    "date": "2023-12-19",
+                    "description": "Withdrawal",
+                    "amount": 4954.71,
+                    "transaction_id": 44950916
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Deposit",
+                    "amount": 826.64,
+                    "transaction_id": 106483013
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Interest",
+                    "amount": 3436.97,
+                    "transaction_id": 1895458
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Withdrawal",
+                    "amount": 4712.62,
+                    "transaction_id": 8533006
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Withdrawal",
+                    "amount": -3981.76,
+                    "transaction_id": 101849740
+                }
+            ]
+        }
+    }
+}

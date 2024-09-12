@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Stacy Perry",
+        "age": 30,
+        "gender": "male",
+        "address": "7414 Stark Skyway Apt. 978, Normanton, ND 45618",
+        "phone": "567.209.8679",
+        "email": "qmcintyre@example.net",
+        "account": {
+            "account_number": "f690958f-0388-4ecc-92e9-d7d0013226ac",
+            "balance": 34451.55,
+            "transactions": [
+                {
+                    "date": "2024-01-21",
+                    "description": "Deposit",
+                    "amount": 44041.92,
+                    "transaction_id": 34773954
+                },
+                {
+                    "date": "2023-11-07",
+                    "description": "Deposit",
+                    "amount": 36791.27,
+                    "transaction_id": 21613205
+                }
+            ]
+        }
+    }
+}

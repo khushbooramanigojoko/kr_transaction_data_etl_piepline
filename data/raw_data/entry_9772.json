@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 52,
+        "gender": "female",
+        "address": "1728 Wendy Knoll Suite 906, Christophermouth, MD 26039",
+        "phone": "332.815.1727",
+        "email": "lijoseph@example.net",
+        "account": {
+            "account_number": "42d02f13-f08c-4ad0-959b-99d321b90e76",
+            "balance": 29603.28,
+            "transactions": [
+                {
+                    "date": "2023-04-12",
+                    "description": "Interest",
+                    "amount": 10.33,
+                    "transaction_id": 71929658
+                },
+                {
+                    "date": "2023-03-05",
+                    "description": "Interest",
+                    "amount": -1691.26,
+                    "transaction_id": 46656863
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Withdrawal",
+                    "amount": 3080.08,
+                    "transaction_id": 30241557
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Deposit",
+                    "amount": -2540.21,
+                    "transaction_id": 60524255
+                }
+            ]
+        }
+    }
+}

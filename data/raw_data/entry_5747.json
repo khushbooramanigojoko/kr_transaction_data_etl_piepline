@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nathan Wyatt",
+        "age": 27,
+        "gender": "male",
+        "address": "437 Amber Falls Suite 608, Port Shane, NC 93420",
+        "phone": "350.334.6398x843",
+        "email": "youngmichael@example.org",
+        "account": {
+            "account_number": "497b948a-9606-4367-b9d3-8bae283cd3e4",
+            "balance": 3151.16,
+            "transactions": [
+                {
+                    "date": "2023-04-04",
+                    "description": "Interest",
+                    "amount": 1195.96,
+                    "transaction_id": 19322995
+                },
+                {
+                    "date": "2023-07-20",
+                    "description": "Deposit",
+                    "amount": 24682.17,
+                    "transaction_id": 43037594
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Interest",
+                    "amount": 35588.94,
+                    "transaction_id": 98383052
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Deposit",
+                    "amount": 27362.53,
+                    "transaction_id": 12350588
+                }
+            ]
+        }
+    }
+}

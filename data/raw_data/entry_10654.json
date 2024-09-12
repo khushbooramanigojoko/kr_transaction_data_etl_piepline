@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Krista Johnson",
+        "age": 36,
+        "gender": "female",
+        "address": "447 Benjamin Walks Suite 312, Russofurt, TX 51400",
+        "phone": "+1-667-490-2775x174",
+        "email": "harold92@example.net",
+        "account": {
+            "account_number": "7cabdee6-edbe-412b-9e20-23fa0b4d66f7",
+            "balance": -27791.75,
+            "transactions": [
+                {
+                    "date": "2023-07-26",
+                    "description": "Withdrawal",
+                    "amount": -4139.28,
+                    "transaction_id": 105306775
+                },
+                {
+                    "date": "2023-04-03",
+                    "description": "Withdrawal",
+                    "amount": -2550.27,
+                    "transaction_id": 111340070
+                },
+                {
+                    "date": "2022-09-30",
+                    "description": "Deposit",
+                    "amount": 3468.61,
+                    "transaction_id": 87872706
+                },
+                {
+                    "date": "2024-07-25",
+                    "description": "Interest",
+                    "amount": -4449.45,
+                    "transaction_id": 2889189
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Interest",
+                    "amount": 1735.38,
+                    "transaction_id": 6658585
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brenda Gallagher",
+        "age": 81,
+        "gender": "male",
+        "address": "USS Rogers, FPO AA 72057",
+        "phone": "6007488060",
+        "email": "susanbennett@example.net",
+        "account": {
+            "account_number": "934a70b3-6eeb-41c7-a7f6-5ce319e5f6d6",
+            "balance": 44627.48,
+            "transactions": [
+                {
+                    "date": "2023-10-20",
+                    "description": "Interest",
+                    "amount": 37677.28,
+                    "transaction_id": 75966775
+                },
+                {
+                    "date": "2024-08-11",
+                    "description": "Withdrawal",
+                    "amount": 27177.08,
+                    "transaction_id": 63210506
+                }
+            ]
+        }
+    }
+}

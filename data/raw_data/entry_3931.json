@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kimberly Thompson",
+        "age": 88,
+        "gender": "female",
+        "address": "5171 Padilla Isle, South Stephen, NH 33991",
+        "phone": "001-956-794-8266x46175",
+        "email": "bentonstephanie@example.com",
+        "account": {
+            "account_number": "5d4b350c-5460-4257-b2cd-1bff9a32cf3f",
+            "balance": 25260.38,
+            "transactions": [
+                {
+                    "date": "2023-02-26",
+                    "description": "Deposit",
+                    "amount": 24845.3,
+                    "transaction_id": 100020818
+                },
+                {
+                    "date": "2023-02-01",
+                    "description": "Interest",
+                    "amount": 27738.3,
+                    "transaction_id": 43363617
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Bob Smith",
+        "age": 25,
+        "gender": "female",
+        "address": "86220 Jennifer Roads, Port Anthonyport, MN 00772",
+        "phone": "001-461-856-7257x46345",
+        "email": "rodriguezpatty@example.com",
+        "account": {
+            "account_number": "9fc3cf39-dd15-4ad4-a1bf-9b4a39e04d50",
+            "balance": -24630.43,
+            "transactions": [
+                {
+                    "date": "2024-02-13",
+                    "description": "Withdrawal",
+                    "amount": 2242.38,
+                    "transaction_id": 35386021
+                },
+                {
+                    "date": "2023-09-10",
+                    "description": "Interest",
+                    "amount": 3814.77,
+                    "transaction_id": 55636248
+                },
+                {
+                    "date": "2023-05-19",
+                    "description": "Deposit",
+                    "amount": 4725.51,
+                    "transaction_id": 109495841
+                }
+            ]
+        }
+    }
+}

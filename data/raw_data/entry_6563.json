@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Megan Burton",
+        "age": 34,
+        "gender": "male",
+        "address": "15974 Paul Loaf, Lake Reneeton, PR 05929",
+        "phone": "543-445-8922",
+        "email": "kristinpage@example.net",
+        "account": {
+            "account_number": "5204d06f-4d44-475b-93eb-876c5a1ae4f9",
+            "balance": 43129.26,
+            "transactions": [
+                {
+                    "date": "2024-04-18",
+                    "description": "Withdrawal",
+                    "amount": 6569.65,
+                    "transaction_id": 19015381
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Interest",
+                    "amount": 12964.92,
+                    "transaction_id": 106597835
+                },
+                {
+                    "date": "2024-05-09",
+                    "description": "Interest",
+                    "amount": 15501.44,
+                    "transaction_id": 8251485
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Interest",
+                    "amount": 46462.47,
+                    "transaction_id": 111681224
+                }
+            ]
+        }
+    }
+}

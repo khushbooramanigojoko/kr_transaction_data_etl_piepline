@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 40,
+        "gender": "male",
+        "address": "425 Patricia Fort, Brandonport, WA 65090",
+        "phone": "471-327-1500x46184",
+        "email": "meghanpruitt@example.com",
+        "account": {
+            "account_number": "86d5c6b6-bbc6-460d-ad24-8b7d2395a08d",
+            "balance": 45552.72,
+            "transactions": [
+                {
+                    "date": "2022-11-14",
+                    "description": "Withdrawal",
+                    "amount": 4476.74,
+                    "transaction_id": 100605995
+                },
+                {
+                    "date": "2024-07-18",
+                    "description": "Withdrawal",
+                    "amount": 4657.95,
+                    "transaction_id": 95233299
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Withdrawal",
+                    "amount": 4872.33,
+                    "transaction_id": 84728237
+                },
+                {
+                    "date": "2024-05-28",
+                    "description": "Deposit",
+                    "amount": 4571.76,
+                    "transaction_id": 36268529
+                }
+            ]
+        }
+    }
+}

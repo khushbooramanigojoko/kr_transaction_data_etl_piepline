@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Curtis",
+        "age": 27,
+        "gender": "male",
+        "address": "091 Chandler Dale Suite 531, Port Courtney, AZ 47843",
+        "phone": "292.444.8461x77464",
+        "email": "davisandrea@example.com",
+        "account": {
+            "account_number": "6ee54710-8146-4cc2-a21b-ce75c85cfd78",
+            "balance": 47268.3,
+            "transactions": [
+                {
+                    "date": "2024-01-08",
+                    "description": "Deposit",
+                    "amount": 33465.06,
+                    "transaction_id": 13818796
+                }
+            ]
+        }
+    }
+}

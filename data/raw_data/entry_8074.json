@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jeffrey Wilson",
+        "age": 62,
+        "gender": "female",
+        "address": "6285 Martin Shores Apt. 236, Port David, MD 99614",
+        "phone": "772-331-2457x1493",
+        "email": "tbaird@example.com",
+        "account": {
+            "account_number": "ec5616ae-d77e-4cfd-b3f3-50f7aa235be0",
+            "balance": 29387.17,
+            "transactions": [
+                {
+                    "date": "2022-11-02",
+                    "description": "Interest",
+                    "amount": 18159.31,
+                    "transaction_id": 82384176
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Interest",
+                    "amount": 27382.24,
+                    "transaction_id": 95755628
+                }
+            ]
+        }
+    }
+}

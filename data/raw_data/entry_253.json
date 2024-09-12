@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "William Guerrero",
+        "age": 80,
+        "gender": "male",
+        "address": "6336 Brown Lodge, West Kimberlyshire, PA 93802",
+        "phone": "837-474-3009x56809",
+        "email": "russojacob@example.net",
+        "account": {
+            "account_number": "897b2171-bcb3-4269-802f-f9052e8e2319",
+            "balance": 29004.47,
+            "transactions": [
+                {
+                    "date": "2023-10-30",
+                    "description": "Interest",
+                    "amount": 2650.67,
+                    "transaction_id": 106609179
+                },
+                {
+                    "date": "2023-12-23",
+                    "description": "Interest",
+                    "amount": 30915.39,
+                    "transaction_id": 63430881
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Deposit",
+                    "amount": 27535.28,
+                    "transaction_id": 40189891
+                }
+            ]
+        }
+    }
+}

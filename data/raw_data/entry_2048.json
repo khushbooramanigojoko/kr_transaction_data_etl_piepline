@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christina Reyes",
+        "age": 89,
+        "gender": "female",
+        "address": "3553 Miller Fall Suite 184, Harriston, FM 98010",
+        "phone": "2783731456",
+        "email": "kmcconnell@example.net",
+        "account": {
+            "account_number": "9681ceae-1fbd-4d4e-ac56-f4b5a9ce11e2",
+            "balance": 21209.09,
+            "transactions": [
+                {
+                    "date": "2024-01-26",
+                    "description": "Withdrawal",
+                    "amount": 37394.67,
+                    "transaction_id": 51150663
+                }
+            ]
+        }
+    }
+}

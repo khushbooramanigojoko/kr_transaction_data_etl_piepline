@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ruth Wells",
+        "age": 18,
+        "gender": "female",
+        "address": "9131 Kimberly Crest, South Phillip, LA 33495",
+        "phone": "764-748-5809x057",
+        "email": "angelacampbell@example.com",
+        "account": {
+            "account_number": "ef311cd5-dcf1-4e58-a1c0-2b0cd4c1406f",
+            "balance": 30386.84,
+            "transactions": [
+                {
+                    "date": "2024-06-29",
+                    "description": "Interest",
+                    "amount": 25611.61,
+                    "transaction_id": 114925064
+                }
+            ]
+        }
+    }
+}

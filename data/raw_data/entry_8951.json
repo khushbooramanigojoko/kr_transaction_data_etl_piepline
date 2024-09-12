@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Charles Day",
+        "age": 30,
+        "gender": "male",
+        "address": "2672 Roberts Loaf Suite 236, Lake Williamview, IA 05023",
+        "phone": "+1-340-352-1185x28198",
+        "email": "davisjeffrey@example.net",
+        "account": {
+            "account_number": "176115ef-3827-4a09-a628-c99baaa3c46f",
+            "balance": -12549.88,
+            "transactions": [
+                {
+                    "date": "2023-06-06",
+                    "description": "Deposit",
+                    "amount": -1844.96,
+                    "transaction_id": 90925606
+                },
+                {
+                    "date": "2023-12-05",
+                    "description": "Withdrawal",
+                    "amount": 2796.3,
+                    "transaction_id": 9395481
+                },
+                {
+                    "date": "2022-10-20",
+                    "description": "Interest",
+                    "amount": 994.26,
+                    "transaction_id": 106849096
+                }
+            ]
+        }
+    }
+}

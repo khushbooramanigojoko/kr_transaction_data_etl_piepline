@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alexander Hurst",
+        "age": 31,
+        "gender": "female",
+        "address": "Unit 4100 Box 3045, DPO AP 30959",
+        "phone": "001-634-455-0442x54335",
+        "email": "matthewperry@example.com",
+        "account": {
+            "account_number": "4909150d-130e-4767-9ff4-6e4e9ddbead0",
+            "balance": 37599.5,
+            "transactions": [
+                {
+                    "date": "2022-09-11",
+                    "description": "Withdrawal",
+                    "amount": 23444.02,
+                    "transaction_id": 102153307
+                }
+            ]
+        }
+    }
+}

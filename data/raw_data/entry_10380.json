@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 62,
+        "gender": "female",
+        "address": "6322 Miranda Roads, South Loritown, TN 21578",
+        "phone": "(555)810-6436x1266",
+        "email": "qpierce@example.net",
+        "account": {
+            "account_number": "0e98a444-6dec-42f3-bb8f-1948c854ce62",
+            "balance": 34139.12,
+            "transactions": [
+                {
+                    "date": "2023-08-07",
+                    "description": "Withdrawal",
+                    "amount": -254.95,
+                    "transaction_id": 82217515
+                },
+                {
+                    "date": "2023-10-05",
+                    "description": "Deposit",
+                    "amount": 3468.5,
+                    "transaction_id": 108964780
+                }
+            ]
+        }
+    }
+}

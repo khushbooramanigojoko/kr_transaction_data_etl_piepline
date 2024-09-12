@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amber Walter",
+        "age": 19,
+        "gender": "male",
+        "address": "3390 Jackson Spring, East Sara, IL 67386",
+        "phone": "+1-225-574-5050x89436",
+        "email": "qsherman@example.com",
+        "account": {
+            "account_number": "f9629ea9-2d8d-44da-9983-56618a1454a2",
+            "balance": -4180.88,
+            "transactions": [
+                {
+                    "date": "2022-11-23",
+                    "description": "Withdrawal",
+                    "amount": 4817.9,
+                    "transaction_id": 14135534
+                }
+            ]
+        }
+    }
+}

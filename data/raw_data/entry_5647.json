@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Edward Cole",
+        "age": 84,
+        "gender": "female",
+        "address": "62206 Garcia Village Suite 676, Port Stephaniechester, NM 51354",
+        "phone": "001-928-404-6183x9283",
+        "email": "stacey63@example.org",
+        "account": {
+            "account_number": "e3ffc99e-8e76-433b-a1f5-b51c40513c3a",
+            "balance": 25993.54,
+            "transactions": [
+                {
+                    "date": "2024-05-09",
+                    "description": "Deposit",
+                    "amount": 47690.21,
+                    "transaction_id": 47096566
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Deposit",
+                    "amount": 7675.71,
+                    "transaction_id": 111759186
+                }
+            ]
+        }
+    }
+}

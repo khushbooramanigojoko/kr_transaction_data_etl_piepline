@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Emily Johnson",
+        "age": 88,
+        "gender": "male",
+        "address": "09050 Matthew Crescent, North Brucehaven, AZ 55501",
+        "phone": "+1-593-704-4707x175",
+        "email": "markhawkins@example.com",
+        "account": {
+            "account_number": "e9bf4e2c-cb55-4718-bea5-e5165e303788",
+            "balance": 4140.61,
+            "transactions": [
+                {
+                    "date": "2022-10-15",
+                    "description": "Deposit",
+                    "amount": 34662.84,
+                    "transaction_id": 89101645
+                }
+            ]
+        }
+    }
+}

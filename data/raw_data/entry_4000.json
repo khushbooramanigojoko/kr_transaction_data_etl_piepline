@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Crystal Lara",
+        "age": 21,
+        "gender": "male",
+        "address": "603 Marsh Common Suite 644, Lake Aliciaville, MA 64655",
+        "phone": "(277)910-2928x506",
+        "email": "jordan98@example.org",
+        "account": {
+            "account_number": "452158e2-cc00-465f-9cd6-f83db46c0c37",
+            "balance": 38964.86,
+            "transactions": [
+                {
+                    "date": "2022-12-06",
+                    "description": "Interest",
+                    "amount": 42199.77,
+                    "transaction_id": 74118478
+                },
+                {
+                    "date": "2023-04-14",
+                    "description": "Deposit",
+                    "amount": 44597.98,
+                    "transaction_id": 16146063
+                },
+                {
+                    "date": "2023-06-23",
+                    "description": "Interest",
+                    "amount": 2869.09,
+                    "transaction_id": 88887177
+                },
+                {
+                    "date": "2024-08-24",
+                    "description": "Withdrawal",
+                    "amount": 44412.88,
+                    "transaction_id": 28819436
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Withdrawal",
+                    "amount": 5352.75,
+                    "transaction_id": 50193818
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amanda Strickland",
+        "age": 43,
+        "gender": "male",
+        "address": "429 Roberson Throughway, Brianberg, OK 33159",
+        "phone": "(346)260-4312x63446",
+        "email": "padillaemily@example.org",
+        "account": {
+            "account_number": "ef574d14-e8a3-464a-9de8-d4fd0d276c2e",
+            "balance": 46199.93,
+            "transactions": [
+                {
+                    "date": "2023-11-02",
+                    "description": "Interest",
+                    "amount": 34538.68,
+                    "transaction_id": 67354980
+                },
+                {
+                    "date": "2024-01-27",
+                    "description": "Interest",
+                    "amount": 30429.28,
+                    "transaction_id": 75623146
+                },
+                {
+                    "date": "2023-07-20",
+                    "description": "Interest",
+                    "amount": 26970.81,
+                    "transaction_id": 86088378
+                },
+                {
+                    "date": "2023-05-20",
+                    "description": "Withdrawal",
+                    "amount": 10971.73,
+                    "transaction_id": 100590134
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kathleen Stone",
+        "age": 70,
+        "gender": "female",
+        "address": "34922 Robert Courts, Leeville, AL 45846",
+        "phone": "(778)604-1556",
+        "email": "fjones@example.org",
+        "account": {
+            "account_number": "bff8aa8b-ec4a-404c-b239-d40c09aec5c3",
+            "balance": 16409.34,
+            "transactions": [
+                {
+                    "date": "2023-05-01",
+                    "description": "Deposit",
+                    "amount": 38896.72,
+                    "transaction_id": 117208381
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Deposit",
+                    "amount": 7313.42,
+                    "transaction_id": 33563070
+                },
+                {
+                    "date": "2023-12-13",
+                    "description": "Interest",
+                    "amount": 12926.98,
+                    "transaction_id": 38395240
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Withdrawal",
+                    "amount": 19766.09,
+                    "transaction_id": 92230939
+                }
+            ]
+        }
+    }
+}

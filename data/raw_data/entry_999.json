@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Richard Nguyen",
+        "age": 42,
+        "gender": "female",
+        "address": "PSC 2737, Box 5309, APO AE 23523",
+        "phone": "272.411.2274x3265",
+        "email": "emiller@example.com",
+        "account": {
+            "account_number": "6c10b1bb-971f-4754-971c-8eefa5e5ae54",
+            "balance": 49621.07,
+            "transactions": [
+                {
+                    "date": "2023-02-16",
+                    "description": "Deposit",
+                    "amount": 8734.17,
+                    "transaction_id": 93818186
+                },
+                {
+                    "date": "2022-10-19",
+                    "description": "Deposit",
+                    "amount": 4997.08,
+                    "transaction_id": 53627317
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Interest",
+                    "amount": 28142.62,
+                    "transaction_id": 7529228
+                }
+            ]
+        }
+    }
+}

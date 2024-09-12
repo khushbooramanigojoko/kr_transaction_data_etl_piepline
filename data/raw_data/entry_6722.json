@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "William Berry",
+        "age": 85,
+        "gender": "male",
+        "address": "91889 David Isle, Graychester, MS 30162",
+        "phone": "001-350-853-0304x1443",
+        "email": "lewiskaren@example.net",
+        "account": {
+            "account_number": "658db4ca-6afc-4e26-9adf-dc9fe07170d4",
+            "balance": 48432.13,
+            "transactions": [
+                {
+                    "date": "2024-04-22",
+                    "description": "Withdrawal",
+                    "amount": 8095.16,
+                    "transaction_id": 40196055
+                },
+                {
+                    "date": "2024-06-21",
+                    "description": "Interest",
+                    "amount": 27169.05,
+                    "transaction_id": 96549655
+                },
+                {
+                    "date": "2024-04-01",
+                    "description": "Withdrawal",
+                    "amount": 35254.83,
+                    "transaction_id": 102478396
+                },
+                {
+                    "date": "2022-10-10",
+                    "description": "Interest",
+                    "amount": 13531.46,
+                    "transaction_id": 46451400
+                },
+                {
+                    "date": "2023-04-14",
+                    "description": "Withdrawal",
+                    "amount": 13500.54,
+                    "transaction_id": 19361449
+                }
+            ]
+        }
+    }
+}

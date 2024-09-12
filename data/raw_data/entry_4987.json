@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stephen Mcgrath",
+        "age": 18,
+        "gender": "male",
+        "address": "6155 Sherry Lakes, South Jenniferside, WA 13398",
+        "phone": "2009193677",
+        "email": "ijacobs@example.org",
+        "account": {
+            "account_number": "48661d61-ffe4-40c1-8998-e09893f68d12",
+            "balance": 31772.17,
+            "transactions": [
+                {
+                    "date": "2023-12-29",
+                    "description": "Withdrawal",
+                    "amount": 19184.98,
+                    "transaction_id": 5431293
+                }
+            ]
+        }
+    }
+}

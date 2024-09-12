@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jaclyn Martin",
+        "age": 96,
+        "gender": "female",
+        "address": "7861 Klein Mill Suite 970, Port Brittney, LA 82610",
+        "phone": "6427495634",
+        "email": "lmartinez@example.com",
+        "account": {
+            "account_number": "33d5bcad-5fe1-47a5-aaab-196171b3ac95",
+            "balance": 9126.81,
+            "transactions": [
+                {
+                    "date": "2023-03-30",
+                    "description": "Deposit",
+                    "amount": 6406.07,
+                    "transaction_id": 31884568
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Deposit",
+                    "amount": 19950.98,
+                    "transaction_id": 19565157
+                }
+            ]
+        }
+    }
+}

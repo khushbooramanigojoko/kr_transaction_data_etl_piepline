@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christine Sanders",
+        "age": 29,
+        "gender": "female",
+        "address": "75211 Chandler Terrace, Hendersonstad, MP 86359",
+        "phone": "+1-607-555-5227x028",
+        "email": "nicole17@example.org",
+        "account": {
+            "account_number": "a39777d3-1ba3-42f9-bc8a-fa033e230b07",
+            "balance": -26844.75,
+            "transactions": [
+                {
+                    "date": "2022-12-11",
+                    "description": "Withdrawal",
+                    "amount": 2049.38,
+                    "transaction_id": 41283931
+                },
+                {
+                    "date": "2023-09-18",
+                    "description": "Interest",
+                    "amount": 498.8,
+                    "transaction_id": 46658805
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Deposit",
+                    "amount": -1393.64,
+                    "transaction_id": 98459587
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Deposit",
+                    "amount": 3451.86,
+                    "transaction_id": 116854096
+                }
+            ]
+        }
+    }
+}

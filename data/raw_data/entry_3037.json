@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Samuel Gross",
+        "age": 20,
+        "gender": "male",
+        "address": "55832 Martin Estate, New Zacharyborough, AR 15315",
+        "phone": "(753)730-3551",
+        "email": "acostaashley@example.com",
+        "account": {
+            "account_number": "7b43ed46-c002-4bce-bfd6-671a5279fc8c",
+            "balance": 46194.61,
+            "transactions": [
+                {
+                    "date": "2023-11-04",
+                    "description": "Interest",
+                    "amount": 18856.11,
+                    "transaction_id": 21013272
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Deposit",
+                    "amount": 49592.94,
+                    "transaction_id": 59917658
+                },
+                {
+                    "date": "2023-07-01",
+                    "description": "Deposit",
+                    "amount": 11284.83,
+                    "transaction_id": 72253778
+                }
+            ]
+        }
+    }
+}

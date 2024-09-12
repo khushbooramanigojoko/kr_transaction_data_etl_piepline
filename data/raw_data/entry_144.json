@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Austin Miller",
+        "age": 60,
+        "gender": "female",
+        "address": "539 Fritz River, Perkinsborough, SD 71203",
+        "phone": "596-984-9750x16707",
+        "email": "davislauren@example.net",
+        "account": {
+            "account_number": "71c02282-eb14-40be-9233-323d5b6c7c7d",
+            "balance": 28961.79,
+            "transactions": [
+                {
+                    "date": "2023-06-13",
+                    "description": "Deposit",
+                    "amount": 15276.21,
+                    "transaction_id": 75555966
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Interest",
+                    "amount": 44555.82,
+                    "transaction_id": 66924143
+                },
+                {
+                    "date": "2024-02-26",
+                    "description": "Interest",
+                    "amount": 28598.22,
+                    "transaction_id": 85813276
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Withdrawal",
+                    "amount": 6538.47,
+                    "transaction_id": 5668663
+                },
+                {
+                    "date": "2023-11-12",
+                    "description": "Interest",
+                    "amount": 11119.6,
+                    "transaction_id": 8403982
+                }
+            ]
+        }
+    }
+}

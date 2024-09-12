@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 80,
+        "gender": "female",
+        "address": "88349 Justin Inlet Apt. 032, Matthewbury, NJ 69438",
+        "phone": "330.476.4487",
+        "email": "jessica44@example.net",
+        "account": {
+            "account_number": "b5454dae-c619-4bd8-aeab-0bfbe0d06096",
+            "balance": 39489.11,
+            "transactions": [
+                {
+                    "date": "2023-07-03",
+                    "description": "Withdrawal",
+                    "amount": -4432.23,
+                    "transaction_id": 34344289
+                },
+                {
+                    "date": "2022-10-12",
+                    "description": "Deposit",
+                    "amount": 6.4,
+                    "transaction_id": 8216999
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Withdrawal",
+                    "amount": 3625.78,
+                    "transaction_id": 90459360
+                },
+                {
+                    "date": "2024-07-14",
+                    "description": "Interest",
+                    "amount": 2935.72,
+                    "transaction_id": 64883644
+                },
+                {
+                    "date": "2024-04-17",
+                    "description": "Interest",
+                    "amount": 1942.17,
+                    "transaction_id": 69703967
+                }
+            ]
+        }
+    }
+}

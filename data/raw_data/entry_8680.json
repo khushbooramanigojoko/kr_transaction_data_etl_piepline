@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ryan Edwards",
+        "age": 79,
+        "gender": "female",
+        "address": "91796 Richard Greens Suite 160, West Andrew, PW 97130",
+        "phone": "001-348-572-0679x43935",
+        "email": "morenochad@example.net",
+        "account": {
+            "account_number": "cda16ad3-310c-414b-a204-89d0fa34fa33",
+            "balance": 29614.01,
+            "transactions": [
+                {
+                    "date": "2024-08-29",
+                    "description": "Interest",
+                    "amount": 31454.9,
+                    "transaction_id": 96662334
+                },
+                {
+                    "date": "2023-03-18",
+                    "description": "Withdrawal",
+                    "amount": 36111.32,
+                    "transaction_id": 4247189
+                },
+                {
+                    "date": "2023-05-31",
+                    "description": "Deposit",
+                    "amount": 11979.5,
+                    "transaction_id": 119301671
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Withdrawal",
+                    "amount": 2063.61,
+                    "transaction_id": 103427742
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mark Hogan",
+        "age": 28,
+        "gender": "female",
+        "address": "PSC 8729, Box 6102, APO AA 26193",
+        "phone": "001-568-993-5221x06692",
+        "email": "melissanewman@example.net",
+        "account": {
+            "account_number": "ba7a4466-af4d-4cf7-9621-2641c4a86a7a",
+            "balance": 42425.17,
+            "transactions": [
+                {
+                    "date": "2024-08-08",
+                    "description": "Interest",
+                    "amount": 38212.39,
+                    "transaction_id": 115457705
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Withdrawal",
+                    "amount": 31919.37,
+                    "transaction_id": 113858836
+                },
+                {
+                    "date": "2024-06-13",
+                    "description": "Deposit",
+                    "amount": 25355.47,
+                    "transaction_id": 36364086
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Withdrawal",
+                    "amount": 13769.83,
+                    "transaction_id": 90161454
+                }
+            ]
+        }
+    }
+}

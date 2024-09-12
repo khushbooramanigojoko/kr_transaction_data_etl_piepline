@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 70,
+        "gender": "female",
+        "address": "66445 Julia Passage Suite 331, New Nancy, MI 73143",
+        "phone": "001-699-840-0504x1653",
+        "email": "lauren04@example.com",
+        "account": {
+            "account_number": "4c282a19-0baf-4e62-90ff-18f262fa8ceb",
+            "balance": 24490.67,
+            "transactions": [
+                {
+                    "date": "2024-05-07",
+                    "description": "Deposit",
+                    "amount": 4771.27,
+                    "transaction_id": 32307699
+                },
+                {
+                    "date": "2023-12-29",
+                    "description": "Interest",
+                    "amount": -967.57,
+                    "transaction_id": 35183147
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Withdrawal",
+                    "amount": -4323.65,
+                    "transaction_id": 16971230
+                },
+                {
+                    "date": "2024-01-20",
+                    "description": "Interest",
+                    "amount": -1088.31,
+                    "transaction_id": 52982724
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Deposit",
+                    "amount": -3139.71,
+                    "transaction_id": 21381223
+                }
+            ]
+        }
+    }
+}

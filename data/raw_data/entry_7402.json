@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Anthony Fernandez",
+        "age": 41,
+        "gender": "female",
+        "address": "82841 Kaitlin Estate Suite 429, Port Bradleyfort, ME 84750",
+        "phone": "974-809-3704",
+        "email": "maria03@example.org",
+        "account": {
+            "account_number": "4b2dcb6b-7e0f-4bb8-9eae-c4e108a793de",
+            "balance": 45334.93,
+            "transactions": [
+                {
+                    "date": "2023-10-07",
+                    "description": "Withdrawal",
+                    "amount": 48001.24,
+                    "transaction_id": 72284236
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Gene Roberts",
+        "age": 69,
+        "gender": "male",
+        "address": "2746 Freeman Rapids, Lake Nataliehaven, MI 14816",
+        "phone": "948-634-8933",
+        "email": "alicia92@example.com",
+        "account": {
+            "account_number": "43c58bf5-388c-44df-b011-d353b5272e16",
+            "balance": 32163.22,
+            "transactions": [
+                {
+                    "date": "2024-03-07",
+                    "description": "Deposit",
+                    "amount": 23142.01,
+                    "transaction_id": 108986399
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Deposit",
+                    "amount": 36465.83,
+                    "transaction_id": 26664507
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Withdrawal",
+                    "amount": 10250.89,
+                    "transaction_id": 30868823
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Withdrawal",
+                    "amount": 585.45,
+                    "transaction_id": 86062920
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Deposit",
+                    "amount": 47267.46,
+                    "transaction_id": 19047743
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Antonio Williams",
+        "age": 44,
+        "gender": "male",
+        "address": "93638 Perry Point Suite 736, Garciafurt, MP 28468",
+        "phone": "965.662.9317x3229",
+        "email": "erin15@example.org",
+        "account": {
+            "account_number": "d29467fe-30fd-4dd8-bf92-256d9a14a6c0",
+            "balance": 29238.53,
+            "transactions": [
+                {
+                    "date": "2023-07-22",
+                    "description": "Deposit",
+                    "amount": 36621.04,
+                    "transaction_id": 92246559
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Deposit",
+                    "amount": 19938.11,
+                    "transaction_id": 55855658
+                }
+            ]
+        }
+    }
+}

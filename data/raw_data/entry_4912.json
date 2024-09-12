@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Todd Schwartz",
+        "age": 76,
+        "gender": "male",
+        "address": "112 Henderson Ports Apt. 355, Scottborough, NY 58434",
+        "phone": "594.270.1291",
+        "email": "stevenwood@example.net",
+        "account": {
+            "account_number": "ab846198-13b8-409b-9b68-04d380b0078b",
+            "balance": 9329.35,
+            "transactions": [
+                {
+                    "date": "2024-01-31",
+                    "description": "Interest",
+                    "amount": 1757.96,
+                    "transaction_id": 1438264
+                },
+                {
+                    "date": "2024-05-26",
+                    "description": "Deposit",
+                    "amount": 29243.42,
+                    "transaction_id": 43368224
+                }
+            ]
+        }
+    }
+}

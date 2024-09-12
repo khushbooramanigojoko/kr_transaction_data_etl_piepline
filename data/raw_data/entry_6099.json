@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Emily Rice",
+        "age": 58,
+        "gender": "female",
+        "address": "Unit 1179 Box 6818, DPO AE 08240",
+        "phone": "(889)557-0491",
+        "email": "emilyjones@example.net",
+        "account": {
+            "account_number": "4c190947-6870-4673-a41e-e6483323aba5",
+            "balance": 20467.86,
+            "transactions": [
+                {
+                    "date": "2022-09-09",
+                    "description": "Withdrawal",
+                    "amount": 7745.69,
+                    "transaction_id": 3833919
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Interest",
+                    "amount": 926.11,
+                    "transaction_id": 102218693
+                },
+                {
+                    "date": "2024-03-24",
+                    "description": "Withdrawal",
+                    "amount": 8964.14,
+                    "transaction_id": 71778932
+                },
+                {
+                    "date": "2024-03-19",
+                    "description": "Deposit",
+                    "amount": 7288.55,
+                    "transaction_id": 118369388
+                },
+                {
+                    "date": "2022-09-05",
+                    "description": "Interest",
+                    "amount": 44732.78,
+                    "transaction_id": 112879139
+                }
+            ]
+        }
+    }
+}

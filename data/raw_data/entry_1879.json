@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kyle Tate",
+        "age": 30,
+        "gender": "male",
+        "address": "49571 Crystal Roads, East Karenshire, FM 10921",
+        "phone": "678.387.6350x4191",
+        "email": "clarkmaria@example.net",
+        "account": {
+            "account_number": "11581006-db27-4df3-b567-424054dca1aa",
+            "balance": 29942.53,
+            "transactions": [
+                {
+                    "date": "2023-09-17",
+                    "description": "Withdrawal",
+                    "amount": 36261.35,
+                    "transaction_id": 54971364
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Interest",
+                    "amount": 30445.33,
+                    "transaction_id": 58817578
+                }
+            ]
+        }
+    }
+}

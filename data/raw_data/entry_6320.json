@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mrs. Vanessa Guzman",
+        "age": 71,
+        "gender": "female",
+        "address": "74224 Crystal Curve, Swansonbury, CO 83985",
+        "phone": "(532)839-4147",
+        "email": "john17@example.net",
+        "account": {
+            "account_number": "8a0ebc77-b170-43b5-a69f-976ed23cd220",
+            "balance": 10668.74,
+            "transactions": [
+                {
+                    "date": "2023-10-06",
+                    "description": "Deposit",
+                    "amount": 2544.0,
+                    "transaction_id": 59284773
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Deposit",
+                    "amount": 19750.33,
+                    "transaction_id": 34992442
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Interest",
+                    "amount": 47105.74,
+                    "transaction_id": 52820690
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Deposit",
+                    "amount": 21464.05,
+                    "transaction_id": 75012738
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jason Fowler",
+        "age": 31,
+        "gender": "female",
+        "address": "5125 Gonzalez Path, East Taylor, VA 87189",
+        "phone": "657.492.3408x071",
+        "email": "sheryldavis@example.com",
+        "account": {
+            "account_number": "bd539502-834e-4d78-a180-a101550bfa55",
+            "balance": 38328.33,
+            "transactions": [
+                {
+                    "date": "2024-04-16",
+                    "description": "Deposit",
+                    "amount": 12923.96,
+                    "transaction_id": 32229025
+                }
+            ]
+        }
+    }
+}

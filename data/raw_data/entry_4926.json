@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Evan Willis",
+        "age": 66,
+        "gender": "female",
+        "address": "53726 Michael Falls Apt. 808, Jonathanland, CA 63984",
+        "phone": "001-440-459-7216x214",
+        "email": "kmorris@example.com",
+        "account": {
+            "account_number": "1d1109d8-8d55-42cc-8205-62666aa91e18",
+            "balance": 21932.34,
+            "transactions": [
+                {
+                    "date": "2023-01-23",
+                    "description": "Interest",
+                    "amount": 22164.45,
+                    "transaction_id": 75106145
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Withdrawal",
+                    "amount": 32539.36,
+                    "transaction_id": 23148106
+                },
+                {
+                    "date": "2024-05-08",
+                    "description": "Deposit",
+                    "amount": 44514.8,
+                    "transaction_id": 116480640
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Interest",
+                    "amount": 41117.44,
+                    "transaction_id": 32965998
+                }
+            ]
+        }
+    }
+}

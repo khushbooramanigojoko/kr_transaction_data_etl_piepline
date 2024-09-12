@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 22,
+        "gender": "male",
+        "address": "52421 Gibson Knolls Suite 682, South Paulport, ND 14522",
+        "phone": "3234732940",
+        "email": "daniel42@example.com",
+        "account": {
+            "account_number": "853989c3-73c9-4228-92cf-31783d789250",
+            "balance": 38185.22,
+            "transactions": [
+                {
+                    "date": "2024-01-25",
+                    "description": "Withdrawal",
+                    "amount": 1402.6,
+                    "transaction_id": 50688791
+                }
+            ]
+        }
+    }
+}

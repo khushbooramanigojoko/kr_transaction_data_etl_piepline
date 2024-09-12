@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tammy Hicks",
+        "age": 40,
+        "gender": "male",
+        "address": "98329 Amy Street, Tuckerfurt, CO 77756",
+        "phone": "(285)987-6272x307",
+        "email": "richardlewis@example.net",
+        "account": {
+            "account_number": "91303f34-e649-4184-8da5-13f47c64749e",
+            "balance": 27095.97,
+            "transactions": [
+                {
+                    "date": "2022-10-02",
+                    "description": "Withdrawal",
+                    "amount": 27252.58,
+                    "transaction_id": 118575079
+                }
+            ]
+        }
+    }
+}

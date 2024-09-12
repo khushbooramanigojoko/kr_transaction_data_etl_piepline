@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Manuel Costa",
+        "age": 81,
+        "gender": "male",
+        "address": "525 Bobby Loaf, New Ashley, ID 52948",
+        "phone": "+1-858-972-8090x82978",
+        "email": "david39@example.org",
+        "account": {
+            "account_number": "bb42a262-7eea-4809-a725-44c6581595b0",
+            "balance": 16839.02,
+            "transactions": [
+                {
+                    "date": "2022-10-16",
+                    "description": "Deposit",
+                    "amount": 16853.2,
+                    "transaction_id": 73195392
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Interest",
+                    "amount": 35978.82,
+                    "transaction_id": 25199605
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Interest",
+                    "amount": 14913.7,
+                    "transaction_id": 25497832
+                }
+            ]
+        }
+    }
+}

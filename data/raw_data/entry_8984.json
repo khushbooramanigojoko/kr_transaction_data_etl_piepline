@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 90,
+        "gender": "male",
+        "address": "064 Mitchell Village Suite 330, East Holly, IA 24764",
+        "phone": "(233)959-5655",
+        "email": "mmurphy@example.org",
+        "account": {
+            "account_number": "f9574994-4fef-40d3-a9e3-6f0241b5f7a5",
+            "balance": 21079.15,
+            "transactions": [
+                {
+                    "date": "2023-03-24",
+                    "description": "Interest",
+                    "amount": -1593.35,
+                    "transaction_id": 13074438
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Benjamin Oconnor",
+        "age": 36,
+        "gender": "female",
+        "address": "56202 Morales Ford, East Michael, FM 08302",
+        "phone": "656.896.9140",
+        "email": "boothdale@example.net",
+        "account": {
+            "account_number": "bf471815-b358-4219-9003-2271f73a7ec1",
+            "balance": 34481.84,
+            "transactions": [
+                {
+                    "date": "2022-11-06",
+                    "description": "Withdrawal",
+                    "amount": 42961.82,
+                    "transaction_id": 63869807
+                },
+                {
+                    "date": "2023-11-08",
+                    "description": "Deposit",
+                    "amount": 38334.61,
+                    "transaction_id": 86562892
+                },
+                {
+                    "date": "2023-10-20",
+                    "description": "Deposit",
+                    "amount": 13249.31,
+                    "transaction_id": 114601616
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Deposit",
+                    "amount": 2806.09,
+                    "transaction_id": 37743083
+                }
+            ]
+        }
+    }
+}

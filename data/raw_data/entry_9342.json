@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Elizabeth Reed",
+        "age": 60,
+        "gender": "female",
+        "address": "782 Freeman Drives Suite 712, North Jonathan, NE 72616",
+        "phone": "001-464-457-2343x88825",
+        "email": "zthompson@example.net",
+        "account": {
+            "account_number": "17b267fa-8540-4c9e-923b-f42de683a26b",
+            "balance": -7123.59,
+            "transactions": [
+                {
+                    "date": "2024-04-28",
+                    "description": "Deposit",
+                    "amount": -2040.56,
+                    "transaction_id": 47376551
+                },
+                {
+                    "date": "2024-03-14",
+                    "description": "Interest",
+                    "amount": 2290.94,
+                    "transaction_id": 110481594
+                },
+                {
+                    "date": "2024-02-02",
+                    "description": "Withdrawal",
+                    "amount": 2771.53,
+                    "transaction_id": 106198833
+                },
+                {
+                    "date": "2023-01-28",
+                    "description": "Deposit",
+                    "amount": -1619.11,
+                    "transaction_id": 51945165
+                },
+                {
+                    "date": "2024-04-13",
+                    "description": "Deposit",
+                    "amount": -4091.57,
+                    "transaction_id": 71724307
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brittany Schultz",
+        "age": 42,
+        "gender": "female",
+        "address": "23660 Kimberly Vista, New Johnmouth, TN 69841",
+        "phone": "527.655.3499",
+        "email": "katherine41@example.com",
+        "account": {
+            "account_number": "a86d680f-28ec-4d12-aaf2-0b006be8714d",
+            "balance": 24874.26,
+            "transactions": [
+                {
+                    "date": "2023-05-28",
+                    "description": "Withdrawal",
+                    "amount": 29561.3,
+                    "transaction_id": 44375658
+                }
+            ]
+        }
+    }
+}

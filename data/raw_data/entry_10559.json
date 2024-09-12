@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mario Reed MD",
+        "age": 67,
+        "gender": "male",
+        "address": "1615 Rosario Ford, West Lauraburgh, TN 39039",
+        "phone": "001-715-371-7828x09427",
+        "email": "anthonyturner@example.net",
+        "account": {
+            "account_number": "e3562551-41d0-458c-bf32-ae641da10a79",
+            "balance": -46858.22,
+            "transactions": [
+                {
+                    "date": "2022-09-30",
+                    "description": "Interest",
+                    "amount": -1076.45,
+                    "transaction_id": 1640416
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Interest",
+                    "amount": 3034.28,
+                    "transaction_id": 56034919
+                },
+                {
+                    "date": "2023-10-08",
+                    "description": "Withdrawal",
+                    "amount": -4224.38,
+                    "transaction_id": 63061884
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alexandra Gonzalez",
+        "age": 61,
+        "gender": "male",
+        "address": "732 Don Fort Apt. 168, Jennifershire, DC 82585",
+        "phone": "687-627-3258x662",
+        "email": "larrycallahan@example.net",
+        "account": {
+            "account_number": "ac5562f7-0be9-4dc3-987c-1310e1bd969f",
+            "balance": 1491.47,
+            "transactions": [
+                {
+                    "date": "2023-07-30",
+                    "description": "Deposit",
+                    "amount": 13077.3,
+                    "transaction_id": 50613743
+                },
+                {
+                    "date": "2022-11-29",
+                    "description": "Deposit",
+                    "amount": 29863.55,
+                    "transaction_id": 93215126
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Withdrawal",
+                    "amount": 43811.56,
+                    "transaction_id": 90713866
+                },
+                {
+                    "date": "2022-12-11",
+                    "description": "Deposit",
+                    "amount": 47231.06,
+                    "transaction_id": 35726409
+                }
+            ]
+        }
+    }
+}

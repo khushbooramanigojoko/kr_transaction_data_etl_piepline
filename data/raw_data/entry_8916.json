@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 19,
+        "gender": "female",
+        "address": "40315 Glover Terrace, North Stephen, VI 32090",
+        "phone": "570-445-6672x5871",
+        "email": "tyler45@example.org",
+        "account": {
+            "account_number": "d0057cdb-861e-4978-ab90-a1dcf8e32aaf",
+            "balance": 45565.37,
+            "transactions": [
+                {
+                    "date": "2023-11-15",
+                    "description": "Deposit",
+                    "amount": 4949.63,
+                    "transaction_id": 5916555
+                },
+                {
+                    "date": "2024-04-04",
+                    "description": "Interest",
+                    "amount": -3368.07,
+                    "transaction_id": 31145544
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Deposit",
+                    "amount": 2686.97,
+                    "transaction_id": 69911662
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Interest",
+                    "amount": -2602.58,
+                    "transaction_id": 36363499
+                }
+            ]
+        }
+    }
+}

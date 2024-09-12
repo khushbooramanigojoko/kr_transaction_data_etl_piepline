@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kayla Alvarez",
+        "age": 36,
+        "gender": "male",
+        "address": "322 Frank Radial, Rogertown, NJ 93759",
+        "phone": "277.287.8979x311",
+        "email": "ldavis@example.org",
+        "account": {
+            "account_number": "98d4c389-d812-4eb6-aa95-479868fd7bd0",
+            "balance": 47924.13,
+            "transactions": [
+                {
+                    "date": "2023-01-23",
+                    "description": "Interest",
+                    "amount": 48253.83,
+                    "transaction_id": 82692040
+                }
+            ]
+        }
+    }
+}

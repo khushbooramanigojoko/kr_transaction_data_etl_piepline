@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Scott Roberts",
+        "age": 59,
+        "gender": "male",
+        "address": "788 Clark Plaza Suite 646, North Virginia, OH 39597",
+        "phone": "843.436.6458x078",
+        "email": "hannahwheeler@example.org",
+        "account": {
+            "account_number": "97beb2bb-9633-43a3-b9a2-03830475ba41",
+            "balance": 42923.82,
+            "transactions": [
+                {
+                    "date": "2022-11-09",
+                    "description": "Withdrawal",
+                    "amount": 16779.27,
+                    "transaction_id": 79550503
+                },
+                {
+                    "date": "2024-02-14",
+                    "description": "Deposit",
+                    "amount": 11366.75,
+                    "transaction_id": 43300434
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Deposit",
+                    "amount": 32230.75,
+                    "transaction_id": 80572760
+                },
+                {
+                    "date": "2024-08-30",
+                    "description": "Deposit",
+                    "amount": 3540.6,
+                    "transaction_id": 3935786
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Deposit",
+                    "amount": 39189.77,
+                    "transaction_id": 73270713
+                }
+            ]
+        }
+    }
+}

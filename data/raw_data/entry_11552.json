@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 79,
+        "gender": "male",
+        "address": "3774 Kara Squares Apt. 090, Smithland, MS 59638",
+        "phone": "591.711.6133x7282",
+        "email": "gholmes@example.org",
+        "account": {
+            "account_number": "f295cbc2-c913-4be2-b15f-fbe899ed5333",
+            "balance": 25693.97,
+            "transactions": [
+                {
+                    "date": "2023-11-16",
+                    "description": "Interest",
+                    "amount": -2791.39,
+                    "transaction_id": 3290468
+                }
+            ]
+        }
+    }
+}

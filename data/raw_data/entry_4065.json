@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dr. Laurie Tucker",
+        "age": 97,
+        "gender": "female",
+        "address": "5109 Saunders Crest, North Kristinastad, PW 32339",
+        "phone": "942.570.3640x6072",
+        "email": "lindseylopez@example.com",
+        "account": {
+            "account_number": "d98aa61b-d3fa-4f30-a8a9-4213d64008ee",
+            "balance": 12802.14,
+            "transactions": [
+                {
+                    "date": "2023-04-02",
+                    "description": "Deposit",
+                    "amount": 27456.66,
+                    "transaction_id": 52234776
+                }
+            ]
+        }
+    }
+}

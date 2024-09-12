@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dominic Evans",
+        "age": 98,
+        "gender": "male",
+        "address": "576 Lauren Plain, Escobarstad, MS 16739",
+        "phone": "001-753-717-9541",
+        "email": "perezkathy@example.com",
+        "account": {
+            "account_number": "c848beec-8ff3-4a06-bb9d-9f5b4a129c9a",
+            "balance": -26333.5,
+            "transactions": [
+                {
+                    "date": "2024-08-20",
+                    "description": "Deposit",
+                    "amount": -4128.49,
+                    "transaction_id": 75924629
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Interest",
+                    "amount": -1391.02,
+                    "transaction_id": 23127320
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Deposit",
+                    "amount": -306.77,
+                    "transaction_id": 44770850
+                },
+                {
+                    "date": "2023-08-30",
+                    "description": "Interest",
+                    "amount": 689.2,
+                    "transaction_id": 86781973
+                }
+            ]
+        }
+    }
+}

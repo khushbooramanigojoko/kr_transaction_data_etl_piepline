@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joanna Thompson",
+        "age": 23,
+        "gender": "male",
+        "address": "PSC 7165, Box 4887, APO AE 12645",
+        "phone": "712-683-1799x47204",
+        "email": "richard43@example.org",
+        "account": {
+            "account_number": "ff5e3193-a9f8-4e11-a76d-f6e7a86fc6f0",
+            "balance": 35193.91,
+            "transactions": [
+                {
+                    "date": "2024-06-29",
+                    "description": "Interest",
+                    "amount": 16860.6,
+                    "transaction_id": 19367962
+                }
+            ]
+        }
+    }
+}

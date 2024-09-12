@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kevin Gamble",
+        "age": 22,
+        "gender": "male",
+        "address": "084 Bruce Light Suite 594, Nicholsberg, FL 91711",
+        "phone": "635-712-2292x611",
+        "email": "aliciaduarte@example.com",
+        "account": {
+            "account_number": "1a154a1e-43c7-4cd5-89e2-f44d81e2870f",
+            "balance": 49202.31,
+            "transactions": [
+                {
+                    "date": "2024-07-17",
+                    "description": "Deposit",
+                    "amount": 47714.45,
+                    "transaction_id": 106077965
+                }
+            ]
+        }
+    }
+}

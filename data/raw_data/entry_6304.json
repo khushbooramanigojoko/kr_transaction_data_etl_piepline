@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Cheryl Costa",
+        "age": 61,
+        "gender": "female",
+        "address": "45641 Rachel Curve Apt. 392, Lake Richard, OR 08888",
+        "phone": "4653436446",
+        "email": "mmurray@example.com",
+        "account": {
+            "account_number": "2b3febe6-fee4-42b3-bfc1-2862555e0683",
+            "balance": 4797.61,
+            "transactions": [
+                {
+                    "date": "2023-05-28",
+                    "description": "Interest",
+                    "amount": 32139.42,
+                    "transaction_id": 92271952
+                },
+                {
+                    "date": "2023-07-08",
+                    "description": "Deposit",
+                    "amount": 22104.79,
+                    "transaction_id": 118082780
+                }
+            ]
+        }
+    }
+}

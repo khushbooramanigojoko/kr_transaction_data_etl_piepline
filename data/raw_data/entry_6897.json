@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mary Combs",
+        "age": 88,
+        "gender": "female",
+        "address": "86176 Cynthia Lakes, Davidshire, FL 56800",
+        "phone": "742-834-6957",
+        "email": "beckgerald@example.net",
+        "account": {
+            "account_number": "386c3e2e-7330-484f-9cd7-4a15a715fc52",
+            "balance": 38645.73,
+            "transactions": [
+                {
+                    "date": "2023-12-01",
+                    "description": "Withdrawal",
+                    "amount": 28724.42,
+                    "transaction_id": 67659475
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Withdrawal",
+                    "amount": 14072.23,
+                    "transaction_id": 83453766
+                },
+                {
+                    "date": "2022-10-25",
+                    "description": "Deposit",
+                    "amount": 18870.48,
+                    "transaction_id": 80413802
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Deposit",
+                    "amount": 8638.29,
+                    "transaction_id": 24968038
+                },
+                {
+                    "date": "2023-09-30",
+                    "description": "Withdrawal",
+                    "amount": 8448.86,
+                    "transaction_id": 1531401
+                }
+            ]
+        }
+    }
+}

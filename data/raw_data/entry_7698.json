@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lance Sims",
+        "age": 72,
+        "gender": "female",
+        "address": "7574 Hannah Squares, South Adamside, NM 86381",
+        "phone": "726.349.9046x15328",
+        "email": "wbaker@example.net",
+        "account": {
+            "account_number": "f33a662a-2362-4fe3-af8b-421e6d02764a",
+            "balance": 31587.39,
+            "transactions": [
+                {
+                    "date": "2023-02-08",
+                    "description": "Interest",
+                    "amount": 27216.63,
+                    "transaction_id": 110909220
+                },
+                {
+                    "date": "2023-10-21",
+                    "description": "Withdrawal",
+                    "amount": 43096.18,
+                    "transaction_id": 42606944
+                }
+            ]
+        }
+    }
+}

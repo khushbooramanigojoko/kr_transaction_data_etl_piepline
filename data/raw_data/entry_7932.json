@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Dawn Robinson",
+        "age": 36,
+        "gender": "male",
+        "address": "748 Estrada Junction Apt. 557, Barrettberg, MP 57002",
+        "phone": "001-937-223-2147x37934",
+        "email": "fowlerbrittany@example.net",
+        "account": {
+            "account_number": "2308b83e-8f16-49e4-ab96-38281532ec78",
+            "balance": 46894.0,
+            "transactions": [
+                {
+                    "date": "2024-01-11",
+                    "description": "Withdrawal",
+                    "amount": 6078.63,
+                    "transaction_id": 109422499
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Interest",
+                    "amount": 36187.25,
+                    "transaction_id": 43598558
+                }
+            ]
+        }
+    }
+}

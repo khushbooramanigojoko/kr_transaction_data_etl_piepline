@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Juan Galloway",
+        "age": 93,
+        "gender": "male",
+        "address": "436 Laura Trail Suite 351, South Kellyland, VT 59718",
+        "phone": "219-662-5896",
+        "email": "brownpeggy@example.com",
+        "account": {
+            "account_number": "56ee14bb-23c4-4459-8185-7923a479c3f3",
+            "balance": -12150.82,
+            "transactions": [
+                {
+                    "date": "2023-09-03",
+                    "description": "Withdrawal",
+                    "amount": 4114.94,
+                    "transaction_id": 39434776
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Withdrawal",
+                    "amount": 3556.91,
+                    "transaction_id": 54569617
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Withdrawal",
+                    "amount": 3988.31,
+                    "transaction_id": 110518215
+                },
+                {
+                    "date": "2024-02-08",
+                    "description": "Deposit",
+                    "amount": 1384.72,
+                    "transaction_id": 66288646
+                },
+                {
+                    "date": "2023-09-11",
+                    "description": "Interest",
+                    "amount": 3507.56,
+                    "transaction_id": 6814184
+                }
+            ]
+        }
+    }
+}

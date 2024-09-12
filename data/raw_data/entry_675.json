@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Courtney Mcconnell",
+        "age": 19,
+        "gender": "female",
+        "address": "091 Butler Run, Shawnchester, CT 16046",
+        "phone": "917-768-5984x75052",
+        "email": "schapman@example.com",
+        "account": {
+            "account_number": "e4404bac-9087-459a-afa4-f2ac5bf30e3b",
+            "balance": 30762.39,
+            "transactions": [
+                {
+                    "date": "2024-04-27",
+                    "description": "Withdrawal",
+                    "amount": 39422.44,
+                    "transaction_id": 67541088
+                },
+                {
+                    "date": "2024-06-17",
+                    "description": "Deposit",
+                    "amount": 39218.75,
+                    "transaction_id": 64278240
+                },
+                {
+                    "date": "2023-07-09",
+                    "description": "Deposit",
+                    "amount": 27245.33,
+                    "transaction_id": 13469922
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Interest",
+                    "amount": 36757.96,
+                    "transaction_id": 30732248
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Deposit",
+                    "amount": 25980.8,
+                    "transaction_id": 31808907
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Nelson",
+        "age": 65,
+        "gender": "female",
+        "address": "00737 Gomez Station, Robinsonshire, FL 15021",
+        "phone": "(703)274-9978x087",
+        "email": "csimpson@example.net",
+        "account": {
+            "account_number": "594b7c18-6ee8-4e28-a75b-93db1877245a",
+            "balance": 44064.33,
+            "transactions": [
+                {
+                    "date": "2024-04-02",
+                    "description": "Interest",
+                    "amount": 38047.02,
+                    "transaction_id": 26693017
+                },
+                {
+                    "date": "2023-01-21",
+                    "description": "Interest",
+                    "amount": 4320.78,
+                    "transaction_id": 113408329
+                },
+                {
+                    "date": "2023-04-03",
+                    "description": "Withdrawal",
+                    "amount": 1457.43,
+                    "transaction_id": 95790719
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Interest",
+                    "amount": 43331.91,
+                    "transaction_id": 101514572
+                }
+            ]
+        }
+    }
+}

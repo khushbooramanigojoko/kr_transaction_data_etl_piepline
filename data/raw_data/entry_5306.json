@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Terri Banks",
+        "age": 70,
+        "gender": "male",
+        "address": "0443 Calvin Road, Lake Staceyton, MD 80276",
+        "phone": "694.316.5666",
+        "email": "iwalters@example.net",
+        "account": {
+            "account_number": "c4af732c-8cc3-4dce-bdd2-81196f4f77e6",
+            "balance": 20106.3,
+            "transactions": [
+                {
+                    "date": "2023-04-17",
+                    "description": "Interest",
+                    "amount": 15192.28,
+                    "transaction_id": 17092886
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Withdrawal",
+                    "amount": 19746.66,
+                    "transaction_id": 89966000
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Deposit",
+                    "amount": 32304.24,
+                    "transaction_id": 26194124
+                }
+            ]
+        }
+    }
+}

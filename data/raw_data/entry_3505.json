@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sarah Bass",
+        "age": 61,
+        "gender": "female",
+        "address": "USNS Barry, FPO AP 28229",
+        "phone": "(536)504-7270x0780",
+        "email": "cassandraknapp@example.com",
+        "account": {
+            "account_number": "ba736432-3543-45b3-ba06-c1861efa3d45",
+            "balance": 46717.29,
+            "transactions": [
+                {
+                    "date": "2023-02-12",
+                    "description": "Interest",
+                    "amount": 43084.85,
+                    "transaction_id": 89251938
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Deposit",
+                    "amount": 30876.76,
+                    "transaction_id": 113194617
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Withdrawal",
+                    "amount": 36743.86,
+                    "transaction_id": 26935132
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Interest",
+                    "amount": 43507.94,
+                    "transaction_id": 65827871
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Withdrawal",
+                    "amount": 7433.27,
+                    "transaction_id": 114643724
+                }
+            ]
+        }
+    }
+}

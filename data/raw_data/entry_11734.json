@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Thomas Morgan",
+        "age": 95,
+        "gender": "male",
+        "address": "54515 Dylan Square, Jacobhaven, WV 31700",
+        "phone": "731.205.8310x3781",
+        "email": "htorres@example.org",
+        "account": {
+            "account_number": "390eae49-a378-47a3-89a6-ccdb70ace7cd",
+            "balance": -5532.2,
+            "transactions": [
+                {
+                    "date": "2023-10-16",
+                    "description": "Interest",
+                    "amount": -2887.53,
+                    "transaction_id": 19924905
+                },
+                {
+                    "date": "2022-12-11",
+                    "description": "Deposit",
+                    "amount": 1435.44,
+                    "transaction_id": 58589088
+                }
+            ]
+        }
+    }
+}

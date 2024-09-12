@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 52,
+        "gender": "female",
+        "address": "91631 Susan Viaduct Apt. 983, Sarahton, TN 50675",
+        "phone": "3009560659",
+        "email": "joycedaniels@example.org",
+        "account": {
+            "account_number": "7674c1f3-a4d5-4de2-8929-2e97280c565f",
+            "balance": 29460.31,
+            "transactions": [
+                {
+                    "date": "2023-09-24",
+                    "description": "Deposit",
+                    "amount": 1575.18,
+                    "transaction_id": 92416223
+                },
+                {
+                    "date": "2023-05-17",
+                    "description": "Deposit",
+                    "amount": -4508.7,
+                    "transaction_id": 39032118
+                },
+                {
+                    "date": "2023-01-07",
+                    "description": "Deposit",
+                    "amount": -2023.02,
+                    "transaction_id": 10180235
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Deposit",
+                    "amount": 826.31,
+                    "transaction_id": 67832250
+                },
+                {
+                    "date": "2022-10-13",
+                    "description": "Withdrawal",
+                    "amount": -253.94,
+                    "transaction_id": 55875264
+                }
+            ]
+        }
+    }
+}

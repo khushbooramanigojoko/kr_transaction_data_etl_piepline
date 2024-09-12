@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Daniel Scott",
+        "age": 92,
+        "gender": "male",
+        "address": "810 Miller Hollow Suite 278, Robinland, GA 55888",
+        "phone": "(851)437-5894x34018",
+        "email": "janetfrancis@example.net",
+        "account": {
+            "account_number": "b3776fbc-6fc2-4c5f-8f42-4939c7f12a34",
+            "balance": 29050.09,
+            "transactions": [
+                {
+                    "date": "2022-10-18",
+                    "description": "Deposit",
+                    "amount": 47919.43,
+                    "transaction_id": 114140975
+                },
+                {
+                    "date": "2024-04-09",
+                    "description": "Interest",
+                    "amount": 33938.17,
+                    "transaction_id": 55192888
+                }
+            ]
+        }
+    }
+}

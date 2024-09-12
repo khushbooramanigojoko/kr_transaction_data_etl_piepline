@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mr. David Roach",
+        "age": 39,
+        "gender": "female",
+        "address": "273 Stephens Knoll, Kevinland, NY 88544",
+        "phone": "6573721953",
+        "email": "stephanie57@example.net",
+        "account": {
+            "account_number": "f5bd30b0-6b3d-4d3e-8a4f-71055a7bd0c7",
+            "balance": -35221.72,
+            "transactions": [
+                {
+                    "date": "2024-06-23",
+                    "description": "Deposit",
+                    "amount": -107.8,
+                    "transaction_id": 107442969
+                },
+                {
+                    "date": "2022-09-17",
+                    "description": "Deposit",
+                    "amount": -1228.22,
+                    "transaction_id": 93540570
+                },
+                {
+                    "date": "2024-05-27",
+                    "description": "Deposit",
+                    "amount": 4170.58,
+                    "transaction_id": 88790821
+                }
+            ]
+        }
+    }
+}

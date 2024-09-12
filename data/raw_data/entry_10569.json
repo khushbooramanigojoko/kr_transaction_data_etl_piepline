@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 81,
+        "gender": "male",
+        "address": "51690 Robert Cove, Bridgestown, OH 13822",
+        "phone": "001-603-392-2291x4117",
+        "email": "luis20@example.net",
+        "account": {
+            "account_number": "5246f1a8-6e4e-48c8-b2f8-ce6bcee813bb",
+            "balance": 32475.1,
+            "transactions": [
+                {
+                    "date": "2023-11-01",
+                    "description": "Deposit",
+                    "amount": 1649.83,
+                    "transaction_id": 29260424
+                },
+                {
+                    "date": "2023-08-06",
+                    "description": "Withdrawal",
+                    "amount": -588.74,
+                    "transaction_id": 32695823
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Deposit",
+                    "amount": 932.14,
+                    "transaction_id": 7632560
+                }
+            ]
+        }
+    }
+}

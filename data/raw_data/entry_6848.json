@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jesse Simmons",
+        "age": 74,
+        "gender": "male",
+        "address": "6858 David Road, North Melissaburgh, WY 32097",
+        "phone": "886-784-1028x16685",
+        "email": "alexis76@example.org",
+        "account": {
+            "account_number": "a247ccb0-ab08-48af-aff4-864f1f3071ad",
+            "balance": 35594.41,
+            "transactions": [
+                {
+                    "date": "2023-01-11",
+                    "description": "Deposit",
+                    "amount": 32859.67,
+                    "transaction_id": 30190314
+                },
+                {
+                    "date": "2023-05-10",
+                    "description": "Interest",
+                    "amount": 48954.36,
+                    "transaction_id": 99101251
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Interest",
+                    "amount": 39104.27,
+                    "transaction_id": 44341380
+                },
+                {
+                    "date": "2022-10-09",
+                    "description": "Deposit",
+                    "amount": 12045.86,
+                    "transaction_id": 93271991
+                },
+                {
+                    "date": "2023-08-04",
+                    "description": "Withdrawal",
+                    "amount": 35114.76,
+                    "transaction_id": 21128680
+                }
+            ]
+        }
+    }
+}

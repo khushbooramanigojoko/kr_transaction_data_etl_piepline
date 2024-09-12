@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Richard Larson",
+        "age": 84,
+        "gender": "female",
+        "address": "9493 Lori Dam, Williamland, VI 91312",
+        "phone": "873.224.1440",
+        "email": "karensmith@example.com",
+        "account": {
+            "account_number": "638b11e7-8516-4f28-af55-d602428182f4",
+            "balance": 36902.7,
+            "transactions": [
+                {
+                    "date": "2023-12-08",
+                    "description": "Withdrawal",
+                    "amount": 44616.2,
+                    "transaction_id": 38271921
+                },
+                {
+                    "date": "2023-01-08",
+                    "description": "Withdrawal",
+                    "amount": 36202.74,
+                    "transaction_id": 74096642
+                },
+                {
+                    "date": "2023-05-30",
+                    "description": "Interest",
+                    "amount": 35533.52,
+                    "transaction_id": 20387963
+                },
+                {
+                    "date": "2023-05-04",
+                    "description": "Deposit",
+                    "amount": 10570.35,
+                    "transaction_id": 97621245
+                }
+            ]
+        }
+    }
+}

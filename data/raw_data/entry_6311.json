@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Melissa Watts",
+        "age": 59,
+        "gender": "male",
+        "address": "079 Martin Mission, Dominguezside, GU 29027",
+        "phone": "457-584-2111x9217",
+        "email": "qclarke@example.org",
+        "account": {
+            "account_number": "a545a3eb-ec32-46bb-aa81-5c3e87f855fb",
+            "balance": 26926.65,
+            "transactions": [
+                {
+                    "date": "2024-08-26",
+                    "description": "Interest",
+                    "amount": 3110.0,
+                    "transaction_id": 94507938
+                },
+                {
+                    "date": "2023-01-15",
+                    "description": "Interest",
+                    "amount": 22660.77,
+                    "transaction_id": 62581495
+                }
+            ]
+        }
+    }
+}

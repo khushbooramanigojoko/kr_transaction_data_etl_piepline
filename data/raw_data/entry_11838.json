@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 27,
+        "gender": "male",
+        "address": "14072 Jeremy Crossing Apt. 357, Gouldland, NV 48298",
+        "phone": "+1-220-524-6918x447",
+        "email": "smithscott@example.net",
+        "account": {
+            "account_number": "f408d496-6a55-4066-900e-094a6ff52899",
+            "balance": 4129.84,
+            "transactions": [
+                {
+                    "date": "2024-06-06",
+                    "description": "Withdrawal",
+                    "amount": 899.67,
+                    "transaction_id": 54050923
+                },
+                {
+                    "date": "2024-02-14",
+                    "description": "Withdrawal",
+                    "amount": 485.59,
+                    "transaction_id": 84072427
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Withdrawal",
+                    "amount": -465.91,
+                    "transaction_id": 27834292
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Withdrawal",
+                    "amount": -425.16,
+                    "transaction_id": 109034018
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Deposit",
+                    "amount": 596.68,
+                    "transaction_id": 56647095
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Shields",
+        "age": 60,
+        "gender": "female",
+        "address": "85015 Wilcox Hill, Dannychester, OH 21369",
+        "phone": "001-431-403-7370x82462",
+        "email": "tpearson@example.org",
+        "account": {
+            "account_number": "907448a2-3847-4f75-8313-c70b73fe7517",
+            "balance": 5876.49,
+            "transactions": [
+                {
+                    "date": "2023-08-15",
+                    "description": "Deposit",
+                    "amount": 31103.71,
+                    "transaction_id": 73467189
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Interest",
+                    "amount": 10578.11,
+                    "transaction_id": 2895743
+                }
+            ]
+        }
+    }
+}

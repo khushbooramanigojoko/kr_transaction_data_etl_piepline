@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Bailey",
+        "age": 70,
+        "gender": "female",
+        "address": "83811 Summers Pike, Hectorport, SC 48737",
+        "phone": "702-942-5534x769",
+        "email": "leevickie@example.com",
+        "account": {
+            "account_number": "c2bc7d8b-1e3d-4069-934f-69137c2b8106",
+            "balance": 7195.94,
+            "transactions": [
+                {
+                    "date": "2024-05-14",
+                    "description": "Deposit",
+                    "amount": 26584.47,
+                    "transaction_id": 44732770
+                }
+            ]
+        }
+    }
+}

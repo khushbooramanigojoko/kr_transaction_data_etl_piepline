@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rhonda Johnson",
+        "age": 36,
+        "gender": "female",
+        "address": "135 Wong Springs, Bradyborough, IL 12875",
+        "phone": "8453438755",
+        "email": "natalie83@example.net",
+        "account": {
+            "account_number": "9bf1fff0-60a0-4c6e-aa3d-eb60c370bd4f",
+            "balance": 2154.72,
+            "transactions": [
+                {
+                    "date": "2024-06-24",
+                    "description": "Interest",
+                    "amount": 6863.96,
+                    "transaction_id": 76105204
+                }
+            ]
+        }
+    }
+}

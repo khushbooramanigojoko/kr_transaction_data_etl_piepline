@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rebecca Shepherd",
+        "age": 89,
+        "gender": "male",
+        "address": "688 Sherri Lakes Apt. 038, New Anitafort, PR 50905",
+        "phone": "001-544-522-9060x0772",
+        "email": "gzimmerman@example.org",
+        "account": {
+            "account_number": "64050721-3e2f-4904-b461-4f410418facb",
+            "balance": 33531.99,
+            "transactions": [
+                {
+                    "date": "2024-06-12",
+                    "description": "Withdrawal",
+                    "amount": 697.14,
+                    "transaction_id": 58608685
+                }
+            ]
+        }
+    }
+}

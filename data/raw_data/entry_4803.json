@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Victor Barajas",
+        "age": 58,
+        "gender": "female",
+        "address": "10150 Clements Road, North Jeffreyfurt, PA 97073",
+        "phone": "001-624-668-8101x1993",
+        "email": "mooresabrina@example.org",
+        "account": {
+            "account_number": "2ea15305-d906-4209-a3ff-9db4f370bf51",
+            "balance": 45275.17,
+            "transactions": [
+                {
+                    "date": "2023-08-29",
+                    "description": "Withdrawal",
+                    "amount": 13450.66,
+                    "transaction_id": 44499094
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Interest",
+                    "amount": 24643.02,
+                    "transaction_id": 114994662
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Deposit",
+                    "amount": 20514.59,
+                    "transaction_id": 16365698
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Interest",
+                    "amount": 19371.18,
+                    "transaction_id": 14490153
+                }
+            ]
+        }
+    }
+}

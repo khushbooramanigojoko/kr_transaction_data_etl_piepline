@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Samantha Jackson",
+        "age": 82,
+        "gender": "female",
+        "address": "2762 Scott Field, Troyville, WY 16132",
+        "phone": "+1-374-523-1055x0473",
+        "email": "kthomas@example.com",
+        "account": {
+            "account_number": "9c60baa6-b5ee-42d3-be59-a512f699a1d5",
+            "balance": 12340.39,
+            "transactions": [
+                {
+                    "date": "2023-03-21",
+                    "description": "Interest",
+                    "amount": 13594.89,
+                    "transaction_id": 30128664
+                },
+                {
+                    "date": "2023-06-06",
+                    "description": "Interest",
+                    "amount": 45839.05,
+                    "transaction_id": 93158407
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Withdrawal",
+                    "amount": 46475.41,
+                    "transaction_id": 30297223
+                },
+                {
+                    "date": "2023-02-18",
+                    "description": "Deposit",
+                    "amount": 27157.95,
+                    "transaction_id": 9267394
+                }
+            ]
+        }
+    }
+}

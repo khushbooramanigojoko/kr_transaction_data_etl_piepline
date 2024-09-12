@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joseph Vazquez",
+        "age": 60,
+        "gender": "female",
+        "address": "74479 Cheryl Grove, South Jenniferside, KY 13866",
+        "phone": "818-715-3555x3696",
+        "email": "donaldanderson@example.org",
+        "account": {
+            "account_number": "3f81c208-0efc-4c73-9f50-29a5a74f38c3",
+            "balance": 12570.3,
+            "transactions": [
+                {
+                    "date": "2023-07-22",
+                    "description": "Deposit",
+                    "amount": 14716.36,
+                    "transaction_id": 5534656
+                },
+                {
+                    "date": "2022-10-03",
+                    "description": "Withdrawal",
+                    "amount": 30482.94,
+                    "transaction_id": 106574427
+                },
+                {
+                    "date": "2023-03-26",
+                    "description": "Deposit",
+                    "amount": 28458.03,
+                    "transaction_id": 73257204
+                },
+                {
+                    "date": "2023-07-08",
+                    "description": "Withdrawal",
+                    "amount": 49671.79,
+                    "transaction_id": 117785601
+                },
+                {
+                    "date": "2024-03-18",
+                    "description": "Withdrawal",
+                    "amount": 9984.71,
+                    "transaction_id": 118787373
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tanya Dean",
+        "age": 75,
+        "gender": "female",
+        "address": "020 Foster Green Suite 046, North Johnville, NM 59157",
+        "phone": "957-566-5585",
+        "email": "heather33@example.org",
+        "account": {
+            "account_number": "594f5d9b-ae22-4df2-ab07-bac566dcc662",
+            "balance": -33455.33,
+            "transactions": [
+                {
+                    "date": "2023-12-23",
+                    "description": "Deposit",
+                    "amount": 2942.26,
+                    "transaction_id": 105681316
+                },
+                {
+                    "date": "2024-06-17",
+                    "description": "Withdrawal",
+                    "amount": -4828.9,
+                    "transaction_id": 119205441
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Withdrawal",
+                    "amount": -4682.05,
+                    "transaction_id": 101310291
+                },
+                {
+                    "date": "2023-07-15",
+                    "description": "Withdrawal",
+                    "amount": -2810.5,
+                    "transaction_id": 42599023
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Interest",
+                    "amount": -3510.97,
+                    "transaction_id": 55754951
+                }
+            ]
+        }
+    }
+}

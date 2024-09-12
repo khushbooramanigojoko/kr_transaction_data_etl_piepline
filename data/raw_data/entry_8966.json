@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Daniel Peterson",
+        "age": 96,
+        "gender": "male",
+        "address": "0353 Perry Grove Suite 012, North Michael, CT 20812",
+        "phone": "523-948-8871x013",
+        "email": "emurphy@example.org",
+        "account": {
+            "account_number": "523f2caa-d227-417d-8554-508b6c87a01d",
+            "balance": -24277.57,
+            "transactions": [
+                {
+                    "date": "2022-10-18",
+                    "description": "Interest",
+                    "amount": -3487.93,
+                    "transaction_id": 97782946
+                },
+                {
+                    "date": "2024-04-29",
+                    "description": "Interest",
+                    "amount": -3879.81,
+                    "transaction_id": 73595296
+                }
+            ]
+        }
+    }
+}

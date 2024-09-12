@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 49,
+        "gender": "male",
+        "address": "268 Karen Walks, East Dawnmouth, MA 10006",
+        "phone": "(691)267-9545x33023",
+        "email": "smithjerry@example.com",
+        "account": {
+            "account_number": "6fca98ef-162c-46e1-8ffc-11f4c97dfb69",
+            "balance": 41139.64,
+            "transactions": [
+                {
+                    "date": "2023-11-13",
+                    "description": "Withdrawal",
+                    "amount": -48.43,
+                    "transaction_id": 37270221
+                }
+            ]
+        }
+    }
+}

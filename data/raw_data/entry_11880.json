@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 65,
+        "gender": "male",
+        "address": "6004 Tracy Ports, Patriciafurt, MD 01512",
+        "phone": "(275)501-6531x6324",
+        "email": "richard80@example.com",
+        "account": {
+            "account_number": "0221823f-18cb-4d23-91a3-8c33da3e16d0",
+            "balance": 3935.39,
+            "transactions": [
+                {
+                    "date": "2024-06-14",
+                    "description": "Withdrawal",
+                    "amount": -112.18,
+                    "transaction_id": 78609253
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Deposit",
+                    "amount": -1853.62,
+                    "transaction_id": 22165796
+                },
+                {
+                    "date": "2023-05-05",
+                    "description": "Withdrawal",
+                    "amount": -1576.31,
+                    "transaction_id": 78233336
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Withdrawal",
+                    "amount": 4325.14,
+                    "transaction_id": 57744476
+                },
+                {
+                    "date": "2022-09-06",
+                    "description": "Interest",
+                    "amount": -3519.44,
+                    "transaction_id": 52191023
+                }
+            ]
+        }
+    }
+}

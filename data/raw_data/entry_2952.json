@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kathleen Atkins",
+        "age": 33,
+        "gender": "female",
+        "address": "493 Gregory Stravenue, North James, MO 60182",
+        "phone": "+1-827-719-7892x34267",
+        "email": "joshua00@example.org",
+        "account": {
+            "account_number": "8cb78f80-e819-42aa-96ab-4eefefa7d6a1",
+            "balance": 8106.08,
+            "transactions": [
+                {
+                    "date": "2023-10-16",
+                    "description": "Interest",
+                    "amount": 4364.73,
+                    "transaction_id": 17965588
+                },
+                {
+                    "date": "2024-05-29",
+                    "description": "Interest",
+                    "amount": 21565.94,
+                    "transaction_id": 41192054
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Deposit",
+                    "amount": 7959.74,
+                    "transaction_id": 8949978
+                },
+                {
+                    "date": "2024-02-18",
+                    "description": "Interest",
+                    "amount": 31151.88,
+                    "transaction_id": 74021188
+                }
+            ]
+        }
+    }
+}

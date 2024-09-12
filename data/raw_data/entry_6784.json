@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jasmine Wu",
+        "age": 42,
+        "gender": "male",
+        "address": "9146 Boyd Knoll Apt. 162, West Jonathanville, NE 39542",
+        "phone": "001-224-360-4803x638",
+        "email": "karen93@example.org",
+        "account": {
+            "account_number": "e67583b6-0153-4b8d-a16f-7ac827d4b8e9",
+            "balance": 8623.76,
+            "transactions": [
+                {
+                    "date": "2022-11-28",
+                    "description": "Withdrawal",
+                    "amount": 8990.47,
+                    "transaction_id": 51990589
+                }
+            ]
+        }
+    }
+}

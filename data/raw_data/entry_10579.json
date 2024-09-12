@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 29,
+        "gender": "female",
+        "address": "131 Stephanie Forges, East Christinemouth, MS 06561",
+        "phone": "660.895.3407",
+        "email": "james11@example.org",
+        "account": {
+            "account_number": "f3e4fe24-95a0-4c25-bf55-b88e48d07510",
+            "balance": 12539.29,
+            "transactions": [
+                {
+                    "date": "2022-10-27",
+                    "description": "Withdrawal",
+                    "amount": -2830.37,
+                    "transaction_id": 103686018
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Deposit",
+                    "amount": 2886.62,
+                    "transaction_id": 36553527
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Deposit",
+                    "amount": -3326.54,
+                    "transaction_id": 20611365
+                }
+            ]
+        }
+    }
+}

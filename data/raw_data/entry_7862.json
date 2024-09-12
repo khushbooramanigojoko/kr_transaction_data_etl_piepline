@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Matthew Hopkins",
+        "age": 28,
+        "gender": "female",
+        "address": "807 Wilkerson Plain Apt. 152, Avilastad, CT 49064",
+        "phone": "+1-614-262-6099x9051",
+        "email": "andersonrandy@example.com",
+        "account": {
+            "account_number": "cde42a2d-9ff0-43a8-853b-21d3058f8916",
+            "balance": 34019.54,
+            "transactions": [
+                {
+                    "date": "2022-12-24",
+                    "description": "Withdrawal",
+                    "amount": 126.44,
+                    "transaction_id": 115776070
+                },
+                {
+                    "date": "2024-02-18",
+                    "description": "Withdrawal",
+                    "amount": 45043.6,
+                    "transaction_id": 90840971
+                }
+            ]
+        }
+    }
+}

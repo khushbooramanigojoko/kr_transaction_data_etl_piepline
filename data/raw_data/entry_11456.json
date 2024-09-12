@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nicole Wright",
+        "age": 91,
+        "gender": "male",
+        "address": "629 Holmes Dam, Aaronhaven, NH 15044",
+        "phone": "467-644-1673x5751",
+        "email": "devin27@example.org",
+        "account": {
+            "account_number": "eadb1133-5d5f-48ed-ae3f-3e9d49f7c4ea",
+            "balance": -762.35,
+            "transactions": [
+                {
+                    "date": "2023-12-09",
+                    "description": "Deposit",
+                    "amount": 417.72,
+                    "transaction_id": 106056989
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Interest",
+                    "amount": -1532.55,
+                    "transaction_id": 115819659
+                },
+                {
+                    "date": "2023-12-21",
+                    "description": "Deposit",
+                    "amount": -3332.16,
+                    "transaction_id": 22871965
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Withdrawal",
+                    "amount": 1973.07,
+                    "transaction_id": 26961271
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Interest",
+                    "amount": -1451.54,
+                    "transaction_id": 80348914
+                }
+            ]
+        }
+    }
+}

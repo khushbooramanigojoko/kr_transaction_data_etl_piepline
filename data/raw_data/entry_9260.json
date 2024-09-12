@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kathy Carpenter",
+        "age": 95,
+        "gender": "male",
+        "address": "134 Christopher Loop, Webbmouth, WI 74486",
+        "phone": "625-792-5359",
+        "email": "raymichael@example.com",
+        "account": {
+            "account_number": "9bb175fc-2b60-4f1d-9e2d-00aa600e2ef6",
+            "balance": -5227.88,
+            "transactions": [
+                {
+                    "date": "2024-05-12",
+                    "description": "Deposit",
+                    "amount": 2547.19,
+                    "transaction_id": 88399962
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Deposit",
+                    "amount": 1834.92,
+                    "transaction_id": 83327955
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Interest",
+                    "amount": -3875.43,
+                    "transaction_id": 114851255
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Interest",
+                    "amount": -3990.55,
+                    "transaction_id": 18719902
+                }
+            ]
+        }
+    }
+}

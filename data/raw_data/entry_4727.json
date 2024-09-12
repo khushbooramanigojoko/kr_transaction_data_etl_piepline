@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Laura Tate",
+        "age": 23,
+        "gender": "female",
+        "address": "7939 Gates Roads Apt. 453, East Richardview, WV 02112",
+        "phone": "837-292-5140x91418",
+        "email": "jasonclarke@example.net",
+        "account": {
+            "account_number": "c7f50d13-da28-4704-a9a0-c6a3fa220fec",
+            "balance": 30273.82,
+            "transactions": [
+                {
+                    "date": "2024-02-27",
+                    "description": "Withdrawal",
+                    "amount": 22705.78,
+                    "transaction_id": 88866539
+                },
+                {
+                    "date": "2023-05-19",
+                    "description": "Interest",
+                    "amount": 8875.31,
+                    "transaction_id": 69329228
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Interest",
+                    "amount": 19426.27,
+                    "transaction_id": 36043284
+                },
+                {
+                    "date": "2023-07-09",
+                    "description": "Interest",
+                    "amount": 42821.53,
+                    "transaction_id": 91632370
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Erica Garcia",
+        "age": 22,
+        "gender": "female",
+        "address": "40850 Rivas Ways Apt. 595, West Shane, KS 53120",
+        "phone": "751-737-4195",
+        "email": "prose@example.com",
+        "account": {
+            "account_number": "e93897f6-c5b1-4bd2-a62c-a3b3715cfc6b",
+            "balance": 6413.2,
+            "transactions": [
+                {
+                    "date": "2023-06-15",
+                    "description": "Interest",
+                    "amount": 10229.99,
+                    "transaction_id": 108052354
+                },
+                {
+                    "date": "2023-05-03",
+                    "description": "Interest",
+                    "amount": 32799.44,
+                    "transaction_id": 23149975
+                },
+                {
+                    "date": "2023-10-09",
+                    "description": "Interest",
+                    "amount": 24276.77,
+                    "transaction_id": 38535595
+                },
+                {
+                    "date": "2023-09-10",
+                    "description": "Interest",
+                    "amount": 45615.64,
+                    "transaction_id": 67205924
+                },
+                {
+                    "date": "2023-01-27",
+                    "description": "Deposit",
+                    "amount": 27940.82,
+                    "transaction_id": 106003699
+                }
+            ]
+        }
+    }
+}

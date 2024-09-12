@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Katherine Burns",
+        "age": 73,
+        "gender": "male",
+        "address": "30302 Diaz Cliff, South Michaelhaven, NV 31716",
+        "phone": "+1-687-973-6519x933",
+        "email": "ariel44@example.net",
+        "account": {
+            "account_number": "1aa7705c-0f99-47f8-ba08-878ab7393555",
+            "balance": 21420.99,
+            "transactions": [
+                {
+                    "date": "2022-10-28",
+                    "description": "Interest",
+                    "amount": 19003.23,
+                    "transaction_id": 10421821
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Withdrawal",
+                    "amount": 4524.22,
+                    "transaction_id": 74235365
+                }
+            ]
+        }
+    }
+}

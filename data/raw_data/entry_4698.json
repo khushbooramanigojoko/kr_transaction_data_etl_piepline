@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michelle Thornton",
+        "age": 33,
+        "gender": "male",
+        "address": "36292 Johnson Road Suite 527, Boydstad, LA 46145",
+        "phone": "+1-384-570-3601x19803",
+        "email": "gonzalestina@example.net",
+        "account": {
+            "account_number": "4991baf2-c230-4880-9a95-bc326a612a64",
+            "balance": 44989.58,
+            "transactions": [
+                {
+                    "date": "2024-03-25",
+                    "description": "Withdrawal",
+                    "amount": 34154.07,
+                    "transaction_id": 30879635
+                },
+                {
+                    "date": "2024-04-14",
+                    "description": "Deposit",
+                    "amount": 10508.81,
+                    "transaction_id": 68246947
+                }
+            ]
+        }
+    }
+}

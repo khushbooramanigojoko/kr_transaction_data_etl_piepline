@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jose Green",
+        "age": 91,
+        "gender": "male",
+        "address": "490 Thomas Corner Apt. 748, East Rebecca, NJ 12831",
+        "phone": "+1-673-999-2260x548",
+        "email": "lmyers@example.org",
+        "account": {
+            "account_number": "e51f64ed-4eb6-423f-b012-a94b30cb5fa1",
+            "balance": 9361.46,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Withdrawal",
+                    "amount": 2818.19,
+                    "transaction_id": 92377575
+                },
+                {
+                    "date": "2024-02-20",
+                    "description": "Withdrawal",
+                    "amount": 40385.56,
+                    "transaction_id": 118288189
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Withdrawal",
+                    "amount": 7502.61,
+                    "transaction_id": 2368598
+                },
+                {
+                    "date": "2023-10-18",
+                    "description": "Deposit",
+                    "amount": 46625.5,
+                    "transaction_id": 6123613
+                }
+            ]
+        }
+    }
+}

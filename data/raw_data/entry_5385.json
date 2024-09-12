@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stephanie Parker",
+        "age": 67,
+        "gender": "female",
+        "address": "284 Sarah Island Apt. 844, Smithfort, OK 10533",
+        "phone": "001-804-392-4042x408",
+        "email": "natasha29@example.com",
+        "account": {
+            "account_number": "8567dd29-1dc7-4640-8a3e-ea5b70cbec57",
+            "balance": 34850.99,
+            "transactions": [
+                {
+                    "date": "2024-04-04",
+                    "description": "Deposit",
+                    "amount": 46687.97,
+                    "transaction_id": 82846768
+                }
+            ]
+        }
+    }
+}

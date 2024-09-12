@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Angelica George",
+        "age": 78,
+        "gender": "male",
+        "address": "192 Ellen Port Suite 065, New Rodneyshire, UT 52076",
+        "phone": "(382)418-1083",
+        "email": "matthewsnicole@example.org",
+        "account": {
+            "account_number": "19e437c2-333c-4faa-8ab5-9ee6d9a2d8d8",
+            "balance": 31413.74,
+            "transactions": [
+                {
+                    "date": "2024-06-08",
+                    "description": "Deposit",
+                    "amount": 48017.27,
+                    "transaction_id": 26868607
+                }
+            ]
+        }
+    }
+}

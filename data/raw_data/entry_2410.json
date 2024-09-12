@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Timothy Hudson",
+        "age": 85,
+        "gender": "male",
+        "address": "04868 Russell Viaduct Apt. 207, South Christine, IN 24951",
+        "phone": "(278)684-1464",
+        "email": "operez@example.com",
+        "account": {
+            "account_number": "5f536ee7-c905-415c-8996-f957ba1f9f31",
+            "balance": 38233.89,
+            "transactions": [
+                {
+                    "date": "2022-10-07",
+                    "description": "Deposit",
+                    "amount": 9819.25,
+                    "transaction_id": 26060736
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Deposit",
+                    "amount": 22891.91,
+                    "transaction_id": 100829489
+                },
+                {
+                    "date": "2023-06-30",
+                    "description": "Interest",
+                    "amount": 17405.17,
+                    "transaction_id": 119611632
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Deposit",
+                    "amount": 31288.63,
+                    "transaction_id": 59479114
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jeffrey Moore",
+        "age": 24,
+        "gender": "male",
+        "address": "6984 Weber Common, West Jennifer, MA 54677",
+        "phone": "911-634-4056x000",
+        "email": "lalvarez@example.org",
+        "account": {
+            "account_number": "0ec9cc73-4edc-4e59-9dcf-5c47fe18409b",
+            "balance": 42367.28,
+            "transactions": [
+                {
+                    "date": "2024-05-06",
+                    "description": "Interest",
+                    "amount": 36992.32,
+                    "transaction_id": 99790919
+                },
+                {
+                    "date": "2023-12-11",
+                    "description": "Deposit",
+                    "amount": 18865.1,
+                    "transaction_id": 30381653
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Withdrawal",
+                    "amount": 17390.34,
+                    "transaction_id": 112545005
+                }
+            ]
+        }
+    }
+}

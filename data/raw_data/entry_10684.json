@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Robert Warner",
+        "age": 34,
+        "gender": "female",
+        "address": "8364 Clay Oval Suite 573, Palmerburgh, MS 00625",
+        "phone": "(332)476-0622x5772",
+        "email": "devinsanchez@example.com",
+        "account": {
+            "account_number": "1839577d-6a74-460c-8b33-928ac19c6be4",
+            "balance": -16274.93,
+            "transactions": [
+                {
+                    "date": "2024-05-04",
+                    "description": "Deposit",
+                    "amount": -1530.2,
+                    "transaction_id": 43541458
+                },
+                {
+                    "date": "2024-08-16",
+                    "description": "Deposit",
+                    "amount": -4023.8,
+                    "transaction_id": 61162985
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Deposit",
+                    "amount": 3728.86,
+                    "transaction_id": 115346555
+                },
+                {
+                    "date": "2024-04-06",
+                    "description": "Withdrawal",
+                    "amount": 3929.23,
+                    "transaction_id": 90724265
+                }
+            ]
+        }
+    }
+}

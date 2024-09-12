@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Charles Murray",
+        "age": 28,
+        "gender": "male",
+        "address": "12305 Steven Square Suite 468, Erictown, GA 01136",
+        "phone": "610.611.5856x80987",
+        "email": "ocordova@example.net",
+        "account": {
+            "account_number": "ba6959ee-6928-4bfe-99d2-bc8f9efcf210",
+            "balance": -48729.04,
+            "transactions": [
+                {
+                    "date": "2023-05-27",
+                    "description": "Interest",
+                    "amount": 880.27,
+                    "transaction_id": 115793764
+                },
+                {
+                    "date": "2022-09-10",
+                    "description": "Interest",
+                    "amount": 4836.12,
+                    "transaction_id": 10327029
+                },
+                {
+                    "date": "2023-01-26",
+                    "description": "Withdrawal",
+                    "amount": -4967.77,
+                    "transaction_id": 103849178
+                }
+            ]
+        }
+    }
+}

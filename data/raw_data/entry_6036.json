@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Alexis Paul",
+        "age": 80,
+        "gender": "male",
+        "address": "6745 Velazquez Extension, North Justin, KY 19777",
+        "phone": "(510)595-9054x37517",
+        "email": "joseph85@example.org",
+        "account": {
+            "account_number": "0d368aa5-f141-428e-b9f4-9d4260834fa6",
+            "balance": 18814.71,
+            "transactions": [
+                {
+                    "date": "2023-01-30",
+                    "description": "Deposit",
+                    "amount": 6709.75,
+                    "transaction_id": 91610838
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Deposit",
+                    "amount": 27350.24,
+                    "transaction_id": 42433451
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Interest",
+                    "amount": 34982.04,
+                    "transaction_id": 56705183
+                }
+            ]
+        }
+    }
+}

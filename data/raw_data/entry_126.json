@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Logan Mcguire",
+        "age": 50,
+        "gender": "female",
+        "address": "69273 Goodwin Key, North Gregoryview, RI 73657",
+        "phone": "826.574.1918x090",
+        "email": "aperkins@example.org",
+        "account": {
+            "account_number": "7c235aab-3404-4fff-8fb7-55704228246d",
+            "balance": 48080.11,
+            "transactions": [
+                {
+                    "date": "2024-01-04",
+                    "description": "Deposit",
+                    "amount": 41512.51,
+                    "transaction_id": 71638056
+                }
+            ]
+        }
+    }
+}

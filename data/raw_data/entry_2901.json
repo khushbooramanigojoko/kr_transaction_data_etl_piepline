@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jose Schneider",
+        "age": 18,
+        "gender": "male",
+        "address": "16858 Michael Key, Schroedermouth, ID 97506",
+        "phone": "001-714-793-9937x069",
+        "email": "vgonzalez@example.org",
+        "account": {
+            "account_number": "ee7d9d26-59cf-4b04-915a-8d05e4a79242",
+            "balance": 3810.64,
+            "transactions": [
+                {
+                    "date": "2023-09-05",
+                    "description": "Withdrawal",
+                    "amount": 27486.91,
+                    "transaction_id": 41952346
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Deposit",
+                    "amount": 15006.62,
+                    "transaction_id": 94051737
+                }
+            ]
+        }
+    }
+}

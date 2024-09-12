@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Frank Snyder",
+        "age": 74,
+        "gender": "female",
+        "address": "5361 Bean Crossing, Bernardtown, FL 74485",
+        "phone": "563-566-7260x920",
+        "email": "lori05@example.com",
+        "account": {
+            "account_number": "f572945b-7e19-4544-9cfa-c164be5e285f",
+            "balance": -7814.42,
+            "transactions": [
+                {
+                    "date": "2023-11-26",
+                    "description": "Deposit",
+                    "amount": 814.27,
+                    "transaction_id": 52883391
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Interest",
+                    "amount": -1199.74,
+                    "transaction_id": 2909468
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Interest",
+                    "amount": 1072.66,
+                    "transaction_id": 90251251
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Interest",
+                    "amount": -1398.51,
+                    "transaction_id": 95941034
+                }
+            ]
+        }
+    }
+}

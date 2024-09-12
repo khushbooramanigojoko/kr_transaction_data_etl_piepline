@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Diana Hill",
+        "age": 67,
+        "gender": "female",
+        "address": "341 Sara Hill Apt. 679, New Thomas, TX 90782",
+        "phone": "(933)764-2106",
+        "email": "michaelnunez@example.org",
+        "account": {
+            "account_number": "34a98b36-b57c-44ab-80e5-84aeac4b85f0",
+            "balance": 29182.06,
+            "transactions": [
+                {
+                    "date": "2022-10-26",
+                    "description": "Interest",
+                    "amount": 42239.7,
+                    "transaction_id": 3615582
+                },
+                {
+                    "date": "2023-12-27",
+                    "description": "Interest",
+                    "amount": 15636.45,
+                    "transaction_id": 58552511
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Withdrawal",
+                    "amount": 6061.18,
+                    "transaction_id": 6396917
+                },
+                {
+                    "date": "2023-09-18",
+                    "description": "Deposit",
+                    "amount": 40568.97,
+                    "transaction_id": 39701184
+                }
+            ]
+        }
+    }
+}

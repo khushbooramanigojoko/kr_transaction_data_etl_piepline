@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Barbara Hughes",
+        "age": 91,
+        "gender": "female",
+        "address": "177 Bray River Apt. 664, Ginastad, KY 32757",
+        "phone": "001-706-214-7972x72356",
+        "email": "autumnhughes@example.net",
+        "account": {
+            "account_number": "76937de3-89f3-4b0d-86e5-c349e8453de8",
+            "balance": 24709.4,
+            "transactions": [
+                {
+                    "date": "2024-06-15",
+                    "description": "Interest",
+                    "amount": 13364.32,
+                    "transaction_id": 46068606
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Deposit",
+                    "amount": 30743.16,
+                    "transaction_id": 100146240
+                },
+                {
+                    "date": "2024-03-09",
+                    "description": "Interest",
+                    "amount": 20026.09,
+                    "transaction_id": 23970152
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Interest",
+                    "amount": 20104.59,
+                    "transaction_id": 95474547
+                }
+            ]
+        }
+    }
+}

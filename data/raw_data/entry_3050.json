@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tony Matthews",
+        "age": 94,
+        "gender": "male",
+        "address": "588 Deleon Lodge Suite 823, Maddoxton, ID 74264",
+        "phone": "718.880.1504",
+        "email": "xruiz@example.org",
+        "account": {
+            "account_number": "637d3c75-3ef1-4ac1-8db3-15d9198d8039",
+            "balance": 1492.15,
+            "transactions": [
+                {
+                    "date": "2023-07-05",
+                    "description": "Withdrawal",
+                    "amount": 19324.02,
+                    "transaction_id": 45525431
+                },
+                {
+                    "date": "2022-12-28",
+                    "description": "Withdrawal",
+                    "amount": 1823.19,
+                    "transaction_id": 24240184
+                },
+                {
+                    "date": "2024-04-10",
+                    "description": "Withdrawal",
+                    "amount": 37651.98,
+                    "transaction_id": 65327523
+                }
+            ]
+        }
+    }
+}

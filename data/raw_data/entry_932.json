@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ann Ruiz",
+        "age": 45,
+        "gender": "male",
+        "address": "9436 Bates Forges Suite 801, Heatherfurt, TX 71054",
+        "phone": "001-326-487-5093x547",
+        "email": "robertsonstephen@example.org",
+        "account": {
+            "account_number": "9dd305cc-5915-4f34-8ff0-8af51a2348ad",
+            "balance": 9997.38,
+            "transactions": [
+                {
+                    "date": "2024-05-29",
+                    "description": "Withdrawal",
+                    "amount": 39024.44,
+                    "transaction_id": 78233245
+                },
+                {
+                    "date": "2024-01-25",
+                    "description": "Withdrawal",
+                    "amount": 27686.07,
+                    "transaction_id": 45888643
+                },
+                {
+                    "date": "2024-06-25",
+                    "description": "Interest",
+                    "amount": 2184.34,
+                    "transaction_id": 23937400
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alex Williams",
+        "age": 33,
+        "gender": "male",
+        "address": "9638 Neal River, Merrittstad, PR 41730",
+        "phone": "+1-466-400-0560x28818",
+        "email": "vincentmartin@example.org",
+        "account": {
+            "account_number": "68d01aaa-65d3-4259-a852-8d6c03f8bacf",
+            "balance": 44620.14,
+            "transactions": [
+                {
+                    "date": "2023-02-15",
+                    "description": "Deposit",
+                    "amount": 17994.87,
+                    "transaction_id": 118006498
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Withdrawal",
+                    "amount": 32553.16,
+                    "transaction_id": 68007638
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Interest",
+                    "amount": 21921.95,
+                    "transaction_id": 114730454
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Interest",
+                    "amount": 34715.35,
+                    "transaction_id": 70970422
+                }
+            ]
+        }
+    }
+}

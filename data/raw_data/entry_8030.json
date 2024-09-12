@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Penny Jacobson",
+        "age": 26,
+        "gender": "male",
+        "address": "2956 Krystal Mountain Apt. 948, Alvarezport, NY 96418",
+        "phone": "954.327.3684x46641",
+        "email": "smithbrandi@example.org",
+        "account": {
+            "account_number": "6d464471-299f-4e3c-a1e1-8a60b56c209c",
+            "balance": 33036.75,
+            "transactions": [
+                {
+                    "date": "2024-03-14",
+                    "description": "Interest",
+                    "amount": 11991.79,
+                    "transaction_id": 33943704
+                },
+                {
+                    "date": "2024-03-28",
+                    "description": "Withdrawal",
+                    "amount": 44864.9,
+                    "transaction_id": 12548700
+                }
+            ]
+        }
+    }
+}

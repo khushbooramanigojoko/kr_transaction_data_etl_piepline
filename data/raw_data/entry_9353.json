@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Raymond Garcia",
+        "age": 74,
+        "gender": "female",
+        "address": "550 Sharon Field Suite 157, Taylorshire, CO 93750",
+        "phone": "201-926-2188",
+        "email": "lauren23@example.net",
+        "account": {
+            "account_number": "eb21553d-ee51-4cd0-916d-64538f43aa3c",
+            "balance": -26080.43,
+            "transactions": [
+                {
+                    "date": "2024-08-06",
+                    "description": "Withdrawal",
+                    "amount": 801.39,
+                    "transaction_id": 69941473
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Deposit",
+                    "amount": -655.56,
+                    "transaction_id": 84635369
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 80,
+        "gender": "female",
+        "address": "1390 Ronald Manors Apt. 786, Thomasborough, NC 02920",
+        "phone": "954-538-2089",
+        "email": "rodriguezholly@example.com",
+        "account": {
+            "account_number": "98686ed9-e6c3-4ae3-8779-2b53f469f367",
+            "balance": 3912.39,
+            "transactions": [
+                {
+                    "date": "2023-07-12",
+                    "description": "Withdrawal",
+                    "amount": 106.26,
+                    "transaction_id": 1362196
+                },
+                {
+                    "date": "2024-08-29",
+                    "description": "Interest",
+                    "amount": -3902.04,
+                    "transaction_id": 3563631
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Interest",
+                    "amount": -2642.02,
+                    "transaction_id": 38480393
+                }
+            ]
+        }
+    }
+}

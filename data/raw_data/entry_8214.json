@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Dominique Brown",
+        "age": 82,
+        "gender": "male",
+        "address": "USS Rodriguez, FPO AE 08390",
+        "phone": "(450)957-6815",
+        "email": "samantha95@example.net",
+        "account": {
+            "account_number": "a2c26fa7-a01a-4a50-bac9-ea778b5a6043",
+            "balance": 13671.39,
+            "transactions": [
+                {
+                    "date": "2023-01-28",
+                    "description": "Interest",
+                    "amount": 43127.59,
+                    "transaction_id": 116883556
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Interest",
+                    "amount": 35225.92,
+                    "transaction_id": 10557088
+                }
+            ]
+        }
+    }
+}

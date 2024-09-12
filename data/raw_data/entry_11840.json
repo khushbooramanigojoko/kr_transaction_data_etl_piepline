@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 56,
+        "gender": "male",
+        "address": "65933 Jennings Junction Suite 944, East Sarah, VA 12664",
+        "phone": "421.456.7975",
+        "email": "perezchristopher@example.com",
+        "account": {
+            "account_number": "54266320-1ec5-422d-9c97-34f0c4c114a7",
+            "balance": 12621.02,
+            "transactions": [
+                {
+                    "date": "2023-04-13",
+                    "description": "Withdrawal",
+                    "amount": 3465.63,
+                    "transaction_id": 100637585
+                },
+                {
+                    "date": "2022-09-04",
+                    "description": "Withdrawal",
+                    "amount": -2448.33,
+                    "transaction_id": 87824341
+                }
+            ]
+        }
+    }
+}

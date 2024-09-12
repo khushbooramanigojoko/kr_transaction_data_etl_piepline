@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Robert Smith",
+        "age": 26,
+        "gender": "female",
+        "address": "2285 Amber Islands, West Jeffreyton, MH 86489",
+        "phone": "+1-956-651-1669x0958",
+        "email": "costamichael@example.net",
+        "account": {
+            "account_number": "38de9f6b-f75f-48bb-94da-6c95877eb1e7",
+            "balance": 35358.27,
+            "transactions": [
+                {
+                    "date": "2024-01-20",
+                    "description": "Interest",
+                    "amount": 26002.06,
+                    "transaction_id": 107406677
+                },
+                {
+                    "date": "2023-08-07",
+                    "description": "Withdrawal",
+                    "amount": 6973.15,
+                    "transaction_id": 57368490
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Withdrawal",
+                    "amount": 30974.61,
+                    "transaction_id": 51710765
+                },
+                {
+                    "date": "2022-11-17",
+                    "description": "Deposit",
+                    "amount": 11715.02,
+                    "transaction_id": 62038174
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Deposit",
+                    "amount": 43593.65,
+                    "transaction_id": 4280140
+                }
+            ]
+        }
+    }
+}

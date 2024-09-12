@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Roy Blake",
+        "age": 88,
+        "gender": "male",
+        "address": "746 Austin Mount Suite 765, Lake Tina, NJ 44853",
+        "phone": "952-646-0448",
+        "email": "acase@example.org",
+        "account": {
+            "account_number": "bca73406-a18d-4aad-8ab7-08003baf096e",
+            "balance": 2380.64,
+            "transactions": [
+                {
+                    "date": "2022-11-05",
+                    "description": "Withdrawal",
+                    "amount": 7280.36,
+                    "transaction_id": 106757979
+                }
+            ]
+        }
+    }
+}

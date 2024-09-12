@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Peter Graham",
+        "age": 44,
+        "gender": "male",
+        "address": "PSC 4061, Box 6114, APO AE 24989",
+        "phone": "656-605-5528x9227",
+        "email": "xhenderson@example.org",
+        "account": {
+            "account_number": "5f5e2b40-9a76-4735-be2b-1fd50e1a3255",
+            "balance": 15299.93,
+            "transactions": [
+                {
+                    "date": "2023-12-30",
+                    "description": "Deposit",
+                    "amount": 28801.48,
+                    "transaction_id": 93220558
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Interest",
+                    "amount": 40354.07,
+                    "transaction_id": 28919461
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Interest",
+                    "amount": 21091.09,
+                    "transaction_id": 115894273
+                },
+                {
+                    "date": "2024-03-20",
+                    "description": "Deposit",
+                    "amount": 12469.73,
+                    "transaction_id": 55758686
+                },
+                {
+                    "date": "2023-08-13",
+                    "description": "Withdrawal",
+                    "amount": 6445.97,
+                    "transaction_id": 68210577
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 89,
+        "gender": "female",
+        "address": "4419 Vincent Harbors, East Jennaville, WV 38760",
+        "phone": "001-757-527-0958x4543",
+        "email": "calvintaylor@example.org",
+        "account": {
+            "account_number": "9155704b-8693-4259-8476-842d186c96cd",
+            "balance": 29748.42,
+            "transactions": [
+                {
+                    "date": "2023-03-04",
+                    "description": "Withdrawal",
+                    "amount": 465.68,
+                    "transaction_id": 13411319
+                },
+                {
+                    "date": "2023-02-14",
+                    "description": "Withdrawal",
+                    "amount": 2721.49,
+                    "transaction_id": 32997783
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Deposit",
+                    "amount": 3207.16,
+                    "transaction_id": 15903908
+                }
+            ]
+        }
+    }
+}

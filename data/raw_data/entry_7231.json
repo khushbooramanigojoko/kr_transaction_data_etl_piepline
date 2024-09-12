@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Annette Carroll",
+        "age": 32,
+        "gender": "female",
+        "address": "541 Martinez Islands, North Nicholas, OR 96781",
+        "phone": "957-448-3559",
+        "email": "curtisheather@example.net",
+        "account": {
+            "account_number": "6ce5e8f8-da73-4fc6-b185-0bea0773f7f7",
+            "balance": 45264.25,
+            "transactions": [
+                {
+                    "date": "2023-09-11",
+                    "description": "Withdrawal",
+                    "amount": 41021.29,
+                    "transaction_id": 7843076
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Withdrawal",
+                    "amount": 24774.82,
+                    "transaction_id": 83119064
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Deposit",
+                    "amount": 2500.71,
+                    "transaction_id": 17242071
+                }
+            ]
+        }
+    }
+}

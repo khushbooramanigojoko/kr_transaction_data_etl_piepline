@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dawn Hubbard",
+        "age": 98,
+        "gender": "male",
+        "address": "777 Christina Canyon Suite 294, Lake Lisa, FL 04207",
+        "phone": "001-974-327-4912",
+        "email": "stanleyedward@example.com",
+        "account": {
+            "account_number": "1bbb384a-6726-47d1-b837-4dd3e0b26329",
+            "balance": 44500.8,
+            "transactions": [
+                {
+                    "date": "2024-01-24",
+                    "description": "Deposit",
+                    "amount": 26989.17,
+                    "transaction_id": 51596348
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tammy Zamora",
+        "age": 27,
+        "gender": "male",
+        "address": "1427 Powell Lakes Suite 910, Alexisview, MP 33075",
+        "phone": "001-986-605-3359x850",
+        "email": "anthonylamb@example.com",
+        "account": {
+            "account_number": "89bccf66-5b31-4bb8-acb7-6f239e9f5f0b",
+            "balance": 32342.61,
+            "transactions": [
+                {
+                    "date": "2023-09-20",
+                    "description": "Interest",
+                    "amount": 16551.82,
+                    "transaction_id": 64090448
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ethan Nelson",
+        "age": 84,
+        "gender": "male",
+        "address": "3520 Miranda Groves, South Michelemouth, WI 05236",
+        "phone": "860-879-8427x0538",
+        "email": "rachel11@example.org",
+        "account": {
+            "account_number": "41461edd-470a-4931-adcb-6ee0c53f18be",
+            "balance": -36186.71,
+            "transactions": [
+                {
+                    "date": "2023-01-18",
+                    "description": "Deposit",
+                    "amount": 3585.74,
+                    "transaction_id": 114832760
+                }
+            ]
+        }
+    }
+}

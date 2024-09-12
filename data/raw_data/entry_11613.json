@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Grant Smith",
+        "age": 24,
+        "gender": "male",
+        "address": "82510 Pineda Harbor, West Julia, PR 56684",
+        "phone": "537-915-0375x4852",
+        "email": "jose79@example.org",
+        "account": {
+            "account_number": "08fcb240-a35d-4d57-b8b2-9586e63aca97",
+            "balance": -696.81,
+            "transactions": [
+                {
+                    "date": "2022-11-14",
+                    "description": "Deposit",
+                    "amount": 500.5,
+                    "transaction_id": 109372119
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Interest",
+                    "amount": 2029.08,
+                    "transaction_id": 85398258
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Deposit",
+                    "amount": 2055.36,
+                    "transaction_id": 83443999
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 48,
+        "gender": "female",
+        "address": "2076 Gaines Glens Apt. 109, New Anthony, SD 43924",
+        "phone": "+1-794-332-9880x150",
+        "email": "andrew04@example.com",
+        "account": {
+            "account_number": "a3150fdb-de64-4283-8970-7a3b2af59913",
+            "balance": 20567.82,
+            "transactions": [
+                {
+                    "date": "2022-12-18",
+                    "description": "Deposit",
+                    "amount": -2488.74,
+                    "transaction_id": 22367159
+                },
+                {
+                    "date": "2023-03-05",
+                    "description": "Deposit",
+                    "amount": -1736.15,
+                    "transaction_id": 66666763
+                },
+                {
+                    "date": "2022-12-03",
+                    "description": "Interest",
+                    "amount": 4460.02,
+                    "transaction_id": 107666968
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Withdrawal",
+                    "amount": -2958.82,
+                    "transaction_id": 26561599
+                }
+            ]
+        }
+    }
+}

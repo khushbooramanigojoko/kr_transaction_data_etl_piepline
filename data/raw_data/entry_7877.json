@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Frank Wilson",
+        "age": 75,
+        "gender": "female",
+        "address": "45882 Weaver Parks Suite 446, New Chase, MS 01419",
+        "phone": "789-934-1335",
+        "email": "umoore@example.com",
+        "account": {
+            "account_number": "4e445476-549a-4b82-9db6-8246ac20e439",
+            "balance": 47897.01,
+            "transactions": [
+                {
+                    "date": "2023-01-18",
+                    "description": "Withdrawal",
+                    "amount": 44318.55,
+                    "transaction_id": 65340672
+                },
+                {
+                    "date": "2023-08-13",
+                    "description": "Interest",
+                    "amount": 16890.61,
+                    "transaction_id": 42717822
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Deposit",
+                    "amount": 20641.12,
+                    "transaction_id": 87500951
+                },
+                {
+                    "date": "2024-04-29",
+                    "description": "Deposit",
+                    "amount": 21010.19,
+                    "transaction_id": 94418548
+                },
+                {
+                    "date": "2024-01-31",
+                    "description": "Interest",
+                    "amount": 11155.78,
+                    "transaction_id": 62919819
+                }
+            ]
+        }
+    }
+}

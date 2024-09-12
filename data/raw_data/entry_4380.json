@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Debra Medina",
+        "age": 78,
+        "gender": "female",
+        "address": "232 Robinson Harbors Apt. 923, Cruzland, VT 40691",
+        "phone": "001-207-592-0679x265",
+        "email": "wellsandrew@example.com",
+        "account": {
+            "account_number": "f19c9cf9-bbe8-417e-9972-bc8ba243b774",
+            "balance": 23006.77,
+            "transactions": [
+                {
+                    "date": "2023-10-30",
+                    "description": "Interest",
+                    "amount": 21315.95,
+                    "transaction_id": 65269328
+                },
+                {
+                    "date": "2023-10-31",
+                    "description": "Withdrawal",
+                    "amount": 6922.79,
+                    "transaction_id": 67546731
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Deposit",
+                    "amount": 8890.86,
+                    "transaction_id": 76649273
+                }
+            ]
+        }
+    }
+}

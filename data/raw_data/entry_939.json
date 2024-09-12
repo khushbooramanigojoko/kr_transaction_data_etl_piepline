@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Anna Diaz",
+        "age": 38,
+        "gender": "female",
+        "address": "94102 Taylor Garden Apt. 474, Elizabethfort, DC 65007",
+        "phone": "(438)878-5161x32658",
+        "email": "weekstamara@example.com",
+        "account": {
+            "account_number": "b6a856f1-4beb-4334-9663-d7d81a78628b",
+            "balance": 38597.42,
+            "transactions": [
+                {
+                    "date": "2024-04-19",
+                    "description": "Deposit",
+                    "amount": 15371.51,
+                    "transaction_id": 59487185
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Deposit",
+                    "amount": 14774.33,
+                    "transaction_id": 77037592
+                },
+                {
+                    "date": "2023-01-03",
+                    "description": "Withdrawal",
+                    "amount": 47887.48,
+                    "transaction_id": 84541352
+                }
+            ]
+        }
+    }
+}

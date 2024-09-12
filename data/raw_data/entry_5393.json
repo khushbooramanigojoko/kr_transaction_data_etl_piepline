@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jason Sanders",
+        "age": 18,
+        "gender": "male",
+        "address": "7151 Gutierrez Ports Suite 690, Kentshire, CO 93451",
+        "phone": "(703)585-4630x9114",
+        "email": "derek41@example.net",
+        "account": {
+            "account_number": "6359fa04-ecec-41ac-a3ae-49e592e8147e",
+            "balance": 8892.54,
+            "transactions": [
+                {
+                    "date": "2023-11-27",
+                    "description": "Withdrawal",
+                    "amount": 29214.19,
+                    "transaction_id": 28027832
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Withdrawal",
+                    "amount": 16916.44,
+                    "transaction_id": 64449942
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Interest",
+                    "amount": 48843.58,
+                    "transaction_id": 74243379
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Interest",
+                    "amount": 8357.08,
+                    "transaction_id": 25347198
+                }
+            ]
+        }
+    }
+}

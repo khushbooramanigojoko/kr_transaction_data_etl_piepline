@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Megan Simpson",
+        "age": 44,
+        "gender": "female",
+        "address": "1176 Taylor Gardens Apt. 005, North Annafurt, NM 10749",
+        "phone": "(896)660-7966x7267",
+        "email": "joshua98@example.net",
+        "account": {
+            "account_number": "1912d83d-1730-4992-948d-a43055ec3387",
+            "balance": 44786.35,
+            "transactions": [
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": 2703.14,
+                    "transaction_id": 32244330
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Deposit",
+                    "amount": 18032.62,
+                    "transaction_id": 45532895
+                }
+            ]
+        }
+    }
+}

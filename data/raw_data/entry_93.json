@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Gail Warren",
+        "age": 43,
+        "gender": "female",
+        "address": "2983 Antonio Brook, Port Willie, ND 48174",
+        "phone": "(963)942-5455x47523",
+        "email": "madams@example.org",
+        "account": {
+            "account_number": "c6c3dd49-1437-4365-a52a-27eae88ff095",
+            "balance": 37661.26,
+            "transactions": [
+                {
+                    "date": "2024-05-05",
+                    "description": "Deposit",
+                    "amount": 11866.28,
+                    "transaction_id": 37307738
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Deposit",
+                    "amount": 41172.95,
+                    "transaction_id": 113830734
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Matthew Hayes",
+        "age": 53,
+        "gender": "male",
+        "address": "9428 Quinn Point, South Joseph, WA 54034",
+        "phone": "+1-849-915-3572x642",
+        "email": "jesse25@example.com",
+        "account": {
+            "account_number": "9be69853-ed42-4791-987b-bbf403e0643f",
+            "balance": 5836.58,
+            "transactions": [
+                {
+                    "date": "2023-07-22",
+                    "description": "Deposit",
+                    "amount": 29856.2,
+                    "transaction_id": 13755471
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Withdrawal",
+                    "amount": 20234.29,
+                    "transaction_id": 19262871
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Interest",
+                    "amount": 17437.76,
+                    "transaction_id": 58937139
+                },
+                {
+                    "date": "2024-06-28",
+                    "description": "Deposit",
+                    "amount": 9723.09,
+                    "transaction_id": 46752509
+                },
+                {
+                    "date": "2024-01-23",
+                    "description": "Withdrawal",
+                    "amount": 43499.03,
+                    "transaction_id": 106376721
+                }
+            ]
+        }
+    }
+}

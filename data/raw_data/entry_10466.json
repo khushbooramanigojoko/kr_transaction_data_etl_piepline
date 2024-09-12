@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 34,
+        "gender": "female",
+        "address": "1361 Matthew Manors Apt. 327, West Tanyafurt, AK 62584",
+        "phone": "669.684.2694x1183",
+        "email": "john74@example.org",
+        "account": {
+            "account_number": "e6f59aba-84bf-4182-9288-4a3567ef1b20",
+            "balance": 34965.13,
+            "transactions": [
+                {
+                    "date": "2024-05-21",
+                    "description": "Withdrawal",
+                    "amount": -63.26,
+                    "transaction_id": 94751283
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 30,
+        "gender": "female",
+        "address": "06923 Mcdonald Keys Suite 059, Crystalmouth, MO 10427",
+        "phone": "+1-892-440-8835",
+        "email": "sabrina45@example.net",
+        "account": {
+            "account_number": "53a5bdaf-bdd0-4e01-9773-2dc2df6a591f",
+            "balance": 7176.34,
+            "transactions": [
+                {
+                    "date": "2023-08-29",
+                    "description": "Withdrawal",
+                    "amount": -3689.7,
+                    "transaction_id": 71097400
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Interest",
+                    "amount": -4290.56,
+                    "transaction_id": 44011969
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Withdrawal",
+                    "amount": 2060.91,
+                    "transaction_id": 89786255
+                }
+            ]
+        }
+    }
+}

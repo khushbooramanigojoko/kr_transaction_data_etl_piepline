@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Maurice Davis",
+        "age": 46,
+        "gender": "male",
+        "address": "0883 Destiny Camp Apt. 236, Mollybury, MP 47022",
+        "phone": "(889)522-8561",
+        "email": "dawsonkathy@example.com",
+        "account": {
+            "account_number": "95e4eb87-2ce6-4ea0-b54b-abb0e9337796",
+            "balance": 35340.03,
+            "transactions": [
+                {
+                    "date": "2024-02-01",
+                    "description": "Withdrawal",
+                    "amount": 47150.31,
+                    "transaction_id": 107988095
+                }
+            ]
+        }
+    }
+}

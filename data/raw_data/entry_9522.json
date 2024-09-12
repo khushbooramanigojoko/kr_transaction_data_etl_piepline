@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Cynthia Johnson",
+        "age": 41,
+        "gender": "female",
+        "address": "2003 Ward Ramp, West Aprilhaven, NC 72004",
+        "phone": "(384)397-0357x62372",
+        "email": "mcdonaldjessica@example.com",
+        "account": {
+            "account_number": "a52b1ee3-196d-42b8-836e-4c7e1f4ffaa0",
+            "balance": -15601.62,
+            "transactions": [
+                {
+                    "date": "2023-05-26",
+                    "description": "Deposit",
+                    "amount": -1497.78,
+                    "transaction_id": 84819664
+                }
+            ]
+        }
+    }
+}

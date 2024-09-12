@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 40,
+        "gender": "male",
+        "address": "204 Sarah Greens, Hicksborough, IL 11327",
+        "phone": "952.454.6551",
+        "email": "ipowell@example.org",
+        "account": {
+            "account_number": "ff034930-9b9a-4f94-a176-0fa373387095",
+            "balance": 20809.01,
+            "transactions": [
+                {
+                    "date": "2024-08-04",
+                    "description": "Deposit",
+                    "amount": -4767.94,
+                    "transaction_id": 79257530
+                },
+                {
+                    "date": "2022-10-19",
+                    "description": "Interest",
+                    "amount": -1341.37,
+                    "transaction_id": 117489443
+                }
+            ]
+        }
+    }
+}

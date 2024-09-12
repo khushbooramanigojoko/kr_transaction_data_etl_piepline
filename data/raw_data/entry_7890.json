@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Angela Wilson",
+        "age": 88,
+        "gender": "male",
+        "address": "69519 Debbie Loaf, South Lisaland, AR 87268",
+        "phone": "897.593.4306x89624",
+        "email": "ppugh@example.net",
+        "account": {
+            "account_number": "a0193f8b-cfdc-49ba-aa31-6273767f0db1",
+            "balance": 14293.16,
+            "transactions": [
+                {
+                    "date": "2024-06-10",
+                    "description": "Interest",
+                    "amount": 48482.15,
+                    "transaction_id": 75851530
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Deposit",
+                    "amount": 15102.16,
+                    "transaction_id": 44026284
+                },
+                {
+                    "date": "2022-10-10",
+                    "description": "Interest",
+                    "amount": 22197.69,
+                    "transaction_id": 28743644
+                }
+            ]
+        }
+    }
+}

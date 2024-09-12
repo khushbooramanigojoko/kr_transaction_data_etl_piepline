@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kimberly Brandt",
+        "age": 32,
+        "gender": "male",
+        "address": "25822 Jackson Circle, Oconnorland, PW 10017",
+        "phone": "001-232-468-2222x693",
+        "email": "munozian@example.net",
+        "account": {
+            "account_number": "d8d436b8-4e67-4045-a2e3-f7498665f99a",
+            "balance": 26588.3,
+            "transactions": [
+                {
+                    "date": "2023-06-04",
+                    "description": "Interest",
+                    "amount": 49588.11,
+                    "transaction_id": 71111953
+                },
+                {
+                    "date": "2024-06-13",
+                    "description": "Interest",
+                    "amount": 711.34,
+                    "transaction_id": 95814400
+                },
+                {
+                    "date": "2024-08-29",
+                    "description": "Deposit",
+                    "amount": 44747.96,
+                    "transaction_id": 114314785
+                },
+                {
+                    "date": "2022-12-22",
+                    "description": "Withdrawal",
+                    "amount": 20555.74,
+                    "transaction_id": 10444992
+                }
+            ]
+        }
+    }
+}

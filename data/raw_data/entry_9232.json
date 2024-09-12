@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sharon Martinez",
+        "age": 37,
+        "gender": "female",
+        "address": "135 Gamble Harbor, Baldwinland, SC 53706",
+        "phone": "4346773470",
+        "email": "vmartinez@example.net",
+        "account": {
+            "account_number": "8d4d6de2-dc16-43c2-a066-1e9533e322e9",
+            "balance": -20293.11,
+            "transactions": [
+                {
+                    "date": "2024-08-29",
+                    "description": "Interest",
+                    "amount": -141.04,
+                    "transaction_id": 117507029
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Withdrawal",
+                    "amount": 4996.8,
+                    "transaction_id": 50210988
+                },
+                {
+                    "date": "2023-09-06",
+                    "description": "Interest",
+                    "amount": 3405.8,
+                    "transaction_id": 20792154
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brian Chaney",
+        "age": 85,
+        "gender": "female",
+        "address": "472 Vincent Inlet Suite 285, West Cynthiamouth, WV 01203",
+        "phone": "(436)385-6061",
+        "email": "jeffrey01@example.com",
+        "account": {
+            "account_number": "ffb32dfc-cc81-490c-a698-8765ec6479d0",
+            "balance": 15382.6,
+            "transactions": [
+                {
+                    "date": "2022-09-09",
+                    "description": "Deposit",
+                    "amount": 17050.12,
+                    "transaction_id": 7765312
+                }
+            ]
+        }
+    }
+}

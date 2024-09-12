@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Keith Adams",
+        "age": 45,
+        "gender": "female",
+        "address": "20384 Nelson Field, Maddenland, ID 56986",
+        "phone": "001-325-493-1739",
+        "email": "zespinoza@example.org",
+        "account": {
+            "account_number": "df9291e7-2594-4d5c-a5c3-ca02d9a25f7e",
+            "balance": 2390.18,
+            "transactions": [
+                {
+                    "date": "2023-07-17",
+                    "description": "Withdrawal",
+                    "amount": 1153.16,
+                    "transaction_id": 16313491
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Withdrawal",
+                    "amount": 7511.35,
+                    "transaction_id": 47199722
+                },
+                {
+                    "date": "2023-07-15",
+                    "description": "Withdrawal",
+                    "amount": 23684.68,
+                    "transaction_id": 81524810
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Interest",
+                    "amount": 27998.15,
+                    "transaction_id": 16351189
+                }
+            ]
+        }
+    }
+}

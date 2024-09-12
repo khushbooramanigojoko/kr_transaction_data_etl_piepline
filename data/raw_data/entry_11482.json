@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Allen Barnett",
+        "age": 49,
+        "gender": "female",
+        "address": "36584 Miller Green, South Sherryburgh, WA 82188",
+        "phone": "+1-407-920-9685x031",
+        "email": "georgesusan@example.net",
+        "account": {
+            "account_number": "d185bf01-d7fe-4af9-9034-a7c93e306533",
+            "balance": -32605.45,
+            "transactions": [
+                {
+                    "date": "2022-12-06",
+                    "description": "Deposit",
+                    "amount": 1217.8,
+                    "transaction_id": 48047331
+                },
+                {
+                    "date": "2022-09-20",
+                    "description": "Deposit",
+                    "amount": -23.87,
+                    "transaction_id": 10809724
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Deposit",
+                    "amount": -2946.54,
+                    "transaction_id": 109965332
+                },
+                {
+                    "date": "2023-04-18",
+                    "description": "Deposit",
+                    "amount": 2083.24,
+                    "transaction_id": 103925121
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Interest",
+                    "amount": 2439.32,
+                    "transaction_id": 50142846
+                }
+            ]
+        }
+    }
+}

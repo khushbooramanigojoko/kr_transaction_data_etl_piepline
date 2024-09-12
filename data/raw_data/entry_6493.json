@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Larry Donovan",
+        "age": 96,
+        "gender": "female",
+        "address": "67408 Carmen Freeway, Shawnfurt, TN 85360",
+        "phone": "391-348-0612x53030",
+        "email": "paulsharon@example.com",
+        "account": {
+            "account_number": "47ccaa97-9e06-4a30-90de-856114f5e438",
+            "balance": 15681.07,
+            "transactions": [
+                {
+                    "date": "2023-05-03",
+                    "description": "Withdrawal",
+                    "amount": 35523.13,
+                    "transaction_id": 43697562
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Interest",
+                    "amount": 860.9,
+                    "transaction_id": 7337334
+                },
+                {
+                    "date": "2024-01-25",
+                    "description": "Withdrawal",
+                    "amount": 9067.59,
+                    "transaction_id": 118136109
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Withdrawal",
+                    "amount": 23213.41,
+                    "transaction_id": 77556324
+                }
+            ]
+        }
+    }
+}

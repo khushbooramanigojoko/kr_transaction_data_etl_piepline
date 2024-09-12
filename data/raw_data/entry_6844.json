@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kara Estes",
+        "age": 55,
+        "gender": "female",
+        "address": "8145 Amy Landing Apt. 909, New Ericton, FL 50669",
+        "phone": "494.862.2369x61798",
+        "email": "victorchurch@example.org",
+        "account": {
+            "account_number": "4a94628d-f5e8-4a43-9cdf-7b0507ee7038",
+            "balance": 33808.19,
+            "transactions": [
+                {
+                    "date": "2023-09-10",
+                    "description": "Deposit",
+                    "amount": 42724.79,
+                    "transaction_id": 70332193
+                },
+                {
+                    "date": "2023-02-08",
+                    "description": "Deposit",
+                    "amount": 36107.11,
+                    "transaction_id": 100080264
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ann Murillo",
+        "age": 38,
+        "gender": "male",
+        "address": "4090 Ross Way Apt. 413, Danieltown, NY 58757",
+        "phone": "(862)225-2933x3314",
+        "email": "michaelmiles@example.org",
+        "account": {
+            "account_number": "5a99ff95-0add-45a6-a0f5-866b6d18efc3",
+            "balance": 38505.26,
+            "transactions": [
+                {
+                    "date": "2024-04-25",
+                    "description": "Interest",
+                    "amount": 47772.89,
+                    "transaction_id": 79036513
+                },
+                {
+                    "date": "2022-11-12",
+                    "description": "Deposit",
+                    "amount": 27312.81,
+                    "transaction_id": 119937795
+                }
+            ]
+        }
+    }
+}

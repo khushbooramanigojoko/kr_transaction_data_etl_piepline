@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jacqueline Ramirez",
+        "age": 56,
+        "gender": "female",
+        "address": "0162 Hayden Groves Apt. 474, West Franceschester, ND 72260",
+        "phone": "453-700-0028",
+        "email": "christina65@example.com",
+        "account": {
+            "account_number": "aca616ea-2c4b-4848-b7c6-18ec1a49d576",
+            "balance": 20790.51,
+            "transactions": [
+                {
+                    "date": "2023-11-12",
+                    "description": "Interest",
+                    "amount": 22578.65,
+                    "transaction_id": 20115013
+                }
+            ]
+        }
+    }
+}

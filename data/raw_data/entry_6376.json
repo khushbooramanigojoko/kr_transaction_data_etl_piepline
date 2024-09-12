@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sherry Moore",
+        "age": 43,
+        "gender": "female",
+        "address": "PSC 8461, Box 7104, APO AP 89440",
+        "phone": "001-491-426-3138",
+        "email": "cmccall@example.net",
+        "account": {
+            "account_number": "4c070d83-ca8e-4a70-becc-45f2bc54dd96",
+            "balance": 26839.5,
+            "transactions": [
+                {
+                    "date": "2023-03-28",
+                    "description": "Deposit",
+                    "amount": 19945.46,
+                    "transaction_id": 48411352
+                },
+                {
+                    "date": "2023-11-18",
+                    "description": "Interest",
+                    "amount": 26185.8,
+                    "transaction_id": 113417591
+                },
+                {
+                    "date": "2024-05-27",
+                    "description": "Withdrawal",
+                    "amount": 18459.23,
+                    "transaction_id": 67251402
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Interest",
+                    "amount": 2133.53,
+                    "transaction_id": 72623478
+                }
+            ]
+        }
+    }
+}

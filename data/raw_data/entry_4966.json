@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ronald Rivera",
+        "age": 54,
+        "gender": "female",
+        "address": "89853 Sarah Heights, North Dawn, MN 02606",
+        "phone": "(304)742-1239x314",
+        "email": "kbaker@example.org",
+        "account": {
+            "account_number": "f6427994-6a5c-424c-9adf-b32103964137",
+            "balance": 4091.83,
+            "transactions": [
+                {
+                    "date": "2023-03-27",
+                    "description": "Withdrawal",
+                    "amount": 25949.65,
+                    "transaction_id": 5889842
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Withdrawal",
+                    "amount": 26749.26,
+                    "transaction_id": 96018655
+                }
+            ]
+        }
+    }
+}

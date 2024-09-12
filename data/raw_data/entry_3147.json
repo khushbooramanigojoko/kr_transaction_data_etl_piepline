@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amy Reed",
+        "age": 57,
+        "gender": "female",
+        "address": "6854 Taylor Vista, South Shane, LA 22742",
+        "phone": "001-971-583-0281x1257",
+        "email": "wisekevin@example.net",
+        "account": {
+            "account_number": "9a474418-ca44-4ea1-903a-16a00887224e",
+            "balance": 1083.18,
+            "transactions": [
+                {
+                    "date": "2023-02-16",
+                    "description": "Withdrawal",
+                    "amount": 19501.02,
+                    "transaction_id": 1433683
+                },
+                {
+                    "date": "2023-10-02",
+                    "description": "Interest",
+                    "amount": 33504.28,
+                    "transaction_id": 2213232
+                },
+                {
+                    "date": "2023-08-04",
+                    "description": "Interest",
+                    "amount": 23565.26,
+                    "transaction_id": 37193924
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Withdrawal",
+                    "amount": 8327.05,
+                    "transaction_id": 8836050
+                }
+            ]
+        }
+    }
+}

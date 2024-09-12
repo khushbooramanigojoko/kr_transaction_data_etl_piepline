@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Scott Barrera",
+        "age": 83,
+        "gender": "male",
+        "address": "468 Kenneth Well, Brettmouth, KS 77995",
+        "phone": "257.314.4946x82541",
+        "email": "shawnafitzgerald@example.net",
+        "account": {
+            "account_number": "95f77df5-2b4a-4d6f-9d7a-bd6433ec57df",
+            "balance": -9651.92,
+            "transactions": [
+                {
+                    "date": "2023-05-10",
+                    "description": "Deposit",
+                    "amount": -308.07,
+                    "transaction_id": 67249896
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Deposit",
+                    "amount": -4206.57,
+                    "transaction_id": 38749246
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Withdrawal",
+                    "amount": -3539.12,
+                    "transaction_id": 99822032
+                },
+                {
+                    "date": "2024-05-25",
+                    "description": "Interest",
+                    "amount": -2222.97,
+                    "transaction_id": 75401621
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Interest",
+                    "amount": 3889.51,
+                    "transaction_id": 12109825
+                }
+            ]
+        }
+    }
+}

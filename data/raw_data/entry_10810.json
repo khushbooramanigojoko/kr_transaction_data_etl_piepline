@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 78,
+        "gender": "male",
+        "address": "8522 Kevin Trace, East Samuel, MH 22837",
+        "phone": "433-804-8943x1302",
+        "email": "welchdavid@example.net",
+        "account": {
+            "account_number": "88564976-4600-48ea-8c6d-7b19877929b6",
+            "balance": 23670.69,
+            "transactions": [
+                {
+                    "date": "2022-10-24",
+                    "description": "Interest",
+                    "amount": 1193.88,
+                    "transaction_id": 89447389
+                }
+            ]
+        }
+    }
+}

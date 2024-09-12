@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Alicia Dean",
+        "age": 46,
+        "gender": "male",
+        "address": "045 Lisa Passage, Bethtown, NM 35958",
+        "phone": "(389)346-2975x070",
+        "email": "icooper@example.com",
+        "account": {
+            "account_number": "0e4e181f-3e1c-4875-a5ef-b7e277bdc171",
+            "balance": 31877.12,
+            "transactions": [
+                {
+                    "date": "2023-10-24",
+                    "description": "Deposit",
+                    "amount": 37642.83,
+                    "transaction_id": 73126287
+                },
+                {
+                    "date": "2024-01-31",
+                    "description": "Deposit",
+                    "amount": 42741.24,
+                    "transaction_id": 89155105
+                }
+            ]
+        }
+    }
+}

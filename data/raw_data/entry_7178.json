@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jason Conley",
+        "age": 86,
+        "gender": "female",
+        "address": "03644 Fox Summit Suite 901, West Tyler, UT 57472",
+        "phone": "358-315-3999x17801",
+        "email": "acostadakota@example.org",
+        "account": {
+            "account_number": "1d39d8b0-b520-4a5b-b062-b17b3be9b1ba",
+            "balance": 27980.15,
+            "transactions": [
+                {
+                    "date": "2024-01-16",
+                    "description": "Deposit",
+                    "amount": 15261.69,
+                    "transaction_id": 118827020
+                },
+                {
+                    "date": "2024-06-11",
+                    "description": "Deposit",
+                    "amount": 39045.55,
+                    "transaction_id": 15124599
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Withdrawal",
+                    "amount": 46386.82,
+                    "transaction_id": 98278462
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Deposit",
+                    "amount": 2205.16,
+                    "transaction_id": 70571772
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Deposit",
+                    "amount": 28219.53,
+                    "transaction_id": 15791496
+                }
+            ]
+        }
+    }
+}

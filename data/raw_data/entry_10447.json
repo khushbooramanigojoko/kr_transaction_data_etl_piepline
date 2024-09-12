@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 31,
+        "gender": "female",
+        "address": "716 Peter Meadows, Michaelberg, WA 15010",
+        "phone": "+1-571-894-7486x2214",
+        "email": "martinernest@example.com",
+        "account": {
+            "account_number": "557df1f7-2b33-4688-933c-7508d6e1165f",
+            "balance": 20646.0,
+            "transactions": [
+                {
+                    "date": "2024-02-22",
+                    "description": "Interest",
+                    "amount": -7.73,
+                    "transaction_id": 85788107
+                }
+            ]
+        }
+    }
+}

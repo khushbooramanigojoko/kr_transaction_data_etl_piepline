@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "male",
+        "address": "391 Yolanda Street, East Nicholasmouth, NJ 64913",
+        "phone": "001-944-333-1405x964",
+        "email": "hthomas@example.net",
+        "account": {
+            "account_number": "a46d439d-db9e-483b-b9cf-25c3c1885885",
+            "balance": 41823.33,
+            "transactions": [
+                {
+                    "date": "2022-09-09",
+                    "description": "Deposit",
+                    "amount": -1937.14,
+                    "transaction_id": 63809757
+                },
+                {
+                    "date": "2024-06-13",
+                    "description": "Deposit",
+                    "amount": -151.74,
+                    "transaction_id": 31374562
+                },
+                {
+                    "date": "2023-10-01",
+                    "description": "Interest",
+                    "amount": 4408.56,
+                    "transaction_id": 30189184
+                }
+            ]
+        }
+    }
+}

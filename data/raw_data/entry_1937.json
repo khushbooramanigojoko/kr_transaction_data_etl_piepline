@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Vickie Mays",
+        "age": 43,
+        "gender": "male",
+        "address": "5648 Michael Knolls Apt. 068, Maldonadostad, VI 15507",
+        "phone": "9893007866",
+        "email": "littlemakayla@example.net",
+        "account": {
+            "account_number": "ada4f2f0-2937-4206-9575-1b4f74c6577a",
+            "balance": 41080.36,
+            "transactions": [
+                {
+                    "date": "2023-03-31",
+                    "description": "Withdrawal",
+                    "amount": 28130.47,
+                    "transaction_id": 42119256
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Interest",
+                    "amount": 4259.49,
+                    "transaction_id": 18464196
+                }
+            ]
+        }
+    }
+}

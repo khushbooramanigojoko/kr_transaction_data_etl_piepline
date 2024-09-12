@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Terri Hutchinson",
+        "age": 60,
+        "gender": "female",
+        "address": "7774 Wendy Point Apt. 011, Kathyborough, PW 30088",
+        "phone": "218-575-5400",
+        "email": "khuynh@example.org",
+        "account": {
+            "account_number": "bb3c763a-4099-4680-9937-d27532ee333b",
+            "balance": 14115.54,
+            "transactions": [
+                {
+                    "date": "2023-03-04",
+                    "description": "Withdrawal",
+                    "amount": 47866.99,
+                    "transaction_id": 97443619
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Interest",
+                    "amount": 14555.1,
+                    "transaction_id": 83458727
+                },
+                {
+                    "date": "2024-01-20",
+                    "description": "Withdrawal",
+                    "amount": 18596.12,
+                    "transaction_id": 33384946
+                },
+                {
+                    "date": "2024-02-21",
+                    "description": "Withdrawal",
+                    "amount": 4803.47,
+                    "transaction_id": 106483628
+                }
+            ]
+        }
+    }
+}

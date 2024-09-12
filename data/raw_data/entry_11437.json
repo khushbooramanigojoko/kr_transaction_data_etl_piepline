@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 34,
+        "gender": "male",
+        "address": "20763 Deborah Radial, Schultzport, FL 17213",
+        "phone": "774.261.3450x7721",
+        "email": "taylorlynn@example.org",
+        "account": {
+            "account_number": "9af663b0-11ff-47b9-b1fb-87bcf1e2c974",
+            "balance": 37357.21,
+            "transactions": [
+                {
+                    "date": "2024-01-09",
+                    "description": "Withdrawal",
+                    "amount": -31.8,
+                    "transaction_id": 76651434
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Morgan Petty",
+        "age": 32,
+        "gender": "male",
+        "address": "043 John Groves Suite 546, Port Janicebury, CT 53064",
+        "phone": "212-824-0937x95585",
+        "email": "guerrabrittany@example.org",
+        "account": {
+            "account_number": "e4f89506-1557-4dc4-93fe-db5f7c279a42",
+            "balance": 18916.97,
+            "transactions": [
+                {
+                    "date": "2024-04-23",
+                    "description": "Withdrawal",
+                    "amount": 37456.86,
+                    "transaction_id": 88144237
+                },
+                {
+                    "date": "2023-10-21",
+                    "description": "Withdrawal",
+                    "amount": 16796.89,
+                    "transaction_id": 10275757
+                }
+            ]
+        }
+    }
+}

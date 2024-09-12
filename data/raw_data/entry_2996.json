@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Nicole Jenkins",
+        "age": 98,
+        "gender": "male",
+        "address": "324 Emily Squares Apt. 437, West John, AR 13072",
+        "phone": "+1-490-218-1841x137",
+        "email": "rodriguezmeredith@example.com",
+        "account": {
+            "account_number": "cd799fb7-b60b-4a8b-8cf6-14747b0ee938",
+            "balance": 17151.0,
+            "transactions": [
+                {
+                    "date": "2024-07-04",
+                    "description": "Deposit",
+                    "amount": 34291.22,
+                    "transaction_id": 80857593
+                },
+                {
+                    "date": "2022-09-23",
+                    "description": "Interest",
+                    "amount": 24081.54,
+                    "transaction_id": 36744147
+                }
+            ]
+        }
+    }
+}

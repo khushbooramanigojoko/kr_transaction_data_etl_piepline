@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Suzanne Clark",
+        "age": 73,
+        "gender": "male",
+        "address": "Unit 5484 Box 7084, DPO AP 39646",
+        "phone": "+1-827-703-4335x7878",
+        "email": "lisa42@example.net",
+        "account": {
+            "account_number": "6d86a618-4fc5-4926-b86c-1180dc40faf4",
+            "balance": -47626.27,
+            "transactions": [
+                {
+                    "date": "2024-04-09",
+                    "description": "Deposit",
+                    "amount": -498.25,
+                    "transaction_id": 14116119
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Withdrawal",
+                    "amount": 1900.58,
+                    "transaction_id": 87890537
+                },
+                {
+                    "date": "2023-03-24",
+                    "description": "Deposit",
+                    "amount": 1748.31,
+                    "transaction_id": 112273951
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Deposit",
+                    "amount": 3978.23,
+                    "transaction_id": 82373800
+                },
+                {
+                    "date": "2024-02-06",
+                    "description": "Withdrawal",
+                    "amount": -3712.12,
+                    "transaction_id": 68948519
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "James Duncan",
+        "age": 71,
+        "gender": "female",
+        "address": "4983 Brittany Manors, South Gregorychester, PR 06962",
+        "phone": "662.224.2676x3664",
+        "email": "drakelaura@example.org",
+        "account": {
+            "account_number": "547d6291-c355-4db3-bfa7-5e2337c8090b",
+            "balance": 4835.26,
+            "transactions": [
+                {
+                    "date": "2023-07-22",
+                    "description": "Interest",
+                    "amount": 10942.92,
+                    "transaction_id": 40138537
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Interest",
+                    "amount": 39275.0,
+                    "transaction_id": 54615516
+                },
+                {
+                    "date": "2023-10-01",
+                    "description": "Interest",
+                    "amount": 10578.77,
+                    "transaction_id": 56639050
+                }
+            ]
+        }
+    }
+}

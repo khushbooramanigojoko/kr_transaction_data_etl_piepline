@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Andrew Pierce",
+        "age": 71,
+        "gender": "female",
+        "address": "509 Suarez Shores Apt. 741, East Anthony, NJ 18624",
+        "phone": "(627)255-5154",
+        "email": "cmccoy@example.com",
+        "account": {
+            "account_number": "3e71a0fb-7ed5-40b8-8a66-678333a878ed",
+            "balance": 14159.43,
+            "transactions": [
+                {
+                    "date": "2023-04-08",
+                    "description": "Deposit",
+                    "amount": 36707.51,
+                    "transaction_id": 84462488
+                },
+                {
+                    "date": "2023-08-25",
+                    "description": "Withdrawal",
+                    "amount": 11034.39,
+                    "transaction_id": 26663967
+                },
+                {
+                    "date": "2023-03-19",
+                    "description": "Withdrawal",
+                    "amount": 22270.48,
+                    "transaction_id": 8482782
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Deposit",
+                    "amount": 18550.47,
+                    "transaction_id": 97837855
+                },
+                {
+                    "date": "2023-04-05",
+                    "description": "Interest",
+                    "amount": 3455.78,
+                    "transaction_id": 55172094
+                }
+            ]
+        }
+    }
+}

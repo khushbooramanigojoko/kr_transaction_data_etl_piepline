@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 96,
+        "gender": "female",
+        "address": "9278 Sarah Pike, Torrestown, NJ 93253",
+        "phone": "9168777931",
+        "email": "calderonpatrick@example.com",
+        "account": {
+            "account_number": "378b3f15-c1fe-47af-b49f-b1cd39f53cda",
+            "balance": 49626.11,
+            "transactions": [
+                {
+                    "date": "2022-09-03",
+                    "description": "Deposit",
+                    "amount": 345.91,
+                    "transaction_id": 115249063
+                },
+                {
+                    "date": "2024-01-18",
+                    "description": "Interest",
+                    "amount": -4513.73,
+                    "transaction_id": 45527000
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Deposit",
+                    "amount": -2261.06,
+                    "transaction_id": 32582482
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Deposit",
+                    "amount": 2562.54,
+                    "transaction_id": 113006435
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Crystal Kelly",
+        "age": 28,
+        "gender": "female",
+        "address": "8227 Victor Villages, North Katie, FL 54705",
+        "phone": "+1-923-861-1293x51146",
+        "email": "nichole12@example.org",
+        "account": {
+            "account_number": "23685b05-6ec7-40f7-a13f-6313ffbf8f69",
+            "balance": 25649.28,
+            "transactions": [
+                {
+                    "date": "2023-09-08",
+                    "description": "Interest",
+                    "amount": 17580.7,
+                    "transaction_id": 82753628
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Withdrawal",
+                    "amount": 25041.17,
+                    "transaction_id": 77788568
+                },
+                {
+                    "date": "2022-09-27",
+                    "description": "Withdrawal",
+                    "amount": 6724.72,
+                    "transaction_id": 13604046
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Deposit",
+                    "amount": 28570.26,
+                    "transaction_id": 53689853
+                }
+            ]
+        }
+    }
+}

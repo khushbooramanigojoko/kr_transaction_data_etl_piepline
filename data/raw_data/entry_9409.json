@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 91,
+        "gender": "female",
+        "address": "Unit 8306 Box 2907, DPO AE 95351",
+        "phone": "(807)570-7713x1199",
+        "email": "zlarson@example.net",
+        "account": {
+            "account_number": "ba20edd9-7eab-4c4a-ac95-26e7dee162e6",
+            "balance": 1443.38,
+            "transactions": [
+                {
+                    "date": "2023-03-21",
+                    "description": "Interest",
+                    "amount": -874.54,
+                    "transaction_id": 54543086
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Withdrawal",
+                    "amount": 4538.6,
+                    "transaction_id": 62462000
+                }
+            ]
+        }
+    }
+}

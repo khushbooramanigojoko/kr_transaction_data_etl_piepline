@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jennifer Taylor",
+        "age": 61,
+        "gender": "female",
+        "address": "5857 Joshua Avenue Suite 240, Lake Andrea, OR 72593",
+        "phone": "4642269142",
+        "email": "william45@example.net",
+        "account": {
+            "account_number": "df9d833f-b543-426c-a6fb-6a1fb7d7d9a0",
+            "balance": 41282.39,
+            "transactions": [
+                {
+                    "date": "2024-01-15",
+                    "description": "Interest",
+                    "amount": 34365.74,
+                    "transaction_id": 14093518
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Deposit",
+                    "amount": 12486.75,
+                    "transaction_id": 81940989
+                },
+                {
+                    "date": "2023-08-18",
+                    "description": "Deposit",
+                    "amount": 13532.46,
+                    "transaction_id": 119409476
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Withdrawal",
+                    "amount": 43259.89,
+                    "transaction_id": 88700256
+                }
+            ]
+        }
+    }
+}

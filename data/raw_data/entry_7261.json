@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Elizabeth Shaffer",
+        "age": 92,
+        "gender": "male",
+        "address": "30085 Jessica Ridges Apt. 715, West Tracie, FL 79994",
+        "phone": "(644)254-7252",
+        "email": "cnoble@example.org",
+        "account": {
+            "account_number": "fefab7d7-bd4d-4fc5-9527-11acb71889a3",
+            "balance": 34122.98,
+            "transactions": [
+                {
+                    "date": "2023-07-07",
+                    "description": "Deposit",
+                    "amount": 49693.52,
+                    "transaction_id": 49303209
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Interest",
+                    "amount": 31729.9,
+                    "transaction_id": 17800911
+                }
+            ]
+        }
+    }
+}

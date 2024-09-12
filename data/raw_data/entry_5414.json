@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jennifer Sanchez",
+        "age": 72,
+        "gender": "female",
+        "address": "PSC 4598, Box 9994, APO AP 98715",
+        "phone": "769-330-4684x010",
+        "email": "jacksonkimberly@example.net",
+        "account": {
+            "account_number": "c3b74da5-dac4-456b-abed-ac56037bfdfa",
+            "balance": 38910.7,
+            "transactions": [
+                {
+                    "date": "2024-03-10",
+                    "description": "Withdrawal",
+                    "amount": 14222.44,
+                    "transaction_id": 44790390
+                },
+                {
+                    "date": "2022-10-21",
+                    "description": "Interest",
+                    "amount": 31923.6,
+                    "transaction_id": 110417956
+                },
+                {
+                    "date": "2024-07-24",
+                    "description": "Deposit",
+                    "amount": 11233.31,
+                    "transaction_id": 12692121
+                }
+            ]
+        }
+    }
+}

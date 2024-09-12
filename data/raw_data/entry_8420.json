@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kristen Ruiz",
+        "age": 55,
+        "gender": "male",
+        "address": "943 Farrell Stravenue, North Tiffany, OH 65422",
+        "phone": "(615)369-7422x842",
+        "email": "josesanchez@example.net",
+        "account": {
+            "account_number": "6f4823d8-256a-4807-9e33-2058206697ba",
+            "balance": 6693.69,
+            "transactions": [
+                {
+                    "date": "2023-07-22",
+                    "description": "Deposit",
+                    "amount": 43750.97,
+                    "transaction_id": 42459089
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Withdrawal",
+                    "amount": 9393.24,
+                    "transaction_id": 29997123
+                },
+                {
+                    "date": "2022-11-24",
+                    "description": "Deposit",
+                    "amount": 2649.65,
+                    "transaction_id": 98612042
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Interest",
+                    "amount": 15024.05,
+                    "transaction_id": 40333486
+                }
+            ]
+        }
+    }
+}

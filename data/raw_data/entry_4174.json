@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Aimee Owen",
+        "age": 39,
+        "gender": "male",
+        "address": "950 Cynthia Rest Suite 244, New Jeremystad, IL 82402",
+        "phone": "714-362-8453x432",
+        "email": "fthomas@example.net",
+        "account": {
+            "account_number": "3c6c9b76-156f-47a5-a805-f86749caa83f",
+            "balance": 27404.27,
+            "transactions": [
+                {
+                    "date": "2023-12-15",
+                    "description": "Withdrawal",
+                    "amount": 3796.56,
+                    "transaction_id": 103253957
+                },
+                {
+                    "date": "2023-08-18",
+                    "description": "Deposit",
+                    "amount": 20911.19,
+                    "transaction_id": 29493597
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Interest",
+                    "amount": 39784.6,
+                    "transaction_id": 14561162
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Interest",
+                    "amount": 29961.91,
+                    "transaction_id": 34191941
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Eric Johnson",
+        "age": 92,
+        "gender": "male",
+        "address": "37152 Porter Stravenue, Ambershire, CA 20037",
+        "phone": "001-224-885-5677x067",
+        "email": "stanley97@example.net",
+        "account": {
+            "account_number": "5ff47e32-d77f-4c97-aca7-f659bb10cd14",
+            "balance": 21577.26,
+            "transactions": [
+                {
+                    "date": "2024-07-03",
+                    "description": "Deposit",
+                    "amount": 20326.26,
+                    "transaction_id": 93005651
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Interest",
+                    "amount": 39247.08,
+                    "transaction_id": 32154685
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mrs. Bridget Franklin",
+        "age": 47,
+        "gender": "male",
+        "address": "890 Kristen Circle Apt. 624, West Dylanbury, MH 59806",
+        "phone": "001-795-955-4765x92589",
+        "email": "agreene@example.net",
+        "account": {
+            "account_number": "8daa457a-6551-413d-8186-98512cd0350a",
+            "balance": 3634.5,
+            "transactions": [
+                {
+                    "date": "2024-03-19",
+                    "description": "Deposit",
+                    "amount": 35673.98,
+                    "transaction_id": 61948278
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Interest",
+                    "amount": 20081.48,
+                    "transaction_id": 38797208
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Withdrawal",
+                    "amount": 34234.83,
+                    "transaction_id": 111739412
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Interest",
+                    "amount": 17932.0,
+                    "transaction_id": 104025073
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Interest",
+                    "amount": 23186.24,
+                    "transaction_id": 45706180
+                }
+            ]
+        }
+    }
+}

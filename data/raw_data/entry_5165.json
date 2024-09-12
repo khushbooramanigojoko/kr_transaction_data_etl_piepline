@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Candice Wade",
+        "age": 55,
+        "gender": "male",
+        "address": "077 Russell Ways, South Sean, LA 48014",
+        "phone": "001-964-555-0937x0639",
+        "email": "morrisdaniel@example.com",
+        "account": {
+            "account_number": "c9099d5c-9c3d-4ee4-b135-b30d6bc18134",
+            "balance": 21134.15,
+            "transactions": [
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": 47602.82,
+                    "transaction_id": 96417773
+                },
+                {
+                    "date": "2022-09-19",
+                    "description": "Interest",
+                    "amount": 41579.57,
+                    "transaction_id": 46652245
+                },
+                {
+                    "date": "2024-08-23",
+                    "description": "Withdrawal",
+                    "amount": 23887.82,
+                    "transaction_id": 119928586
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Interest",
+                    "amount": 16177.21,
+                    "transaction_id": 45153219
+                }
+            ]
+        }
+    }
+}

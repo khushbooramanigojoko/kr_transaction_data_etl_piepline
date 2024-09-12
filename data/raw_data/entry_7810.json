@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Richard Wallace",
+        "age": 79,
+        "gender": "male",
+        "address": "5490 Baker Pine Suite 532, Lake Danielle, SD 42450",
+        "phone": "538-799-4804x8027",
+        "email": "fostermichael@example.com",
+        "account": {
+            "account_number": "0b8bb346-dce7-49aa-b6b5-1fe44299a257",
+            "balance": 31593.62,
+            "transactions": [
+                {
+                    "date": "2024-07-10",
+                    "description": "Withdrawal",
+                    "amount": 3027.52,
+                    "transaction_id": 96953127
+                }
+            ]
+        }
+    }
+}

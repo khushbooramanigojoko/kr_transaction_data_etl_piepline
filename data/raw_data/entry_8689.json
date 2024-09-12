@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michelle Stevenson",
+        "age": 26,
+        "gender": "male",
+        "address": "045 Amy Plaza, West Brandonmouth, OK 46957",
+        "phone": "+1-953-756-9571x14913",
+        "email": "amandarios@example.com",
+        "account": {
+            "account_number": "6bd92752-84fd-425f-9339-5a68043980ae",
+            "balance": 38832.7,
+            "transactions": [
+                {
+                    "date": "2022-09-03",
+                    "description": "Withdrawal",
+                    "amount": 39751.53,
+                    "transaction_id": 50379402
+                },
+                {
+                    "date": "2023-06-26",
+                    "description": "Interest",
+                    "amount": 33546.87,
+                    "transaction_id": 84785925
+                }
+            ]
+        }
+    }
+}

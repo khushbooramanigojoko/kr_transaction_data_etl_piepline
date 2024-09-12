@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kristen Harris",
+        "age": 43,
+        "gender": "male",
+        "address": "48285 Porter Meadow Apt. 641, Port Jenniferland, AZ 54392",
+        "phone": "815.561.1409",
+        "email": "carla93@example.net",
+        "account": {
+            "account_number": "327e04a4-f4e7-4ba9-bac0-7398484df9cb",
+            "balance": 6757.37,
+            "transactions": [
+                {
+                    "date": "2022-12-18",
+                    "description": "Withdrawal",
+                    "amount": 35163.17,
+                    "transaction_id": 7289568
+                },
+                {
+                    "date": "2024-08-11",
+                    "description": "Interest",
+                    "amount": 43899.06,
+                    "transaction_id": 21818879
+                },
+                {
+                    "date": "2023-02-21",
+                    "description": "Interest",
+                    "amount": 5218.38,
+                    "transaction_id": 106012267
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Withdrawal",
+                    "amount": 20992.12,
+                    "transaction_id": 64682139
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Caroline Madden",
+        "age": 84,
+        "gender": "male",
+        "address": "PSC 6966, Box 8864, APO AA 85959",
+        "phone": "001-619-571-2782x9190",
+        "email": "jamesthompson@example.com",
+        "account": {
+            "account_number": "26d1e5c3-b029-42fc-a4fa-f32a59c6b8a1",
+            "balance": 6533.9,
+            "transactions": [
+                {
+                    "date": "2023-04-10",
+                    "description": "Interest",
+                    "amount": 18162.69,
+                    "transaction_id": 85583019
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Withdrawal",
+                    "amount": 30656.55,
+                    "transaction_id": 55570807
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Deposit",
+                    "amount": 4496.28,
+                    "transaction_id": 27905440
+                },
+                {
+                    "date": "2024-05-07",
+                    "description": "Deposit",
+                    "amount": 46711.14,
+                    "transaction_id": 54090910
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Deposit",
+                    "amount": 42183.91,
+                    "transaction_id": 80573279
+                }
+            ]
+        }
+    }
+}

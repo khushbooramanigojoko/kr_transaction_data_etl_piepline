@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jessica Clark",
+        "age": 46,
+        "gender": "female",
+        "address": "19344 Valencia Stream Apt. 607, Lake Samuel, CT 08640",
+        "phone": "(398)694-7144",
+        "email": "mcclainalan@example.org",
+        "account": {
+            "account_number": "2ba2b80d-e4cb-4284-b3a9-0727d94a92cd",
+            "balance": 25239.11,
+            "transactions": [
+                {
+                    "date": "2023-03-04",
+                    "description": "Withdrawal",
+                    "amount": 28209.56,
+                    "transaction_id": 93384323
+                },
+                {
+                    "date": "2024-02-18",
+                    "description": "Deposit",
+                    "amount": 6690.62,
+                    "transaction_id": 4980114
+                },
+                {
+                    "date": "2024-02-13",
+                    "description": "Interest",
+                    "amount": 15236.21,
+                    "transaction_id": 58067624
+                },
+                {
+                    "date": "2022-12-21",
+                    "description": "Withdrawal",
+                    "amount": 31608.07,
+                    "transaction_id": 13227195
+                }
+            ]
+        }
+    }
+}

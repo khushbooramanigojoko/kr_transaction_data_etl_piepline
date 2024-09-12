@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Angela Moore",
+        "age": 57,
+        "gender": "female",
+        "address": "330 Gill Lane Suite 390, Port Christopher, MO 64914",
+        "phone": "+1-534-596-0855x3924",
+        "email": "kimberly71@example.org",
+        "account": {
+            "account_number": "732defdc-06be-4cc4-b0c3-2341cd6e3462",
+            "balance": 2104.72,
+            "transactions": [
+                {
+                    "date": "2023-06-03",
+                    "description": "Withdrawal",
+                    "amount": 3454.14,
+                    "transaction_id": 52616895
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Withdrawal",
+                    "amount": 349.8,
+                    "transaction_id": 72392113
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Interest",
+                    "amount": 24972.01,
+                    "transaction_id": 38305979
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Interest",
+                    "amount": 41497.31,
+                    "transaction_id": 59689168
+                }
+            ]
+        }
+    }
+}

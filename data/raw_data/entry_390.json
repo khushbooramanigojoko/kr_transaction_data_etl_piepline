@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Maria Clark",
+        "age": 51,
+        "gender": "female",
+        "address": "75148 Crystal Canyon, Lisafort, KY 70965",
+        "phone": "(567)872-1541",
+        "email": "eric01@example.com",
+        "account": {
+            "account_number": "a204b0ac-18a1-4983-a585-782fb579df71",
+            "balance": 12992.8,
+            "transactions": [
+                {
+                    "date": "2023-06-14",
+                    "description": "Withdrawal",
+                    "amount": 38484.75,
+                    "transaction_id": 115582273
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Interest",
+                    "amount": 44490.59,
+                    "transaction_id": 89412687
+                }
+            ]
+        }
+    }
+}

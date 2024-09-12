@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Laura Gilbert",
+        "age": 96,
+        "gender": "female",
+        "address": "479 Adams Shoal, North Yolanda, MS 41351",
+        "phone": "001-595-429-9950x924",
+        "email": "jacobmartin@example.net",
+        "account": {
+            "account_number": "cd9117d4-69d5-4f36-b978-a2c6a964c32b",
+            "balance": 10211.69,
+            "transactions": [
+                {
+                    "date": "2023-12-29",
+                    "description": "Withdrawal",
+                    "amount": 27444.2,
+                    "transaction_id": 7734827
+                },
+                {
+                    "date": "2023-07-02",
+                    "description": "Interest",
+                    "amount": 44062.58,
+                    "transaction_id": 69374779
+                },
+                {
+                    "date": "2024-01-09",
+                    "description": "Deposit",
+                    "amount": 24014.36,
+                    "transaction_id": 48725846
+                },
+                {
+                    "date": "2023-08-28",
+                    "description": "Withdrawal",
+                    "amount": 45837.55,
+                    "transaction_id": 36681881
+                }
+            ]
+        }
+    }
+}

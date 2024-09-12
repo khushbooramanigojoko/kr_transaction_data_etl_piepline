@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Stephen King",
+        "age": 75,
+        "gender": "male",
+        "address": "87533 Wendy Isle, Smithmouth, IN 57823",
+        "phone": "747.758.5832x9961",
+        "email": "andersondaniel@example.org",
+        "account": {
+            "account_number": "42971220-9e06-4bff-84ab-f61eb3403746",
+            "balance": 21479.17,
+            "transactions": [
+                {
+                    "date": "2024-03-14",
+                    "description": "Interest",
+                    "amount": 320.69,
+                    "transaction_id": 76857673
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Deposit",
+                    "amount": 49848.12,
+                    "transaction_id": 30989563
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Withdrawal",
+                    "amount": 15384.64,
+                    "transaction_id": 66577124
+                }
+            ]
+        }
+    }
+}

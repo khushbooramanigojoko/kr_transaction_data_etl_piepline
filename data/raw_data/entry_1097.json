@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Drew Smith",
+        "age": 38,
+        "gender": "female",
+        "address": "90178 Jennifer Mall, East Jenniferstad, ME 45408",
+        "phone": "604.719.9213",
+        "email": "brooksjennifer@example.net",
+        "account": {
+            "account_number": "5aa5be89-d412-46d3-a320-b60097c88a26",
+            "balance": 13881.62,
+            "transactions": [
+                {
+                    "date": "2024-08-23",
+                    "description": "Interest",
+                    "amount": 33524.02,
+                    "transaction_id": 54928610
+                }
+            ]
+        }
+    }
+}

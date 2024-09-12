@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Karen Davis",
+        "age": 61,
+        "gender": "male",
+        "address": "009 Krystal Lights Apt. 416, West Johnside, MI 96861",
+        "phone": "430-248-2899",
+        "email": "sanchezpaul@example.org",
+        "account": {
+            "account_number": "5a4ad158-31ca-489a-9991-473b504e8266",
+            "balance": 31528.08,
+            "transactions": [
+                {
+                    "date": "2024-08-04",
+                    "description": "Interest",
+                    "amount": 26282.38,
+                    "transaction_id": 3152146
+                },
+                {
+                    "date": "2024-02-27",
+                    "description": "Deposit",
+                    "amount": 15709.22,
+                    "transaction_id": 87350965
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Interest",
+                    "amount": 33613.16,
+                    "transaction_id": 7102099
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Interest",
+                    "amount": 37727.52,
+                    "transaction_id": 38454640
+                }
+            ]
+        }
+    }
+}

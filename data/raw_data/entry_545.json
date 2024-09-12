@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Evans",
+        "age": 46,
+        "gender": "female",
+        "address": "24029 Natasha Flat Apt. 051, Blakefurt, ND 38167",
+        "phone": "001-404-305-3328x15091",
+        "email": "danieldixon@example.org",
+        "account": {
+            "account_number": "b2bda5d5-0644-48fc-ad34-543931deb613",
+            "balance": 23518.91,
+            "transactions": [
+                {
+                    "date": "2024-03-25",
+                    "description": "Deposit",
+                    "amount": 29891.59,
+                    "transaction_id": 85397129
+                }
+            ]
+        }
+    }
+}

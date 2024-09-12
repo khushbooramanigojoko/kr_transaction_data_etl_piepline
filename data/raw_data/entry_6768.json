@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kevin Archer",
+        "age": 88,
+        "gender": "female",
+        "address": "1046 Edwards Crescent Suite 395, West Edward, PW 37712",
+        "phone": "(373)203-7205x514",
+        "email": "lanesean@example.com",
+        "account": {
+            "account_number": "803777b1-ec90-45c3-a5ff-0f5e0a0c1ed4",
+            "balance": 26734.21,
+            "transactions": [
+                {
+                    "date": "2023-03-21",
+                    "description": "Deposit",
+                    "amount": 43228.17,
+                    "transaction_id": 21109067
+                },
+                {
+                    "date": "2023-04-09",
+                    "description": "Deposit",
+                    "amount": 19624.04,
+                    "transaction_id": 66516981
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Deposit",
+                    "amount": 38003.6,
+                    "transaction_id": 74277640
+                }
+            ]
+        }
+    }
+}

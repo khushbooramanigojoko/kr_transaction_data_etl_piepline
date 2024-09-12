@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joseph Richardson",
+        "age": 61,
+        "gender": "female",
+        "address": "017 Christopher Forest Apt. 606, Julieport, FL 11879",
+        "phone": "001-381-449-5341x18355",
+        "email": "jbond@example.com",
+        "account": {
+            "account_number": "0438bcfc-0d5e-4a89-9ab6-38f29899ca80",
+            "balance": 2552.07,
+            "transactions": [
+                {
+                    "date": "2024-06-06",
+                    "description": "Withdrawal",
+                    "amount": 5660.53,
+                    "transaction_id": 89288918
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Gary Scott",
+        "age": 28,
+        "gender": "female",
+        "address": "5842 Houston Wells Apt. 866, Kellieside, GU 85854",
+        "phone": "(720)609-6267x56773",
+        "email": "crystalwalter@example.com",
+        "account": {
+            "account_number": "19e509be-4c3f-4eb7-99e0-223ca64d3e4b",
+            "balance": 37418.29,
+            "transactions": [
+                {
+                    "date": "2022-11-11",
+                    "description": "Deposit",
+                    "amount": 22736.75,
+                    "transaction_id": 103149999
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Interest",
+                    "amount": 13641.99,
+                    "transaction_id": 46817460
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Interest",
+                    "amount": 1133.51,
+                    "transaction_id": 119705479
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Interest",
+                    "amount": 45517.76,
+                    "transaction_id": 35535262
+                }
+            ]
+        }
+    }
+}

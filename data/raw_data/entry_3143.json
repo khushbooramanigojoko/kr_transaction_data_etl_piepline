@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jacqueline Pollard",
+        "age": 29,
+        "gender": "female",
+        "address": "USNS Frazier, FPO AE 73525",
+        "phone": "001-969-768-4648x86631",
+        "email": "ulee@example.org",
+        "account": {
+            "account_number": "298bef26-aea6-40d5-960b-7f24af80e76f",
+            "balance": 23564.3,
+            "transactions": [
+                {
+                    "date": "2022-09-08",
+                    "description": "Deposit",
+                    "amount": 44739.79,
+                    "transaction_id": 13886258
+                },
+                {
+                    "date": "2023-10-29",
+                    "description": "Deposit",
+                    "amount": 42169.68,
+                    "transaction_id": 72976785
+                },
+                {
+                    "date": "2023-09-15",
+                    "description": "Deposit",
+                    "amount": 32316.89,
+                    "transaction_id": 91526709
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Withdrawal",
+                    "amount": 7914.03,
+                    "transaction_id": 102060231
+                }
+            ]
+        }
+    }
+}

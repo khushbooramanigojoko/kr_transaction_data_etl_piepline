@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Krystal Valencia",
+        "age": 40,
+        "gender": "male",
+        "address": "36405 Myers Harbors, New Elizabeth, IL 86223",
+        "phone": "3357490917",
+        "email": "nwright@example.com",
+        "account": {
+            "account_number": "a1d9f265-73ec-412e-958b-281875afc5a6",
+            "balance": 24145.25,
+            "transactions": [
+                {
+                    "date": "2023-08-05",
+                    "description": "Withdrawal",
+                    "amount": 45018.73,
+                    "transaction_id": 22934825
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Withdrawal",
+                    "amount": 30982.44,
+                    "transaction_id": 100035187
+                },
+                {
+                    "date": "2023-11-12",
+                    "description": "Withdrawal",
+                    "amount": 13510.87,
+                    "transaction_id": 96692821
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 39,
+        "gender": "male",
+        "address": "04427 Danielle Vista, South Mary, HI 64258",
+        "phone": "(364)851-9174x51320",
+        "email": "thompsonmonica@example.com",
+        "account": {
+            "account_number": "b54b8745-d554-40b1-b298-b6cede60591d",
+            "balance": 27329.27,
+            "transactions": [
+                {
+                    "date": "2024-01-17",
+                    "description": "Withdrawal",
+                    "amount": -4301.76,
+                    "transaction_id": 17557683
+                },
+                {
+                    "date": "2023-03-27",
+                    "description": "Deposit",
+                    "amount": -1275.03,
+                    "transaction_id": 93298526
+                }
+            ]
+        }
+    }
+}

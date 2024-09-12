@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Courtney Brown",
+        "age": 27,
+        "gender": "male",
+        "address": "7818 Christensen Unions Apt. 376, Jasonshire, FL 55210",
+        "phone": "+1-321-487-4767x49385",
+        "email": "swilliams@example.com",
+        "account": {
+            "account_number": "6afb26c0-e11d-4389-99b3-c848f76aad6a",
+            "balance": 34803.94,
+            "transactions": [
+                {
+                    "date": "2023-11-11",
+                    "description": "Deposit",
+                    "amount": 28404.07,
+                    "transaction_id": 35882514
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Deposit",
+                    "amount": 35632.22,
+                    "transaction_id": 36644816
+                },
+                {
+                    "date": "2024-06-21",
+                    "description": "Deposit",
+                    "amount": 2562.47,
+                    "transaction_id": 5508064
+                }
+            ]
+        }
+    }
+}

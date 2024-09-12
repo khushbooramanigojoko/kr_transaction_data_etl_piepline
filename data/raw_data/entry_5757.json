@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Stephanie Gutierrez",
+        "age": 18,
+        "gender": "female",
+        "address": "7767 Christina Expressway Apt. 331, Fordberg, IL 87983",
+        "phone": "9892957049",
+        "email": "brodriguez@example.net",
+        "account": {
+            "account_number": "06297145-123f-453d-8951-c2c1decbe8bb",
+            "balance": 37362.11,
+            "transactions": [
+                {
+                    "date": "2024-02-23",
+                    "description": "Deposit",
+                    "amount": 22261.04,
+                    "transaction_id": 76205067
+                },
+                {
+                    "date": "2023-05-20",
+                    "description": "Deposit",
+                    "amount": 38847.7,
+                    "transaction_id": 19204941
+                }
+            ]
+        }
+    }
+}

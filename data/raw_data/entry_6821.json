@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jennifer Gallagher",
+        "age": 70,
+        "gender": "female",
+        "address": "356 Megan Alley, East Jonathan, CO 30811",
+        "phone": "(492)300-4416x45289",
+        "email": "evanskristi@example.net",
+        "account": {
+            "account_number": "92360b47-2d03-4661-928e-6826b524f53b",
+            "balance": 46144.55,
+            "transactions": [
+                {
+                    "date": "2022-12-15",
+                    "description": "Withdrawal",
+                    "amount": 37377.29,
+                    "transaction_id": 57503862
+                },
+                {
+                    "date": "2024-07-24",
+                    "description": "Deposit",
+                    "amount": 1337.15,
+                    "transaction_id": 95070805
+                }
+            ]
+        }
+    }
+}

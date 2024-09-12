@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Natalie Cole",
+        "age": 74,
+        "gender": "female",
+        "address": "8051 Mary Mount Apt. 809, Richardhaven, NJ 66219",
+        "phone": "+1-484-944-0526x508",
+        "email": "shill@example.com",
+        "account": {
+            "account_number": "73ac391c-d128-45bb-8901-386357cba1e4",
+            "balance": 41027.83,
+            "transactions": [
+                {
+                    "date": "2024-03-14",
+                    "description": "Withdrawal",
+                    "amount": 7526.93,
+                    "transaction_id": 108162205
+                },
+                {
+                    "date": "2024-01-10",
+                    "description": "Deposit",
+                    "amount": 23974.59,
+                    "transaction_id": 114279319
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Deposit",
+                    "amount": 23859.6,
+                    "transaction_id": 107525506
+                },
+                {
+                    "date": "2024-03-22",
+                    "description": "Deposit",
+                    "amount": 46582.4,
+                    "transaction_id": 67181428
+                }
+            ]
+        }
+    }
+}

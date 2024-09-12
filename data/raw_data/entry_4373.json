@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Allison Wood",
+        "age": 85,
+        "gender": "male",
+        "address": "534 Daniel Burg, New Catherine, KS 47464",
+        "phone": "(999)296-7921x05514",
+        "email": "zwhite@example.net",
+        "account": {
+            "account_number": "b1fa0990-4547-4a2d-9881-8e9b3afc657d",
+            "balance": 42400.44,
+            "transactions": [
+                {
+                    "date": "2023-05-23",
+                    "description": "Interest",
+                    "amount": 2432.14,
+                    "transaction_id": 71133768
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Withdrawal",
+                    "amount": 23844.03,
+                    "transaction_id": 57122431
+                },
+                {
+                    "date": "2023-12-12",
+                    "description": "Interest",
+                    "amount": 6744.13,
+                    "transaction_id": 20141929
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Deposit",
+                    "amount": 47174.6,
+                    "transaction_id": 56861497
+                }
+            ]
+        }
+    }
+}

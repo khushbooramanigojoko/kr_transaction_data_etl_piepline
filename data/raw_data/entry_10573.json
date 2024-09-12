@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Andre Perkins",
+        "age": 30,
+        "gender": "female",
+        "address": "33243 Robert Lights, Kristieview, WV 99697",
+        "phone": "+1-327-570-5128x301",
+        "email": "masseyamber@example.org",
+        "account": {
+            "account_number": "2d6cd727-197f-4a19-a041-00b937010f61",
+            "balance": -30920.43,
+            "transactions": [
+                {
+                    "date": "2023-08-08",
+                    "description": "Deposit",
+                    "amount": -3234.76,
+                    "transaction_id": 25874873
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Deposit",
+                    "amount": 2332.0,
+                    "transaction_id": 71879383
+                },
+                {
+                    "date": "2022-12-10",
+                    "description": "Withdrawal",
+                    "amount": -894.54,
+                    "transaction_id": 22423938
+                }
+            ]
+        }
+    }
+}

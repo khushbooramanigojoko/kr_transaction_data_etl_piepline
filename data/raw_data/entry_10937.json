@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 64,
+        "gender": "male",
+        "address": "957 Carmen Motorway Apt. 483, Huntburgh, NJ 96784",
+        "phone": "+1-233-507-8701x434",
+        "email": "jacksonaaron@example.com",
+        "account": {
+            "account_number": "811ae32c-6563-4f80-8f58-0fb489eee6d1",
+            "balance": 42419.75,
+            "transactions": [
+                {
+                    "date": "2023-01-19",
+                    "description": "Deposit",
+                    "amount": 458.51,
+                    "transaction_id": 106993758
+                },
+                {
+                    "date": "2023-10-02",
+                    "description": "Deposit",
+                    "amount": -3591.25,
+                    "transaction_id": 77713738
+                },
+                {
+                    "date": "2024-04-07",
+                    "description": "Interest",
+                    "amount": 745.21,
+                    "transaction_id": 19823697
+                },
+                {
+                    "date": "2024-01-10",
+                    "description": "Withdrawal",
+                    "amount": 3153.8,
+                    "transaction_id": 91286829
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Interest",
+                    "amount": -3698.63,
+                    "transaction_id": 96854979
+                }
+            ]
+        }
+    }
+}

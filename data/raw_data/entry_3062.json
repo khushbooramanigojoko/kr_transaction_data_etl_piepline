@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brittany Cook",
+        "age": 30,
+        "gender": "male",
+        "address": "41071 Perry Inlet, Port Troy, WI 01458",
+        "phone": "(398)928-4584",
+        "email": "sarahreynolds@example.org",
+        "account": {
+            "account_number": "350b686f-6fd4-41cc-a9f8-14e464528786",
+            "balance": 24041.83,
+            "transactions": [
+                {
+                    "date": "2023-09-24",
+                    "description": "Withdrawal",
+                    "amount": 44950.48,
+                    "transaction_id": 24845196
+                },
+                {
+                    "date": "2022-12-26",
+                    "description": "Interest",
+                    "amount": 27031.29,
+                    "transaction_id": 15310626
+                }
+            ]
+        }
+    }
+}

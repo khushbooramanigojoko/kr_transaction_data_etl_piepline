@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Craig Jr.",
+        "age": 87,
+        "gender": "male",
+        "address": "144 Michelle Shore Apt. 183, North Lindsay, OR 91726",
+        "phone": "790-811-8907x4487",
+        "email": "gdiaz@example.net",
+        "account": {
+            "account_number": "62559355-009d-45cd-946f-9f69335ade8e",
+            "balance": 43300.0,
+            "transactions": [
+                {
+                    "date": "2023-11-08",
+                    "description": "Withdrawal",
+                    "amount": 19101.88,
+                    "transaction_id": 16855662
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Withdrawal",
+                    "amount": 2212.16,
+                    "transaction_id": 25618807
+                },
+                {
+                    "date": "2023-04-15",
+                    "description": "Withdrawal",
+                    "amount": 39422.59,
+                    "transaction_id": 12039652
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Belinda Bond",
+        "age": 30,
+        "gender": "male",
+        "address": "USCGC Fisher, FPO AA 16075",
+        "phone": "(599)740-1642",
+        "email": "lynchsteven@example.net",
+        "account": {
+            "account_number": "23d03bd8-0430-4c7c-a47a-9c6afdd91cb8",
+            "balance": -14336.79,
+            "transactions": [
+                {
+                    "date": "2024-01-03",
+                    "description": "Interest",
+                    "amount": 4508.72,
+                    "transaction_id": 97884355
+                },
+                {
+                    "date": "2023-03-04",
+                    "description": "Deposit",
+                    "amount": 4827.03,
+                    "transaction_id": 86202868
+                },
+                {
+                    "date": "2023-01-03",
+                    "description": "Interest",
+                    "amount": 2542.19,
+                    "transaction_id": 114494728
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Deposit",
+                    "amount": -3378.99,
+                    "transaction_id": 63191843
+                }
+            ]
+        }
+    }
+}

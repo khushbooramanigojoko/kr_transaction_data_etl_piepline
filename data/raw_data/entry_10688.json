@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 27,
+        "gender": "female",
+        "address": "6801 Christina Roads, Mackenziechester, GA 91590",
+        "phone": "+1-816-869-5344x606",
+        "email": "moorejoshua@example.net",
+        "account": {
+            "account_number": "45cf8c73-7fa9-4fab-af17-eab0ae671bd3",
+            "balance": 21177.68,
+            "transactions": [
+                {
+                    "date": "2023-05-14",
+                    "description": "Interest",
+                    "amount": -3021.97,
+                    "transaction_id": 95913540
+                },
+                {
+                    "date": "2022-12-20",
+                    "description": "Interest",
+                    "amount": 3754.13,
+                    "transaction_id": 90227403
+                },
+                {
+                    "date": "2022-11-13",
+                    "description": "Deposit",
+                    "amount": 458.46,
+                    "transaction_id": 8541262
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Withdrawal",
+                    "amount": -1518.93,
+                    "transaction_id": 17751513
+                }
+            ]
+        }
+    }
+}

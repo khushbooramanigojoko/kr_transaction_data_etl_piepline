@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Albert Washington",
+        "age": 34,
+        "gender": "female",
+        "address": "9772 Cathy Lodge, Donnaview, PA 85713",
+        "phone": "359.671.7332",
+        "email": "heatherray@example.org",
+        "account": {
+            "account_number": "bc791b38-22c7-47fc-9e57-0579d8949fb8",
+            "balance": 33240.97,
+            "transactions": [
+                {
+                    "date": "2024-04-12",
+                    "description": "Withdrawal",
+                    "amount": 18572.98,
+                    "transaction_id": 90933287
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tracy Johnson",
+        "age": 67,
+        "gender": "male",
+        "address": "82219 Gutierrez Fords Suite 378, North Christineview, FL 25330",
+        "phone": "451.353.1642",
+        "email": "morganmaria@example.com",
+        "account": {
+            "account_number": "3ab2e38b-f500-496d-9f3f-705ab5037855",
+            "balance": -14575.91,
+            "transactions": [
+                {
+                    "date": "2023-03-02",
+                    "description": "Withdrawal",
+                    "amount": 601.48,
+                    "transaction_id": 17607090
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Deposit",
+                    "amount": -364.26,
+                    "transaction_id": 23790669
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Interest",
+                    "amount": 1160.07,
+                    "transaction_id": 67770433
+                },
+                {
+                    "date": "2024-08-08",
+                    "description": "Withdrawal",
+                    "amount": 2760.89,
+                    "transaction_id": 1127285
+                },
+                {
+                    "date": "2023-01-11",
+                    "description": "Interest",
+                    "amount": -1450.09,
+                    "transaction_id": 72123832
+                }
+            ]
+        }
+    }
+}

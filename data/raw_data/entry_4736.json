@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Phyllis Castro",
+        "age": 97,
+        "gender": "male",
+        "address": "390 Patterson Flats, Gregoryville, NE 02135",
+        "phone": "001-394-331-4476x344",
+        "email": "george69@example.com",
+        "account": {
+            "account_number": "6cfa9957-5d5a-4775-ac62-52118babe4ab",
+            "balance": 3855.38,
+            "transactions": [
+                {
+                    "date": "2024-02-25",
+                    "description": "Withdrawal",
+                    "amount": 12080.62,
+                    "transaction_id": 21648002
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Withdrawal",
+                    "amount": 3114.01,
+                    "transaction_id": 51266739
+                },
+                {
+                    "date": "2023-10-24",
+                    "description": "Deposit",
+                    "amount": 4207.58,
+                    "transaction_id": 58951435
+                },
+                {
+                    "date": "2023-06-06",
+                    "description": "Withdrawal",
+                    "amount": 19925.99,
+                    "transaction_id": 68489638
+                }
+            ]
+        }
+    }
+}

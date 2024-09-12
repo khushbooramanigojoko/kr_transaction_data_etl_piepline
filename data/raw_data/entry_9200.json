@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 77,
+        "gender": "female",
+        "address": "882 Michael Alley Apt. 981, South Dustinchester, IA 68847",
+        "phone": "001-764-543-6673x5638",
+        "email": "michael64@example.net",
+        "account": {
+            "account_number": "b10bf4ed-8743-4ebd-8c03-e3aae1ab8a29",
+            "balance": 24681.69,
+            "transactions": [
+                {
+                    "date": "2024-08-17",
+                    "description": "Withdrawal",
+                    "amount": -1721.68,
+                    "transaction_id": 92394520
+                },
+                {
+                    "date": "2022-09-23",
+                    "description": "Deposit",
+                    "amount": 3981.14,
+                    "transaction_id": 45693069
+                },
+                {
+                    "date": "2022-09-06",
+                    "description": "Withdrawal",
+                    "amount": 1582.68,
+                    "transaction_id": 38287482
+                },
+                {
+                    "date": "2024-03-21",
+                    "description": "Deposit",
+                    "amount": -4203.67,
+                    "transaction_id": 49659081
+                }
+            ]
+        }
+    }
+}

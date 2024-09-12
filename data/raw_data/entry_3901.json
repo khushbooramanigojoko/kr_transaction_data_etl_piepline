@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joshua Jones",
+        "age": 47,
+        "gender": "female",
+        "address": "27151 Huang Route Suite 970, Snyderhaven, VI 45169",
+        "phone": "240-962-3028x569",
+        "email": "kowens@example.net",
+        "account": {
+            "account_number": "e558075d-1ddb-48a2-970e-7a9beec2b9b8",
+            "balance": 40499.68,
+            "transactions": [
+                {
+                    "date": "2023-08-23",
+                    "description": "Withdrawal",
+                    "amount": 18339.28,
+                    "transaction_id": 104393586
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Interest",
+                    "amount": 31978.42,
+                    "transaction_id": 11871824
+                }
+            ]
+        }
+    }
+}

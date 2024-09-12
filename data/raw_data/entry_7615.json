@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Raymond Hardy",
+        "age": 53,
+        "gender": "male",
+        "address": "69193 Johnston Islands, Freemanburgh, MD 96620",
+        "phone": "8094660404",
+        "email": "hobbssharon@example.org",
+        "account": {
+            "account_number": "e9b45334-0782-4222-b24d-7c15924d8ff2",
+            "balance": 3009.45,
+            "transactions": [
+                {
+                    "date": "2023-03-09",
+                    "description": "Interest",
+                    "amount": 22506.29,
+                    "transaction_id": 119192738
+                },
+                {
+                    "date": "2023-04-14",
+                    "description": "Interest",
+                    "amount": 1913.51,
+                    "transaction_id": 118688542
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Withdrawal",
+                    "amount": 46854.37,
+                    "transaction_id": 71195257
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Withdrawal",
+                    "amount": 30686.44,
+                    "transaction_id": 3530148
+                }
+            ]
+        }
+    }
+}

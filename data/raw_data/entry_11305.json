@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jared Gonzalez",
+        "age": 64,
+        "gender": "male",
+        "address": "07462 James Spring, Port Elizabethville, AL 63151",
+        "phone": "629.398.0881",
+        "email": "ayalapaige@example.org",
+        "account": {
+            "account_number": "6fc3ca41-18f9-4e18-ab44-afd4e0ffb726",
+            "balance": -37060.35,
+            "transactions": [
+                {
+                    "date": "2022-11-13",
+                    "description": "Withdrawal",
+                    "amount": 2162.7,
+                    "transaction_id": 113320884
+                },
+                {
+                    "date": "2024-01-31",
+                    "description": "Interest",
+                    "amount": -1593.51,
+                    "transaction_id": 94436669
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Interest",
+                    "amount": 1140.55,
+                    "transaction_id": 119425779
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Deposit",
+                    "amount": -4899.52,
+                    "transaction_id": 42276741
+                },
+                {
+                    "date": "2023-03-20",
+                    "description": "Deposit",
+                    "amount": -1723.63,
+                    "transaction_id": 109232888
+                }
+            ]
+        }
+    }
+}

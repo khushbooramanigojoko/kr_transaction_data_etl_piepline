@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Cynthia James",
+        "age": 36,
+        "gender": "male",
+        "address": "USS Osborn, FPO AE 25046",
+        "phone": "779.935.5351x7784",
+        "email": "derrickchavez@example.org",
+        "account": {
+            "account_number": "65d545d8-e979-4cf9-a2c4-6914759e0a66",
+            "balance": -9844.04,
+            "transactions": [
+                {
+                    "date": "2023-01-11",
+                    "description": "Withdrawal",
+                    "amount": -4281.99,
+                    "transaction_id": 18875627
+                },
+                {
+                    "date": "2022-11-13",
+                    "description": "Deposit",
+                    "amount": 3652.78,
+                    "transaction_id": 20442521
+                },
+                {
+                    "date": "2024-01-16",
+                    "description": "Withdrawal",
+                    "amount": -1032.98,
+                    "transaction_id": 40536848
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Withdrawal",
+                    "amount": -2647.32,
+                    "transaction_id": 37032944
+                },
+                {
+                    "date": "2024-03-02",
+                    "description": "Interest",
+                    "amount": 2972.85,
+                    "transaction_id": 107270949
+                }
+            ]
+        }
+    }
+}

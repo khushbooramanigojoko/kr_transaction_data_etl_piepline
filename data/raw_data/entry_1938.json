@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Cassandra Davidson",
+        "age": 91,
+        "gender": "male",
+        "address": "5059 Shawn Lodge Apt. 198, Petersonburgh, IL 36696",
+        "phone": "+1-607-896-7901",
+        "email": "znelson@example.net",
+        "account": {
+            "account_number": "49085235-3941-4482-822e-7e7c92eed4a6",
+            "balance": 44033.4,
+            "transactions": [
+                {
+                    "date": "2024-05-07",
+                    "description": "Deposit",
+                    "amount": 2222.49,
+                    "transaction_id": 44643670
+                },
+                {
+                    "date": "2024-07-13",
+                    "description": "Interest",
+                    "amount": 48887.11,
+                    "transaction_id": 113782005
+                },
+                {
+                    "date": "2023-10-12",
+                    "description": "Deposit",
+                    "amount": 28117.77,
+                    "transaction_id": 96206199
+                }
+            ]
+        }
+    }
+}

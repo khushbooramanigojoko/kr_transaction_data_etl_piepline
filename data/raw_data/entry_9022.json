@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Thomas Stone",
+        "age": 92,
+        "gender": "male",
+        "address": "826 Sanchez Drives Suite 389, East Meganburgh, KY 03643",
+        "phone": "966-883-2864x540",
+        "email": "mathewsdavid@example.com",
+        "account": {
+            "account_number": "3d977cef-df2f-4eb6-865c-934c9922d061",
+            "balance": -15916.61,
+            "transactions": [
+                {
+                    "date": "2024-02-12",
+                    "description": "Interest",
+                    "amount": -1412.4,
+                    "transaction_id": 110413188
+                },
+                {
+                    "date": "2023-03-04",
+                    "description": "Deposit",
+                    "amount": 4147.37,
+                    "transaction_id": 102121441
+                },
+                {
+                    "date": "2023-10-10",
+                    "description": "Interest",
+                    "amount": -4353.66,
+                    "transaction_id": 36624311
+                }
+            ]
+        }
+    }
+}

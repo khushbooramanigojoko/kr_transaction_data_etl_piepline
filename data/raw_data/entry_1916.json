@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Paul Hammond",
+        "age": 56,
+        "gender": "female",
+        "address": "USS Bradley, FPO AP 36523",
+        "phone": "001-889-310-1978",
+        "email": "jeremy95@example.net",
+        "account": {
+            "account_number": "f6b18697-3694-492e-a7c4-51c9edf0f0d8",
+            "balance": 36407.12,
+            "transactions": [
+                {
+                    "date": "2023-12-30",
+                    "description": "Deposit",
+                    "amount": 35759.7,
+                    "transaction_id": 26106866
+                },
+                {
+                    "date": "2023-07-10",
+                    "description": "Withdrawal",
+                    "amount": 267.61,
+                    "transaction_id": 50900656
+                }
+            ]
+        }
+    }
+}

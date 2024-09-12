@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Fowler",
+        "age": 55,
+        "gender": "female",
+        "address": "PSC 1456, Box 9591, APO AA 46302",
+        "phone": "001-938-442-6481x44033",
+        "email": "ufisher@example.net",
+        "account": {
+            "account_number": "f2a5cd6a-afc1-4197-bda3-3f5b03f62663",
+            "balance": 6909.65,
+            "transactions": [
+                {
+                    "date": "2023-06-10",
+                    "description": "Deposit",
+                    "amount": 7582.79,
+                    "transaction_id": 5219451
+                },
+                {
+                    "date": "2024-08-29",
+                    "description": "Withdrawal",
+                    "amount": 3319.07,
+                    "transaction_id": 84075062
+                },
+                {
+                    "date": "2024-06-14",
+                    "description": "Interest",
+                    "amount": 21863.44,
+                    "transaction_id": 37771025
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Interest",
+                    "amount": 1194.18,
+                    "transaction_id": 48647110
+                }
+            ]
+        }
+    }
+}

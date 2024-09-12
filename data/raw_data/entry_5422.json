@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Johnny Cherry",
+        "age": 98,
+        "gender": "female",
+        "address": "215 Anthony Rue, Lake Katelyn, FM 34205",
+        "phone": "(341)235-5805x7418",
+        "email": "preyes@example.net",
+        "account": {
+            "account_number": "98d3a701-f32e-4405-8bea-0705e0eb8c56",
+            "balance": 1159.22,
+            "transactions": [
+                {
+                    "date": "2024-01-14",
+                    "description": "Withdrawal",
+                    "amount": 16604.05,
+                    "transaction_id": 23997629
+                },
+                {
+                    "date": "2024-06-06",
+                    "description": "Deposit",
+                    "amount": 41356.15,
+                    "transaction_id": 119383743
+                },
+                {
+                    "date": "2023-12-18",
+                    "description": "Withdrawal",
+                    "amount": 20947.36,
+                    "transaction_id": 40984101
+                },
+                {
+                    "date": "2023-04-11",
+                    "description": "Deposit",
+                    "amount": 24331.41,
+                    "transaction_id": 109557734
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christian Simpson",
+        "age": 49,
+        "gender": "male",
+        "address": "437 Medina Roads Apt. 367, Rhodestown, OH 14909",
+        "phone": "(894)773-9043x618",
+        "email": "valentinemegan@example.org",
+        "account": {
+            "account_number": "97c3df33-e4eb-4268-8fe2-03a1e50b3f28",
+            "balance": 6701.54,
+            "transactions": [
+                {
+                    "date": "2024-07-31",
+                    "description": "Withdrawal",
+                    "amount": 47722.23,
+                    "transaction_id": 94483403
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Deposit",
+                    "amount": 49324.25,
+                    "transaction_id": 24737703
+                },
+                {
+                    "date": "2024-02-02",
+                    "description": "Interest",
+                    "amount": 18009.79,
+                    "transaction_id": 41558135
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Deposit",
+                    "amount": 43183.87,
+                    "transaction_id": 9263868
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Deposit",
+                    "amount": 3720.61,
+                    "transaction_id": 60487936
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Janice Warren",
+        "age": 51,
+        "gender": "male",
+        "address": "864 Randall Alley, Sheribury, MH 82875",
+        "phone": "494.322.9247",
+        "email": "jackbrown@example.com",
+        "account": {
+            "account_number": "e1d9d739-963d-44b6-b736-096a42852522",
+            "balance": 2299.27,
+            "transactions": [
+                {
+                    "date": "2024-01-13",
+                    "description": "Interest",
+                    "amount": 17400.37,
+                    "transaction_id": 73545337
+                },
+                {
+                    "date": "2023-06-27",
+                    "description": "Interest",
+                    "amount": 10782.72,
+                    "transaction_id": 95689722
+                },
+                {
+                    "date": "2023-05-17",
+                    "description": "Withdrawal",
+                    "amount": 3499.61,
+                    "transaction_id": 115472369
+                }
+            ]
+        }
+    }
+}

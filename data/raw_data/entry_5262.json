@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Regina Bryant",
+        "age": 57,
+        "gender": "male",
+        "address": "8322 Cruz Corners Apt. 683, Lake James, NV 51970",
+        "phone": "415-386-2040x01891",
+        "email": "popedavid@example.com",
+        "account": {
+            "account_number": "f22b7c28-d87f-4bd9-bfea-0e698c379b29",
+            "balance": 1391.35,
+            "transactions": [
+                {
+                    "date": "2023-02-20",
+                    "description": "Withdrawal",
+                    "amount": 24062.85,
+                    "transaction_id": 63694421
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Withdrawal",
+                    "amount": 12639.06,
+                    "transaction_id": 84605941
+                },
+                {
+                    "date": "2023-07-08",
+                    "description": "Deposit",
+                    "amount": 14178.42,
+                    "transaction_id": 86726099
+                },
+                {
+                    "date": "2022-09-16",
+                    "description": "Deposit",
+                    "amount": 32008.66,
+                    "transaction_id": 96661600
+                }
+            ]
+        }
+    }
+}

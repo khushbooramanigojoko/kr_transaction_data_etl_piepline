@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Randy Gardner",
+        "age": 20,
+        "gender": "male",
+        "address": "0172 Bryan Inlet, Thompsonfort, AS 48159",
+        "phone": "(272)712-7074x99037",
+        "email": "kperry@example.net",
+        "account": {
+            "account_number": "87b8ee98-aed8-40fe-8122-b080b1e25d27",
+            "balance": 33091.92,
+            "transactions": [
+                {
+                    "date": "2023-04-08",
+                    "description": "Deposit",
+                    "amount": 3688.64,
+                    "transaction_id": 70016995
+                },
+                {
+                    "date": "2023-09-08",
+                    "description": "Withdrawal",
+                    "amount": 46745.79,
+                    "transaction_id": 1414509
+                }
+            ]
+        }
+    }
+}

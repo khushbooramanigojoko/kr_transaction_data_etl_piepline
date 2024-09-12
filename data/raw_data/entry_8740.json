@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 58,
+        "gender": "female",
+        "address": "067 Shaw Tunnel Apt. 786, West Johnton, PR 56818",
+        "phone": "256-761-8641",
+        "email": "gmartinez@example.com",
+        "account": {
+            "account_number": "5d8fa021-9d0f-4aa1-806a-73697208543c",
+            "balance": 19569.77,
+            "transactions": [
+                {
+                    "date": "2023-07-17",
+                    "description": "Withdrawal",
+                    "amount": -3029.06,
+                    "transaction_id": 9050305
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Withdrawal",
+                    "amount": -3234.52,
+                    "transaction_id": 112630783
+                },
+                {
+                    "date": "2024-07-17",
+                    "description": "Withdrawal",
+                    "amount": 3455.15,
+                    "transaction_id": 93206745
+                },
+                {
+                    "date": "2023-12-21",
+                    "description": "Interest",
+                    "amount": -4544.42,
+                    "transaction_id": 79418467
+                }
+            ]
+        }
+    }
+}

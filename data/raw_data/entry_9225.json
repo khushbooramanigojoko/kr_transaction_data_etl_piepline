@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tiffany Adams",
+        "age": 53,
+        "gender": "female",
+        "address": "5518 Fuller Circles Apt. 374, Ericton, NV 99083",
+        "phone": "+1-508-406-9927x354",
+        "email": "rgilbert@example.org",
+        "account": {
+            "account_number": "fa77807c-bc4a-40dd-a108-e8ff1c4e0898",
+            "balance": -16950.7,
+            "transactions": [
+                {
+                    "date": "2022-09-19",
+                    "description": "Interest",
+                    "amount": 3519.28,
+                    "transaction_id": 95127232
+                }
+            ]
+        }
+    }
+}

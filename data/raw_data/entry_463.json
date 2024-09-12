@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Laura Lopez",
+        "age": 33,
+        "gender": "female",
+        "address": "117 James Forge Apt. 265, Lake Robinhaven, OR 84909",
+        "phone": "+1-545-292-3520x51754",
+        "email": "timothywolfe@example.com",
+        "account": {
+            "account_number": "365ef0f9-87fa-440e-958b-56aad4ccc072",
+            "balance": 23491.93,
+            "transactions": [
+                {
+                    "date": "2022-12-05",
+                    "description": "Deposit",
+                    "amount": 1791.25,
+                    "transaction_id": 23163351
+                },
+                {
+                    "date": "2023-12-31",
+                    "description": "Interest",
+                    "amount": 43752.03,
+                    "transaction_id": 87873238
+                },
+                {
+                    "date": "2024-03-11",
+                    "description": "Deposit",
+                    "amount": 26612.12,
+                    "transaction_id": 119314894
+                },
+                {
+                    "date": "2024-04-23",
+                    "description": "Deposit",
+                    "amount": 1926.04,
+                    "transaction_id": 5749546
+                }
+            ]
+        }
+    }
+}

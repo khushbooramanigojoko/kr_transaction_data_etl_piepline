@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 92,
+        "gender": "male",
+        "address": "20613 David Route, Scottside, MN 88499",
+        "phone": "(388)664-9926x43837",
+        "email": "brianharris@example.net",
+        "account": {
+            "account_number": "a65f0595-84d5-49d1-8873-babb3826e2db",
+            "balance": 15247.05,
+            "transactions": [
+                {
+                    "date": "2022-12-28",
+                    "description": "Interest",
+                    "amount": -3731.09,
+                    "transaction_id": 73066878
+                }
+            ]
+        }
+    }
+}

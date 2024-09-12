@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Andrew Kidd",
+        "age": 56,
+        "gender": "female",
+        "address": "6261 Hill Rapids Suite 612, Deanland, SC 22035",
+        "phone": "798-819-4960",
+        "email": "tthomas@example.com",
+        "account": {
+            "account_number": "e22752b1-cd9f-4551-8f21-d8d957831aae",
+            "balance": -28404.42,
+            "transactions": [
+                {
+                    "date": "2024-02-25",
+                    "description": "Deposit",
+                    "amount": -3344.97,
+                    "transaction_id": 103589189
+                }
+            ]
+        }
+    }
+}

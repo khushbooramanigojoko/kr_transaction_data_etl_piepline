@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 88,
+        "gender": "female",
+        "address": "USNV Santiago, FPO AP 93891",
+        "phone": "001-523-314-3665",
+        "email": "gallagherelizabeth@example.com",
+        "account": {
+            "account_number": "e45dc0a1-8174-4d48-ae3f-052af6e42655",
+            "balance": 32943.09,
+            "transactions": [
+                {
+                    "date": "2023-07-29",
+                    "description": "Deposit",
+                    "amount": 2883.36,
+                    "transaction_id": 24040077
+                },
+                {
+                    "date": "2023-11-11",
+                    "description": "Deposit",
+                    "amount": -2846.71,
+                    "transaction_id": 27099294
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Withdrawal",
+                    "amount": 4889.23,
+                    "transaction_id": 60726417
+                },
+                {
+                    "date": "2023-01-21",
+                    "description": "Deposit",
+                    "amount": -771.25,
+                    "transaction_id": 28524895
+                },
+                {
+                    "date": "2023-08-31",
+                    "description": "Withdrawal",
+                    "amount": -3696.67,
+                    "transaction_id": 51800472
+                }
+            ]
+        }
+    }
+}

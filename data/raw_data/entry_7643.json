@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kimberly Lee",
+        "age": 46,
+        "gender": "female",
+        "address": "630 Riley Unions, West Alan, NV 62985",
+        "phone": "(619)462-7813",
+        "email": "peterskelly@example.org",
+        "account": {
+            "account_number": "fa0ebacc-7540-4cda-885c-fd3dbe4eae93",
+            "balance": 12882.17,
+            "transactions": [
+                {
+                    "date": "2022-10-03",
+                    "description": "Deposit",
+                    "amount": 39783.33,
+                    "transaction_id": 53012310
+                },
+                {
+                    "date": "2023-03-06",
+                    "description": "Deposit",
+                    "amount": 20651.3,
+                    "transaction_id": 39204207
+                },
+                {
+                    "date": "2023-12-31",
+                    "description": "Interest",
+                    "amount": 3882.84,
+                    "transaction_id": 49045846
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Withdrawal",
+                    "amount": 48671.88,
+                    "transaction_id": 88000807
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Interest",
+                    "amount": 27382.36,
+                    "transaction_id": 4894400
+                }
+            ]
+        }
+    }
+}

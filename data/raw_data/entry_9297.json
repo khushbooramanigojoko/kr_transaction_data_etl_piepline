@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 39,
+        "gender": "male",
+        "address": "714 Johnson Station, East Tracy, MS 46006",
+        "phone": "001-607-676-7417x136",
+        "email": "michelleclay@example.net",
+        "account": {
+            "account_number": "00653574-6bdf-4cf2-a498-957c2e44a684",
+            "balance": 17234.84,
+            "transactions": [
+                {
+                    "date": "2023-04-11",
+                    "description": "Deposit",
+                    "amount": -658.35,
+                    "transaction_id": 72416141
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Interest",
+                    "amount": -3816.92,
+                    "transaction_id": 53579480
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Withdrawal",
+                    "amount": 1340.8,
+                    "transaction_id": 62991355
+                },
+                {
+                    "date": "2024-03-14",
+                    "description": "Withdrawal",
+                    "amount": -4220.31,
+                    "transaction_id": 104463176
+                }
+            ]
+        }
+    }
+}

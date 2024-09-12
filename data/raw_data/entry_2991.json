@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "April Jones",
+        "age": 27,
+        "gender": "female",
+        "address": "8305 Gary Loop Suite 410, West Joshuaview, RI 62421",
+        "phone": "001-989-291-7409",
+        "email": "edward34@example.org",
+        "account": {
+            "account_number": "b4abc6ca-2b5b-4496-916f-47b721c54d32",
+            "balance": 40705.58,
+            "transactions": [
+                {
+                    "date": "2024-05-24",
+                    "description": "Deposit",
+                    "amount": 26664.77,
+                    "transaction_id": 105946491
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Withdrawal",
+                    "amount": 19551.46,
+                    "transaction_id": 79512855
+                },
+                {
+                    "date": "2022-09-11",
+                    "description": "Interest",
+                    "amount": 33561.56,
+                    "transaction_id": 30217717
+                },
+                {
+                    "date": "2023-02-25",
+                    "description": "Deposit",
+                    "amount": 1193.96,
+                    "transaction_id": 98851449
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Manuel Taylor",
+        "age": 45,
+        "gender": "female",
+        "address": "275 Thompson Isle, Port Ethan, IN 99696",
+        "phone": "(466)532-1768",
+        "email": "isanders@example.net",
+        "account": {
+            "account_number": "8e8b9f81-aecf-4b8a-a29c-1c645ac83900",
+            "balance": 8504.74,
+            "transactions": [
+                {
+                    "date": "2023-03-16",
+                    "description": "Withdrawal",
+                    "amount": 5335.26,
+                    "transaction_id": 58008029
+                }
+            ]
+        }
+    }
+}

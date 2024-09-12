@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 76,
+        "gender": "male",
+        "address": "9005 Lisa Lights Apt. 572, Burtonburgh, WV 11677",
+        "phone": "579-203-5113x560",
+        "email": "mark94@example.com",
+        "account": {
+            "account_number": "c81b862f-9f50-4de4-9545-e6e9ba1acf15",
+            "balance": 9027.5,
+            "transactions": [
+                {
+                    "date": "2022-12-12",
+                    "description": "Interest",
+                    "amount": 1592.05,
+                    "transaction_id": 87120834
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Withdrawal",
+                    "amount": -4714.96,
+                    "transaction_id": 92325161
+                }
+            ]
+        }
+    }
+}

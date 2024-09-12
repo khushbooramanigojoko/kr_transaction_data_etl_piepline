@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Wendy Brown",
+        "age": 44,
+        "gender": "male",
+        "address": "USNV Anderson, FPO AP 25051",
+        "phone": "304.317.3455x9402",
+        "email": "cookcindy@example.org",
+        "account": {
+            "account_number": "f2c27121-d364-4e8e-b247-615371a11382",
+            "balance": 49717.23,
+            "transactions": [
+                {
+                    "date": "2022-11-08",
+                    "description": "Deposit",
+                    "amount": 25847.57,
+                    "transaction_id": 47160342
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Withdrawal",
+                    "amount": 251.01,
+                    "transaction_id": 104351979
+                },
+                {
+                    "date": "2022-09-27",
+                    "description": "Withdrawal",
+                    "amount": 33354.28,
+                    "transaction_id": 98774475
+                },
+                {
+                    "date": "2024-08-30",
+                    "description": "Interest",
+                    "amount": 14384.35,
+                    "transaction_id": 31430908
+                }
+            ]
+        }
+    }
+}

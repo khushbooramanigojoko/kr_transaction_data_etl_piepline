@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Eugene Harris",
+        "age": 64,
+        "gender": "female",
+        "address": "4315 Curtis Valleys, Port Dennis, WV 91994",
+        "phone": "+1-589-267-1806x5417",
+        "email": "jeffreyjensen@example.net",
+        "account": {
+            "account_number": "e90617d0-6aa8-494c-a14c-2c3e71cc09cf",
+            "balance": -49852.07,
+            "transactions": [
+                {
+                    "date": "2024-06-05",
+                    "description": "Interest",
+                    "amount": -3454.06,
+                    "transaction_id": 106861241
+                }
+            ]
+        }
+    }
+}

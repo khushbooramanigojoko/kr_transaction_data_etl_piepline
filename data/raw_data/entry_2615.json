@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brenda Stewart",
+        "age": 61,
+        "gender": "male",
+        "address": "0801 Megan Ports, South Elijah, SC 62604",
+        "phone": "479.424.4165",
+        "email": "pfleming@example.com",
+        "account": {
+            "account_number": "2c596637-e675-4ad6-b159-605fd8cef91f",
+            "balance": 37506.47,
+            "transactions": [
+                {
+                    "date": "2023-01-12",
+                    "description": "Deposit",
+                    "amount": 1329.42,
+                    "transaction_id": 45860229
+                },
+                {
+                    "date": "2023-07-30",
+                    "description": "Interest",
+                    "amount": 44243.77,
+                    "transaction_id": 67682009
+                },
+                {
+                    "date": "2023-03-24",
+                    "description": "Withdrawal",
+                    "amount": 40615.05,
+                    "transaction_id": 41376185
+                },
+                {
+                    "date": "2023-06-28",
+                    "description": "Withdrawal",
+                    "amount": 35351.41,
+                    "transaction_id": 115573243
+                },
+                {
+                    "date": "2023-11-08",
+                    "description": "Interest",
+                    "amount": 43194.84,
+                    "transaction_id": 72453467
+                }
+            ]
+        }
+    }
+}

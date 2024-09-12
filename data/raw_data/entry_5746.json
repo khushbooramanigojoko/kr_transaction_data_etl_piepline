@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Daniel Warren",
+        "age": 39,
+        "gender": "female",
+        "address": "USNV Calhoun, FPO AE 59414",
+        "phone": "001-478-399-1959x645",
+        "email": "williamsjohn@example.net",
+        "account": {
+            "account_number": "e73258f5-d642-4fec-b5da-d6b73f37c5cd",
+            "balance": 34373.85,
+            "transactions": [
+                {
+                    "date": "2022-09-10",
+                    "description": "Withdrawal",
+                    "amount": 10085.28,
+                    "transaction_id": 14739537
+                },
+                {
+                    "date": "2024-01-29",
+                    "description": "Withdrawal",
+                    "amount": 19465.35,
+                    "transaction_id": 7157440
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Deposit",
+                    "amount": 36880.38,
+                    "transaction_id": 99972005
+                },
+                {
+                    "date": "2023-12-06",
+                    "description": "Deposit",
+                    "amount": 27047.97,
+                    "transaction_id": 65498927
+                },
+                {
+                    "date": "2023-06-30",
+                    "description": "Withdrawal",
+                    "amount": 25202.92,
+                    "transaction_id": 42591097
+                }
+            ]
+        }
+    }
+}

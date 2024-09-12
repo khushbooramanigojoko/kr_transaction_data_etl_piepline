@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Lisa Clark",
+        "age": 91,
+        "gender": "male",
+        "address": "3793 Sandra Passage, Ingramstad, IN 92724",
+        "phone": "001-484-395-4788",
+        "email": "sandersjennifer@example.net",
+        "account": {
+            "account_number": "6ed4e754-bc05-4049-88b7-b7ce9aec124c",
+            "balance": 17357.22,
+            "transactions": [
+                {
+                    "date": "2023-11-22",
+                    "description": "Deposit",
+                    "amount": 15089.06,
+                    "transaction_id": 34119784
+                },
+                {
+                    "date": "2023-05-23",
+                    "description": "Interest",
+                    "amount": 20295.4,
+                    "transaction_id": 51155092
+                },
+                {
+                    "date": "2023-08-08",
+                    "description": "Interest",
+                    "amount": 7627.63,
+                    "transaction_id": 101783170
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Deposit",
+                    "amount": 36523.81,
+                    "transaction_id": 71952267
+                },
+                {
+                    "date": "2022-09-16",
+                    "description": "Interest",
+                    "amount": 7808.06,
+                    "transaction_id": 115534384
+                }
+            ]
+        }
+    }
+}

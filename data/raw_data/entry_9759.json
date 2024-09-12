@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "female",
+        "address": "06337 Galvan Lights Suite 977, Loganshire, MT 38264",
+        "phone": "530-660-4942x00044",
+        "email": "johnsonandrew@example.com",
+        "account": {
+            "account_number": "0c132e5f-5283-4c8f-8ff3-ae705a6014a7",
+            "balance": 49108.74,
+            "transactions": [
+                {
+                    "date": "2023-06-28",
+                    "description": "Interest",
+                    "amount": -3334.68,
+                    "transaction_id": 47495161
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Interest",
+                    "amount": -3769.14,
+                    "transaction_id": 90155369
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Interest",
+                    "amount": 2753.46,
+                    "transaction_id": 31575683
+                },
+                {
+                    "date": "2023-06-20",
+                    "description": "Deposit",
+                    "amount": -1824.77,
+                    "transaction_id": 6716588
+                },
+                {
+                    "date": "2024-06-29",
+                    "description": "Withdrawal",
+                    "amount": -2878.33,
+                    "transaction_id": 40990277
+                }
+            ]
+        }
+    }
+}

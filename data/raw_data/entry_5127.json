@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Robert Robertson",
+        "age": 40,
+        "gender": "male",
+        "address": "4308 Raymond Dale, Terrymouth, MA 39861",
+        "phone": "(893)634-3015x822",
+        "email": "henry08@example.org",
+        "account": {
+            "account_number": "30e2b96d-3a70-4755-b1a4-49ffb6712469",
+            "balance": 26047.8,
+            "transactions": [
+                {
+                    "date": "2024-05-23",
+                    "description": "Deposit",
+                    "amount": 11171.63,
+                    "transaction_id": 110333482
+                },
+                {
+                    "date": "2023-06-04",
+                    "description": "Withdrawal",
+                    "amount": 47338.89,
+                    "transaction_id": 114599607
+                },
+                {
+                    "date": "2022-09-09",
+                    "description": "Interest",
+                    "amount": 29600.87,
+                    "transaction_id": 36705348
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Withdrawal",
+                    "amount": 16198.18,
+                    "transaction_id": 16496473
+                }
+            ]
+        }
+    }
+}

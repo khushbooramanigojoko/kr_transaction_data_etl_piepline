@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Regina White",
+        "age": 96,
+        "gender": "male",
+        "address": "489 Levine Estates Suite 464, North Stephenchester, CA 14256",
+        "phone": "760.499.6072x4589",
+        "email": "kaitlynatkinson@example.org",
+        "account": {
+            "account_number": "99e60853-42d0-4c16-ba15-40d34cfb69ce",
+            "balance": 24920.97,
+            "transactions": [
+                {
+                    "date": "2023-11-02",
+                    "description": "Deposit",
+                    "amount": 12611.87,
+                    "transaction_id": 88674416
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Interest",
+                    "amount": 17994.64,
+                    "transaction_id": 68598489
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Withdrawal",
+                    "amount": 37137.86,
+                    "transaction_id": 76260943
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Withdrawal",
+                    "amount": 13840.88,
+                    "transaction_id": 107759585
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Deposit",
+                    "amount": 3100.43,
+                    "transaction_id": 55428645
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Rachel Wilkinson",
+        "age": 97,
+        "gender": "male",
+        "address": "361 Melissa Port Suite 869, Jacquelineborough, MH 19884",
+        "phone": "(697)761-0964",
+        "email": "melvinwalton@example.com",
+        "account": {
+            "account_number": "1783f2dc-2012-4471-8821-3a15e2650bf6",
+            "balance": 45955.62,
+            "transactions": [
+                {
+                    "date": "2023-12-21",
+                    "description": "Interest",
+                    "amount": 39514.64,
+                    "transaction_id": 48687267
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Deposit",
+                    "amount": 47183.5,
+                    "transaction_id": 55236995
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Interest",
+                    "amount": 11872.22,
+                    "transaction_id": 57591358
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Withdrawal",
+                    "amount": 38287.09,
+                    "transaction_id": 52717036
+                }
+            ]
+        }
+    }
+}

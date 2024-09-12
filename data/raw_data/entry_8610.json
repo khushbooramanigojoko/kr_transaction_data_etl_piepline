@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sherry Pollard",
+        "age": 75,
+        "gender": "female",
+        "address": "4805 Munoz Wall Apt. 753, Jasonside, NC 53406",
+        "phone": "(859)450-5857x2659",
+        "email": "paulapearson@example.net",
+        "account": {
+            "account_number": "81adc075-c1b0-46a6-a9df-6ebced50701c",
+            "balance": 4475.84,
+            "transactions": [
+                {
+                    "date": "2022-12-04",
+                    "description": "Interest",
+                    "amount": 22450.15,
+                    "transaction_id": 7286785
+                },
+                {
+                    "date": "2023-03-24",
+                    "description": "Interest",
+                    "amount": 45738.94,
+                    "transaction_id": 13965537
+                },
+                {
+                    "date": "2024-05-31",
+                    "description": "Withdrawal",
+                    "amount": 41109.87,
+                    "transaction_id": 100013011
+                },
+                {
+                    "date": "2023-05-05",
+                    "description": "Deposit",
+                    "amount": 32439.11,
+                    "transaction_id": 69367259
+                }
+            ]
+        }
+    }
+}

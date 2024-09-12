@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 91,
+        "gender": "male",
+        "address": "20346 James Station, East Ericshire, MD 33080",
+        "phone": "+1-637-625-5481",
+        "email": "ksullivan@example.com",
+        "account": {
+            "account_number": "3f042136-1d92-4e1e-9164-79459cb3be62",
+            "balance": 28743.46,
+            "transactions": [
+                {
+                    "date": "2024-08-09",
+                    "description": "Interest",
+                    "amount": -4714.13,
+                    "transaction_id": 76944843
+                }
+            ]
+        }
+    }
+}

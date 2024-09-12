@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "David Black",
+        "age": 99,
+        "gender": "female",
+        "address": "23012 Joseph Pass, Brandonstad, MD 34404",
+        "phone": "+1-413-237-4093x90326",
+        "email": "ttyler@example.org",
+        "account": {
+            "account_number": "561fbda8-6e9a-4ff1-b026-00ca01919b13",
+            "balance": 11009.42,
+            "transactions": [
+                {
+                    "date": "2024-03-25",
+                    "description": "Withdrawal",
+                    "amount": 13842.51,
+                    "transaction_id": 110891393
+                },
+                {
+                    "date": "2023-09-29",
+                    "description": "Interest",
+                    "amount": 6212.62,
+                    "transaction_id": 60050750
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Deposit",
+                    "amount": 49481.12,
+                    "transaction_id": 23793473
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Deposit",
+                    "amount": 16405.11,
+                    "transaction_id": 2448757
+                }
+            ]
+        }
+    }
+}

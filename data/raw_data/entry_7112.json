@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Benjamin Campbell",
+        "age": 28,
+        "gender": "male",
+        "address": "019 Suzanne Station, Fullerbury, MI 02683",
+        "phone": "001-899-835-5806x461",
+        "email": "burkerobert@example.net",
+        "account": {
+            "account_number": "b6a35b2c-b092-4d11-a4a5-7e905116151c",
+            "balance": 31172.5,
+            "transactions": [
+                {
+                    "date": "2024-07-01",
+                    "description": "Deposit",
+                    "amount": 41955.19,
+                    "transaction_id": 106007035
+                },
+                {
+                    "date": "2023-08-01",
+                    "description": "Deposit",
+                    "amount": 46636.56,
+                    "transaction_id": 103192673
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Withdrawal",
+                    "amount": 41741.52,
+                    "transaction_id": 52193768
+                }
+            ]
+        }
+    }
+}

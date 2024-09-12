@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jennifer Rice",
+        "age": 89,
+        "gender": "female",
+        "address": "61480 Cummings Summit Apt. 239, West Robin, AK 33515",
+        "phone": "001-340-893-8245x478",
+        "email": "benjamincox@example.com",
+        "account": {
+            "account_number": "c966db1e-79d1-44cc-89ca-5e2b99fa0402",
+            "balance": 18248.56,
+            "transactions": [
+                {
+                    "date": "2023-07-14",
+                    "description": "Withdrawal",
+                    "amount": 2798.6,
+                    "transaction_id": 6649776
+                }
+            ]
+        }
+    }
+}

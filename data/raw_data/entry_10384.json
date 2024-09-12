@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Alexander Hahn",
+        "age": 31,
+        "gender": "female",
+        "address": "Unit 9838 Box 2236, DPO AE 40258",
+        "phone": "749-761-3178",
+        "email": "andersonthomas@example.org",
+        "account": {
+            "account_number": "c4e4532a-f243-4ef7-b7e7-35976b86b1a9",
+            "balance": -16191.73,
+            "transactions": [
+                {
+                    "date": "2024-02-03",
+                    "description": "Interest",
+                    "amount": -4313.42,
+                    "transaction_id": 55912719
+                },
+                {
+                    "date": "2023-11-11",
+                    "description": "Interest",
+                    "amount": 334.03,
+                    "transaction_id": 104862006
+                }
+            ]
+        }
+    }
+}

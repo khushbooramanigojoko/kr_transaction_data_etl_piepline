@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 67,
+        "gender": "male",
+        "address": "9550 James Meadows Suite 421, Donnaport, AL 22578",
+        "phone": "+1-899-451-6638",
+        "email": "dmcdaniel@example.com",
+        "account": {
+            "account_number": "d067c16d-f68a-47a5-8df2-d0ac38b4d487",
+            "balance": 35510.44,
+            "transactions": [
+                {
+                    "date": "2023-12-18",
+                    "description": "Interest",
+                    "amount": -2235.24,
+                    "transaction_id": 9675258
+                },
+                {
+                    "date": "2023-05-06",
+                    "description": "Deposit",
+                    "amount": -4681.07,
+                    "transaction_id": 4024544
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Deposit",
+                    "amount": -4376.06,
+                    "transaction_id": 39088725
+                },
+                {
+                    "date": "2023-11-12",
+                    "description": "Withdrawal",
+                    "amount": -2186.89,
+                    "transaction_id": 80580247
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Withdrawal",
+                    "amount": -4407.89,
+                    "transaction_id": 73383743
+                }
+            ]
+        }
+    }
+}

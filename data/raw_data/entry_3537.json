@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Emily Tanner",
+        "age": 51,
+        "gender": "male",
+        "address": "0231 Simpson Rapid Apt. 346, Knapptown, IA 34500",
+        "phone": "+1-893-252-6696x199",
+        "email": "kathyfernandez@example.com",
+        "account": {
+            "account_number": "fc42c95a-c019-4ff0-884e-acd3e6b9370f",
+            "balance": 23380.11,
+            "transactions": [
+                {
+                    "date": "2023-02-10",
+                    "description": "Withdrawal",
+                    "amount": 13083.98,
+                    "transaction_id": 103156369
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kevin Morris",
+        "age": 66,
+        "gender": "male",
+        "address": "12768 Randolph Plaza, Theresafurt, MT 51490",
+        "phone": "001-232-251-0921x0829",
+        "email": "xreed@example.net",
+        "account": {
+            "account_number": "7347c5cc-13cf-47f7-be9d-9ba71af48adf",
+            "balance": 49106.32,
+            "transactions": [
+                {
+                    "date": "2022-10-29",
+                    "description": "Withdrawal",
+                    "amount": 10166.27,
+                    "transaction_id": 3940941
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Interest",
+                    "amount": 24704.48,
+                    "transaction_id": 92452915
+                },
+                {
+                    "date": "2023-04-15",
+                    "description": "Withdrawal",
+                    "amount": 10169.7,
+                    "transaction_id": 69206202
+                },
+                {
+                    "date": "2023-07-15",
+                    "description": "Deposit",
+                    "amount": 22213.47,
+                    "transaction_id": 97303732
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Deposit",
+                    "amount": 16150.08,
+                    "transaction_id": 21227237
+                }
+            ]
+        }
+    }
+}

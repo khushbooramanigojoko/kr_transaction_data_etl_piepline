@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Donald Cook",
+        "age": 38,
+        "gender": "male",
+        "address": "76626 Danielle Circle Suite 866, Lake Christy, OK 05597",
+        "phone": "706.272.3362x0218",
+        "email": "marcusmaldonado@example.com",
+        "account": {
+            "account_number": "c0d07cb4-cefd-44e8-906a-59018994a4ff",
+            "balance": 35999.77,
+            "transactions": [
+                {
+                    "date": "2024-04-17",
+                    "description": "Interest",
+                    "amount": 24107.01,
+                    "transaction_id": 54879239
+                },
+                {
+                    "date": "2023-10-12",
+                    "description": "Deposit",
+                    "amount": 41660.21,
+                    "transaction_id": 91921439
+                }
+            ]
+        }
+    }
+}

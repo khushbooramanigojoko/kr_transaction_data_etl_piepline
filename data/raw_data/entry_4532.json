@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Shannon Clements",
+        "age": 87,
+        "gender": "male",
+        "address": "2424 West Overpass, Moniquebury, OH 54386",
+        "phone": "001-248-226-3137x5789",
+        "email": "benjaminserrano@example.org",
+        "account": {
+            "account_number": "ffcd20ff-7a6e-4b87-a51e-4ed583aea311",
+            "balance": 4066.44,
+            "transactions": [
+                {
+                    "date": "2023-03-03",
+                    "description": "Withdrawal",
+                    "amount": 23281.64,
+                    "transaction_id": 37931648
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Withdrawal",
+                    "amount": 13950.17,
+                    "transaction_id": 4645478
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Withdrawal",
+                    "amount": 17580.13,
+                    "transaction_id": 27132284
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Withdrawal",
+                    "amount": 3528.25,
+                    "transaction_id": 54498463
+                }
+            ]
+        }
+    }
+}

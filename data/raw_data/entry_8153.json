@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stephanie Terry",
+        "age": 43,
+        "gender": "female",
+        "address": "1204 Ford Summit Suite 793, Fernandezville, TX 65940",
+        "phone": "675-987-1448x66653",
+        "email": "ugrant@example.net",
+        "account": {
+            "account_number": "902c6507-4d88-46fe-92e6-c2792e6fb7fe",
+            "balance": 9693.95,
+            "transactions": [
+                {
+                    "date": "2024-05-27",
+                    "description": "Withdrawal",
+                    "amount": 14647.91,
+                    "transaction_id": 35735243
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Deposit",
+                    "amount": 24264.02,
+                    "transaction_id": 29557110
+                },
+                {
+                    "date": "2023-10-20",
+                    "description": "Interest",
+                    "amount": 22115.85,
+                    "transaction_id": 34210800
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Interest",
+                    "amount": 11056.27,
+                    "transaction_id": 22123384
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Richard Craig",
+        "age": 79,
+        "gender": "female",
+        "address": "424 Love Glen, Schneiderfurt, MN 43901",
+        "phone": "001-308-749-4486x032",
+        "email": "andrew73@example.org",
+        "account": {
+            "account_number": "add2aadf-4adb-424d-a9ac-61e2348afceb",
+            "balance": 10094.02,
+            "transactions": [
+                {
+                    "date": "2023-05-20",
+                    "description": "Deposit",
+                    "amount": 43716.4,
+                    "transaction_id": 9580755
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Withdrawal",
+                    "amount": 25271.23,
+                    "transaction_id": 41101836
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Deposit",
+                    "amount": 24252.95,
+                    "transaction_id": 106896239
+                },
+                {
+                    "date": "2024-07-03",
+                    "description": "Withdrawal",
+                    "amount": 30825.56,
+                    "transaction_id": 89772966
+                }
+            ]
+        }
+    }
+}

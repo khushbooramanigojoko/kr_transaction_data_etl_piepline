@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Angela Terry",
+        "age": 93,
+        "gender": "male",
+        "address": "417 Beth Junctions, Lake Trevor, OR 01385",
+        "phone": "+1-644-710-8238",
+        "email": "morrislaurie@example.org",
+        "account": {
+            "account_number": "e5a368b9-45ea-4614-aad5-2583b9f2e3b8",
+            "balance": -5606.7,
+            "transactions": [
+                {
+                    "date": "2022-10-24",
+                    "description": "Withdrawal",
+                    "amount": 1808.79,
+                    "transaction_id": 11926561
+                },
+                {
+                    "date": "2023-02-18",
+                    "description": "Interest",
+                    "amount": -1778.8,
+                    "transaction_id": 92841123
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Interest",
+                    "amount": -3058.4,
+                    "transaction_id": 15125975
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Deposit",
+                    "amount": -594.1,
+                    "transaction_id": 91504317
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Interest",
+                    "amount": 3931.82,
+                    "transaction_id": 88163779
+                }
+            ]
+        }
+    }
+}

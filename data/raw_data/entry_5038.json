@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Peter Velazquez Jr.",
+        "age": 80,
+        "gender": "female",
+        "address": "78028 Donna Corners, Lake Micheleland, OH 94747",
+        "phone": "394.460.3019x362",
+        "email": "eric35@example.net",
+        "account": {
+            "account_number": "a466edc3-a88f-4f28-8c0d-c495ac51c0db",
+            "balance": 36581.99,
+            "transactions": [
+                {
+                    "date": "2023-06-04",
+                    "description": "Deposit",
+                    "amount": 21090.54,
+                    "transaction_id": 79782604
+                },
+                {
+                    "date": "2024-04-19",
+                    "description": "Withdrawal",
+                    "amount": 42288.81,
+                    "transaction_id": 5476396
+                },
+                {
+                    "date": "2023-05-15",
+                    "description": "Interest",
+                    "amount": 45417.25,
+                    "transaction_id": 51876310
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Deposit",
+                    "amount": 1900.35,
+                    "transaction_id": 59948590
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Deposit",
+                    "amount": 889.1,
+                    "transaction_id": 37335179
+                }
+            ]
+        }
+    }
+}

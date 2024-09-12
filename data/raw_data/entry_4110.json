@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Julie King",
+        "age": 65,
+        "gender": "female",
+        "address": "58901 Cortez Wall Apt. 534, Lake Madisonhaven, MN 76974",
+        "phone": "807.792.7414",
+        "email": "hoovervictor@example.org",
+        "account": {
+            "account_number": "fa9bbcb8-e417-4906-b703-df7b71725753",
+            "balance": 34239.89,
+            "transactions": [
+                {
+                    "date": "2023-10-22",
+                    "description": "Interest",
+                    "amount": 1811.3,
+                    "transaction_id": 79145837
+                },
+                {
+                    "date": "2023-11-09",
+                    "description": "Interest",
+                    "amount": 46805.92,
+                    "transaction_id": 62406778
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Deposit",
+                    "amount": 22847.89,
+                    "transaction_id": 110386451
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Interest",
+                    "amount": 20597.35,
+                    "transaction_id": 95037611
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Interest",
+                    "amount": 44241.56,
+                    "transaction_id": 31565699
+                }
+            ]
+        }
+    }
+}

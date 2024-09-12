@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lindsay Parker",
+        "age": 88,
+        "gender": "male",
+        "address": "Unit 8260 Box 8168, DPO AP 65107",
+        "phone": "001-205-230-0560",
+        "email": "jenniferobrien@example.com",
+        "account": {
+            "account_number": "f5049c35-6f88-4fce-aacc-9fe9d457d140",
+            "balance": 1006.08,
+            "transactions": [
+                {
+                    "date": "2022-10-24",
+                    "description": "Interest",
+                    "amount": 22905.1,
+                    "transaction_id": 101272244
+                }
+            ]
+        }
+    }
+}

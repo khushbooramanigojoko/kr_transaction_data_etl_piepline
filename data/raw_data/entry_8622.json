@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Angela Simpson",
+        "age": 85,
+        "gender": "female",
+        "address": "589 Thomas Trafficway Apt. 251, Matthewsview, MI 59691",
+        "phone": "(688)431-1330",
+        "email": "riceangelica@example.com",
+        "account": {
+            "account_number": "e8989be8-d866-44a6-8a40-b802d773c46a",
+            "balance": 33670.23,
+            "transactions": [
+                {
+                    "date": "2023-04-03",
+                    "description": "Deposit",
+                    "amount": 42312.39,
+                    "transaction_id": 29498730
+                }
+            ]
+        }
+    }
+}

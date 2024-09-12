@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lisa Lowery",
+        "age": 73,
+        "gender": "female",
+        "address": "070 Walker Cove, New Kelly, KS 53412",
+        "phone": "316-698-9527x42513",
+        "email": "brittany99@example.net",
+        "account": {
+            "account_number": "1e293005-e824-4eb0-b1a7-afcd20e2c144",
+            "balance": 40810.91,
+            "transactions": [
+                {
+                    "date": "2024-04-08",
+                    "description": "Deposit",
+                    "amount": 2287.86,
+                    "transaction_id": 117004639
+                }
+            ]
+        }
+    }
+}

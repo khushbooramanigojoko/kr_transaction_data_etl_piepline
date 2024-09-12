@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tracy Harris",
+        "age": 83,
+        "gender": "male",
+        "address": "54166 Martinez Port Apt. 495, West Gabriella, WY 74090",
+        "phone": "534.783.2291x1639",
+        "email": "michaelvasquez@example.org",
+        "account": {
+            "account_number": "22f1d1be-8956-4e67-a2e0-beb8011d71a0",
+            "balance": 39431.1,
+            "transactions": [
+                {
+                    "date": "2024-04-30",
+                    "description": "Interest",
+                    "amount": 15937.13,
+                    "transaction_id": 91036588
+                },
+                {
+                    "date": "2024-03-24",
+                    "description": "Withdrawal",
+                    "amount": 21397.14,
+                    "transaction_id": 83097972
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Withdrawal",
+                    "amount": 10592.43,
+                    "transaction_id": 101573445
+                }
+            ]
+        }
+    }
+}

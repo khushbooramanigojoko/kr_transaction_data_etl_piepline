@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jasmine Silva",
+        "age": 32,
+        "gender": "male",
+        "address": "381 Anna Brook, New Nathanport, HI 88825",
+        "phone": "739-459-4370x2089",
+        "email": "xhuffman@example.net",
+        "account": {
+            "account_number": "1002db81-efa6-495c-a9a9-687b6cd2c807",
+            "balance": 39693.33,
+            "transactions": [
+                {
+                    "date": "2024-02-24",
+                    "description": "Deposit",
+                    "amount": 8655.56,
+                    "transaction_id": 10027889
+                },
+                {
+                    "date": "2023-06-27",
+                    "description": "Deposit",
+                    "amount": 28868.62,
+                    "transaction_id": 59012862
+                }
+            ]
+        }
+    }
+}

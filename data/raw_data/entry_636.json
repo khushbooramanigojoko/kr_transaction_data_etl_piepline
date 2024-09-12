@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Elizabeth Davis",
+        "age": 36,
+        "gender": "male",
+        "address": "86120 Russell Trace Apt. 023, South Rodney, AK 83857",
+        "phone": "905.962.9706x89809",
+        "email": "hannahaustin@example.com",
+        "account": {
+            "account_number": "ffb227f3-d1c1-469d-bc9c-5b7fd2f5fedd",
+            "balance": 24767.21,
+            "transactions": [
+                {
+                    "date": "2024-06-12",
+                    "description": "Interest",
+                    "amount": 48419.29,
+                    "transaction_id": 30873799
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Interest",
+                    "amount": 7873.83,
+                    "transaction_id": 53164737
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Deposit",
+                    "amount": 12275.38,
+                    "transaction_id": 42232458
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Withdrawal",
+                    "amount": 10685.04,
+                    "transaction_id": 43592930
+                },
+                {
+                    "date": "2023-01-15",
+                    "description": "Withdrawal",
+                    "amount": 30315.47,
+                    "transaction_id": 2378183
+                }
+            ]
+        }
+    }
+}

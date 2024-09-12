@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 98,
+        "gender": "female",
+        "address": "37695 Wilcox Greens Suite 990, South Jessicamouth, TN 64225",
+        "phone": "(764)793-9406",
+        "email": "dawnperez@example.net",
+        "account": {
+            "account_number": "8eea6af8-83ca-4831-8cab-29f207e61ac7",
+            "balance": 5123.68,
+            "transactions": [
+                {
+                    "date": "2023-02-11",
+                    "description": "Interest",
+                    "amount": 424.59,
+                    "transaction_id": 19827383
+                }
+            ]
+        }
+    }
+}

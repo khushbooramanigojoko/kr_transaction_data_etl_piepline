@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 68,
+        "gender": "female",
+        "address": "6987 Anthony Lock Apt. 846, Monicahaven, LA 54950",
+        "phone": "226-324-8415",
+        "email": "lanekathleen@example.net",
+        "account": {
+            "account_number": "221c345d-e545-4d85-8c74-4a5b2c39cdcd",
+            "balance": 8993.86,
+            "transactions": [
+                {
+                    "date": "2023-01-23",
+                    "description": "Withdrawal",
+                    "amount": -3014.28,
+                    "transaction_id": 27346395
+                },
+                {
+                    "date": "2024-05-19",
+                    "description": "Interest",
+                    "amount": -4869.83,
+                    "transaction_id": 51261307
+                },
+                {
+                    "date": "2023-12-06",
+                    "description": "Deposit",
+                    "amount": 1070.45,
+                    "transaction_id": 35525550
+                }
+            ]
+        }
+    }
+}

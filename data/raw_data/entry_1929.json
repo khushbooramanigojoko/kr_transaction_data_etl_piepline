@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Curtis Castillo",
+        "age": 31,
+        "gender": "female",
+        "address": "852 Osborne Junctions Suite 004, Daltonfurt, IN 59409",
+        "phone": "001-855-931-5391x494",
+        "email": "bradshawelaine@example.net",
+        "account": {
+            "account_number": "98421e54-f84e-44f0-a1a1-437b51f07d75",
+            "balance": 3916.95,
+            "transactions": [
+                {
+                    "date": "2022-09-04",
+                    "description": "Interest",
+                    "amount": 10003.6,
+                    "transaction_id": 116334374
+                },
+                {
+                    "date": "2023-06-06",
+                    "description": "Withdrawal",
+                    "amount": 46065.08,
+                    "transaction_id": 106634576
+                }
+            ]
+        }
+    }
+}

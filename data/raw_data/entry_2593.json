@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Donald Huerta",
+        "age": 89,
+        "gender": "female",
+        "address": "2946 Ramirez Dam, South Miranda, NH 16360",
+        "phone": "(987)482-0740x762",
+        "email": "kroberts@example.org",
+        "account": {
+            "account_number": "16964c51-1da6-49b4-8571-0734e6338b0e",
+            "balance": 5834.34,
+            "transactions": [
+                {
+                    "date": "2023-12-01",
+                    "description": "Interest",
+                    "amount": 18926.75,
+                    "transaction_id": 2681423
+                },
+                {
+                    "date": "2022-12-28",
+                    "description": "Withdrawal",
+                    "amount": 24797.29,
+                    "transaction_id": 26153534
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Deposit",
+                    "amount": 11747.41,
+                    "transaction_id": 11890262
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Deposit",
+                    "amount": 43238.22,
+                    "transaction_id": 32757688
+                },
+                {
+                    "date": "2022-09-22",
+                    "description": "Deposit",
+                    "amount": 26910.69,
+                    "transaction_id": 113957093
+                }
+            ]
+        }
+    }
+}

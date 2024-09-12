@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kyle White",
+        "age": 35,
+        "gender": "male",
+        "address": "2872 Kenneth Lodge, Morrowshire, ID 84695",
+        "phone": "+1-779-692-3954",
+        "email": "vsolomon@example.com",
+        "account": {
+            "account_number": "96be1168-5eee-45a5-86c8-8106cec64931",
+            "balance": 27500.29,
+            "transactions": [
+                {
+                    "date": "2023-06-07",
+                    "description": "Interest",
+                    "amount": 28477.22,
+                    "transaction_id": 70193984
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Interest",
+                    "amount": 40093.51,
+                    "transaction_id": 107612608
+                }
+            ]
+        }
+    }
+}

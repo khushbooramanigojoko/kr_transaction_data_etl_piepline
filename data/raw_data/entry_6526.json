@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rachel Becker",
+        "age": 19,
+        "gender": "male",
+        "address": "Unit 8298 Box 1985, DPO AP 15749",
+        "phone": "+1-614-848-0550x9396",
+        "email": "kevinreynolds@example.net",
+        "account": {
+            "account_number": "abc10adc-909b-44c8-aa33-62533fb9c574",
+            "balance": 26639.35,
+            "transactions": [
+                {
+                    "date": "2024-06-17",
+                    "description": "Interest",
+                    "amount": 36654.36,
+                    "transaction_id": 71594745
+                }
+            ]
+        }
+    }
+}

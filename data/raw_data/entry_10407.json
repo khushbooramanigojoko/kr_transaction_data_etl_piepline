@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 56,
+        "gender": "male",
+        "address": "1520 Carlson Crossing Suite 218, South Kelly, HI 71735",
+        "phone": "+1-832-697-8008",
+        "email": "deborahphillips@example.net",
+        "account": {
+            "account_number": "2031f8ac-b3e1-4473-a0fa-ccfe58715287",
+            "balance": 21782.5,
+            "transactions": [
+                {
+                    "date": "2022-11-29",
+                    "description": "Interest",
+                    "amount": -3004.39,
+                    "transaction_id": 29243427
+                }
+            ]
+        }
+    }
+}

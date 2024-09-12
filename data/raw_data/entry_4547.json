@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jessica Mays",
+        "age": 65,
+        "gender": "female",
+        "address": "PSC 0503, Box 5852, APO AP 04999",
+        "phone": "(998)911-0331",
+        "email": "cynthia89@example.org",
+        "account": {
+            "account_number": "abdbf87f-c021-4c7c-bd55-261fe8b43c14",
+            "balance": 35531.29,
+            "transactions": [
+                {
+                    "date": "2024-06-14",
+                    "description": "Deposit",
+                    "amount": 45441.52,
+                    "transaction_id": 98723429
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Interest",
+                    "amount": 13271.3,
+                    "transaction_id": 25081870
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Interest",
+                    "amount": 34160.66,
+                    "transaction_id": 81808932
+                }
+            ]
+        }
+    }
+}

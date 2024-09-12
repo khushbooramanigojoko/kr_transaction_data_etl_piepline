@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sharon Payne",
+        "age": 48,
+        "gender": "male",
+        "address": "256 Thomas Estates, Georgeshire, AZ 77070",
+        "phone": "6798461058",
+        "email": "ihernandez@example.net",
+        "account": {
+            "account_number": "a3c8b13b-e05d-4d34-8194-8149b3229f61",
+            "balance": 13939.42,
+            "transactions": [
+                {
+                    "date": "2024-03-11",
+                    "description": "Withdrawal",
+                    "amount": 22851.99,
+                    "transaction_id": 97531528
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Interest",
+                    "amount": 37969.31,
+                    "transaction_id": 113945487
+                },
+                {
+                    "date": "2022-11-04",
+                    "description": "Withdrawal",
+                    "amount": 12093.84,
+                    "transaction_id": 91809044
+                }
+            ]
+        }
+    }
+}

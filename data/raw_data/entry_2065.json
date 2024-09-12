@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sean Thompson",
+        "age": 84,
+        "gender": "male",
+        "address": "8529 Hendricks Springs Suite 751, Rodriguezton, WY 28389",
+        "phone": "729-978-6522x7655",
+        "email": "wrightjason@example.org",
+        "account": {
+            "account_number": "aac029ba-5a44-4092-a5dc-00d093dcf722",
+            "balance": 9723.24,
+            "transactions": [
+                {
+                    "date": "2024-03-01",
+                    "description": "Interest",
+                    "amount": 2558.04,
+                    "transaction_id": 104708103
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Interest",
+                    "amount": 6465.49,
+                    "transaction_id": 16101648
+                },
+                {
+                    "date": "2022-10-27",
+                    "description": "Interest",
+                    "amount": 41509.12,
+                    "transaction_id": 55930217
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michelle Fletcher",
+        "age": 19,
+        "gender": "male",
+        "address": "515 Martin Circle Suite 226, New Troyville, MT 65174",
+        "phone": "(785)359-3062",
+        "email": "rowekristopher@example.net",
+        "account": {
+            "account_number": "d209f914-8f7e-463d-9645-0c8b0cbb991a",
+            "balance": 39296.08,
+            "transactions": [
+                {
+                    "date": "2023-10-14",
+                    "description": "Withdrawal",
+                    "amount": 3456.81,
+                    "transaction_id": 3160651
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Withdrawal",
+                    "amount": 37033.74,
+                    "transaction_id": 54743597
+                },
+                {
+                    "date": "2024-03-22",
+                    "description": "Interest",
+                    "amount": 9858.74,
+                    "transaction_id": 1670128
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Withdrawal",
+                    "amount": 31716.9,
+                    "transaction_id": 65199229
+                }
+            ]
+        }
+    }
+}

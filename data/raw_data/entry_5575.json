@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Breanna Pearson",
+        "age": 50,
+        "gender": "male",
+        "address": "8631 Smith Hollow, South Melissa, IN 50358",
+        "phone": "434-521-5859x58459",
+        "email": "michelle34@example.org",
+        "account": {
+            "account_number": "e5b16e13-2c08-4e86-8267-9036f4aba081",
+            "balance": 15924.14,
+            "transactions": [
+                {
+                    "date": "2024-07-06",
+                    "description": "Deposit",
+                    "amount": 29930.29,
+                    "transaction_id": 4295289
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Interest",
+                    "amount": 25821.2,
+                    "transaction_id": 73606412
+                },
+                {
+                    "date": "2023-06-20",
+                    "description": "Interest",
+                    "amount": 1314.88,
+                    "transaction_id": 117938905
+                },
+                {
+                    "date": "2024-03-10",
+                    "description": "Interest",
+                    "amount": 46880.29,
+                    "transaction_id": 98541165
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Interest",
+                    "amount": 3243.26,
+                    "transaction_id": 42968561
+                }
+            ]
+        }
+    }
+}

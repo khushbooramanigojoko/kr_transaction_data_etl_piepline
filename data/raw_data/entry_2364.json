@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Damon Hurst",
+        "age": 87,
+        "gender": "female",
+        "address": "3784 Rita Ridge Apt. 489, New Randyborough, MA 53333",
+        "phone": "375.760.1215",
+        "email": "kyledaugherty@example.net",
+        "account": {
+            "account_number": "e622bb96-17da-445c-a0fd-619657692fa4",
+            "balance": 29736.24,
+            "transactions": [
+                {
+                    "date": "2024-02-27",
+                    "description": "Interest",
+                    "amount": 29015.29,
+                    "transaction_id": 103862302
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Deposit",
+                    "amount": 14690.91,
+                    "transaction_id": 26163561
+                }
+            ]
+        }
+    }
+}

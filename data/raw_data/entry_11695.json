@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 90,
+        "gender": "female",
+        "address": "USNS Nelson, FPO AE 32184",
+        "phone": "278.768.0802x0159",
+        "email": "john84@example.net",
+        "account": {
+            "account_number": "26fc3446-60f7-4885-897b-1f512328c6c0",
+            "balance": 45983.17,
+            "transactions": [
+                {
+                    "date": "2023-10-15",
+                    "description": "Deposit",
+                    "amount": 239.7,
+                    "transaction_id": 5547547
+                }
+            ]
+        }
+    }
+}

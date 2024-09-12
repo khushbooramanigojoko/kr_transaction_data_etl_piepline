@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Willie Fox",
+        "age": 48,
+        "gender": "female",
+        "address": "PSC 0951, Box 6732, APO AA 91505",
+        "phone": "906.760.0948x5142",
+        "email": "wilsonjeremy@example.net",
+        "account": {
+            "account_number": "21f1a65c-6e56-433e-b96b-1241f7566f7d",
+            "balance": 42969.68,
+            "transactions": [
+                {
+                    "date": "2024-07-05",
+                    "description": "Interest",
+                    "amount": 47224.87,
+                    "transaction_id": 98839835
+                }
+            ]
+        }
+    }
+}

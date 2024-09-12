@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kristopher Thomas",
+        "age": 97,
+        "gender": "male",
+        "address": "5406 Gonzalez Harbor Apt. 803, Miashire, MH 33462",
+        "phone": "001-615-280-3906x58602",
+        "email": "carolhill@example.net",
+        "account": {
+            "account_number": "0fd87624-771b-4d75-8c3f-2dac01618587",
+            "balance": -13255.5,
+            "transactions": [
+                {
+                    "date": "2023-09-14",
+                    "description": "Withdrawal",
+                    "amount": -482.16,
+                    "transaction_id": 29332532
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Withdrawal",
+                    "amount": -837.66,
+                    "transaction_id": 11748811
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Deposit",
+                    "amount": -2980.17,
+                    "transaction_id": 97612255
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Deposit",
+                    "amount": -2273.23,
+                    "transaction_id": 69008682
+                }
+            ]
+        }
+    }
+}

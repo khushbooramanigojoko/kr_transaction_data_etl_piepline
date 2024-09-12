@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Angela Cook",
+        "age": 35,
+        "gender": "male",
+        "address": "384 Watkins Station Suite 453, Kylehaven, IL 14935",
+        "phone": "252-534-3364x39837",
+        "email": "uharris@example.org",
+        "account": {
+            "account_number": "883344b6-e791-4613-843b-5c4fccf1f85c",
+            "balance": 47832.1,
+            "transactions": [
+                {
+                    "date": "2024-05-28",
+                    "description": "Withdrawal",
+                    "amount": 22194.41,
+                    "transaction_id": 11436761
+                },
+                {
+                    "date": "2023-09-06",
+                    "description": "Withdrawal",
+                    "amount": 1536.45,
+                    "transaction_id": 112462774
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Withdrawal",
+                    "amount": 7591.36,
+                    "transaction_id": 107583682
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Deposit",
+                    "amount": 28128.65,
+                    "transaction_id": 24444553
+                }
+            ]
+        }
+    }
+}

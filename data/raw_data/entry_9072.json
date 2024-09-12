@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Richard Wilson",
+        "age": 49,
+        "gender": "male",
+        "address": "60434 Mills Keys Suite 841, Andreashire, OR 58078",
+        "phone": "001-701-208-9689x95105",
+        "email": "ortegaashley@example.net",
+        "account": {
+            "account_number": "9664a0ce-0bf0-4511-a0c1-8054aff72f89",
+            "balance": -33182.15,
+            "transactions": [
+                {
+                    "date": "2024-07-11",
+                    "description": "Interest",
+                    "amount": 3709.79,
+                    "transaction_id": 92015213
+                },
+                {
+                    "date": "2023-02-08",
+                    "description": "Withdrawal",
+                    "amount": -38.98,
+                    "transaction_id": 25466295
+                },
+                {
+                    "date": "2023-12-27",
+                    "description": "Deposit",
+                    "amount": -4970.5,
+                    "transaction_id": 87416816
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Deposit",
+                    "amount": 4082.65,
+                    "transaction_id": 3623518
+                }
+            ]
+        }
+    }
+}

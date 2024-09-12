@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jeffrey Warren",
+        "age": 63,
+        "gender": "male",
+        "address": "208 Arthur Vista Apt. 447, Brooksstad, TN 73522",
+        "phone": "828-795-1004x0590",
+        "email": "donna54@example.net",
+        "account": {
+            "account_number": "1d218aff-0272-4507-8ec4-c2bd4df7620a",
+            "balance": 48838.14,
+            "transactions": [
+                {
+                    "date": "2022-09-08",
+                    "description": "Interest",
+                    "amount": 48198.52,
+                    "transaction_id": 82447795
+                },
+                {
+                    "date": "2023-12-23",
+                    "description": "Deposit",
+                    "amount": 25753.85,
+                    "transaction_id": 69446905
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Interest",
+                    "amount": 19825.77,
+                    "transaction_id": 94324892
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Withdrawal",
+                    "amount": 17561.07,
+                    "transaction_id": 88439523
+                }
+            ]
+        }
+    }
+}

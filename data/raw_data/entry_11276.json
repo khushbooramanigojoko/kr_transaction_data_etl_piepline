@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 34,
+        "gender": "female",
+        "address": "69992 Anthony Bypass Suite 115, Karenside, NE 44688",
+        "phone": "001-425-505-6665x71358",
+        "email": "brookelivingston@example.org",
+        "account": {
+            "account_number": "920f4682-e880-4815-b546-c4524280fa1c",
+            "balance": 44359.57,
+            "transactions": [
+                {
+                    "date": "2023-12-02",
+                    "description": "Interest",
+                    "amount": -2233.32,
+                    "transaction_id": 84511013
+                }
+            ]
+        }
+    }
+}

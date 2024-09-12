@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "David Stanley",
+        "age": 82,
+        "gender": "female",
+        "address": "69854 David Wall Suite 690, Christinamouth, AR 70356",
+        "phone": "(829)743-0108x4390",
+        "email": "watsonchad@example.com",
+        "account": {
+            "account_number": "ae746873-bb04-4aaa-85fb-cbbbd118d186",
+            "balance": -956.23,
+            "transactions": [
+                {
+                    "date": "2022-12-04",
+                    "description": "Withdrawal",
+                    "amount": 3152.05,
+                    "transaction_id": 28831533
+                },
+                {
+                    "date": "2023-03-28",
+                    "description": "Deposit",
+                    "amount": -2559.74,
+                    "transaction_id": 55418142
+                },
+                {
+                    "date": "2023-12-11",
+                    "description": "Deposit",
+                    "amount": -342.04,
+                    "transaction_id": 33893150
+                }
+            ]
+        }
+    }
+}

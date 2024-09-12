@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tammy Olson",
+        "age": 70,
+        "gender": "female",
+        "address": "USNS Horne, FPO AE 26460",
+        "phone": "001-286-504-9785x2758",
+        "email": "brian05@example.org",
+        "account": {
+            "account_number": "20f759de-7f27-46b6-a3b8-46def477efdb",
+            "balance": 21173.04,
+            "transactions": [
+                {
+                    "date": "2023-09-06",
+                    "description": "Withdrawal",
+                    "amount": 5832.05,
+                    "transaction_id": 34807566
+                },
+                {
+                    "date": "2022-12-19",
+                    "description": "Deposit",
+                    "amount": 47884.99,
+                    "transaction_id": 29054237
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Deposit",
+                    "amount": 22541.91,
+                    "transaction_id": 21063335
+                },
+                {
+                    "date": "2023-05-17",
+                    "description": "Interest",
+                    "amount": 13794.72,
+                    "transaction_id": 38798856
+                }
+            ]
+        }
+    }
+}

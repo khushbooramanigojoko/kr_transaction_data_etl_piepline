@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 22,
+        "gender": "male",
+        "address": "704 Wesley Points Suite 488, Patrickborough, MN 17470",
+        "phone": "+1-295-298-8579x429",
+        "email": "ghurst@example.com",
+        "account": {
+            "account_number": "0a4d178a-d3ad-49e5-b30b-2d20bea708f0",
+            "balance": 8781.34,
+            "transactions": [
+                {
+                    "date": "2023-10-15",
+                    "description": "Interest",
+                    "amount": -2875.39,
+                    "transaction_id": 24234779
+                },
+                {
+                    "date": "2024-05-08",
+                    "description": "Interest",
+                    "amount": -3732.76,
+                    "transaction_id": 46380189
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Deposit",
+                    "amount": -3903.77,
+                    "transaction_id": 59086490
+                },
+                {
+                    "date": "2022-12-13",
+                    "description": "Interest",
+                    "amount": 825.2,
+                    "transaction_id": 114854110
+                }
+            ]
+        }
+    }
+}

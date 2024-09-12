@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Margaret Perez",
+        "age": 62,
+        "gender": "male",
+        "address": "83389 Jonathan Street, East Maria, PW 42798",
+        "phone": "5605274202",
+        "email": "robinwillis@example.com",
+        "account": {
+            "account_number": "1ce1a493-203c-4cd4-9855-1168caef9991",
+            "balance": -44347.47,
+            "transactions": [
+                {
+                    "date": "2023-08-21",
+                    "description": "Interest",
+                    "amount": 4171.91,
+                    "transaction_id": 96652833
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Corey Mccann",
+        "age": 55,
+        "gender": "male",
+        "address": "3919 Boyd Freeway, West Richard, VA 79845",
+        "phone": "(556)732-1288",
+        "email": "ashleymaria@example.org",
+        "account": {
+            "account_number": "86fc5396-362b-49ef-a9eb-e31ae15cd019",
+            "balance": -10816.13,
+            "transactions": [
+                {
+                    "date": "2024-03-28",
+                    "description": "Interest",
+                    "amount": 3989.32,
+                    "transaction_id": 81786658
+                },
+                {
+                    "date": "2024-07-16",
+                    "description": "Withdrawal",
+                    "amount": -2183.93,
+                    "transaction_id": 40772933
+                }
+            ]
+        }
+    }
+}

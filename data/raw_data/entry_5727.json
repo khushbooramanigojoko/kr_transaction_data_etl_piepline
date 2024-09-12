@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jessica Snyder",
+        "age": 34,
+        "gender": "female",
+        "address": "06224 John Land Apt. 715, West Kimberly, KS 94751",
+        "phone": "+1-878-382-7805x122",
+        "email": "juliejones@example.net",
+        "account": {
+            "account_number": "a0e95092-1a68-4737-b92d-f43a01dca2b2",
+            "balance": 36568.66,
+            "transactions": [
+                {
+                    "date": "2024-02-16",
+                    "description": "Withdrawal",
+                    "amount": 20877.19,
+                    "transaction_id": 102317934
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Interest",
+                    "amount": 20529.12,
+                    "transaction_id": 63622186
+                },
+                {
+                    "date": "2023-10-25",
+                    "description": "Withdrawal",
+                    "amount": 21622.75,
+                    "transaction_id": 58775750
+                },
+                {
+                    "date": "2024-03-12",
+                    "description": "Interest",
+                    "amount": 34920.45,
+                    "transaction_id": 4114701
+                }
+            ]
+        }
+    }
+}

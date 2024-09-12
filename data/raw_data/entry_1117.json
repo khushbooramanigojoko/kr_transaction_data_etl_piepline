@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Harper DVM",
+        "age": 56,
+        "gender": "female",
+        "address": "09940 Howard Plains Suite 481, Port Jeffreyville, MA 17562",
+        "phone": "+1-626-338-7428x9127",
+        "email": "andrewcaldwell@example.org",
+        "account": {
+            "account_number": "ac4b5b11-57ef-4b18-afc6-8828af4d70da",
+            "balance": 34348.13,
+            "transactions": [
+                {
+                    "date": "2023-04-07",
+                    "description": "Deposit",
+                    "amount": 9720.22,
+                    "transaction_id": 50220823
+                }
+            ]
+        }
+    }
+}

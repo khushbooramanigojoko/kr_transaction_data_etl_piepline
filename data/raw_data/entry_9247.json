@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Andrea Pratt",
+        "age": 29,
+        "gender": "male",
+        "address": "290 Jenkins Freeway, Hollandshire, UT 13989",
+        "phone": "273-869-5245",
+        "email": "xrivers@example.net",
+        "account": {
+            "account_number": "ebe4c7bd-9453-4a78-9cce-a479fafa6b5f",
+            "balance": -27889.18,
+            "transactions": [
+                {
+                    "date": "2023-03-23",
+                    "description": "Interest",
+                    "amount": -3045.06,
+                    "transaction_id": 112854645
+                },
+                {
+                    "date": "2022-12-09",
+                    "description": "Interest",
+                    "amount": 4472.71,
+                    "transaction_id": 39397039
+                }
+            ]
+        }
+    }
+}

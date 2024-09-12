@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Amanda Best",
+        "age": 33,
+        "gender": "female",
+        "address": "3534 Bennett Heights, Caitlinberg, WY 88004",
+        "phone": "001-657-215-4718x49555",
+        "email": "gsmith@example.org",
+        "account": {
+            "account_number": "4b63cd02-da2f-47fd-b2d8-4cf1251f86e5",
+            "balance": -26385.34,
+            "transactions": [
+                {
+                    "date": "2023-07-19",
+                    "description": "Interest",
+                    "amount": -2105.1,
+                    "transaction_id": 20390224
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Withdrawal",
+                    "amount": -1918.09,
+                    "transaction_id": 56912019
+                },
+                {
+                    "date": "2022-12-26",
+                    "description": "Deposit",
+                    "amount": -1758.89,
+                    "transaction_id": 48896931
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Interest",
+                    "amount": -3210.21,
+                    "transaction_id": 16152215
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Deposit",
+                    "amount": -527.63,
+                    "transaction_id": 28209537
+                }
+            ]
+        }
+    }
+}

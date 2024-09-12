@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Laura Fisher",
+        "age": 45,
+        "gender": "male",
+        "address": "067 Alicia Spring, Chadside, CT 34790",
+        "phone": "897.631.1515x45731",
+        "email": "plewis@example.org",
+        "account": {
+            "account_number": "71652b31-d93e-4e5a-878e-137523ad169e",
+            "balance": 47674.9,
+            "transactions": [
+                {
+                    "date": "2024-02-23",
+                    "description": "Withdrawal",
+                    "amount": 11715.44,
+                    "transaction_id": 113419007
+                },
+                {
+                    "date": "2024-06-14",
+                    "description": "Interest",
+                    "amount": 36773.31,
+                    "transaction_id": 118343390
+                }
+            ]
+        }
+    }
+}

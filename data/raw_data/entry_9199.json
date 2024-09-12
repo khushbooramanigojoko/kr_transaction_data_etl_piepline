@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christopher Jackson",
+        "age": 94,
+        "gender": "male",
+        "address": "PSC 5193, Box 8420, APO AA 12314",
+        "phone": "2884091878",
+        "email": "yduncan@example.org",
+        "account": {
+            "account_number": "dfc964f0-1b23-4087-852c-21ae57eb66f3",
+            "balance": -13981.44,
+            "transactions": [
+                {
+                    "date": "2023-05-20",
+                    "description": "Withdrawal",
+                    "amount": 2827.47,
+                    "transaction_id": 82341536
+                },
+                {
+                    "date": "2023-08-09",
+                    "description": "Interest",
+                    "amount": -3529.45,
+                    "transaction_id": 99522387
+                },
+                {
+                    "date": "2023-08-23",
+                    "description": "Withdrawal",
+                    "amount": -3410.18,
+                    "transaction_id": 10132764
+                },
+                {
+                    "date": "2023-06-12",
+                    "description": "Interest",
+                    "amount": 3532.16,
+                    "transaction_id": 28991378
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Deposit",
+                    "amount": -626.94,
+                    "transaction_id": 9998901
+                }
+            ]
+        }
+    }
+}

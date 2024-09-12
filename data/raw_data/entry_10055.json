@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ryan Taylor",
+        "age": 96,
+        "gender": "male",
+        "address": "993 Lang Divide Suite 064, Joannafurt, SD 23629",
+        "phone": "001-557-797-9954x64004",
+        "email": "whitekevin@example.com",
+        "account": {
+            "account_number": "73033950-d963-468e-ac73-c8a3c7498d51",
+            "balance": -5406.58,
+            "transactions": [
+                {
+                    "date": "2023-11-13",
+                    "description": "Withdrawal",
+                    "amount": 2595.02,
+                    "transaction_id": 35105130
+                }
+            ]
+        }
+    }
+}

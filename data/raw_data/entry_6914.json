@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Walker",
+        "age": 29,
+        "gender": "female",
+        "address": "25397 Munoz Port Apt. 569, Ralphberg, LA 83725",
+        "phone": "214-524-6454x6043",
+        "email": "qjenkins@example.org",
+        "account": {
+            "account_number": "1f3bad77-51b3-4cd7-82ba-db81f4e5a98e",
+            "balance": 36073.43,
+            "transactions": [
+                {
+                    "date": "2023-07-28",
+                    "description": "Withdrawal",
+                    "amount": 22236.67,
+                    "transaction_id": 112951345
+                },
+                {
+                    "date": "2023-09-14",
+                    "description": "Interest",
+                    "amount": 1212.11,
+                    "transaction_id": 27527467
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Deposit",
+                    "amount": 30234.55,
+                    "transaction_id": 31755572
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Deposit",
+                    "amount": 504.37,
+                    "transaction_id": 59624135
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Deposit",
+                    "amount": 2047.12,
+                    "transaction_id": 19342516
+                }
+            ]
+        }
+    }
+}

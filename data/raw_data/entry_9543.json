@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "female",
+        "address": "04239 Bobby Isle, Port Melissa, ND 76197",
+        "phone": "717.218.5464",
+        "email": "sjohnson@example.com",
+        "account": {
+            "account_number": "1dc953c9-b04c-47c8-afa2-3925d9dadfec",
+            "balance": 19505.26,
+            "transactions": [
+                {
+                    "date": "2023-01-09",
+                    "description": "Deposit",
+                    "amount": 3149.1,
+                    "transaction_id": 42206551
+                }
+            ]
+        }
+    }
+}

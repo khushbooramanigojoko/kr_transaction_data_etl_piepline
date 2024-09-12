@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ashley Harris",
+        "age": 79,
+        "gender": "male",
+        "address": "80881 Thomas Estates Suite 368, Perezville, WY 28077",
+        "phone": "001-256-692-0902x2080",
+        "email": "deborahbell@example.com",
+        "account": {
+            "account_number": "392445d4-23b4-44ef-b027-d9e04cc2d667",
+            "balance": 38599.41,
+            "transactions": [
+                {
+                    "date": "2024-03-27",
+                    "description": "Withdrawal",
+                    "amount": 42703.94,
+                    "transaction_id": 100236984
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Interest",
+                    "amount": 1807.14,
+                    "transaction_id": 71712683
+                },
+                {
+                    "date": "2023-07-22",
+                    "description": "Interest",
+                    "amount": 12721.1,
+                    "transaction_id": 56598445
+                },
+                {
+                    "date": "2024-06-29",
+                    "description": "Deposit",
+                    "amount": 48760.63,
+                    "transaction_id": 72773650
+                }
+            ]
+        }
+    }
+}

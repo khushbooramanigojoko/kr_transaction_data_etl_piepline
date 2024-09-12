@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Mccullough",
+        "age": 87,
+        "gender": "male",
+        "address": "0624 Wendy Branch Suite 851, West Brianchester, ND 62549",
+        "phone": "+1-804-862-7998",
+        "email": "greenalyssa@example.org",
+        "account": {
+            "account_number": "784218cf-d329-44ca-8364-128603dc0429",
+            "balance": 33529.15,
+            "transactions": [
+                {
+                    "date": "2024-01-28",
+                    "description": "Deposit",
+                    "amount": 49474.39,
+                    "transaction_id": 7698832
+                }
+            ]
+        }
+    }
+}

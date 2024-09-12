@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jodi Mathis",
+        "age": 36,
+        "gender": "male",
+        "address": "21186 Tina Roads Apt. 475, Hoganfort, VI 37210",
+        "phone": "520-792-4454",
+        "email": "thomas57@example.org",
+        "account": {
+            "account_number": "9f9851f4-533d-4fba-b895-43d24755e23e",
+            "balance": 43571.72,
+            "transactions": [
+                {
+                    "date": "2023-04-06",
+                    "description": "Withdrawal",
+                    "amount": 31894.59,
+                    "transaction_id": 110536733
+                },
+                {
+                    "date": "2024-06-03",
+                    "description": "Withdrawal",
+                    "amount": 27477.66,
+                    "transaction_id": 19734664
+                },
+                {
+                    "date": "2024-03-12",
+                    "description": "Withdrawal",
+                    "amount": 48100.94,
+                    "transaction_id": 60535261
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Interest",
+                    "amount": 36556.12,
+                    "transaction_id": 36313012
+                }
+            ]
+        }
+    }
+}

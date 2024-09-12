@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "James Reyes",
+        "age": 85,
+        "gender": "female",
+        "address": "1440 Lopez Spurs Suite 811, Chavezfurt, FM 45636",
+        "phone": "968-561-4394x8025",
+        "email": "shawsean@example.net",
+        "account": {
+            "account_number": "3be68a22-6a68-4286-8cf8-c70220374e6b",
+            "balance": 30062.92,
+            "transactions": [
+                {
+                    "date": "2024-06-27",
+                    "description": "Deposit",
+                    "amount": 27761.53,
+                    "transaction_id": 55322475
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Interest",
+                    "amount": 7821.82,
+                    "transaction_id": 63886936
+                }
+            ]
+        }
+    }
+}

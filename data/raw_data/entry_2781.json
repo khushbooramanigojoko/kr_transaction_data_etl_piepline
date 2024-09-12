@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Eric Ortiz",
+        "age": 66,
+        "gender": "male",
+        "address": "Unit 9208 Box 4598, DPO AA 07910",
+        "phone": "691.527.5765x539",
+        "email": "figueroamitchell@example.net",
+        "account": {
+            "account_number": "323e63a4-2f42-4c46-8dbe-2f414fe41676",
+            "balance": 1613.84,
+            "transactions": [
+                {
+                    "date": "2023-03-03",
+                    "description": "Interest",
+                    "amount": 29172.82,
+                    "transaction_id": 106823418
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Deposit",
+                    "amount": 49314.31,
+                    "transaction_id": 24695925
+                }
+            ]
+        }
+    }
+}

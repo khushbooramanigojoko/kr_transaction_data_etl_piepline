@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nichole Gordon",
+        "age": 94,
+        "gender": "male",
+        "address": "382 Sanders Track Suite 929, Stephenmouth, LA 89904",
+        "phone": "+1-432-344-2867x0779",
+        "email": "hunterashley@example.net",
+        "account": {
+            "account_number": "772c93ad-e9c8-4d76-a158-fbe358807f71",
+            "balance": 19731.03,
+            "transactions": [
+                {
+                    "date": "2023-09-01",
+                    "description": "Interest",
+                    "amount": 19829.99,
+                    "transaction_id": 48789793
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Withdrawal",
+                    "amount": 40211.29,
+                    "transaction_id": 6762089
+                },
+                {
+                    "date": "2023-04-23",
+                    "description": "Interest",
+                    "amount": 37397.77,
+                    "transaction_id": 79876812
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Withdrawal",
+                    "amount": 46262.41,
+                    "transaction_id": 103819202
+                }
+            ]
+        }
+    }
+}

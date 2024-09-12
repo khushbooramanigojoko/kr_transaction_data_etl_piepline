@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mrs. Stephanie Decker",
+        "age": 23,
+        "gender": "male",
+        "address": "0753 Thompson Meadows, Lake Rogerview, AL 72681",
+        "phone": "001-460-287-7226x026",
+        "email": "asuarez@example.org",
+        "account": {
+            "account_number": "151b9565-e66d-43dc-a4b7-80fda23ae2b0",
+            "balance": 44778.06,
+            "transactions": [
+                {
+                    "date": "2024-01-15",
+                    "description": "Interest",
+                    "amount": 36780.28,
+                    "transaction_id": 79502715
+                },
+                {
+                    "date": "2023-06-10",
+                    "description": "Interest",
+                    "amount": 15616.99,
+                    "transaction_id": 36087020
+                }
+            ]
+        }
+    }
+}

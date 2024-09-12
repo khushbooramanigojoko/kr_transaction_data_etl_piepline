@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Seth Miles",
+        "age": 43,
+        "gender": "male",
+        "address": "7003 Stewart Summit, Gonzalesburgh, PW 07087",
+        "phone": "(619)869-3221",
+        "email": "robertaguilar@example.org",
+        "account": {
+            "account_number": "ecce8500-a0a9-4e0a-bf71-d5e247fdc028",
+            "balance": 8745.78,
+            "transactions": [
+                {
+                    "date": "2023-04-26",
+                    "description": "Deposit",
+                    "amount": 45477.99,
+                    "transaction_id": 70970946
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Interest",
+                    "amount": 5948.5,
+                    "transaction_id": 93234732
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Interest",
+                    "amount": 44733.45,
+                    "transaction_id": 45468827
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Withdrawal",
+                    "amount": 18229.65,
+                    "transaction_id": 67493227
+                }
+            ]
+        }
+    }
+}

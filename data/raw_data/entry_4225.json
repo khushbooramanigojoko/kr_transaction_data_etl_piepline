@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lori Mcdonald",
+        "age": 37,
+        "gender": "female",
+        "address": "1653 Margaret Street Apt. 212, New Donald, PA 21351",
+        "phone": "(426)453-6697x31324",
+        "email": "charles95@example.org",
+        "account": {
+            "account_number": "147f541c-2c75-4869-9a8e-85aeda8b0f0e",
+            "balance": 33596.14,
+            "transactions": [
+                {
+                    "date": "2023-11-05",
+                    "description": "Deposit",
+                    "amount": 537.15,
+                    "transaction_id": 39470850
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Deposit",
+                    "amount": 26153.93,
+                    "transaction_id": 7142246
+                },
+                {
+                    "date": "2023-07-30",
+                    "description": "Withdrawal",
+                    "amount": 38811.8,
+                    "transaction_id": 75872784
+                },
+                {
+                    "date": "2023-11-05",
+                    "description": "Withdrawal",
+                    "amount": 49927.92,
+                    "transaction_id": 33586449
+                }
+            ]
+        }
+    }
+}

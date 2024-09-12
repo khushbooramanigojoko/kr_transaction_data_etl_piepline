@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Dalton Lewis",
+        "age": 42,
+        "gender": "female",
+        "address": "361 Shannon Street, Gonzalezfurt, NY 18757",
+        "phone": "701.328.7686",
+        "email": "michael81@example.net",
+        "account": {
+            "account_number": "988242da-f2f7-4809-9c46-d125695b7c08",
+            "balance": 44012.02,
+            "transactions": [
+                {
+                    "date": "2023-01-16",
+                    "description": "Interest",
+                    "amount": 13376.79,
+                    "transaction_id": 44337360
+                },
+                {
+                    "date": "2023-11-08",
+                    "description": "Interest",
+                    "amount": 23648.4,
+                    "transaction_id": 4068071
+                }
+            ]
+        }
+    }
+}

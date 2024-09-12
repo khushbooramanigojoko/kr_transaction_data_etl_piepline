@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 69,
+        "gender": "female",
+        "address": "439 Kaylee Shoals, Lake Tanyaburgh, SD 76852",
+        "phone": "001-783-893-1947x857",
+        "email": "hillrachel@example.org",
+        "account": {
+            "account_number": "0caa6438-047a-47ba-ba8c-0d1ddd8dcafd",
+            "balance": 16337.6,
+            "transactions": [
+                {
+                    "date": "2023-08-02",
+                    "description": "Interest",
+                    "amount": 2177.56,
+                    "transaction_id": 1256129
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Interest",
+                    "amount": 574.57,
+                    "transaction_id": 45838360
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Interest",
+                    "amount": -1088.33,
+                    "transaction_id": 59435329
+                },
+                {
+                    "date": "2024-06-21",
+                    "description": "Deposit",
+                    "amount": 3209.68,
+                    "transaction_id": 20158824
+                }
+            ]
+        }
+    }
+}

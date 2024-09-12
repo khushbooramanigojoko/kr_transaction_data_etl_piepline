@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jay Frederick",
+        "age": 89,
+        "gender": "female",
+        "address": "627 Huang Garden Apt. 771, Bryanborough, NH 22269",
+        "phone": "641.244.4134",
+        "email": "wallswillie@example.com",
+        "account": {
+            "account_number": "f065f81e-c306-47e5-98e6-44ac9f8439e7",
+            "balance": 35866.91,
+            "transactions": [
+                {
+                    "date": "2023-10-20",
+                    "description": "Interest",
+                    "amount": 2768.37,
+                    "transaction_id": 118649939
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Withdrawal",
+                    "amount": 37331.53,
+                    "transaction_id": 45256463
+                },
+                {
+                    "date": "2024-03-20",
+                    "description": "Deposit",
+                    "amount": 44176.18,
+                    "transaction_id": 40894875
+                },
+                {
+                    "date": "2023-03-08",
+                    "description": "Deposit",
+                    "amount": 24503.59,
+                    "transaction_id": 71568559
+                }
+            ]
+        }
+    }
+}

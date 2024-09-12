@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Samantha Phillips",
+        "age": 78,
+        "gender": "female",
+        "address": "684 Nguyen Common Apt. 282, East Jennifershire, MI 82127",
+        "phone": "001-826-430-1416x1349",
+        "email": "rebekahmcknight@example.net",
+        "account": {
+            "account_number": "e011405a-6116-4917-8d4d-45ff59dc9a83",
+            "balance": 13856.79,
+            "transactions": [
+                {
+                    "date": "2023-12-29",
+                    "description": "Interest",
+                    "amount": 18937.88,
+                    "transaction_id": 21696532
+                },
+                {
+                    "date": "2022-11-06",
+                    "description": "Deposit",
+                    "amount": 2370.04,
+                    "transaction_id": 30991550
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Interest",
+                    "amount": 11205.49,
+                    "transaction_id": 37758786
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Withdrawal",
+                    "amount": 12321.46,
+                    "transaction_id": 89633444
+                }
+            ]
+        }
+    }
+}

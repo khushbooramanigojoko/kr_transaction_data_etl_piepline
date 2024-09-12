@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Alan Peterson",
+        "age": 69,
+        "gender": "male",
+        "address": "0387 White Turnpike Apt. 105, Suzanneberg, OR 12509",
+        "phone": "297.605.8713x816",
+        "email": "jane56@example.org",
+        "account": {
+            "account_number": "30939011-0451-46b2-967b-e36f69dce33c",
+            "balance": -38059.69,
+            "transactions": [
+                {
+                    "date": "2023-04-26",
+                    "description": "Deposit",
+                    "amount": 17.92,
+                    "transaction_id": 9398566
+                },
+                {
+                    "date": "2023-04-15",
+                    "description": "Deposit",
+                    "amount": 4552.15,
+                    "transaction_id": 59982250
+                }
+            ]
+        }
+    }
+}

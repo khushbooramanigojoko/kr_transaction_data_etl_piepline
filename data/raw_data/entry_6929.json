@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Robert Garza",
+        "age": 64,
+        "gender": "female",
+        "address": "0374 Lauren Wall, New Thomas, MN 03278",
+        "phone": "805-657-3352",
+        "email": "lopezmichael@example.com",
+        "account": {
+            "account_number": "157c29f6-ca52-4448-a7c3-d4fa8808be71",
+            "balance": 35384.58,
+            "transactions": [
+                {
+                    "date": "2024-08-20",
+                    "description": "Withdrawal",
+                    "amount": 26200.67,
+                    "transaction_id": 6332210
+                },
+                {
+                    "date": "2023-09-11",
+                    "description": "Withdrawal",
+                    "amount": 8397.16,
+                    "transaction_id": 55212302
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Withdrawal",
+                    "amount": 37684.62,
+                    "transaction_id": 41569784
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Interest",
+                    "amount": 46172.58,
+                    "transaction_id": 8530818
+                },
+                {
+                    "date": "2023-04-18",
+                    "description": "Deposit",
+                    "amount": 28116.49,
+                    "transaction_id": 94638779
+                }
+            ]
+        }
+    }
+}

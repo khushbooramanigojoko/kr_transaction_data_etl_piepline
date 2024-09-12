@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jessica West",
+        "age": 27,
+        "gender": "female",
+        "address": "859 Mark Glens, Christopherburgh, IA 05560",
+        "phone": "5072182845",
+        "email": "lewismary@example.net",
+        "account": {
+            "account_number": "28720efe-efff-4175-a9a5-702f0367c5e6",
+            "balance": 32137.97,
+            "transactions": [
+                {
+                    "date": "2024-06-20",
+                    "description": "Interest",
+                    "amount": 32038.56,
+                    "transaction_id": 61955398
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amber Jackson",
+        "age": 98,
+        "gender": "male",
+        "address": "779 Jones Squares Suite 367, Fordmouth, TX 15098",
+        "phone": "619-229-1301x859",
+        "email": "carolyngeorge@example.org",
+        "account": {
+            "account_number": "e7a38269-2d54-480a-b4d5-053544a9461d",
+            "balance": 32048.33,
+            "transactions": [
+                {
+                    "date": "2023-04-21",
+                    "description": "Interest",
+                    "amount": 4583.23,
+                    "transaction_id": 53735616
+                }
+            ]
+        }
+    }
+}

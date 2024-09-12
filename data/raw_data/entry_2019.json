@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Marissa Hall",
+        "age": 55,
+        "gender": "female",
+        "address": "536 Perry Junctions Suite 902, Jenniferland, KS 18443",
+        "phone": "001-471-462-0984x0220",
+        "email": "tmoore@example.net",
+        "account": {
+            "account_number": "8ee4e55f-fee9-4282-ad1b-bc19124dfde5",
+            "balance": 31219.3,
+            "transactions": [
+                {
+                    "date": "2022-09-13",
+                    "description": "Interest",
+                    "amount": 46346.62,
+                    "transaction_id": 106232946
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dr. Jeffrey Castillo",
+        "age": 94,
+        "gender": "female",
+        "address": "4171 Erik Village, Watkinsburgh, NV 45749",
+        "phone": "874-300-0327",
+        "email": "toni55@example.org",
+        "account": {
+            "account_number": "db5b571c-ee40-4b0a-9782-43fd64a3233e",
+            "balance": 33592.11,
+            "transactions": [
+                {
+                    "date": "2024-08-02",
+                    "description": "Deposit",
+                    "amount": 13448.82,
+                    "transaction_id": 109520987
+                }
+            ]
+        }
+    }
+}

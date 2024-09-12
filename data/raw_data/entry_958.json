@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Gary Morgan",
+        "age": 55,
+        "gender": "male",
+        "address": "2197 Harold Road, North William, AR 01643",
+        "phone": "622.532.6778x4544",
+        "email": "michellehawkins@example.org",
+        "account": {
+            "account_number": "46d892fa-3623-432d-8d0b-edf62aae5e55",
+            "balance": 3876.35,
+            "transactions": [
+                {
+                    "date": "2023-01-10",
+                    "description": "Interest",
+                    "amount": 7901.86,
+                    "transaction_id": 115689514
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Deposit",
+                    "amount": 16147.49,
+                    "transaction_id": 27258673
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Interest",
+                    "amount": 19943.82,
+                    "transaction_id": 37966867
+                },
+                {
+                    "date": "2023-02-01",
+                    "description": "Deposit",
+                    "amount": 36940.74,
+                    "transaction_id": 105134737
+                }
+            ]
+        }
+    }
+}

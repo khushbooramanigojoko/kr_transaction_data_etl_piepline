@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Theresa Kane",
+        "age": 99,
+        "gender": "female",
+        "address": "846 Diaz Pike, Dixonfurt, OH 55784",
+        "phone": "+1-368-896-7252x443",
+        "email": "melissa66@example.org",
+        "account": {
+            "account_number": "21359ffc-6faf-4dc6-8295-01bfbbfe4fb0",
+            "balance": -192.53,
+            "transactions": [
+                {
+                    "date": "2023-01-21",
+                    "description": "Withdrawal",
+                    "amount": 3957.93,
+                    "transaction_id": 102979515
+                },
+                {
+                    "date": "2023-09-08",
+                    "description": "Deposit",
+                    "amount": -2506.61,
+                    "transaction_id": 48965605
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Deposit",
+                    "amount": -3073.86,
+                    "transaction_id": 119472363
+                },
+                {
+                    "date": "2022-10-03",
+                    "description": "Withdrawal",
+                    "amount": -2501.14,
+                    "transaction_id": 25085245
+                }
+            ]
+        }
+    }
+}

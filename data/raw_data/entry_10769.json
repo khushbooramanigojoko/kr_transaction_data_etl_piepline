@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Timothy Taylor",
+        "age": 76,
+        "gender": "female",
+        "address": "9584 Kim Ranch, Davidshire, ND 52436",
+        "phone": "230-904-0178x6634",
+        "email": "nicholas13@example.net",
+        "account": {
+            "account_number": "6e156ecd-fdaf-4b09-9359-b2ca8da4ee9e",
+            "balance": -44953.01,
+            "transactions": [
+                {
+                    "date": "2023-06-11",
+                    "description": "Withdrawal",
+                    "amount": 2085.2,
+                    "transaction_id": 9026192
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Deposit",
+                    "amount": -4569.53,
+                    "transaction_id": 6938693
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tracy Suarez",
+        "age": 19,
+        "gender": "female",
+        "address": "65650 Christina Orchard, Snydertown, KY 60949",
+        "phone": "435.548.5057x441",
+        "email": "panderson@example.net",
+        "account": {
+            "account_number": "c1bf7469-eeb3-41c2-a74b-e7a6aef1b61c",
+            "balance": 29730.65,
+            "transactions": [
+                {
+                    "date": "2024-02-21",
+                    "description": "Withdrawal",
+                    "amount": 36516.9,
+                    "transaction_id": 51022303
+                },
+                {
+                    "date": "2023-06-20",
+                    "description": "Withdrawal",
+                    "amount": 11518.53,
+                    "transaction_id": 28024016
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Withdrawal",
+                    "amount": 13242.38,
+                    "transaction_id": 61363721
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Withdrawal",
+                    "amount": 33353.08,
+                    "transaction_id": 110938661
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Interest",
+                    "amount": 17137.1,
+                    "transaction_id": 73957061
+                }
+            ]
+        }
+    }
+}

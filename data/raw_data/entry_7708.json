@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Frank Parker",
+        "age": 66,
+        "gender": "male",
+        "address": "94990 Hayes Circle, New Amanda, MH 39505",
+        "phone": "(596)394-3423x741",
+        "email": "landrade@example.org",
+        "account": {
+            "account_number": "2f48cfc3-da8f-415b-a3fb-793b39298fb0",
+            "balance": 26685.28,
+            "transactions": [
+                {
+                    "date": "2022-12-24",
+                    "description": "Interest",
+                    "amount": 38126.3,
+                    "transaction_id": 102978678
+                }
+            ]
+        }
+    }
+}

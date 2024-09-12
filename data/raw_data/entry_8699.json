@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Case",
+        "age": 70,
+        "gender": "female",
+        "address": "50566 Anthony Station Apt. 997, Darrenshire, TX 46139",
+        "phone": "001-320-996-6680x76861",
+        "email": "brownamber@example.com",
+        "account": {
+            "account_number": "48df71df-8ca5-45c6-858d-9ffeaf1928b9",
+            "balance": 30402.22,
+            "transactions": [
+                {
+                    "date": "2023-01-25",
+                    "description": "Withdrawal",
+                    "amount": 26831.71,
+                    "transaction_id": 16892069
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Withdrawal",
+                    "amount": 39735.97,
+                    "transaction_id": 83665609
+                }
+            ]
+        }
+    }
+}

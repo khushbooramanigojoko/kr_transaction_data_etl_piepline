@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Dustin Lane",
+        "age": 65,
+        "gender": "male",
+        "address": "3746 Charles Skyway, Hoborough, CO 10596",
+        "phone": "923.828.6577",
+        "email": "weeksdeborah@example.net",
+        "account": {
+            "account_number": "84a6794c-0839-4cc2-bfc0-2b6a0b36d788",
+            "balance": 49304.45,
+            "transactions": [
+                {
+                    "date": "2024-07-21",
+                    "description": "Withdrawal",
+                    "amount": 8454.75,
+                    "transaction_id": 10631186
+                },
+                {
+                    "date": "2024-03-28",
+                    "description": "Deposit",
+                    "amount": 36250.41,
+                    "transaction_id": 65554377
+                }
+            ]
+        }
+    }
+}

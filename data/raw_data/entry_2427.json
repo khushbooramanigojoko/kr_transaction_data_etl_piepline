@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Daniel Gallegos",
+        "age": 47,
+        "gender": "male",
+        "address": "55293 Mitchell Junctions Apt. 689, East Felicia, MP 38433",
+        "phone": "228-237-1085x81728",
+        "email": "kevinlogan@example.org",
+        "account": {
+            "account_number": "525ea057-2cd6-4cf6-87bd-69cd32d65b0d",
+            "balance": 49519.91,
+            "transactions": [
+                {
+                    "date": "2024-03-14",
+                    "description": "Withdrawal",
+                    "amount": 10038.0,
+                    "transaction_id": 95487717
+                },
+                {
+                    "date": "2023-07-26",
+                    "description": "Interest",
+                    "amount": 14731.24,
+                    "transaction_id": 87991025
+                }
+            ]
+        }
+    }
+}

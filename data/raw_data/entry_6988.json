@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tracy Edwards",
+        "age": 70,
+        "gender": "female",
+        "address": "21648 Le Orchard, Lucasstad, OR 18941",
+        "phone": "001-271-837-8865x033",
+        "email": "jennifer23@example.org",
+        "account": {
+            "account_number": "3523f85a-cf6d-414f-a0a1-5a34c9fae054",
+            "balance": 39639.47,
+            "transactions": [
+                {
+                    "date": "2023-02-17",
+                    "description": "Withdrawal",
+                    "amount": 44115.66,
+                    "transaction_id": 112742667
+                },
+                {
+                    "date": "2023-03-29",
+                    "description": "Withdrawal",
+                    "amount": 13530.37,
+                    "transaction_id": 119330697
+                },
+                {
+                    "date": "2022-10-11",
+                    "description": "Withdrawal",
+                    "amount": 49258.45,
+                    "transaction_id": 81099771
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Deposit",
+                    "amount": 41011.51,
+                    "transaction_id": 79913977
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Withdrawal",
+                    "amount": 4537.86,
+                    "transaction_id": 113468071
+                }
+            ]
+        }
+    }
+}

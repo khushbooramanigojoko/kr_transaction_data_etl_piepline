@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Vincent Hicks",
+        "age": 27,
+        "gender": "male",
+        "address": "9733 Buckley Hills, Josephberg, IA 95635",
+        "phone": "(603)925-5581",
+        "email": "johnsonpaul@example.com",
+        "account": {
+            "account_number": "4099c150-f335-42c8-86e8-aabf8322cff5",
+            "balance": 46243.02,
+            "transactions": [
+                {
+                    "date": "2024-05-28",
+                    "description": "Withdrawal",
+                    "amount": 10320.35,
+                    "transaction_id": 118379589
+                }
+            ]
+        }
+    }
+}

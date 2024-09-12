@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Judy Williams",
+        "age": 58,
+        "gender": "male",
+        "address": "765 Timothy Mall Suite 643, North Jenniferstad, IA 69696",
+        "phone": "+1-480-952-8874",
+        "email": "daniel52@example.com",
+        "account": {
+            "account_number": "16c9ea94-7c9c-4792-a356-a39d7d318f2e",
+            "balance": 24196.1,
+            "transactions": [
+                {
+                    "date": "2024-03-30",
+                    "description": "Interest",
+                    "amount": 37715.21,
+                    "transaction_id": 112227959
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Interest",
+                    "amount": 3095.72,
+                    "transaction_id": 54742028
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Withdrawal",
+                    "amount": 5004.95,
+                    "transaction_id": 72197143
+                },
+                {
+                    "date": "2023-11-04",
+                    "description": "Interest",
+                    "amount": 15791.76,
+                    "transaction_id": 26824134
+                }
+            ]
+        }
+    }
+}

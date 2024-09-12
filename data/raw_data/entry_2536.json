@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Julie Logan",
+        "age": 54,
+        "gender": "male",
+        "address": "92605 Short Isle, Sarabury, MT 38757",
+        "phone": "(931)701-4817",
+        "email": "amartin@example.net",
+        "account": {
+            "account_number": "9ad97cf1-b588-4eab-a9e3-72a5c215d284",
+            "balance": 46385.72,
+            "transactions": [
+                {
+                    "date": "2022-12-20",
+                    "description": "Withdrawal",
+                    "amount": 13811.88,
+                    "transaction_id": 71872128
+                },
+                {
+                    "date": "2024-02-23",
+                    "description": "Withdrawal",
+                    "amount": 15053.18,
+                    "transaction_id": 59255268
+                }
+            ]
+        }
+    }
+}

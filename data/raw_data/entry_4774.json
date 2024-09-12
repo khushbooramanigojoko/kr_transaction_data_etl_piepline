@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tina Robertson",
+        "age": 58,
+        "gender": "female",
+        "address": "1484 Randall Glen, Deborahhaven, MA 91229",
+        "phone": "(767)817-3825x1774",
+        "email": "uhunt@example.net",
+        "account": {
+            "account_number": "f0386338-925a-4ba2-907d-e6f9b838e30b",
+            "balance": 37110.57,
+            "transactions": [
+                {
+                    "date": "2024-01-22",
+                    "description": "Interest",
+                    "amount": 31851.64,
+                    "transaction_id": 36706005
+                }
+            ]
+        }
+    }
+}

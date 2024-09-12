@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Todd Jackson",
+        "age": 96,
+        "gender": "male",
+        "address": "935 Hale Fort Apt. 849, Cynthiafort, VA 61470",
+        "phone": "001-792-401-9189",
+        "email": "kevinbrock@example.net",
+        "account": {
+            "account_number": "a436bf92-1991-4fe7-bb31-79967908c108",
+            "balance": 36905.64,
+            "transactions": [
+                {
+                    "date": "2023-02-20",
+                    "description": "Interest",
+                    "amount": 34097.01,
+                    "transaction_id": 56131037
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Interest",
+                    "amount": 25481.71,
+                    "transaction_id": 18015790
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jacob Stevenson",
+        "age": 78,
+        "gender": "female",
+        "address": "7946 Bryant Neck Apt. 719, Charlesside, MP 81883",
+        "phone": "237.461.4027",
+        "email": "egarza@example.org",
+        "account": {
+            "account_number": "909320f9-1904-456b-b226-d7a40b8f7aef",
+            "balance": 19651.26,
+            "transactions": [
+                {
+                    "date": "2024-01-16",
+                    "description": "Deposit",
+                    "amount": 2201.8,
+                    "transaction_id": 86172605
+                },
+                {
+                    "date": "2023-10-14",
+                    "description": "Interest",
+                    "amount": 45923.64,
+                    "transaction_id": 47138728
+                }
+            ]
+        }
+    }
+}

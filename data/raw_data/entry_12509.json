@@ -1,0 +1,134 @@
+{
+    "customer": {
+        "name": "Edward Patterson",
+        "age": 27,
+        "gender": "male",
+        "email": "shanemullins@example.net",
+        "account": {
+            "account_number": "e7e25b84-0bbe-4edd-bda9-469d8f62d985",
+            "balance": 9590.36,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Purchase",
+                    "amount": 1410.33,
+                    "transaction_id": 953428870
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Interest",
+                    "amount": 4528.05,
+                    "transaction_id": 490288563
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Refund",
+                    "amount": 2737.25,
+                    "transaction_id": 164315886
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Fee",
+                    "amount": 4121.32,
+                    "transaction_id": 271988085
+                },
+                {
+                    "date": "2023-12-10",
+                    "description": "Fee",
+                    "amount": 3872.75,
+                    "transaction_id": 345104969
+                },
+                {
+                    "date": "2024-04-09",
+                    "description": "Purchase",
+                    "amount": 3801.87,
+                    "transaction_id": 484206405
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Refund",
+                    "amount": -719.4,
+                    "transaction_id": 299656909
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Purchase",
+                    "amount": 4245.94,
+                    "transaction_id": 422069668
+                },
+                {
+                    "date": "2024-09-05",
+                    "description": "Fee",
+                    "amount": 4760.04,
+                    "transaction_id": 975979584
+                },
+                {
+                    "date": "2024-05-13",
+                    "description": "Fee",
+                    "amount": 3963.44,
+                    "transaction_id": 981596870
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Purchase",
+                    "amount": 3506.69,
+                    "transaction_id": 218761114
+                },
+                {
+                    "date": "2024-01-10",
+                    "description": "Refund",
+                    "amount": 1291.8,
+                    "transaction_id": 861972041
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Interest",
+                    "amount": -787.07,
+                    "transaction_id": 704125924
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Purchase",
+                    "amount": 2782.69,
+                    "transaction_id": 415816697
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Fee",
+                    "amount": 44.8,
+                    "transaction_id": 658223683
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Refund",
+                    "amount": 2063.18,
+                    "transaction_id": 364043623
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Interest",
+                    "amount": -615.23,
+                    "transaction_id": 869378728
+                },
+                {
+                    "date": "2024-08-25",
+                    "description": "Refund",
+                    "amount": 1758.47,
+                    "transaction_id": 194814784
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Refund",
+                    "amount": 1489.05,
+                    "transaction_id": 262929740
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Interest",
+                    "amount": -251.8,
+                    "transaction_id": 563923522
+                }
+            ]
+        }
+    }
+}

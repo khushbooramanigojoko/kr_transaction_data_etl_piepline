@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joshua Perry",
+        "age": 65,
+        "gender": "male",
+        "address": "34179 Theresa Bridge, Weaverville, NV 54897",
+        "phone": "857.819.5659",
+        "email": "hgreen@example.org",
+        "account": {
+            "account_number": "fe7a8fdd-e486-4902-8024-57c43f9c52c8",
+            "balance": 19986.69,
+            "transactions": [
+                {
+                    "date": "2023-07-20",
+                    "description": "Deposit",
+                    "amount": 9172.77,
+                    "transaction_id": 27098139
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Interest",
+                    "amount": 12028.99,
+                    "transaction_id": 32364547
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Interest",
+                    "amount": 6931.26,
+                    "transaction_id": 85485767
+                },
+                {
+                    "date": "2023-03-29",
+                    "description": "Deposit",
+                    "amount": 37289.53,
+                    "transaction_id": 24593936
+                },
+                {
+                    "date": "2023-12-31",
+                    "description": "Deposit",
+                    "amount": 38094.2,
+                    "transaction_id": 105675067
+                }
+            ]
+        }
+    }
+}

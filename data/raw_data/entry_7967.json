@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Katherine Gardner",
+        "age": 66,
+        "gender": "female",
+        "address": "88270 Frank Dale, Donnatown, ND 99111",
+        "phone": "335-396-3584",
+        "email": "debbieharper@example.com",
+        "account": {
+            "account_number": "257a3621-f7b5-42ec-9af0-af559915d25c",
+            "balance": 11381.71,
+            "transactions": [
+                {
+                    "date": "2023-09-16",
+                    "description": "Withdrawal",
+                    "amount": 15858.47,
+                    "transaction_id": 73719417
+                },
+                {
+                    "date": "2022-09-04",
+                    "description": "Interest",
+                    "amount": 46791.12,
+                    "transaction_id": 23339204
+                },
+                {
+                    "date": "2023-12-31",
+                    "description": "Interest",
+                    "amount": 25961.36,
+                    "transaction_id": 98472701
+                },
+                {
+                    "date": "2022-10-27",
+                    "description": "Withdrawal",
+                    "amount": 25651.09,
+                    "transaction_id": 47787189
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Bowen",
+        "age": 40,
+        "gender": "female",
+        "address": "335 Long Circles Suite 308, Simontown, MN 29403",
+        "phone": "251-997-0891x22886",
+        "email": "jerryallen@example.com",
+        "account": {
+            "account_number": "ef079801-2472-4d3d-a7ab-b0f40f3716ba",
+            "balance": 28464.22,
+            "transactions": [
+                {
+                    "date": "2022-12-11",
+                    "description": "Deposit",
+                    "amount": 38417.27,
+                    "transaction_id": 69471519
+                },
+                {
+                    "date": "2023-04-23",
+                    "description": "Interest",
+                    "amount": 37691.16,
+                    "transaction_id": 50300783
+                },
+                {
+                    "date": "2023-09-18",
+                    "description": "Interest",
+                    "amount": 10715.72,
+                    "transaction_id": 98551254
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Deposit",
+                    "amount": 12583.03,
+                    "transaction_id": 98950064
+                },
+                {
+                    "date": "2023-12-31",
+                    "description": "Withdrawal",
+                    "amount": 26375.69,
+                    "transaction_id": 70561200
+                }
+            ]
+        }
+    }
+}

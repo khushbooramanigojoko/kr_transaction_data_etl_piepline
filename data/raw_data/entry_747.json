@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Skinner",
+        "age": 40,
+        "gender": "female",
+        "address": "8989 Hurst Course, Ginatown, IN 34445",
+        "phone": "577.926.1188x636",
+        "email": "wmeadows@example.net",
+        "account": {
+            "account_number": "26677833-94e0-4049-a615-4ebf2cb37e75",
+            "balance": 8815.15,
+            "transactions": [
+                {
+                    "date": "2022-09-05",
+                    "description": "Deposit",
+                    "amount": 47960.87,
+                    "transaction_id": 22456291
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Deposit",
+                    "amount": 27313.22,
+                    "transaction_id": 68154701
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Interest",
+                    "amount": 26079.27,
+                    "transaction_id": 76557433
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Interest",
+                    "amount": 39882.04,
+                    "transaction_id": 75692043
+                },
+                {
+                    "date": "2023-03-06",
+                    "description": "Deposit",
+                    "amount": 26872.13,
+                    "transaction_id": 26752836
+                }
+            ]
+        }
+    }
+}

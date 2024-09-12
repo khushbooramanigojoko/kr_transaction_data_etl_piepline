@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Steven Ryan",
+        "age": 26,
+        "gender": "male",
+        "address": "Unit 1448 Box 7834, DPO AE 18698",
+        "phone": "248-678-2527",
+        "email": "stephaniejenkins@example.com",
+        "account": {
+            "account_number": "51e8c745-ac4b-42fe-b9db-6f3c369a4b4b",
+            "balance": 47195.72,
+            "transactions": [
+                {
+                    "date": "2023-01-28",
+                    "description": "Deposit",
+                    "amount": 37902.51,
+                    "transaction_id": 68544166
+                }
+            ]
+        }
+    }
+}

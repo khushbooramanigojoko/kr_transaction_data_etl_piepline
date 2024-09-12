@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tammie Dixon",
+        "age": 39,
+        "gender": "female",
+        "address": "5763 Walker Corner Apt. 475, Davidside, WY 98519",
+        "phone": "+1-460-396-8484x271",
+        "email": "myersjenna@example.org",
+        "account": {
+            "account_number": "78e737b6-d93d-45d7-9f0e-92066a096915",
+            "balance": -5764.39,
+            "transactions": [
+                {
+                    "date": "2023-03-21",
+                    "description": "Deposit",
+                    "amount": 3580.08,
+                    "transaction_id": 65731802
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Deposit",
+                    "amount": -1669.16,
+                    "transaction_id": 96341045
+                },
+                {
+                    "date": "2022-11-06",
+                    "description": "Interest",
+                    "amount": 1446.91,
+                    "transaction_id": 117119043
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Withdrawal",
+                    "amount": -1558.63,
+                    "transaction_id": 37017814
+                }
+            ]
+        }
+    }
+}

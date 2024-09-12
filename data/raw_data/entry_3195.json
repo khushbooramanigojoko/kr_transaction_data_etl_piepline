@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Molly Norman",
+        "age": 73,
+        "gender": "male",
+        "address": "973 David Tunnel, West Dana, AR 05956",
+        "phone": "001-959-255-4827x927",
+        "email": "vreeves@example.net",
+        "account": {
+            "account_number": "a4fbd2ed-76dc-4b69-a7e3-ae115d20f852",
+            "balance": 14720.52,
+            "transactions": [
+                {
+                    "date": "2023-08-01",
+                    "description": "Deposit",
+                    "amount": 2411.41,
+                    "transaction_id": 75185900
+                },
+                {
+                    "date": "2022-10-19",
+                    "description": "Withdrawal",
+                    "amount": 26524.2,
+                    "transaction_id": 78333467
+                },
+                {
+                    "date": "2023-07-09",
+                    "description": "Deposit",
+                    "amount": 9681.19,
+                    "transaction_id": 7565758
+                }
+            ]
+        }
+    }
+}

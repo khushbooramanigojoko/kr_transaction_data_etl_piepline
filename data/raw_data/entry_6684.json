@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Steven Blackburn",
+        "age": 45,
+        "gender": "male",
+        "address": "87421 Michael Gardens Suite 622, Grossmouth, UT 31199",
+        "phone": "(649)253-8568x155",
+        "email": "johnsmith@example.org",
+        "account": {
+            "account_number": "50bede10-1dad-4805-aafb-d920572712da",
+            "balance": 12893.57,
+            "transactions": [
+                {
+                    "date": "2024-07-17",
+                    "description": "Withdrawal",
+                    "amount": 17778.59,
+                    "transaction_id": 43484667
+                },
+                {
+                    "date": "2024-03-19",
+                    "description": "Withdrawal",
+                    "amount": 47132.33,
+                    "transaction_id": 98934913
+                },
+                {
+                    "date": "2024-07-27",
+                    "description": "Deposit",
+                    "amount": 27782.67,
+                    "transaction_id": 42251354
+                }
+            ]
+        }
+    }
+}

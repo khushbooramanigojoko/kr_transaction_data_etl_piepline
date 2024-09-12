@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brian Bowman",
+        "age": 95,
+        "gender": "female",
+        "address": "4837 Davis Junctions, North Sylvia, MP 62132",
+        "phone": "435-982-6973x37709",
+        "email": "greenbrittany@example.org",
+        "account": {
+            "account_number": "7d9ae3cc-c595-43e3-b69a-df93d61ffa30",
+            "balance": 45643.28,
+            "transactions": [
+                {
+                    "date": "2023-11-16",
+                    "description": "Withdrawal",
+                    "amount": 40208.23,
+                    "transaction_id": 14296990
+                },
+                {
+                    "date": "2024-03-25",
+                    "description": "Interest",
+                    "amount": 22292.96,
+                    "transaction_id": 77657073
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Withdrawal",
+                    "amount": 28259.44,
+                    "transaction_id": 16967007
+                },
+                {
+                    "date": "2023-08-06",
+                    "description": "Withdrawal",
+                    "amount": 21194.85,
+                    "transaction_id": 114392414
+                },
+                {
+                    "date": "2022-11-04",
+                    "description": "Interest",
+                    "amount": 11730.91,
+                    "transaction_id": 37077818
+                }
+            ]
+        }
+    }
+}

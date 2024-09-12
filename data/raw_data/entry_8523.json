@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brandon Green",
+        "age": 63,
+        "gender": "male",
+        "address": "9953 Brooks Vista Suite 893, West Timothy, TN 29782",
+        "phone": "(667)998-2664x606",
+        "email": "johnpatel@example.net",
+        "account": {
+            "account_number": "0477a22f-308d-47af-84d8-6ab846a30ad8",
+            "balance": 13115.4,
+            "transactions": [
+                {
+                    "date": "2023-10-20",
+                    "description": "Withdrawal",
+                    "amount": 38459.08,
+                    "transaction_id": 20358204
+                },
+                {
+                    "date": "2024-02-28",
+                    "description": "Deposit",
+                    "amount": 27916.33,
+                    "transaction_id": 9854376
+                }
+            ]
+        }
+    }
+}

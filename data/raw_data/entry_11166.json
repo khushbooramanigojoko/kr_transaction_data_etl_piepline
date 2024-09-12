@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amanda Johnson",
+        "age": 71,
+        "gender": "male",
+        "address": "PSC 0396, Box 8212, APO AA 75747",
+        "phone": "344-663-2975",
+        "email": "trevor81@example.com",
+        "account": {
+            "account_number": "2711fd57-872b-434f-93ca-be88403e83dc",
+            "balance": -47152.91,
+            "transactions": [
+                {
+                    "date": "2023-01-15",
+                    "description": "Withdrawal",
+                    "amount": 154.48,
+                    "transaction_id": 65620665
+                },
+                {
+                    "date": "2023-11-10",
+                    "description": "Deposit",
+                    "amount": -3897.61,
+                    "transaction_id": 44053540
+                },
+                {
+                    "date": "2023-07-21",
+                    "description": "Deposit",
+                    "amount": -1270.26,
+                    "transaction_id": 112886703
+                },
+                {
+                    "date": "2023-07-26",
+                    "description": "Interest",
+                    "amount": 4440.45,
+                    "transaction_id": 62471728
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dana Stone",
+        "age": 68,
+        "gender": "male",
+        "address": "710 Edward Land, West Elizabethville, ND 25082",
+        "phone": "(681)886-9405",
+        "email": "angela63@example.net",
+        "account": {
+            "account_number": "178f43b1-a48a-4b29-a94c-86bdea733b6d",
+            "balance": -34520.02,
+            "transactions": [
+                {
+                    "date": "2022-12-27",
+                    "description": "Interest",
+                    "amount": 324.24,
+                    "transaction_id": 38496388
+                }
+            ]
+        }
+    }
+}

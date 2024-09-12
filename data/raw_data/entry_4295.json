@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Gregory Morgan",
+        "age": 54,
+        "gender": "female",
+        "address": "798 Justin Isle, Hendersonborough, CA 80214",
+        "phone": "001-693-475-4665x978",
+        "email": "thomasbishop@example.net",
+        "account": {
+            "account_number": "0f772406-6ece-46d1-9e23-589673018616",
+            "balance": 48866.78,
+            "transactions": [
+                {
+                    "date": "2024-01-28",
+                    "description": "Interest",
+                    "amount": 36626.5,
+                    "transaction_id": 24465968
+                },
+                {
+                    "date": "2023-07-26",
+                    "description": "Withdrawal",
+                    "amount": 48668.65,
+                    "transaction_id": 55752162
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Interest",
+                    "amount": 30851.32,
+                    "transaction_id": 4208380
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 51,
+        "gender": "female",
+        "address": "895 Parker Tunnel Apt. 777, South Amanda, DC 62343",
+        "phone": "(315)580-1597x40810",
+        "email": "alicethomas@example.net",
+        "account": {
+            "account_number": "42ccbd26-fa85-4a81-ad45-5d8f688777fa",
+            "balance": 45746.98,
+            "transactions": [
+                {
+                    "date": "2024-08-28",
+                    "description": "Interest",
+                    "amount": -580.01,
+                    "transaction_id": 111467479
+                }
+            ]
+        }
+    }
+}

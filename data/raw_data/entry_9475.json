@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jacob Davidson",
+        "age": 64,
+        "gender": "male",
+        "address": "9766 Kenneth Gateway, North Andrewshire, GA 68243",
+        "phone": "607.301.9950x89915",
+        "email": "james44@example.com",
+        "account": {
+            "account_number": "16da1ae4-16a1-4c21-b79b-eb9200f67788",
+            "balance": -24395.67,
+            "transactions": [
+                {
+                    "date": "2024-05-20",
+                    "description": "Interest",
+                    "amount": -496.03,
+                    "transaction_id": 64203080
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Withdrawal",
+                    "amount": -3913.15,
+                    "transaction_id": 31892281
+                }
+            ]
+        }
+    }
+}

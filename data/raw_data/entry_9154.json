@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jacob Ball",
+        "age": 29,
+        "gender": "female",
+        "address": "131 Kaiser Alley Suite 930, Darrellberg, TX 14857",
+        "phone": "447-402-9296",
+        "email": "michele51@example.com",
+        "account": {
+            "account_number": "4689cb8c-8eee-4723-b028-f4de54c1f5f2",
+            "balance": -35250.25,
+            "transactions": [
+                {
+                    "date": "2024-08-07",
+                    "description": "Withdrawal",
+                    "amount": 3810.69,
+                    "transaction_id": 105717639
+                }
+            ]
+        }
+    }
+}

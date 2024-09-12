@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Rachel Andrews",
+        "age": 20,
+        "gender": "male",
+        "address": "8801 Kari Park, Janiceton, NH 90470",
+        "phone": "412-527-5580",
+        "email": "aaron43@example.com",
+        "account": {
+            "account_number": "217eaef5-03af-479b-9995-5bfb692b2bdc",
+            "balance": 1997.55,
+            "transactions": [
+                {
+                    "date": "2024-03-06",
+                    "description": "Deposit",
+                    "amount": 40492.69,
+                    "transaction_id": 112121204
+                },
+                {
+                    "date": "2024-05-27",
+                    "description": "Interest",
+                    "amount": 42615.83,
+                    "transaction_id": 63167253
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Withdrawal",
+                    "amount": 7552.13,
+                    "transaction_id": 78174396
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Deposit",
+                    "amount": 13653.54,
+                    "transaction_id": 68934370
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Barbara Turner",
+        "age": 31,
+        "gender": "male",
+        "address": "1625 Thompson Stream Apt. 619, Christinaborough, NJ 38417",
+        "phone": "+1-698-273-7158x166",
+        "email": "oreyes@example.org",
+        "account": {
+            "account_number": "6405343f-cf85-49cd-bcfa-6e4569b70736",
+            "balance": -23217.59,
+            "transactions": [
+                {
+                    "date": "2023-01-06",
+                    "description": "Interest",
+                    "amount": 3470.17,
+                    "transaction_id": 92010903
+                },
+                {
+                    "date": "2023-03-04",
+                    "description": "Deposit",
+                    "amount": -4078.28,
+                    "transaction_id": 10071874
+                }
+            ]
+        }
+    }
+}

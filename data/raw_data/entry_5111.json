@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kerri Owens",
+        "age": 52,
+        "gender": "male",
+        "address": "4089 Patricia Road Apt. 405, Port Debramouth, WA 94267",
+        "phone": "001-924-987-6410x067",
+        "email": "morganflores@example.net",
+        "account": {
+            "account_number": "af08ffb4-bc58-4cd7-8d75-55697101e6d0",
+            "balance": 30230.63,
+            "transactions": [
+                {
+                    "date": "2024-02-11",
+                    "description": "Deposit",
+                    "amount": 13842.77,
+                    "transaction_id": 25186582
+                },
+                {
+                    "date": "2024-07-18",
+                    "description": "Withdrawal",
+                    "amount": 25628.89,
+                    "transaction_id": 84467023
+                }
+            ]
+        }
+    }
+}

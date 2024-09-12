@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Barbara Lane",
+        "age": 97,
+        "gender": "male",
+        "address": "298 Jones Dam, New Huntermouth, WA 40515",
+        "phone": "+1-814-845-5733x6336",
+        "email": "craig40@example.org",
+        "account": {
+            "account_number": "d04651fe-7830-4bfd-8498-6cd47aa45e3a",
+            "balance": -20090.36,
+            "transactions": [
+                {
+                    "date": "2023-11-23",
+                    "description": "Withdrawal",
+                    "amount": -4213.97,
+                    "transaction_id": 45958507
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Withdrawal",
+                    "amount": -3644.87,
+                    "transaction_id": 113413693
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Withdrawal",
+                    "amount": 1370.09,
+                    "transaction_id": 40104285
+                },
+                {
+                    "date": "2023-01-24",
+                    "description": "Interest",
+                    "amount": -3490.05,
+                    "transaction_id": 36973692
+                }
+            ]
+        }
+    }
+}

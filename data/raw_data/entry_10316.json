@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michael Wilkinson",
+        "age": 84,
+        "gender": "female",
+        "address": "177 Charles Estate, Jonesmouth, AL 13514",
+        "phone": "+1-751-842-4979",
+        "email": "briandavis@example.com",
+        "account": {
+            "account_number": "d5a716ec-1617-4f93-a835-79a7dc69bdea",
+            "balance": -45147.03,
+            "transactions": [
+                {
+                    "date": "2022-11-16",
+                    "description": "Deposit",
+                    "amount": 1732.17,
+                    "transaction_id": 22124927
+                }
+            ]
+        }
+    }
+}

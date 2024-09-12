@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 41,
+        "gender": "male",
+        "address": "8603 King Skyway, North Teresa, ND 89057",
+        "phone": "+1-546-300-2840",
+        "email": "jessicalopez@example.com",
+        "account": {
+            "account_number": "fdafce78-b14f-48da-8e06-d8a3e19666bf",
+            "balance": 29782.33,
+            "transactions": [
+                {
+                    "date": "2023-12-17",
+                    "description": "Deposit",
+                    "amount": 2519.88,
+                    "transaction_id": 17111701
+                },
+                {
+                    "date": "2022-11-12",
+                    "description": "Deposit",
+                    "amount": 461.64,
+                    "transaction_id": 102359299
+                },
+                {
+                    "date": "2023-01-06",
+                    "description": "Interest",
+                    "amount": -474.78,
+                    "transaction_id": 84739258
+                }
+            ]
+        }
+    }
+}

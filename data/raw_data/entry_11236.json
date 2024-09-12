@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Eric Grant",
+        "age": 54,
+        "gender": "female",
+        "address": "USCGC Walker, FPO AE 82253",
+        "phone": "+1-290-335-5273x58581",
+        "email": "chengina@example.net",
+        "account": {
+            "account_number": "a294a219-5f5b-43f3-ac7c-dbdb33e410ea",
+            "balance": -36927.97,
+            "transactions": [
+                {
+                    "date": "2023-09-12",
+                    "description": "Withdrawal",
+                    "amount": 2323.04,
+                    "transaction_id": 65784902
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Withdrawal",
+                    "amount": 1826.14,
+                    "transaction_id": 102498525
+                },
+                {
+                    "date": "2024-09-01",
+                    "description": "Withdrawal",
+                    "amount": 625.34,
+                    "transaction_id": 114570881
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Deposit",
+                    "amount": -3829.7,
+                    "transaction_id": 18142241
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Interest",
+                    "amount": -1823.54,
+                    "transaction_id": 108178516
+                }
+            ]
+        }
+    }
+}

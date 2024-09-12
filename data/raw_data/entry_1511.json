@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Cameron Christensen",
+        "age": 76,
+        "gender": "female",
+        "address": "4037 Wells Cape Apt. 183, Feliciatown, GA 51689",
+        "phone": "+1-529-724-5517x8251",
+        "email": "alee@example.net",
+        "account": {
+            "account_number": "b1fca6fc-4860-4a92-aab8-38e2338a0699",
+            "balance": 10094.94,
+            "transactions": [
+                {
+                    "date": "2023-06-05",
+                    "description": "Withdrawal",
+                    "amount": 27859.0,
+                    "transaction_id": 99644301
+                },
+                {
+                    "date": "2023-07-02",
+                    "description": "Interest",
+                    "amount": 12442.57,
+                    "transaction_id": 5050677
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Interest",
+                    "amount": 19032.4,
+                    "transaction_id": 34104751
+                }
+            ]
+        }
+    }
+}

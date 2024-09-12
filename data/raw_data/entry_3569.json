@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jeffrey Rojas",
+        "age": 79,
+        "gender": "female",
+        "address": "948 Nunez Gateway, Smithport, PW 13995",
+        "phone": "001-969-344-5743",
+        "email": "smithlauren@example.com",
+        "account": {
+            "account_number": "5da5c1ac-55d9-43bd-a100-7c15c931ddd9",
+            "balance": 39629.05,
+            "transactions": [
+                {
+                    "date": "2023-04-30",
+                    "description": "Interest",
+                    "amount": 44162.17,
+                    "transaction_id": 96995918
+                }
+            ]
+        }
+    }
+}

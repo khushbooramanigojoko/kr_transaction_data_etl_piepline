@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Steven Cuevas",
+        "age": 24,
+        "gender": "male",
+        "address": "PSC 0323, Box 2707, APO AA 73380",
+        "phone": "723-505-7100x9808",
+        "email": "adam61@example.org",
+        "account": {
+            "account_number": "ac75ce8d-c2a2-4c5f-8279-a48ac957caac",
+            "balance": 40153.9,
+            "transactions": [
+                {
+                    "date": "2022-11-03",
+                    "description": "Withdrawal",
+                    "amount": 8328.02,
+                    "transaction_id": 9959922
+                }
+            ]
+        }
+    }
+}

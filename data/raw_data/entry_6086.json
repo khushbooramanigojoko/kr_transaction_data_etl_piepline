@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jonathan Davis",
+        "age": 42,
+        "gender": "female",
+        "address": "24485 Kenneth Garden Suite 869, South Caroline, OR 07718",
+        "phone": "(528)573-4045x875",
+        "email": "randalljeffrey@example.com",
+        "account": {
+            "account_number": "1cc1f686-136a-4baf-8e82-4c19b17b9548",
+            "balance": 35434.34,
+            "transactions": [
+                {
+                    "date": "2023-01-26",
+                    "description": "Withdrawal",
+                    "amount": 37801.82,
+                    "transaction_id": 86550667
+                },
+                {
+                    "date": "2023-09-07",
+                    "description": "Deposit",
+                    "amount": 12602.47,
+                    "transaction_id": 46108454
+                },
+                {
+                    "date": "2024-07-03",
+                    "description": "Deposit",
+                    "amount": 14901.57,
+                    "transaction_id": 81615811
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Deposit",
+                    "amount": 21209.11,
+                    "transaction_id": 11568480
+                }
+            ]
+        }
+    }
+}

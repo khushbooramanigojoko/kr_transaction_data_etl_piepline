@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lisa Harding",
+        "age": 56,
+        "gender": "male",
+        "address": "6091 Serrano Freeway, Danielton, UT 18595",
+        "phone": "699.507.1486",
+        "email": "gturner@example.org",
+        "account": {
+            "account_number": "90f9d352-a1b6-42c5-b7fe-159ae12b4516",
+            "balance": -16433.99,
+            "transactions": [
+                {
+                    "date": "2023-03-10",
+                    "description": "Deposit",
+                    "amount": -1794.41,
+                    "transaction_id": 61824809
+                },
+                {
+                    "date": "2022-11-05",
+                    "description": "Interest",
+                    "amount": -2337.63,
+                    "transaction_id": 96783391
+                },
+                {
+                    "date": "2024-02-26",
+                    "description": "Deposit",
+                    "amount": -3533.77,
+                    "transaction_id": 79838923
+                },
+                {
+                    "date": "2024-07-18",
+                    "description": "Interest",
+                    "amount": -4364.18,
+                    "transaction_id": 99104852
+                }
+            ]
+        }
+    }
+}

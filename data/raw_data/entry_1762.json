@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jason Smith",
+        "age": 70,
+        "gender": "male",
+        "address": "293 Duran Unions, Michaeltown, NY 32953",
+        "phone": "+1-448-936-5627x375",
+        "email": "amanda61@example.org",
+        "account": {
+            "account_number": "1f7948b3-5682-4c42-a6ce-acca0c131f60",
+            "balance": 19934.5,
+            "transactions": [
+                {
+                    "date": "2023-04-01",
+                    "description": "Deposit",
+                    "amount": 4591.18,
+                    "transaction_id": 25963937
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Withdrawal",
+                    "amount": 47500.97,
+                    "transaction_id": 51519648
+                },
+                {
+                    "date": "2024-06-10",
+                    "description": "Withdrawal",
+                    "amount": 20900.36,
+                    "transaction_id": 42647528
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Interest",
+                    "amount": 29978.28,
+                    "transaction_id": 48112762
+                }
+            ]
+        }
+    }
+}

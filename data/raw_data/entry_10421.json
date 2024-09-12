@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 86,
+        "gender": "female",
+        "address": "208 Shaw Summit, Brittanychester, AR 78853",
+        "phone": "478-778-0236x4841",
+        "email": "lindsaywarren@example.com",
+        "account": {
+            "account_number": "d43ec55c-c5fa-4077-94cc-265b3a574a0b",
+            "balance": 17455.54,
+            "transactions": [
+                {
+                    "date": "2024-08-28",
+                    "description": "Withdrawal",
+                    "amount": 2787.49,
+                    "transaction_id": 104812229
+                },
+                {
+                    "date": "2023-04-09",
+                    "description": "Interest",
+                    "amount": -4629.17,
+                    "transaction_id": 46063115
+                }
+            ]
+        }
+    }
+}

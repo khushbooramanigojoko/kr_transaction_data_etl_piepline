@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kimberly Long",
+        "age": 31,
+        "gender": "male",
+        "address": "47932 Hall Plains, Parkland, TX 13637",
+        "phone": "573-483-2922x6751",
+        "email": "dnelson@example.org",
+        "account": {
+            "account_number": "b5d73b9c-0bfb-4014-a5b5-10cca597a151",
+            "balance": 41614.32,
+            "transactions": [
+                {
+                    "date": "2023-12-31",
+                    "description": "Deposit",
+                    "amount": 13201.58,
+                    "transaction_id": 47732619
+                }
+            ]
+        }
+    }
+}

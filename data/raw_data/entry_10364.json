@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alan Horton",
+        "age": 93,
+        "gender": "female",
+        "address": "PSC 3810, Box 2761, APO AP 78820",
+        "phone": "+1-458-323-6711",
+        "email": "jamesdana@example.org",
+        "account": {
+            "account_number": "041f941a-227a-41dc-957f-c02408bba008",
+            "balance": -40531.47,
+            "transactions": [
+                {
+                    "date": "2024-06-20",
+                    "description": "Withdrawal",
+                    "amount": -1207.72,
+                    "transaction_id": 35495903
+                }
+            ]
+        }
+    }
+}

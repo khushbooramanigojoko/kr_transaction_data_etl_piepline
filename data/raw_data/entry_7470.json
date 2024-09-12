@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jonathan Morris",
+        "age": 26,
+        "gender": "male",
+        "address": "870 Lee Estate, South James, AZ 44773",
+        "phone": "541-377-7810x010",
+        "email": "ewhite@example.net",
+        "account": {
+            "account_number": "5916b46d-4538-4487-9e14-0caada2fb11a",
+            "balance": 20454.81,
+            "transactions": [
+                {
+                    "date": "2022-12-19",
+                    "description": "Interest",
+                    "amount": 46554.46,
+                    "transaction_id": 102184935
+                },
+                {
+                    "date": "2023-04-23",
+                    "description": "Deposit",
+                    "amount": 9607.01,
+                    "transaction_id": 79771969
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Interest",
+                    "amount": 9740.06,
+                    "transaction_id": 27887825
+                },
+                {
+                    "date": "2023-01-27",
+                    "description": "Interest",
+                    "amount": 5258.11,
+                    "transaction_id": 31972360
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Withdrawal",
+                    "amount": 7990.55,
+                    "transaction_id": 76157429
+                }
+            ]
+        }
+    }
+}

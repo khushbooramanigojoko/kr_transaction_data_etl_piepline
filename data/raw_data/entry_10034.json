@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 47,
+        "gender": "female",
+        "address": "3653 Ashley Vista Apt. 352, Matthewfurt, OH 70658",
+        "phone": "+1-564-271-7705x47672",
+        "email": "rachelreed@example.org",
+        "account": {
+            "account_number": "7bfa1a38-1ca0-4938-8787-53fcd9a2e21c",
+            "balance": 33885.66,
+            "transactions": [
+                {
+                    "date": "2022-11-17",
+                    "description": "Deposit",
+                    "amount": -1184.93,
+                    "transaction_id": 105509269
+                }
+            ]
+        }
+    }
+}

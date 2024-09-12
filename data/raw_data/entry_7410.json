@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Emily Thomas",
+        "age": 36,
+        "gender": "female",
+        "address": "9400 Thomas Viaduct, Danielstad, SC 95198",
+        "phone": "(417)967-7225x364",
+        "email": "joseph53@example.com",
+        "account": {
+            "account_number": "7af7731d-57df-46c7-ae2f-25da37fc59b3",
+            "balance": 2336.92,
+            "transactions": [
+                {
+                    "date": "2023-11-20",
+                    "description": "Deposit",
+                    "amount": 12002.2,
+                    "transaction_id": 117525689
+                }
+            ]
+        }
+    }
+}

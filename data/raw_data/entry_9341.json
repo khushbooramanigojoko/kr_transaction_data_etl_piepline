@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 25,
+        "gender": "female",
+        "address": "69006 Joseph Glen Apt. 644, Nicoleborough, FL 06270",
+        "phone": "(444)787-2343x469",
+        "email": "kylebrown@example.net",
+        "account": {
+            "account_number": "5dd26d16-042c-492c-8311-03fb3172d914",
+            "balance": 49787.24,
+            "transactions": [
+                {
+                    "date": "2024-03-09",
+                    "description": "Withdrawal",
+                    "amount": 2851.86,
+                    "transaction_id": 96080212
+                },
+                {
+                    "date": "2024-05-24",
+                    "description": "Interest",
+                    "amount": 3465.95,
+                    "transaction_id": 51572710
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Deposit",
+                    "amount": 4520.55,
+                    "transaction_id": 94778164
+                }
+            ]
+        }
+    }
+}

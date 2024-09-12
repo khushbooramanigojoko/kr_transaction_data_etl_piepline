@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Deanna Smith",
+        "age": 68,
+        "gender": "male",
+        "address": "USCGC Smith, FPO AE 51214",
+        "phone": "001-846-295-1487",
+        "email": "amandariley@example.org",
+        "account": {
+            "account_number": "61dc91c5-f5cf-4083-ba30-a84693647ff8",
+            "balance": -26476.9,
+            "transactions": [
+                {
+                    "date": "2024-08-15",
+                    "description": "Deposit",
+                    "amount": 132.24,
+                    "transaction_id": 117137438
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Withdrawal",
+                    "amount": 3357.19,
+                    "transaction_id": 25468640
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Withdrawal",
+                    "amount": 4907.39,
+                    "transaction_id": 1881412
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Interest",
+                    "amount": -3289.14,
+                    "transaction_id": 10170632
+                },
+                {
+                    "date": "2023-01-03",
+                    "description": "Deposit",
+                    "amount": -4769.88,
+                    "transaction_id": 21343237
+                }
+            ]
+        }
+    }
+}

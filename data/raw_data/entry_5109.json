@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jason Morrison",
+        "age": 37,
+        "gender": "male",
+        "address": "1123 Reyes Harbors Apt. 081, Carterside, VA 42679",
+        "phone": "(282)893-7956x26226",
+        "email": "sandra14@example.org",
+        "account": {
+            "account_number": "7e833ade-abce-4abe-abc1-b8c9d6f3c333",
+            "balance": 39202.44,
+            "transactions": [
+                {
+                    "date": "2022-12-21",
+                    "description": "Interest",
+                    "amount": 24842.02,
+                    "transaction_id": 119198862
+                }
+            ]
+        }
+    }
+}

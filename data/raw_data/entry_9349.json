@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 83,
+        "gender": "female",
+        "address": "08049 Jones Terrace Suite 958, Andersontown, WY 18980",
+        "phone": "318-590-7902x745",
+        "email": "christineharrington@example.net",
+        "account": {
+            "account_number": "17b07806-0176-4caa-9113-0f47e3b1467f",
+            "balance": 3920.72,
+            "transactions": [
+                {
+                    "date": "2024-01-22",
+                    "description": "Withdrawal",
+                    "amount": 3838.8,
+                    "transaction_id": 29360566
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Withdrawal",
+                    "amount": -2648.8,
+                    "transaction_id": 44265437
+                },
+                {
+                    "date": "2023-04-15",
+                    "description": "Deposit",
+                    "amount": 165.85,
+                    "transaction_id": 13018399
+                },
+                {
+                    "date": "2022-10-19",
+                    "description": "Withdrawal",
+                    "amount": -3956.01,
+                    "transaction_id": 79845520
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Interest",
+                    "amount": -2504.91,
+                    "transaction_id": 13258154
+                }
+            ]
+        }
+    }
+}

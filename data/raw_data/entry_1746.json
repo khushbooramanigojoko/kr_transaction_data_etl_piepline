@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jonathan Rhodes",
+        "age": 37,
+        "gender": "female",
+        "address": "707 Ramirez Rapids Apt. 792, Johnmouth, AK 73473",
+        "phone": "779.302.8603x64123",
+        "email": "melissa42@example.org",
+        "account": {
+            "account_number": "9af8e326-5fe0-4b08-9f73-f6db5d929d88",
+            "balance": 47451.69,
+            "transactions": [
+                {
+                    "date": "2024-03-14",
+                    "description": "Withdrawal",
+                    "amount": 42103.61,
+                    "transaction_id": 74598102
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Deposit",
+                    "amount": 38753.59,
+                    "transaction_id": 106698102
+                },
+                {
+                    "date": "2023-10-31",
+                    "description": "Withdrawal",
+                    "amount": 32080.03,
+                    "transaction_id": 115547479
+                },
+                {
+                    "date": "2023-02-26",
+                    "description": "Interest",
+                    "amount": 19041.47,
+                    "transaction_id": 75158294
+                }
+            ]
+        }
+    }
+}

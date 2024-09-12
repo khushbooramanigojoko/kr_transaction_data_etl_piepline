@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Becky Turner",
+        "age": 85,
+        "gender": "female",
+        "address": "21904 Susan Crescent, Port Sandrashire, WI 13532",
+        "phone": "001-256-495-9486x61158",
+        "email": "ykerr@example.com",
+        "account": {
+            "account_number": "f9f1b1f3-e3b3-42cf-a378-f4886c56236a",
+            "balance": 19038.88,
+            "transactions": [
+                {
+                    "date": "2023-09-25",
+                    "description": "Interest",
+                    "amount": 42700.7,
+                    "transaction_id": 47440358
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Interest",
+                    "amount": 1986.62,
+                    "transaction_id": 107436671
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Deposit",
+                    "amount": 39602.27,
+                    "transaction_id": 14735071
+                }
+            ]
+        }
+    }
+}

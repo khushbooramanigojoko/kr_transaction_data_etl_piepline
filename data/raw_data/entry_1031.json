@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Amanda Patterson",
+        "age": 51,
+        "gender": "female",
+        "address": "088 Brooke Island Suite 182, Alexanderburgh, GA 56443",
+        "phone": "(253)631-0380",
+        "email": "vdavis@example.org",
+        "account": {
+            "account_number": "27d22e7f-c0a0-416e-a2e7-a5845a3dc0db",
+            "balance": 15864.53,
+            "transactions": [
+                {
+                    "date": "2023-10-15",
+                    "description": "Withdrawal",
+                    "amount": 43127.3,
+                    "transaction_id": 45280849
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Deposit",
+                    "amount": 44666.97,
+                    "transaction_id": 70774163
+                },
+                {
+                    "date": "2023-10-08",
+                    "description": "Withdrawal",
+                    "amount": 28671.64,
+                    "transaction_id": 87447936
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Interest",
+                    "amount": 32103.86,
+                    "transaction_id": 12144993
+                },
+                {
+                    "date": "2023-03-06",
+                    "description": "Interest",
+                    "amount": 17884.18,
+                    "transaction_id": 33527789
+                }
+            ]
+        }
+    }
+}

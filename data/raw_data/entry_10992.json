@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kristie Smith",
+        "age": 47,
+        "gender": "female",
+        "address": "70266 Perez Passage Apt. 503, Port Carlosfort, AK 24896",
+        "phone": "(371)821-5305x55480",
+        "email": "ehopkins@example.net",
+        "account": {
+            "account_number": "e7899980-46d8-4286-a87e-d70252ebb7d0",
+            "balance": -16057.54,
+            "transactions": [
+                {
+                    "date": "2024-02-20",
+                    "description": "Withdrawal",
+                    "amount": -3196.09,
+                    "transaction_id": 61526321
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Deposit",
+                    "amount": -3973.37,
+                    "transaction_id": 36458066
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Deposit",
+                    "amount": 4136.31,
+                    "transaction_id": 98668287
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Deposit",
+                    "amount": -4323.01,
+                    "transaction_id": 55891529
+                }
+            ]
+        }
+    }
+}

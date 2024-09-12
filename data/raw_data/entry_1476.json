@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joan Park",
+        "age": 89,
+        "gender": "female",
+        "address": "68740 Andrew Bridge, Potterview, GU 12618",
+        "phone": "(311)444-3617",
+        "email": "johnsonmaria@example.net",
+        "account": {
+            "account_number": "2a52cae6-c06f-41f3-9edd-a61327637a7d",
+            "balance": 13766.14,
+            "transactions": [
+                {
+                    "date": "2023-11-15",
+                    "description": "Interest",
+                    "amount": 9072.34,
+                    "transaction_id": 7364146
+                }
+            ]
+        }
+    }
+}

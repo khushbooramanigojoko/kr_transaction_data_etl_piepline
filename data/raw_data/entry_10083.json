@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ashley Mueller",
+        "age": 23,
+        "gender": "male",
+        "address": "50600 Ramirez Meadow, Geoffreyland, TN 51297",
+        "phone": "646-620-8618x994",
+        "email": "victoriagomez@example.org",
+        "account": {
+            "account_number": "599e9722-5c4f-4df8-94f1-cad4e1cc1c82",
+            "balance": -41976.63,
+            "transactions": [
+                {
+                    "date": "2023-08-04",
+                    "description": "Withdrawal",
+                    "amount": -420.99,
+                    "transaction_id": 35468330
+                }
+            ]
+        }
+    }
+}

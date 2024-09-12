@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Amy Watkins",
+        "age": 92,
+        "gender": "male",
+        "address": "58792 Jennifer Terrace Suite 359, Lake Davidstad, PA 80782",
+        "phone": "510-816-5051x0358",
+        "email": "asullivan@example.com",
+        "account": {
+            "account_number": "d3816a50-2011-4c68-864b-9a6301cf6d0b",
+            "balance": 27164.44,
+            "transactions": [
+                {
+                    "date": "2024-07-19",
+                    "description": "Deposit",
+                    "amount": 31426.31,
+                    "transaction_id": 45339075
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Interest",
+                    "amount": 37603.43,
+                    "transaction_id": 86580572
+                },
+                {
+                    "date": "2023-07-25",
+                    "description": "Withdrawal",
+                    "amount": 11878.3,
+                    "transaction_id": 81023395
+                }
+            ]
+        }
+    }
+}

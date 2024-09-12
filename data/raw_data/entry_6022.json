@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "April Smith",
+        "age": 26,
+        "gender": "male",
+        "address": "USNV Allen, FPO AA 29853",
+        "phone": "+1-658-200-8274x38989",
+        "email": "joshuacaldwell@example.org",
+        "account": {
+            "account_number": "7c92369e-e74f-4cb2-a4b2-aee173a416fa",
+            "balance": 33457.5,
+            "transactions": [
+                {
+                    "date": "2023-10-04",
+                    "description": "Interest",
+                    "amount": 48584.37,
+                    "transaction_id": 115219645
+                },
+                {
+                    "date": "2023-04-29",
+                    "description": "Deposit",
+                    "amount": 38288.01,
+                    "transaction_id": 48472902
+                }
+            ]
+        }
+    }
+}

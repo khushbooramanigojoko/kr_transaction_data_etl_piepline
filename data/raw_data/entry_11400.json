@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 72,
+        "gender": "female",
+        "address": "7772 April Light Suite 403, West Aaron, MN 65322",
+        "phone": "+1-604-484-4773x623",
+        "email": "davenportdean@example.com",
+        "account": {
+            "account_number": "59c8d4a3-5eab-4149-8b8b-6eb11dcfdced",
+            "balance": 26703.45,
+            "transactions": [
+                {
+                    "date": "2023-04-12",
+                    "description": "Withdrawal",
+                    "amount": -995.25,
+                    "transaction_id": 106689430
+                }
+            ]
+        }
+    }
+}

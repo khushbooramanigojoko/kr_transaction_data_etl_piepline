@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Bradley Cook",
+        "age": 40,
+        "gender": "female",
+        "address": "USNV Richards, FPO AE 74835",
+        "phone": "(665)310-5261",
+        "email": "wbishop@example.com",
+        "account": {
+            "account_number": "6795e1e5-35eb-4508-a6a2-c73f1e18110c",
+            "balance": -32604.19,
+            "transactions": [
+                {
+                    "date": "2023-10-19",
+                    "description": "Deposit",
+                    "amount": 1499.34,
+                    "transaction_id": 105894002
+                },
+                {
+                    "date": "2024-03-31",
+                    "description": "Withdrawal",
+                    "amount": 3483.0,
+                    "transaction_id": 61713330
+                }
+            ]
+        }
+    }
+}

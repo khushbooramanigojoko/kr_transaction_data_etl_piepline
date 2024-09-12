@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Gregory Hoffman",
+        "age": 46,
+        "gender": "female",
+        "address": "78544 Tanya Ranch Apt. 345, North Melissatown, KS 44354",
+        "phone": "4634876853",
+        "email": "robbinslori@example.net",
+        "account": {
+            "account_number": "425fb403-d876-4d5c-a06e-e1c1a3b0ea22",
+            "balance": 18523.55,
+            "transactions": [
+                {
+                    "date": "2023-04-14",
+                    "description": "Deposit",
+                    "amount": 12887.25,
+                    "transaction_id": 10818947
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Withdrawal",
+                    "amount": 11758.37,
+                    "transaction_id": 97445540
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Interest",
+                    "amount": 49608.73,
+                    "transaction_id": 43603718
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Interest",
+                    "amount": 9411.23,
+                    "transaction_id": 72016769
+                },
+                {
+                    "date": "2024-04-15",
+                    "description": "Deposit",
+                    "amount": 13886.45,
+                    "transaction_id": 65718153
+                }
+            ]
+        }
+    }
+}

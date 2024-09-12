@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Linda Fox",
+        "age": 88,
+        "gender": "male",
+        "address": "PSC 9670, Box 4737, APO AA 25424",
+        "phone": "704.563.8319x42805",
+        "email": "eduardoenglish@example.net",
+        "account": {
+            "account_number": "100b5a43-ab9d-46c7-ad0a-452617799d8e",
+            "balance": 44675.75,
+            "transactions": [
+                {
+                    "date": "2024-02-15",
+                    "description": "Withdrawal",
+                    "amount": 28939.37,
+                    "transaction_id": 47743424
+                },
+                {
+                    "date": "2024-05-12",
+                    "description": "Deposit",
+                    "amount": 31515.3,
+                    "transaction_id": 88255554
+                },
+                {
+                    "date": "2023-07-21",
+                    "description": "Withdrawal",
+                    "amount": 25939.67,
+                    "transaction_id": 3590990
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Deposit",
+                    "amount": 2178.55,
+                    "transaction_id": 18142813
+                }
+            ]
+        }
+    }
+}

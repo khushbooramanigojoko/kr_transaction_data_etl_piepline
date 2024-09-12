@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Louis Jenkins",
+        "age": 40,
+        "gender": "male",
+        "address": "PSC 2298, Box 9523, APO AP 06242",
+        "phone": "981.846.0848",
+        "email": "yanthony@example.com",
+        "account": {
+            "account_number": "078efa4a-ae75-4318-943c-fdfa78890bb1",
+            "balance": 45746.27,
+            "transactions": [
+                {
+                    "date": "2022-11-14",
+                    "description": "Deposit",
+                    "amount": 24409.63,
+                    "transaction_id": 85949577
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Interest",
+                    "amount": 44933.53,
+                    "transaction_id": 25446413
+                },
+                {
+                    "date": "2022-10-19",
+                    "description": "Deposit",
+                    "amount": 37019.5,
+                    "transaction_id": 24042576
+                }
+            ]
+        }
+    }
+}

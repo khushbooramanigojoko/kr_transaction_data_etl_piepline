@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Young",
+        "age": 40,
+        "gender": "male",
+        "address": "PSC 8200, Box 9037, APO AP 32356",
+        "phone": "001-823-662-8920",
+        "email": "matthewjimenez@example.net",
+        "account": {
+            "account_number": "5b392355-17fd-45fd-a85a-ebdaa1c28a20",
+            "balance": -30205.92,
+            "transactions": [
+                {
+                    "date": "2022-11-15",
+                    "description": "Withdrawal",
+                    "amount": 1424.62,
+                    "transaction_id": 8278428
+                },
+                {
+                    "date": "2024-05-19",
+                    "description": "Deposit",
+                    "amount": -4370.65,
+                    "transaction_id": 116273342
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Withdrawal",
+                    "amount": -1455.59,
+                    "transaction_id": 36454126
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Deposit",
+                    "amount": -4124.6,
+                    "transaction_id": 110852560
+                },
+                {
+                    "date": "2023-05-03",
+                    "description": "Interest",
+                    "amount": -2677.23,
+                    "transaction_id": 53192291
+                }
+            ]
+        }
+    }
+}

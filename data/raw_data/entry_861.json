@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Megan Wells",
+        "age": 99,
+        "gender": "female",
+        "address": "9902 Martinez Manor, Jenniferport, NC 35425",
+        "phone": "207-791-9688",
+        "email": "erica98@example.org",
+        "account": {
+            "account_number": "0a0f94a0-ab1e-42a7-a15d-c7e7ce53f5c8",
+            "balance": 20786.9,
+            "transactions": [
+                {
+                    "date": "2024-04-10",
+                    "description": "Deposit",
+                    "amount": 6012.9,
+                    "transaction_id": 47717571
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Withdrawal",
+                    "amount": 42020.57,
+                    "transaction_id": 9786889
+                }
+            ]
+        }
+    }
+}

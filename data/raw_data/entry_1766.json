@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Denise Kelley",
+        "age": 50,
+        "gender": "male",
+        "address": "180 Rachel Knoll, South Jason, RI 63463",
+        "phone": "+1-840-341-3457x681",
+        "email": "alexander99@example.com",
+        "account": {
+            "account_number": "f0952802-d42d-4ed0-a679-ceae7628ca97",
+            "balance": 26901.86,
+            "transactions": [
+                {
+                    "date": "2022-11-16",
+                    "description": "Deposit",
+                    "amount": 13437.94,
+                    "transaction_id": 58899950
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Withdrawal",
+                    "amount": 23700.57,
+                    "transaction_id": 16984161
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Deposit",
+                    "amount": 47473.72,
+                    "transaction_id": 69155849
+                },
+                {
+                    "date": "2023-01-10",
+                    "description": "Deposit",
+                    "amount": 44463.98,
+                    "transaction_id": 8745691
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jacob Reeves",
+        "age": 53,
+        "gender": "male",
+        "address": "73117 Smith Bridge, East Bryantown, SD 43091",
+        "phone": "734.704.8387x6610",
+        "email": "michelle61@example.org",
+        "account": {
+            "account_number": "075bb3c4-26e4-40d3-86aa-9597665f14e6",
+            "balance": 9071.82,
+            "transactions": [
+                {
+                    "date": "2024-06-20",
+                    "description": "Withdrawal",
+                    "amount": 14237.74,
+                    "transaction_id": 13011397
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Interest",
+                    "amount": 3873.95,
+                    "transaction_id": 53871740
+                },
+                {
+                    "date": "2024-02-18",
+                    "description": "Withdrawal",
+                    "amount": 26144.12,
+                    "transaction_id": 44638305
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Interest",
+                    "amount": 21551.13,
+                    "transaction_id": 48523626
+                }
+            ]
+        }
+    }
+}

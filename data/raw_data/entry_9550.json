@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "David Bush",
+        "age": 51,
+        "gender": "male",
+        "address": "62712 Parrish Views Apt. 154, West Michaelstad, OH 86121",
+        "phone": "522-793-6611",
+        "email": "smithjessica@example.net",
+        "account": {
+            "account_number": "63a2e225-1cf0-4081-875e-cd9934a29ac5",
+            "balance": -914.51,
+            "transactions": [
+                {
+                    "date": "2023-09-08",
+                    "description": "Interest",
+                    "amount": 150.08,
+                    "transaction_id": 21241393
+                },
+                {
+                    "date": "2024-05-26",
+                    "description": "Interest",
+                    "amount": 4446.01,
+                    "transaction_id": 87706352
+                }
+            ]
+        }
+    }
+}

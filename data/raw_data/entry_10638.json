@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 86,
+        "gender": "female",
+        "address": "55965 Clarke Place, Lake Josephmouth, RI 22394",
+        "phone": "(551)591-8893x1835",
+        "email": "eric54@example.net",
+        "account": {
+            "account_number": "a03930cb-6a17-45f3-ac2f-5c0c22ff18c8",
+            "balance": 42746.44,
+            "transactions": [
+                {
+                    "date": "2023-07-31",
+                    "description": "Withdrawal",
+                    "amount": 2542.34,
+                    "transaction_id": 100306718
+                }
+            ]
+        }
+    }
+}

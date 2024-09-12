@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tyler Adams",
+        "age": 95,
+        "gender": "female",
+        "address": "7059 Ferguson Hollow, Fryeshire, KY 98035",
+        "phone": "324-770-0390",
+        "email": "xfigueroa@example.com",
+        "account": {
+            "account_number": "49d067a3-ecd2-4c40-8771-c61612431834",
+            "balance": 39536.83,
+            "transactions": [
+                {
+                    "date": "2023-02-18",
+                    "description": "Deposit",
+                    "amount": 22949.73,
+                    "transaction_id": 6715684
+                }
+            ]
+        }
+    }
+}

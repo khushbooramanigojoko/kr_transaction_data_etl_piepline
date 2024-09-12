@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christopher Bradley",
+        "age": 61,
+        "gender": "female",
+        "address": "5374 Perez Lakes, Garzafurt, AS 02100",
+        "phone": "001-541-719-9954x04023",
+        "email": "johnathanjenkins@example.org",
+        "account": {
+            "account_number": "24d6fdef-8cbf-4a12-8d58-396a80251eec",
+            "balance": 33575.83,
+            "transactions": [
+                {
+                    "date": "2023-02-27",
+                    "description": "Withdrawal",
+                    "amount": 47834.05,
+                    "transaction_id": 53019045
+                },
+                {
+                    "date": "2024-08-14",
+                    "description": "Interest",
+                    "amount": 21957.07,
+                    "transaction_id": 34348834
+                },
+                {
+                    "date": "2024-01-20",
+                    "description": "Deposit",
+                    "amount": 35979.19,
+                    "transaction_id": 20197157
+                },
+                {
+                    "date": "2023-07-22",
+                    "description": "Interest",
+                    "amount": 17197.69,
+                    "transaction_id": 104800887
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Interest",
+                    "amount": 38961.26,
+                    "transaction_id": 116132244
+                }
+            ]
+        }
+    }
+}

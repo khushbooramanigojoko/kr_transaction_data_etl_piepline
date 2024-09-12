@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Janet Ross",
+        "age": 90,
+        "gender": "female",
+        "address": "668 Bond Points Suite 450, Jeremybury, IA 76463",
+        "phone": "001-390-371-4335x4836",
+        "email": "nathanjones@example.org",
+        "account": {
+            "account_number": "5e7a5f4f-fdb1-49f8-8c82-524ce63464d5",
+            "balance": 20945.25,
+            "transactions": [
+                {
+                    "date": "2024-06-21",
+                    "description": "Withdrawal",
+                    "amount": 44779.26,
+                    "transaction_id": 44746154
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Interest",
+                    "amount": 620.79,
+                    "transaction_id": 16770152
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joshua Nichols",
+        "age": 85,
+        "gender": "female",
+        "address": "4283 Williams Circle Suite 411, Oneillhaven, IA 91931",
+        "phone": "(515)814-7003x579",
+        "email": "huntashley@example.org",
+        "account": {
+            "account_number": "215cd8df-ec8b-4b97-b15b-2e7984bd43e2",
+            "balance": 40337.53,
+            "transactions": [
+                {
+                    "date": "2023-12-08",
+                    "description": "Deposit",
+                    "amount": 12373.42,
+                    "transaction_id": 102620639
+                },
+                {
+                    "date": "2023-09-24",
+                    "description": "Deposit",
+                    "amount": 41524.54,
+                    "transaction_id": 72877291
+                },
+                {
+                    "date": "2022-12-26",
+                    "description": "Withdrawal",
+                    "amount": 1627.57,
+                    "transaction_id": 5826669
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Withdrawal",
+                    "amount": 4564.03,
+                    "transaction_id": 101550478
+                }
+            ]
+        }
+    }
+}

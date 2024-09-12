@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Peter Sullivan",
+        "age": 31,
+        "gender": "male",
+        "address": "04494 Janice Valleys, Anafurt, VA 77942",
+        "phone": "+1-632-208-4324x89302",
+        "email": "ljackson@example.org",
+        "account": {
+            "account_number": "af9d21cd-f3cb-47ad-abae-f25dad3321cc",
+            "balance": 31208.24,
+            "transactions": [
+                {
+                    "date": "2022-11-03",
+                    "description": "Deposit",
+                    "amount": 17593.01,
+                    "transaction_id": 80993396
+                }
+            ]
+        }
+    }
+}

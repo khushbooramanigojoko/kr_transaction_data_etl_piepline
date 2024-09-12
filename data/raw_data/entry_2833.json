@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kimberly Mccann",
+        "age": 56,
+        "gender": "female",
+        "address": "53460 Turner Field, North John, AR 00814",
+        "phone": "7795129986",
+        "email": "perezjonathan@example.com",
+        "account": {
+            "account_number": "0eab652c-9359-4c62-95a4-75aada9592ad",
+            "balance": 29979.39,
+            "transactions": [
+                {
+                    "date": "2023-09-02",
+                    "description": "Withdrawal",
+                    "amount": 35541.85,
+                    "transaction_id": 93059163
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Interest",
+                    "amount": 31204.3,
+                    "transaction_id": 88141617
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Deposit",
+                    "amount": 47404.32,
+                    "transaction_id": 61342801
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Interest",
+                    "amount": 48752.85,
+                    "transaction_id": 36633165
+                }
+            ]
+        }
+    }
+}

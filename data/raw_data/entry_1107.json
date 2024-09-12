@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tiffany Moon",
+        "age": 47,
+        "gender": "male",
+        "address": "92725 Elizabeth Streets Suite 128, Lake John, AK 32120",
+        "phone": "(369)643-1727x55007",
+        "email": "gomezsheri@example.net",
+        "account": {
+            "account_number": "9409c4cd-0c9b-449f-9524-963be450df4b",
+            "balance": 29353.69,
+            "transactions": [
+                {
+                    "date": "2023-10-11",
+                    "description": "Withdrawal",
+                    "amount": 41492.17,
+                    "transaction_id": 43796605
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Interest",
+                    "amount": 15027.06,
+                    "transaction_id": 34772703
+                },
+                {
+                    "date": "2023-11-21",
+                    "description": "Withdrawal",
+                    "amount": 42959.24,
+                    "transaction_id": 27255237
+                },
+                {
+                    "date": "2024-06-12",
+                    "description": "Withdrawal",
+                    "amount": 43676.21,
+                    "transaction_id": 1826242
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Pruitt",
+        "age": 34,
+        "gender": "male",
+        "address": "706 Ashley Points, Davishaven, HI 98272",
+        "phone": "(926)885-9544x8020",
+        "email": "iolson@example.com",
+        "account": {
+            "account_number": "8b03101a-0830-49be-9517-7db13dda61da",
+            "balance": 42180.17,
+            "transactions": [
+                {
+                    "date": "2023-10-28",
+                    "description": "Withdrawal",
+                    "amount": 41144.81,
+                    "transaction_id": 95624645
+                },
+                {
+                    "date": "2022-10-12",
+                    "description": "Withdrawal",
+                    "amount": 38304.0,
+                    "transaction_id": 34128191
+                }
+            ]
+        }
+    }
+}

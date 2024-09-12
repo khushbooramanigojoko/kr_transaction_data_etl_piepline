@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lauren Blair",
+        "age": 66,
+        "gender": "male",
+        "address": "2702 Gonzalez Hill Apt. 606, Brianshire, NH 30455",
+        "phone": "+1-226-410-5584",
+        "email": "jacquelinemullins@example.net",
+        "account": {
+            "account_number": "86c3eb66-3f22-4064-9daa-77d57888c713",
+            "balance": 16694.29,
+            "transactions": [
+                {
+                    "date": "2023-07-31",
+                    "description": "Interest",
+                    "amount": 10554.29,
+                    "transaction_id": 50100669
+                },
+                {
+                    "date": "2022-12-03",
+                    "description": "Withdrawal",
+                    "amount": 20974.54,
+                    "transaction_id": 78598306
+                }
+            ]
+        }
+    }
+}

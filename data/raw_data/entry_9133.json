@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 28,
+        "gender": "male",
+        "address": "0722 Wheeler Knoll, South Jennifertown, CA 54082",
+        "phone": "001-502-610-3255x0215",
+        "email": "wrightcory@example.net",
+        "account": {
+            "account_number": "83d99c3e-fc36-445d-8a24-621486b8e181",
+            "balance": 40802.29,
+            "transactions": [
+                {
+                    "date": "2023-08-10",
+                    "description": "Withdrawal",
+                    "amount": 683.94,
+                    "transaction_id": 100843595
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Withdrawal",
+                    "amount": 683.7,
+                    "transaction_id": 119452206
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Interest",
+                    "amount": -1464.48,
+                    "transaction_id": 13655724
+                }
+            ]
+        }
+    }
+}

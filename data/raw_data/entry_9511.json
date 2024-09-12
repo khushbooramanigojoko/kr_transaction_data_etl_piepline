@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 38,
+        "gender": "female",
+        "address": "1174 Maria Mountain, Peckbury, TX 42280",
+        "phone": "(618)516-4405x77953",
+        "email": "ubrown@example.com",
+        "account": {
+            "account_number": "6bf2bffd-b46d-436e-af1a-7c97749e7c21",
+            "balance": 35641.26,
+            "transactions": [
+                {
+                    "date": "2022-09-24",
+                    "description": "Interest",
+                    "amount": 2830.18,
+                    "transaction_id": 44714711
+                }
+            ]
+        }
+    }
+}

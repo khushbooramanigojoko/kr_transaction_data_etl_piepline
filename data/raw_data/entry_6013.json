@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Matthew Gomez",
+        "age": 54,
+        "gender": "male",
+        "address": "8189 Anthony Roads, North Jonathan, AR 88376",
+        "phone": "9497390383",
+        "email": "ckelly@example.org",
+        "account": {
+            "account_number": "985572e1-5e9e-4e6e-8b6e-15970814f07e",
+            "balance": 30237.3,
+            "transactions": [
+                {
+                    "date": "2023-08-24",
+                    "description": "Withdrawal",
+                    "amount": 36599.3,
+                    "transaction_id": 6326108
+                },
+                {
+                    "date": "2024-03-09",
+                    "description": "Withdrawal",
+                    "amount": 20219.42,
+                    "transaction_id": 119578907
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Interest",
+                    "amount": 19027.54,
+                    "transaction_id": 76545517
+                }
+            ]
+        }
+    }
+}

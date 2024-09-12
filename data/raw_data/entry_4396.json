@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Erik Howard",
+        "age": 56,
+        "gender": "male",
+        "address": "2658 Haas Stravenue Apt. 184, Boydtown, UT 84595",
+        "phone": "628.368.6751x06902",
+        "email": "anthonytucker@example.com",
+        "account": {
+            "account_number": "b181e85f-fbfe-41f7-8f2f-03a35cb490e6",
+            "balance": 34366.9,
+            "transactions": [
+                {
+                    "date": "2023-10-13",
+                    "description": "Deposit",
+                    "amount": 7166.36,
+                    "transaction_id": 108927911
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Withdrawal",
+                    "amount": 22068.57,
+                    "transaction_id": 24197902
+                },
+                {
+                    "date": "2024-06-13",
+                    "description": "Withdrawal",
+                    "amount": 46638.38,
+                    "transaction_id": 107928439
+                },
+                {
+                    "date": "2023-11-11",
+                    "description": "Withdrawal",
+                    "amount": 3692.85,
+                    "transaction_id": 38851522
+                }
+            ]
+        }
+    }
+}

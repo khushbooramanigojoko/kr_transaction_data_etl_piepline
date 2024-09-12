@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 25,
+        "gender": "female",
+        "address": "PSC 6909, Box 1474, APO AP 07975",
+        "phone": "252.388.0907x97612",
+        "email": "smithsherry@example.org",
+        "account": {
+            "account_number": "5aadb145-6bcf-46be-b80e-08aae8a6f3cb",
+            "balance": 20655.08,
+            "transactions": [
+                {
+                    "date": "2022-10-10",
+                    "description": "Deposit",
+                    "amount": 3014.02,
+                    "transaction_id": 1224250
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Interest",
+                    "amount": 2438.87,
+                    "transaction_id": 28293993
+                }
+            ]
+        }
+    }
+}

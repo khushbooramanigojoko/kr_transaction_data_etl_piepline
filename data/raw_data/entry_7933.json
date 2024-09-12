@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Aaron Alvarez",
+        "age": 97,
+        "gender": "male",
+        "address": "PSC 6770, Box 9120, APO AA 57478",
+        "phone": "882-851-8091x67888",
+        "email": "joseph11@example.com",
+        "account": {
+            "account_number": "f2cc0a85-8e55-40ad-bd77-cb4edcea6a29",
+            "balance": 21101.5,
+            "transactions": [
+                {
+                    "date": "2022-12-13",
+                    "description": "Withdrawal",
+                    "amount": 36189.42,
+                    "transaction_id": 66857874
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Interest",
+                    "amount": 34379.18,
+                    "transaction_id": 41895305
+                },
+                {
+                    "date": "2024-02-05",
+                    "description": "Withdrawal",
+                    "amount": 37061.17,
+                    "transaction_id": 30371475
+                }
+            ]
+        }
+    }
+}

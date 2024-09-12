@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Teresa Henderson",
+        "age": 41,
+        "gender": "female",
+        "address": "952 Andrew Plains Apt. 492, North Joseph, AR 61553",
+        "phone": "(262)611-4469x101",
+        "email": "wreed@example.net",
+        "account": {
+            "account_number": "32f6dabb-4ea7-493b-81d9-24445cbcd809",
+            "balance": 44131.08,
+            "transactions": [
+                {
+                    "date": "2022-11-23",
+                    "description": "Deposit",
+                    "amount": 10256.14,
+                    "transaction_id": 44411265
+                }
+            ]
+        }
+    }
+}

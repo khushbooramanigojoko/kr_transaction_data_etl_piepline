@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Valerie Gutierrez",
+        "age": 71,
+        "gender": "female",
+        "address": "079 Zachary Ramp, Steelefurt, CT 49663",
+        "phone": "396-946-6629x1364",
+        "email": "janicetaylor@example.com",
+        "account": {
+            "account_number": "3c6fe303-1f5c-415a-93ad-34788fb553cf",
+            "balance": 1862.55,
+            "transactions": [
+                {
+                    "date": "2022-12-23",
+                    "description": "Interest",
+                    "amount": 5366.03,
+                    "transaction_id": 9773446
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Interest",
+                    "amount": 3024.39,
+                    "transaction_id": 86482186
+                },
+                {
+                    "date": "2022-12-09",
+                    "description": "Interest",
+                    "amount": 33912.37,
+                    "transaction_id": 32861040
+                },
+                {
+                    "date": "2024-02-14",
+                    "description": "Withdrawal",
+                    "amount": 4602.8,
+                    "transaction_id": 108901759
+                },
+                {
+                    "date": "2023-04-04",
+                    "description": "Deposit",
+                    "amount": 47201.2,
+                    "transaction_id": 95818450
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Lyons",
+        "age": 98,
+        "gender": "male",
+        "address": "225 Stafford Corner Apt. 546, East Robertville, WI 78860",
+        "phone": "+1-982-822-1027x538",
+        "email": "joseph45@example.org",
+        "account": {
+            "account_number": "86da4939-38a3-47a0-821e-42a51087de6e",
+            "balance": -47750.58,
+            "transactions": [
+                {
+                    "date": "2022-11-13",
+                    "description": "Deposit",
+                    "amount": -4569.63,
+                    "transaction_id": 65524816
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Withdrawal",
+                    "amount": 877.74,
+                    "transaction_id": 63496475
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Deposit",
+                    "amount": -744.35,
+                    "transaction_id": 53421041
+                },
+                {
+                    "date": "2024-07-14",
+                    "description": "Deposit",
+                    "amount": 2290.01,
+                    "transaction_id": 27464412
+                },
+                {
+                    "date": "2023-04-26",
+                    "description": "Deposit",
+                    "amount": -4436.08,
+                    "transaction_id": 73599630
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joshua Phillips",
+        "age": 53,
+        "gender": "male",
+        "address": "4996 Robert Stream, North Charlesshire, AL 20506",
+        "phone": "+1-237-956-8646x044",
+        "email": "danielking@example.org",
+        "account": {
+            "account_number": "03cdee00-57ae-49cc-9b90-2dfc8e015b25",
+            "balance": 25665.36,
+            "transactions": [
+                {
+                    "date": "2023-01-10",
+                    "description": "Interest",
+                    "amount": 49190.65,
+                    "transaction_id": 90317828
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Withdrawal",
+                    "amount": 11303.18,
+                    "transaction_id": 102818611
+                },
+                {
+                    "date": "2023-12-27",
+                    "description": "Deposit",
+                    "amount": 12855.26,
+                    "transaction_id": 95872115
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Withdrawal",
+                    "amount": 45140.71,
+                    "transaction_id": 56231445
+                }
+            ]
+        }
+    }
+}

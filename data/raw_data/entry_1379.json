@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Clinton Brown",
+        "age": 97,
+        "gender": "male",
+        "address": "1049 Delacruz Islands, Jamesside, AR 63598",
+        "phone": "646.327.2404",
+        "email": "wanderson@example.net",
+        "account": {
+            "account_number": "73d87db9-6a81-4f97-976f-74d3370c7c44",
+            "balance": 5877.93,
+            "transactions": [
+                {
+                    "date": "2022-12-14",
+                    "description": "Withdrawal",
+                    "amount": 17189.36,
+                    "transaction_id": 5826562
+                },
+                {
+                    "date": "2023-10-18",
+                    "description": "Interest",
+                    "amount": 3565.16,
+                    "transaction_id": 11165940
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Deposit",
+                    "amount": 1538.41,
+                    "transaction_id": 108050590
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Interest",
+                    "amount": 19597.38,
+                    "transaction_id": 46208189
+                }
+            ]
+        }
+    }
+}

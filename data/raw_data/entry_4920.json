@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Elizabeth Richardson",
+        "age": 56,
+        "gender": "male",
+        "address": "Unit 7887 Box 5983, DPO AE 45924",
+        "phone": "001-508-427-7972",
+        "email": "simmonslarry@example.net",
+        "account": {
+            "account_number": "ba2514c0-2ead-4347-a731-19f5a4304ce0",
+            "balance": 9148.78,
+            "transactions": [
+                {
+                    "date": "2022-10-26",
+                    "description": "Withdrawal",
+                    "amount": 5664.99,
+                    "transaction_id": 65373572
+                },
+                {
+                    "date": "2024-03-28",
+                    "description": "Withdrawal",
+                    "amount": 32315.12,
+                    "transaction_id": 91385451
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Deposit",
+                    "amount": 3225.02,
+                    "transaction_id": 51848159
+                },
+                {
+                    "date": "2022-11-01",
+                    "description": "Withdrawal",
+                    "amount": 9367.36,
+                    "transaction_id": 9625828
+                }
+            ]
+        }
+    }
+}

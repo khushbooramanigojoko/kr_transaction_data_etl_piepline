@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 36,
+        "gender": "female",
+        "address": "Unit 8130 Box 9772, DPO AA 88937",
+        "phone": "+1-857-800-8076",
+        "email": "dustin47@example.org",
+        "account": {
+            "account_number": "c27092a1-a39d-4125-9bbe-7671c7283370",
+            "balance": 29683.46,
+            "transactions": [
+                {
+                    "date": "2022-09-10",
+                    "description": "Withdrawal",
+                    "amount": -132.95,
+                    "transaction_id": 76597439
+                }
+            ]
+        }
+    }
+}

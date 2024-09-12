@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christopher Johnson",
+        "age": 51,
+        "gender": "female",
+        "address": "7917 Jenny Fall Apt. 259, Nicholeborough, GU 26467",
+        "phone": "207.799.7172",
+        "email": "nancyboyd@example.org",
+        "account": {
+            "account_number": "b255855a-66fd-48b0-9198-4e60ba49170b",
+            "balance": 4630.62,
+            "transactions": [
+                {
+                    "date": "2023-04-24",
+                    "description": "Withdrawal",
+                    "amount": 1000.69,
+                    "transaction_id": 108505572
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Withdrawal",
+                    "amount": 29770.04,
+                    "transaction_id": 110199163
+                },
+                {
+                    "date": "2024-03-30",
+                    "description": "Deposit",
+                    "amount": 19299.72,
+                    "transaction_id": 22993999
+                },
+                {
+                    "date": "2023-08-03",
+                    "description": "Interest",
+                    "amount": 21356.88,
+                    "transaction_id": 115223986
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Interest",
+                    "amount": 44924.29,
+                    "transaction_id": 39577971
+                }
+            ]
+        }
+    }
+}

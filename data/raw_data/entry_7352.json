@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Stephen Fisher",
+        "age": 64,
+        "gender": "female",
+        "address": "5123 Andrew Locks, Tristanland, CO 02599",
+        "phone": "(334)233-4128x50011",
+        "email": "huynhtamara@example.org",
+        "account": {
+            "account_number": "48f52e33-538a-45e7-9e18-9dd4f376829f",
+            "balance": 33399.37,
+            "transactions": [
+                {
+                    "date": "2023-06-13",
+                    "description": "Interest",
+                    "amount": 44100.46,
+                    "transaction_id": 46972308
+                },
+                {
+                    "date": "2023-02-09",
+                    "description": "Withdrawal",
+                    "amount": 27847.92,
+                    "transaction_id": 61776501
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Withdrawal",
+                    "amount": 37363.9,
+                    "transaction_id": 98448099
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Interest",
+                    "amount": 46996.43,
+                    "transaction_id": 103801420
+                },
+                {
+                    "date": "2024-07-26",
+                    "description": "Deposit",
+                    "amount": 19247.76,
+                    "transaction_id": 9316108
+                }
+            ]
+        }
+    }
+}

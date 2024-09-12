@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Andrew Berger",
+        "age": 50,
+        "gender": "female",
+        "address": "935 Kevin Valley, East Caitlynburgh, CT 38680",
+        "phone": "906-873-9209",
+        "email": "denisebennett@example.com",
+        "account": {
+            "account_number": "3e1bfd3b-e4aa-4bc4-af7b-16cc17e510e6",
+            "balance": 21255.48,
+            "transactions": [
+                {
+                    "date": "2022-12-26",
+                    "description": "Deposit",
+                    "amount": 37825.27,
+                    "transaction_id": 93781666
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Interest",
+                    "amount": 29015.63,
+                    "transaction_id": 7037246
+                },
+                {
+                    "date": "2024-05-29",
+                    "description": "Deposit",
+                    "amount": 12072.29,
+                    "transaction_id": 31281802
+                }
+            ]
+        }
+    }
+}

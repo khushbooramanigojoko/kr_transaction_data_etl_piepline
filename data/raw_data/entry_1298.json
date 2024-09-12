@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kimberly Davis",
+        "age": 50,
+        "gender": "male",
+        "address": "35253 Hubbard Point, Rosarioburgh, NE 01467",
+        "phone": "(555)240-6657x77152",
+        "email": "wward@example.org",
+        "account": {
+            "account_number": "1e67bd14-7b41-4dd4-bdbf-82fe88217826",
+            "balance": 33054.02,
+            "transactions": [
+                {
+                    "date": "2023-04-14",
+                    "description": "Deposit",
+                    "amount": 23135.89,
+                    "transaction_id": 6299488
+                },
+                {
+                    "date": "2023-08-01",
+                    "description": "Withdrawal",
+                    "amount": 29594.36,
+                    "transaction_id": 15695475
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Deposit",
+                    "amount": 28601.48,
+                    "transaction_id": 23195109
+                },
+                {
+                    "date": "2023-05-21",
+                    "description": "Deposit",
+                    "amount": 40722.56,
+                    "transaction_id": 96573152
+                }
+            ]
+        }
+    }
+}

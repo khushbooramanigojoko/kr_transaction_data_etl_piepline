@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jesse Morris",
+        "age": 25,
+        "gender": "female",
+        "address": "54920 Howard Plains, Jacksonbury, OR 31714",
+        "phone": "001-391-293-2232x080",
+        "email": "pearsonkevin@example.net",
+        "account": {
+            "account_number": "3d8d474e-8bff-4686-8592-296f13ad08cc",
+            "balance": 10015.51,
+            "transactions": [
+                {
+                    "date": "2023-06-21",
+                    "description": "Interest",
+                    "amount": 142.2,
+                    "transaction_id": 98798675
+                },
+                {
+                    "date": "2023-02-23",
+                    "description": "Interest",
+                    "amount": 35257.79,
+                    "transaction_id": 104051935
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Interest",
+                    "amount": 28720.93,
+                    "transaction_id": 88288141
+                },
+                {
+                    "date": "2023-06-25",
+                    "description": "Interest",
+                    "amount": 24296.02,
+                    "transaction_id": 66473487
+                }
+            ]
+        }
+    }
+}

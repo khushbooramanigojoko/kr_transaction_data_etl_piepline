@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jamie Collier",
+        "age": 40,
+        "gender": "female",
+        "address": "586 Griffin Plains Apt. 176, Tapiaside, WI 61286",
+        "phone": "887-983-1492x20041",
+        "email": "shermandeborah@example.org",
+        "account": {
+            "account_number": "745fe872-67c2-4688-925c-cb1fb9690450",
+            "balance": 48128.02,
+            "transactions": [
+                {
+                    "date": "2024-06-30",
+                    "description": "Withdrawal",
+                    "amount": 28778.76,
+                    "transaction_id": 103884541
+                },
+                {
+                    "date": "2024-03-28",
+                    "description": "Withdrawal",
+                    "amount": 10544.95,
+                    "transaction_id": 37927565
+                },
+                {
+                    "date": "2022-12-13",
+                    "description": "Withdrawal",
+                    "amount": 1436.92,
+                    "transaction_id": 16696853
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Withdrawal",
+                    "amount": 16684.33,
+                    "transaction_id": 6001046
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Barbara Butler",
+        "age": 28,
+        "gender": "female",
+        "address": "3628 Chris Hill Suite 870, Taylorfort, OH 08565",
+        "phone": "740-461-5225",
+        "email": "candicewarren@example.net",
+        "account": {
+            "account_number": "245dc259-c0b2-4c01-96b2-e068b12bb6c3",
+            "balance": 2233.51,
+            "transactions": [
+                {
+                    "date": "2024-03-04",
+                    "description": "Withdrawal",
+                    "amount": 36576.21,
+                    "transaction_id": 49209554
+                },
+                {
+                    "date": "2023-03-06",
+                    "description": "Deposit",
+                    "amount": 25398.5,
+                    "transaction_id": 93903355
+                },
+                {
+                    "date": "2023-03-18",
+                    "description": "Interest",
+                    "amount": 30850.28,
+                    "transaction_id": 43108399
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 80,
+        "gender": "female",
+        "address": "08437 Harris Tunnel, Mooremouth, FL 87897",
+        "phone": "226.779.1448",
+        "email": "russokaren@example.net",
+        "account": {
+            "account_number": "a462f86d-728d-4d29-9e32-c24c8defcca7",
+            "balance": 13824.74,
+            "transactions": [
+                {
+                    "date": "2024-04-11",
+                    "description": "Deposit",
+                    "amount": 3420.43,
+                    "transaction_id": 11300121
+                },
+                {
+                    "date": "2023-04-09",
+                    "description": "Withdrawal",
+                    "amount": -6.22,
+                    "transaction_id": 58495909
+                },
+                {
+                    "date": "2022-11-23",
+                    "description": "Interest",
+                    "amount": 2883.63,
+                    "transaction_id": 2935171
+                }
+            ]
+        }
+    }
+}

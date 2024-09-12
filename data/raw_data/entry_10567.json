@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 73,
+        "gender": "female",
+        "address": "02084 Norton Station, West Mariahshire, ME 19748",
+        "phone": "(738)218-5210",
+        "email": "teresadavis@example.com",
+        "account": {
+            "account_number": "6da5b3f7-4039-42ce-99ee-981918df8b81",
+            "balance": 36055.92,
+            "transactions": [
+                {
+                    "date": "2022-11-03",
+                    "description": "Interest",
+                    "amount": -3170.54,
+                    "transaction_id": 103479306
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Interest",
+                    "amount": 1262.61,
+                    "transaction_id": 35292828
+                }
+            ]
+        }
+    }
+}

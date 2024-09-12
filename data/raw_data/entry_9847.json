@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Natalie Rodriguez",
+        "age": 51,
+        "gender": "male",
+        "address": "8445 Lisa Villages Apt. 418, Lorettaborough, AZ 98072",
+        "phone": "(442)616-1388",
+        "email": "rlane@example.org",
+        "account": {
+            "account_number": "a948aee1-e917-414f-90ae-f0cd10903042",
+            "balance": -36455.33,
+            "transactions": [
+                {
+                    "date": "2023-12-09",
+                    "description": "Deposit",
+                    "amount": -2643.9,
+                    "transaction_id": 112454335
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Deposit",
+                    "amount": 4019.7,
+                    "transaction_id": 45436637
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Withdrawal",
+                    "amount": -93.53,
+                    "transaction_id": 73235744
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Interest",
+                    "amount": -4815.6,
+                    "transaction_id": 22541148
+                },
+                {
+                    "date": "2024-02-23",
+                    "description": "Interest",
+                    "amount": -671.86,
+                    "transaction_id": 56926873
+                }
+            ]
+        }
+    }
+}

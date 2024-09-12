@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Todd Hernandez",
+        "age": 89,
+        "gender": "female",
+        "address": "21036 Donna View, South Michele, NV 58181",
+        "phone": "001-348-351-8089x77932",
+        "email": "melissafernandez@example.com",
+        "account": {
+            "account_number": "2e9a412a-16d6-4ddd-b427-82d4b928add8",
+            "balance": 37297.91,
+            "transactions": [
+                {
+                    "date": "2022-12-14",
+                    "description": "Deposit",
+                    "amount": 36259.43,
+                    "transaction_id": 50581243
+                },
+                {
+                    "date": "2023-10-05",
+                    "description": "Withdrawal",
+                    "amount": 31240.54,
+                    "transaction_id": 36588596
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Withdrawal",
+                    "amount": 19443.98,
+                    "transaction_id": 117290561
+                },
+                {
+                    "date": "2024-07-26",
+                    "description": "Interest",
+                    "amount": 20140.96,
+                    "transaction_id": 47684248
+                },
+                {
+                    "date": "2023-11-19",
+                    "description": "Deposit",
+                    "amount": 29998.48,
+                    "transaction_id": 12686064
+                }
+            ]
+        }
+    }
+}

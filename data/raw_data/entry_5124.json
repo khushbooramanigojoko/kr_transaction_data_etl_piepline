@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Spencer Gallagher",
+        "age": 54,
+        "gender": "male",
+        "address": "691 Mary Keys, Kimberlyside, GA 77763",
+        "phone": "001-431-998-2080x784",
+        "email": "vrussell@example.net",
+        "account": {
+            "account_number": "48f97980-f87d-4e00-b098-d7a9ffe1e23c",
+            "balance": 30965.3,
+            "transactions": [
+                {
+                    "date": "2023-04-23",
+                    "description": "Interest",
+                    "amount": 24692.56,
+                    "transaction_id": 69796190
+                },
+                {
+                    "date": "2023-01-01",
+                    "description": "Deposit",
+                    "amount": 24119.53,
+                    "transaction_id": 80392791
+                },
+                {
+                    "date": "2024-07-13",
+                    "description": "Withdrawal",
+                    "amount": 5501.58,
+                    "transaction_id": 21205880
+                }
+            ]
+        }
+    }
+}

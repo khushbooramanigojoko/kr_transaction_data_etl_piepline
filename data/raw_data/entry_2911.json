@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Gregory Perez",
+        "age": 69,
+        "gender": "female",
+        "address": "4415 Proctor Alley, Port Joel, VT 83580",
+        "phone": "001-754-443-1099x239",
+        "email": "cortezkenneth@example.com",
+        "account": {
+            "account_number": "2319e3d2-1b40-405d-b4fa-dff94e6dfe07",
+            "balance": 26722.64,
+            "transactions": [
+                {
+                    "date": "2023-11-23",
+                    "description": "Interest",
+                    "amount": 17847.76,
+                    "transaction_id": 83023960
+                },
+                {
+                    "date": "2022-12-19",
+                    "description": "Interest",
+                    "amount": 48921.78,
+                    "transaction_id": 21145543
+                },
+                {
+                    "date": "2024-02-08",
+                    "description": "Withdrawal",
+                    "amount": 25142.04,
+                    "transaction_id": 106694759
+                },
+                {
+                    "date": "2023-07-31",
+                    "description": "Withdrawal",
+                    "amount": 23963.81,
+                    "transaction_id": 57367794
+                },
+                {
+                    "date": "2023-06-07",
+                    "description": "Deposit",
+                    "amount": 36702.01,
+                    "transaction_id": 8347334
+                }
+            ]
+        }
+    }
+}

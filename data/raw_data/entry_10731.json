@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brian Rice",
+        "age": 96,
+        "gender": "male",
+        "address": "Unit 5297 Box 5383, DPO AE 91910",
+        "phone": "902.345.6611x331",
+        "email": "deannapugh@example.com",
+        "account": {
+            "account_number": "bee47c21-87eb-41e8-ad58-7c6fb9fd108e",
+            "balance": -156.27,
+            "transactions": [
+                {
+                    "date": "2023-09-01",
+                    "description": "Interest",
+                    "amount": -4796.61,
+                    "transaction_id": 106953412
+                },
+                {
+                    "date": "2024-03-04",
+                    "description": "Withdrawal",
+                    "amount": -1245.7,
+                    "transaction_id": 30236693
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Withdrawal",
+                    "amount": -503.48,
+                    "transaction_id": 92494924
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Deposit",
+                    "amount": 399.81,
+                    "transaction_id": 116237761
+                }
+            ]
+        }
+    }
+}

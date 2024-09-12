@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ryan Richardson",
+        "age": 86,
+        "gender": "female",
+        "address": "6552 Margaret Grove, Darlenestad, MT 16924",
+        "phone": "(600)369-1006x48261",
+        "email": "rodriguezsean@example.com",
+        "account": {
+            "account_number": "fbf6e76c-9321-4309-b97d-5b469334d71c",
+            "balance": 28359.37,
+            "transactions": [
+                {
+                    "date": "2023-11-05",
+                    "description": "Interest",
+                    "amount": 47649.59,
+                    "transaction_id": 47393811
+                },
+                {
+                    "date": "2023-11-21",
+                    "description": "Withdrawal",
+                    "amount": 40709.84,
+                    "transaction_id": 9181916
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Deposit",
+                    "amount": 29438.02,
+                    "transaction_id": 40405998
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Interest",
+                    "amount": 44198.39,
+                    "transaction_id": 84350488
+                }
+            ]
+        }
+    }
+}

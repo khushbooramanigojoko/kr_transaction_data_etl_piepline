@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mr. Ricky Cooper",
+        "age": 99,
+        "gender": "female",
+        "address": "574 John Causeway, South Jenniferchester, UT 04309",
+        "phone": "792.817.0721",
+        "email": "kelsey54@example.com",
+        "account": {
+            "account_number": "0164a9ec-354c-4f79-9b99-8599391938f8",
+            "balance": 12484.35,
+            "transactions": [
+                {
+                    "date": "2022-12-19",
+                    "description": "Deposit",
+                    "amount": 4233.58,
+                    "transaction_id": 21112719
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Interest",
+                    "amount": 46267.97,
+                    "transaction_id": 30691315
+                },
+                {
+                    "date": "2024-03-08",
+                    "description": "Interest",
+                    "amount": 43012.56,
+                    "transaction_id": 102123264
+                },
+                {
+                    "date": "2023-07-02",
+                    "description": "Deposit",
+                    "amount": 13073.96,
+                    "transaction_id": 16080792
+                }
+            ]
+        }
+    }
+}

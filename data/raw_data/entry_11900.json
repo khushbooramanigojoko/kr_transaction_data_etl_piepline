@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joshua Baker",
+        "age": 86,
+        "gender": "male",
+        "address": "Unit 2131 Box 1695, DPO AP 19750",
+        "phone": "872.590.5496",
+        "email": "sarahsmith@example.net",
+        "account": {
+            "account_number": "d6719685-86fe-43e0-b1ec-86b613e75c61",
+            "balance": -14227.11,
+            "transactions": [
+                {
+                    "date": "2023-06-22",
+                    "description": "Interest",
+                    "amount": 2938.79,
+                    "transaction_id": 51778217
+                },
+                {
+                    "date": "2024-07-19",
+                    "description": "Withdrawal",
+                    "amount": -3473.66,
+                    "transaction_id": 19339875
+                },
+                {
+                    "date": "2023-10-29",
+                    "description": "Deposit",
+                    "amount": 4444.33,
+                    "transaction_id": 26651520
+                },
+                {
+                    "date": "2023-11-05",
+                    "description": "Deposit",
+                    "amount": 4707.03,
+                    "transaction_id": 89601334
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 36,
+        "gender": "female",
+        "address": "PSC 1895, Box 4768, APO AP 50418",
+        "phone": "+1-995-652-5312x17841",
+        "email": "brianowens@example.net",
+        "account": {
+            "account_number": "f9bb9887-4671-4723-88ca-77f6f65b092e",
+            "balance": 38872.37,
+            "transactions": [
+                {
+                    "date": "2024-03-24",
+                    "description": "Interest",
+                    "amount": 1776.9,
+                    "transaction_id": 26153292
+                },
+                {
+                    "date": "2024-03-29",
+                    "description": "Deposit",
+                    "amount": 3196.51,
+                    "transaction_id": 104333393
+                }
+            ]
+        }
+    }
+}

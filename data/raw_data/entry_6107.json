@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Shelby Bird",
+        "age": 39,
+        "gender": "female",
+        "address": "60173 Martin Groves Suite 012, Lake Gordonfort, FM 81378",
+        "phone": "9442955707",
+        "email": "jamie87@example.org",
+        "account": {
+            "account_number": "8134a8d2-47cd-4691-8506-947cd2420317",
+            "balance": 12179.07,
+            "transactions": [
+                {
+                    "date": "2024-07-28",
+                    "description": "Withdrawal",
+                    "amount": 35790.2,
+                    "transaction_id": 26223897
+                },
+                {
+                    "date": "2023-12-18",
+                    "description": "Interest",
+                    "amount": 8677.76,
+                    "transaction_id": 12160933
+                },
+                {
+                    "date": "2024-07-04",
+                    "description": "Deposit",
+                    "amount": 30047.64,
+                    "transaction_id": 20717765
+                },
+                {
+                    "date": "2022-10-12",
+                    "description": "Withdrawal",
+                    "amount": 20305.69,
+                    "transaction_id": 7593813
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Interest",
+                    "amount": 1574.35,
+                    "transaction_id": 110844394
+                }
+            ]
+        }
+    }
+}

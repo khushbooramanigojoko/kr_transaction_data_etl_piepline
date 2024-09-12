@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph Mccullough",
+        "age": 67,
+        "gender": "male",
+        "address": "12520 Joseph Pike Apt. 697, West Lorraine, KY 98553",
+        "phone": "(795)812-1363x552",
+        "email": "smoore@example.org",
+        "account": {
+            "account_number": "b2beab48-ba4c-452b-b20e-4d5a1fc92c1a",
+            "balance": 47912.53,
+            "transactions": [
+                {
+                    "date": "2022-12-31",
+                    "description": "Interest",
+                    "amount": 21248.18,
+                    "transaction_id": 48391701
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Deposit",
+                    "amount": 17893.01,
+                    "transaction_id": 31980799
+                },
+                {
+                    "date": "2023-02-03",
+                    "description": "Interest",
+                    "amount": 3312.3,
+                    "transaction_id": 106491039
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Withdrawal",
+                    "amount": 29218.05,
+                    "transaction_id": 110640687
+                }
+            ]
+        }
+    }
+}

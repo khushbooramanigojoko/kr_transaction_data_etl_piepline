@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Beth Johnson",
+        "age": 76,
+        "gender": "male",
+        "address": "461 Julie Ridge, Lake Brandihaven, MH 07798",
+        "phone": "+1-246-508-3560x72052",
+        "email": "lisaphelps@example.com",
+        "account": {
+            "account_number": "ca07dcd8-2d86-42c3-becc-05128a741b9f",
+            "balance": 27575.93,
+            "transactions": [
+                {
+                    "date": "2023-04-19",
+                    "description": "Deposit",
+                    "amount": 37932.76,
+                    "transaction_id": 106850087
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Interest",
+                    "amount": 35458.12,
+                    "transaction_id": 82868654
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Samantha Hess",
+        "age": 72,
+        "gender": "male",
+        "address": "0922 Perry Village Apt. 781, Josephberg, MD 69417",
+        "phone": "(977)564-5401",
+        "email": "woodwardvictor@example.net",
+        "account": {
+            "account_number": "7dcce8cd-973c-4ef9-b430-172253d809ac",
+            "balance": 31977.26,
+            "transactions": [
+                {
+                    "date": "2024-08-12",
+                    "description": "Interest",
+                    "amount": 514.72,
+                    "transaction_id": 112798967
+                }
+            ]
+        }
+    }
+}

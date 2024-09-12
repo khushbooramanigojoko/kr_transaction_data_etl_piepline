@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 44,
+        "gender": "female",
+        "address": "613 Sanders Mountain Suite 344, East Collin, MT 69857",
+        "phone": "001-233-441-7080",
+        "email": "james64@example.com",
+        "account": {
+            "account_number": "7c2acb71-5dbe-4b2d-96d4-79e9cfc6ca32",
+            "balance": 21945.61,
+            "transactions": [
+                {
+                    "date": "2023-10-30",
+                    "description": "Deposit",
+                    "amount": -2601.61,
+                    "transaction_id": 52938105
+                },
+                {
+                    "date": "2023-04-30",
+                    "description": "Withdrawal",
+                    "amount": 4524.69,
+                    "transaction_id": 30066088
+                }
+            ]
+        }
+    }
+}

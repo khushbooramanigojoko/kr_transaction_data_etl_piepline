@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Susan Wright",
+        "age": 61,
+        "gender": "female",
+        "address": "Unit 7233 Box 7329, DPO AA 56587",
+        "phone": "+1-666-254-3286",
+        "email": "obrienjennifer@example.net",
+        "account": {
+            "account_number": "064dd925-ba2e-4c7e-855b-203787d1598d",
+            "balance": 28127.98,
+            "transactions": [
+                {
+                    "date": "2022-12-19",
+                    "description": "Interest",
+                    "amount": 16330.36,
+                    "transaction_id": 18759079
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Eric Suarez",
+        "age": 96,
+        "gender": "male",
+        "address": "085 Warren Mission Apt. 595, East Thomas, RI 38577",
+        "phone": "+1-862-932-4583x634",
+        "email": "davidharris@example.com",
+        "account": {
+            "account_number": "8c7bf2ff-0cfc-48fa-a402-a124d7f9130c",
+            "balance": -5768.02,
+            "transactions": [
+                {
+                    "date": "2023-08-30",
+                    "description": "Withdrawal",
+                    "amount": 629.36,
+                    "transaction_id": 43622481
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Withdrawal",
+                    "amount": -2821.24,
+                    "transaction_id": 65550010
+                },
+                {
+                    "date": "2024-08-22",
+                    "description": "Interest",
+                    "amount": 4246.51,
+                    "transaction_id": 6443310
+                },
+                {
+                    "date": "2024-02-18",
+                    "description": "Deposit",
+                    "amount": -3899.27,
+                    "transaction_id": 27906483
+                }
+            ]
+        }
+    }
+}

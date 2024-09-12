@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Holt",
+        "age": 91,
+        "gender": "male",
+        "address": "49119 April Lake, South Barbaraville, NV 39477",
+        "phone": "5846379228",
+        "email": "jamesmckinney@example.com",
+        "account": {
+            "account_number": "4e0013da-8f8a-4d7d-9ae8-48085ad12e00",
+            "balance": 21179.08,
+            "transactions": [
+                {
+                    "date": "2024-03-23",
+                    "description": "Deposit",
+                    "amount": 4507.2,
+                    "transaction_id": 1539196
+                }
+            ]
+        }
+    }
+}

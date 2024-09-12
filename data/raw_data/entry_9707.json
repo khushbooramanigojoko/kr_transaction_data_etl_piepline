@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 39,
+        "gender": "female",
+        "address": "1967 Dawn Street, Millerville, ND 14182",
+        "phone": "664-772-7452x8591",
+        "email": "rsolis@example.com",
+        "account": {
+            "account_number": "3b015f53-ee40-43cd-867c-c2d0ebfa1f37",
+            "balance": 42900.61,
+            "transactions": [
+                {
+                    "date": "2023-05-25",
+                    "description": "Withdrawal",
+                    "amount": -1885.43,
+                    "transaction_id": 109643464
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Withdrawal",
+                    "amount": -4952.07,
+                    "transaction_id": 38827880
+                },
+                {
+                    "date": "2024-07-18",
+                    "description": "Withdrawal",
+                    "amount": 1852.07,
+                    "transaction_id": 27289075
+                }
+            ]
+        }
+    }
+}

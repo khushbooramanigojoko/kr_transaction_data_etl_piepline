@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kimberly Lee",
+        "age": 85,
+        "gender": "male",
+        "address": "21767 Sarah Cliffs Apt. 077, Lucasberg, RI 62139",
+        "phone": "465.952.4964",
+        "email": "rowedana@example.org",
+        "account": {
+            "account_number": "2c05cde6-66ee-42a7-87f7-e2e1867b7f2a",
+            "balance": 8916.8,
+            "transactions": [
+                {
+                    "date": "2023-07-04",
+                    "description": "Interest",
+                    "amount": 20729.89,
+                    "transaction_id": 22682945
+                },
+                {
+                    "date": "2024-08-11",
+                    "description": "Interest",
+                    "amount": 38507.49,
+                    "transaction_id": 23025836
+                },
+                {
+                    "date": "2023-05-27",
+                    "description": "Interest",
+                    "amount": 45802.9,
+                    "transaction_id": 93053401
+                }
+            ]
+        }
+    }
+}

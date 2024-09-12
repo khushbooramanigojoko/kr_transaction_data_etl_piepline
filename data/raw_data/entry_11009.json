@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kristi Rodriguez",
+        "age": 77,
+        "gender": "female",
+        "address": "889 Jose Circles Apt. 835, Connerbury, TN 13672",
+        "phone": "(707)322-9164x6572",
+        "email": "campbelljennifer@example.com",
+        "account": {
+            "account_number": "ffb55bcc-18bf-43d0-8cf2-b612fa680be8",
+            "balance": -28076.21,
+            "transactions": [
+                {
+                    "date": "2023-02-20",
+                    "description": "Deposit",
+                    "amount": 3961.67,
+                    "transaction_id": 84103552
+                },
+                {
+                    "date": "2023-09-02",
+                    "description": "Interest",
+                    "amount": -3794.06,
+                    "transaction_id": 106776246
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Patrick Hardy",
+        "age": 51,
+        "gender": "female",
+        "address": "93787 Jackson Pines, East Michaelhaven, NY 68791",
+        "phone": "(350)324-9506",
+        "email": "brian74@example.com",
+        "account": {
+            "account_number": "53a02153-6c78-472a-b1ee-32afec458532",
+            "balance": 6809.3,
+            "transactions": [
+                {
+                    "date": "2023-10-18",
+                    "description": "Deposit",
+                    "amount": 38625.11,
+                    "transaction_id": 60895202
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Interest",
+                    "amount": 24313.15,
+                    "transaction_id": 58857995
+                },
+                {
+                    "date": "2023-06-05",
+                    "description": "Interest",
+                    "amount": 4170.2,
+                    "transaction_id": 2749835
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Withdrawal",
+                    "amount": 41160.84,
+                    "transaction_id": 2040896
+                }
+            ]
+        }
+    }
+}

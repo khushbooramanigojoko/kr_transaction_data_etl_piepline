@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kenneth Maynard",
+        "age": 79,
+        "gender": "male",
+        "address": "837 Jo Common Suite 990, Angelaburgh, KY 48128",
+        "phone": "608.346.8989x5359",
+        "email": "rjordan@example.com",
+        "account": {
+            "account_number": "6eda69a9-83e0-47ec-9269-ee85bdf531b1",
+            "balance": 27956.05,
+            "transactions": [
+                {
+                    "date": "2023-09-26",
+                    "description": "Deposit",
+                    "amount": 9222.14,
+                    "transaction_id": 84042302
+                },
+                {
+                    "date": "2023-05-15",
+                    "description": "Withdrawal",
+                    "amount": 23022.64,
+                    "transaction_id": 33232147
+                },
+                {
+                    "date": "2023-05-04",
+                    "description": "Deposit",
+                    "amount": 7605.09,
+                    "transaction_id": 47978262
+                },
+                {
+                    "date": "2023-03-27",
+                    "description": "Deposit",
+                    "amount": 47164.65,
+                    "transaction_id": 20520657
+                },
+                {
+                    "date": "2024-03-23",
+                    "description": "Withdrawal",
+                    "amount": 5809.75,
+                    "transaction_id": 99598319
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kayla Rhodes",
+        "age": 36,
+        "gender": "female",
+        "address": "9605 Lauren Fields Apt. 251, New Kimberlyville, WY 36119",
+        "phone": "908-739-3443x9366",
+        "email": "ryanwilliams@example.org",
+        "account": {
+            "account_number": "7248b2e4-650a-47cf-aeea-d9b75ce39111",
+            "balance": 35754.73,
+            "transactions": [
+                {
+                    "date": "2023-07-12",
+                    "description": "Withdrawal",
+                    "amount": 28439.8,
+                    "transaction_id": 2929484
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Interest",
+                    "amount": 30212.38,
+                    "transaction_id": 73389383
+                }
+            ]
+        }
+    }
+}

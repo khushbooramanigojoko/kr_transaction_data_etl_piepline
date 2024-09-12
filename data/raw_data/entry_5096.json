@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ryan Grant",
+        "age": 81,
+        "gender": "female",
+        "address": "72631 Alexander Radial Suite 570, Davidview, KY 71183",
+        "phone": "001-395-657-3446x284",
+        "email": "jonesjohn@example.net",
+        "account": {
+            "account_number": "05c3bf60-7cc8-40b5-ab10-ed77a2645dac",
+            "balance": 17772.97,
+            "transactions": [
+                {
+                    "date": "2024-02-29",
+                    "description": "Deposit",
+                    "amount": 27288.67,
+                    "transaction_id": 87668089
+                },
+                {
+                    "date": "2024-06-26",
+                    "description": "Deposit",
+                    "amount": 23871.04,
+                    "transaction_id": 52759620
+                },
+                {
+                    "date": "2023-02-21",
+                    "description": "Interest",
+                    "amount": 18367.39,
+                    "transaction_id": 18328025
+                },
+                {
+                    "date": "2023-11-16",
+                    "description": "Interest",
+                    "amount": 14091.09,
+                    "transaction_id": 46943089
+                }
+            ]
+        }
+    }
+}

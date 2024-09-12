@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Robert Sanchez",
+        "age": 53,
+        "gender": "male",
+        "address": "7153 Hart Vista Suite 788, South Theresaside, MI 64553",
+        "phone": "001-226-906-0058",
+        "email": "shelbyreynolds@example.net",
+        "account": {
+            "account_number": "53f9ed98-926b-4473-a38f-3919e1e9e8b4",
+            "balance": 4687.66,
+            "transactions": [
+                {
+                    "date": "2023-05-24",
+                    "description": "Withdrawal",
+                    "amount": 41760.6,
+                    "transaction_id": 118017734
+                },
+                {
+                    "date": "2023-07-20",
+                    "description": "Interest",
+                    "amount": 20081.74,
+                    "transaction_id": 46096386
+                },
+                {
+                    "date": "2022-11-14",
+                    "description": "Withdrawal",
+                    "amount": 41627.73,
+                    "transaction_id": 83350814
+                }
+            ]
+        }
+    }
+}

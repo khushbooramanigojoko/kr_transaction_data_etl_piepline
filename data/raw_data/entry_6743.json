@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Cheryl Deleon",
+        "age": 30,
+        "gender": "male",
+        "address": "5744 Donna Garden, Lake Alejandrofort, SC 93334",
+        "phone": "617-866-3453",
+        "email": "jasmine79@example.org",
+        "account": {
+            "account_number": "90b1ee04-8235-447d-813f-736cc41e675d",
+            "balance": 3470.54,
+            "transactions": [
+                {
+                    "date": "2022-09-21",
+                    "description": "Deposit",
+                    "amount": 10470.86,
+                    "transaction_id": 89409911
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Interest",
+                    "amount": 33717.55,
+                    "transaction_id": 30369507
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Deposit",
+                    "amount": 256.49,
+                    "transaction_id": 89869096
+                }
+            ]
+        }
+    }
+}

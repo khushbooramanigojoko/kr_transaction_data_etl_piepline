@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jason Willis",
+        "age": 21,
+        "gender": "female",
+        "address": "73301 Aaron Port Suite 742, Castanedaville, TX 05776",
+        "phone": "(821)364-9816",
+        "email": "jwright@example.org",
+        "account": {
+            "account_number": "c290977f-2232-4f9e-95ea-acb6f6402362",
+            "balance": 10588.12,
+            "transactions": [
+                {
+                    "date": "2024-08-20",
+                    "description": "Deposit",
+                    "amount": 17884.56,
+                    "transaction_id": 40430450
+                }
+            ]
+        }
+    }
+}

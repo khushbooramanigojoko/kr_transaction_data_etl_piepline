@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "John Buckley",
+        "age": 86,
+        "gender": "female",
+        "address": "0866 Mary Canyon Apt. 923, Davidview, NC 09291",
+        "phone": "261-948-0114",
+        "email": "mary61@example.org",
+        "account": {
+            "account_number": "4cbb38a9-4bcc-47e3-892d-9045f05d883c",
+            "balance": 31064.85,
+            "transactions": [
+                {
+                    "date": "2024-08-06",
+                    "description": "Deposit",
+                    "amount": 183.72,
+                    "transaction_id": 31157807
+                },
+                {
+                    "date": "2024-07-24",
+                    "description": "Deposit",
+                    "amount": 18907.8,
+                    "transaction_id": 98583360
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Interest",
+                    "amount": 5793.0,
+                    "transaction_id": 86866121
+                }
+            ]
+        }
+    }
+}

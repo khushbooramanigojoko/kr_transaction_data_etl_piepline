@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kyle Patterson",
+        "age": 80,
+        "gender": "male",
+        "address": "572 Burke Cove Apt. 467, West Jamesside, IL 97535",
+        "phone": "001-342-904-4706",
+        "email": "christophercampbell@example.org",
+        "account": {
+            "account_number": "4810d7c9-e01b-4a06-9996-6bb41f734cfd",
+            "balance": -4770.47,
+            "transactions": [
+                {
+                    "date": "2022-12-22",
+                    "description": "Withdrawal",
+                    "amount": 3864.48,
+                    "transaction_id": 90632761
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Withdrawal",
+                    "amount": -4318.67,
+                    "transaction_id": 23396297
+                },
+                {
+                    "date": "2023-12-18",
+                    "description": "Withdrawal",
+                    "amount": -1745.73,
+                    "transaction_id": 96923325
+                }
+            ]
+        }
+    }
+}

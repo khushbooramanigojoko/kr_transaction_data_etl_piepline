@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jesse Hawkins",
+        "age": 56,
+        "gender": "male",
+        "address": "27197 Schneider Drive, West Sydneymouth, FM 25776",
+        "phone": "(383)706-1315",
+        "email": "jamesdunlap@example.net",
+        "account": {
+            "account_number": "2a964d64-63c0-428a-bb88-4e7f8265ee0c",
+            "balance": -17926.14,
+            "transactions": [
+                {
+                    "date": "2023-11-17",
+                    "description": "Deposit",
+                    "amount": -2489.14,
+                    "transaction_id": 64685352
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Interest",
+                    "amount": 3230.74,
+                    "transaction_id": 7335133
+                }
+            ]
+        }
+    }
+}

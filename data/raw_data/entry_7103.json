@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Yolanda Martinez",
+        "age": 32,
+        "gender": "male",
+        "address": "37228 Hicks Inlet Apt. 530, South Alan, NJ 35165",
+        "phone": "(303)228-0526x8519",
+        "email": "sotonicole@example.com",
+        "account": {
+            "account_number": "05814044-6348-469b-99ae-d2f0802a4b62",
+            "balance": 22887.87,
+            "transactions": [
+                {
+                    "date": "2023-11-10",
+                    "description": "Deposit",
+                    "amount": 41502.12,
+                    "transaction_id": 102519708
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Withdrawal",
+                    "amount": 15173.27,
+                    "transaction_id": 113818319
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Deposit",
+                    "amount": 19143.15,
+                    "transaction_id": 59899148
+                },
+                {
+                    "date": "2024-02-28",
+                    "description": "Withdrawal",
+                    "amount": 19536.69,
+                    "transaction_id": 114496455
+                },
+                {
+                    "date": "2024-01-10",
+                    "description": "Deposit",
+                    "amount": 17343.3,
+                    "transaction_id": 46591754
+                }
+            ]
+        }
+    }
+}

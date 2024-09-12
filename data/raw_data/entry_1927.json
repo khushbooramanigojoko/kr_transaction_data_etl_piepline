@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Penny James",
+        "age": 22,
+        "gender": "female",
+        "address": "1539 Kevin Ranch, South Tanyafort, IL 66275",
+        "phone": "+1-245-503-3320x073",
+        "email": "qtucker@example.com",
+        "account": {
+            "account_number": "1bcae138-b244-4ec1-9bf3-00396b6cd7fc",
+            "balance": 24593.67,
+            "transactions": [
+                {
+                    "date": "2023-11-28",
+                    "description": "Deposit",
+                    "amount": 5017.61,
+                    "transaction_id": 81104124
+                },
+                {
+                    "date": "2023-06-29",
+                    "description": "Withdrawal",
+                    "amount": 48282.36,
+                    "transaction_id": 108996108
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Interest",
+                    "amount": 9344.49,
+                    "transaction_id": 97079069
+                },
+                {
+                    "date": "2023-11-18",
+                    "description": "Interest",
+                    "amount": 745.72,
+                    "transaction_id": 2642088
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Interest",
+                    "amount": 44822.9,
+                    "transaction_id": 109907692
+                }
+            ]
+        }
+    }
+}

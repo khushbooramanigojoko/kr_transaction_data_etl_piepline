@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Roberto Baker",
+        "age": 43,
+        "gender": "male",
+        "address": "7259 Melinda Plains Apt. 784, Kristinshire, SC 96066",
+        "phone": "(712)823-0200x45776",
+        "email": "arose@example.com",
+        "account": {
+            "account_number": "ebfbc192-f53a-4a2d-a984-f2b8c9119e9b",
+            "balance": 43665.64,
+            "transactions": [
+                {
+                    "date": "2023-05-17",
+                    "description": "Interest",
+                    "amount": 16255.31,
+                    "transaction_id": 37980096
+                },
+                {
+                    "date": "2023-01-16",
+                    "description": "Interest",
+                    "amount": 38345.79,
+                    "transaction_id": 79284908
+                },
+                {
+                    "date": "2023-03-23",
+                    "description": "Deposit",
+                    "amount": 37049.03,
+                    "transaction_id": 35229089
+                },
+                {
+                    "date": "2022-12-03",
+                    "description": "Deposit",
+                    "amount": 38730.92,
+                    "transaction_id": 93347813
+                },
+                {
+                    "date": "2023-07-10",
+                    "description": "Deposit",
+                    "amount": 36773.72,
+                    "transaction_id": 29864489
+                }
+            ]
+        }
+    }
+}

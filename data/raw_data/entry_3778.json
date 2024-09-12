@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kimberly Keller",
+        "age": 23,
+        "gender": "female",
+        "address": "77191 Grant Inlet Apt. 514, South Julieview, NM 80269",
+        "phone": "445-869-8065x45987",
+        "email": "garzachristopher@example.org",
+        "account": {
+            "account_number": "4d56a32b-d63c-455f-bcf6-f220f88e38f1",
+            "balance": 12683.65,
+            "transactions": [
+                {
+                    "date": "2022-09-22",
+                    "description": "Deposit",
+                    "amount": 22281.86,
+                    "transaction_id": 105530141
+                },
+                {
+                    "date": "2024-05-07",
+                    "description": "Deposit",
+                    "amount": 33920.5,
+                    "transaction_id": 37970588
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Withdrawal",
+                    "amount": 23501.57,
+                    "transaction_id": 6424548
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Withdrawal",
+                    "amount": 27277.0,
+                    "transaction_id": 14525242
+                }
+            ]
+        }
+    }
+}

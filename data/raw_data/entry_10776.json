@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 69,
+        "gender": "male",
+        "address": "4091 James Field Suite 442, Kingstad, TN 27382",
+        "phone": "(640)547-4266x10007",
+        "email": "carly78@example.com",
+        "account": {
+            "account_number": "b71a44fb-00cb-4ad1-9e62-fccc09f92ee0",
+            "balance": 43885.52,
+            "transactions": [
+                {
+                    "date": "2023-07-07",
+                    "description": "Interest",
+                    "amount": 4421.09,
+                    "transaction_id": 4216136
+                }
+            ]
+        }
+    }
+}

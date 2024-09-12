@@ -1,0 +1,142 @@
+{
+    "customer": {
+        "name": "Amanda Mckay",
+        "age": 67,
+        "gender": "female",
+        "address": "7240 Burke Locks Apt. 850, South Christopher, MN 20621",
+        "phone": "821-209-4125",
+        "email": "bobjones@example.org",
+        "account": {
+            "account_number": "54aea97b-3617-493e-8cf9-1d2d345e1e0c",
+            "balance": 4694.23,
+            "transactions": [
+                {
+                    "date": "2024-01-03",
+                    "description": "Purchase",
+                    "amount": 3499.57,
+                    "transaction_id": 219480485
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Refund",
+                    "amount": 434.01,
+                    "transaction_id": 163015940
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Interest",
+                    "amount": 2479.9,
+                    "transaction_id": 303290937
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Fee",
+                    "amount": 2945.44,
+                    "transaction_id": 852991995
+                },
+                {
+                    "date": "2024-03-05",
+                    "description": "Interest",
+                    "amount": 2060.24,
+                    "transaction_id": 167164429
+                },
+                {
+                    "date": "2023-12-13",
+                    "description": "Purchase",
+                    "amount": 2865.61,
+                    "transaction_id": 247805412
+                },
+                {
+                    "date": "2024-05-30",
+                    "description": "Interest",
+                    "amount": -860.66,
+                    "transaction_id": 135672023
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Refund",
+                    "amount": -513.97,
+                    "transaction_id": 921649642
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Refund",
+                    "amount": 2352.12,
+                    "transaction_id": 556921726
+                },
+                {
+                    "date": "2023-11-10",
+                    "description": "Fee",
+                    "amount": 921.44,
+                    "transaction_id": 668547292
+                },
+                {
+                    "date": "2024-06-27",
+                    "description": "Interest",
+                    "amount": 3108.58,
+                    "transaction_id": 608907076
+                },
+                {
+                    "date": "2024-07-21",
+                    "description": "Purchase",
+                    "amount": 2774.45,
+                    "transaction_id": 708947953
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Interest",
+                    "amount": 1713.88,
+                    "transaction_id": 487924252
+                },
+                {
+                    "date": "2023-09-15",
+                    "description": "Purchase",
+                    "amount": 3558.24,
+                    "transaction_id": 613726663
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Interest",
+                    "amount": 127.84,
+                    "transaction_id": 285491009
+                },
+                {
+                    "date": "2024-07-16",
+                    "description": "Fee",
+                    "amount": 1815.07,
+                    "transaction_id": 864440626
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Fee",
+                    "amount": 1512.64,
+                    "transaction_id": 636342398
+                },
+                {
+                    "date": "2024-08-29",
+                    "description": "Fee",
+                    "amount": -469.66,
+                    "transaction_id": 738530879
+                },
+                {
+                    "date": "2024-08-22",
+                    "description": "Interest",
+                    "amount": 3210.92,
+                    "transaction_id": 467772536
+                },
+                {
+                    "date": "2024-08-19",
+                    "description": "Purchase",
+                    "amount": 4055.52,
+                    "transaction_id": 356816351
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Fee",
+                    "amount": -155.69,
+                    "transaction_id": 996123305
+                }
+            ]
+        }
+    }
+}

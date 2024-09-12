@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Benjamin Scott",
+        "age": 97,
+        "gender": "male",
+        "address": "11816 Flores Fort, Patelville, FM 12381",
+        "phone": "289.287.8156x400",
+        "email": "connie53@example.net",
+        "account": {
+            "account_number": "1754ddb9-440d-4d01-af49-465acd13ac81",
+            "balance": 6921.14,
+            "transactions": [
+                {
+                    "date": "2022-11-27",
+                    "description": "Withdrawal",
+                    "amount": 43889.58,
+                    "transaction_id": 114376860
+                },
+                {
+                    "date": "2023-04-05",
+                    "description": "Interest",
+                    "amount": 7691.11,
+                    "transaction_id": 51034010
+                }
+            ]
+        }
+    }
+}

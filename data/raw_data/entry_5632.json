@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jackson Rose",
+        "age": 87,
+        "gender": "female",
+        "address": "21974 Jason Inlet, North Marc, AL 36087",
+        "phone": "560-259-1618x17475",
+        "email": "wmartin@example.com",
+        "account": {
+            "account_number": "f2590196-b9d8-474a-82d2-8ca2eafaaf47",
+            "balance": 44437.0,
+            "transactions": [
+                {
+                    "date": "2023-01-30",
+                    "description": "Withdrawal",
+                    "amount": 39936.83,
+                    "transaction_id": 66385359
+                },
+                {
+                    "date": "2024-07-04",
+                    "description": "Withdrawal",
+                    "amount": 39502.46,
+                    "transaction_id": 22759952
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Deposit",
+                    "amount": 23151.67,
+                    "transaction_id": 30957821
+                }
+            ]
+        }
+    }
+}

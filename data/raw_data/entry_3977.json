@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kristen Little",
+        "age": 99,
+        "gender": "male",
+        "address": "63425 Martin Trail Apt. 190, Lopezbury, VT 29389",
+        "phone": "939-294-3196x4329",
+        "email": "dana11@example.org",
+        "account": {
+            "account_number": "e9336348-41e0-4a12-a25d-d7073f0ca3f2",
+            "balance": 2989.07,
+            "transactions": [
+                {
+                    "date": "2023-01-17",
+                    "description": "Deposit",
+                    "amount": 23625.96,
+                    "transaction_id": 52708690
+                },
+                {
+                    "date": "2022-11-13",
+                    "description": "Withdrawal",
+                    "amount": 26563.12,
+                    "transaction_id": 90111065
+                }
+            ]
+        }
+    }
+}

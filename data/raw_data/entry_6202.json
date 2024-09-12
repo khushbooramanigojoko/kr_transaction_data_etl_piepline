@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Blanchard",
+        "age": 27,
+        "gender": "female",
+        "address": "1305 Maria Alley, Reedton, UT 87484",
+        "phone": "+1-408-491-5694",
+        "email": "ataylor@example.com",
+        "account": {
+            "account_number": "957667df-5a21-44fa-85cd-6ead599ce24f",
+            "balance": 32198.21,
+            "transactions": [
+                {
+                    "date": "2023-04-22",
+                    "description": "Deposit",
+                    "amount": 31059.6,
+                    "transaction_id": 77306631
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": 1865.55,
+                    "transaction_id": 25186756
+                },
+                {
+                    "date": "2024-08-22",
+                    "description": "Withdrawal",
+                    "amount": 23652.45,
+                    "transaction_id": 62867991
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Withdrawal",
+                    "amount": 20818.24,
+                    "transaction_id": 44173095
+                }
+            ]
+        }
+    }
+}

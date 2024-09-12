@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joshua Harris",
+        "age": 41,
+        "gender": "male",
+        "address": "745 Kim Rapids Apt. 626, North Judyland, DC 93948",
+        "phone": "9034726383",
+        "email": "richardmoore@example.org",
+        "account": {
+            "account_number": "b3c95c1c-b68b-426a-b9f0-a1f7b88315f8",
+            "balance": 47381.7,
+            "transactions": [
+                {
+                    "date": "2023-06-04",
+                    "description": "Withdrawal",
+                    "amount": 5033.68,
+                    "transaction_id": 87217643
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Interest",
+                    "amount": 552.35,
+                    "transaction_id": 53354947
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Withdrawal",
+                    "amount": 31360.77,
+                    "transaction_id": 95053983
+                }
+            ]
+        }
+    }
+}

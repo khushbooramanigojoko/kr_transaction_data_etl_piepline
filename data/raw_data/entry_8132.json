@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Matthew Lyons",
+        "age": 88,
+        "gender": "male",
+        "address": "417 Jesus Squares, South Randyhaven, MD 02956",
+        "phone": "+1-496-958-4271x48768",
+        "email": "morgankara@example.com",
+        "account": {
+            "account_number": "2e74f117-687c-499a-916d-c09d9f98c078",
+            "balance": 21436.31,
+            "transactions": [
+                {
+                    "date": "2024-04-04",
+                    "description": "Interest",
+                    "amount": 23451.53,
+                    "transaction_id": 13327570
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Withdrawal",
+                    "amount": 10770.95,
+                    "transaction_id": 75107822
+                },
+                {
+                    "date": "2024-04-13",
+                    "description": "Deposit",
+                    "amount": 42433.93,
+                    "transaction_id": 86660278
+                },
+                {
+                    "date": "2024-03-19",
+                    "description": "Interest",
+                    "amount": 41500.99,
+                    "transaction_id": 71199117
+                },
+                {
+                    "date": "2024-04-14",
+                    "description": "Withdrawal",
+                    "amount": 19769.78,
+                    "transaction_id": 56159062
+                }
+            ]
+        }
+    }
+}

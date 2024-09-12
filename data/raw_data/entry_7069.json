@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Alfred Brown",
+        "age": 89,
+        "gender": "male",
+        "address": "9772 Mason Creek Suite 677, New Brandonton, AL 44882",
+        "phone": "2226625459",
+        "email": "melaniewilson@example.org",
+        "account": {
+            "account_number": "eebbaf41-d771-423a-be0d-3f426aa78547",
+            "balance": 47115.21,
+            "transactions": [
+                {
+                    "date": "2024-05-31",
+                    "description": "Interest",
+                    "amount": 41407.39,
+                    "transaction_id": 91738787
+                },
+                {
+                    "date": "2023-01-01",
+                    "description": "Interest",
+                    "amount": 17146.03,
+                    "transaction_id": 27650662
+                },
+                {
+                    "date": "2023-06-03",
+                    "description": "Interest",
+                    "amount": 16494.33,
+                    "transaction_id": 42832819
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Interest",
+                    "amount": 39117.49,
+                    "transaction_id": 40423080
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Withdrawal",
+                    "amount": 46971.82,
+                    "transaction_id": 108436428
+                }
+            ]
+        }
+    }
+}

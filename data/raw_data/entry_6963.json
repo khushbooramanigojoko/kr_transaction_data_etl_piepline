@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mr. Randy Russell DVM",
+        "age": 47,
+        "gender": "male",
+        "address": "3358 Anderson Street, Port Heather, DC 98130",
+        "phone": "(606)646-4237",
+        "email": "katherinejoyce@example.org",
+        "account": {
+            "account_number": "63baeefc-82a5-428f-9192-de9081351c1c",
+            "balance": 22528.44,
+            "transactions": [
+                {
+                    "date": "2023-09-26",
+                    "description": "Withdrawal",
+                    "amount": 13100.14,
+                    "transaction_id": 96357753
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Deposit",
+                    "amount": 33612.72,
+                    "transaction_id": 93053065
+                },
+                {
+                    "date": "2023-08-01",
+                    "description": "Withdrawal",
+                    "amount": 27636.54,
+                    "transaction_id": 107055293
+                },
+                {
+                    "date": "2024-03-21",
+                    "description": "Withdrawal",
+                    "amount": 25824.82,
+                    "transaction_id": 118952780
+                }
+            ]
+        }
+    }
+}

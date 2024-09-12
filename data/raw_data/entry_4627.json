@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christopher Lawson",
+        "age": 68,
+        "gender": "female",
+        "address": "43546 Monica Highway, Orozcochester, NH 38016",
+        "phone": "+1-488-568-6688x6449",
+        "email": "baxtereric@example.net",
+        "account": {
+            "account_number": "3939ffa6-c00e-4a94-8cae-7a932b764a83",
+            "balance": 25144.36,
+            "transactions": [
+                {
+                    "date": "2022-12-21",
+                    "description": "Withdrawal",
+                    "amount": 7437.7,
+                    "transaction_id": 42297785
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Deposit",
+                    "amount": 35167.99,
+                    "transaction_id": 117477839
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stacy Johnston",
+        "age": 85,
+        "gender": "female",
+        "address": "61038 Wood Pike, Mosstown, VI 44213",
+        "phone": "+1-517-359-8235",
+        "email": "michelle92@example.net",
+        "account": {
+            "account_number": "77a38330-2e53-4905-91a8-004fa637cc36",
+            "balance": 47963.77,
+            "transactions": [
+                {
+                    "date": "2023-11-05",
+                    "description": "Deposit",
+                    "amount": 14617.53,
+                    "transaction_id": 2802517
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 90,
+        "gender": "female",
+        "address": "695 Kimberly Estates, Whiteberg, IA 43426",
+        "phone": "+1-306-611-6976x921",
+        "email": "steven81@example.org",
+        "account": {
+            "account_number": "f9e2ac36-43b6-4f51-89a8-af4f8c45ca19",
+            "balance": 32934.9,
+            "transactions": [
+                {
+                    "date": "2024-06-23",
+                    "description": "Deposit",
+                    "amount": -4380.6,
+                    "transaction_id": 7060910
+                }
+            ]
+        }
+    }
+}

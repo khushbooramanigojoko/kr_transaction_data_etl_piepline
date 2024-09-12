@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 46,
+        "gender": "male",
+        "address": "9749 Williams Parkway Suite 917, Davidsonton, UT 15118",
+        "phone": "3114884009",
+        "email": "yvaughn@example.net",
+        "account": {
+            "account_number": "cdd28cc7-8e11-4e97-875d-8b38c948cd3e",
+            "balance": 7677.56,
+            "transactions": [
+                {
+                    "date": "2023-02-26",
+                    "description": "Deposit",
+                    "amount": -3961.42,
+                    "transaction_id": 27350470
+                }
+            ]
+        }
+    }
+}

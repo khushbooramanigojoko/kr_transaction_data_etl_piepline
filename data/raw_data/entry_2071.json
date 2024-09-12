@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Eugene Moody",
+        "age": 33,
+        "gender": "female",
+        "address": "463 Kevin Parkways, Port Jasonview, WV 11309",
+        "phone": "362.210.6567x26525",
+        "email": "carla38@example.com",
+        "account": {
+            "account_number": "0cf8119e-ada6-431f-8f01-d0e668289c3c",
+            "balance": 5905.84,
+            "transactions": [
+                {
+                    "date": "2024-03-26",
+                    "description": "Interest",
+                    "amount": 24801.54,
+                    "transaction_id": 72046890
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Withdrawal",
+                    "amount": 14232.74,
+                    "transaction_id": 82298535
+                },
+                {
+                    "date": "2024-02-26",
+                    "description": "Deposit",
+                    "amount": 22900.83,
+                    "transaction_id": 42108628
+                }
+            ]
+        }
+    }
+}

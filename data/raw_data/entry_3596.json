@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ashley Page",
+        "age": 24,
+        "gender": "female",
+        "address": "216 Jessica Mission Suite 273, Delgadoton, MT 14626",
+        "phone": "+1-493-310-5529x039",
+        "email": "wilcoxmadeline@example.net",
+        "account": {
+            "account_number": "8aa43933-5175-43b7-a8f6-cae74e154c13",
+            "balance": 8929.77,
+            "transactions": [
+                {
+                    "date": "2023-01-23",
+                    "description": "Withdrawal",
+                    "amount": 30530.97,
+                    "transaction_id": 15374821
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Deposit",
+                    "amount": 37760.2,
+                    "transaction_id": 108575477
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Interest",
+                    "amount": 7266.45,
+                    "transaction_id": 92598587
+                },
+                {
+                    "date": "2023-07-12",
+                    "description": "Withdrawal",
+                    "amount": 40142.56,
+                    "transaction_id": 116700572
+                }
+            ]
+        }
+    }
+}

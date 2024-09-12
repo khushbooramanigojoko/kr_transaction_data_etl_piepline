@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Andre Cantrell",
+        "age": 33,
+        "gender": "male",
+        "address": "9439 Daniel Gardens, Amberbury, WV 05908",
+        "phone": "+1-418-798-6656x5484",
+        "email": "christopherhernandez@example.net",
+        "account": {
+            "account_number": "e236240e-afc5-4735-9bae-e0613c7f74d1",
+            "balance": 27936.42,
+            "transactions": [
+                {
+                    "date": "2023-04-09",
+                    "description": "Interest",
+                    "amount": 40030.55,
+                    "transaction_id": 118455418
+                },
+                {
+                    "date": "2023-04-16",
+                    "description": "Withdrawal",
+                    "amount": 31469.87,
+                    "transaction_id": 20024568
+                },
+                {
+                    "date": "2023-03-26",
+                    "description": "Withdrawal",
+                    "amount": 30150.44,
+                    "transaction_id": 116528856
+                },
+                {
+                    "date": "2023-07-03",
+                    "description": "Withdrawal",
+                    "amount": 44750.21,
+                    "transaction_id": 40764587
+                },
+                {
+                    "date": "2022-09-26",
+                    "description": "Deposit",
+                    "amount": 16460.23,
+                    "transaction_id": 68149619
+                }
+            ]
+        }
+    }
+}

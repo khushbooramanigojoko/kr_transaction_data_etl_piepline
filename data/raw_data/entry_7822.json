@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kimberly Burns",
+        "age": 39,
+        "gender": "female",
+        "address": "0470 Courtney Cove Apt. 445, East John, AS 48501",
+        "phone": "7367704553",
+        "email": "zklein@example.com",
+        "account": {
+            "account_number": "acb4dc7c-43a4-47eb-901d-9b22f9697829",
+            "balance": 27169.44,
+            "transactions": [
+                {
+                    "date": "2024-02-02",
+                    "description": "Interest",
+                    "amount": 4442.18,
+                    "transaction_id": 118753077
+                }
+            ]
+        }
+    }
+}

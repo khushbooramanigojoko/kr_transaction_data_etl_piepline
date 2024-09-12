@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Scott Silva",
+        "age": 98,
+        "gender": "female",
+        "address": "520 Lonnie Junctions, Longmouth, NH 92354",
+        "phone": "338-991-8296x34478",
+        "email": "brownduane@example.com",
+        "account": {
+            "account_number": "b58a054d-7185-46cc-aa3b-356d3d0c52f6",
+            "balance": 24409.29,
+            "transactions": [
+                {
+                    "date": "2023-05-16",
+                    "description": "Deposit",
+                    "amount": 25188.99,
+                    "transaction_id": 45704623
+                }
+            ]
+        }
+    }
+}

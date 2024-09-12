@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Victoria Evans",
+        "age": 65,
+        "gender": "male",
+        "address": "326 Johnson Motorway, Justinchester, PR 13663",
+        "phone": "001-923-509-7735x98131",
+        "email": "elizabeth95@example.net",
+        "account": {
+            "account_number": "c3c7580c-4faa-48b7-b4e6-9bdd35b34b08",
+            "balance": 15948.28,
+            "transactions": [
+                {
+                    "date": "2023-01-10",
+                    "description": "Interest",
+                    "amount": 1861.64,
+                    "transaction_id": 28789907
+                }
+            ]
+        }
+    }
+}

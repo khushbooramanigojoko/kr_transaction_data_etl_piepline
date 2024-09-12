@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 43,
+        "gender": "female",
+        "address": "4136 Melissa Fork, South Crystalmouth, MA 67094",
+        "phone": "(384)580-8026x69283",
+        "email": "stevenwhite@example.org",
+        "account": {
+            "account_number": "094fdf57-4f14-47e1-8265-c949ae40df97",
+            "balance": 32427.95,
+            "transactions": [
+                {
+                    "date": "2024-02-24",
+                    "description": "Withdrawal",
+                    "amount": 3368.46,
+                    "transaction_id": 114662207
+                }
+            ]
+        }
+    }
+}

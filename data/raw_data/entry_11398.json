@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 88,
+        "gender": "male",
+        "address": "4875 Floyd Parks Apt. 803, Deleonfort, OH 47678",
+        "phone": "6689645337",
+        "email": "caitlinbowman@example.net",
+        "account": {
+            "account_number": "497e171a-c9c3-452d-baa0-9aa48578734f",
+            "balance": 33237.42,
+            "transactions": [
+                {
+                    "date": "2023-07-06",
+                    "description": "Interest",
+                    "amount": -4669.68,
+                    "transaction_id": 10375467
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Deposit",
+                    "amount": -1672.69,
+                    "transaction_id": 53572952
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": -2543.42,
+                    "transaction_id": 40481574
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 46,
+        "gender": "female",
+        "address": "PSC 8673, Box 8327, APO AP 71359",
+        "phone": "(391)912-6562x8853",
+        "email": "patrick39@example.com",
+        "account": {
+            "account_number": "1397eec2-02ea-410d-9c04-e1c1e8a77984",
+            "balance": 6870.1,
+            "transactions": [
+                {
+                    "date": "2023-06-07",
+                    "description": "Interest",
+                    "amount": 4859.18,
+                    "transaction_id": 29938444
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Deposit",
+                    "amount": 1319.53,
+                    "transaction_id": 119004666
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brianna Smith",
+        "age": 59,
+        "gender": "female",
+        "address": "2116 Wells Station Suite 092, Port Brendaview, MN 13593",
+        "phone": "3107186186",
+        "email": "ipeterson@example.net",
+        "account": {
+            "account_number": "7ccf85cf-9be8-489f-831e-6696c7d572db",
+            "balance": 3603.03,
+            "transactions": [
+                {
+                    "date": "2023-12-28",
+                    "description": "Deposit",
+                    "amount": 33914.82,
+                    "transaction_id": 15516515
+                },
+                {
+                    "date": "2023-12-21",
+                    "description": "Withdrawal",
+                    "amount": 688.77,
+                    "transaction_id": 86689757
+                },
+                {
+                    "date": "2024-08-10",
+                    "description": "Interest",
+                    "amount": 31143.25,
+                    "transaction_id": 48082717
+                },
+                {
+                    "date": "2023-04-19",
+                    "description": "Interest",
+                    "amount": 8995.06,
+                    "transaction_id": 72985832
+                }
+            ]
+        }
+    }
+}

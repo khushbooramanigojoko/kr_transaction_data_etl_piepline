@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Alexander Lopez",
+        "age": 97,
+        "gender": "male",
+        "address": "967 Sarah Fall Apt. 651, South Adam, PW 28825",
+        "phone": "(677)646-7214x543",
+        "email": "stephanie79@example.net",
+        "account": {
+            "account_number": "32ee75a8-5639-48df-81bd-b533c855f449",
+            "balance": 5430.92,
+            "transactions": [
+                {
+                    "date": "2024-01-11",
+                    "description": "Withdrawal",
+                    "amount": 5831.23,
+                    "transaction_id": 65391396
+                },
+                {
+                    "date": "2024-03-28",
+                    "description": "Deposit",
+                    "amount": 604.96,
+                    "transaction_id": 34899764
+                },
+                {
+                    "date": "2023-04-12",
+                    "description": "Withdrawal",
+                    "amount": 34248.89,
+                    "transaction_id": 60509077
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Withdrawal",
+                    "amount": 32694.46,
+                    "transaction_id": 14379880
+                },
+                {
+                    "date": "2023-04-15",
+                    "description": "Deposit",
+                    "amount": 41590.34,
+                    "transaction_id": 57861467
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "David Hardin",
+        "age": 91,
+        "gender": "male",
+        "address": "35051 Timothy Shores, New Annaton, AL 12211",
+        "phone": "(829)371-4543x240",
+        "email": "lmendoza@example.com",
+        "account": {
+            "account_number": "242ff2f4-ecc1-4a65-96dc-152d5ea0602f",
+            "balance": 36159.43,
+            "transactions": [
+                {
+                    "date": "2024-06-07",
+                    "description": "Deposit",
+                    "amount": 22664.52,
+                    "transaction_id": 18420551
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Deposit",
+                    "amount": 3954.9,
+                    "transaction_id": 82173923
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Withdrawal",
+                    "amount": 42783.63,
+                    "transaction_id": 97809912
+                }
+            ]
+        }
+    }
+}

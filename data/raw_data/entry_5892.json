@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Erin Stone",
+        "age": 69,
+        "gender": "male",
+        "address": "13284 Patricia Greens, Eugeneborough, LA 94276",
+        "phone": "448.903.1682x281",
+        "email": "haleynichols@example.net",
+        "account": {
+            "account_number": "2e9098c4-98db-41ba-b65f-9d48c8894c85",
+            "balance": 4915.85,
+            "transactions": [
+                {
+                    "date": "2024-08-12",
+                    "description": "Withdrawal",
+                    "amount": 6462.77,
+                    "transaction_id": 46037625
+                },
+                {
+                    "date": "2023-08-18",
+                    "description": "Withdrawal",
+                    "amount": 41508.51,
+                    "transaction_id": 100666084
+                },
+                {
+                    "date": "2023-01-01",
+                    "description": "Interest",
+                    "amount": 5723.32,
+                    "transaction_id": 96536728
+                }
+            ]
+        }
+    }
+}

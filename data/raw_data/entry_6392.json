@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joshua Le",
+        "age": 96,
+        "gender": "male",
+        "address": "22207 Smith Lights, Popeville, NY 68870",
+        "phone": "(903)523-8669x695",
+        "email": "david02@example.org",
+        "account": {
+            "account_number": "422f4e9f-c47e-4036-bcc8-7a22b231b525",
+            "balance": 41709.63,
+            "transactions": [
+                {
+                    "date": "2023-04-16",
+                    "description": "Deposit",
+                    "amount": 40298.84,
+                    "transaction_id": 88720371
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Deposit",
+                    "amount": 25521.42,
+                    "transaction_id": 36703566
+                }
+            ]
+        }
+    }
+}

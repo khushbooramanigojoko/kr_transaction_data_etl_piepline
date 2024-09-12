@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 42,
+        "gender": "male",
+        "address": "97622 Tracey Rest, New Jeremy, WA 05200",
+        "phone": "(767)225-9710x3450",
+        "email": "rwise@example.com",
+        "account": {
+            "account_number": "0156afc7-1298-47cd-a106-f3d522211c2e",
+            "balance": 26397.24,
+            "transactions": [
+                {
+                    "date": "2023-06-15",
+                    "description": "Deposit",
+                    "amount": 3062.66,
+                    "transaction_id": 24194690
+                },
+                {
+                    "date": "2022-11-22",
+                    "description": "Withdrawal",
+                    "amount": -4065.34,
+                    "transaction_id": 40624529
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Interest",
+                    "amount": 103.2,
+                    "transaction_id": 16656975
+                }
+            ]
+        }
+    }
+}

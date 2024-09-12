@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "George Ortega",
+        "age": 86,
+        "gender": "female",
+        "address": "PSC 9349, Box 5946, APO AP 58979",
+        "phone": "829.696.6320x6692",
+        "email": "gbarnes@example.net",
+        "account": {
+            "account_number": "6122f148-a0b3-4fd4-a315-69bbd7f4181e",
+            "balance": -15896.55,
+            "transactions": [
+                {
+                    "date": "2023-04-06",
+                    "description": "Withdrawal",
+                    "amount": 2254.33,
+                    "transaction_id": 54760996
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Withdrawal",
+                    "amount": 4905.87,
+                    "transaction_id": 76621462
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Deposit",
+                    "amount": 4913.99,
+                    "transaction_id": 56361567
+                },
+                {
+                    "date": "2023-05-23",
+                    "description": "Interest",
+                    "amount": -3074.27,
+                    "transaction_id": 46810548
+                }
+            ]
+        }
+    }
+}

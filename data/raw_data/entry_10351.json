@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joshua Blake",
+        "age": 94,
+        "gender": "female",
+        "address": "5252 Brown Courts Suite 255, Jonathanburgh, OK 68889",
+        "phone": "(637)704-6657x85464",
+        "email": "odomdrew@example.net",
+        "account": {
+            "account_number": "003ca943-e565-4b25-8c22-eb6b2eba92b1",
+            "balance": -6236.62,
+            "transactions": [
+                {
+                    "date": "2022-12-16",
+                    "description": "Interest",
+                    "amount": -2389.47,
+                    "transaction_id": 73641393
+                }
+            ]
+        }
+    }
+}

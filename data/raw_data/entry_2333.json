@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Thomas Ray",
+        "age": 37,
+        "gender": "female",
+        "address": "140 Lyons Ports, Andrewbury, CA 57280",
+        "phone": "(808)974-6359",
+        "email": "paulfranco@example.net",
+        "account": {
+            "account_number": "8f01dc44-c263-4e1c-b78b-c79bc7511826",
+            "balance": 26170.51,
+            "transactions": [
+                {
+                    "date": "2023-05-16",
+                    "description": "Deposit",
+                    "amount": 25488.07,
+                    "transaction_id": 105357629
+                },
+                {
+                    "date": "2023-11-16",
+                    "description": "Deposit",
+                    "amount": 10494.49,
+                    "transaction_id": 82237324
+                }
+            ]
+        }
+    }
+}

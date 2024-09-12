@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Nicole Jones",
+        "age": 56,
+        "gender": "male",
+        "address": "166 Alyssa Prairie, Port Krystal, FM 72240",
+        "phone": "591-940-9234x59049",
+        "email": "masonchristopher@example.com",
+        "account": {
+            "account_number": "7e0f079e-f739-4b83-b37f-84dea4deb290",
+            "balance": 20323.76,
+            "transactions": [
+                {
+                    "date": "2023-05-03",
+                    "description": "Deposit",
+                    "amount": 35484.8,
+                    "transaction_id": 44085473
+                }
+            ]
+        }
+    }
+}

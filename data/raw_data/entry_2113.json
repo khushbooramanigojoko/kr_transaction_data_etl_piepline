@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Lisa Gilbert",
+        "age": 32,
+        "gender": "female",
+        "address": "46456 Durham Drive, Collierfort, TX 85412",
+        "phone": "707.219.8433",
+        "email": "joelbrown@example.com",
+        "account": {
+            "account_number": "8587e458-e2e6-4754-ad74-57ce4e85b467",
+            "balance": 29193.17,
+            "transactions": [
+                {
+                    "date": "2024-03-20",
+                    "description": "Interest",
+                    "amount": 3009.66,
+                    "transaction_id": 84596597
+                },
+                {
+                    "date": "2023-04-04",
+                    "description": "Deposit",
+                    "amount": 11842.12,
+                    "transaction_id": 64888264
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Withdrawal",
+                    "amount": 47315.27,
+                    "transaction_id": 78996842
+                },
+                {
+                    "date": "2023-08-28",
+                    "description": "Interest",
+                    "amount": 10847.89,
+                    "transaction_id": 4087514
+                },
+                {
+                    "date": "2023-10-14",
+                    "description": "Withdrawal",
+                    "amount": 46483.14,
+                    "transaction_id": 106975472
+                }
+            ]
+        }
+    }
+}

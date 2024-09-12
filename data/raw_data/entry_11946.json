@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Stewart",
+        "age": 88,
+        "gender": "female",
+        "address": "123 Johnny Estate, Aliciaborough, MH 79824",
+        "phone": "4922627146",
+        "email": "mmays@example.net",
+        "account": {
+            "account_number": "14c3c718-1484-45d1-b9c7-a8e56e194c10",
+            "balance": 19079.36,
+            "transactions": [
+                {
+                    "date": "2023-03-07",
+                    "description": "Deposit",
+                    "amount": 11879.84,
+                    "transaction_id": 11598711
+                }
+            ]
+        }
+    }
+}

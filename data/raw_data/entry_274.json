@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Philip Miranda",
+        "age": 96,
+        "gender": "female",
+        "address": "685 Obrien Vista, New Rebecca, TX 18742",
+        "phone": "+1-568-472-3391x862",
+        "email": "miguel06@example.com",
+        "account": {
+            "account_number": "2dcf974e-419a-4310-b45c-e506ce5c4862",
+            "balance": 43905.15,
+            "transactions": [
+                {
+                    "date": "2023-11-29",
+                    "description": "Withdrawal",
+                    "amount": 30003.21,
+                    "transaction_id": 20438844
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Withdrawal",
+                    "amount": 46608.32,
+                    "transaction_id": 40558881
+                },
+                {
+                    "date": "2024-03-07",
+                    "description": "Withdrawal",
+                    "amount": 38364.72,
+                    "transaction_id": 82423100
+                },
+                {
+                    "date": "2023-08-12",
+                    "description": "Deposit",
+                    "amount": 21802.78,
+                    "transaction_id": 107948469
+                },
+                {
+                    "date": "2024-03-07",
+                    "description": "Interest",
+                    "amount": 9262.33,
+                    "transaction_id": 68293821
+                }
+            ]
+        }
+    }
+}

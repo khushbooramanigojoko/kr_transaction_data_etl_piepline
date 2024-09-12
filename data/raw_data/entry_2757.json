@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Grace Jackson",
+        "age": 52,
+        "gender": "female",
+        "address": "82307 Marie Stream, Colemanshire, OH 41629",
+        "phone": "871-589-1812x0082",
+        "email": "georgetiffany@example.net",
+        "account": {
+            "account_number": "354c2002-4fda-411a-8b37-ee8fd109f4e5",
+            "balance": 16168.82,
+            "transactions": [
+                {
+                    "date": "2022-12-12",
+                    "description": "Deposit",
+                    "amount": 8961.37,
+                    "transaction_id": 55984733
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Interest",
+                    "amount": 45075.67,
+                    "transaction_id": 98481679
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Withdrawal",
+                    "amount": 33092.93,
+                    "transaction_id": 72343531
+                },
+                {
+                    "date": "2022-12-16",
+                    "description": "Deposit",
+                    "amount": 49188.64,
+                    "transaction_id": 94563995
+                }
+            ]
+        }
+    }
+}

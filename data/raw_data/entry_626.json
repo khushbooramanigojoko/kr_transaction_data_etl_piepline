@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Craig Skinner",
+        "age": 28,
+        "gender": "female",
+        "address": "768 Gerald Land Suite 948, Pearsonstad, TN 21901",
+        "phone": "+1-746-247-8747x63978",
+        "email": "scotthenry@example.com",
+        "account": {
+            "account_number": "5c6dc70b-7e5d-4b1f-b968-7ebba41123ae",
+            "balance": 44819.97,
+            "transactions": [
+                {
+                    "date": "2024-03-19",
+                    "description": "Withdrawal",
+                    "amount": 24303.0,
+                    "transaction_id": 49207061
+                }
+            ]
+        }
+    }
+}

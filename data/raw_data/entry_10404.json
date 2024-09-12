@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mr. Xavier Chavez",
+        "age": 62,
+        "gender": "male",
+        "address": "5355 Gallagher Garden Apt. 029, Kentberg, ID 70722",
+        "phone": "(731)442-4930x881",
+        "email": "jproctor@example.org",
+        "account": {
+            "account_number": "52b55b69-5600-434e-884e-ca9752cebb39",
+            "balance": -34299.41,
+            "transactions": [
+                {
+                    "date": "2023-07-27",
+                    "description": "Interest",
+                    "amount": 2147.52,
+                    "transaction_id": 117915406
+                },
+                {
+                    "date": "2024-03-07",
+                    "description": "Interest",
+                    "amount": -822.99,
+                    "transaction_id": 77155515
+                }
+            ]
+        }
+    }
+}

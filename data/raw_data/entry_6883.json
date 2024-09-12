@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brooke Morales",
+        "age": 43,
+        "gender": "male",
+        "address": "6887 Alexis Meadow Suite 420, Meganfort, IN 43250",
+        "phone": "(924)674-6839x581",
+        "email": "emilylee@example.com",
+        "account": {
+            "account_number": "1914e6b9-375a-433f-8f50-55cdd400b85b",
+            "balance": 2384.56,
+            "transactions": [
+                {
+                    "date": "2023-05-28",
+                    "description": "Withdrawal",
+                    "amount": 31593.08,
+                    "transaction_id": 82156872
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Interest",
+                    "amount": 4717.13,
+                    "transaction_id": 58170256
+                }
+            ]
+        }
+    }
+}

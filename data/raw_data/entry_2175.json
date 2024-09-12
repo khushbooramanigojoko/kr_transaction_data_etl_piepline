@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Vicki Ali",
+        "age": 37,
+        "gender": "female",
+        "address": "8946 Martinez Run, South Josephborough, NC 88492",
+        "phone": "819-805-1459",
+        "email": "jamesparker@example.net",
+        "account": {
+            "account_number": "b8a853ed-c97d-45cf-b34c-83d151922bb2",
+            "balance": 41400.25,
+            "transactions": [
+                {
+                    "date": "2023-05-22",
+                    "description": "Deposit",
+                    "amount": 2880.34,
+                    "transaction_id": 4090060
+                }
+            ]
+        }
+    }
+}

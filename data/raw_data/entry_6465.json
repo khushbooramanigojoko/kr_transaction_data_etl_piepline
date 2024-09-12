@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joseph Williams",
+        "age": 40,
+        "gender": "female",
+        "address": "430 Dana Lake Suite 342, Cameronfurt, AZ 86400",
+        "phone": "984-837-2469x7427",
+        "email": "omeyer@example.com",
+        "account": {
+            "account_number": "db70b5fe-c14f-46c3-846b-190f3cf34096",
+            "balance": 40767.67,
+            "transactions": [
+                {
+                    "date": "2023-07-17",
+                    "description": "Deposit",
+                    "amount": 16971.26,
+                    "transaction_id": 6584653
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Withdrawal",
+                    "amount": 34786.88,
+                    "transaction_id": 74170107
+                },
+                {
+                    "date": "2022-09-16",
+                    "description": "Deposit",
+                    "amount": 39652.0,
+                    "transaction_id": 67889403
+                },
+                {
+                    "date": "2024-06-28",
+                    "description": "Deposit",
+                    "amount": 13203.92,
+                    "transaction_id": 95306987
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Interest",
+                    "amount": 41508.35,
+                    "transaction_id": 5033237
+                }
+            ]
+        }
+    }
+}

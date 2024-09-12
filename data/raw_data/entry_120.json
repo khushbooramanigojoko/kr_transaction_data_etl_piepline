@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Martin Ryan",
+        "age": 62,
+        "gender": "female",
+        "address": "1840 Clark Village, Reedchester, FL 42774",
+        "phone": "+1-417-855-1971",
+        "email": "vrogers@example.com",
+        "account": {
+            "account_number": "4c089526-071f-4821-aaf6-1d6a3639b968",
+            "balance": 4510.81,
+            "transactions": [
+                {
+                    "date": "2023-10-31",
+                    "description": "Deposit",
+                    "amount": 36760.34,
+                    "transaction_id": 106544741
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Interest",
+                    "amount": 36512.57,
+                    "transaction_id": 16545117
+                },
+                {
+                    "date": "2023-01-06",
+                    "description": "Deposit",
+                    "amount": 20127.12,
+                    "transaction_id": 68092281
+                }
+            ]
+        }
+    }
+}

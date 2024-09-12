@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Austin Mcneil",
+        "age": 29,
+        "gender": "male",
+        "address": "PSC 8802, Box 2315, APO AE 64436",
+        "phone": "3944034709",
+        "email": "melanieclark@example.com",
+        "account": {
+            "account_number": "6f66781f-0a72-4c8b-8ae0-43de9cbbc4e2",
+            "balance": -5901.8,
+            "transactions": [
+                {
+                    "date": "2024-05-26",
+                    "description": "Interest",
+                    "amount": 646.08,
+                    "transaction_id": 32334796
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Interest",
+                    "amount": 781.95,
+                    "transaction_id": 64362797
+                }
+            ]
+        }
+    }
+}

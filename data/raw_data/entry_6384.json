@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Paul Lawrence",
+        "age": 69,
+        "gender": "female",
+        "address": "8846 Yoder Camp Suite 487, Pierceside, LA 82021",
+        "phone": "544.346.4292x5839",
+        "email": "esmith@example.com",
+        "account": {
+            "account_number": "e563c53f-caac-4614-8e12-95ccf0ad1625",
+            "balance": 28078.58,
+            "transactions": [
+                {
+                    "date": "2023-12-26",
+                    "description": "Withdrawal",
+                    "amount": 20758.29,
+                    "transaction_id": 21093970
+                }
+            ]
+        }
+    }
+}

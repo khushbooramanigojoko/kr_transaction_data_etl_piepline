@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Castillo",
+        "age": 92,
+        "gender": "female",
+        "address": "USNV Wade, FPO AE 41228",
+        "phone": "835-231-7281",
+        "email": "wrightpeggy@example.net",
+        "account": {
+            "account_number": "f7c42522-6bf0-46e0-bf0c-2ee5529486b1",
+            "balance": 43566.73,
+            "transactions": [
+                {
+                    "date": "2024-06-12",
+                    "description": "Interest",
+                    "amount": 15322.91,
+                    "transaction_id": 74655974
+                },
+                {
+                    "date": "2022-11-04",
+                    "description": "Deposit",
+                    "amount": 17040.75,
+                    "transaction_id": 39447381
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Withdrawal",
+                    "amount": 5533.94,
+                    "transaction_id": 79859244
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Withdrawal",
+                    "amount": 25652.6,
+                    "transaction_id": 66593381
+                }
+            ]
+        }
+    }
+}

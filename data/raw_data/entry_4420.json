@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Matthew Sampson",
+        "age": 49,
+        "gender": "male",
+        "address": "1208 Adam Passage, West Kimberly, WV 40879",
+        "phone": "248.617.5386",
+        "email": "robingarcia@example.org",
+        "account": {
+            "account_number": "cfb805a2-e31f-4eef-aede-05dcb75f1cba",
+            "balance": 28684.01,
+            "transactions": [
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": 46499.6,
+                    "transaction_id": 57190093
+                },
+                {
+                    "date": "2023-11-21",
+                    "description": "Interest",
+                    "amount": 38382.75,
+                    "transaction_id": 84802726
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Deposit",
+                    "amount": 45241.04,
+                    "transaction_id": 113743403
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Withdrawal",
+                    "amount": 24353.35,
+                    "transaction_id": 66334761
+                }
+            ]
+        }
+    }
+}

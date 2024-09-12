@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brandon Guerrero",
+        "age": 72,
+        "gender": "female",
+        "address": "34296 Jensen Inlet, South Lanceview, PR 22804",
+        "phone": "001-815-345-9581x9005",
+        "email": "gweiss@example.com",
+        "account": {
+            "account_number": "7757f133-8cc0-43ff-af83-ef98f64d03f6",
+            "balance": 10763.15,
+            "transactions": [
+                {
+                    "date": "2024-05-18",
+                    "description": "Interest",
+                    "amount": 39119.73,
+                    "transaction_id": 59196383
+                },
+                {
+                    "date": "2024-08-22",
+                    "description": "Interest",
+                    "amount": 5851.31,
+                    "transaction_id": 110353975
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Deposit",
+                    "amount": 27890.4,
+                    "transaction_id": 73389207
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Withdrawal",
+                    "amount": 12836.21,
+                    "transaction_id": 24406317
+                },
+                {
+                    "date": "2023-10-06",
+                    "description": "Interest",
+                    "amount": 12667.8,
+                    "transaction_id": 24755866
+                }
+            ]
+        }
+    }
+}

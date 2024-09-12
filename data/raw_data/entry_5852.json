@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jessica Smith",
+        "age": 35,
+        "gender": "female",
+        "address": "78385 Smith Club Suite 407, North Jodimouth, VA 85290",
+        "phone": "8744498898",
+        "email": "zachary64@example.com",
+        "account": {
+            "account_number": "7a16f361-e82b-45a5-a74e-ad655f932963",
+            "balance": 28319.47,
+            "transactions": [
+                {
+                    "date": "2023-04-01",
+                    "description": "Withdrawal",
+                    "amount": 37723.68,
+                    "transaction_id": 90502380
+                },
+                {
+                    "date": "2023-09-14",
+                    "description": "Interest",
+                    "amount": 28232.24,
+                    "transaction_id": 88561552
+                }
+            ]
+        }
+    }
+}

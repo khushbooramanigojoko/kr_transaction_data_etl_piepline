@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "James Jones",
+        "age": 26,
+        "gender": "female",
+        "address": "520 Stephanie Views, New Kristinbury, SD 51754",
+        "phone": "(560)776-0740x0336",
+        "email": "michael57@example.com",
+        "account": {
+            "account_number": "dd604c4f-a915-49fe-8b2f-3ddcc446a0d9",
+            "balance": 6121.78,
+            "transactions": [
+                {
+                    "date": "2024-07-01",
+                    "description": "Withdrawal",
+                    "amount": 33758.77,
+                    "transaction_id": 78513574
+                }
+            ]
+        }
+    }
+}

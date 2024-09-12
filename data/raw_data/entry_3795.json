@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Melissa Navarro",
+        "age": 40,
+        "gender": "male",
+        "address": "54070 Villegas Estate Suite 983, Jessefort, NM 65064",
+        "phone": "001-329-458-5041",
+        "email": "bauerdillon@example.com",
+        "account": {
+            "account_number": "74bc4f23-21d9-4f24-b745-0e9484e07ec1",
+            "balance": 21107.45,
+            "transactions": [
+                {
+                    "date": "2024-08-24",
+                    "description": "Withdrawal",
+                    "amount": 3754.47,
+                    "transaction_id": 43390440
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Withdrawal",
+                    "amount": 33880.96,
+                    "transaction_id": 101343918
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Deposit",
+                    "amount": 29641.65,
+                    "transaction_id": 111001655
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Withdrawal",
+                    "amount": 24718.23,
+                    "transaction_id": 94384571
+                },
+                {
+                    "date": "2024-05-05",
+                    "description": "Withdrawal",
+                    "amount": 7633.52,
+                    "transaction_id": 29752016
+                }
+            ]
+        }
+    }
+}

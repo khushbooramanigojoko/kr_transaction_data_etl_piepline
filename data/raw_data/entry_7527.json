@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Deborah Wagner",
+        "age": 68,
+        "gender": "female",
+        "address": "82121 Conner Falls Suite 155, Wardhaven, WA 40923",
+        "phone": "(707)883-8869",
+        "email": "nanderson@example.org",
+        "account": {
+            "account_number": "e9a4d653-e84d-4acd-af46-4ecc195648d4",
+            "balance": 9945.15,
+            "transactions": [
+                {
+                    "date": "2023-09-30",
+                    "description": "Interest",
+                    "amount": 39624.43,
+                    "transaction_id": 84966818
+                },
+                {
+                    "date": "2023-06-08",
+                    "description": "Withdrawal",
+                    "amount": 39381.36,
+                    "transaction_id": 117802373
+                },
+                {
+                    "date": "2023-05-05",
+                    "description": "Interest",
+                    "amount": 11988.02,
+                    "transaction_id": 95071064
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Interest",
+                    "amount": 23089.98,
+                    "transaction_id": 12462710
+                }
+            ]
+        }
+    }
+}

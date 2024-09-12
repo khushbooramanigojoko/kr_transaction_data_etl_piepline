@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kelly Galvan",
+        "age": 24,
+        "gender": "female",
+        "address": "45783 Lee Vista, Peterston, TX 98294",
+        "phone": "817.594.5067x446",
+        "email": "kevinbanks@example.org",
+        "account": {
+            "account_number": "19759cd1-1530-4363-adbd-25294320f795",
+            "balance": 24262.32,
+            "transactions": [
+                {
+                    "date": "2023-03-03",
+                    "description": "Withdrawal",
+                    "amount": 31638.95,
+                    "transaction_id": 42008403
+                },
+                {
+                    "date": "2023-03-23",
+                    "description": "Withdrawal",
+                    "amount": 39664.02,
+                    "transaction_id": 93005582
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stephanie Baxter",
+        "age": 41,
+        "gender": "male",
+        "address": "848 Susan Mountain, West Joseph, RI 47379",
+        "phone": "779-974-5279x29008",
+        "email": "birdtammy@example.org",
+        "account": {
+            "account_number": "6c795849-5123-4713-a7a1-ef45178055f6",
+            "balance": 4371.62,
+            "transactions": [
+                {
+                    "date": "2024-07-26",
+                    "description": "Withdrawal",
+                    "amount": 790.75,
+                    "transaction_id": 112315282
+                },
+                {
+                    "date": "2023-10-18",
+                    "description": "Deposit",
+                    "amount": 35865.33,
+                    "transaction_id": 75764823
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Interest",
+                    "amount": 47810.08,
+                    "transaction_id": 93587959
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Interest",
+                    "amount": 47385.82,
+                    "transaction_id": 41320576
+                }
+            ]
+        }
+    }
+}

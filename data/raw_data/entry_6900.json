@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Logan Maxwell",
+        "age": 30,
+        "gender": "female",
+        "address": "6784 Flynn Mall Suite 757, Aprilhaven, NH 62474",
+        "phone": "(578)347-8691x73925",
+        "email": "anna37@example.com",
+        "account": {
+            "account_number": "25337e40-2406-4697-a2c1-43d0d8d2158f",
+            "balance": 8984.15,
+            "transactions": [
+                {
+                    "date": "2024-05-18",
+                    "description": "Deposit",
+                    "amount": 4821.85,
+                    "transaction_id": 71437170
+                },
+                {
+                    "date": "2022-09-23",
+                    "description": "Interest",
+                    "amount": 43447.62,
+                    "transaction_id": 38017181
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Deposit",
+                    "amount": 4771.65,
+                    "transaction_id": 57420377
+                },
+                {
+                    "date": "2024-05-28",
+                    "description": "Deposit",
+                    "amount": 38331.99,
+                    "transaction_id": 101043850
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Withdrawal",
+                    "amount": 39933.25,
+                    "transaction_id": 29286783
+                }
+            ]
+        }
+    }
+}

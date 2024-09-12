@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mrs. Diana Jackson",
+        "age": 33,
+        "gender": "male",
+        "address": "4748 Haynes Flats Apt. 004, Port Jamesburgh, WA 45760",
+        "phone": "215.361.8591x34076",
+        "email": "thomas47@example.net",
+        "account": {
+            "account_number": "ee01ef5c-a228-4e0a-b995-bf7441416516",
+            "balance": 47233.02,
+            "transactions": [
+                {
+                    "date": "2024-01-14",
+                    "description": "Interest",
+                    "amount": 1701.8,
+                    "transaction_id": 45609590
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Withdrawal",
+                    "amount": 27385.64,
+                    "transaction_id": 55973222
+                }
+            ]
+        }
+    }
+}

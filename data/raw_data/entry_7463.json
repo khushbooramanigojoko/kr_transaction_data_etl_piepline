@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ronald Harper",
+        "age": 57,
+        "gender": "female",
+        "address": "8649 Andrew Lodge, Connieburgh, ID 41571",
+        "phone": "(282)293-8891x591",
+        "email": "tadams@example.org",
+        "account": {
+            "account_number": "7961b5ce-3283-4824-a513-d19bede61963",
+            "balance": 23005.07,
+            "transactions": [
+                {
+                    "date": "2023-09-11",
+                    "description": "Withdrawal",
+                    "amount": 46751.59,
+                    "transaction_id": 80820944
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Deposit",
+                    "amount": 49178.44,
+                    "transaction_id": 56598441
+                },
+                {
+                    "date": "2023-07-20",
+                    "description": "Deposit",
+                    "amount": 23728.77,
+                    "transaction_id": 86225617
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Withdrawal",
+                    "amount": 21406.98,
+                    "transaction_id": 98033534
+                },
+                {
+                    "date": "2023-04-01",
+                    "description": "Interest",
+                    "amount": 10467.43,
+                    "transaction_id": 53466145
+                }
+            ]
+        }
+    }
+}

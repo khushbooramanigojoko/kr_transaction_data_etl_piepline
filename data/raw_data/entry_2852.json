@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Robert Brown",
+        "age": 75,
+        "gender": "female",
+        "address": "1826 Ashley Pine Suite 104, Port Victorialand, MT 20602",
+        "phone": "401-869-6696",
+        "email": "gerald06@example.com",
+        "account": {
+            "account_number": "19751b10-ee7e-4415-a8ae-5686fce6d50a",
+            "balance": 47185.6,
+            "transactions": [
+                {
+                    "date": "2023-09-11",
+                    "description": "Interest",
+                    "amount": 17033.89,
+                    "transaction_id": 85244781
+                },
+                {
+                    "date": "2024-05-31",
+                    "description": "Deposit",
+                    "amount": 9894.51,
+                    "transaction_id": 58722942
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Interest",
+                    "amount": 36660.37,
+                    "transaction_id": 31565690
+                },
+                {
+                    "date": "2023-08-26",
+                    "description": "Deposit",
+                    "amount": 3260.35,
+                    "transaction_id": 18866490
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Deposit",
+                    "amount": 34237.97,
+                    "transaction_id": 71126644
+                }
+            ]
+        }
+    }
+}

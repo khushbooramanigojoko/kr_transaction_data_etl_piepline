@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Larry Martin",
+        "age": 36,
+        "gender": "male",
+        "address": "40303 Danny Locks Apt. 831, Smithville, CT 43201",
+        "phone": "833.279.8001x18701",
+        "email": "parkercaleb@example.org",
+        "account": {
+            "account_number": "87c503fc-135b-4378-83ee-e9b9d58e6099",
+            "balance": 18994.68,
+            "transactions": [
+                {
+                    "date": "2023-02-12",
+                    "description": "Interest",
+                    "amount": 37986.44,
+                    "transaction_id": 37471547
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Deposit",
+                    "amount": 21750.85,
+                    "transaction_id": 1678553
+                },
+                {
+                    "date": "2024-06-05",
+                    "description": "Interest",
+                    "amount": 45877.4,
+                    "transaction_id": 45755029
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Deposit",
+                    "amount": 33898.45,
+                    "transaction_id": 20760238
+                }
+            ]
+        }
+    }
+}

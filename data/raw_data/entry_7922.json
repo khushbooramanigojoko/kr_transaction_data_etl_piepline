@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jonathan Diaz",
+        "age": 74,
+        "gender": "male",
+        "address": "35625 Kendra Mountain Suite 055, Wilsonton, CO 91872",
+        "phone": "3353505931",
+        "email": "leedustin@example.net",
+        "account": {
+            "account_number": "a7000c8c-721a-4493-a211-7940326aa879",
+            "balance": 3876.73,
+            "transactions": [
+                {
+                    "date": "2023-07-04",
+                    "description": "Interest",
+                    "amount": 28402.49,
+                    "transaction_id": 113123009
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Interest",
+                    "amount": 8387.0,
+                    "transaction_id": 68795919
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amy Harper",
+        "age": 33,
+        "gender": "male",
+        "address": "25606 White Roads Suite 080, Lake Daniel, GU 18961",
+        "phone": "339.539.8042",
+        "email": "theresawilliams@example.com",
+        "account": {
+            "account_number": "d83c3107-bcf0-4343-9826-6107595abb89",
+            "balance": 21059.39,
+            "transactions": [
+                {
+                    "date": "2024-02-18",
+                    "description": "Deposit",
+                    "amount": 15388.19,
+                    "transaction_id": 58211907
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Withdrawal",
+                    "amount": 33004.83,
+                    "transaction_id": 82803974
+                },
+                {
+                    "date": "2024-03-14",
+                    "description": "Interest",
+                    "amount": 32453.61,
+                    "transaction_id": 111264344
+                },
+                {
+                    "date": "2023-06-05",
+                    "description": "Withdrawal",
+                    "amount": 45611.62,
+                    "transaction_id": 69777905
+                }
+            ]
+        }
+    }
+}

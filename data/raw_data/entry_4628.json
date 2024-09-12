@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Richard Crane",
+        "age": 96,
+        "gender": "male",
+        "address": "70864 Ramirez Green, Deborahhaven, PR 37565",
+        "phone": "418.898.6546x367",
+        "email": "davispeter@example.net",
+        "account": {
+            "account_number": "13693b8c-086c-492a-b524-81659a2d5732",
+            "balance": 12118.18,
+            "transactions": [
+                {
+                    "date": "2023-05-11",
+                    "description": "Withdrawal",
+                    "amount": 49752.1,
+                    "transaction_id": 83390003
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Interest",
+                    "amount": 31050.85,
+                    "transaction_id": 80486459
+                },
+                {
+                    "date": "2024-06-30",
+                    "description": "Withdrawal",
+                    "amount": 39740.61,
+                    "transaction_id": 28336484
+                },
+                {
+                    "date": "2023-04-03",
+                    "description": "Interest",
+                    "amount": 21109.3,
+                    "transaction_id": 38685465
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Deposit",
+                    "amount": 30794.96,
+                    "transaction_id": 2146811
+                }
+            ]
+        }
+    }
+}

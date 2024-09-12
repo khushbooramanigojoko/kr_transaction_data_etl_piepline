@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Jimenez",
+        "age": 41,
+        "gender": "male",
+        "address": "Unit 1029 Box 4524, DPO AA 33776",
+        "phone": "001-312-825-8154",
+        "email": "ryanbradley@example.org",
+        "account": {
+            "account_number": "50f81a2f-08a5-4ca1-aebb-b0db7a1786b4",
+            "balance": 26807.57,
+            "transactions": [
+                {
+                    "date": "2024-05-09",
+                    "description": "Deposit",
+                    "amount": 41691.29,
+                    "transaction_id": 20441981
+                },
+                {
+                    "date": "2024-03-19",
+                    "description": "Withdrawal",
+                    "amount": 13467.15,
+                    "transaction_id": 116334944
+                },
+                {
+                    "date": "2022-12-11",
+                    "description": "Deposit",
+                    "amount": 1964.71,
+                    "transaction_id": 107126468
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Deposit",
+                    "amount": 48310.25,
+                    "transaction_id": 7360771
+                }
+            ]
+        }
+    }
+}

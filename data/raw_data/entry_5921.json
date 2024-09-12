@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rachel George",
+        "age": 30,
+        "gender": "female",
+        "address": "594 Jody Prairie, New Louis, WV 85126",
+        "phone": "001-937-636-9251x929",
+        "email": "gmoon@example.net",
+        "account": {
+            "account_number": "2f4803ec-bf22-4afa-9242-f2aa4c10fe23",
+            "balance": 18878.94,
+            "transactions": [
+                {
+                    "date": "2024-08-11",
+                    "description": "Withdrawal",
+                    "amount": 39532.93,
+                    "transaction_id": 31418158
+                }
+            ]
+        }
+    }
+}

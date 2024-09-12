@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Glenn Garcia",
+        "age": 36,
+        "gender": "male",
+        "address": "Unit 3517 Box 7585, DPO AA 14887",
+        "phone": "+1-487-483-9478x3160",
+        "email": "dawntrujillo@example.org",
+        "account": {
+            "account_number": "044cbf8c-2692-4bc2-a55f-5b18dc41a463",
+            "balance": 32188.3,
+            "transactions": [
+                {
+                    "date": "2023-05-26",
+                    "description": "Withdrawal",
+                    "amount": 22942.67,
+                    "transaction_id": 58803958
+                }
+            ]
+        }
+    }
+}

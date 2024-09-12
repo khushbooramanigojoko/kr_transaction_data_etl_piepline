@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michele Bennett",
+        "age": 46,
+        "gender": "male",
+        "address": "Unit 3319 Box 2719, DPO AP 07261",
+        "phone": "3295779727",
+        "email": "paul14@example.org",
+        "account": {
+            "account_number": "882a1d09-e509-4555-a8ac-75893a6ddce4",
+            "balance": 41754.62,
+            "transactions": [
+                {
+                    "date": "2023-08-23",
+                    "description": "Withdrawal",
+                    "amount": 28146.96,
+                    "transaction_id": 10294212
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Withdrawal",
+                    "amount": 46143.21,
+                    "transaction_id": 36116509
+                },
+                {
+                    "date": "2022-10-11",
+                    "description": "Interest",
+                    "amount": 5170.79,
+                    "transaction_id": 6066699
+                }
+            ]
+        }
+    }
+}

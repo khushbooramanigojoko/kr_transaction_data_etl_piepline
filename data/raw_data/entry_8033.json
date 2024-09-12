@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Colton Bennett",
+        "age": 93,
+        "gender": "male",
+        "address": "19990 Maria Roads, Seanland, AL 00676",
+        "phone": "710.738.9138x296",
+        "email": "greenann@example.net",
+        "account": {
+            "account_number": "4eb0bada-35de-40a2-9505-dfc18cec3944",
+            "balance": 35981.27,
+            "transactions": [
+                {
+                    "date": "2024-06-16",
+                    "description": "Interest",
+                    "amount": 8381.38,
+                    "transaction_id": 94958819
+                }
+            ]
+        }
+    }
+}

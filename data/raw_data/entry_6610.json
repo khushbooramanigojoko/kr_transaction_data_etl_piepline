@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Lori Salazar",
+        "age": 36,
+        "gender": "female",
+        "address": "486 Howard Trafficway Apt. 933, South Mariotown, LA 48853",
+        "phone": "2556528225",
+        "email": "melissa94@example.org",
+        "account": {
+            "account_number": "fa02aedd-936b-46a6-9e6a-5e3cd0205454",
+            "balance": 21885.5,
+            "transactions": [
+                {
+                    "date": "2023-11-22",
+                    "description": "Interest",
+                    "amount": 20582.6,
+                    "transaction_id": 102554135
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Withdrawal",
+                    "amount": 2112.64,
+                    "transaction_id": 114046639
+                },
+                {
+                    "date": "2024-04-01",
+                    "description": "Withdrawal",
+                    "amount": 41889.93,
+                    "transaction_id": 16599444
+                }
+            ]
+        }
+    }
+}

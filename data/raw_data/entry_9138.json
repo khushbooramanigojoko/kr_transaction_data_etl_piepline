@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 29,
+        "gender": "female",
+        "address": "455 Michael Loaf, Fullerborough, WI 13634",
+        "phone": "(993)781-1936",
+        "email": "kimberlyrivera@example.net",
+        "account": {
+            "account_number": "b30e37b4-a962-439a-bc3c-c203b19d7f5b",
+            "balance": 7992.3,
+            "transactions": [
+                {
+                    "date": "2022-11-19",
+                    "description": "Deposit",
+                    "amount": -1417.55,
+                    "transaction_id": 94832069
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Deposit",
+                    "amount": -513.03,
+                    "transaction_id": 31453016
+                }
+            ]
+        }
+    }
+}

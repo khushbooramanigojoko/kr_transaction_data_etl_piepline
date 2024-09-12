@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Heather Lewis",
+        "age": 50,
+        "gender": "female",
+        "address": "0555 David Garden, South Kaylamouth, GU 41541",
+        "phone": "+1-580-656-8459x81803",
+        "email": "stephanie62@example.org",
+        "account": {
+            "account_number": "409d038c-8c85-4318-91f1-65480dd34ef5",
+            "balance": -36920.31,
+            "transactions": [
+                {
+                    "date": "2023-09-06",
+                    "description": "Deposit",
+                    "amount": -4741.88,
+                    "transaction_id": 37867066
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Interest",
+                    "amount": 739.62,
+                    "transaction_id": 36744426
+                }
+            ]
+        }
+    }
+}

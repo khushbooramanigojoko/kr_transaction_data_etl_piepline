@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ashley Harrell",
+        "age": 92,
+        "gender": "male",
+        "address": "4277 Duran Road, Matthewburgh, AZ 31161",
+        "phone": "797-891-8795x80954",
+        "email": "nicholsdonna@example.com",
+        "account": {
+            "account_number": "d39cb1a1-0dee-4c1b-95d2-ed9e60986bea",
+            "balance": 25121.52,
+            "transactions": [
+                {
+                    "date": "2023-06-08",
+                    "description": "Interest",
+                    "amount": 17270.44,
+                    "transaction_id": 112073004
+                },
+                {
+                    "date": "2022-09-27",
+                    "description": "Deposit",
+                    "amount": 3893.01,
+                    "transaction_id": 28393339
+                },
+                {
+                    "date": "2023-01-21",
+                    "description": "Deposit",
+                    "amount": 15817.32,
+                    "transaction_id": 108945180
+                }
+            ]
+        }
+    }
+}

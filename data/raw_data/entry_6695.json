@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Linda Smith",
+        "age": 22,
+        "gender": "female",
+        "address": "60411 Mcdonald Falls Suite 707, South Seanbury, NJ 79123",
+        "phone": "580.592.7369x862",
+        "email": "wheelerronald@example.com",
+        "account": {
+            "account_number": "3afff2d8-5a5b-4cca-978e-2c0e19365429",
+            "balance": 8122.76,
+            "transactions": [
+                {
+                    "date": "2024-04-30",
+                    "description": "Interest",
+                    "amount": 39156.11,
+                    "transaction_id": 21867226
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Interest",
+                    "amount": 23397.91,
+                    "transaction_id": 22352251
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Withdrawal",
+                    "amount": 1283.07,
+                    "transaction_id": 23775405
+                },
+                {
+                    "date": "2024-03-26",
+                    "description": "Interest",
+                    "amount": 12685.64,
+                    "transaction_id": 114872857
+                },
+                {
+                    "date": "2023-04-29",
+                    "description": "Interest",
+                    "amount": 40165.04,
+                    "transaction_id": 58746569
+                }
+            ]
+        }
+    }
+}

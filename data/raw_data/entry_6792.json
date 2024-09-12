@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jeffery Montoya",
+        "age": 94,
+        "gender": "male",
+        "address": "46609 Lucas Dam, North Andrew, DC 11408",
+        "phone": "206.749.2034x7482",
+        "email": "mdean@example.org",
+        "account": {
+            "account_number": "41fab2cf-bbff-413a-a11e-8a4868cd5fa2",
+            "balance": 33588.74,
+            "transactions": [
+                {
+                    "date": "2023-01-14",
+                    "description": "Interest",
+                    "amount": 41127.19,
+                    "transaction_id": 65515313
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Withdrawal",
+                    "amount": 10598.15,
+                    "transaction_id": 20407155
+                },
+                {
+                    "date": "2023-03-02",
+                    "description": "Deposit",
+                    "amount": 44955.73,
+                    "transaction_id": 62892707
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Deposit",
+                    "amount": 26621.43,
+                    "transaction_id": 35626359
+                }
+            ]
+        }
+    }
+}

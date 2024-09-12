@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Wendy Robinson",
+        "age": 63,
+        "gender": "female",
+        "address": "137 Bolton Pass Apt. 261, Lake Brian, WY 34462",
+        "phone": "(290)551-8436x527",
+        "email": "oliviarogers@example.org",
+        "account": {
+            "account_number": "0055f2e8-ceeb-4017-829b-13d28de8212a",
+            "balance": 34751.11,
+            "transactions": [
+                {
+                    "date": "2023-12-09",
+                    "description": "Interest",
+                    "amount": 31434.46,
+                    "transaction_id": 118560795
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Deposit",
+                    "amount": 15370.34,
+                    "transaction_id": 72682315
+                }
+            ]
+        }
+    }
+}

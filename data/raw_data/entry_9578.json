@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 34,
+        "gender": "male",
+        "address": "88871 Bass Rest, Port Kathryn, AL 61599",
+        "phone": "001-458-971-6334",
+        "email": "lthompson@example.com",
+        "account": {
+            "account_number": "8d109fa5-afd1-4e23-9f25-febd34f2c051",
+            "balance": 30422.97,
+            "transactions": [
+                {
+                    "date": "2022-09-04",
+                    "description": "Deposit",
+                    "amount": 4225.75,
+                    "transaction_id": 53137005
+                },
+                {
+                    "date": "2022-12-02",
+                    "description": "Interest",
+                    "amount": -4799.63,
+                    "transaction_id": 36886258
+                },
+                {
+                    "date": "2024-05-20",
+                    "description": "Withdrawal",
+                    "amount": -3612.7,
+                    "transaction_id": 69440869
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Withdrawal",
+                    "amount": 120.06,
+                    "transaction_id": 20934269
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Interest",
+                    "amount": -770.2,
+                    "transaction_id": 25558939
+                }
+            ]
+        }
+    }
+}

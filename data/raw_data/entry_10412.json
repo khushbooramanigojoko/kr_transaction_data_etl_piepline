@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 76,
+        "gender": "female",
+        "address": "24458 Andrews Plains Suite 271, Jameshaven, MA 94542",
+        "phone": "564-926-3936x82852",
+        "email": "danielle49@example.net",
+        "account": {
+            "account_number": "28fc730e-b793-4bfd-9734-581696c9e95c",
+            "balance": 11879.13,
+            "transactions": [
+                {
+                    "date": "2024-01-22",
+                    "description": "Deposit",
+                    "amount": 4494.94,
+                    "transaction_id": 15697524
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Interest",
+                    "amount": -2079.17,
+                    "transaction_id": 27996491
+                }
+            ]
+        }
+    }
+}

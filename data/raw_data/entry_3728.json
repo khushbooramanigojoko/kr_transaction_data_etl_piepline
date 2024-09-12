@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dawn Warren",
+        "age": 97,
+        "gender": "male",
+        "address": "38663 Smith Islands, Castilloburgh, KS 37044",
+        "phone": "3945655391",
+        "email": "woodalicia@example.com",
+        "account": {
+            "account_number": "89e9b90a-052b-4781-8575-974db04a6f83",
+            "balance": 13433.42,
+            "transactions": [
+                {
+                    "date": "2022-11-15",
+                    "description": "Interest",
+                    "amount": 19359.4,
+                    "transaction_id": 69265313
+                }
+            ]
+        }
+    }
+}

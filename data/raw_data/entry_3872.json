@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stephanie Chang",
+        "age": 99,
+        "gender": "female",
+        "address": "48162 Kristopher Oval, Chandlerborough, HI 89117",
+        "phone": "(299)682-9589x757",
+        "email": "katrinajohnson@example.net",
+        "account": {
+            "account_number": "381d9208-cf9e-4485-8612-7f2e953d812e",
+            "balance": 20599.94,
+            "transactions": [
+                {
+                    "date": "2024-07-15",
+                    "description": "Withdrawal",
+                    "amount": 771.21,
+                    "transaction_id": 56959114
+                }
+            ]
+        }
+    }
+}

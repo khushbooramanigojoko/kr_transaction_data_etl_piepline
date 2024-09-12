@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Andrea Underwood",
+        "age": 24,
+        "gender": "male",
+        "address": "2315 Gray Village Apt. 261, East Kaitlynville, MI 62949",
+        "phone": "639-590-5771",
+        "email": "orivera@example.org",
+        "account": {
+            "account_number": "ac737822-65a7-4fd1-af08-22b919661521",
+            "balance": 40413.19,
+            "transactions": [
+                {
+                    "date": "2022-12-09",
+                    "description": "Interest",
+                    "amount": 28516.03,
+                    "transaction_id": 89282917
+                }
+            ]
+        }
+    }
+}

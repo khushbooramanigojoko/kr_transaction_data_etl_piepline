@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ana Martin",
+        "age": 54,
+        "gender": "male",
+        "address": "9883 Emily Ranch, West Julie, RI 90998",
+        "phone": "525.477.8568",
+        "email": "bruce93@example.org",
+        "account": {
+            "account_number": "e86c1122-d72d-449b-82bc-d31b52fe6708",
+            "balance": 5251.75,
+            "transactions": [
+                {
+                    "date": "2023-06-06",
+                    "description": "Withdrawal",
+                    "amount": 5094.43,
+                    "transaction_id": 61537325
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 60,
+        "gender": "female",
+        "address": "515 Alexander Place, Williamsside, WV 38037",
+        "phone": "(812)799-0009x9088",
+        "email": "emily18@example.net",
+        "account": {
+            "account_number": "f85e96be-9ed6-4357-97b9-b02eff1c9310",
+            "balance": 21355.39,
+            "transactions": [
+                {
+                    "date": "2024-02-07",
+                    "description": "Deposit",
+                    "amount": 598.74,
+                    "transaction_id": 10695434
+                }
+            ]
+        }
+    }
+}

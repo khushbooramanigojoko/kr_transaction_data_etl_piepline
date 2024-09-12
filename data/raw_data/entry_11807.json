@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 76,
+        "gender": "male",
+        "address": "5819 Jimmy Groves Suite 116, Roberthaven, MI 69252",
+        "phone": "899.564.7601x11600",
+        "email": "valenciacurtis@example.net",
+        "account": {
+            "account_number": "268f4f6a-c960-4a77-80d2-3b2b1ed36560",
+            "balance": 34237.43,
+            "transactions": [
+                {
+                    "date": "2024-01-03",
+                    "description": "Interest",
+                    "amount": -1525.48,
+                    "transaction_id": 41931803
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Deposit",
+                    "amount": 383.46,
+                    "transaction_id": 95153251
+                },
+                {
+                    "date": "2024-06-14",
+                    "description": "Withdrawal",
+                    "amount": 3236.71,
+                    "transaction_id": 99333342
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Withdrawal",
+                    "amount": -3697.23,
+                    "transaction_id": 5510325
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Becky Harris",
+        "age": 65,
+        "gender": "female",
+        "address": "00356 Katrina Crossroad, East Matthewmouth, NE 95651",
+        "phone": "701-408-2164x417",
+        "email": "brittanywatts@example.org",
+        "account": {
+            "account_number": "a6e71f27-6adf-490b-90a8-9d1f777acd1c",
+            "balance": -26044.67,
+            "transactions": [
+                {
+                    "date": "2023-05-05",
+                    "description": "Withdrawal",
+                    "amount": -1367.95,
+                    "transaction_id": 94604015
+                }
+            ]
+        }
+    }
+}

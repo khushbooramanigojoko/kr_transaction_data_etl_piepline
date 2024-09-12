@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tiffany Payne",
+        "age": 46,
+        "gender": "female",
+        "address": "69992 Burnett Parkways, Bellburgh, CO 71269",
+        "phone": "+1-220-991-5001x676",
+        "email": "kelseyrivera@example.net",
+        "account": {
+            "account_number": "1e67a998-fd12-48ac-a27b-6d4be89a8b5b",
+            "balance": 27592.52,
+            "transactions": [
+                {
+                    "date": "2022-12-06",
+                    "description": "Interest",
+                    "amount": 34381.1,
+                    "transaction_id": 81775723
+                },
+                {
+                    "date": "2022-11-16",
+                    "description": "Interest",
+                    "amount": 20343.97,
+                    "transaction_id": 59069667
+                },
+                {
+                    "date": "2023-04-16",
+                    "description": "Withdrawal",
+                    "amount": 30600.76,
+                    "transaction_id": 27319486
+                },
+                {
+                    "date": "2022-10-11",
+                    "description": "Deposit",
+                    "amount": 38653.53,
+                    "transaction_id": 64422978
+                }
+            ]
+        }
+    }
+}

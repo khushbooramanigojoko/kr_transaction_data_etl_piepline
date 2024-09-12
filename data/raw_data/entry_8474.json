@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kimberly Rogers",
+        "age": 52,
+        "gender": "female",
+        "address": "0645 Phillips Motorway, East Richard, WA 98482",
+        "phone": "9202555852",
+        "email": "woodssandra@example.net",
+        "account": {
+            "account_number": "fa237ac4-589e-4d64-a173-77efd94b54f1",
+            "balance": 17373.69,
+            "transactions": [
+                {
+                    "date": "2023-11-04",
+                    "description": "Interest",
+                    "amount": 4038.96,
+                    "transaction_id": 114803898
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Deposit",
+                    "amount": 30185.35,
+                    "transaction_id": 39310452
+                },
+                {
+                    "date": "2023-06-29",
+                    "description": "Deposit",
+                    "amount": 47921.51,
+                    "transaction_id": 55858360
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Withdrawal",
+                    "amount": 10632.04,
+                    "transaction_id": 42770084
+                },
+                {
+                    "date": "2024-05-12",
+                    "description": "Deposit",
+                    "amount": 918.3,
+                    "transaction_id": 115735903
+                }
+            ]
+        }
+    }
+}

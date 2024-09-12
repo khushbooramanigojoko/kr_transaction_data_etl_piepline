@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Daniel Holloway",
+        "age": 85,
+        "gender": "male",
+        "address": "4196 Robin Harbor, Cohenberg, ND 23739",
+        "phone": "(781)909-2279x192",
+        "email": "uwilliams@example.net",
+        "account": {
+            "account_number": "1bbada46-046c-48d9-906c-30913529f8d4",
+            "balance": 6579.13,
+            "transactions": [
+                {
+                    "date": "2024-05-16",
+                    "description": "Deposit",
+                    "amount": 4219.32,
+                    "transaction_id": 119668604
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Interest",
+                    "amount": 22951.26,
+                    "transaction_id": 103350800
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Deposit",
+                    "amount": 3165.48,
+                    "transaction_id": 59823631
+                }
+            ]
+        }
+    }
+}

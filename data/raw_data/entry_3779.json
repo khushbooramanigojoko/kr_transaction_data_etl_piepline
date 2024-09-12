@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Carrie Pearson",
+        "age": 79,
+        "gender": "female",
+        "address": "29645 Jeffrey Fields, West Jenniferton, RI 25281",
+        "phone": "001-408-447-9808x83457",
+        "email": "elizabethkennedy@example.org",
+        "account": {
+            "account_number": "2a6b0a81-18c4-4267-ab31-f106744339f3",
+            "balance": 35963.86,
+            "transactions": [
+                {
+                    "date": "2024-01-25",
+                    "description": "Deposit",
+                    "amount": 5440.05,
+                    "transaction_id": 81232471
+                },
+                {
+                    "date": "2024-07-24",
+                    "description": "Deposit",
+                    "amount": 19937.59,
+                    "transaction_id": 8711591
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Withdrawal",
+                    "amount": 34544.88,
+                    "transaction_id": 27731775
+                }
+            ]
+        }
+    }
+}

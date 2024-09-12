@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Meredith Hernandez",
+        "age": 54,
+        "gender": "male",
+        "address": "7453 Meagan Bridge Apt. 875, North Ashleyton, HI 54268",
+        "phone": "676.452.9862x65204",
+        "email": "peter44@example.org",
+        "account": {
+            "account_number": "144223fd-fe7a-48b9-bc9a-a03d86371cc1",
+            "balance": 26517.42,
+            "transactions": [
+                {
+                    "date": "2022-11-22",
+                    "description": "Deposit",
+                    "amount": 34135.28,
+                    "transaction_id": 30782401
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Deposit",
+                    "amount": 9362.51,
+                    "transaction_id": 51016470
+                },
+                {
+                    "date": "2022-10-19",
+                    "description": "Interest",
+                    "amount": 23123.38,
+                    "transaction_id": 57865195
+                }
+            ]
+        }
+    }
+}

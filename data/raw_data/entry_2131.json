@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ralph Henry",
+        "age": 29,
+        "gender": "male",
+        "address": "174 Amanda Ferry Suite 011, Morrisonberg, VA 94608",
+        "phone": "001-543-324-8916x802",
+        "email": "vgeorge@example.com",
+        "account": {
+            "account_number": "79b5aa71-6f3e-4208-9af3-25d3a3c1d915",
+            "balance": 2812.94,
+            "transactions": [
+                {
+                    "date": "2023-03-15",
+                    "description": "Deposit",
+                    "amount": 28672.12,
+                    "transaction_id": 33905202
+                },
+                {
+                    "date": "2023-05-22",
+                    "description": "Withdrawal",
+                    "amount": 37049.68,
+                    "transaction_id": 7292112
+                }
+            ]
+        }
+    }
+}

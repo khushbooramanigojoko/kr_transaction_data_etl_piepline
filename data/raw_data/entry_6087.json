@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Shelby Olson",
+        "age": 86,
+        "gender": "female",
+        "address": "USNS Bennett, FPO AP 38680",
+        "phone": "001-951-615-5574x33181",
+        "email": "dominiqueramirez@example.com",
+        "account": {
+            "account_number": "6e0ccfdc-eac3-4652-a992-be534154999e",
+            "balance": 42867.86,
+            "transactions": [
+                {
+                    "date": "2023-12-21",
+                    "description": "Deposit",
+                    "amount": 23633.81,
+                    "transaction_id": 10292438
+                },
+                {
+                    "date": "2023-02-03",
+                    "description": "Withdrawal",
+                    "amount": 3878.96,
+                    "transaction_id": 37855880
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Deposit",
+                    "amount": 1590.4,
+                    "transaction_id": 13322617
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Withdrawal",
+                    "amount": 27360.15,
+                    "transaction_id": 96772587
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Withdrawal",
+                    "amount": 18749.93,
+                    "transaction_id": 30523699
+                }
+            ]
+        }
+    }
+}

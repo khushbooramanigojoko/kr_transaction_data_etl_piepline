@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jeffery Garcia",
+        "age": 79,
+        "gender": "female",
+        "address": "90507 Robert Keys Apt. 460, Jameshaven, MI 31611",
+        "phone": "642-303-1727x4615",
+        "email": "shane13@example.net",
+        "account": {
+            "account_number": "0ca92253-8c63-4f30-ab8e-1ab495f0115c",
+            "balance": 43978.97,
+            "transactions": [
+                {
+                    "date": "2024-07-03",
+                    "description": "Interest",
+                    "amount": 29722.66,
+                    "transaction_id": 42059950
+                }
+            ]
+        }
+    }
+}

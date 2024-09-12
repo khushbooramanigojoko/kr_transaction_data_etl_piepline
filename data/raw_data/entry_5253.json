@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Steven Erickson",
+        "age": 88,
+        "gender": "male",
+        "address": "087 Maria Camp, East Heather, NV 85912",
+        "phone": "295-235-6917x583",
+        "email": "brenda28@example.com",
+        "account": {
+            "account_number": "c1ebd6a6-f610-45d4-8d2d-4b302eae3fca",
+            "balance": 5942.18,
+            "transactions": [
+                {
+                    "date": "2024-08-26",
+                    "description": "Deposit",
+                    "amount": 7748.8,
+                    "transaction_id": 70759857
+                }
+            ]
+        }
+    }
+}

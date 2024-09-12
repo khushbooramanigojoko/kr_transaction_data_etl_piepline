@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mark Robinson",
+        "age": 23,
+        "gender": "female",
+        "address": "4549 Williams River Apt. 762, South Aaron, AZ 78436",
+        "phone": "(509)886-1517x227",
+        "email": "amendoza@example.org",
+        "account": {
+            "account_number": "cea7f58f-1ac8-433c-bd6c-cc5ff926bd98",
+            "balance": -17927.66,
+            "transactions": [
+                {
+                    "date": "2024-04-09",
+                    "description": "Deposit",
+                    "amount": 3897.88,
+                    "transaction_id": 23134653
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Withdrawal",
+                    "amount": 4363.42,
+                    "transaction_id": 24150690
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Interest",
+                    "amount": 439.59,
+                    "transaction_id": 119839705
+                },
+                {
+                    "date": "2024-08-29",
+                    "description": "Interest",
+                    "amount": -3326.93,
+                    "transaction_id": 48756224
+                }
+            ]
+        }
+    }
+}

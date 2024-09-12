@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ashley Kelly",
+        "age": 92,
+        "gender": "female",
+        "address": "48118 Bethany Spurs Apt. 519, Hendersonland, VI 37799",
+        "phone": "329.231.1470x632",
+        "email": "marygray@example.org",
+        "account": {
+            "account_number": "647d9822-7fa7-4184-911a-5f37e4ae9837",
+            "balance": 35765.28,
+            "transactions": [
+                {
+                    "date": "2024-07-25",
+                    "description": "Withdrawal",
+                    "amount": 31169.62,
+                    "transaction_id": 79561265
+                },
+                {
+                    "date": "2023-10-29",
+                    "description": "Deposit",
+                    "amount": 47895.32,
+                    "transaction_id": 106332973
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Withdrawal",
+                    "amount": 1696.55,
+                    "transaction_id": 46659477
+                },
+                {
+                    "date": "2022-11-14",
+                    "description": "Withdrawal",
+                    "amount": 10949.66,
+                    "transaction_id": 54421932
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Interest",
+                    "amount": 26907.69,
+                    "transaction_id": 28392203
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "April Jones",
+        "age": 58,
+        "gender": "male",
+        "address": "USCGC Freeman, FPO AE 41750",
+        "phone": "5893158020",
+        "email": "anthony82@example.org",
+        "account": {
+            "account_number": "aabea088-e66b-44ed-aba2-a9f2fd4bb87f",
+            "balance": 5745.16,
+            "transactions": [
+                {
+                    "date": "2023-11-24",
+                    "description": "Deposit",
+                    "amount": 26526.97,
+                    "transaction_id": 26264773
+                },
+                {
+                    "date": "2023-08-24",
+                    "description": "Withdrawal",
+                    "amount": 19654.68,
+                    "transaction_id": 57513329
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Withdrawal",
+                    "amount": 39630.68,
+                    "transaction_id": 41281000
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Withdrawal",
+                    "amount": 33672.0,
+                    "transaction_id": 61772069
+                }
+            ]
+        }
+    }
+}

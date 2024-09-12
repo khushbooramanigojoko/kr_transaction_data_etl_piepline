@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kenneth Hudson",
+        "age": 92,
+        "gender": "male",
+        "address": "43161 Tammy Mission Suite 296, Lake David, OH 01839",
+        "phone": "6818714099",
+        "email": "aaron53@example.org",
+        "account": {
+            "account_number": "40a15f2d-1783-4056-99c2-a198698b725c",
+            "balance": 33254.65,
+            "transactions": [
+                {
+                    "date": "2023-10-11",
+                    "description": "Interest",
+                    "amount": 25521.29,
+                    "transaction_id": 91591275
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Withdrawal",
+                    "amount": 32679.04,
+                    "transaction_id": 89747101
+                },
+                {
+                    "date": "2024-04-15",
+                    "description": "Deposit",
+                    "amount": 35386.68,
+                    "transaction_id": 41640021
+                }
+            ]
+        }
+    }
+}

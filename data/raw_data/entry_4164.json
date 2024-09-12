@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sarah Brown",
+        "age": 64,
+        "gender": "female",
+        "address": "PSC 6570, Box 2819, APO AA 23391",
+        "phone": "569.901.3502",
+        "email": "davidmeyers@example.net",
+        "account": {
+            "account_number": "b71d6674-01b8-4d0b-a345-05d328639137",
+            "balance": 25973.16,
+            "transactions": [
+                {
+                    "date": "2023-10-15",
+                    "description": "Interest",
+                    "amount": 27799.2,
+                    "transaction_id": 62458230
+                }
+            ]
+        }
+    }
+}

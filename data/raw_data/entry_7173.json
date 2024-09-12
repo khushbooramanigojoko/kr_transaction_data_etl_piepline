@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Reginald Lam",
+        "age": 95,
+        "gender": "male",
+        "address": "887 Julia Divide Apt. 329, Tuckerhaven, AL 33323",
+        "phone": "767-675-7944x754",
+        "email": "joeandrews@example.org",
+        "account": {
+            "account_number": "557130e6-5a65-4521-8689-df145c246c1f",
+            "balance": 26784.47,
+            "transactions": [
+                {
+                    "date": "2023-06-21",
+                    "description": "Deposit",
+                    "amount": 26719.82,
+                    "transaction_id": 97427615
+                },
+                {
+                    "date": "2023-11-03",
+                    "description": "Withdrawal",
+                    "amount": 36065.28,
+                    "transaction_id": 75261739
+                },
+                {
+                    "date": "2022-11-07",
+                    "description": "Withdrawal",
+                    "amount": 44234.2,
+                    "transaction_id": 72030952
+                },
+                {
+                    "date": "2022-11-05",
+                    "description": "Interest",
+                    "amount": 40763.88,
+                    "transaction_id": 111762967
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kimberly Silva",
+        "age": 73,
+        "gender": "female",
+        "address": "42591 Dale Springs, Wendyport, MI 69944",
+        "phone": "497-318-5787x21579",
+        "email": "brightamber@example.net",
+        "account": {
+            "account_number": "73686ed8-8849-4197-b65b-d310dc21866c",
+            "balance": 1607.16,
+            "transactions": [
+                {
+                    "date": "2024-01-12",
+                    "description": "Withdrawal",
+                    "amount": 31610.07,
+                    "transaction_id": 57641840
+                }
+            ]
+        }
+    }
+}

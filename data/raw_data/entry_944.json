@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sarah Knight",
+        "age": 62,
+        "gender": "male",
+        "address": "4438 Thomas Stravenue Apt. 007, Port Davidhaven, TX 17791",
+        "phone": "576-447-7648",
+        "email": "brenda26@example.net",
+        "account": {
+            "account_number": "e0d05fad-f8db-4f6a-a027-9406af014def",
+            "balance": 18194.87,
+            "transactions": [
+                {
+                    "date": "2022-09-24",
+                    "description": "Interest",
+                    "amount": 420.22,
+                    "transaction_id": 106280044
+                },
+                {
+                    "date": "2022-11-17",
+                    "description": "Withdrawal",
+                    "amount": 49179.13,
+                    "transaction_id": 52540341
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Robert Taylor",
+        "age": 94,
+        "gender": "male",
+        "address": "1357 Green Point Suite 073, Kennethview, VI 32721",
+        "phone": "(714)912-0712x48810",
+        "email": "schneidermark@example.com",
+        "account": {
+            "account_number": "eb360783-eb3b-44d5-9d51-9e19818cf172",
+            "balance": 25170.74,
+            "transactions": [
+                {
+                    "date": "2023-08-21",
+                    "description": "Interest",
+                    "amount": 7156.68,
+                    "transaction_id": 109905082
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Deposit",
+                    "amount": 12113.87,
+                    "transaction_id": 85202008
+                },
+                {
+                    "date": "2022-11-11",
+                    "description": "Withdrawal",
+                    "amount": 40877.2,
+                    "transaction_id": 45689392
+                }
+            ]
+        }
+    }
+}

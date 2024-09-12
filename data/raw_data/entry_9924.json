@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 63,
+        "gender": "female",
+        "address": "Unit 1344 Box 2677, DPO AE 89517",
+        "phone": "301.569.6292x10361",
+        "email": "stephanie02@example.org",
+        "account": {
+            "account_number": "c6c48889-f459-418f-a723-685f1e78f0ec",
+            "balance": 34088.31,
+            "transactions": [
+                {
+                    "date": "2023-01-02",
+                    "description": "Deposit",
+                    "amount": 2419.84,
+                    "transaction_id": 95844140
+                }
+            ]
+        }
+    }
+}

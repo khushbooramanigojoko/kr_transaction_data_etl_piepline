@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "David Patrick",
+        "age": 28,
+        "gender": "male",
+        "address": "9490 Jackson Pines, Veronicashire, ID 49934",
+        "phone": "(346)525-1893",
+        "email": "robert36@example.com",
+        "account": {
+            "account_number": "5349f081-33f8-470c-bf3b-713c79e0fd95",
+            "balance": 23915.27,
+            "transactions": [
+                {
+                    "date": "2024-05-10",
+                    "description": "Interest",
+                    "amount": 2980.67,
+                    "transaction_id": 84488560
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Interest",
+                    "amount": 10122.76,
+                    "transaction_id": 80579282
+                },
+                {
+                    "date": "2023-12-20",
+                    "description": "Interest",
+                    "amount": 49988.44,
+                    "transaction_id": 42693723
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Withdrawal",
+                    "amount": 4832.89,
+                    "transaction_id": 102210215
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Interest",
+                    "amount": 13498.63,
+                    "transaction_id": 20141226
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ernest Kennedy",
+        "age": 90,
+        "gender": "male",
+        "address": "USNV Hodges, FPO AP 90005",
+        "phone": "5215076709",
+        "email": "williamrobinson@example.net",
+        "account": {
+            "account_number": "ce282d4c-ced4-4576-90c9-365b62620a7d",
+            "balance": 7172.78,
+            "transactions": [
+                {
+                    "date": "2023-07-04",
+                    "description": "Interest",
+                    "amount": 42686.97,
+                    "transaction_id": 73124752
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Interest",
+                    "amount": 23609.96,
+                    "transaction_id": 102675177
+                },
+                {
+                    "date": "2024-08-03",
+                    "description": "Withdrawal",
+                    "amount": 30326.01,
+                    "transaction_id": 64285607
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Interest",
+                    "amount": 20297.46,
+                    "transaction_id": 14032943
+                }
+            ]
+        }
+    }
+}

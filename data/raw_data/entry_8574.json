@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Angela Hunt",
+        "age": 25,
+        "gender": "male",
+        "address": "14465 Dorsey Ridges Suite 340, North Emily, AK 11147",
+        "phone": "(954)755-3515x1628",
+        "email": "amartin@example.net",
+        "account": {
+            "account_number": "7a7be359-e28d-443e-8f58-63bf3eab9406",
+            "balance": 34829.14,
+            "transactions": [
+                {
+                    "date": "2023-09-09",
+                    "description": "Deposit",
+                    "amount": 41310.79,
+                    "transaction_id": 114823386
+                }
+            ]
+        }
+    }
+}

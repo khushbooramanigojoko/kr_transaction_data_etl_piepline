@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Olsen",
+        "age": 93,
+        "gender": "male",
+        "address": "79098 Zimmerman Motorway, Wadebury, IA 02688",
+        "phone": "212-775-2898",
+        "email": "nolanbrandy@example.org",
+        "account": {
+            "account_number": "f2b495b5-dbd5-4a3e-8246-2eeeda02d38a",
+            "balance": 1676.45,
+            "transactions": [
+                {
+                    "date": "2024-07-20",
+                    "description": "Deposit",
+                    "amount": 21575.35,
+                    "transaction_id": 99350056
+                },
+                {
+                    "date": "2022-09-14",
+                    "description": "Withdrawal",
+                    "amount": 419.1,
+                    "transaction_id": 108194850
+                }
+            ]
+        }
+    }
+}

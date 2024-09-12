@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Joann Baker",
+        "age": 29,
+        "gender": "male",
+        "address": "10560 Heath Isle, Port Robinmouth, DE 98792",
+        "phone": "+1-425-516-6624x315",
+        "email": "bgreen@example.org",
+        "account": {
+            "account_number": "ed9a35ee-5d0e-4814-a57e-56b6500edd14",
+            "balance": 22091.47,
+            "transactions": [
+                {
+                    "date": "2023-09-10",
+                    "description": "Deposit",
+                    "amount": 12500.0,
+                    "transaction_id": 60100717
+                },
+                {
+                    "date": "2023-04-01",
+                    "description": "Deposit",
+                    "amount": 42318.77,
+                    "transaction_id": 28608562
+                },
+                {
+                    "date": "2023-05-29",
+                    "description": "Interest",
+                    "amount": 25123.73,
+                    "transaction_id": 52568561
+                }
+            ]
+        }
+    }
+}

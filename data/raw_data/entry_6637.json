@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Matthew Andrade",
+        "age": 72,
+        "gender": "female",
+        "address": "18802 Mercado Points, Derekmouth, ID 08705",
+        "phone": "001-448-707-9834x5907",
+        "email": "oschmidt@example.net",
+        "account": {
+            "account_number": "0d6b2df3-3191-4738-8850-1499b76fe426",
+            "balance": 13987.45,
+            "transactions": [
+                {
+                    "date": "2024-05-28",
+                    "description": "Withdrawal",
+                    "amount": 17912.2,
+                    "transaction_id": 87251191
+                },
+                {
+                    "date": "2023-03-10",
+                    "description": "Interest",
+                    "amount": 31494.91,
+                    "transaction_id": 96724417
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Erica Barnes",
+        "age": 49,
+        "gender": "female",
+        "address": "97534 Black Lodge, Frenchville, MN 35463",
+        "phone": "+1-737-776-7251x20096",
+        "email": "patrick10@example.org",
+        "account": {
+            "account_number": "17564c0b-1dba-45ed-8843-cb95933b0ed6",
+            "balance": 22075.8,
+            "transactions": [
+                {
+                    "date": "2023-12-26",
+                    "description": "Withdrawal",
+                    "amount": 40619.19,
+                    "transaction_id": 86532732
+                },
+                {
+                    "date": "2024-08-15",
+                    "description": "Interest",
+                    "amount": 19098.71,
+                    "transaction_id": 84880532
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Deposit",
+                    "amount": 47699.61,
+                    "transaction_id": 105263247
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Withdrawal",
+                    "amount": 29979.18,
+                    "transaction_id": 113654908
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Deposit",
+                    "amount": 19167.81,
+                    "transaction_id": 27314601
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Anthony Steele",
+        "age": 68,
+        "gender": "female",
+        "address": "75261 Michelle Islands Apt. 671, Alvaradofurt, WI 83586",
+        "phone": "+1-825-928-6251x92555",
+        "email": "austinrobert@example.net",
+        "account": {
+            "account_number": "98771898-dc27-4e27-950f-a18f4529fd0d",
+            "balance": 1867.43,
+            "transactions": [
+                {
+                    "date": "2023-12-26",
+                    "description": "Interest",
+                    "amount": 45046.04,
+                    "transaction_id": 54798916
+                }
+            ]
+        }
+    }
+}

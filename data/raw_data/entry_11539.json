@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jason Ward",
+        "age": 19,
+        "gender": "female",
+        "address": "PSC 0465, Box 1080, APO AP 84527",
+        "phone": "(276)582-7278x532",
+        "email": "qrichards@example.com",
+        "account": {
+            "account_number": "17abe49c-025d-45ad-83fa-bf6f9c6754df",
+            "balance": -25211.66,
+            "transactions": [
+                {
+                    "date": "2023-06-15",
+                    "description": "Withdrawal",
+                    "amount": 2273.69,
+                    "transaction_id": 85588707
+                },
+                {
+                    "date": "2024-07-14",
+                    "description": "Deposit",
+                    "amount": 3627.18,
+                    "transaction_id": 6988734
+                },
+                {
+                    "date": "2023-02-21",
+                    "description": "Deposit",
+                    "amount": -834.72,
+                    "transaction_id": 84445896
+                }
+            ]
+        }
+    }
+}

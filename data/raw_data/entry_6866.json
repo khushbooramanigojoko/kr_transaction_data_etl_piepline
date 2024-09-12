@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Thomas Patel MD",
+        "age": 47,
+        "gender": "female",
+        "address": "253 Lynn Ports Suite 888, West Brentmouth, NC 54128",
+        "phone": "(780)431-1406",
+        "email": "amanda26@example.org",
+        "account": {
+            "account_number": "9a695144-4fd4-4dde-a7a1-1228347e1866",
+            "balance": 38270.24,
+            "transactions": [
+                {
+                    "date": "2024-08-29",
+                    "description": "Withdrawal",
+                    "amount": 1297.97,
+                    "transaction_id": 16707620
+                },
+                {
+                    "date": "2024-02-21",
+                    "description": "Withdrawal",
+                    "amount": 17164.65,
+                    "transaction_id": 26524639
+                },
+                {
+                    "date": "2024-06-07",
+                    "description": "Interest",
+                    "amount": 38243.02,
+                    "transaction_id": 26556817
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Deposit",
+                    "amount": 36847.56,
+                    "transaction_id": 110676470
+                }
+            ]
+        }
+    }
+}

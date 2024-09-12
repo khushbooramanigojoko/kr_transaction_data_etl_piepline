@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Rodriguez",
+        "age": 74,
+        "gender": "male",
+        "address": "238 Jackson Extensions Apt. 953, New Abigailport, NE 02641",
+        "phone": "689.626.0734x939",
+        "email": "dsantos@example.net",
+        "account": {
+            "account_number": "1ed18b32-a3f5-47fc-ac99-1fea3f2f4b63",
+            "balance": -26157.41,
+            "transactions": [
+                {
+                    "date": "2023-11-08",
+                    "description": "Interest",
+                    "amount": -1037.42,
+                    "transaction_id": 20455278
+                }
+            ]
+        }
+    }
+}

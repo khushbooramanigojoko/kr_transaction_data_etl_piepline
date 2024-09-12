@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tricia Herrera",
+        "age": 59,
+        "gender": "female",
+        "address": "5785 Gentry Mall, North Elizabeth, CA 18849",
+        "phone": "533.253.5973x63446",
+        "email": "butlercarla@example.net",
+        "account": {
+            "account_number": "9fa9593c-83a0-4381-9208-4453894b292b",
+            "balance": 4228.07,
+            "transactions": [
+                {
+                    "date": "2023-03-03",
+                    "description": "Deposit",
+                    "amount": 44250.79,
+                    "transaction_id": 68103577
+                }
+            ]
+        }
+    }
+}

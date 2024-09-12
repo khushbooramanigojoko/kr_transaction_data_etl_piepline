@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Don Cox",
+        "age": 86,
+        "gender": "male",
+        "address": "514 Richard Crossing, Port Emily, SC 48537",
+        "phone": "001-861-545-9629",
+        "email": "kevinlamb@example.com",
+        "account": {
+            "account_number": "f2f91496-c1f1-42d3-82c4-4bc14ec4997a",
+            "balance": 18755.74,
+            "transactions": [
+                {
+                    "date": "2024-02-08",
+                    "description": "Interest",
+                    "amount": 46339.3,
+                    "transaction_id": 68362595
+                },
+                {
+                    "date": "2023-08-04",
+                    "description": "Interest",
+                    "amount": 39829.86,
+                    "transaction_id": 72457517
+                }
+            ]
+        }
+    }
+}

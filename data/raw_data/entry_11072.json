@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 23,
+        "gender": "female",
+        "address": "9232 Woods Shoal Apt. 539, East Amandaland, TX 94894",
+        "phone": "777-345-5631",
+        "email": "juliejones@example.org",
+        "account": {
+            "account_number": "c740e0b7-5de2-414e-aba9-14a5b1fc2258",
+            "balance": 35940.53,
+            "transactions": [
+                {
+                    "date": "2023-01-16",
+                    "description": "Interest",
+                    "amount": 1603.05,
+                    "transaction_id": 49720821
+                },
+                {
+                    "date": "2023-12-27",
+                    "description": "Interest",
+                    "amount": 2553.67,
+                    "transaction_id": 46645952
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Withdrawal",
+                    "amount": 1071.47,
+                    "transaction_id": 43781958
+                },
+                {
+                    "date": "2024-04-07",
+                    "description": "Interest",
+                    "amount": -4688.95,
+                    "transaction_id": 96516666
+                },
+                {
+                    "date": "2024-08-25",
+                    "description": "Withdrawal",
+                    "amount": 845.57,
+                    "transaction_id": 1344298
+                }
+            ]
+        }
+    }
+}

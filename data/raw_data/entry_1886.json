@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Andrew Williams",
+        "age": 20,
+        "gender": "male",
+        "address": "792 Tina Brook Apt. 402, Lake Annberg, NY 17613",
+        "phone": "+1-834-992-4710",
+        "email": "omcdonald@example.net",
+        "account": {
+            "account_number": "6f7d396a-3479-47aa-b855-71be196db57b",
+            "balance": 35070.29,
+            "transactions": [
+                {
+                    "date": "2022-11-19",
+                    "description": "Interest",
+                    "amount": 26004.17,
+                    "transaction_id": 26395587
+                }
+            ]
+        }
+    }
+}

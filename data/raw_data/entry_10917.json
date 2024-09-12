@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nicole Erickson",
+        "age": 70,
+        "gender": "female",
+        "address": "USS Rowland, FPO AA 05823",
+        "phone": "001-459-545-6762",
+        "email": "amanda94@example.org",
+        "account": {
+            "account_number": "e5f98b73-762a-46b5-b1f1-f3eb12052a4c",
+            "balance": -28915.0,
+            "transactions": [
+                {
+                    "date": "2024-07-19",
+                    "description": "Deposit",
+                    "amount": 3407.93,
+                    "transaction_id": 111462946
+                },
+                {
+                    "date": "2023-09-14",
+                    "description": "Withdrawal",
+                    "amount": 3868.64,
+                    "transaction_id": 87133198
+                },
+                {
+                    "date": "2023-06-18",
+                    "description": "Interest",
+                    "amount": 4564.67,
+                    "transaction_id": 14200262
+                },
+                {
+                    "date": "2023-08-04",
+                    "description": "Deposit",
+                    "amount": -4705.64,
+                    "transaction_id": 45173270
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ralph Hardin",
+        "age": 48,
+        "gender": "female",
+        "address": "9794 Zachary Mill, Johnport, NY 99638",
+        "phone": "664-978-9335x340",
+        "email": "xjohnson@example.org",
+        "account": {
+            "account_number": "aa15b075-ea9e-4077-b7a1-47fd57620b8a",
+            "balance": 42761.3,
+            "transactions": [
+                {
+                    "date": "2023-05-25",
+                    "description": "Interest",
+                    "amount": 11430.6,
+                    "transaction_id": 101948627
+                }
+            ]
+        }
+    }
+}

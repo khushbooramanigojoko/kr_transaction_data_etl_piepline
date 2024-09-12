@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mary Anderson",
+        "age": 99,
+        "gender": "female",
+        "address": "3982 Christine Light, Hawkinsshire, CO 81354",
+        "phone": "+1-521-704-2097x54968",
+        "email": "churchroberto@example.net",
+        "account": {
+            "account_number": "d67ef027-17df-4e3a-bb64-06ff7564645a",
+            "balance": 1804.82,
+            "transactions": [
+                {
+                    "date": "2022-12-10",
+                    "description": "Withdrawal",
+                    "amount": 46410.34,
+                    "transaction_id": 55210726
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Withdrawal",
+                    "amount": 625.88,
+                    "transaction_id": 31583431
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Withdrawal",
+                    "amount": 37265.55,
+                    "transaction_id": 61558367
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Withdrawal",
+                    "amount": 2021.48,
+                    "transaction_id": 50129762
+                },
+                {
+                    "date": "2022-11-06",
+                    "description": "Deposit",
+                    "amount": 17330.92,
+                    "transaction_id": 104853537
+                }
+            ]
+        }
+    }
+}

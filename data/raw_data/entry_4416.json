@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Richard Sanchez",
+        "age": 22,
+        "gender": "female",
+        "address": "9798 Jacqueline Stream Suite 936, Solismouth, OK 78095",
+        "phone": "(850)470-5636x84050",
+        "email": "perrykristine@example.org",
+        "account": {
+            "account_number": "768a9409-ad00-4a7c-8b74-ba5048768637",
+            "balance": 37289.23,
+            "transactions": [
+                {
+                    "date": "2023-07-30",
+                    "description": "Interest",
+                    "amount": 39337.15,
+                    "transaction_id": 70082693
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Interest",
+                    "amount": 26977.54,
+                    "transaction_id": 58969376
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Darren Page",
+        "age": 25,
+        "gender": "male",
+        "address": "17413 Charles Cliff Apt. 213, East Ashleeburgh, SD 46849",
+        "phone": "365.310.8635",
+        "email": "crystal58@example.com",
+        "account": {
+            "account_number": "eb860910-1b66-4e8d-9d99-7982e11efa5a",
+            "balance": 4469.15,
+            "transactions": [
+                {
+                    "date": "2023-05-15",
+                    "description": "Deposit",
+                    "amount": 4560.26,
+                    "transaction_id": 109921514
+                },
+                {
+                    "date": "2023-06-18",
+                    "description": "Deposit",
+                    "amount": 25440.84,
+                    "transaction_id": 85224678
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Interest",
+                    "amount": 23653.14,
+                    "transaction_id": 108973763
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Interest",
+                    "amount": 42011.63,
+                    "transaction_id": 102396792
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Interest",
+                    "amount": 13904.2,
+                    "transaction_id": 12934493
+                }
+            ]
+        }
+    }
+}

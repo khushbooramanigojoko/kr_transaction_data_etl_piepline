@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Brown",
+        "age": 38,
+        "gender": "male",
+        "address": "998 Santos Trail, South Paulchester, AZ 91803",
+        "phone": "844-395-0224",
+        "email": "joseph82@example.net",
+        "account": {
+            "account_number": "1bca8a69-d371-4e1c-8945-e89b0f4bde42",
+            "balance": 19247.97,
+            "transactions": [
+                {
+                    "date": "2024-04-26",
+                    "description": "Interest",
+                    "amount": 31713.47,
+                    "transaction_id": 10129272
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Interest",
+                    "amount": 3290.16,
+                    "transaction_id": 76383099
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Interest",
+                    "amount": 26868.96,
+                    "transaction_id": 83798690
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Interest",
+                    "amount": 46451.97,
+                    "transaction_id": 12432078
+                },
+                {
+                    "date": "2023-02-10",
+                    "description": "Deposit",
+                    "amount": 33174.87,
+                    "transaction_id": 36702387
+                }
+            ]
+        }
+    }
+}

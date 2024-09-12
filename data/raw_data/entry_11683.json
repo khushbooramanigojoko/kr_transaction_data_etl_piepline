@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brian Young",
+        "age": 43,
+        "gender": "male",
+        "address": "678 Susan Keys, North Douglas, MT 86302",
+        "phone": "001-357-633-6395x0067",
+        "email": "davidnavarro@example.net",
+        "account": {
+            "account_number": "06dc3df5-f5ee-4a83-aee7-ca3bfa32b8d4",
+            "balance": -20852.75,
+            "transactions": [
+                {
+                    "date": "2023-11-16",
+                    "description": "Withdrawal",
+                    "amount": 1228.37,
+                    "transaction_id": 4634046
+                },
+                {
+                    "date": "2024-06-14",
+                    "description": "Withdrawal",
+                    "amount": 854.77,
+                    "transaction_id": 50684165
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Interest",
+                    "amount": -2967.44,
+                    "transaction_id": 78113543
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Interest",
+                    "amount": -1915.52,
+                    "transaction_id": 27604340
+                }
+            ]
+        }
+    }
+}

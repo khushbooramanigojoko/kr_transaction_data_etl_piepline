@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Gary Stevens",
+        "age": 86,
+        "gender": "female",
+        "address": "6291 Vazquez Branch Apt. 311, Roachland, ME 17212",
+        "phone": "(242)314-1627",
+        "email": "gmitchell@example.org",
+        "account": {
+            "account_number": "025107c5-2f1e-4b64-bc51-cd5d3f913fb3",
+            "balance": 8724.94,
+            "transactions": [
+                {
+                    "date": "2024-04-27",
+                    "description": "Withdrawal",
+                    "amount": 6532.05,
+                    "transaction_id": 50764450
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Interest",
+                    "amount": 42251.43,
+                    "transaction_id": 85291110
+                }
+            ]
+        }
+    }
+}

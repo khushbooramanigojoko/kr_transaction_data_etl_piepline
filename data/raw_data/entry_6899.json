@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sarah Berger MD",
+        "age": 22,
+        "gender": "male",
+        "address": "130 Elliott Ridge Suite 790, New Brian, AR 87669",
+        "phone": "+1-386-451-9547",
+        "email": "fredwilliams@example.org",
+        "account": {
+            "account_number": "0ff5e944-13f4-48cd-8cd1-6d3ea9338214",
+            "balance": 20300.13,
+            "transactions": [
+                {
+                    "date": "2023-03-09",
+                    "description": "Interest",
+                    "amount": 39848.01,
+                    "transaction_id": 59561703
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Interest",
+                    "amount": 32832.29,
+                    "transaction_id": 74435426
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": 1279.88,
+                    "transaction_id": 17337128
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Interest",
+                    "amount": 18599.91,
+                    "transaction_id": 78575697
+                }
+            ]
+        }
+    }
+}

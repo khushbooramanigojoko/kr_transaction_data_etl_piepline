@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jeremy Lewis",
+        "age": 42,
+        "gender": "male",
+        "address": "36996 Rodriguez Mall, New Nicholas, NV 57893",
+        "phone": "338-747-0870",
+        "email": "taylor53@example.com",
+        "account": {
+            "account_number": "c9908240-0407-4483-81ac-8c527f916fd8",
+            "balance": 19365.15,
+            "transactions": [
+                {
+                    "date": "2023-01-14",
+                    "description": "Deposit",
+                    "amount": 30844.32,
+                    "transaction_id": 56906452
+                },
+                {
+                    "date": "2023-10-18",
+                    "description": "Interest",
+                    "amount": 14233.92,
+                    "transaction_id": 32728554
+                },
+                {
+                    "date": "2024-06-20",
+                    "description": "Interest",
+                    "amount": 13334.08,
+                    "transaction_id": 69294818
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Interest",
+                    "amount": 12707.49,
+                    "transaction_id": 111757307
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Deposit",
+                    "amount": 17696.74,
+                    "transaction_id": 98160571
+                }
+            ]
+        }
+    }
+}

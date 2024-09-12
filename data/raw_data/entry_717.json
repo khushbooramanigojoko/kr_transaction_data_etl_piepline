@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Randolph",
+        "age": 71,
+        "gender": "female",
+        "address": "Unit 9157 Box 3418, DPO AE 44631",
+        "phone": "(470)277-9072x89467",
+        "email": "andrewreed@example.org",
+        "account": {
+            "account_number": "199e9679-290d-4f3c-a3ed-c1e1e620b65e",
+            "balance": 5563.28,
+            "transactions": [
+                {
+                    "date": "2023-03-22",
+                    "description": "Deposit",
+                    "amount": 48485.62,
+                    "transaction_id": 103578023
+                },
+                {
+                    "date": "2023-11-16",
+                    "description": "Deposit",
+                    "amount": 33129.19,
+                    "transaction_id": 72603553
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Deposit",
+                    "amount": 30254.95,
+                    "transaction_id": 67748571
+                }
+            ]
+        }
+    }
+}

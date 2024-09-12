@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ashley Rice",
+        "age": 97,
+        "gender": "female",
+        "address": "8912 Reid Views Apt. 408, Hayesside, TN 64753",
+        "phone": "854.332.6932x401",
+        "email": "katherinefrederick@example.net",
+        "account": {
+            "account_number": "2010f94f-98e5-4573-a559-4ac23197edb2",
+            "balance": 21373.08,
+            "transactions": [
+                {
+                    "date": "2023-04-06",
+                    "description": "Withdrawal",
+                    "amount": 32118.3,
+                    "transaction_id": 61011819
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Edwards",
+        "age": 54,
+        "gender": "male",
+        "address": "8890 Holland Point, West Cynthia, MH 61122",
+        "phone": "986-221-4346",
+        "email": "sarahsparks@example.com",
+        "account": {
+            "account_number": "fc9b9e05-ba77-42ea-a04f-f4f1e02adb6d",
+            "balance": 5442.52,
+            "transactions": [
+                {
+                    "date": "2023-12-14",
+                    "description": "Interest",
+                    "amount": 10664.18,
+                    "transaction_id": 84329347
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Withdrawal",
+                    "amount": 163.38,
+                    "transaction_id": 67778239
+                },
+                {
+                    "date": "2023-08-04",
+                    "description": "Deposit",
+                    "amount": 35703.6,
+                    "transaction_id": 94725804
+                },
+                {
+                    "date": "2023-10-10",
+                    "description": "Withdrawal",
+                    "amount": 31197.53,
+                    "transaction_id": 15383085
+                },
+                {
+                    "date": "2023-11-05",
+                    "description": "Withdrawal",
+                    "amount": 12694.45,
+                    "transaction_id": 89206806
+                }
+            ]
+        }
+    }
+}

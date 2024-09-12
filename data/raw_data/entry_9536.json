@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Devin Yang",
+        "age": 89,
+        "gender": "male",
+        "address": "20900 Tracy Rapids, New Alyssa, KY 73557",
+        "phone": "903-677-5798x8190",
+        "email": "trandall@example.net",
+        "account": {
+            "account_number": "d1ae984c-203c-4add-88d7-430d146cfe58",
+            "balance": -8135.87,
+            "transactions": [
+                {
+                    "date": "2024-02-23",
+                    "description": "Withdrawal",
+                    "amount": -2980.86,
+                    "transaction_id": 30458402
+                },
+                {
+                    "date": "2023-06-12",
+                    "description": "Interest",
+                    "amount": 1999.89,
+                    "transaction_id": 102047330
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Interest",
+                    "amount": -795.66,
+                    "transaction_id": 14210076
+                }
+            ]
+        }
+    }
+}

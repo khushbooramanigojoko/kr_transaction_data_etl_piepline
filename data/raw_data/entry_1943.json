@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Karen Newman",
+        "age": 43,
+        "gender": "female",
+        "address": "7266 Patel Tunnel, Paulview, FL 82949",
+        "phone": "001-869-309-1356",
+        "email": "collinszachary@example.net",
+        "account": {
+            "account_number": "bec1eace-8411-4fb3-8dc7-985af36255bb",
+            "balance": 25040.89,
+            "transactions": [
+                {
+                    "date": "2024-06-07",
+                    "description": "Withdrawal",
+                    "amount": 30522.25,
+                    "transaction_id": 66617872
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Withdrawal",
+                    "amount": 6794.44,
+                    "transaction_id": 99959072
+                },
+                {
+                    "date": "2023-08-03",
+                    "description": "Interest",
+                    "amount": 35110.2,
+                    "transaction_id": 35833734
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Deposit",
+                    "amount": 46692.97,
+                    "transaction_id": 46338869
+                },
+                {
+                    "date": "2023-07-29",
+                    "description": "Deposit",
+                    "amount": 27138.91,
+                    "transaction_id": 107566847
+                }
+            ]
+        }
+    }
+}

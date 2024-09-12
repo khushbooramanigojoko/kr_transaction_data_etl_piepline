@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christopher Castaneda",
+        "age": 71,
+        "gender": "male",
+        "address": "641 Latoya Hill, Douglasberg, PA 01504",
+        "phone": "9543770528",
+        "email": "james92@example.com",
+        "account": {
+            "account_number": "0684fa54-7771-4b7b-b146-15f90689504f",
+            "balance": 34860.34,
+            "transactions": [
+                {
+                    "date": "2024-01-03",
+                    "description": "Withdrawal",
+                    "amount": 2135.69,
+                    "transaction_id": 54997899
+                },
+                {
+                    "date": "2023-01-01",
+                    "description": "Withdrawal",
+                    "amount": 48044.95,
+                    "transaction_id": 116780695
+                }
+            ]
+        }
+    }
+}

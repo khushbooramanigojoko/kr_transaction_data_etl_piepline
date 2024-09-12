@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jordan Baxter",
+        "age": 86,
+        "gender": "female",
+        "address": "133 Bell Spurs Apt. 579, West Melissa, VT 81746",
+        "phone": "(321)613-3810",
+        "email": "daltoncolleen@example.net",
+        "account": {
+            "account_number": "d67c4a02-87db-41e2-9396-8ae00a6f2c08",
+            "balance": 36628.94,
+            "transactions": [
+                {
+                    "date": "2023-07-11",
+                    "description": "Interest",
+                    "amount": 47929.41,
+                    "transaction_id": 87045818
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Interest",
+                    "amount": 47143.64,
+                    "transaction_id": 7406357
+                },
+                {
+                    "date": "2024-03-25",
+                    "description": "Withdrawal",
+                    "amount": 16205.85,
+                    "transaction_id": 81092024
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Interest",
+                    "amount": 16395.75,
+                    "transaction_id": 42229188
+                }
+            ]
+        }
+    }
+}

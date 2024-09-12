@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Alex Jackson",
+        "age": 34,
+        "gender": "female",
+        "address": "0657 Donald Point, Chelseaborough, ND 39997",
+        "phone": "(354)778-1191",
+        "email": "lauren30@example.org",
+        "account": {
+            "account_number": "af68d0f0-8844-4e8b-b2bf-c0e4ef9f7af2",
+            "balance": 25014.74,
+            "transactions": [
+                {
+                    "date": "2024-04-01",
+                    "description": "Deposit",
+                    "amount": 17161.5,
+                    "transaction_id": 78605890
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Interest",
+                    "amount": 31656.62,
+                    "transaction_id": 91435186
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Interest",
+                    "amount": 36314.35,
+                    "transaction_id": 81954029
+                },
+                {
+                    "date": "2023-12-05",
+                    "description": "Withdrawal",
+                    "amount": 3381.68,
+                    "transaction_id": 72874168
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Deposit",
+                    "amount": 32192.63,
+                    "transaction_id": 21392440
+                }
+            ]
+        }
+    }
+}

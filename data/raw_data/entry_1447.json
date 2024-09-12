@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jerry Wagner",
+        "age": 90,
+        "gender": "male",
+        "address": "8325 Brown Points, North Cory, MH 88040",
+        "phone": "532-730-9006x963",
+        "email": "christianberger@example.com",
+        "account": {
+            "account_number": "9df30c08-56e6-44b2-be7b-0fa8b4f16dde",
+            "balance": 37147.62,
+            "transactions": [
+                {
+                    "date": "2023-07-20",
+                    "description": "Withdrawal",
+                    "amount": 2668.22,
+                    "transaction_id": 39411977
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Interest",
+                    "amount": 31642.85,
+                    "transaction_id": 40282066
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Interest",
+                    "amount": 22392.92,
+                    "transaction_id": 57885663
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Deposit",
+                    "amount": 1248.78,
+                    "transaction_id": 53129442
+                },
+                {
+                    "date": "2024-04-07",
+                    "description": "Deposit",
+                    "amount": 9581.19,
+                    "transaction_id": 69903837
+                }
+            ]
+        }
+    }
+}

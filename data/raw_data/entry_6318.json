@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michelle Jackson",
+        "age": 32,
+        "gender": "female",
+        "address": "4303 Faulkner Hill, Tammychester, MP 59835",
+        "phone": "(865)416-8005x190",
+        "email": "aaron70@example.org",
+        "account": {
+            "account_number": "d9e34ed2-ece1-4cbb-b14f-06e629ecbb2f",
+            "balance": 45899.35,
+            "transactions": [
+                {
+                    "date": "2023-09-25",
+                    "description": "Deposit",
+                    "amount": 6894.9,
+                    "transaction_id": 62651466
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kayla Powers",
+        "age": 59,
+        "gender": "female",
+        "address": "477 Gomez Green Apt. 359, New Tyler, LA 05034",
+        "phone": "(722)935-7798x687",
+        "email": "umoore@example.net",
+        "account": {
+            "account_number": "850a0170-6fd2-4b20-b789-5fa3d15e9f93",
+            "balance": 46210.4,
+            "transactions": [
+                {
+                    "date": "2024-07-19",
+                    "description": "Deposit",
+                    "amount": 3346.37,
+                    "transaction_id": 30636955
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Deposit",
+                    "amount": 46560.96,
+                    "transaction_id": 13340789
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Deposit",
+                    "amount": 32615.84,
+                    "transaction_id": 13239536
+                },
+                {
+                    "date": "2024-03-07",
+                    "description": "Deposit",
+                    "amount": 40079.59,
+                    "transaction_id": 87452708
+                }
+            ]
+        }
+    }
+}

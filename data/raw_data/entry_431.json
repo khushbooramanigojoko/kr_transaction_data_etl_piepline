@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Matthew Smith",
+        "age": 79,
+        "gender": "female",
+        "address": "292 Smith Ports Suite 464, Beverlyberg, NJ 35190",
+        "phone": "(589)678-6706x92095",
+        "email": "james39@example.org",
+        "account": {
+            "account_number": "ef2e7e95-6f27-4e06-a5c8-66a60e7f5ca2",
+            "balance": 34754.21,
+            "transactions": [
+                {
+                    "date": "2023-06-20",
+                    "description": "Deposit",
+                    "amount": 35445.06,
+                    "transaction_id": 31166340
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Interest",
+                    "amount": 47611.25,
+                    "transaction_id": 59214332
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Deposit",
+                    "amount": 2284.05,
+                    "transaction_id": 17003381
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Deposit",
+                    "amount": 18471.86,
+                    "transaction_id": 116852949
+                },
+                {
+                    "date": "2023-06-05",
+                    "description": "Withdrawal",
+                    "amount": 30757.93,
+                    "transaction_id": 103637869
+                }
+            ]
+        }
+    }
+}

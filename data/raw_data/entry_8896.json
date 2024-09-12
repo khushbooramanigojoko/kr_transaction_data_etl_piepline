@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Stewart",
+        "age": 81,
+        "gender": "male",
+        "address": "91270 Frye Curve, Rhondabury, ND 29038",
+        "phone": "926-816-8354x7564",
+        "email": "jenniferbaker@example.org",
+        "account": {
+            "account_number": "ea2520b7-670d-4430-9a85-d3fb18f44356",
+            "balance": -41040.8,
+            "transactions": [
+                {
+                    "date": "2024-02-16",
+                    "description": "Interest",
+                    "amount": 4901.19,
+                    "transaction_id": 26635572
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Interest",
+                    "amount": -1293.31,
+                    "transaction_id": 85901679
+                },
+                {
+                    "date": "2022-12-11",
+                    "description": "Withdrawal",
+                    "amount": -685.26,
+                    "transaction_id": 61214497
+                },
+                {
+                    "date": "2022-10-18",
+                    "description": "Withdrawal",
+                    "amount": 394.92,
+                    "transaction_id": 90705250
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Interest",
+                    "amount": -3574.6,
+                    "transaction_id": 35100208
+                }
+            ]
+        }
+    }
+}

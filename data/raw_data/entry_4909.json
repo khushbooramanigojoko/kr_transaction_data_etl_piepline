@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Chad Brown",
+        "age": 51,
+        "gender": "male",
+        "address": "Unit 6986 Box 8815, DPO AP 53919",
+        "phone": "001-253-478-3888x6007",
+        "email": "darrellreynolds@example.org",
+        "account": {
+            "account_number": "fc19cebb-8d25-4d5a-a0b2-c778a631aa54",
+            "balance": 2828.45,
+            "transactions": [
+                {
+                    "date": "2023-02-04",
+                    "description": "Withdrawal",
+                    "amount": 102.57,
+                    "transaction_id": 51146437
+                },
+                {
+                    "date": "2024-01-21",
+                    "description": "Interest",
+                    "amount": 38589.66,
+                    "transaction_id": 77788187
+                }
+            ]
+        }
+    }
+}

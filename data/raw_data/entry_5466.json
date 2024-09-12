@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Melissa Fletcher",
+        "age": 60,
+        "gender": "female",
+        "address": "9888 Smith Mews Apt. 491, Curtisland, CT 10698",
+        "phone": "807-200-4651x76713",
+        "email": "mooneygeorge@example.org",
+        "account": {
+            "account_number": "438ed5e4-8592-4357-83af-10ee841befd3",
+            "balance": 1009.83,
+            "transactions": [
+                {
+                    "date": "2024-02-14",
+                    "description": "Interest",
+                    "amount": 41929.76,
+                    "transaction_id": 27796510
+                }
+            ]
+        }
+    }
+}

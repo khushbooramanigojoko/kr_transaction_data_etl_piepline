@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Timothy Evans",
+        "age": 37,
+        "gender": "male",
+        "address": "94164 Stephanie Throughway Apt. 605, Lake Shane, GA 39222",
+        "phone": "001-448-668-9566",
+        "email": "katelyncampbell@example.org",
+        "account": {
+            "account_number": "e422e71b-5542-43b4-8f9e-15eb61b67f1d",
+            "balance": 48074.67,
+            "transactions": [
+                {
+                    "date": "2024-05-24",
+                    "description": "Withdrawal",
+                    "amount": 47655.89,
+                    "transaction_id": 93570134
+                }
+            ]
+        }
+    }
+}

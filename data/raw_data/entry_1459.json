@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joseph Winters",
+        "age": 72,
+        "gender": "female",
+        "address": "7165 Wright Ridge Suite 794, Christopherborough, NV 62556",
+        "phone": "371.372.8671x8523",
+        "email": "danajohnson@example.org",
+        "account": {
+            "account_number": "a28bc056-cf34-41a1-8cb6-5c438ddc586c",
+            "balance": 33235.31,
+            "transactions": [
+                {
+                    "date": "2023-05-23",
+                    "description": "Interest",
+                    "amount": 47155.97,
+                    "transaction_id": 47861072
+                },
+                {
+                    "date": "2023-11-23",
+                    "description": "Interest",
+                    "amount": 20174.1,
+                    "transaction_id": 26687973
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Deposit",
+                    "amount": 28657.48,
+                    "transaction_id": 86874249
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Withdrawal",
+                    "amount": 43229.66,
+                    "transaction_id": 36443060
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Withdrawal",
+                    "amount": 3790.55,
+                    "transaction_id": 98728608
+                }
+            ]
+        }
+    }
+}

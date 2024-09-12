@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 80,
+        "gender": "male",
+        "address": "41290 Smith Extension Apt. 098, West Michael, NC 05697",
+        "phone": "765.878.3933x87988",
+        "email": "vclarke@example.net",
+        "account": {
+            "account_number": "4ec0099f-ddfd-4c73-8297-ba0e486d358a",
+            "balance": 41420.89,
+            "transactions": [
+                {
+                    "date": "2024-07-22",
+                    "description": "Deposit",
+                    "amount": 3442.6,
+                    "transaction_id": 61933413
+                },
+                {
+                    "date": "2023-04-17",
+                    "description": "Deposit",
+                    "amount": 4078.94,
+                    "transaction_id": 13026964
+                },
+                {
+                    "date": "2023-10-08",
+                    "description": "Interest",
+                    "amount": -3126.95,
+                    "transaction_id": 51550550
+                },
+                {
+                    "date": "2024-01-29",
+                    "description": "Interest",
+                    "amount": 2405.98,
+                    "transaction_id": 48566875
+                },
+                {
+                    "date": "2023-10-10",
+                    "description": "Interest",
+                    "amount": -3519.24,
+                    "transaction_id": 31441826
+                }
+            ]
+        }
+    }
+}

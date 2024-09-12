@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alan Hendrix",
+        "age": 48,
+        "gender": "male",
+        "address": "0112 Katie Walk Apt. 903, Lisaside, MP 51045",
+        "phone": "7594908253",
+        "email": "wernerkatie@example.com",
+        "account": {
+            "account_number": "ceebc5ac-de51-408a-8ab5-45add7c73c69",
+            "balance": 44839.95,
+            "transactions": [
+                {
+                    "date": "2023-11-27",
+                    "description": "Deposit",
+                    "amount": 20232.7,
+                    "transaction_id": 103915824
+                }
+            ]
+        }
+    }
+}

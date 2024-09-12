@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "John Smith",
+        "age": 19,
+        "gender": "male",
+        "address": "PSC 0229, Box 1503, APO AE 49581",
+        "phone": "662-919-2415",
+        "email": "williamlong@example.com",
+        "account": {
+            "account_number": "afe1c8ca-865f-48bf-95de-7e0e14fe9c14",
+            "balance": 34633.31,
+            "transactions": [
+                {
+                    "date": "2023-11-21",
+                    "description": "Deposit",
+                    "amount": 33824.86,
+                    "transaction_id": 51653600
+                },
+                {
+                    "date": "2023-02-13",
+                    "description": "Interest",
+                    "amount": 9523.47,
+                    "transaction_id": 94689827
+                }
+            ]
+        }
+    }
+}

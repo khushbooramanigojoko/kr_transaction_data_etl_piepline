@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "male",
+        "address": "745 Wilson Extensions Suite 191, Colemanstad, MP 24216",
+        "phone": "637-731-7239x961",
+        "email": "andreadecker@example.net",
+        "account": {
+            "account_number": "46850187-0043-4651-8148-821948b5b9dc",
+            "balance": 13335.52,
+            "transactions": [
+                {
+                    "date": "2024-02-06",
+                    "description": "Withdrawal",
+                    "amount": 3336.51,
+                    "transaction_id": 61918192
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Interest",
+                    "amount": 4403.07,
+                    "transaction_id": 40294659
+                }
+            ]
+        }
+    }
+}

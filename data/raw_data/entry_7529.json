@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Patricia Lamb",
+        "age": 68,
+        "gender": "female",
+        "address": "517 Trevor Streets, Sergioburgh, AK 11107",
+        "phone": "270.587.8200x03545",
+        "email": "chasegonzalez@example.com",
+        "account": {
+            "account_number": "7fba0393-f485-4c29-b337-c5df289c8989",
+            "balance": 13603.49,
+            "transactions": [
+                {
+                    "date": "2023-11-09",
+                    "description": "Withdrawal",
+                    "amount": 16170.99,
+                    "transaction_id": 78424652
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Deposit",
+                    "amount": 31768.73,
+                    "transaction_id": 57260857
+                },
+                {
+                    "date": "2022-12-26",
+                    "description": "Interest",
+                    "amount": 42927.26,
+                    "transaction_id": 115026864
+                },
+                {
+                    "date": "2024-02-21",
+                    "description": "Withdrawal",
+                    "amount": 41795.18,
+                    "transaction_id": 33218004
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Withdrawal",
+                    "amount": 45215.97,
+                    "transaction_id": 7693663
+                }
+            ]
+        }
+    }
+}

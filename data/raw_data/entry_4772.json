@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tara Gonzalez",
+        "age": 31,
+        "gender": "male",
+        "address": "0023 Smith Station, North Justin, PR 51909",
+        "phone": "+1-885-656-5540x423",
+        "email": "blakegomez@example.com",
+        "account": {
+            "account_number": "bace68cf-2692-45b3-b033-04a5cfb61f82",
+            "balance": 45499.51,
+            "transactions": [
+                {
+                    "date": "2024-07-14",
+                    "description": "Interest",
+                    "amount": 40458.38,
+                    "transaction_id": 79481412
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Withdrawal",
+                    "amount": 25351.11,
+                    "transaction_id": 111807920
+                },
+                {
+                    "date": "2024-01-18",
+                    "description": "Deposit",
+                    "amount": 32711.65,
+                    "transaction_id": 88711060
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Alexis Weber",
+        "age": 49,
+        "gender": "male",
+        "address": "06148 Eric Camp, Collierton, WY 48722",
+        "phone": "444.981.7349x5934",
+        "email": "timothylogan@example.org",
+        "account": {
+            "account_number": "8b5b22f4-b3f8-41d1-886c-9b93ed7d00dd",
+            "balance": 43569.71,
+            "transactions": [
+                {
+                    "date": "2022-11-04",
+                    "description": "Deposit",
+                    "amount": 2558.38,
+                    "transaction_id": 11229354
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Deposit",
+                    "amount": 43131.89,
+                    "transaction_id": 59723785
+                }
+            ]
+        }
+    }
+}

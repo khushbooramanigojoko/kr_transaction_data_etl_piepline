@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Peter Poole",
+        "age": 58,
+        "gender": "female",
+        "address": "859 Autumn Ridges, South Courtneymouth, NE 95010",
+        "phone": "(616)335-3375",
+        "email": "lisahardy@example.net",
+        "account": {
+            "account_number": "359391c7-143d-492b-a89b-9ba8ed8c7262",
+            "balance": 41365.19,
+            "transactions": [
+                {
+                    "date": "2023-12-12",
+                    "description": "Deposit",
+                    "amount": 26240.17,
+                    "transaction_id": 57532094
+                },
+                {
+                    "date": "2022-12-08",
+                    "description": "Withdrawal",
+                    "amount": 8671.19,
+                    "transaction_id": 77661860
+                }
+            ]
+        }
+    }
+}

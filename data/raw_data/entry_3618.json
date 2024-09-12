@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Angela Lawson",
+        "age": 67,
+        "gender": "female",
+        "address": "80553 Perry Radial Apt. 439, Daviston, MH 48086",
+        "phone": "(455)292-2943x72240",
+        "email": "mcguirekimberly@example.com",
+        "account": {
+            "account_number": "e3541fb1-804f-4f7c-87b7-0ccbb204906e",
+            "balance": 7978.62,
+            "transactions": [
+                {
+                    "date": "2023-04-07",
+                    "description": "Interest",
+                    "amount": 35318.81,
+                    "transaction_id": 49751510
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Deposit",
+                    "amount": 12646.14,
+                    "transaction_id": 58261248
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Interest",
+                    "amount": 29933.71,
+                    "transaction_id": 28714057
+                },
+                {
+                    "date": "2023-08-08",
+                    "description": "Interest",
+                    "amount": 46057.14,
+                    "transaction_id": 59381917
+                }
+            ]
+        }
+    }
+}

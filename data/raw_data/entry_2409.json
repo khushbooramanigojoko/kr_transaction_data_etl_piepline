@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kevin Ray",
+        "age": 38,
+        "gender": "female",
+        "address": "70733 Carolyn Cove Suite 121, Nolanhaven, PA 02134",
+        "phone": "001-452-677-7152x0346",
+        "email": "dianabradshaw@example.org",
+        "account": {
+            "account_number": "28305e14-60f1-408e-ac26-dd9dbc0223aa",
+            "balance": 47865.73,
+            "transactions": [
+                {
+                    "date": "2023-05-30",
+                    "description": "Interest",
+                    "amount": 32123.69,
+                    "transaction_id": 11216695
+                }
+            ]
+        }
+    }
+}

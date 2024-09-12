@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Gary Shaw",
+        "age": 22,
+        "gender": "male",
+        "address": "81534 Sarah Field, North Thomaston, WV 85325",
+        "phone": "+1-970-332-8886x0771",
+        "email": "brucethompson@example.com",
+        "account": {
+            "account_number": "076e0ab8-c1cc-42f0-8b23-12f2a3009186",
+            "balance": 10231.54,
+            "transactions": [
+                {
+                    "date": "2023-07-20",
+                    "description": "Interest",
+                    "amount": 21248.33,
+                    "transaction_id": 107334269
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Withdrawal",
+                    "amount": 28834.54,
+                    "transaction_id": 21911196
+                },
+                {
+                    "date": "2023-05-20",
+                    "description": "Deposit",
+                    "amount": 8005.23,
+                    "transaction_id": 74026195
+                },
+                {
+                    "date": "2023-10-01",
+                    "description": "Withdrawal",
+                    "amount": 29191.03,
+                    "transaction_id": 118178031
+                },
+                {
+                    "date": "2024-03-05",
+                    "description": "Deposit",
+                    "amount": 1359.43,
+                    "transaction_id": 58061850
+                }
+            ]
+        }
+    }
+}

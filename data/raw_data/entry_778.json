@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Elizabeth Hernandez",
+        "age": 86,
+        "gender": "male",
+        "address": "75320 Robles Dale Suite 385, West Andreport, NH 06289",
+        "phone": "(587)391-3601x06849",
+        "email": "loweryanthony@example.net",
+        "account": {
+            "account_number": "058408af-3029-424f-a185-d607b0e030a0",
+            "balance": 20767.53,
+            "transactions": [
+                {
+                    "date": "2024-05-11",
+                    "description": "Interest",
+                    "amount": 161.1,
+                    "transaction_id": 86374766
+                }
+            ]
+        }
+    }
+}

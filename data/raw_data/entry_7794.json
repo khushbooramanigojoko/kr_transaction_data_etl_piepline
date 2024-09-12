@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Matthew Jordan",
+        "age": 41,
+        "gender": "male",
+        "address": "23500 Carolyn Expressway Suite 682, East Robert, SC 75106",
+        "phone": "962-763-8233x6868",
+        "email": "carlakirk@example.net",
+        "account": {
+            "account_number": "a9ddbbd5-e9db-4f4f-904f-bf700c8475b2",
+            "balance": 1131.45,
+            "transactions": [
+                {
+                    "date": "2023-01-28",
+                    "description": "Withdrawal",
+                    "amount": 44968.84,
+                    "transaction_id": 18515358
+                },
+                {
+                    "date": "2024-01-23",
+                    "description": "Deposit",
+                    "amount": 43265.07,
+                    "transaction_id": 41894609
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Deposit",
+                    "amount": 22715.1,
+                    "transaction_id": 5635769
+                }
+            ]
+        }
+    }
+}

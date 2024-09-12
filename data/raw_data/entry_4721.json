@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Erin Larson",
+        "age": 28,
+        "gender": "male",
+        "address": "846 David Summit, North Robert, MN 53354",
+        "phone": "294.609.5535x809",
+        "email": "michellehall@example.org",
+        "account": {
+            "account_number": "574b150a-7a43-4d59-97f3-6f033acd8832",
+            "balance": 36725.64,
+            "transactions": [
+                {
+                    "date": "2022-11-09",
+                    "description": "Withdrawal",
+                    "amount": 11445.12,
+                    "transaction_id": 92510096
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Interest",
+                    "amount": 4454.24,
+                    "transaction_id": 96749873
+                },
+                {
+                    "date": "2022-12-08",
+                    "description": "Deposit",
+                    "amount": 28037.01,
+                    "transaction_id": 67224834
+                },
+                {
+                    "date": "2023-09-19",
+                    "description": "Withdrawal",
+                    "amount": 7906.55,
+                    "transaction_id": 103091204
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Withdrawal",
+                    "amount": 18237.38,
+                    "transaction_id": 17103647
+                }
+            ]
+        }
+    }
+}

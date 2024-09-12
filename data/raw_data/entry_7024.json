@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kevin Drake",
+        "age": 74,
+        "gender": "female",
+        "address": "1461 Nicole Shores Apt. 321, East Teresaland, TX 18625",
+        "phone": "001-451-570-0090x62574",
+        "email": "taylor17@example.org",
+        "account": {
+            "account_number": "cf36a26d-e073-4f00-9846-2717ce260e09",
+            "balance": 38120.99,
+            "transactions": [
+                {
+                    "date": "2023-07-21",
+                    "description": "Interest",
+                    "amount": 38276.67,
+                    "transaction_id": 83239509
+                },
+                {
+                    "date": "2022-10-12",
+                    "description": "Interest",
+                    "amount": 13450.72,
+                    "transaction_id": 46775382
+                },
+                {
+                    "date": "2023-01-03",
+                    "description": "Interest",
+                    "amount": 36371.66,
+                    "transaction_id": 28263446
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Withdrawal",
+                    "amount": 33070.63,
+                    "transaction_id": 103407759
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Interest",
+                    "amount": 36981.34,
+                    "transaction_id": 47356569
+                }
+            ]
+        }
+    }
+}

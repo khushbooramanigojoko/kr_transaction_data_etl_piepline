@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tommy Flores",
+        "age": 72,
+        "gender": "female",
+        "address": "618 Johnson Pike Suite 719, South Miranda, WA 02673",
+        "phone": "6053422707",
+        "email": "charles92@example.net",
+        "account": {
+            "account_number": "28b081e5-0ac5-4351-9c9e-879a7ea0c766",
+            "balance": 29500.03,
+            "transactions": [
+                {
+                    "date": "2024-06-11",
+                    "description": "Withdrawal",
+                    "amount": 40463.18,
+                    "transaction_id": 74914958
+                },
+                {
+                    "date": "2024-08-10",
+                    "description": "Interest",
+                    "amount": 3518.05,
+                    "transaction_id": 22190075
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Interest",
+                    "amount": 6386.36,
+                    "transaction_id": 15962052
+                }
+            ]
+        }
+    }
+}

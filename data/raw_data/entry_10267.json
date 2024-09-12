@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Angela Ramirez",
+        "age": 88,
+        "gender": "female",
+        "address": "65590 Cynthia Creek, Lake Tyroneshire, NE 46426",
+        "phone": "796-972-3437",
+        "email": "alexanderdouglas@example.org",
+        "account": {
+            "account_number": "3e6efe7a-c932-4521-af33-5280c9cce887",
+            "balance": -7782.74,
+            "transactions": [
+                {
+                    "date": "2024-02-25",
+                    "description": "Interest",
+                    "amount": 3413.79,
+                    "transaction_id": 45753329
+                },
+                {
+                    "date": "2022-11-12",
+                    "description": "Deposit",
+                    "amount": -847.99,
+                    "transaction_id": 21439731
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Interest",
+                    "amount": -524.11,
+                    "transaction_id": 84407165
+                }
+            ]
+        }
+    }
+}

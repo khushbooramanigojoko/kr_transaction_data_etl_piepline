@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michael York",
+        "age": 26,
+        "gender": "male",
+        "address": "58591 Russell Glens, Doylemouth, AZ 60899",
+        "phone": "+1-840-923-5011x3777",
+        "email": "leslieestes@example.com",
+        "account": {
+            "account_number": "fba33b3c-6cb6-4fda-a505-f92eaf93e501",
+            "balance": 22045.55,
+            "transactions": [
+                {
+                    "date": "2023-04-02",
+                    "description": "Interest",
+                    "amount": 28303.69,
+                    "transaction_id": 36728008
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mary Berry",
+        "age": 72,
+        "gender": "male",
+        "address": "26874 Thomas Freeway Suite 116, Caitlinstad, TX 18042",
+        "phone": "001-973-603-3047x540",
+        "email": "lindsay21@example.net",
+        "account": {
+            "account_number": "072bb3d6-2fc7-4ee1-a2de-e9b9b18dc268",
+            "balance": 19983.63,
+            "transactions": [
+                {
+                    "date": "2024-01-11",
+                    "description": "Interest",
+                    "amount": 29465.04,
+                    "transaction_id": 96082117
+                },
+                {
+                    "date": "2022-11-18",
+                    "description": "Withdrawal",
+                    "amount": 16454.36,
+                    "transaction_id": 40696624
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Interest",
+                    "amount": 1654.93,
+                    "transaction_id": 49393079
+                },
+                {
+                    "date": "2024-01-06",
+                    "description": "Withdrawal",
+                    "amount": 48680.64,
+                    "transaction_id": 12132627
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Withdrawal",
+                    "amount": 24211.21,
+                    "transaction_id": 41939028
+                }
+            ]
+        }
+    }
+}

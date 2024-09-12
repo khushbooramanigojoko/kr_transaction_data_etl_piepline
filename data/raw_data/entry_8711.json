@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Sawyer",
+        "age": 94,
+        "gender": "female",
+        "address": "77578 Cruz Park, New Monique, NJ 26468",
+        "phone": "001-450-960-6361",
+        "email": "prestoncody@example.org",
+        "account": {
+            "account_number": "d9890c87-a8ec-44b4-b31c-620500d2a93b",
+            "balance": 29001.41,
+            "transactions": [
+                {
+                    "date": "2023-10-20",
+                    "description": "Withdrawal",
+                    "amount": 23553.9,
+                    "transaction_id": 18862750
+                },
+                {
+                    "date": "2024-02-05",
+                    "description": "Interest",
+                    "amount": 38134.53,
+                    "transaction_id": 99990558
+                },
+                {
+                    "date": "2022-10-24",
+                    "description": "Deposit",
+                    "amount": 24031.51,
+                    "transaction_id": 13432367
+                },
+                {
+                    "date": "2023-08-04",
+                    "description": "Withdrawal",
+                    "amount": 17970.47,
+                    "transaction_id": 26193706
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Withdrawal",
+                    "amount": 32719.54,
+                    "transaction_id": 94030821
+                }
+            ]
+        }
+    }
+}

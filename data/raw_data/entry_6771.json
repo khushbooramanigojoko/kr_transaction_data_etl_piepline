@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Janice Perry",
+        "age": 26,
+        "gender": "male",
+        "address": "7208 Julie Freeway, Emilyberg, VI 45667",
+        "phone": "8336301674",
+        "email": "caroline45@example.net",
+        "account": {
+            "account_number": "49720620-cdf5-4edd-b42c-a81449fd69b0",
+            "balance": 47709.56,
+            "transactions": [
+                {
+                    "date": "2022-09-05",
+                    "description": "Interest",
+                    "amount": 13446.64,
+                    "transaction_id": 13366652
+                }
+            ]
+        }
+    }
+}

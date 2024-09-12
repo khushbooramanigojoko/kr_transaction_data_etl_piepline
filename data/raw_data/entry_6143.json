@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sandra Carlson",
+        "age": 69,
+        "gender": "male",
+        "address": "47173 Patricia Haven, New Kevin, MN 46386",
+        "phone": "+1-207-816-7909",
+        "email": "salazarjacob@example.com",
+        "account": {
+            "account_number": "4e0504c5-5fc3-4448-b461-8a43b073400a",
+            "balance": 19547.56,
+            "transactions": [
+                {
+                    "date": "2022-11-27",
+                    "description": "Withdrawal",
+                    "amount": 17906.34,
+                    "transaction_id": 62393142
+                },
+                {
+                    "date": "2023-09-18",
+                    "description": "Deposit",
+                    "amount": 46026.93,
+                    "transaction_id": 82720176
+                }
+            ]
+        }
+    }
+}

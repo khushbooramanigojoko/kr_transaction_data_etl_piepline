@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Chad Jones",
+        "age": 96,
+        "gender": "female",
+        "address": "98320 Byrd Springs Apt. 168, South Michaelland, HI 05581",
+        "phone": "216.693.2125x286",
+        "email": "jonathan49@example.net",
+        "account": {
+            "account_number": "1501a5c3-53db-47c5-9306-1a352337a75d",
+            "balance": 18147.55,
+            "transactions": [
+                {
+                    "date": "2023-05-20",
+                    "description": "Interest",
+                    "amount": 2912.34,
+                    "transaction_id": 14820607
+                }
+            ]
+        }
+    }
+}

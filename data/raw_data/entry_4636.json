@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Donna Lee",
+        "age": 42,
+        "gender": "female",
+        "address": "7997 Andrea Highway Suite 344, Brentshire, OK 08723",
+        "phone": "962-998-6560x21076",
+        "email": "colehall@example.net",
+        "account": {
+            "account_number": "761b7a66-04b3-4749-89bc-796841bacc4a",
+            "balance": 16075.98,
+            "transactions": [
+                {
+                    "date": "2024-08-24",
+                    "description": "Withdrawal",
+                    "amount": 48204.83,
+                    "transaction_id": 50912711
+                },
+                {
+                    "date": "2024-06-01",
+                    "description": "Interest",
+                    "amount": 312.21,
+                    "transaction_id": 22520092
+                },
+                {
+                    "date": "2023-11-10",
+                    "description": "Withdrawal",
+                    "amount": 39686.13,
+                    "transaction_id": 7939150
+                },
+                {
+                    "date": "2023-01-20",
+                    "description": "Deposit",
+                    "amount": 8569.48,
+                    "transaction_id": 30192274
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Interest",
+                    "amount": 48608.2,
+                    "transaction_id": 3630498
+                }
+            ]
+        }
+    }
+}

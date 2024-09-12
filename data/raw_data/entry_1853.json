@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Felicia House",
+        "age": 94,
+        "gender": "female",
+        "address": "342 Smith Ports Apt. 466, New Amandaberg, IL 32639",
+        "phone": "539.666.4502",
+        "email": "gscott@example.com",
+        "account": {
+            "account_number": "90a770bd-7caf-4a30-868d-0f6716eb96e5",
+            "balance": 27054.88,
+            "transactions": [
+                {
+                    "date": "2024-03-04",
+                    "description": "Interest",
+                    "amount": 3414.04,
+                    "transaction_id": 74689764
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Withdrawal",
+                    "amount": 21161.42,
+                    "transaction_id": 76299301
+                },
+                {
+                    "date": "2023-12-23",
+                    "description": "Withdrawal",
+                    "amount": 16367.0,
+                    "transaction_id": 48821917
+                },
+                {
+                    "date": "2023-08-21",
+                    "description": "Withdrawal",
+                    "amount": 10240.13,
+                    "transaction_id": 48982428
+                }
+            ]
+        }
+    }
+}

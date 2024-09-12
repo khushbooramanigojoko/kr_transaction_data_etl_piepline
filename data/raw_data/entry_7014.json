@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christopher Cisneros",
+        "age": 46,
+        "gender": "female",
+        "address": "4891 Ashley Underpass, Raymondhaven, ID 99374",
+        "phone": "203-395-9720x90936",
+        "email": "jeffrey04@example.com",
+        "account": {
+            "account_number": "ab5d9e01-3f02-4138-a2a1-c1491cff244d",
+            "balance": 30066.62,
+            "transactions": [
+                {
+                    "date": "2023-11-11",
+                    "description": "Withdrawal",
+                    "amount": 404.65,
+                    "transaction_id": 118781109
+                },
+                {
+                    "date": "2023-06-20",
+                    "description": "Withdrawal",
+                    "amount": 4368.95,
+                    "transaction_id": 94506737
+                }
+            ]
+        }
+    }
+}

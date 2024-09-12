@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Brian Meyers",
+        "age": 27,
+        "gender": "male",
+        "address": "9793 Christopher Field, South Rebeccahaven, IN 99230",
+        "phone": "001-512-605-6214x9358",
+        "email": "jefferythompson@example.org",
+        "account": {
+            "account_number": "759d9752-4960-4626-a629-c2f2d5fe0633",
+            "balance": 28788.93,
+            "transactions": [
+                {
+                    "date": "2023-03-16",
+                    "description": "Interest",
+                    "amount": 9942.26,
+                    "transaction_id": 4933084
+                },
+                {
+                    "date": "2023-03-05",
+                    "description": "Deposit",
+                    "amount": 37857.09,
+                    "transaction_id": 14264332
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Withdrawal",
+                    "amount": 28391.26,
+                    "transaction_id": 95070303
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Andrew Daniels",
+        "age": 77,
+        "gender": "male",
+        "address": "451 Lindsay Alley Suite 310, Erinborough, CT 24943",
+        "phone": "+1-712-765-3778x71868",
+        "email": "thomasluis@example.net",
+        "account": {
+            "account_number": "d5e370c9-77cd-45f9-840d-c9b937b7c2e0",
+            "balance": 35233.89,
+            "transactions": [
+                {
+                    "date": "2023-03-17",
+                    "description": "Deposit",
+                    "amount": 45289.7,
+                    "transaction_id": 80891315
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Deposit",
+                    "amount": 45897.97,
+                    "transaction_id": 47432444
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Interest",
+                    "amount": 17703.35,
+                    "transaction_id": 57598648
+                },
+                {
+                    "date": "2024-06-12",
+                    "description": "Withdrawal",
+                    "amount": 12032.01,
+                    "transaction_id": 35265455
+                }
+            ]
+        }
+    }
+}

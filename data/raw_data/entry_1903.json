@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jennifer Martinez",
+        "age": 30,
+        "gender": "female",
+        "address": "322 Rocha Shore, Mosesfurt, MO 61532",
+        "phone": "+1-553-223-5357x0557",
+        "email": "qgardner@example.net",
+        "account": {
+            "account_number": "33b69b07-27bd-4b23-892f-3923d6535e45",
+            "balance": 25518.51,
+            "transactions": [
+                {
+                    "date": "2022-10-25",
+                    "description": "Interest",
+                    "amount": 7286.26,
+                    "transaction_id": 71902350
+                }
+            ]
+        }
+    }
+}

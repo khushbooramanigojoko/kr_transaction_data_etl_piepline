@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sandra Kirby",
+        "age": 75,
+        "gender": "male",
+        "address": "0086 Nguyen Canyon Apt. 924, Johnsonland, WI 42637",
+        "phone": "5425022139",
+        "email": "dixonjose@example.com",
+        "account": {
+            "account_number": "a2c13484-0a12-434d-ad22-cb6cd8853489",
+            "balance": -5413.61,
+            "transactions": [
+                {
+                    "date": "2022-11-20",
+                    "description": "Interest",
+                    "amount": 337.75,
+                    "transaction_id": 38084582
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Withdrawal",
+                    "amount": -2649.78,
+                    "transaction_id": 58147542
+                }
+            ]
+        }
+    }
+}

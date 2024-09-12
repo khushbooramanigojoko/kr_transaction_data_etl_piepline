@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "David Jenkins",
+        "age": 61,
+        "gender": "male",
+        "address": "PSC 2624, Box 4931, APO AE 79711",
+        "phone": "+1-922-964-1777x16470",
+        "email": "rebeccacraig@example.com",
+        "account": {
+            "account_number": "e881b30c-3b40-49ce-b82d-206c0b4676b1",
+            "balance": 47401.93,
+            "transactions": [
+                {
+                    "date": "2022-12-02",
+                    "description": "Interest",
+                    "amount": 22834.02,
+                    "transaction_id": 87403762
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Interest",
+                    "amount": 43123.85,
+                    "transaction_id": 40326734
+                }
+            ]
+        }
+    }
+}

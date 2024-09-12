@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 47,
+        "gender": "female",
+        "address": "79479 Michael Mountain Apt. 982, South Marc, MS 63876",
+        "phone": "558-726-7436x7742",
+        "email": "douglasdiana@example.org",
+        "account": {
+            "account_number": "adba520d-23f7-418e-bfc3-ddd6bf167571",
+            "balance": 44756.38,
+            "transactions": [
+                {
+                    "date": "2023-05-29",
+                    "description": "Withdrawal",
+                    "amount": -1010.46,
+                    "transaction_id": 102048470
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Destiny Harper",
+        "age": 84,
+        "gender": "female",
+        "address": "331 Christina Cove, Davidville, NY 98526",
+        "phone": "+1-406-680-0375x226",
+        "email": "rocharicky@example.net",
+        "account": {
+            "account_number": "1090c42d-9365-40b6-b393-5f8ed00b9acf",
+            "balance": 13563.93,
+            "transactions": [
+                {
+                    "date": "2023-05-18",
+                    "description": "Withdrawal",
+                    "amount": 40656.61,
+                    "transaction_id": 35340344
+                },
+                {
+                    "date": "2023-08-30",
+                    "description": "Withdrawal",
+                    "amount": 44129.24,
+                    "transaction_id": 40480184
+                }
+            ]
+        }
+    }
+}

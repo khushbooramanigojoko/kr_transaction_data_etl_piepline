@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Annette Miller",
+        "age": 41,
+        "gender": "female",
+        "address": "7280 Theresa Rest Apt. 628, Robinsonshire, OR 20011",
+        "phone": "612-516-4746",
+        "email": "kim08@example.com",
+        "account": {
+            "account_number": "6d56f57c-9db8-4ef1-a85b-9b4207585839",
+            "balance": -48242.99,
+            "transactions": [
+                {
+                    "date": "2023-05-06",
+                    "description": "Interest",
+                    "amount": -253.42,
+                    "transaction_id": 60200902
+                },
+                {
+                    "date": "2023-01-14",
+                    "description": "Withdrawal",
+                    "amount": 2244.86,
+                    "transaction_id": 3249070
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Interest",
+                    "amount": -1760.43,
+                    "transaction_id": 70466233
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Deposit",
+                    "amount": 1189.86,
+                    "transaction_id": 81708811
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Ellison",
+        "age": 83,
+        "gender": "male",
+        "address": "63827 Cruz Glen, Olsonfort, AL 43094",
+        "phone": "001-466-661-1255x3297",
+        "email": "nhall@example.com",
+        "account": {
+            "account_number": "838fd5d8-13d2-4cb3-9768-b544ede21bd6",
+            "balance": 34715.35,
+            "transactions": [
+                {
+                    "date": "2024-03-01",
+                    "description": "Withdrawal",
+                    "amount": 3701.11,
+                    "transaction_id": 1785758
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Withdrawal",
+                    "amount": 36415.88,
+                    "transaction_id": 97125214
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Interest",
+                    "amount": 27189.14,
+                    "transaction_id": 23884916
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Deposit",
+                    "amount": 43990.3,
+                    "transaction_id": 53585427
+                }
+            ]
+        }
+    }
+}

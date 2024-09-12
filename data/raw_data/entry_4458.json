@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Regina Crosby",
+        "age": 87,
+        "gender": "male",
+        "address": "513 Hester Crest, South Andrewbury, GA 26071",
+        "phone": "399-482-3170x251",
+        "email": "hcooper@example.com",
+        "account": {
+            "account_number": "c0619c94-eeb8-42a8-885e-b1c45063f3cb",
+            "balance": 2777.49,
+            "transactions": [
+                {
+                    "date": "2023-12-16",
+                    "description": "Deposit",
+                    "amount": 4474.94,
+                    "transaction_id": 46700771
+                },
+                {
+                    "date": "2024-04-09",
+                    "description": "Interest",
+                    "amount": 34760.28,
+                    "transaction_id": 112600542
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Interest",
+                    "amount": 41382.73,
+                    "transaction_id": 3957507
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Deposit",
+                    "amount": 4224.73,
+                    "transaction_id": 108574925
+                }
+            ]
+        }
+    }
+}

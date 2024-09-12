@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Roy Robinson",
+        "age": 40,
+        "gender": "female",
+        "address": "196 Vanessa Run, Port Matthewfurt, GA 69671",
+        "phone": "(227)302-0311x6273",
+        "email": "lopezheidi@example.com",
+        "account": {
+            "account_number": "552b68cc-2947-47a8-870c-b0a5771575ce",
+            "balance": -11698.87,
+            "transactions": [
+                {
+                    "date": "2023-01-03",
+                    "description": "Deposit",
+                    "amount": -3771.36,
+                    "transaction_id": 51957904
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Interest",
+                    "amount": 3090.93,
+                    "transaction_id": 103541311
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Deposit",
+                    "amount": 178.5,
+                    "transaction_id": 87123085
+                },
+                {
+                    "date": "2023-10-18",
+                    "description": "Deposit",
+                    "amount": 602.95,
+                    "transaction_id": 33931210
+                }
+            ]
+        }
+    }
+}

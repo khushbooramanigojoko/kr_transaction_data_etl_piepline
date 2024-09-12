@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "John Branch",
+        "age": 85,
+        "gender": "female",
+        "address": "313 Michelle Station Apt. 616, South Markborough, MI 18570",
+        "phone": "639-945-0078",
+        "email": "aaron27@example.org",
+        "account": {
+            "account_number": "3a49c73e-b3fa-47b3-9d42-1a01a215772f",
+            "balance": 8489.01,
+            "transactions": [
+                {
+                    "date": "2023-05-01",
+                    "description": "Interest",
+                    "amount": 26107.54,
+                    "transaction_id": 47986322
+                }
+            ]
+        }
+    }
+}

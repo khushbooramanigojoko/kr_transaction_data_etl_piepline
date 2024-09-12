@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Paula Martin",
+        "age": 25,
+        "gender": "female",
+        "address": "140 Cheryl Station Suite 702, Duanetown, IN 75693",
+        "phone": "(464)965-7151",
+        "email": "garcialuke@example.com",
+        "account": {
+            "account_number": "9bd72078-98af-40b1-a5a5-de13f121098e",
+            "balance": 48295.51,
+            "transactions": [
+                {
+                    "date": "2023-07-30",
+                    "description": "Withdrawal",
+                    "amount": 39596.52,
+                    "transaction_id": 74703560
+                },
+                {
+                    "date": "2023-05-29",
+                    "description": "Interest",
+                    "amount": 12120.77,
+                    "transaction_id": 17085881
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Charles Jacobson",
+        "age": 97,
+        "gender": "male",
+        "address": "75327 Sandra Cove Apt. 322, Lake Taraside, MP 45347",
+        "phone": "(418)492-1967x86977",
+        "email": "yoderjonathan@example.net",
+        "account": {
+            "account_number": "fb722447-85ae-4fe1-8eac-1a109273457d",
+            "balance": 34782.71,
+            "transactions": [
+                {
+                    "date": "2022-11-06",
+                    "description": "Interest",
+                    "amount": 40235.53,
+                    "transaction_id": 118362592
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Deposit",
+                    "amount": 37846.6,
+                    "transaction_id": 11632287
+                }
+            ]
+        }
+    }
+}

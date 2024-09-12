@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Melissa Crosby",
+        "age": 81,
+        "gender": "female",
+        "address": "84946 Weiss Fords Suite 771, North Jacobfort, MN 13074",
+        "phone": "(718)561-7365x5546",
+        "email": "michael24@example.org",
+        "account": {
+            "account_number": "470879ce-285c-4275-be6f-8b0341479dfd",
+            "balance": 2173.4,
+            "transactions": [
+                {
+                    "date": "2023-01-27",
+                    "description": "Deposit",
+                    "amount": 2779.81,
+                    "transaction_id": 79411351
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Deposit",
+                    "amount": 2407.99,
+                    "transaction_id": 53155664
+                },
+                {
+                    "date": "2023-12-19",
+                    "description": "Interest",
+                    "amount": 17468.57,
+                    "transaction_id": 104214725
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stacey Bradford",
+        "age": 43,
+        "gender": "female",
+        "address": "736 Shane Light Apt. 213, East Patriciafort, DC 63573",
+        "phone": "+1-345-579-5024x55123",
+        "email": "qmccall@example.com",
+        "account": {
+            "account_number": "818bb881-6112-4005-88ef-17154f4943be",
+            "balance": 4875.47,
+            "transactions": [
+                {
+                    "date": "2024-07-30",
+                    "description": "Interest",
+                    "amount": 39104.8,
+                    "transaction_id": 97121497
+                }
+            ]
+        }
+    }
+}

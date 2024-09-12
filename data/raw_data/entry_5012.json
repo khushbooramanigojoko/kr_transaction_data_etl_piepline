@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Meredith Zavala",
+        "age": 73,
+        "gender": "male",
+        "address": "09643 Jill Fort Apt. 607, Lake Deborah, ID 86256",
+        "phone": "001-909-635-8350x2665",
+        "email": "charles22@example.net",
+        "account": {
+            "account_number": "5225898f-53e6-4f7c-8e01-d2755f34f8cc",
+            "balance": 16863.38,
+            "transactions": [
+                {
+                    "date": "2022-11-11",
+                    "description": "Withdrawal",
+                    "amount": 40000.75,
+                    "transaction_id": 73949633
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Deposit",
+                    "amount": 31852.39,
+                    "transaction_id": 109561880
+                },
+                {
+                    "date": "2023-04-09",
+                    "description": "Deposit",
+                    "amount": 14243.59,
+                    "transaction_id": 60441127
+                },
+                {
+                    "date": "2024-03-23",
+                    "description": "Deposit",
+                    "amount": 13205.86,
+                    "transaction_id": 111057901
+                }
+            ]
+        }
+    }
+}

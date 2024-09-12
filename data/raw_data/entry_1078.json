@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Billy Nicholson",
+        "age": 31,
+        "gender": "male",
+        "address": "7226 Alyssa Knoll, Port John, KY 26203",
+        "phone": "+1-442-711-3944",
+        "email": "qdavis@example.org",
+        "account": {
+            "account_number": "e87ea6ac-be0f-4f6b-b5d7-653d9d6262fa",
+            "balance": 15914.35,
+            "transactions": [
+                {
+                    "date": "2024-06-20",
+                    "description": "Deposit",
+                    "amount": 6251.08,
+                    "transaction_id": 65265892
+                }
+            ]
+        }
+    }
+}

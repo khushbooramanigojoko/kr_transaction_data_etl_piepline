@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jennifer Edwards",
+        "age": 94,
+        "gender": "male",
+        "address": "2409 Richard Fields, South Sandraborough, OR 70061",
+        "phone": "001-524-520-6462x46284",
+        "email": "charles14@example.org",
+        "account": {
+            "account_number": "db12727e-d6f4-4866-8aa8-46330939586e",
+            "balance": 19546.64,
+            "transactions": [
+                {
+                    "date": "2024-05-18",
+                    "description": "Interest",
+                    "amount": 28456.55,
+                    "transaction_id": 104286298
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Deposit",
+                    "amount": 3269.55,
+                    "transaction_id": 113365355
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Deposit",
+                    "amount": 25913.69,
+                    "transaction_id": 1786278
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Deposit",
+                    "amount": 34707.58,
+                    "transaction_id": 97117480
+                }
+            ]
+        }
+    }
+}

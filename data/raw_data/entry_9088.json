@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Shawn Barajas",
+        "age": 74,
+        "gender": "female",
+        "address": "9835 Susan Road Apt. 475, New Michael, MT 29003",
+        "phone": "+1-909-477-5973x1025",
+        "email": "amanda42@example.org",
+        "account": {
+            "account_number": "1451b49d-bd88-460c-94e5-65c9f619b4b4",
+            "balance": -34521.22,
+            "transactions": [
+                {
+                    "date": "2024-08-03",
+                    "description": "Interest",
+                    "amount": 4902.34,
+                    "transaction_id": 56275762
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Deposit",
+                    "amount": 2003.04,
+                    "transaction_id": 112686266
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Deposit",
+                    "amount": -879.51,
+                    "transaction_id": 19453034
+                },
+                {
+                    "date": "2023-07-04",
+                    "description": "Withdrawal",
+                    "amount": -4651.07,
+                    "transaction_id": 99509348
+                }
+            ]
+        }
+    }
+}

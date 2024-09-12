@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Beth Santiago",
+        "age": 38,
+        "gender": "male",
+        "address": "35444 Jennifer Mount Apt. 277, Diazton, WA 64524",
+        "phone": "+1-354-723-5760x40926",
+        "email": "jonathan90@example.org",
+        "account": {
+            "account_number": "e4ba1d88-da5d-4f2b-9556-9ea20cb144f8",
+            "balance": 3438.34,
+            "transactions": [
+                {
+                    "date": "2024-04-07",
+                    "description": "Withdrawal",
+                    "amount": 14051.6,
+                    "transaction_id": 54485146
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Deposit",
+                    "amount": 9052.44,
+                    "transaction_id": 95398128
+                }
+            ]
+        }
+    }
+}

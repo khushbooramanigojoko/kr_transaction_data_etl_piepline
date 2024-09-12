@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Natalie Carlson",
+        "age": 84,
+        "gender": "female",
+        "address": "98971 Collins Unions, West Heatherfort, NH 34165",
+        "phone": "659.754.0173x72220",
+        "email": "martinchristopher@example.com",
+        "account": {
+            "account_number": "bbcbaf00-52d9-4241-82cb-9cf8f4c94e6a",
+            "balance": -9300.73,
+            "transactions": [
+                {
+                    "date": "2023-04-29",
+                    "description": "Deposit",
+                    "amount": -2171.8,
+                    "transaction_id": 13092896
+                },
+                {
+                    "date": "2023-07-25",
+                    "description": "Withdrawal",
+                    "amount": 3246.82,
+                    "transaction_id": 101800052
+                },
+                {
+                    "date": "2024-02-20",
+                    "description": "Withdrawal",
+                    "amount": 4079.8,
+                    "transaction_id": 28333707
+                },
+                {
+                    "date": "2024-03-20",
+                    "description": "Deposit",
+                    "amount": 983.45,
+                    "transaction_id": 113310669
+                },
+                {
+                    "date": "2024-04-14",
+                    "description": "Interest",
+                    "amount": -3902.1,
+                    "transaction_id": 89509185
+                }
+            ]
+        }
+    }
+}

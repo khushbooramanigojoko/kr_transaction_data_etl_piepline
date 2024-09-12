@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 58,
+        "gender": "female",
+        "address": "2351 Barker Trafficway, Acevedoberg, VT 02512",
+        "phone": "518-548-8151",
+        "email": "tfrancis@example.org",
+        "account": {
+            "account_number": "94ed6c91-16b0-4079-af8d-9c14eda6f915",
+            "balance": 16200.01,
+            "transactions": [
+                {
+                    "date": "2023-10-14",
+                    "description": "Withdrawal",
+                    "amount": -4267.79,
+                    "transaction_id": 48727374
+                }
+            ]
+        }
+    }
+}

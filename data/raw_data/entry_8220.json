@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sarah Torres",
+        "age": 43,
+        "gender": "male",
+        "address": "7663 Zachary Tunnel Suite 187, Sanchezstad, CO 93693",
+        "phone": "+1-714-410-2773x70333",
+        "email": "scottperkins@example.org",
+        "account": {
+            "account_number": "deca08d0-6574-42e7-8876-2adeff947c50",
+            "balance": 18320.6,
+            "transactions": [
+                {
+                    "date": "2022-09-25",
+                    "description": "Withdrawal",
+                    "amount": 40568.69,
+                    "transaction_id": 21969238
+                },
+                {
+                    "date": "2023-04-28",
+                    "description": "Interest",
+                    "amount": 8178.68,
+                    "transaction_id": 22711300
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Interest",
+                    "amount": 1645.49,
+                    "transaction_id": 13233745
+                },
+                {
+                    "date": "2023-07-09",
+                    "description": "Interest",
+                    "amount": 15751.48,
+                    "transaction_id": 27462355
+                }
+            ]
+        }
+    }
+}

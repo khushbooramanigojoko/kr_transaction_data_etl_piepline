@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 74,
+        "gender": "female",
+        "address": "984 Valerie Locks, Michaelbury, MN 69351",
+        "phone": "817-232-3267x338",
+        "email": "philip70@example.com",
+        "account": {
+            "account_number": "f7500902-a7fd-4ecb-bee8-6ff7e347c8ce",
+            "balance": 17979.58,
+            "transactions": [
+                {
+                    "date": "2024-01-21",
+                    "description": "Interest",
+                    "amount": 1395.71,
+                    "transaction_id": 85368774
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Withdrawal",
+                    "amount": -1132.5,
+                    "transaction_id": 74129168
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Deposit",
+                    "amount": 1531.01,
+                    "transaction_id": 100190868
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Interest",
+                    "amount": 3870.93,
+                    "transaction_id": 22068610
+                },
+                {
+                    "date": "2022-10-13",
+                    "description": "Deposit",
+                    "amount": 1798.03,
+                    "transaction_id": 37178566
+                }
+            ]
+        }
+    }
+}

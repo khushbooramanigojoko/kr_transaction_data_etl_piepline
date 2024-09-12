@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Linda Scott",
+        "age": 60,
+        "gender": "female",
+        "address": "771 Lance Crossing, Shannonview, CO 60768",
+        "phone": "899.935.9516x241",
+        "email": "georgeodonnell@example.com",
+        "account": {
+            "account_number": "92941b81-c4a4-4653-85aa-c8d6df123110",
+            "balance": -363.43,
+            "transactions": [
+                {
+                    "date": "2024-01-10",
+                    "description": "Withdrawal",
+                    "amount": -1235.07,
+                    "transaction_id": 27708100
+                },
+                {
+                    "date": "2024-06-02",
+                    "description": "Withdrawal",
+                    "amount": 1605.77,
+                    "transaction_id": 10538385
+                },
+                {
+                    "date": "2022-12-08",
+                    "description": "Withdrawal",
+                    "amount": -1564.6,
+                    "transaction_id": 17551176
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Deposit",
+                    "amount": -3402.81,
+                    "transaction_id": 77452498
+                }
+            ]
+        }
+    }
+}

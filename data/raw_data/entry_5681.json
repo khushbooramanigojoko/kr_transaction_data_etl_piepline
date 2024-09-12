@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Karen Perez",
+        "age": 20,
+        "gender": "female",
+        "address": "360 Joseph Glens, East Jessicaburgh, SD 96085",
+        "phone": "001-366-676-9065x283",
+        "email": "james61@example.net",
+        "account": {
+            "account_number": "c12133fd-cc7a-46be-887c-419b90760fcd",
+            "balance": 11955.45,
+            "transactions": [
+                {
+                    "date": "2022-10-29",
+                    "description": "Withdrawal",
+                    "amount": 18559.41,
+                    "transaction_id": 109859115
+                },
+                {
+                    "date": "2023-11-11",
+                    "description": "Interest",
+                    "amount": 1846.0,
+                    "transaction_id": 82888169
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Withdrawal",
+                    "amount": 40955.5,
+                    "transaction_id": 85781886
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Interest",
+                    "amount": 38324.5,
+                    "transaction_id": 102749358
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Deposit",
+                    "amount": 2227.9,
+                    "transaction_id": 3011820
+                }
+            ]
+        }
+    }
+}

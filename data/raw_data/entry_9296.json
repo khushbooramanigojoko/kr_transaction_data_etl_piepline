@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brenda Farrell",
+        "age": 74,
+        "gender": "female",
+        "address": "662 Carter Brook Suite 707, Port Gregory, MT 12930",
+        "phone": "835.710.7860",
+        "email": "santosmelissa@example.com",
+        "account": {
+            "account_number": "2ffbda0c-2134-4a8f-b911-587dcf21bf94",
+            "balance": -29423.96,
+            "transactions": [
+                {
+                    "date": "2024-07-10",
+                    "description": "Withdrawal",
+                    "amount": -3017.71,
+                    "transaction_id": 57733546
+                }
+            ]
+        }
+    }
+}

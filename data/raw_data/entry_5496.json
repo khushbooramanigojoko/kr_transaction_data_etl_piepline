@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Dr. Elizabeth Miller",
+        "age": 46,
+        "gender": "male",
+        "address": "946 Michaela Village, Johnville, OR 57230",
+        "phone": "(509)828-6569",
+        "email": "joshua78@example.net",
+        "account": {
+            "account_number": "a0793900-a2f3-4b61-9b23-ed60db2621da",
+            "balance": 13650.61,
+            "transactions": [
+                {
+                    "date": "2022-09-29",
+                    "description": "Withdrawal",
+                    "amount": 11966.58,
+                    "transaction_id": 101278391
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Withdrawal",
+                    "amount": 37906.2,
+                    "transaction_id": 69018297
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Deposit",
+                    "amount": 21355.38,
+                    "transaction_id": 57094800
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Interest",
+                    "amount": 10373.52,
+                    "transaction_id": 88036847
+                }
+            ]
+        }
+    }
+}

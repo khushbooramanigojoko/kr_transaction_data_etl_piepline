@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michael Woodward",
+        "age": 84,
+        "gender": "female",
+        "address": "30664 Gordon Extension, Isaachaven, AR 48226",
+        "phone": "(848)898-3382x452",
+        "email": "ljones@example.org",
+        "account": {
+            "account_number": "4d51b6e6-22b6-43f2-87b3-0ccef929f809",
+            "balance": 34313.66,
+            "transactions": [
+                {
+                    "date": "2024-08-25",
+                    "description": "Withdrawal",
+                    "amount": 1257.1,
+                    "transaction_id": 2386534
+                }
+            ]
+        }
+    }
+}

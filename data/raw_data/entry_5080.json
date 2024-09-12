@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Karen Conway",
+        "age": 45,
+        "gender": "female",
+        "address": "6426 Bradley Spurs, Millerview, VI 33392",
+        "phone": "(979)970-4664",
+        "email": "jasminmata@example.org",
+        "account": {
+            "account_number": "69384fb1-611a-4481-a611-f7bdd8fbcdc4",
+            "balance": 37161.81,
+            "transactions": [
+                {
+                    "date": "2023-08-26",
+                    "description": "Deposit",
+                    "amount": 20610.09,
+                    "transaction_id": 50664279
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Deposit",
+                    "amount": 28714.21,
+                    "transaction_id": 76582582
+                }
+            ]
+        }
+    }
+}

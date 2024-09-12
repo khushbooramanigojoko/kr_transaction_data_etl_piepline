@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jeffrey Sandoval",
+        "age": 48,
+        "gender": "female",
+        "address": "910 Nichole Roads Apt. 519, North Curtis, AK 58883",
+        "phone": "+1-394-438-0198",
+        "email": "shirleylarsen@example.org",
+        "account": {
+            "account_number": "2726bd21-89b8-4465-8207-e09323a6fe4b",
+            "balance": 36099.59,
+            "transactions": [
+                {
+                    "date": "2023-09-22",
+                    "description": "Deposit",
+                    "amount": 28631.97,
+                    "transaction_id": 19682371
+                },
+                {
+                    "date": "2024-05-28",
+                    "description": "Interest",
+                    "amount": 4052.09,
+                    "transaction_id": 4282572
+                },
+                {
+                    "date": "2024-03-14",
+                    "description": "Interest",
+                    "amount": 3435.97,
+                    "transaction_id": 77043286
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Deposit",
+                    "amount": 15161.92,
+                    "transaction_id": 67903913
+                },
+                {
+                    "date": "2024-02-23",
+                    "description": "Withdrawal",
+                    "amount": 8233.32,
+                    "transaction_id": 38083708
+                }
+            ]
+        }
+    }
+}

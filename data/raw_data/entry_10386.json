@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "female",
+        "address": "228 Douglas Hills Suite 172, East Matthewtown, MP 79134",
+        "phone": "987.392.3808",
+        "email": "broman@example.net",
+        "account": {
+            "account_number": "0f425198-8838-4bfe-acfd-0e1bd47ca583",
+            "balance": 28038.28,
+            "transactions": [
+                {
+                    "date": "2023-08-24",
+                    "description": "Withdrawal",
+                    "amount": 218.28,
+                    "transaction_id": 113607653
+                },
+                {
+                    "date": "2024-06-13",
+                    "description": "Withdrawal",
+                    "amount": -1820.82,
+                    "transaction_id": 4867472
+                },
+                {
+                    "date": "2022-10-18",
+                    "description": "Deposit",
+                    "amount": -2280.99,
+                    "transaction_id": 88528914
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Withdrawal",
+                    "amount": 4583.74,
+                    "transaction_id": 47839372
+                }
+            ]
+        }
+    }
+}

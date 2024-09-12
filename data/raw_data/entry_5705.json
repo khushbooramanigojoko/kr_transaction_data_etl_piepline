@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amanda Vasquez",
+        "age": 66,
+        "gender": "female",
+        "address": "PSC 6843, Box 7788, APO AP 46186",
+        "phone": "+1-475-728-7425x2400",
+        "email": "denisemartin@example.org",
+        "account": {
+            "account_number": "562ff0f9-f4e7-4901-ba4e-ce03a90561d7",
+            "balance": 35886.61,
+            "transactions": [
+                {
+                    "date": "2023-03-08",
+                    "description": "Interest",
+                    "amount": 27122.54,
+                    "transaction_id": 82621459
+                }
+            ]
+        }
+    }
+}

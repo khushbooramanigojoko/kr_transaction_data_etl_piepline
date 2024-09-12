@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Craig Cross",
+        "age": 89,
+        "gender": "male",
+        "address": "89586 Caleb Flat, Patrickview, FL 31506",
+        "phone": "001-865-853-4587x1911",
+        "email": "emilytran@example.com",
+        "account": {
+            "account_number": "35fc9b61-4ecd-4545-8862-cff4f337a998",
+            "balance": 48146.2,
+            "transactions": [
+                {
+                    "date": "2023-04-22",
+                    "description": "Deposit",
+                    "amount": 23261.83,
+                    "transaction_id": 80822698
+                },
+                {
+                    "date": "2023-10-05",
+                    "description": "Deposit",
+                    "amount": 23360.93,
+                    "transaction_id": 53017220
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Interest",
+                    "amount": 37009.94,
+                    "transaction_id": 107929119
+                },
+                {
+                    "date": "2023-07-31",
+                    "description": "Interest",
+                    "amount": 47845.18,
+                    "transaction_id": 71268616
+                },
+                {
+                    "date": "2024-03-21",
+                    "description": "Interest",
+                    "amount": 34840.46,
+                    "transaction_id": 83848223
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Angelica Cannon",
+        "age": 95,
+        "gender": "female",
+        "address": "4936 Rodgers Dale, Bryanberg, IA 35731",
+        "phone": "+1-295-649-3780x5984",
+        "email": "bdaugherty@example.com",
+        "account": {
+            "account_number": "e54fc8b7-43cd-486b-8217-6460bf3d08bc",
+            "balance": 28679.28,
+            "transactions": [
+                {
+                    "date": "2023-11-30",
+                    "description": "Deposit",
+                    "amount": 29146.53,
+                    "transaction_id": 75590149
+                }
+            ]
+        }
+    }
+}

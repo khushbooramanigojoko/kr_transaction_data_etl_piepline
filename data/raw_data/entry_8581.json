@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Erica Chavez",
+        "age": 82,
+        "gender": "female",
+        "address": "2980 Brock Mill Apt. 841, Wardchester, AS 97850",
+        "phone": "(618)721-1493x4525",
+        "email": "robertswilliam@example.net",
+        "account": {
+            "account_number": "59609be0-262d-4a4f-9641-d092088080a3",
+            "balance": 5731.38,
+            "transactions": [
+                {
+                    "date": "2022-11-20",
+                    "description": "Deposit",
+                    "amount": 28027.58,
+                    "transaction_id": 6244917
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Interest",
+                    "amount": 17127.72,
+                    "transaction_id": 116604324
+                }
+            ]
+        }
+    }
+}

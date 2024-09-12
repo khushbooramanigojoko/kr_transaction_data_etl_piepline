@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brenda Brandt",
+        "age": 36,
+        "gender": "male",
+        "address": "7093 Mary Roads, Crystaltown, KS 02855",
+        "phone": "(502)633-2648x55391",
+        "email": "loveamanda@example.net",
+        "account": {
+            "account_number": "89bef340-2810-415e-a308-10cc5c0113c9",
+            "balance": 7641.6,
+            "transactions": [
+                {
+                    "date": "2024-07-10",
+                    "description": "Deposit",
+                    "amount": 951.65,
+                    "transaction_id": 47982617
+                },
+                {
+                    "date": "2023-06-10",
+                    "description": "Deposit",
+                    "amount": 30262.19,
+                    "transaction_id": 52731724
+                },
+                {
+                    "date": "2022-12-02",
+                    "description": "Deposit",
+                    "amount": 26612.41,
+                    "transaction_id": 17742202
+                },
+                {
+                    "date": "2023-06-23",
+                    "description": "Deposit",
+                    "amount": 49944.24,
+                    "transaction_id": 11887358
+                },
+                {
+                    "date": "2023-06-29",
+                    "description": "Withdrawal",
+                    "amount": 47288.02,
+                    "transaction_id": 5753675
+                }
+            ]
+        }
+    }
+}

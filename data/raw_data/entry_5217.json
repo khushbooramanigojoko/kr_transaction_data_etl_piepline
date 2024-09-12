@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Samantha Brock",
+        "age": 28,
+        "gender": "female",
+        "address": "188 James Corners Suite 641, Aliceton, SD 58406",
+        "phone": "207-231-6078",
+        "email": "mollymcclain@example.net",
+        "account": {
+            "account_number": "5851b7b7-9154-4fdb-8e7d-68d5b0b4729d",
+            "balance": 13945.76,
+            "transactions": [
+                {
+                    "date": "2023-06-27",
+                    "description": "Withdrawal",
+                    "amount": 49543.27,
+                    "transaction_id": 118549007
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Deposit",
+                    "amount": 42713.16,
+                    "transaction_id": 53075150
+                }
+            ]
+        }
+    }
+}

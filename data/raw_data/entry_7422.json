@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Erin Patterson",
+        "age": 42,
+        "gender": "male",
+        "address": "92360 Shawna Ramp, Lake Nathan, IA 17709",
+        "phone": "240.529.5039",
+        "email": "jermaine62@example.org",
+        "account": {
+            "account_number": "d0814659-e6f1-4edd-8ab6-7d7d450373d2",
+            "balance": 23038.88,
+            "transactions": [
+                {
+                    "date": "2022-11-24",
+                    "description": "Deposit",
+                    "amount": 12337.84,
+                    "transaction_id": 45283692
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Interest",
+                    "amount": 27406.63,
+                    "transaction_id": 14367222
+                },
+                {
+                    "date": "2022-10-30",
+                    "description": "Deposit",
+                    "amount": 39645.9,
+                    "transaction_id": 49392372
+                }
+            ]
+        }
+    }
+}

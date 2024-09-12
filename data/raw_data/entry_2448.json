@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Thomas Lopez",
+        "age": 93,
+        "gender": "female",
+        "address": "6555 Haynes Lock Apt. 781, Gonzalezfort, IL 66956",
+        "phone": "8348089608",
+        "email": "vmarsh@example.net",
+        "account": {
+            "account_number": "b2bc8afd-c412-420a-962c-9630bcb0e0c8",
+            "balance": 38316.22,
+            "transactions": [
+                {
+                    "date": "2024-08-24",
+                    "description": "Deposit",
+                    "amount": 41192.1,
+                    "transaction_id": 48120291
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Withdrawal",
+                    "amount": 22416.4,
+                    "transaction_id": 24854672
+                },
+                {
+                    "date": "2022-10-20",
+                    "description": "Withdrawal",
+                    "amount": 38851.3,
+                    "transaction_id": 26143133
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Deposit",
+                    "amount": 31129.13,
+                    "transaction_id": 59664745
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 22,
+        "gender": "male",
+        "address": "7772 Holly Mountain Suite 705, East Isaac, PR 65475",
+        "phone": "488.505.1588",
+        "email": "mullinsdale@example.com",
+        "account": {
+            "account_number": "27f5a703-c08d-4926-bb9d-e9af570c0612",
+            "balance": 9558.82,
+            "transactions": [
+                {
+                    "date": "2023-07-08",
+                    "description": "Deposit",
+                    "amount": 63.63,
+                    "transaction_id": 24892320
+                }
+            ]
+        }
+    }
+}

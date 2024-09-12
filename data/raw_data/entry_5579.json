@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "James Horton",
+        "age": 84,
+        "gender": "female",
+        "address": "081 Howard Valley, Lake Jenniferstad, TN 65916",
+        "phone": "001-298-787-4554",
+        "email": "lisawoods@example.com",
+        "account": {
+            "account_number": "dcf38a07-a546-45ff-869e-ebb469b94c5e",
+            "balance": 41183.19,
+            "transactions": [
+                {
+                    "date": "2022-10-10",
+                    "description": "Withdrawal",
+                    "amount": 7375.17,
+                    "transaction_id": 41338746
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Withdrawal",
+                    "amount": 31653.79,
+                    "transaction_id": 31394275
+                }
+            ]
+        }
+    }
+}

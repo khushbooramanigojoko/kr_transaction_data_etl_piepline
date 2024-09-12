@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Teresa Adams",
+        "age": 89,
+        "gender": "female",
+        "address": "PSC 6852, Box 4163, APO AE 78167",
+        "phone": "+1-405-483-3431x7674",
+        "email": "bobby84@example.org",
+        "account": {
+            "account_number": "dbfd8c21-0b25-4651-a447-d0f2ece3ddff",
+            "balance": 28166.2,
+            "transactions": [
+                {
+                    "date": "2024-05-13",
+                    "description": "Withdrawal",
+                    "amount": 12477.34,
+                    "transaction_id": 29374073
+                }
+            ]
+        }
+    }
+}

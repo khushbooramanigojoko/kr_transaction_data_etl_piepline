@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jacob Noble",
+        "age": 76,
+        "gender": "male",
+        "address": "325 Brewer Forges, Gabrielmouth, HI 96650",
+        "phone": "529.214.4507",
+        "email": "bpatel@example.org",
+        "account": {
+            "account_number": "9b44138a-3447-4356-9112-af425b2f3567",
+            "balance": 49330.88,
+            "transactions": [
+                {
+                    "date": "2023-02-15",
+                    "description": "Interest",
+                    "amount": 10024.84,
+                    "transaction_id": 26988484
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Deposit",
+                    "amount": 20284.27,
+                    "transaction_id": 119802990
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Deposit",
+                    "amount": 43733.42,
+                    "transaction_id": 119421797
+                },
+                {
+                    "date": "2023-05-30",
+                    "description": "Withdrawal",
+                    "amount": 48776.98,
+                    "transaction_id": 49741619
+                }
+            ]
+        }
+    }
+}

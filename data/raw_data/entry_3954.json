@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christine Andrade",
+        "age": 25,
+        "gender": "male",
+        "address": "2048 Robert Loaf Suite 961, New Abigail, PR 13846",
+        "phone": "(550)444-1833",
+        "email": "woodholly@example.net",
+        "account": {
+            "account_number": "d6d16d04-1bb9-45fb-80ab-f0e17e73e116",
+            "balance": 22222.54,
+            "transactions": [
+                {
+                    "date": "2024-09-01",
+                    "description": "Withdrawal",
+                    "amount": 26547.53,
+                    "transaction_id": 34305429
+                },
+                {
+                    "date": "2022-11-01",
+                    "description": "Withdrawal",
+                    "amount": 9231.93,
+                    "transaction_id": 99597247
+                }
+            ]
+        }
+    }
+}

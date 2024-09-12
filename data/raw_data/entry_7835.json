@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Villa",
+        "age": 86,
+        "gender": "male",
+        "address": "78484 Miles Shore, Nicholeburgh, SD 23311",
+        "phone": "203.728.9253x8012",
+        "email": "qnewton@example.com",
+        "account": {
+            "account_number": "5dca0bea-4dd4-4d6e-bfbe-e390e220f564",
+            "balance": 37713.28,
+            "transactions": [
+                {
+                    "date": "2022-11-18",
+                    "description": "Withdrawal",
+                    "amount": 29453.48,
+                    "transaction_id": 70032251
+                },
+                {
+                    "date": "2023-01-24",
+                    "description": "Interest",
+                    "amount": 28339.35,
+                    "transaction_id": 10839218
+                },
+                {
+                    "date": "2024-08-30",
+                    "description": "Deposit",
+                    "amount": 32048.72,
+                    "transaction_id": 115140895
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Withdrawal",
+                    "amount": 14820.16,
+                    "transaction_id": 17754462
+                },
+                {
+                    "date": "2023-01-19",
+                    "description": "Deposit",
+                    "amount": 44412.98,
+                    "transaction_id": 40498986
+                }
+            ]
+        }
+    }
+}

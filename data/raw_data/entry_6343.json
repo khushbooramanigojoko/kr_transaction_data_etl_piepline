@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Edward Johnson",
+        "age": 60,
+        "gender": "female",
+        "address": "052 George Port Apt. 591, Rhondastad, UT 96231",
+        "phone": "+1-260-861-2029x4961",
+        "email": "catherinehernandez@example.org",
+        "account": {
+            "account_number": "14ca2b88-4519-4caa-84d2-ac5e29b4691f",
+            "balance": 33596.37,
+            "transactions": [
+                {
+                    "date": "2023-05-25",
+                    "description": "Withdrawal",
+                    "amount": 16998.0,
+                    "transaction_id": 62910225
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Withdrawal",
+                    "amount": 22062.38,
+                    "transaction_id": 65978610
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Interest",
+                    "amount": 20907.18,
+                    "transaction_id": 117666603
+                },
+                {
+                    "date": "2022-12-03",
+                    "description": "Deposit",
+                    "amount": 34535.32,
+                    "transaction_id": 18373875
+                },
+                {
+                    "date": "2024-05-07",
+                    "description": "Deposit",
+                    "amount": 22721.65,
+                    "transaction_id": 43177148
+                }
+            ]
+        }
+    }
+}

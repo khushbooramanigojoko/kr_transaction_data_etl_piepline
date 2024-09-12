@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Madeline Jacobs",
+        "age": 80,
+        "gender": "female",
+        "address": "05014 Davis Ways, Lisatown, AS 27177",
+        "phone": "001-878-523-7981x9993",
+        "email": "crawfordbradley@example.net",
+        "account": {
+            "account_number": "bf7b104c-3602-41f0-9a3e-7bb579548611",
+            "balance": 27879.9,
+            "transactions": [
+                {
+                    "date": "2024-06-17",
+                    "description": "Deposit",
+                    "amount": 37333.59,
+                    "transaction_id": 30997221
+                }
+            ]
+        }
+    }
+}

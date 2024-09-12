@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Johnny Bailey",
+        "age": 45,
+        "gender": "female",
+        "address": "05351 Melissa Lakes Apt. 533, Carolineside, ME 47695",
+        "phone": "+1-598-996-6561",
+        "email": "shannonwebb@example.net",
+        "account": {
+            "account_number": "aa05b259-4dc4-423f-b08c-c9e06e8b2e98",
+            "balance": 18588.49,
+            "transactions": [
+                {
+                    "date": "2023-01-23",
+                    "description": "Withdrawal",
+                    "amount": 39446.31,
+                    "transaction_id": 33258067
+                },
+                {
+                    "date": "2024-05-06",
+                    "description": "Interest",
+                    "amount": 44571.0,
+                    "transaction_id": 34063372
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Interest",
+                    "amount": 27458.54,
+                    "transaction_id": 42435998
+                },
+                {
+                    "date": "2022-11-04",
+                    "description": "Withdrawal",
+                    "amount": 42481.61,
+                    "transaction_id": 104106559
+                }
+            ]
+        }
+    }
+}

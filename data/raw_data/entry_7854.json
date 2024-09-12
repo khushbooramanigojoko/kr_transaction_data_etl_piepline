@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Adam Barrett",
+        "age": 52,
+        "gender": "female",
+        "address": "3196 Mercado Keys, Annettechester, MH 08632",
+        "phone": "477.387.6485x16848",
+        "email": "phenderson@example.org",
+        "account": {
+            "account_number": "2facf7ed-e7fc-4528-8e9d-a61a75802887",
+            "balance": 32644.83,
+            "transactions": [
+                {
+                    "date": "2023-01-27",
+                    "description": "Interest",
+                    "amount": 35768.65,
+                    "transaction_id": 82598453
+                },
+                {
+                    "date": "2023-12-27",
+                    "description": "Interest",
+                    "amount": 20276.69,
+                    "transaction_id": 118193380
+                },
+                {
+                    "date": "2023-07-03",
+                    "description": "Interest",
+                    "amount": 19020.8,
+                    "transaction_id": 21332720
+                },
+                {
+                    "date": "2024-03-01",
+                    "description": "Withdrawal",
+                    "amount": 8170.96,
+                    "transaction_id": 116339193
+                }
+            ]
+        }
+    }
+}

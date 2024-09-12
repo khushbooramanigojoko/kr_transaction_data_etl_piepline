@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 62,
+        "gender": "female",
+        "address": "83008 Jennifer Trafficway, Jonside, IA 69613",
+        "phone": "(429)534-7718x46952",
+        "email": "linda93@example.com",
+        "account": {
+            "account_number": "3bd3aa64-bae7-4c85-bed3-39dd60044922",
+            "balance": 41923.32,
+            "transactions": [
+                {
+                    "date": "2024-06-12",
+                    "description": "Deposit",
+                    "amount": -4432.43,
+                    "transaction_id": 13461472
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Withdrawal",
+                    "amount": 2278.36,
+                    "transaction_id": 29632792
+                },
+                {
+                    "date": "2024-06-01",
+                    "description": "Withdrawal",
+                    "amount": 1633.67,
+                    "transaction_id": 80009401
+                }
+            ]
+        }
+    }
+}

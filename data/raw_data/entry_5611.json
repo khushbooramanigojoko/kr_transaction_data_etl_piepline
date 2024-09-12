@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Pamela Oliver",
+        "age": 92,
+        "gender": "female",
+        "address": "73699 Ashley Brook Suite 847, Frankstad, SC 00982",
+        "phone": "460-494-7493x69467",
+        "email": "sierrasimpson@example.org",
+        "account": {
+            "account_number": "967d01f0-1662-4d76-87fa-82990d8f1e58",
+            "balance": 43037.68,
+            "transactions": [
+                {
+                    "date": "2023-06-01",
+                    "description": "Withdrawal",
+                    "amount": 26082.08,
+                    "transaction_id": 84933058
+                },
+                {
+                    "date": "2023-09-18",
+                    "description": "Withdrawal",
+                    "amount": 41519.75,
+                    "transaction_id": 51184142
+                },
+                {
+                    "date": "2023-03-22",
+                    "description": "Interest",
+                    "amount": 47101.9,
+                    "transaction_id": 95864561
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Deposit",
+                    "amount": 6210.29,
+                    "transaction_id": 29069860
+                }
+            ]
+        }
+    }
+}

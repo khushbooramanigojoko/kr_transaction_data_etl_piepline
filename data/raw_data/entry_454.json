@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Megan Alvarez",
+        "age": 82,
+        "gender": "male",
+        "address": "5356 Tamara Groves Apt. 705, East Alanville, AR 89627",
+        "phone": "+1-433-855-2675x61611",
+        "email": "nicholas00@example.com",
+        "account": {
+            "account_number": "b17ace5c-8fc0-41ae-aa55-b285dd7ae526",
+            "balance": 38700.05,
+            "transactions": [
+                {
+                    "date": "2024-01-20",
+                    "description": "Interest",
+                    "amount": 14844.35,
+                    "transaction_id": 62357577
+                },
+                {
+                    "date": "2024-02-26",
+                    "description": "Withdrawal",
+                    "amount": 26911.0,
+                    "transaction_id": 3857973
+                },
+                {
+                    "date": "2024-03-01",
+                    "description": "Withdrawal",
+                    "amount": 24780.2,
+                    "transaction_id": 72038724
+                },
+                {
+                    "date": "2023-10-02",
+                    "description": "Deposit",
+                    "amount": 35939.58,
+                    "transaction_id": 20174032
+                },
+                {
+                    "date": "2023-09-11",
+                    "description": "Withdrawal",
+                    "amount": 5737.41,
+                    "transaction_id": 26190470
+                }
+            ]
+        }
+    }
+}

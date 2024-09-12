@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Alexander Ferrell",
+        "age": 74,
+        "gender": "female",
+        "address": "5302 Lara Greens Apt. 599, Scottfort, RI 78795",
+        "phone": "(520)210-9069x95040",
+        "email": "ljohnson@example.com",
+        "account": {
+            "account_number": "e8ed6de8-8819-42db-925a-c42a24a4bada",
+            "balance": 3980.74,
+            "transactions": [
+                {
+                    "date": "2024-06-08",
+                    "description": "Deposit",
+                    "amount": 17394.33,
+                    "transaction_id": 82921700
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Withdrawal",
+                    "amount": 5871.05,
+                    "transaction_id": 112282345
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Deposit",
+                    "amount": 25764.25,
+                    "transaction_id": 21230964
+                }
+            ]
+        }
+    }
+}

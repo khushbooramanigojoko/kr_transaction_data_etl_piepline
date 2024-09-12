@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Shannon Moore",
+        "age": 98,
+        "gender": "female",
+        "address": "158 Patrick Crossing Apt. 832, Reidmouth, MT 18138",
+        "phone": "567-340-6939",
+        "email": "parker77@example.net",
+        "account": {
+            "account_number": "e5d5680a-18b7-475d-a465-9382dd9b1543",
+            "balance": 39057.9,
+            "transactions": [
+                {
+                    "date": "2023-01-05",
+                    "description": "Deposit",
+                    "amount": 22858.83,
+                    "transaction_id": 18519723
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christina Schmidt",
+        "age": 68,
+        "gender": "male",
+        "address": "46833 Johnson Club Suite 690, Port Sabrinachester, WA 70041",
+        "phone": "+1-767-939-1603x52534",
+        "email": "mjones@example.org",
+        "account": {
+            "account_number": "c05e9586-9e13-4ed4-8b3e-9bbb5737b6b3",
+            "balance": 29130.37,
+            "transactions": [
+                {
+                    "date": "2023-07-15",
+                    "description": "Deposit",
+                    "amount": 6634.0,
+                    "transaction_id": 105085623
+                }
+            ]
+        }
+    }
+}

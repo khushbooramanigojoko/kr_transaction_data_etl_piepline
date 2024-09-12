@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michelle White",
+        "age": 57,
+        "gender": "male",
+        "address": "4718 Jeffrey Forges Apt. 444, New Christopherbury, MD 28492",
+        "phone": "+1-752-552-7691x01488",
+        "email": "vkramer@example.com",
+        "account": {
+            "account_number": "7f4e3963-e131-40d2-b211-7607c0f11220",
+            "balance": 39254.57,
+            "transactions": [
+                {
+                    "date": "2023-06-21",
+                    "description": "Interest",
+                    "amount": 47623.04,
+                    "transaction_id": 62971683
+                },
+                {
+                    "date": "2023-12-20",
+                    "description": "Interest",
+                    "amount": 47740.03,
+                    "transaction_id": 19232493
+                }
+            ]
+        }
+    }
+}

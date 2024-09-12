@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Catherine Anderson",
+        "age": 31,
+        "gender": "male",
+        "address": "065 Lisa Walks, West Christopherbury, WV 96369",
+        "phone": "(964)712-5161",
+        "email": "ricardodaniels@example.org",
+        "account": {
+            "account_number": "b4a71e7b-a36f-4241-8779-eff3993b75dd",
+            "balance": 15100.16,
+            "transactions": [
+                {
+                    "date": "2024-05-11",
+                    "description": "Deposit",
+                    "amount": 17988.03,
+                    "transaction_id": 4739559
+                },
+                {
+                    "date": "2024-08-14",
+                    "description": "Deposit",
+                    "amount": 31209.05,
+                    "transaction_id": 115699637
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Interest",
+                    "amount": 750.78,
+                    "transaction_id": 97259298
+                }
+            ]
+        }
+    }
+}

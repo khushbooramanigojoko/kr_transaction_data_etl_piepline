@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Elizabeth Bailey",
+        "age": 44,
+        "gender": "male",
+        "address": "80938 Kiara Shoals, Nolantown, GA 64139",
+        "phone": "744-971-2897x5921",
+        "email": "robertsoncorey@example.org",
+        "account": {
+            "account_number": "37e6566f-1989-47d0-a859-9c4234f99fca",
+            "balance": 12614.74,
+            "transactions": [
+                {
+                    "date": "2024-01-19",
+                    "description": "Withdrawal",
+                    "amount": 14159.32,
+                    "transaction_id": 52772051
+                },
+                {
+                    "date": "2023-05-06",
+                    "description": "Interest",
+                    "amount": 43742.69,
+                    "transaction_id": 31079095
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Julie Miller",
+        "age": 93,
+        "gender": "female",
+        "address": "53404 Olson Port Suite 522, North Lauraview, WY 14382",
+        "phone": "601-667-7517",
+        "email": "nancymontgomery@example.org",
+        "account": {
+            "account_number": "5d3f3f49-09b5-4f93-9e70-7117c8a7811c",
+            "balance": 20470.76,
+            "transactions": [
+                {
+                    "date": "2023-09-27",
+                    "description": "Withdrawal",
+                    "amount": 36052.09,
+                    "transaction_id": 21836590
+                },
+                {
+                    "date": "2023-04-23",
+                    "description": "Deposit",
+                    "amount": 12763.83,
+                    "transaction_id": 21560499
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Deposit",
+                    "amount": 42021.86,
+                    "transaction_id": 45205382
+                }
+            ]
+        }
+    }
+}

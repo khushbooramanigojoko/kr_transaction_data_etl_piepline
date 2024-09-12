@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 44,
+        "gender": "female",
+        "address": "7596 Michael Forest Suite 659, Riveraborough, MH 75073",
+        "phone": "+1-893-254-4268x0298",
+        "email": "leonmccarthy@example.com",
+        "account": {
+            "account_number": "f86ebdbf-6a1d-4a44-a041-41ecb14eae16",
+            "balance": 36642.28,
+            "transactions": [
+                {
+                    "date": "2022-09-05",
+                    "description": "Interest",
+                    "amount": 3647.92,
+                    "transaction_id": 29286797
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Interest",
+                    "amount": -955.63,
+                    "transaction_id": 51172465
+                },
+                {
+                    "date": "2023-01-31",
+                    "description": "Deposit",
+                    "amount": 2582.72,
+                    "transaction_id": 112175283
+                },
+                {
+                    "date": "2023-03-19",
+                    "description": "Interest",
+                    "amount": 3771.49,
+                    "transaction_id": 41581458
+                }
+            ]
+        }
+    }
+}

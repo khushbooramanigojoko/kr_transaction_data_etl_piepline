@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 40,
+        "gender": "male",
+        "address": "89438 Molina Spur Apt. 562, North Mercedes, KS 57993",
+        "phone": "598-415-2982x36258",
+        "email": "wallermichael@example.net",
+        "account": {
+            "account_number": "a0885d1e-aaff-4e44-b104-c2adff044e16",
+            "balance": 24438.18,
+            "transactions": [
+                {
+                    "date": "2022-10-17",
+                    "description": "Interest",
+                    "amount": -3785.64,
+                    "transaction_id": 54505459
+                },
+                {
+                    "date": "2023-05-15",
+                    "description": "Deposit",
+                    "amount": -301.3,
+                    "transaction_id": 65417318
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Deposit",
+                    "amount": -4490.88,
+                    "transaction_id": 88114444
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Interest",
+                    "amount": 2420.6,
+                    "transaction_id": 106211216
+                }
+            ]
+        }
+    }
+}

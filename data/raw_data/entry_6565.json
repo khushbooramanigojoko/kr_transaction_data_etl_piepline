@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Samantha Gates",
+        "age": 99,
+        "gender": "female",
+        "address": "9377 Cook Village Apt. 024, Brownfort, AK 67569",
+        "phone": "441-597-8518",
+        "email": "mherrera@example.com",
+        "account": {
+            "account_number": "bde88992-24d4-47c3-b6bf-eba8a2ebc33b",
+            "balance": 39509.47,
+            "transactions": [
+                {
+                    "date": "2022-10-03",
+                    "description": "Deposit",
+                    "amount": 19787.89,
+                    "transaction_id": 55398516
+                },
+                {
+                    "date": "2024-05-11",
+                    "description": "Withdrawal",
+                    "amount": 44024.38,
+                    "transaction_id": 11639293
+                }
+            ]
+        }
+    }
+}

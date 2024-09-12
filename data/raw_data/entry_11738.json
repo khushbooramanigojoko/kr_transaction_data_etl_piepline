@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Crystal Oneill",
+        "age": 72,
+        "gender": "male",
+        "address": "74177 Christina Fall, Fischerchester, GA 36589",
+        "phone": "455-747-5828",
+        "email": "danasmith@example.com",
+        "account": {
+            "account_number": "d2769b8a-8474-445a-b8cb-1bf6847bf2fb",
+            "balance": -23151.52,
+            "transactions": [
+                {
+                    "date": "2024-08-21",
+                    "description": "Interest",
+                    "amount": -4795.8,
+                    "transaction_id": 96215369
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Withdrawal",
+                    "amount": 2013.33,
+                    "transaction_id": 89439678
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Deposit",
+                    "amount": -2253.88,
+                    "transaction_id": 22736857
+                }
+            ]
+        }
+    }
+}

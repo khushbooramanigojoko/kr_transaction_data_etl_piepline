@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kyle Guerra",
+        "age": 92,
+        "gender": "female",
+        "address": "7738 Wendy Village, East Danielleburgh, TX 77311",
+        "phone": "448.409.7585x1878",
+        "email": "leejesus@example.net",
+        "account": {
+            "account_number": "af3f14a9-4c24-40fc-bc15-ebf997123e8a",
+            "balance": 18045.41,
+            "transactions": [
+                {
+                    "date": "2023-01-15",
+                    "description": "Deposit",
+                    "amount": 6890.38,
+                    "transaction_id": 74474500
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Interest",
+                    "amount": 39064.9,
+                    "transaction_id": 16816750
+                },
+                {
+                    "date": "2023-04-16",
+                    "description": "Withdrawal",
+                    "amount": 30008.29,
+                    "transaction_id": 51049133
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Withdrawal",
+                    "amount": 31446.14,
+                    "transaction_id": 23137552
+                }
+            ]
+        }
+    }
+}

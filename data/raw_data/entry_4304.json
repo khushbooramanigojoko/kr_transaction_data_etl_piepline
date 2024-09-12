@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Bradford",
+        "age": 77,
+        "gender": "male",
+        "address": "460 Thomas Stream, South Arthurport, AR 84986",
+        "phone": "001-516-908-3150x4187",
+        "email": "williamsjohn@example.org",
+        "account": {
+            "account_number": "de52d66e-4757-4d49-b91d-56e3376ff8a1",
+            "balance": 37059.65,
+            "transactions": [
+                {
+                    "date": "2023-12-02",
+                    "description": "Withdrawal",
+                    "amount": 42122.48,
+                    "transaction_id": 1439441
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Interest",
+                    "amount": 30767.01,
+                    "transaction_id": 21619087
+                }
+            ]
+        }
+    }
+}

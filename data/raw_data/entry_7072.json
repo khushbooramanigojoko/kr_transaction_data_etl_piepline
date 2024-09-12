@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nancy Perkins",
+        "age": 48,
+        "gender": "male",
+        "address": "7636 Ferguson Harbors, Thompsonburgh, AS 82298",
+        "phone": "755-434-4702x38110",
+        "email": "barbaralopez@example.com",
+        "account": {
+            "account_number": "70b6c295-5ae6-41b5-8f28-cb122fafe2c5",
+            "balance": 45445.14,
+            "transactions": [
+                {
+                    "date": "2023-07-05",
+                    "description": "Deposit",
+                    "amount": 5659.49,
+                    "transaction_id": 15557658
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Deposit",
+                    "amount": 2894.26,
+                    "transaction_id": 13878832
+                },
+                {
+                    "date": "2022-12-09",
+                    "description": "Interest",
+                    "amount": 20204.66,
+                    "transaction_id": 32011368
+                },
+                {
+                    "date": "2023-04-24",
+                    "description": "Interest",
+                    "amount": 3117.78,
+                    "transaction_id": 38010547
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "female",
+        "address": "9757 Walsh Mountain, Harrisside, IL 84189",
+        "phone": "+1-280-925-9242x98650",
+        "email": "daviddaugherty@example.net",
+        "account": {
+            "account_number": "d1cfaca3-db2a-41d1-be0d-d6deb73794bf",
+            "balance": 44275.74,
+            "transactions": [
+                {
+                    "date": "2023-08-09",
+                    "description": "Withdrawal",
+                    "amount": -1068.96,
+                    "transaction_id": 34245803
+                },
+                {
+                    "date": "2023-05-05",
+                    "description": "Withdrawal",
+                    "amount": -3733.11,
+                    "transaction_id": 12654159
+                }
+            ]
+        }
+    }
+}

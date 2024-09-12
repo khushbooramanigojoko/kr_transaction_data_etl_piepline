@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alexander Harris",
+        "age": 39,
+        "gender": "female",
+        "address": "42794 Rodriguez Manors, Cherylhaven, VA 59702",
+        "phone": "001-795-572-1212x2064",
+        "email": "anthony90@example.com",
+        "account": {
+            "account_number": "cbd8a366-0bcd-44d9-9907-b402c6a8b187",
+            "balance": 48995.82,
+            "transactions": [
+                {
+                    "date": "2024-06-13",
+                    "description": "Withdrawal",
+                    "amount": 42781.88,
+                    "transaction_id": 58658904
+                },
+                {
+                    "date": "2023-12-31",
+                    "description": "Interest",
+                    "amount": 47419.48,
+                    "transaction_id": 75968337
+                },
+                {
+                    "date": "2023-06-23",
+                    "description": "Withdrawal",
+                    "amount": 14035.88,
+                    "transaction_id": 82670859
+                },
+                {
+                    "date": "2024-01-10",
+                    "description": "Interest",
+                    "amount": 30340.27,
+                    "transaction_id": 81156048
+                }
+            ]
+        }
+    }
+}

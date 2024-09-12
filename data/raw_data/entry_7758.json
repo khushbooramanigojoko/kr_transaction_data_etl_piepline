@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Cox",
+        "age": 35,
+        "gender": "female",
+        "address": "680 Christine Course Apt. 880, Thomasborough, MI 23314",
+        "phone": "+1-493-356-7995x66230",
+        "email": "justinlewis@example.org",
+        "account": {
+            "account_number": "db4d42a1-260b-4735-ac83-e13e3d0f7363",
+            "balance": 6952.87,
+            "transactions": [
+                {
+                    "date": "2022-12-16",
+                    "description": "Deposit",
+                    "amount": 17904.47,
+                    "transaction_id": 6039962
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Withdrawal",
+                    "amount": 44024.69,
+                    "transaction_id": 48850801
+                },
+                {
+                    "date": "2023-02-26",
+                    "description": "Deposit",
+                    "amount": 28651.21,
+                    "transaction_id": 54285725
+                },
+                {
+                    "date": "2024-03-12",
+                    "description": "Deposit",
+                    "amount": 32924.19,
+                    "transaction_id": 93037546
+                }
+            ]
+        }
+    }
+}

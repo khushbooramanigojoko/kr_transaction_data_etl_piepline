@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Heather Christensen",
+        "age": 37,
+        "gender": "female",
+        "address": "81052 Stephen Mall Apt. 388, Robertschester, RI 07473",
+        "phone": "221-734-3685",
+        "email": "cooktanya@example.com",
+        "account": {
+            "account_number": "56aec5d7-b7b2-4db0-9c4b-41db50872e25",
+            "balance": 36938.51,
+            "transactions": [
+                {
+                    "date": "2024-02-21",
+                    "description": "Deposit",
+                    "amount": 38621.13,
+                    "transaction_id": 17312010
+                },
+                {
+                    "date": "2022-12-07",
+                    "description": "Deposit",
+                    "amount": 48006.5,
+                    "transaction_id": 75047521
+                }
+            ]
+        }
+    }
+}

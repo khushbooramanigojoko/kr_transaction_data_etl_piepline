@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Alfred Blake",
+        "age": 42,
+        "gender": "male",
+        "address": "75580 Ronald Pass Suite 412, West Matthew, FL 61549",
+        "phone": "+1-201-205-2772x397",
+        "email": "wlee@example.net",
+        "account": {
+            "account_number": "d7ad357a-3422-41b0-85b9-a0cd0959503b",
+            "balance": 4142.1,
+            "transactions": [
+                {
+                    "date": "2022-09-28",
+                    "description": "Interest",
+                    "amount": 5287.29,
+                    "transaction_id": 105671337
+                },
+                {
+                    "date": "2023-05-31",
+                    "description": "Deposit",
+                    "amount": 109.11,
+                    "transaction_id": 11028964
+                }
+            ]
+        }
+    }
+}

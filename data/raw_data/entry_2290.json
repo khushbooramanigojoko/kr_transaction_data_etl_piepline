@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jesse Gutierrez",
+        "age": 47,
+        "gender": "female",
+        "address": "210 Andrews Rapids, Ashleyport, WY 13393",
+        "phone": "+1-690-989-8071",
+        "email": "torresderrick@example.com",
+        "account": {
+            "account_number": "521e0a50-0ecb-4b9c-b21c-6e36da3502a2",
+            "balance": 34260.99,
+            "transactions": [
+                {
+                    "date": "2023-09-24",
+                    "description": "Interest",
+                    "amount": 19022.16,
+                    "transaction_id": 98220275
+                }
+            ]
+        }
+    }
+}

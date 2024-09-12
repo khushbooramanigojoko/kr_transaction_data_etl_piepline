@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Taylor DVM",
+        "age": 61,
+        "gender": "male",
+        "address": "12205 Brown Gateway, Lake Jonathanburgh, PA 68393",
+        "phone": "001-984-989-8272",
+        "email": "gibsondavid@example.org",
+        "account": {
+            "account_number": "d57b87b9-a6bc-4d98-8845-3060e49c0b3e",
+            "balance": 9789.9,
+            "transactions": [
+                {
+                    "date": "2023-01-01",
+                    "description": "Withdrawal",
+                    "amount": 9863.28,
+                    "transaction_id": 7313185
+                },
+                {
+                    "date": "2023-02-10",
+                    "description": "Withdrawal",
+                    "amount": 49325.15,
+                    "transaction_id": 90218819
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Deposit",
+                    "amount": 20285.5,
+                    "transaction_id": 113606313
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Interest",
+                    "amount": 5599.44,
+                    "transaction_id": 31886659
+                },
+                {
+                    "date": "2022-12-09",
+                    "description": "Deposit",
+                    "amount": 20132.82,
+                    "transaction_id": 66628486
+                }
+            ]
+        }
+    }
+}

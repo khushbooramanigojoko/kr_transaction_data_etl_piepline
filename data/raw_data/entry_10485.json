@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Scott Hall",
+        "age": 66,
+        "gender": "female",
+        "address": "8065 Christy Dam, New Shirleyfurt, KS 59945",
+        "phone": "001-445-801-5535",
+        "email": "brennandavid@example.net",
+        "account": {
+            "account_number": "18a79a36-d6d7-4095-843e-569289c70205",
+            "balance": -31830.63,
+            "transactions": [
+                {
+                    "date": "2024-04-16",
+                    "description": "Deposit",
+                    "amount": -536.13,
+                    "transaction_id": 67265754
+                },
+                {
+                    "date": "2024-03-16",
+                    "description": "Deposit",
+                    "amount": 38.29,
+                    "transaction_id": 2907122
+                },
+                {
+                    "date": "2023-05-25",
+                    "description": "Interest",
+                    "amount": 1418.01,
+                    "transaction_id": 81565250
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Withdrawal",
+                    "amount": 645.54,
+                    "transaction_id": 100434688
+                },
+                {
+                    "date": "2022-10-13",
+                    "description": "Interest",
+                    "amount": 226.17,
+                    "transaction_id": 65809694
+                }
+            ]
+        }
+    }
+}

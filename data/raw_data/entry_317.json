@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Andrew Barker",
+        "age": 71,
+        "gender": "male",
+        "address": "840 Rodriguez Mews, Port Nicoleberg, IN 81027",
+        "phone": "+1-791-971-0505x0540",
+        "email": "istevens@example.org",
+        "account": {
+            "account_number": "471b43d2-dc11-4c8e-8f17-476b939e959d",
+            "balance": 3128.46,
+            "transactions": [
+                {
+                    "date": "2023-07-26",
+                    "description": "Withdrawal",
+                    "amount": 3149.81,
+                    "transaction_id": 63079838
+                }
+            ]
+        }
+    }
+}

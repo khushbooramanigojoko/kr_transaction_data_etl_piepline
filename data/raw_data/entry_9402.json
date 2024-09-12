@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tyler Barrett",
+        "age": 53,
+        "gender": "female",
+        "address": "1819 Stephens Route, South Pamelaburgh, NY 60408",
+        "phone": "898.343.0228x878",
+        "email": "max43@example.com",
+        "account": {
+            "account_number": "0c723468-851d-4971-973a-8202f6bf752a",
+            "balance": -23888.98,
+            "transactions": [
+                {
+                    "date": "2024-05-28",
+                    "description": "Interest",
+                    "amount": 1080.21,
+                    "transaction_id": 116499309
+                }
+            ]
+        }
+    }
+}

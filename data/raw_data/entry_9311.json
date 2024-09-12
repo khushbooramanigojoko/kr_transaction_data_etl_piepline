@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sheryl Sanford",
+        "age": 42,
+        "gender": "female",
+        "address": "PSC 6855, Box 4641, APO AE 35604",
+        "phone": "650.903.6069x213",
+        "email": "sanfordpaul@example.org",
+        "account": {
+            "account_number": "614f953f-65ef-4478-adc3-6a70d205f867",
+            "balance": -18719.94,
+            "transactions": [
+                {
+                    "date": "2023-10-28",
+                    "description": "Deposit",
+                    "amount": 4344.09,
+                    "transaction_id": 81511823
+                },
+                {
+                    "date": "2023-08-18",
+                    "description": "Withdrawal",
+                    "amount": 4188.72,
+                    "transaction_id": 115380951
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Deposit",
+                    "amount": 1371.52,
+                    "transaction_id": 46359169
+                }
+            ]
+        }
+    }
+}

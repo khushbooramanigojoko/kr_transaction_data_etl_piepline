@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 25,
+        "gender": "female",
+        "address": "9296 Wendy Isle, South Frank, NJ 16527",
+        "phone": "932.378.5965x356",
+        "email": "patrickdonald@example.com",
+        "account": {
+            "account_number": "77c9aca7-b34c-4ae0-a05b-03b904c2e3f7",
+            "balance": 11069.45,
+            "transactions": [
+                {
+                    "date": "2022-12-05",
+                    "description": "Deposit",
+                    "amount": -1480.28,
+                    "transaction_id": 26323113
+                },
+                {
+                    "date": "2024-01-06",
+                    "description": "Interest",
+                    "amount": -2916.46,
+                    "transaction_id": 107272885
+                }
+            ]
+        }
+    }
+}

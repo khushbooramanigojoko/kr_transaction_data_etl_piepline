@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Isaac Haley",
+        "age": 98,
+        "gender": "male",
+        "address": "61382 Ward Turnpike, West Larry, WY 34506",
+        "phone": "9388356848",
+        "email": "ocollins@example.net",
+        "account": {
+            "account_number": "04fc7f4f-43dc-49a2-a02a-d78a1c3ebd9a",
+            "balance": 9016.92,
+            "transactions": [
+                {
+                    "date": "2024-03-13",
+                    "description": "Interest",
+                    "amount": 27907.47,
+                    "transaction_id": 24037025
+                },
+                {
+                    "date": "2023-07-11",
+                    "description": "Withdrawal",
+                    "amount": 16587.77,
+                    "transaction_id": 83255322
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Interest",
+                    "amount": 45698.59,
+                    "transaction_id": 6857676
+                }
+            ]
+        }
+    }
+}

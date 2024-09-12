@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sheila Sexton",
+        "age": 29,
+        "gender": "female",
+        "address": "0870 Seth Cape Suite 332, Mariaville, ID 51239",
+        "phone": "+1-807-236-6156x07624",
+        "email": "hvillegas@example.com",
+        "account": {
+            "account_number": "03ed6059-9246-4ec5-9c9a-d6eb6a77f4e9",
+            "balance": 7619.19,
+            "transactions": [
+                {
+                    "date": "2024-06-06",
+                    "description": "Interest",
+                    "amount": 29344.73,
+                    "transaction_id": 51863405
+                },
+                {
+                    "date": "2024-07-27",
+                    "description": "Withdrawal",
+                    "amount": 29780.34,
+                    "transaction_id": 70482095
+                }
+            ]
+        }
+    }
+}

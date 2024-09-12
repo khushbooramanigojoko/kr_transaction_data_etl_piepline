@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Leah Smith",
+        "age": 73,
+        "gender": "female",
+        "address": "24232 Garcia Cape Suite 409, North Michael, PW 85897",
+        "phone": "701-853-0948x6223",
+        "email": "woodsrobert@example.org",
+        "account": {
+            "account_number": "414f0125-e368-48c4-9e2d-c1ec80c49157",
+            "balance": -20626.2,
+            "transactions": [
+                {
+                    "date": "2022-12-13",
+                    "description": "Withdrawal",
+                    "amount": 4113.03,
+                    "transaction_id": 108077152
+                },
+                {
+                    "date": "2023-07-04",
+                    "description": "Deposit",
+                    "amount": 3489.42,
+                    "transaction_id": 25948937
+                },
+                {
+                    "date": "2023-09-04",
+                    "description": "Interest",
+                    "amount": 2313.51,
+                    "transaction_id": 101729732
+                },
+                {
+                    "date": "2023-09-28",
+                    "description": "Deposit",
+                    "amount": 1155.72,
+                    "transaction_id": 20552972
+                }
+            ]
+        }
+    }
+}

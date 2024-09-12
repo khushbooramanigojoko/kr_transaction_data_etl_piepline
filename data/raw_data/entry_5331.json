@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sara Stokes",
+        "age": 69,
+        "gender": "female",
+        "address": "0736 Natasha Pass Suite 066, East Victoriaborough, HI 79523",
+        "phone": "725.951.9090",
+        "email": "nicholsdouglas@example.com",
+        "account": {
+            "account_number": "5203325c-207f-4625-a00d-fc5553b17bfd",
+            "balance": 43508.93,
+            "transactions": [
+                {
+                    "date": "2023-10-24",
+                    "description": "Withdrawal",
+                    "amount": 49463.56,
+                    "transaction_id": 94958958
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Interest",
+                    "amount": 26613.3,
+                    "transaction_id": 114341599
+                },
+                {
+                    "date": "2022-09-05",
+                    "description": "Deposit",
+                    "amount": 33165.11,
+                    "transaction_id": 12191497
+                },
+                {
+                    "date": "2023-04-03",
+                    "description": "Withdrawal",
+                    "amount": 26237.24,
+                    "transaction_id": 78465122
+                }
+            ]
+        }
+    }
+}

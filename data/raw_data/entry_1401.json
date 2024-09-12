@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Laura Walker",
+        "age": 85,
+        "gender": "female",
+        "address": "3404 Lane Shoal Apt. 259, Lake Randy, NY 72722",
+        "phone": "873.248.2984x87308",
+        "email": "hwoods@example.com",
+        "account": {
+            "account_number": "67dbfecc-ca47-4db5-8036-200e0b95cadc",
+            "balance": 42871.67,
+            "transactions": [
+                {
+                    "date": "2023-10-16",
+                    "description": "Withdrawal",
+                    "amount": 33749.71,
+                    "transaction_id": 82194928
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Withdrawal",
+                    "amount": 15001.63,
+                    "transaction_id": 56003653
+                },
+                {
+                    "date": "2023-09-02",
+                    "description": "Deposit",
+                    "amount": 25225.15,
+                    "transaction_id": 32188535
+                },
+                {
+                    "date": "2023-03-23",
+                    "description": "Withdrawal",
+                    "amount": 25296.65,
+                    "transaction_id": 28591287
+                },
+                {
+                    "date": "2024-02-27",
+                    "description": "Withdrawal",
+                    "amount": 1976.01,
+                    "transaction_id": 15294919
+                }
+            ]
+        }
+    }
+}

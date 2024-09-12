@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 71,
+        "gender": "male",
+        "address": "2547 Pamela Fords Apt. 686, West Shawnburgh, ID 23866",
+        "phone": "873-974-0022x535",
+        "email": "stephanie65@example.net",
+        "account": {
+            "account_number": "cca98869-43aa-42e0-b23a-5bbaaeeb26f0",
+            "balance": 19579.72,
+            "transactions": [
+                {
+                    "date": "2024-02-15",
+                    "description": "Withdrawal",
+                    "amount": -3603.53,
+                    "transaction_id": 57980212
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Interest",
+                    "amount": -3810.85,
+                    "transaction_id": 81456407
+                },
+                {
+                    "date": "2023-01-07",
+                    "description": "Withdrawal",
+                    "amount": 3388.53,
+                    "transaction_id": 116710593
+                },
+                {
+                    "date": "2024-06-08",
+                    "description": "Interest",
+                    "amount": -1927.01,
+                    "transaction_id": 66465342
+                }
+            ]
+        }
+    }
+}

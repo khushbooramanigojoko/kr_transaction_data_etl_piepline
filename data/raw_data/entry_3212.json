@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Lori Mccullough",
+        "age": 49,
+        "gender": "female",
+        "address": "USCGC Watson, FPO AE 96500",
+        "phone": "001-307-847-8951x58441",
+        "email": "porterbenjamin@example.net",
+        "account": {
+            "account_number": "82f90a86-53c6-4450-8523-c8d68ad7e448",
+            "balance": 1546.11,
+            "transactions": [
+                {
+                    "date": "2022-12-08",
+                    "description": "Withdrawal",
+                    "amount": 47002.9,
+                    "transaction_id": 101790789
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Interest",
+                    "amount": 46632.55,
+                    "transaction_id": 50970216
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Withdrawal",
+                    "amount": 27595.96,
+                    "transaction_id": 99812822
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Interest",
+                    "amount": 24655.2,
+                    "transaction_id": 95222989
+                },
+                {
+                    "date": "2022-09-06",
+                    "description": "Withdrawal",
+                    "amount": 11646.91,
+                    "transaction_id": 88344876
+                }
+            ]
+        }
+    }
+}

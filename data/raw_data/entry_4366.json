@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Justin Velazquez",
+        "age": 26,
+        "gender": "female",
+        "address": "19037 Timothy Ferry Suite 686, Sanchezberg, GA 97690",
+        "phone": "+1-967-298-4060x0661",
+        "email": "brad89@example.com",
+        "account": {
+            "account_number": "87c4410a-6cc0-4ce3-be7b-0900c8147ad9",
+            "balance": 48171.07,
+            "transactions": [
+                {
+                    "date": "2024-06-20",
+                    "description": "Deposit",
+                    "amount": 18034.99,
+                    "transaction_id": 55169799
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Interest",
+                    "amount": 16548.91,
+                    "transaction_id": 19713027
+                }
+            ]
+        }
+    }
+}

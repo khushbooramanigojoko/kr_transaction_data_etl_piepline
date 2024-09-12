@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Margaret Sanders",
+        "age": 50,
+        "gender": "female",
+        "address": "9909 Shane Trafficway, South Kenneth, VI 45907",
+        "phone": "+1-304-539-3208",
+        "email": "srichardson@example.net",
+        "account": {
+            "account_number": "c82376d4-d38f-461c-a9b3-752e5d52312f",
+            "balance": 23405.95,
+            "transactions": [
+                {
+                    "date": "2023-12-05",
+                    "description": "Withdrawal",
+                    "amount": 15846.25,
+                    "transaction_id": 48518929
+                },
+                {
+                    "date": "2024-06-21",
+                    "description": "Deposit",
+                    "amount": 16846.91,
+                    "transaction_id": 100307396
+                },
+                {
+                    "date": "2023-07-14",
+                    "description": "Deposit",
+                    "amount": 17726.66,
+                    "transaction_id": 36561954
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Withdrawal",
+                    "amount": 8053.56,
+                    "transaction_id": 29791007
+                },
+                {
+                    "date": "2022-09-29",
+                    "description": "Withdrawal",
+                    "amount": 40561.61,
+                    "transaction_id": 76400594
+                }
+            ]
+        }
+    }
+}

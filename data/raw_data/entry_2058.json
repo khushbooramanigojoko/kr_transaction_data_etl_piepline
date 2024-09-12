@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lauren Oliver",
+        "age": 87,
+        "gender": "female",
+        "address": "64530 Colleen Place Apt. 765, Michellestad, KS 62325",
+        "phone": "(518)489-1454",
+        "email": "toni92@example.org",
+        "account": {
+            "account_number": "0f385b07-6849-4d5d-a7e1-12aac8a817f9",
+            "balance": 22520.39,
+            "transactions": [
+                {
+                    "date": "2023-07-14",
+                    "description": "Withdrawal",
+                    "amount": 43377.12,
+                    "transaction_id": 109965195
+                }
+            ]
+        }
+    }
+}

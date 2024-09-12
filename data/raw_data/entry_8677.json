@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Teresa Steele",
+        "age": 37,
+        "gender": "female",
+        "address": "4123 Sally Shore Apt. 544, Vargasstad, TN 04472",
+        "phone": "+1-722-455-9751x5023",
+        "email": "seanfuentes@example.com",
+        "account": {
+            "account_number": "3d815c8c-d4a8-4d74-ad0b-25be4d1a8c94",
+            "balance": 21449.07,
+            "transactions": [
+                {
+                    "date": "2023-01-08",
+                    "description": "Interest",
+                    "amount": 3340.4,
+                    "transaction_id": 85070306
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Withdrawal",
+                    "amount": 31488.74,
+                    "transaction_id": 91277334
+                }
+            ]
+        }
+    }
+}

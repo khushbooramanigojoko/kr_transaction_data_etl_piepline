@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kerry Garcia",
+        "age": 36,
+        "gender": "male",
+        "address": "336 Yang Trace, South Ryan, HI 47045",
+        "phone": "(517)493-3397",
+        "email": "hilljessica@example.org",
+        "account": {
+            "account_number": "5bb7ba2c-2bbf-47d2-8b77-6e878faaeb72",
+            "balance": 34420.81,
+            "transactions": [
+                {
+                    "date": "2023-01-14",
+                    "description": "Interest",
+                    "amount": 1106.43,
+                    "transaction_id": 8895680
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Interest",
+                    "amount": 24892.52,
+                    "transaction_id": 101765314
+                }
+            ]
+        }
+    }
+}

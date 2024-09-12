@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kevin Lynch",
+        "age": 72,
+        "gender": "male",
+        "address": "772 Rebecca Ramp, Lake Christopherton, MD 43776",
+        "phone": "(318)519-3127",
+        "email": "yjones@example.com",
+        "account": {
+            "account_number": "14f4bfbe-c5bc-49bb-8e8e-db13cf9e926f",
+            "balance": 16289.92,
+            "transactions": [
+                {
+                    "date": "2023-08-15",
+                    "description": "Withdrawal",
+                    "amount": 28950.63,
+                    "transaction_id": 83687228
+                }
+            ]
+        }
+    }
+}

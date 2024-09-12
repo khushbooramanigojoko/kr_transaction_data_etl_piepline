@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Logan Orr",
+        "age": 20,
+        "gender": "female",
+        "address": "4276 Brianna Gateway, Lake Sheilaville, TX 94413",
+        "phone": "900.712.9340x4054",
+        "email": "jason31@example.org",
+        "account": {
+            "account_number": "4907f26d-04a2-451c-874a-b1d17a00f4d0",
+            "balance": 21034.29,
+            "transactions": [
+                {
+                    "date": "2024-03-21",
+                    "description": "Withdrawal",
+                    "amount": 47897.11,
+                    "transaction_id": 68790565
+                },
+                {
+                    "date": "2024-01-24",
+                    "description": "Deposit",
+                    "amount": 29121.49,
+                    "transaction_id": 9458658
+                },
+                {
+                    "date": "2022-11-13",
+                    "description": "Interest",
+                    "amount": 8024.07,
+                    "transaction_id": 14412444
+                },
+                {
+                    "date": "2024-07-03",
+                    "description": "Deposit",
+                    "amount": 1089.31,
+                    "transaction_id": 43863532
+                }
+            ]
+        }
+    }
+}

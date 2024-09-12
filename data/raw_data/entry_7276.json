@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Craig Pruitt",
+        "age": 31,
+        "gender": "male",
+        "address": "0054 Mitchell Alley, Thompsonshire, OK 76635",
+        "phone": "001-768-467-2259x255",
+        "email": "mgarcia@example.com",
+        "account": {
+            "account_number": "74cb3393-cdeb-4e7b-b350-94ae36d0b57c",
+            "balance": 31080.99,
+            "transactions": [
+                {
+                    "date": "2023-05-03",
+                    "description": "Interest",
+                    "amount": 2341.51,
+                    "transaction_id": 19057085
+                },
+                {
+                    "date": "2022-09-11",
+                    "description": "Interest",
+                    "amount": 3415.98,
+                    "transaction_id": 56696829
+                },
+                {
+                    "date": "2023-01-24",
+                    "description": "Withdrawal",
+                    "amount": 37387.64,
+                    "transaction_id": 20968958
+                },
+                {
+                    "date": "2023-02-23",
+                    "description": "Interest",
+                    "amount": 40506.83,
+                    "transaction_id": 20829300
+                }
+            ]
+        }
+    }
+}

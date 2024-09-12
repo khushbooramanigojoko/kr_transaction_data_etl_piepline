@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Deanna Chandler",
+        "age": 92,
+        "gender": "female",
+        "address": "014 Conley Squares, Ericberg, OR 92979",
+        "phone": "965.340.9995x72164",
+        "email": "cobbroberto@example.com",
+        "account": {
+            "account_number": "eb9c2c94-db19-40cb-bec2-654adbb47afd",
+            "balance": -32190.43,
+            "transactions": [
+                {
+                    "date": "2024-02-18",
+                    "description": "Withdrawal",
+                    "amount": 600.52,
+                    "transaction_id": 9514700
+                },
+                {
+                    "date": "2024-06-08",
+                    "description": "Interest",
+                    "amount": -1041.4,
+                    "transaction_id": 11930223
+                },
+                {
+                    "date": "2024-06-17",
+                    "description": "Deposit",
+                    "amount": 2133.25,
+                    "transaction_id": 82824687
+                },
+                {
+                    "date": "2022-09-07",
+                    "description": "Deposit",
+                    "amount": 1472.87,
+                    "transaction_id": 67639182
+                }
+            ]
+        }
+    }
+}

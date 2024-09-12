@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Susan Peters",
+        "age": 34,
+        "gender": "female",
+        "address": "040 Joshua Corner Apt. 565, Veronicaborough, MO 62353",
+        "phone": "001-988-399-2265x6090",
+        "email": "ghudson@example.net",
+        "account": {
+            "account_number": "aeb2622e-f894-4e3d-9ac3-c9104ef2a0b3",
+            "balance": 47145.94,
+            "transactions": [
+                {
+                    "date": "2022-09-26",
+                    "description": "Withdrawal",
+                    "amount": 25722.3,
+                    "transaction_id": 38809711
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Withdrawal",
+                    "amount": 13821.45,
+                    "transaction_id": 25565799
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lucas Graves",
+        "age": 58,
+        "gender": "female",
+        "address": "268 Love Knolls, New Sherryland, MN 70339",
+        "phone": "+1-550-707-0343x00357",
+        "email": "jbell@example.com",
+        "account": {
+            "account_number": "c8f485ee-04ee-4b12-82af-91ff3798ffad",
+            "balance": 29754.01,
+            "transactions": [
+                {
+                    "date": "2024-01-17",
+                    "description": "Interest",
+                    "amount": 10569.06,
+                    "transaction_id": 38555286
+                },
+                {
+                    "date": "2024-08-28",
+                    "description": "Interest",
+                    "amount": 7387.77,
+                    "transaction_id": 90753822
+                },
+                {
+                    "date": "2024-01-08",
+                    "description": "Withdrawal",
+                    "amount": 12803.25,
+                    "transaction_id": 71644487
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Deposit",
+                    "amount": 46932.29,
+                    "transaction_id": 59619412
+                }
+            ]
+        }
+    }
+}

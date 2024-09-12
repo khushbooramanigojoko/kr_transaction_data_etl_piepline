@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Charles Taylor",
+        "age": 19,
+        "gender": "male",
+        "address": "15253 Bartlett Forge, Lake Sharonstad, CT 86842",
+        "phone": "2369373305",
+        "email": "williamsholly@example.org",
+        "account": {
+            "account_number": "82bdab31-8fe5-40c3-8497-459401b2ea04",
+            "balance": 10066.85,
+            "transactions": [
+                {
+                    "date": "2024-03-20",
+                    "description": "Deposit",
+                    "amount": 2446.98,
+                    "transaction_id": 24622411
+                },
+                {
+                    "date": "2024-06-06",
+                    "description": "Withdrawal",
+                    "amount": 42115.71,
+                    "transaction_id": 62140776
+                }
+            ]
+        }
+    }
+}

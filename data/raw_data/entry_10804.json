@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 93,
+        "gender": "female",
+        "address": "398 Miller Mills, Hernandezshire, MN 28670",
+        "phone": "+1-882-966-1560x58984",
+        "email": "william69@example.com",
+        "account": {
+            "account_number": "bc6027aa-8bcc-48b0-a35f-b1404a5f80bf",
+            "balance": 36088.19,
+            "transactions": [
+                {
+                    "date": "2024-06-03",
+                    "description": "Withdrawal",
+                    "amount": -4143.26,
+                    "transaction_id": 58535582
+                },
+                {
+                    "date": "2022-10-12",
+                    "description": "Interest",
+                    "amount": 612.87,
+                    "transaction_id": 34007290
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Interest",
+                    "amount": 1802.58,
+                    "transaction_id": 26098475
+                },
+                {
+                    "date": "2022-11-12",
+                    "description": "Withdrawal",
+                    "amount": 3732.05,
+                    "transaction_id": 85781573
+                },
+                {
+                    "date": "2024-07-29",
+                    "description": "Deposit",
+                    "amount": -3328.64,
+                    "transaction_id": 40231423
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Robin Mathis",
+        "age": 78,
+        "gender": "female",
+        "address": "1401 Matthew Curve, North Michael, OK 04085",
+        "phone": "001-256-957-8981x992",
+        "email": "robertotaylor@example.net",
+        "account": {
+            "account_number": "82140d0a-e554-45ff-a977-134cd301497c",
+            "balance": 34243.51,
+            "transactions": [
+                {
+                    "date": "2023-05-13",
+                    "description": "Withdrawal",
+                    "amount": 37901.13,
+                    "transaction_id": 80432051
+                },
+                {
+                    "date": "2024-06-16",
+                    "description": "Withdrawal",
+                    "amount": 14643.14,
+                    "transaction_id": 91394683
+                },
+                {
+                    "date": "2023-01-14",
+                    "description": "Deposit",
+                    "amount": 33917.83,
+                    "transaction_id": 30157817
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alison Wright",
+        "age": 83,
+        "gender": "female",
+        "address": "59365 Black Glen Apt. 763, North Scott, PR 01349",
+        "phone": "001-413-741-0722x4872",
+        "email": "millerrebecca@example.org",
+        "account": {
+            "account_number": "70d86e18-2143-4a72-ae18-58148c61f97a",
+            "balance": 30433.86,
+            "transactions": [
+                {
+                    "date": "2024-03-25",
+                    "description": "Interest",
+                    "amount": 19275.21,
+                    "transaction_id": 85082247
+                }
+            ]
+        }
+    }
+}

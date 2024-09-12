@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brian Rivera",
+        "age": 90,
+        "gender": "female",
+        "address": "49584 Mary Course, Perezmouth, NC 18675",
+        "phone": "+1-747-835-8177x208",
+        "email": "walkerriley@example.org",
+        "account": {
+            "account_number": "0dc6e864-1553-44c6-bc8b-86a13218f2ce",
+            "balance": -378.24,
+            "transactions": [
+                {
+                    "date": "2023-02-13",
+                    "description": "Deposit",
+                    "amount": 238.79,
+                    "transaction_id": 109084735
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Withdrawal",
+                    "amount": -4799.73,
+                    "transaction_id": 84871023
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Interest",
+                    "amount": -628.31,
+                    "transaction_id": 85003831
+                },
+                {
+                    "date": "2023-06-26",
+                    "description": "Interest",
+                    "amount": -1100.69,
+                    "transaction_id": 112641938
+                },
+                {
+                    "date": "2023-10-11",
+                    "description": "Deposit",
+                    "amount": -3036.44,
+                    "transaction_id": 51298905
+                }
+            ]
+        }
+    }
+}

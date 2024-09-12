@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "male",
+        "address": "85172 Hernandez Shores, New Steve, VT 06164",
+        "phone": "(739)446-2650",
+        "email": "cassandrahernandez@example.org",
+        "account": {
+            "account_number": "c921c6fb-ab76-4dbd-b45d-3bb44685dbd2",
+            "balance": 27670.93,
+            "transactions": [
+                {
+                    "date": "2024-03-18",
+                    "description": "Withdrawal",
+                    "amount": -4606.87,
+                    "transaction_id": 89260213
+                },
+                {
+                    "date": "2023-04-10",
+                    "description": "Withdrawal",
+                    "amount": -2378.07,
+                    "transaction_id": 85489899
+                }
+            ]
+        }
+    }
+}

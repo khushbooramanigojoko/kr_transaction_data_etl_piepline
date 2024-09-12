@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Rebecca Bates",
+        "age": 56,
+        "gender": "female",
+        "address": "55519 Tina Ridges Apt. 189, Stoneland, NE 83867",
+        "phone": "983-313-4545x40755",
+        "email": "kellyvillegas@example.org",
+        "account": {
+            "account_number": "7a32b2a1-07ba-4630-bb54-95372e0e5fe3",
+            "balance": 38295.56,
+            "transactions": [
+                {
+                    "date": "2023-03-31",
+                    "description": "Deposit",
+                    "amount": 518.12,
+                    "transaction_id": 80645591
+                },
+                {
+                    "date": "2024-05-20",
+                    "description": "Deposit",
+                    "amount": 39869.62,
+                    "transaction_id": 29423910
+                },
+                {
+                    "date": "2024-03-11",
+                    "description": "Deposit",
+                    "amount": 31949.18,
+                    "transaction_id": 62630195
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Deposit",
+                    "amount": 45114.77,
+                    "transaction_id": 66182461
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Deposit",
+                    "amount": 40625.4,
+                    "transaction_id": 45945433
+                }
+            ]
+        }
+    }
+}

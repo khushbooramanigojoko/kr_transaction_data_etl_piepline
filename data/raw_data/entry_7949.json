@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Heather Horn",
+        "age": 38,
+        "gender": "male",
+        "address": "9833 Boyer Trail, Lake Gregory, HI 30048",
+        "phone": "+1-463-293-4988",
+        "email": "morgan43@example.com",
+        "account": {
+            "account_number": "17e2d5ab-69d4-496a-8693-e948fd91c718",
+            "balance": 46146.07,
+            "transactions": [
+                {
+                    "date": "2022-09-12",
+                    "description": "Interest",
+                    "amount": 42287.6,
+                    "transaction_id": 30369602
+                },
+                {
+                    "date": "2024-08-20",
+                    "description": "Withdrawal",
+                    "amount": 11129.52,
+                    "transaction_id": 25049998
+                },
+                {
+                    "date": "2024-04-25",
+                    "description": "Interest",
+                    "amount": 35802.78,
+                    "transaction_id": 32391905
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Deposit",
+                    "amount": 17196.28,
+                    "transaction_id": 105219855
+                }
+            ]
+        }
+    }
+}

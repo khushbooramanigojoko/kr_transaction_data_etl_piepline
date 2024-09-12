@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Corey Hendricks",
+        "age": 22,
+        "gender": "male",
+        "address": "38568 Andrew Club, Frenchfurt, NM 00809",
+        "phone": "9726620845",
+        "email": "twright@example.org",
+        "account": {
+            "account_number": "24b163c8-af53-495c-af91-0b2f4af15d73",
+            "balance": 18829.9,
+            "transactions": [
+                {
+                    "date": "2023-04-18",
+                    "description": "Interest",
+                    "amount": 20890.14,
+                    "transaction_id": 6631404
+                },
+                {
+                    "date": "2022-11-24",
+                    "description": "Withdrawal",
+                    "amount": 49009.92,
+                    "transaction_id": 104208134
+                },
+                {
+                    "date": "2023-07-12",
+                    "description": "Deposit",
+                    "amount": 1374.62,
+                    "transaction_id": 6566476
+                },
+                {
+                    "date": "2022-09-02",
+                    "description": "Interest",
+                    "amount": 17800.5,
+                    "transaction_id": 34958768
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Interest",
+                    "amount": 28493.73,
+                    "transaction_id": 11569124
+                }
+            ]
+        }
+    }
+}

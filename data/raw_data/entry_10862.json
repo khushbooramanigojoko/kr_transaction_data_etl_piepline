@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tiffany Howard",
+        "age": 84,
+        "gender": "male",
+        "address": "58427 Shaw Divide Suite 914, Christopherview, CA 96077",
+        "phone": "2637021039",
+        "email": "millermichael@example.com",
+        "account": {
+            "account_number": "45798c51-992d-468e-9efa-0becc51697fc",
+            "balance": -48264.45,
+            "transactions": [
+                {
+                    "date": "2024-05-08",
+                    "description": "Withdrawal",
+                    "amount": -1807.5,
+                    "transaction_id": 67736848
+                }
+            ]
+        }
+    }
+}

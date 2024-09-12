@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Heather Wells",
+        "age": 91,
+        "gender": "male",
+        "address": "007 Linda Gateway, Gloriastad, RI 94739",
+        "phone": "001-612-379-4996x598",
+        "email": "matthewwilliams@example.org",
+        "account": {
+            "account_number": "88bc0209-b85a-432b-8df7-b4df60b84199",
+            "balance": 29670.5,
+            "transactions": [
+                {
+                    "date": "2024-05-27",
+                    "description": "Deposit",
+                    "amount": 39191.24,
+                    "transaction_id": 78455390
+                },
+                {
+                    "date": "2022-12-29",
+                    "description": "Deposit",
+                    "amount": 30882.64,
+                    "transaction_id": 96664549
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Withdrawal",
+                    "amount": 45939.49,
+                    "transaction_id": 62354947
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Deposit",
+                    "amount": 35480.55,
+                    "transaction_id": 105261409
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Withdrawal",
+                    "amount": 3000.93,
+                    "transaction_id": 98673215
+                }
+            ]
+        }
+    }
+}

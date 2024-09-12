@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ashley Carter",
+        "age": 78,
+        "gender": "male",
+        "address": "0946 Miller Shore, Jessicahaven, AL 11225",
+        "phone": "8336579156",
+        "email": "gconway@example.com",
+        "account": {
+            "account_number": "a63e6be5-b1e0-498f-91e7-5ec1651179bf",
+            "balance": 34862.25,
+            "transactions": [
+                {
+                    "date": "2023-07-25",
+                    "description": "Deposit",
+                    "amount": 17136.07,
+                    "transaction_id": 117161360
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Frederick Watkins",
+        "age": 35,
+        "gender": "female",
+        "address": "851 Brian Trace, Anthonytown, OK 21359",
+        "phone": "001-432-766-8807x4789",
+        "email": "edwin03@example.net",
+        "account": {
+            "account_number": "18c119bd-425c-421d-9f20-143e492f4307",
+            "balance": 6476.36,
+            "transactions": [
+                {
+                    "date": "2024-07-05",
+                    "description": "Interest",
+                    "amount": 14516.43,
+                    "transaction_id": 42785378
+                },
+                {
+                    "date": "2024-06-12",
+                    "description": "Deposit",
+                    "amount": 9394.61,
+                    "transaction_id": 16618334
+                }
+            ]
+        }
+    }
+}

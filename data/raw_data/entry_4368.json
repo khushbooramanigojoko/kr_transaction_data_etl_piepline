@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jeanette Steele",
+        "age": 51,
+        "gender": "female",
+        "address": "6339 Curtis Islands Suite 211, Port Nicoleburgh, KY 37191",
+        "phone": "+1-321-232-2519x3544",
+        "email": "baileyashley@example.com",
+        "account": {
+            "account_number": "542a0a64-69f6-4297-9bb1-a99327eabae0",
+            "balance": 11645.22,
+            "transactions": [
+                {
+                    "date": "2024-04-06",
+                    "description": "Interest",
+                    "amount": 32113.09,
+                    "transaction_id": 8361851
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Deposit",
+                    "amount": 28393.08,
+                    "transaction_id": 106449967
+                }
+            ]
+        }
+    }
+}

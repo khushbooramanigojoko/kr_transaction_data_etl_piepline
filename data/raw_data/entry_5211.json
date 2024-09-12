@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Mckenzie",
+        "age": 83,
+        "gender": "male",
+        "address": "9814 Jessica Corner Apt. 589, West Scotthaven, DC 88491",
+        "phone": "718-708-2888x227",
+        "email": "daniel00@example.com",
+        "account": {
+            "account_number": "743e2da5-0a26-4bf3-90bb-33b4068ed041",
+            "balance": 2696.7,
+            "transactions": [
+                {
+                    "date": "2023-09-01",
+                    "description": "Interest",
+                    "amount": 15005.4,
+                    "transaction_id": 56568459
+                },
+                {
+                    "date": "2024-01-19",
+                    "description": "Interest",
+                    "amount": 12867.58,
+                    "transaction_id": 89448548
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Withdrawal",
+                    "amount": 31609.0,
+                    "transaction_id": 23001726
+                }
+            ]
+        }
+    }
+}

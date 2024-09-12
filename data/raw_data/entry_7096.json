@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kristin Bell",
+        "age": 41,
+        "gender": "male",
+        "address": "77530 Griffin Islands Suite 176, Elliottberg, IN 47660",
+        "phone": "001-274-837-7912x133",
+        "email": "nolson@example.org",
+        "account": {
+            "account_number": "2dfedfa2-60b7-46d2-a324-9772727d5e38",
+            "balance": 36693.17,
+            "transactions": [
+                {
+                    "date": "2023-09-09",
+                    "description": "Withdrawal",
+                    "amount": 38508.63,
+                    "transaction_id": 66178818
+                }
+            ]
+        }
+    }
+}

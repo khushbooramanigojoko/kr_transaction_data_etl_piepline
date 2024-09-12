@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Christian",
+        "age": 86,
+        "gender": "male",
+        "address": "780 Ashley Common, West Susan, VA 07807",
+        "phone": "916.525.8539x5349",
+        "email": "lyonsalexis@example.com",
+        "account": {
+            "account_number": "c046e3b0-315e-4eec-a14d-070cf45f3fb7",
+            "balance": 47396.17,
+            "transactions": [
+                {
+                    "date": "2024-03-08",
+                    "description": "Withdrawal",
+                    "amount": 17296.3,
+                    "transaction_id": 66132699
+                },
+                {
+                    "date": "2024-08-26",
+                    "description": "Deposit",
+                    "amount": 40716.46,
+                    "transaction_id": 115198346
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Withdrawal",
+                    "amount": 34593.8,
+                    "transaction_id": 9661077
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kimberly Hendricks",
+        "age": 84,
+        "gender": "female",
+        "address": "1025 Timothy Haven Apt. 649, West Charles, MD 92215",
+        "phone": "+1-465-953-1707",
+        "email": "nthomas@example.org",
+        "account": {
+            "account_number": "aa590803-2168-4059-928a-4a7614697ff0",
+            "balance": 44537.93,
+            "transactions": [
+                {
+                    "date": "2023-10-18",
+                    "description": "Deposit",
+                    "amount": 26992.96,
+                    "transaction_id": 117151978
+                }
+            ]
+        }
+    }
+}

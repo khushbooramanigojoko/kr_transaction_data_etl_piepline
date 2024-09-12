@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Karen Johnson",
+        "age": 55,
+        "gender": "female",
+        "address": "2236 Matthew Viaduct Apt. 714, Dennischester, MN 13180",
+        "phone": "905.259.0577",
+        "email": "phenderson@example.com",
+        "account": {
+            "account_number": "f5489661-510f-4dad-a7ae-ebc1d96f344b",
+            "balance": 3842.41,
+            "transactions": [
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": 185.1,
+                    "transaction_id": 119223935
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Withdrawal",
+                    "amount": 2923.46,
+                    "transaction_id": 12813883
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Garrett Brown",
+        "age": 41,
+        "gender": "female",
+        "address": "113 Adkins Island, New Russell, ID 62880",
+        "phone": "+1-580-494-7281x22714",
+        "email": "griffinmarcia@example.org",
+        "account": {
+            "account_number": "b3ed3887-be80-46e8-8efb-27848e5ee20a",
+            "balance": 45473.05,
+            "transactions": [
+                {
+                    "date": "2023-03-04",
+                    "description": "Interest",
+                    "amount": 27333.66,
+                    "transaction_id": 65071915
+                },
+                {
+                    "date": "2022-09-17",
+                    "description": "Interest",
+                    "amount": 41549.35,
+                    "transaction_id": 8082344
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Deposit",
+                    "amount": 11502.27,
+                    "transaction_id": 61916682
+                }
+            ]
+        }
+    }
+}

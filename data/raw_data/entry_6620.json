@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Lisa Scott",
+        "age": 57,
+        "gender": "male",
+        "address": "0320 Watson Point Apt. 827, Davidburgh, VI 22649",
+        "phone": "(570)811-0388x479",
+        "email": "thomas77@example.net",
+        "account": {
+            "account_number": "d93b9b0f-b142-4d47-a1ac-a69116768102",
+            "balance": 13511.43,
+            "transactions": [
+                {
+                    "date": "2023-04-16",
+                    "description": "Interest",
+                    "amount": 1595.1,
+                    "transaction_id": 91524972
+                },
+                {
+                    "date": "2023-11-10",
+                    "description": "Interest",
+                    "amount": 37764.34,
+                    "transaction_id": 118923058
+                },
+                {
+                    "date": "2024-03-15",
+                    "description": "Deposit",
+                    "amount": 31601.97,
+                    "transaction_id": 20760569
+                },
+                {
+                    "date": "2023-10-01",
+                    "description": "Interest",
+                    "amount": 32042.67,
+                    "transaction_id": 113624962
+                },
+                {
+                    "date": "2023-01-23",
+                    "description": "Withdrawal",
+                    "amount": 30029.62,
+                    "transaction_id": 67240252
+                }
+            ]
+        }
+    }
+}

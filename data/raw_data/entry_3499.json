@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Rachel Vaughn",
+        "age": 54,
+        "gender": "female",
+        "address": "37965 Brian Plaza, Phamfort, VI 91176",
+        "phone": "(314)464-7291x5734",
+        "email": "wprince@example.net",
+        "account": {
+            "account_number": "db8e6744-5126-4c3c-8113-785f60ffef2f",
+            "balance": 6311.24,
+            "transactions": [
+                {
+                    "date": "2023-06-04",
+                    "description": "Deposit",
+                    "amount": 17400.05,
+                    "transaction_id": 15080519
+                },
+                {
+                    "date": "2024-04-21",
+                    "description": "Interest",
+                    "amount": 47536.68,
+                    "transaction_id": 100385424
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Withdrawal",
+                    "amount": 38710.27,
+                    "transaction_id": 65961362
+                }
+            ]
+        }
+    }
+}

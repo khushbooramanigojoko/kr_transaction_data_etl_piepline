@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 21,
+        "gender": "male",
+        "address": "PSC 4888, Box 9404, APO AE 85284",
+        "phone": "9817480686",
+        "email": "kimberly42@example.org",
+        "account": {
+            "account_number": "f9977d68-ca3b-4e7b-beb0-a5b4fe2dddc2",
+            "balance": 18842.44,
+            "transactions": [
+                {
+                    "date": "2023-06-12",
+                    "description": "Interest",
+                    "amount": 3027.54,
+                    "transaction_id": 56478694
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Interest",
+                    "amount": 592.02,
+                    "transaction_id": 75092635
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 35,
+        "gender": "male",
+        "address": "57563 Yvette Rapids Suite 773, Johnsonborough, MD 77015",
+        "phone": "899.630.2468x36613",
+        "email": "prollins@example.com",
+        "account": {
+            "account_number": "5bf4fba1-e104-486b-af0c-339ef499726b",
+            "balance": 41643.23,
+            "transactions": [
+                {
+                    "date": "2023-06-22",
+                    "description": "Deposit",
+                    "amount": 2040.95,
+                    "transaction_id": 42703027
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Interest",
+                    "amount": 144.24,
+                    "transaction_id": 96241788
+                },
+                {
+                    "date": "2023-09-24",
+                    "description": "Withdrawal",
+                    "amount": 4064.14,
+                    "transaction_id": 70853190
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Interest",
+                    "amount": -2870.5,
+                    "transaction_id": 95548584
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Deposit",
+                    "amount": -1513.14,
+                    "transaction_id": 72675053
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sheri Roach",
+        "age": 55,
+        "gender": "male",
+        "address": "945 Carson Landing, North Susan, VA 90380",
+        "phone": "927-653-8315x3565",
+        "email": "williamsbarbara@example.net",
+        "account": {
+            "account_number": "df7a1eee-a4d6-472f-98a5-6ef7261783a3",
+            "balance": 47012.91,
+            "transactions": [
+                {
+                    "date": "2023-08-27",
+                    "description": "Withdrawal",
+                    "amount": 43706.7,
+                    "transaction_id": 109685878
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Deposit",
+                    "amount": 24275.12,
+                    "transaction_id": 2512657
+                },
+                {
+                    "date": "2023-11-12",
+                    "description": "Interest",
+                    "amount": 6862.95,
+                    "transaction_id": 99298224
+                }
+            ]
+        }
+    }
+}

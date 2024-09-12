@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Mr. Jeremy Holland",
+        "age": 77,
+        "gender": "female",
+        "address": "0916 Simmons Mews, East Michaelborough, MP 66077",
+        "phone": "902-571-6981",
+        "email": "josephcastillo@example.net",
+        "account": {
+            "account_number": "11ece5f1-d4e1-41b2-9b1d-748796619c36",
+            "balance": 24995.23,
+            "transactions": [
+                {
+                    "date": "2024-07-24",
+                    "description": "Withdrawal",
+                    "amount": 1860.2,
+                    "transaction_id": 66765893
+                },
+                {
+                    "date": "2023-02-23",
+                    "description": "Deposit",
+                    "amount": 33553.46,
+                    "transaction_id": 53184926
+                },
+                {
+                    "date": "2023-03-05",
+                    "description": "Interest",
+                    "amount": 40250.0,
+                    "transaction_id": 92110730
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Interest",
+                    "amount": 27514.68,
+                    "transaction_id": 92421204
+                }
+            ]
+        }
+    }
+}

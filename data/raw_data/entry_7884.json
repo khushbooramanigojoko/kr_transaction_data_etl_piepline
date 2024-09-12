@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Erin Rodriguez",
+        "age": 24,
+        "gender": "female",
+        "address": "Unit 0411 Box 0820, DPO AA 21196",
+        "phone": "659.865.9203x613",
+        "email": "christophermontgomery@example.net",
+        "account": {
+            "account_number": "5686c6f9-f185-4104-8ed9-543e5a02f1a7",
+            "balance": 29742.81,
+            "transactions": [
+                {
+                    "date": "2024-01-24",
+                    "description": "Interest",
+                    "amount": 25009.83,
+                    "transaction_id": 11364251
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Withdrawal",
+                    "amount": 11788.32,
+                    "transaction_id": 99354615
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Deposit",
+                    "amount": 8363.14,
+                    "transaction_id": 30991365
+                },
+                {
+                    "date": "2023-09-08",
+                    "description": "Withdrawal",
+                    "amount": 9684.55,
+                    "transaction_id": 68086028
+                }
+            ]
+        }
+    }
+}

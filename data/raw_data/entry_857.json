@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "James Moore",
+        "age": 91,
+        "gender": "female",
+        "address": "458 Crawford Squares, Mariaside, KS 88431",
+        "phone": "692.934.1047x8868",
+        "email": "dvargas@example.com",
+        "account": {
+            "account_number": "0da0782d-40f9-47f7-b1fe-b0e61efc7c94",
+            "balance": 11852.45,
+            "transactions": [
+                {
+                    "date": "2024-06-23",
+                    "description": "Interest",
+                    "amount": 29991.06,
+                    "transaction_id": 44218658
+                },
+                {
+                    "date": "2023-03-19",
+                    "description": "Deposit",
+                    "amount": 11101.29,
+                    "transaction_id": 38338384
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Deposit",
+                    "amount": 21949.87,
+                    "transaction_id": 50789463
+                },
+                {
+                    "date": "2023-01-14",
+                    "description": "Interest",
+                    "amount": 3750.49,
+                    "transaction_id": 80925512
+                }
+            ]
+        }
+    }
+}

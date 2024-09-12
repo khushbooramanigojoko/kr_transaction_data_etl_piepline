@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "William Christian",
+        "age": 83,
+        "gender": "female",
+        "address": "371 Green Stravenue Apt. 291, Lake Markside, AR 61010",
+        "phone": "634-585-9013x6192",
+        "email": "scottedward@example.net",
+        "account": {
+            "account_number": "c2f2ee67-40ea-4d1d-897a-d38acdd5743a",
+            "balance": 42184.47,
+            "transactions": [
+                {
+                    "date": "2023-05-19",
+                    "description": "Deposit",
+                    "amount": 20156.09,
+                    "transaction_id": 54697950
+                }
+            ]
+        }
+    }
+}

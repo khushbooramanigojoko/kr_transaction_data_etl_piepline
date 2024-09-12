@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jasmine Walters",
+        "age": 99,
+        "gender": "male",
+        "address": "851 Lauren Turnpike, West Sandra, AK 39024",
+        "phone": "+1-917-414-0104x45149",
+        "email": "petergarcia@example.org",
+        "account": {
+            "account_number": "1c58eee6-770a-4bb0-b0a6-d6b87d2db148",
+            "balance": 8976.36,
+            "transactions": [
+                {
+                    "date": "2024-05-03",
+                    "description": "Withdrawal",
+                    "amount": 38903.69,
+                    "transaction_id": 96861126
+                },
+                {
+                    "date": "2023-12-29",
+                    "description": "Deposit",
+                    "amount": 16055.7,
+                    "transaction_id": 35602411
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Deposit",
+                    "amount": 42540.56,
+                    "transaction_id": 104759968
+                },
+                {
+                    "date": "2024-04-25",
+                    "description": "Interest",
+                    "amount": 25386.86,
+                    "transaction_id": 71400867
+                }
+            ]
+        }
+    }
+}

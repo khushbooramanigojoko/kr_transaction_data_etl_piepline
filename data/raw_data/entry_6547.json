@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Rebekah Baker",
+        "age": 29,
+        "gender": "female",
+        "address": "0378 Patton Lodge Suite 101, Port Evanshire, PW 21561",
+        "phone": "(705)412-3765",
+        "email": "davisjasmin@example.com",
+        "account": {
+            "account_number": "72d85051-6bca-4c54-a0e6-7444030462aa",
+            "balance": 46301.43,
+            "transactions": [
+                {
+                    "date": "2024-04-28",
+                    "description": "Deposit",
+                    "amount": 35442.93,
+                    "transaction_id": 119810111
+                },
+                {
+                    "date": "2022-09-06",
+                    "description": "Interest",
+                    "amount": 28421.78,
+                    "transaction_id": 61762315
+                },
+                {
+                    "date": "2023-10-04",
+                    "description": "Deposit",
+                    "amount": 818.0,
+                    "transaction_id": 46572262
+                }
+            ]
+        }
+    }
+}

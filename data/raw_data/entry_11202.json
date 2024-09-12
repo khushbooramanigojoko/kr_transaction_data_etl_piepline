@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 38,
+        "gender": "female",
+        "address": "527 Troy Via, Port Jeffreystad, MH 44702",
+        "phone": "990.311.9845x32772",
+        "email": "dcollins@example.org",
+        "account": {
+            "account_number": "8493407a-7c6e-49ab-b775-edccbac6c4e4",
+            "balance": 31732.84,
+            "transactions": [
+                {
+                    "date": "2023-01-27",
+                    "description": "Deposit",
+                    "amount": 1612.46,
+                    "transaction_id": 16164254
+                },
+                {
+                    "date": "2022-10-02",
+                    "description": "Interest",
+                    "amount": -2720.69,
+                    "transaction_id": 67809507
+                },
+                {
+                    "date": "2022-09-27",
+                    "description": "Interest",
+                    "amount": 3979.11,
+                    "transaction_id": 109245145
+                }
+            ]
+        }
+    }
+}

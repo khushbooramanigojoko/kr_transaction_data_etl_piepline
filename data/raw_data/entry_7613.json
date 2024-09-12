@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sarah Hamilton",
+        "age": 43,
+        "gender": "male",
+        "address": "50226 Zachary Islands Apt. 681, New Cheryl, MS 08339",
+        "phone": "+1-587-219-7222x131",
+        "email": "ggomez@example.org",
+        "account": {
+            "account_number": "89382bc3-fdbd-4e9e-bdf5-5559331d64d4",
+            "balance": 4646.12,
+            "transactions": [
+                {
+                    "date": "2022-10-17",
+                    "description": "Deposit",
+                    "amount": 31443.2,
+                    "transaction_id": 83727896
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Deposit",
+                    "amount": 25032.21,
+                    "transaction_id": 80586692
+                },
+                {
+                    "date": "2023-07-31",
+                    "description": "Deposit",
+                    "amount": 1459.83,
+                    "transaction_id": 26543258
+                }
+            ]
+        }
+    }
+}

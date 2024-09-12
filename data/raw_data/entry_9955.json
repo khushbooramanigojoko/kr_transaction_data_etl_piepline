@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 31,
+        "gender": "female",
+        "address": "66688 Joyce Walk Apt. 081, Lake Kenneth, ME 71102",
+        "phone": "812.973.0130x3428",
+        "email": "mcguiremonica@example.net",
+        "account": {
+            "account_number": "c00c9da7-78b7-475e-a8ad-7f3a209c699c",
+            "balance": 42816.21,
+            "transactions": [
+                {
+                    "date": "2023-11-01",
+                    "description": "Withdrawal",
+                    "amount": 309.54,
+                    "transaction_id": 3801418
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Interest",
+                    "amount": 1051.61,
+                    "transaction_id": 96086758
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Withdrawal",
+                    "amount": 2154.77,
+                    "transaction_id": 63656424
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Interest",
+                    "amount": 2739.79,
+                    "transaction_id": 26934254
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Deposit",
+                    "amount": -3254.96,
+                    "transaction_id": 98609466
+                }
+            ]
+        }
+    }
+}

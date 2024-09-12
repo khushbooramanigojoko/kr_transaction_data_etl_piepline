@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jessica Terry",
+        "age": 52,
+        "gender": "female",
+        "address": "62184 Michelle Passage Apt. 509, Peterhaven, VI 11495",
+        "phone": "+1-930-643-8896x210",
+        "email": "wrightstephanie@example.net",
+        "account": {
+            "account_number": "45b9005c-6190-4423-ba3e-97f82b45892c",
+            "balance": 19895.08,
+            "transactions": [
+                {
+                    "date": "2024-01-19",
+                    "description": "Deposit",
+                    "amount": 38756.56,
+                    "transaction_id": 10901863
+                },
+                {
+                    "date": "2023-11-10",
+                    "description": "Deposit",
+                    "amount": 27135.54,
+                    "transaction_id": 17785522
+                }
+            ]
+        }
+    }
+}

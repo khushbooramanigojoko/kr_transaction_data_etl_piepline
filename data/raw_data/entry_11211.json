@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 80,
+        "gender": "male",
+        "address": "428 Riley Stravenue Suite 269, Russellburgh, NM 07820",
+        "phone": "2266159797",
+        "email": "owenszachary@example.net",
+        "account": {
+            "account_number": "1fe2df32-ffe4-4a41-8518-bdac39da7714",
+            "balance": 37704.69,
+            "transactions": [
+                {
+                    "date": "2024-05-20",
+                    "description": "Interest",
+                    "amount": 4665.83,
+                    "transaction_id": 53583944
+                },
+                {
+                    "date": "2023-09-28",
+                    "description": "Withdrawal",
+                    "amount": -4944.52,
+                    "transaction_id": 62553359
+                },
+                {
+                    "date": "2023-10-15",
+                    "description": "Withdrawal",
+                    "amount": 4197.78,
+                    "transaction_id": 82085761
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Deposit",
+                    "amount": -1830.32,
+                    "transaction_id": 101077431
+                }
+            ]
+        }
+    }
+}

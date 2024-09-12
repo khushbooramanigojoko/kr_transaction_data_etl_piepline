@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 55,
+        "gender": "female",
+        "address": "2547 Johnny Point, Port Michaelport, KS 25614",
+        "phone": "605.493.4724",
+        "email": "jacob23@example.net",
+        "account": {
+            "account_number": "17d34c4e-ef1b-44ae-8531-b58164149d1f",
+            "balance": 13524.09,
+            "transactions": [
+                {
+                    "date": "2023-07-07",
+                    "description": "Interest",
+                    "amount": -2800.79,
+                    "transaction_id": 8889958
+                },
+                {
+                    "date": "2024-08-13",
+                    "description": "Interest",
+                    "amount": 2480.93,
+                    "transaction_id": 5716228
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Withdrawal",
+                    "amount": 4832.76,
+                    "transaction_id": 78081539
+                },
+                {
+                    "date": "2024-03-29",
+                    "description": "Withdrawal",
+                    "amount": 3723.15,
+                    "transaction_id": 77604400
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Deposit",
+                    "amount": -94.47,
+                    "transaction_id": 17214767
+                }
+            ]
+        }
+    }
+}

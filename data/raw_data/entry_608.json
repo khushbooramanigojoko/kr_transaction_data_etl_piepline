@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "John Morris",
+        "age": 79,
+        "gender": "female",
+        "address": "37144 Hannah Bypass, Lake Jessicaborough, ID 71886",
+        "phone": "(512)208-4036x707",
+        "email": "jswanson@example.org",
+        "account": {
+            "account_number": "caac1249-899a-4fe8-b108-d542384221cf",
+            "balance": 38474.78,
+            "transactions": [
+                {
+                    "date": "2024-07-16",
+                    "description": "Deposit",
+                    "amount": 183.6,
+                    "transaction_id": 41848579
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Withdrawal",
+                    "amount": 3315.84,
+                    "transaction_id": 92702336
+                }
+            ]
+        }
+    }
+}

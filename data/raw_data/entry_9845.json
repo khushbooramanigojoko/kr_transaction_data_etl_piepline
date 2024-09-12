@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 68,
+        "gender": "female",
+        "address": "951 Brown Vista Apt. 121, Derekview, AZ 49292",
+        "phone": "415-587-8516",
+        "email": "moodybarbara@example.com",
+        "account": {
+            "account_number": "d0f60b91-68b2-4d23-84eb-b10efad863ea",
+            "balance": 12151.29,
+            "transactions": [
+                {
+                    "date": "2024-06-10",
+                    "description": "Interest",
+                    "amount": -2148.9,
+                    "transaction_id": 88668509
+                },
+                {
+                    "date": "2023-02-26",
+                    "description": "Deposit",
+                    "amount": 3542.26,
+                    "transaction_id": 46915499
+                },
+                {
+                    "date": "2023-07-08",
+                    "description": "Withdrawal",
+                    "amount": 2834.52,
+                    "transaction_id": 27804843
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Interest",
+                    "amount": -529.39,
+                    "transaction_id": 74914466
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Withdrawal",
+                    "amount": -287.52,
+                    "transaction_id": 78015571
+                }
+            ]
+        }
+    }
+}

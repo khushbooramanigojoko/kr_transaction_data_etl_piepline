@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Crystal Collins",
+        "age": 83,
+        "gender": "male",
+        "address": "80042 Olivia Squares, Spencerview, FM 74072",
+        "phone": "+1-845-239-9951x681",
+        "email": "gregory16@example.net",
+        "account": {
+            "account_number": "76c45ab9-b630-4bb0-ae65-97067bf2d5c7",
+            "balance": 13603.82,
+            "transactions": [
+                {
+                    "date": "2023-11-12",
+                    "description": "Interest",
+                    "amount": 35441.22,
+                    "transaction_id": 94392864
+                },
+                {
+                    "date": "2024-03-14",
+                    "description": "Deposit",
+                    "amount": 8489.61,
+                    "transaction_id": 40803721
+                },
+                {
+                    "date": "2024-06-06",
+                    "description": "Withdrawal",
+                    "amount": 36560.45,
+                    "transaction_id": 77705842
+                }
+            ]
+        }
+    }
+}

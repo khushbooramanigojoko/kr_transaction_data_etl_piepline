@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Elizabeth Vasquez",
+        "age": 23,
+        "gender": "male",
+        "address": "291 Mcdowell Fall Suite 565, Nelsonchester, AR 17176",
+        "phone": "+1-532-624-3179x72444",
+        "email": "fmiles@example.com",
+        "account": {
+            "account_number": "a837db1f-0961-4dd4-8e61-b24e4c602cce",
+            "balance": 44501.25,
+            "transactions": [
+                {
+                    "date": "2022-09-25",
+                    "description": "Interest",
+                    "amount": 20812.49,
+                    "transaction_id": 105884476
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Interest",
+                    "amount": 12698.23,
+                    "transaction_id": 62430429
+                },
+                {
+                    "date": "2023-09-29",
+                    "description": "Interest",
+                    "amount": 4142.3,
+                    "transaction_id": 93065728
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Withdrawal",
+                    "amount": 30249.81,
+                    "transaction_id": 10693097
+                },
+                {
+                    "date": "2022-11-06",
+                    "description": "Withdrawal",
+                    "amount": 9549.81,
+                    "transaction_id": 27769666
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "male",
+        "address": "0560 Moody Mall Apt. 453, Lopezchester, WY 51763",
+        "phone": "(363)830-8257",
+        "email": "tyler57@example.org",
+        "account": {
+            "account_number": "b63a950a-476c-4794-867c-a65d2071ca80",
+            "balance": 8513.27,
+            "transactions": [
+                {
+                    "date": "2022-10-20",
+                    "description": "Deposit",
+                    "amount": -102.12,
+                    "transaction_id": 90679884
+                },
+                {
+                    "date": "2022-10-27",
+                    "description": "Interest",
+                    "amount": 29.77,
+                    "transaction_id": 107694287
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Interest",
+                    "amount": 3710.09,
+                    "transaction_id": 44995262
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Deposit",
+                    "amount": 1157.19,
+                    "transaction_id": 116688448
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Deposit",
+                    "amount": -3926.35,
+                    "transaction_id": 97718936
+                }
+            ]
+        }
+    }
+}

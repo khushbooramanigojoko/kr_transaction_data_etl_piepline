@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Stephanie Wagner",
+        "age": 68,
+        "gender": "male",
+        "address": "1138 Garcia Turnpike, Port Kimbury, NY 99733",
+        "phone": "8909788807",
+        "email": "gmaldonado@example.net",
+        "account": {
+            "account_number": "92064602-5f6b-476e-9d0d-3278967ab18d",
+            "balance": 17533.9,
+            "transactions": [
+                {
+                    "date": "2023-01-21",
+                    "description": "Withdrawal",
+                    "amount": 16782.53,
+                    "transaction_id": 13639224
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Deposit",
+                    "amount": 16494.33,
+                    "transaction_id": 109757401
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Withdrawal",
+                    "amount": 13150.56,
+                    "transaction_id": 84966843
+                },
+                {
+                    "date": "2022-09-09",
+                    "description": "Deposit",
+                    "amount": 34939.2,
+                    "transaction_id": 61142156
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Deposit",
+                    "amount": 1073.95,
+                    "transaction_id": 7305106
+                }
+            ]
+        }
+    }
+}

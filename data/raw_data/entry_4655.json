@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Samantha Mitchell",
+        "age": 89,
+        "gender": "male",
+        "address": "PSC 5975, Box 4097, APO AA 39594",
+        "phone": "536-924-2544x0189",
+        "email": "martinezdevin@example.org",
+        "account": {
+            "account_number": "4542ea7e-5ec8-4775-a6e8-338a6abc6f57",
+            "balance": 34561.04,
+            "transactions": [
+                {
+                    "date": "2023-04-08",
+                    "description": "Deposit",
+                    "amount": 1754.2,
+                    "transaction_id": 118262886
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Interest",
+                    "amount": 2521.01,
+                    "transaction_id": 81445680
+                },
+                {
+                    "date": "2024-04-21",
+                    "description": "Withdrawal",
+                    "amount": 26749.9,
+                    "transaction_id": 46712269
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Interest",
+                    "amount": 1981.01,
+                    "transaction_id": 105483002
+                },
+                {
+                    "date": "2024-07-15",
+                    "description": "Deposit",
+                    "amount": 24168.26,
+                    "transaction_id": 82564979
+                }
+            ]
+        }
+    }
+}

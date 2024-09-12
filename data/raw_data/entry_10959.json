@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kevin Smith",
+        "age": 29,
+        "gender": "male",
+        "address": "28049 Carol Rapids, East David, GU 26918",
+        "phone": "462-205-6127x4796",
+        "email": "christinanguyen@example.com",
+        "account": {
+            "account_number": "74e324cf-45a0-407b-ac2a-c46c7d70ba66",
+            "balance": -34685.42,
+            "transactions": [
+                {
+                    "date": "2023-01-31",
+                    "description": "Interest",
+                    "amount": 1545.9,
+                    "transaction_id": 96735032
+                }
+            ]
+        }
+    }
+}

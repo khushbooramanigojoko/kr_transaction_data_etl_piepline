@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael Scott",
+        "age": 81,
+        "gender": "female",
+        "address": "8248 Eric Forge, Matthewmouth, RI 36829",
+        "phone": "(740)434-5728",
+        "email": "jvazquez@example.net",
+        "account": {
+            "account_number": "35313efa-ad2b-4d61-a28e-dbd53d2d067c",
+            "balance": 43034.84,
+            "transactions": [
+                {
+                    "date": "2023-05-09",
+                    "description": "Withdrawal",
+                    "amount": 2229.18,
+                    "transaction_id": 65240068
+                },
+                {
+                    "date": "2022-10-14",
+                    "description": "Interest",
+                    "amount": 18816.65,
+                    "transaction_id": 84336540
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Interest",
+                    "amount": 13215.04,
+                    "transaction_id": 11542916
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Connie Mcfarland",
+        "age": 33,
+        "gender": "female",
+        "address": "868 Bradford Pines, Deborahshire, SD 70567",
+        "phone": "(907)871-4308",
+        "email": "mcdonaldterrance@example.com",
+        "account": {
+            "account_number": "e440529f-9650-40d6-90ca-c6f2630a28b9",
+            "balance": 28045.02,
+            "transactions": [
+                {
+                    "date": "2024-05-01",
+                    "description": "Deposit",
+                    "amount": 23016.25,
+                    "transaction_id": 95726787
+                }
+            ]
+        }
+    }
+}

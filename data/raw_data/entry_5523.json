@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ana Hernandez",
+        "age": 76,
+        "gender": "male",
+        "address": "658 Michael Pine, Brandonbury, AS 21931",
+        "phone": "564.833.0884",
+        "email": "andersonlauren@example.net",
+        "account": {
+            "account_number": "d12dc0d6-4393-419a-8bdc-358c0cbcc1e4",
+            "balance": 45756.19,
+            "transactions": [
+                {
+                    "date": "2024-01-09",
+                    "description": "Interest",
+                    "amount": 1315.91,
+                    "transaction_id": 105905483
+                }
+            ]
+        }
+    }
+}

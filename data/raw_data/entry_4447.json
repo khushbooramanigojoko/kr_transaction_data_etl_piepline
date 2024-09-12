@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Arthur Moore",
+        "age": 67,
+        "gender": "female",
+        "address": "76534 James Groves Suite 853, Jefferyville, WI 58836",
+        "phone": "626-415-2791",
+        "email": "cfranklin@example.com",
+        "account": {
+            "account_number": "15219eaf-46e2-4730-801d-620308e8c634",
+            "balance": 8362.44,
+            "transactions": [
+                {
+                    "date": "2024-07-19",
+                    "description": "Withdrawal",
+                    "amount": 5487.11,
+                    "transaction_id": 91717912
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Interest",
+                    "amount": 16935.99,
+                    "transaction_id": 91698745
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Interest",
+                    "amount": 32807.93,
+                    "transaction_id": 14481445
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Interest",
+                    "amount": 1302.15,
+                    "transaction_id": 22949490
+                }
+            ]
+        }
+    }
+}

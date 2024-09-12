@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lisa Carr",
+        "age": 71,
+        "gender": "male",
+        "address": "3342 Gerald Locks, Turnerton, NH 06234",
+        "phone": "5907561760",
+        "email": "elliottcynthia@example.com",
+        "account": {
+            "account_number": "3e5f308c-ca9d-4d82-bf53-4fc569795896",
+            "balance": 1036.27,
+            "transactions": [
+                {
+                    "date": "2023-09-19",
+                    "description": "Deposit",
+                    "amount": 2997.11,
+                    "transaction_id": 37750734
+                }
+            ]
+        }
+    }
+}

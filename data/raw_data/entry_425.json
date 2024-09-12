@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tyler Thornton",
+        "age": 77,
+        "gender": "male",
+        "address": "214 Nichols Course Suite 853, Bradleyburgh, AL 85746",
+        "phone": "420.350.1358x968",
+        "email": "andrewbarnett@example.org",
+        "account": {
+            "account_number": "1dca6aa9-6f0b-4e0e-a6de-ae6853522828",
+            "balance": 38909.43,
+            "transactions": [
+                {
+                    "date": "2023-04-04",
+                    "description": "Deposit",
+                    "amount": 20396.87,
+                    "transaction_id": 8665172
+                },
+                {
+                    "date": "2024-08-24",
+                    "description": "Interest",
+                    "amount": 25479.73,
+                    "transaction_id": 63002659
+                },
+                {
+                    "date": "2023-06-26",
+                    "description": "Withdrawal",
+                    "amount": 29524.46,
+                    "transaction_id": 4478485
+                },
+                {
+                    "date": "2023-04-09",
+                    "description": "Interest",
+                    "amount": 21056.47,
+                    "transaction_id": 109778964
+                }
+            ]
+        }
+    }
+}

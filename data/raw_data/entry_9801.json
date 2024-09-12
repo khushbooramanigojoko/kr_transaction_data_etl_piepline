@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 40,
+        "gender": "female",
+        "address": "0833 Krista Walk, Wellshaven, PR 46852",
+        "phone": "287.480.2760",
+        "email": "waustin@example.org",
+        "account": {
+            "account_number": "18c3653d-7810-48e2-ba0c-aaa36d9468bc",
+            "balance": 20824.18,
+            "transactions": [
+                {
+                    "date": "2023-05-05",
+                    "description": "Withdrawal",
+                    "amount": 1962.84,
+                    "transaction_id": 112155946
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Withdrawal",
+                    "amount": -2101.27,
+                    "transaction_id": 43883932
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Withdrawal",
+                    "amount": 2427.14,
+                    "transaction_id": 21943519
+                }
+            ]
+        }
+    }
+}

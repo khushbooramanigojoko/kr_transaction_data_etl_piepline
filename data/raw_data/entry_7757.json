@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Douglas Gibson",
+        "age": 39,
+        "gender": "female",
+        "address": "9701 Jesus Key Apt. 435, Jimenezton, KY 68326",
+        "phone": "001-535-732-8078x033",
+        "email": "james56@example.org",
+        "account": {
+            "account_number": "0529497b-24e0-42bc-8505-b1586ea58f5a",
+            "balance": 7288.18,
+            "transactions": [
+                {
+                    "date": "2024-08-15",
+                    "description": "Withdrawal",
+                    "amount": 30989.46,
+                    "transaction_id": 57059318
+                }
+            ]
+        }
+    }
+}

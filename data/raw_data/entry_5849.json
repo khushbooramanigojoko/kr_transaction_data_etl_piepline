@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sharon Gordon",
+        "age": 71,
+        "gender": "female",
+        "address": "764 Griffin Row, Kyleport, WV 31116",
+        "phone": "514.425.8781x81482",
+        "email": "cporter@example.net",
+        "account": {
+            "account_number": "e1ab0912-d73a-4dc8-9643-3f7af2dc6e06",
+            "balance": 19210.82,
+            "transactions": [
+                {
+                    "date": "2023-12-02",
+                    "description": "Deposit",
+                    "amount": 2518.97,
+                    "transaction_id": 97247689
+                },
+                {
+                    "date": "2024-07-21",
+                    "description": "Withdrawal",
+                    "amount": 37048.27,
+                    "transaction_id": 101142114
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Raymond Williams",
+        "age": 35,
+        "gender": "female",
+        "address": "16441 Ortega Gardens, Lake Colinview, WA 40506",
+        "phone": "333.960.6736x654",
+        "email": "johnrobbins@example.org",
+        "account": {
+            "account_number": "2fb81223-1518-4739-ad8e-fc24b38a9ea9",
+            "balance": 25506.73,
+            "transactions": [
+                {
+                    "date": "2022-10-07",
+                    "description": "Interest",
+                    "amount": 1037.19,
+                    "transaction_id": 2934289
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Deposit",
+                    "amount": 22709.27,
+                    "transaction_id": 25580859
+                },
+                {
+                    "date": "2024-01-16",
+                    "description": "Withdrawal",
+                    "amount": 35205.58,
+                    "transaction_id": 6227387
+                },
+                {
+                    "date": "2024-07-04",
+                    "description": "Deposit",
+                    "amount": 28156.91,
+                    "transaction_id": 26873392
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Withdrawal",
+                    "amount": 9590.3,
+                    "transaction_id": 98392633
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Cheryl Thompson",
+        "age": 91,
+        "gender": "male",
+        "address": "357 Pope Ville Apt. 420, Morganshire, OH 99869",
+        "phone": "5404101473",
+        "email": "hobbsjames@example.com",
+        "account": {
+            "account_number": "abb0e70f-ea1b-4da5-859d-976a3c9cba9a",
+            "balance": 44871.63,
+            "transactions": [
+                {
+                    "date": "2023-03-24",
+                    "description": "Interest",
+                    "amount": 6852.51,
+                    "transaction_id": 109583723
+                },
+                {
+                    "date": "2024-01-25",
+                    "description": "Withdrawal",
+                    "amount": 28184.79,
+                    "transaction_id": 82149615
+                },
+                {
+                    "date": "2024-08-05",
+                    "description": "Interest",
+                    "amount": 29587.58,
+                    "transaction_id": 118574913
+                }
+            ]
+        }
+    }
+}

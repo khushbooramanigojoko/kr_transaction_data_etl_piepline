@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Justin Herrera",
+        "age": 86,
+        "gender": "male",
+        "address": "166 Palmer Radial Apt. 655, North Ronald, FM 17944",
+        "phone": "475-966-7970",
+        "email": "taylorjulia@example.org",
+        "account": {
+            "account_number": "c6e9ece6-82e1-47d4-b259-2dec73a1bdea",
+            "balance": 9725.62,
+            "transactions": [
+                {
+                    "date": "2024-03-06",
+                    "description": "Deposit",
+                    "amount": 16993.23,
+                    "transaction_id": 73967139
+                },
+                {
+                    "date": "2022-12-13",
+                    "description": "Withdrawal",
+                    "amount": 39804.13,
+                    "transaction_id": 56597254
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Withdrawal",
+                    "amount": 36443.52,
+                    "transaction_id": 2800740
+                },
+                {
+                    "date": "2024-02-27",
+                    "description": "Deposit",
+                    "amount": 10996.07,
+                    "transaction_id": 49122703
+                },
+                {
+                    "date": "2024-04-10",
+                    "description": "Withdrawal",
+                    "amount": 32912.8,
+                    "transaction_id": 118982115
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "male",
+        "address": "PSC 0325, Box 8838, APO AP 58471",
+        "phone": "253-417-3620x9915",
+        "email": "brad91@example.net",
+        "account": {
+            "account_number": "d8c10da5-dd6a-4e7e-b572-e5d405b26347",
+            "balance": 19520.82,
+            "transactions": [
+                {
+                    "date": "2022-10-29",
+                    "description": "Interest",
+                    "amount": 929.22,
+                    "transaction_id": 31368799
+                },
+                {
+                    "date": "2023-09-04",
+                    "description": "Withdrawal",
+                    "amount": -2743.55,
+                    "transaction_id": 17103914
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Withdrawal",
+                    "amount": -895.47,
+                    "transaction_id": 39328864
+                },
+                {
+                    "date": "2023-09-07",
+                    "description": "Deposit",
+                    "amount": -3143.58,
+                    "transaction_id": 66764669
+                },
+                {
+                    "date": "2023-01-22",
+                    "description": "Withdrawal",
+                    "amount": -314.61,
+                    "transaction_id": 50072705
+                }
+            ]
+        }
+    }
+}

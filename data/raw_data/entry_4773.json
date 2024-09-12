@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Erin Brown",
+        "age": 43,
+        "gender": "female",
+        "address": "598 Katie Circles, East Laura, CT 09437",
+        "phone": "+1-659-762-2326x18656",
+        "email": "santanatravis@example.org",
+        "account": {
+            "account_number": "77111669-63e0-4225-8ad9-f993a2337099",
+            "balance": 45609.03,
+            "transactions": [
+                {
+                    "date": "2024-08-23",
+                    "description": "Withdrawal",
+                    "amount": 17916.55,
+                    "transaction_id": 33848759
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Interest",
+                    "amount": 43535.58,
+                    "transaction_id": 41699276
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Deposit",
+                    "amount": 23962.37,
+                    "transaction_id": 99192192
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Interest",
+                    "amount": 13792.25,
+                    "transaction_id": 48704623
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jamie Gill",
+        "age": 84,
+        "gender": "male",
+        "address": "PSC 0980, Box 6251, APO AP 74638",
+        "phone": "001-936-657-9366x36441",
+        "email": "todd63@example.net",
+        "account": {
+            "account_number": "c03809a6-dc62-4d17-8a51-adb2bad05d9a",
+            "balance": 2652.93,
+            "transactions": [
+                {
+                    "date": "2023-10-28",
+                    "description": "Deposit",
+                    "amount": 29355.75,
+                    "transaction_id": 92672394
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Martha Morgan",
+        "age": 56,
+        "gender": "female",
+        "address": "6992 Ortiz Centers Apt. 274, Lake Christinafurt, PR 13494",
+        "phone": "+1-475-904-5814x34332",
+        "email": "heather93@example.net",
+        "account": {
+            "account_number": "19dba4c2-2343-4e06-91a5-92b861549e62",
+            "balance": 10046.77,
+            "transactions": [
+                {
+                    "date": "2023-04-07",
+                    "description": "Withdrawal",
+                    "amount": 40654.5,
+                    "transaction_id": 11043360
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Interest",
+                    "amount": 44186.65,
+                    "transaction_id": 12478498
+                },
+                {
+                    "date": "2022-12-22",
+                    "description": "Interest",
+                    "amount": 26423.56,
+                    "transaction_id": 51434294
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Withdrawal",
+                    "amount": 48913.11,
+                    "transaction_id": 23943622
+                }
+            ]
+        }
+    }
+}

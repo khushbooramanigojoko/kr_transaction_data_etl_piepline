@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amanda Chen",
+        "age": 69,
+        "gender": "male",
+        "address": "PSC 0011, Box 9658, APO AP 74586",
+        "phone": "+1-281-957-8707x28930",
+        "email": "danahall@example.net",
+        "account": {
+            "account_number": "c7e9c81e-d479-4f09-82fe-387d6202fc4c",
+            "balance": 7288.62,
+            "transactions": [
+                {
+                    "date": "2024-03-12",
+                    "description": "Deposit",
+                    "amount": 22516.69,
+                    "transaction_id": 48298659
+                },
+                {
+                    "date": "2022-12-22",
+                    "description": "Deposit",
+                    "amount": 27036.54,
+                    "transaction_id": 96904418
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Withdrawal",
+                    "amount": 45991.18,
+                    "transaction_id": 29256296
+                },
+                {
+                    "date": "2023-01-10",
+                    "description": "Withdrawal",
+                    "amount": 3435.19,
+                    "transaction_id": 67856139
+                }
+            ]
+        }
+    }
+}

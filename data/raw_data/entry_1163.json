@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jenna Norman",
+        "age": 24,
+        "gender": "female",
+        "address": "425 Garcia Light Apt. 404, Matthewburgh, OR 70298",
+        "phone": "+1-920-760-8095x736",
+        "email": "bennetteric@example.com",
+        "account": {
+            "account_number": "b86941ad-265e-4c8c-829d-3422a0c45c91",
+            "balance": 43249.3,
+            "transactions": [
+                {
+                    "date": "2022-12-10",
+                    "description": "Interest",
+                    "amount": 11153.96,
+                    "transaction_id": 33208196
+                },
+                {
+                    "date": "2023-06-16",
+                    "description": "Interest",
+                    "amount": 1008.36,
+                    "transaction_id": 103646457
+                },
+                {
+                    "date": "2024-04-10",
+                    "description": "Withdrawal",
+                    "amount": 39370.02,
+                    "transaction_id": 5416065
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Withdrawal",
+                    "amount": 956.18,
+                    "transaction_id": 40828715
+                },
+                {
+                    "date": "2023-08-09",
+                    "description": "Deposit",
+                    "amount": 49672.6,
+                    "transaction_id": 46353091
+                }
+            ]
+        }
+    }
+}

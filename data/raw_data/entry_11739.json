@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Alicia Jones",
+        "age": 72,
+        "gender": "male",
+        "address": "64112 Terri Walks Suite 573, East Jamesfurt, HI 36403",
+        "phone": "573-271-0708x296",
+        "email": "benjamin58@example.com",
+        "account": {
+            "account_number": "42b50b8a-0d90-4cbc-a0a5-92f5fcd3226c",
+            "balance": -15046.66,
+            "transactions": [
+                {
+                    "date": "2023-05-09",
+                    "description": "Withdrawal",
+                    "amount": -574.73,
+                    "transaction_id": 78005656
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Interest",
+                    "amount": 2370.83,
+                    "transaction_id": 81198149
+                },
+                {
+                    "date": "2023-03-02",
+                    "description": "Interest",
+                    "amount": -3947.41,
+                    "transaction_id": 12312568
+                },
+                {
+                    "date": "2024-01-25",
+                    "description": "Withdrawal",
+                    "amount": 4379.4,
+                    "transaction_id": 46785212
+                },
+                {
+                    "date": "2023-09-20",
+                    "description": "Withdrawal",
+                    "amount": 4240.77,
+                    "transaction_id": 68280304
+                }
+            ]
+        }
+    }
+}

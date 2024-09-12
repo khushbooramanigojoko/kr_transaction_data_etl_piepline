@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Samantha Taylor",
+        "age": 40,
+        "gender": "female",
+        "address": "6546 Miller Park Suite 702, South Nancy, AK 25459",
+        "phone": "(496)542-3797",
+        "email": "timothy46@example.net",
+        "account": {
+            "account_number": "ba8ca85d-a995-4054-8b23-8233172e7726",
+            "balance": 48859.8,
+            "transactions": [
+                {
+                    "date": "2023-03-13",
+                    "description": "Interest",
+                    "amount": 41192.95,
+                    "transaction_id": 9695862
+                },
+                {
+                    "date": "2023-05-01",
+                    "description": "Withdrawal",
+                    "amount": 27874.9,
+                    "transaction_id": 73398950
+                },
+                {
+                    "date": "2022-12-28",
+                    "description": "Withdrawal",
+                    "amount": 9230.51,
+                    "transaction_id": 24098286
+                },
+                {
+                    "date": "2022-12-08",
+                    "description": "Interest",
+                    "amount": 48344.3,
+                    "transaction_id": 109802140
+                }
+            ]
+        }
+    }
+}

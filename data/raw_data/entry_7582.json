@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Audrey Khan",
+        "age": 86,
+        "gender": "female",
+        "address": "23536 Maldonado Rapids Suite 095, Leestad, AR 61463",
+        "phone": "001-202-639-8532x537",
+        "email": "erica59@example.com",
+        "account": {
+            "account_number": "b8888115-7cfc-4763-986b-d52c4f69818b",
+            "balance": 43652.21,
+            "transactions": [
+                {
+                    "date": "2024-02-27",
+                    "description": "Deposit",
+                    "amount": 36934.18,
+                    "transaction_id": 53532731
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Interest",
+                    "amount": 19798.47,
+                    "transaction_id": 76144225
+                }
+            ]
+        }
+    }
+}

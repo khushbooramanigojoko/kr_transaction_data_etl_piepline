@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 32,
+        "gender": "female",
+        "address": "750 Kristy Plaza, Port Jesse, AL 02152",
+        "phone": "326-884-1030x6178",
+        "email": "jacksonteresa@example.org",
+        "account": {
+            "account_number": "252b0d7b-226b-47bb-b2ac-9a92c98c72f1",
+            "balance": 1127.42,
+            "transactions": [
+                {
+                    "date": "2023-11-10",
+                    "description": "Interest",
+                    "amount": -3895.82,
+                    "transaction_id": 119281420
+                },
+                {
+                    "date": "2024-01-23",
+                    "description": "Deposit",
+                    "amount": 1087.88,
+                    "transaction_id": 59083704
+                },
+                {
+                    "date": "2023-11-12",
+                    "description": "Deposit",
+                    "amount": -2528.94,
+                    "transaction_id": 6335383
+                },
+                {
+                    "date": "2023-06-27",
+                    "description": "Interest",
+                    "amount": -3500.52,
+                    "transaction_id": 115210811
+                }
+            ]
+        }
+    }
+}

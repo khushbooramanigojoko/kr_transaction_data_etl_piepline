@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ricky Mcconnell",
+        "age": 36,
+        "gender": "female",
+        "address": "USS Vasquez, FPO AE 46493",
+        "phone": "952-913-3168x453",
+        "email": "christopher67@example.com",
+        "account": {
+            "account_number": "6209568d-f93d-4ea2-b3eb-1f8b6835ba12",
+            "balance": 2135.24,
+            "transactions": [
+                {
+                    "date": "2023-07-26",
+                    "description": "Withdrawal",
+                    "amount": 25608.46,
+                    "transaction_id": 116705082
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Interest",
+                    "amount": 26061.19,
+                    "transaction_id": 72830760
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Interest",
+                    "amount": 22738.5,
+                    "transaction_id": 65634745
+                }
+            ]
+        }
+    }
+}

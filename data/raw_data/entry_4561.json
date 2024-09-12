@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Eric Waller",
+        "age": 78,
+        "gender": "female",
+        "address": "216 Garcia Crossing Suite 020, Aliciashire, ID 96072",
+        "phone": "508-844-8546x35092",
+        "email": "adriana57@example.com",
+        "account": {
+            "account_number": "587a9ddf-f309-42df-a0d2-d039f4b8b918",
+            "balance": 47831.52,
+            "transactions": [
+                {
+                    "date": "2024-03-10",
+                    "description": "Withdrawal",
+                    "amount": 16803.35,
+                    "transaction_id": 54840371
+                }
+            ]
+        }
+    }
+}

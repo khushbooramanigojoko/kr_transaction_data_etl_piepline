@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Robert Garcia",
+        "age": 51,
+        "gender": "female",
+        "address": "470 Rogers Way Apt. 771, Smithburgh, NY 23446",
+        "phone": "+1-619-220-1815x9330",
+        "email": "natalie03@example.net",
+        "account": {
+            "account_number": "1bf28eb5-f190-4626-8a72-fd3cdedf06f9",
+            "balance": 11294.25,
+            "transactions": [
+                {
+                    "date": "2023-12-06",
+                    "description": "Interest",
+                    "amount": 45892.82,
+                    "transaction_id": 24705162
+                }
+            ]
+        }
+    }
+}

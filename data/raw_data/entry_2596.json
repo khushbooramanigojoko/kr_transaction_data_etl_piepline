@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ruben Carpenter",
+        "age": 52,
+        "gender": "female",
+        "address": "183 Cynthia Square Suite 610, Kevinside, NH 19059",
+        "phone": "+1-913-485-9982x76306",
+        "email": "jennifer64@example.org",
+        "account": {
+            "account_number": "42b1c6eb-e7b8-47b9-a4f5-9c58691ea5dd",
+            "balance": 20916.42,
+            "transactions": [
+                {
+                    "date": "2022-09-30",
+                    "description": "Withdrawal",
+                    "amount": 44522.72,
+                    "transaction_id": 72879423
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Interest",
+                    "amount": 27967.78,
+                    "transaction_id": 81548490
+                }
+            ]
+        }
+    }
+}

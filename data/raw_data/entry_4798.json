@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "James Jackson",
+        "age": 84,
+        "gender": "male",
+        "address": "0821 Peter Burg, Ruizburgh, FL 23085",
+        "phone": "517.706.5788x44037",
+        "email": "brianday@example.org",
+        "account": {
+            "account_number": "a06a7e0e-e6f4-4c57-b3e7-536350c4bb14",
+            "balance": 12482.83,
+            "transactions": [
+                {
+                    "date": "2022-11-02",
+                    "description": "Deposit",
+                    "amount": 49093.14,
+                    "transaction_id": 26143405
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Interest",
+                    "amount": 3256.11,
+                    "transaction_id": 15361205
+                }
+            ]
+        }
+    }
+}

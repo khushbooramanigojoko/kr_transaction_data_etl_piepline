@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brittany Little",
+        "age": 92,
+        "gender": "female",
+        "address": "0789 Jordan Plaza Apt. 204, East Tina, CA 52841",
+        "phone": "4205613832",
+        "email": "dcampos@example.net",
+        "account": {
+            "account_number": "9b0c1f27-2e37-4dc4-871b-d8f81e90dd36",
+            "balance": 35126.38,
+            "transactions": [
+                {
+                    "date": "2022-10-02",
+                    "description": "Withdrawal",
+                    "amount": 11794.2,
+                    "transaction_id": 79650832
+                },
+                {
+                    "date": "2023-06-28",
+                    "description": "Withdrawal",
+                    "amount": 7495.86,
+                    "transaction_id": 5535585
+                }
+            ]
+        }
+    }
+}

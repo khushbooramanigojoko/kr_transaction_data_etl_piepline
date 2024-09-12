@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jonathan Randall",
+        "age": 77,
+        "gender": "male",
+        "address": "84635 Craig Trail, Bakerport, MD 44605",
+        "phone": "+1-346-748-8081x4319",
+        "email": "moralesmichele@example.net",
+        "account": {
+            "account_number": "b449d164-0956-478d-af32-3dede4e7abd4",
+            "balance": 45358.03,
+            "transactions": [
+                {
+                    "date": "2022-10-01",
+                    "description": "Deposit",
+                    "amount": 8773.89,
+                    "transaction_id": 49379586
+                },
+                {
+                    "date": "2022-10-09",
+                    "description": "Interest",
+                    "amount": 26428.84,
+                    "transaction_id": 33103934
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Deposit",
+                    "amount": 1945.35,
+                    "transaction_id": 28599296
+                },
+                {
+                    "date": "2023-05-20",
+                    "description": "Deposit",
+                    "amount": 30316.12,
+                    "transaction_id": 45392296
+                }
+            ]
+        }
+    }
+}

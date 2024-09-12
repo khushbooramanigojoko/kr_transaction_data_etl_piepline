@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rodney Cannon",
+        "age": 49,
+        "gender": "female",
+        "address": "1324 Fowler Mountains, Marialand, CA 45987",
+        "phone": "3196984986",
+        "email": "ghensley@example.org",
+        "account": {
+            "account_number": "a546f054-963a-4223-aea1-c80dda5d931d",
+            "balance": 27485.75,
+            "transactions": [
+                {
+                    "date": "2024-01-17",
+                    "description": "Interest",
+                    "amount": 41808.74,
+                    "transaction_id": 37016143
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stephanie Phillips",
+        "age": 70,
+        "gender": "male",
+        "address": "0132 Jones Parks Apt. 887, South Shannonshire, UT 67908",
+        "phone": "869-478-4458",
+        "email": "butlerrobert@example.org",
+        "account": {
+            "account_number": "72367b1e-35b5-4883-acd8-7c7302a4a429",
+            "balance": 40288.41,
+            "transactions": [
+                {
+                    "date": "2024-04-28",
+                    "description": "Interest",
+                    "amount": 32170.35,
+                    "transaction_id": 92913320
+                },
+                {
+                    "date": "2023-09-18",
+                    "description": "Withdrawal",
+                    "amount": 32680.35,
+                    "transaction_id": 88807215
+                },
+                {
+                    "date": "2023-01-06",
+                    "description": "Withdrawal",
+                    "amount": 45582.62,
+                    "transaction_id": 79237845
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Withdrawal",
+                    "amount": 32932.17,
+                    "transaction_id": 18340145
+                }
+            ]
+        }
+    }
+}

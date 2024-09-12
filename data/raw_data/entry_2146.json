@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Cameron Rojas",
+        "age": 67,
+        "gender": "female",
+        "address": "Unit 4891 Box 0465, DPO AP 93566",
+        "phone": "871-545-5106",
+        "email": "flemingdebra@example.net",
+        "account": {
+            "account_number": "740247bf-4ac3-460e-9173-6c3ba6f2b574",
+            "balance": 3127.65,
+            "transactions": [
+                {
+                    "date": "2023-03-08",
+                    "description": "Deposit",
+                    "amount": 8676.6,
+                    "transaction_id": 48837462
+                }
+            ]
+        }
+    }
+}

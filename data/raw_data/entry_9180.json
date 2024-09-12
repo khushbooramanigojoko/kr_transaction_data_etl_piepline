@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jonathan Lee",
+        "age": 87,
+        "gender": "male",
+        "address": "1615 Scott Trafficway, Adamsport, VA 83296",
+        "phone": "001-736-653-4093",
+        "email": "andrewhall@example.com",
+        "account": {
+            "account_number": "afadf47d-51b9-4394-9f78-c723adc7b2b6",
+            "balance": -18110.94,
+            "transactions": [
+                {
+                    "date": "2023-01-02",
+                    "description": "Interest",
+                    "amount": 3669.6,
+                    "transaction_id": 72052886
+                },
+                {
+                    "date": "2023-05-21",
+                    "description": "Withdrawal",
+                    "amount": 1379.99,
+                    "transaction_id": 42732440
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Interest",
+                    "amount": 2195.77,
+                    "transaction_id": 79585031
+                }
+            ]
+        }
+    }
+}

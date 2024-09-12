@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Scott Lewis",
+        "age": 71,
+        "gender": "female",
+        "address": "0426 Kirk Isle, Jessicaton, NH 83517",
+        "phone": "001-238-994-0141x552",
+        "email": "marybarry@example.net",
+        "account": {
+            "account_number": "19a46fda-a0c4-4b68-ae13-edf9a6dc1c95",
+            "balance": 39366.58,
+            "transactions": [
+                {
+                    "date": "2022-09-28",
+                    "description": "Withdrawal",
+                    "amount": 49673.51,
+                    "transaction_id": 101750123
+                },
+                {
+                    "date": "2023-04-11",
+                    "description": "Interest",
+                    "amount": 18401.95,
+                    "transaction_id": 97358111
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Deposit",
+                    "amount": 43313.99,
+                    "transaction_id": 50591295
+                }
+            ]
+        }
+    }
+}

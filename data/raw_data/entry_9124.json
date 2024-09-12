@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Gregory Jones",
+        "age": 30,
+        "gender": "female",
+        "address": "52024 Ford Grove Suite 782, Virginiaborough, PA 11334",
+        "phone": "926.691.4409x49355",
+        "email": "cnoble@example.com",
+        "account": {
+            "account_number": "32aa18de-ca17-422c-972b-89db1ba3df1b",
+            "balance": -26948.11,
+            "transactions": [
+                {
+                    "date": "2024-06-11",
+                    "description": "Deposit",
+                    "amount": -2894.51,
+                    "transaction_id": 62680506
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Interest",
+                    "amount": -4348.11,
+                    "transaction_id": 4843859
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Deposit",
+                    "amount": -668.29,
+                    "transaction_id": 86335752
+                }
+            ]
+        }
+    }
+}

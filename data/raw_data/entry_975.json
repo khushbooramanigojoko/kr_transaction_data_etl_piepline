@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Brandon Browning",
+        "age": 91,
+        "gender": "male",
+        "address": "14401 Daniel Row, Hartburgh, AK 03476",
+        "phone": "704-552-2187x05872",
+        "email": "tara81@example.com",
+        "account": {
+            "account_number": "53dd89a2-ea2b-4da9-8b9a-d15b6cb4095f",
+            "balance": 31659.43,
+            "transactions": [
+                {
+                    "date": "2023-02-03",
+                    "description": "Interest",
+                    "amount": 36446.89,
+                    "transaction_id": 82751050
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Withdrawal",
+                    "amount": 48823.95,
+                    "transaction_id": 9048048
+                },
+                {
+                    "date": "2023-09-24",
+                    "description": "Withdrawal",
+                    "amount": 44109.27,
+                    "transaction_id": 12477762
+                }
+            ]
+        }
+    }
+}

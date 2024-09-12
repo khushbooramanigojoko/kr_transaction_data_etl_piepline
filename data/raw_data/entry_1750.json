@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Carla Fletcher",
+        "age": 74,
+        "gender": "male",
+        "address": "PSC 6605, Box 5735, APO AP 46753",
+        "phone": "+1-485-465-1371x28147",
+        "email": "derek29@example.org",
+        "account": {
+            "account_number": "2cd7c62e-2b4c-4a43-b004-b001c821d141",
+            "balance": 30132.58,
+            "transactions": [
+                {
+                    "date": "2023-06-03",
+                    "description": "Deposit",
+                    "amount": 34534.06,
+                    "transaction_id": 102415129
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Interest",
+                    "amount": 9089.03,
+                    "transaction_id": 105890883
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Interest",
+                    "amount": 20053.96,
+                    "transaction_id": 78459160
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Deposit",
+                    "amount": 41714.43,
+                    "transaction_id": 37732725
+                }
+            ]
+        }
+    }
+}

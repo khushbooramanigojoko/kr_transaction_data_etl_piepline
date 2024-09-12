@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jacqueline Jefferson",
+        "age": 82,
+        "gender": "female",
+        "address": "5324 Ortega Union Suite 857, Maxwellfort, MP 38799",
+        "phone": "001-817-942-3617x253",
+        "email": "nathanfisher@example.org",
+        "account": {
+            "account_number": "64cc2a8e-75c1-4d64-90a9-9979d3892246",
+            "balance": 29186.3,
+            "transactions": [
+                {
+                    "date": "2023-03-09",
+                    "description": "Interest",
+                    "amount": 6206.23,
+                    "transaction_id": 71824681
+                },
+                {
+                    "date": "2023-02-23",
+                    "description": "Deposit",
+                    "amount": 25158.75,
+                    "transaction_id": 81573695
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Withdrawal",
+                    "amount": 9421.33,
+                    "transaction_id": 25333730
+                },
+                {
+                    "date": "2024-08-10",
+                    "description": "Withdrawal",
+                    "amount": 24319.1,
+                    "transaction_id": 53857374
+                }
+            ]
+        }
+    }
+}

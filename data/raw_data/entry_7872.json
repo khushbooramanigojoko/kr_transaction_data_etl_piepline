@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Derrick Bailey",
+        "age": 60,
+        "gender": "female",
+        "address": "PSC 2507, Box 4713, APO AP 81063",
+        "phone": "+1-361-856-6853",
+        "email": "smithzachary@example.com",
+        "account": {
+            "account_number": "9a23309e-2ec1-448f-b701-c569ccd5bb8a",
+            "balance": 27121.88,
+            "transactions": [
+                {
+                    "date": "2023-04-12",
+                    "description": "Withdrawal",
+                    "amount": 32568.87,
+                    "transaction_id": 105681716
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Interest",
+                    "amount": 22116.45,
+                    "transaction_id": 103914554
+                },
+                {
+                    "date": "2024-01-09",
+                    "description": "Deposit",
+                    "amount": 2169.38,
+                    "transaction_id": 79091915
+                }
+            ]
+        }
+    }
+}

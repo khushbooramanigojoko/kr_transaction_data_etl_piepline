@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Diana Smith",
+        "age": 46,
+        "gender": "female",
+        "address": "96924 Francisco Meadow, Christopherfurt, CT 08775",
+        "phone": "4646367641",
+        "email": "juananderson@example.org",
+        "account": {
+            "account_number": "389e2ee2-c7c5-4b1a-9d48-090945826537",
+            "balance": 29455.42,
+            "transactions": [
+                {
+                    "date": "2023-09-27",
+                    "description": "Withdrawal",
+                    "amount": 45733.87,
+                    "transaction_id": 59250538
+                },
+                {
+                    "date": "2022-11-22",
+                    "description": "Interest",
+                    "amount": 49543.53,
+                    "transaction_id": 43664921
+                },
+                {
+                    "date": "2023-02-25",
+                    "description": "Deposit",
+                    "amount": 30387.32,
+                    "transaction_id": 6026702
+                }
+            ]
+        }
+    }
+}

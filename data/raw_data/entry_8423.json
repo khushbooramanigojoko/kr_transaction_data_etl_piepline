@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Susan Pierce",
+        "age": 90,
+        "gender": "male",
+        "address": "5995 Cox Inlet Suite 566, Perezburgh, NJ 20677",
+        "phone": "8672930034",
+        "email": "michaelcalhoun@example.net",
+        "account": {
+            "account_number": "c9b38032-9f35-435c-af3f-935d9f4c8b3a",
+            "balance": 15388.79,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Deposit",
+                    "amount": 34970.96,
+                    "transaction_id": 10513685
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Deposit",
+                    "amount": 37076.8,
+                    "transaction_id": 93338065
+                }
+            ]
+        }
+    }
+}

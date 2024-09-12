@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Daniel Curtis",
+        "age": 79,
+        "gender": "male",
+        "address": "16819 Maldonado Drive, Amandashire, TX 22057",
+        "phone": "548-955-5910x98736",
+        "email": "ythomas@example.com",
+        "account": {
+            "account_number": "6bcf419c-7615-4609-9b88-58642f5faa28",
+            "balance": 37399.36,
+            "transactions": [
+                {
+                    "date": "2023-05-17",
+                    "description": "Interest",
+                    "amount": 316.76,
+                    "transaction_id": 24494843
+                },
+                {
+                    "date": "2024-05-07",
+                    "description": "Withdrawal",
+                    "amount": 44117.03,
+                    "transaction_id": 102455107
+                }
+            ]
+        }
+    }
+}

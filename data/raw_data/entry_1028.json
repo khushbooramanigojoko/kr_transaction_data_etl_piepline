@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kayla Torres",
+        "age": 49,
+        "gender": "male",
+        "address": "04676 Thomas Gateway Apt. 941, Crawfordshire, NV 82539",
+        "phone": "(573)348-3631x869",
+        "email": "tfrench@example.net",
+        "account": {
+            "account_number": "0d907ccb-000b-41df-a07a-b0e79dd28f18",
+            "balance": 34035.06,
+            "transactions": [
+                {
+                    "date": "2023-09-12",
+                    "description": "Interest",
+                    "amount": 13187.8,
+                    "transaction_id": 56690953
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Interest",
+                    "amount": 17979.08,
+                    "transaction_id": 22727833
+                }
+            ]
+        }
+    }
+}

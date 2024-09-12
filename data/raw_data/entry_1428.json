@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lisa Maxwell",
+        "age": 41,
+        "gender": "female",
+        "address": "7033 Misty Shoal, East Tiffanyfort, NV 64562",
+        "phone": "659.964.0801x953",
+        "email": "tammypayne@example.com",
+        "account": {
+            "account_number": "d37f8f27-f9cd-47ec-8d17-b80db4aafe25",
+            "balance": 12170.38,
+            "transactions": [
+                {
+                    "date": "2024-05-13",
+                    "description": "Interest",
+                    "amount": 19315.86,
+                    "transaction_id": 11666447
+                },
+                {
+                    "date": "2024-01-20",
+                    "description": "Deposit",
+                    "amount": 39810.03,
+                    "transaction_id": 31652537
+                }
+            ]
+        }
+    }
+}

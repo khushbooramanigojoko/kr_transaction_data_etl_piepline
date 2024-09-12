@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Wendy Williams",
+        "age": 41,
+        "gender": "female",
+        "address": "39100 David Mountain, Port Rodneyshire, PA 63163",
+        "phone": "(774)282-9975",
+        "email": "andrewsvalerie@example.com",
+        "account": {
+            "account_number": "d8178a57-87f0-4a3d-a946-dcb5f25b698a",
+            "balance": 16126.91,
+            "transactions": [
+                {
+                    "date": "2024-07-26",
+                    "description": "Deposit",
+                    "amount": 42356.54,
+                    "transaction_id": 10055411
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Withdrawal",
+                    "amount": 20530.24,
+                    "transaction_id": 68508211
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Interest",
+                    "amount": 39572.94,
+                    "transaction_id": 70376756
+                }
+            ]
+        }
+    }
+}

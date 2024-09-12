@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jessica Stanley",
+        "age": 21,
+        "gender": "female",
+        "address": "63296 Wheeler Land Suite 978, Andersonton, VT 99757",
+        "phone": "+1-656-644-8711",
+        "email": "cassandrabest@example.org",
+        "account": {
+            "account_number": "d81d1a92-92ba-4085-8b33-10214e61b122",
+            "balance": 27737.95,
+            "transactions": [
+                {
+                    "date": "2022-10-28",
+                    "description": "Withdrawal",
+                    "amount": 24290.05,
+                    "transaction_id": 39852349
+                },
+                {
+                    "date": "2023-04-22",
+                    "description": "Withdrawal",
+                    "amount": 29355.51,
+                    "transaction_id": 54996750
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Deposit",
+                    "amount": 1452.96,
+                    "transaction_id": 59184107
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Withdrawal",
+                    "amount": 20557.78,
+                    "transaction_id": 29371177
+                }
+            ]
+        }
+    }
+}

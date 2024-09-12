@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brandon Whitaker",
+        "age": 19,
+        "gender": "female",
+        "address": "2246 Norris Rue, Josephshire, TN 12398",
+        "phone": "519.412.8335x556",
+        "email": "laura16@example.org",
+        "account": {
+            "account_number": "3ee8a47b-d8c0-43c1-afca-4fd074624741",
+            "balance": 41583.61,
+            "transactions": [
+                {
+                    "date": "2023-10-11",
+                    "description": "Deposit",
+                    "amount": 5075.89,
+                    "transaction_id": 35312494
+                }
+            ]
+        }
+    }
+}

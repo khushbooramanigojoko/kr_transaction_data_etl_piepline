@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 97,
+        "gender": "female",
+        "address": "787 Gonzalez Camp Suite 726, Rodriguezchester, KY 64452",
+        "phone": "842.796.8479x9467",
+        "email": "craiggomez@example.org",
+        "account": {
+            "account_number": "7e886b84-f872-4465-af01-3a05c1ca3354",
+            "balance": 12437.18,
+            "transactions": [
+                {
+                    "date": "2022-12-01",
+                    "description": "Withdrawal",
+                    "amount": 148.43,
+                    "transaction_id": 30772927
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Withdrawal",
+                    "amount": 231.76,
+                    "transaction_id": 44927295
+                }
+            ]
+        }
+    }
+}

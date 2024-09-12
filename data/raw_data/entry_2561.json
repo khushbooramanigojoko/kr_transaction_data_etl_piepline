@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dr. William Schaefer Jr.",
+        "age": 23,
+        "gender": "female",
+        "address": "567 Anna Ford, Keithfort, SD 38238",
+        "phone": "001-612-927-1455x83145",
+        "email": "taylorfarley@example.net",
+        "account": {
+            "account_number": "852e2537-e321-49fc-99ad-24da4d8ad518",
+            "balance": 42266.78,
+            "transactions": [
+                {
+                    "date": "2023-12-02",
+                    "description": "Withdrawal",
+                    "amount": 41193.99,
+                    "transaction_id": 106745043
+                }
+            ]
+        }
+    }
+}

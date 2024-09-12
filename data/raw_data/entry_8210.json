@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Lisa Sanchez",
+        "age": 31,
+        "gender": "male",
+        "address": "0945 Isabel Greens, Hayeshaven, IL 01645",
+        "phone": "+1-516-973-9887x697",
+        "email": "wfrederick@example.net",
+        "account": {
+            "account_number": "9a293545-a921-42a4-91bd-4163c8ab2713",
+            "balance": 25200.72,
+            "transactions": [
+                {
+                    "date": "2023-07-27",
+                    "description": "Interest",
+                    "amount": 12214.32,
+                    "transaction_id": 4900579
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Interest",
+                    "amount": 14699.63,
+                    "transaction_id": 24671531
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Withdrawal",
+                    "amount": 34222.98,
+                    "transaction_id": 35425718
+                },
+                {
+                    "date": "2023-07-02",
+                    "description": "Withdrawal",
+                    "amount": 10899.32,
+                    "transaction_id": 42637134
+                }
+            ]
+        }
+    }
+}

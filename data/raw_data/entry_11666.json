@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 44,
+        "gender": "male",
+        "address": "155 Jones Station Suite 665, North Jacobburgh, VT 56011",
+        "phone": "+1-906-324-6642",
+        "email": "theresa91@example.net",
+        "account": {
+            "account_number": "8da42ca5-2531-4e5e-ab48-fa04d888f933",
+            "balance": 49582.03,
+            "transactions": [
+                {
+                    "date": "2024-06-06",
+                    "description": "Interest",
+                    "amount": -4531.47,
+                    "transaction_id": 50308431
+                },
+                {
+                    "date": "2024-02-02",
+                    "description": "Withdrawal",
+                    "amount": -3662.54,
+                    "transaction_id": 48380427
+                },
+                {
+                    "date": "2023-06-20",
+                    "description": "Withdrawal",
+                    "amount": -34.42,
+                    "transaction_id": 100731350
+                }
+            ]
+        }
+    }
+}

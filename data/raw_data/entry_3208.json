@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brian Brock",
+        "age": 52,
+        "gender": "female",
+        "address": "4059 Leon Rapid, Cunninghambury, WI 04351",
+        "phone": "+1-746-583-0072x1062",
+        "email": "millsjorge@example.com",
+        "account": {
+            "account_number": "ad90bbf8-6e4a-4e4c-bd1d-56d87cb97597",
+            "balance": 49364.96,
+            "transactions": [
+                {
+                    "date": "2023-06-28",
+                    "description": "Withdrawal",
+                    "amount": 30952.05,
+                    "transaction_id": 63187086
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Withdrawal",
+                    "amount": 43505.86,
+                    "transaction_id": 25343595
+                },
+                {
+                    "date": "2023-07-22",
+                    "description": "Withdrawal",
+                    "amount": 18248.8,
+                    "transaction_id": 100760177
+                },
+                {
+                    "date": "2024-03-10",
+                    "description": "Interest",
+                    "amount": 28543.61,
+                    "transaction_id": 52228865
+                },
+                {
+                    "date": "2023-09-17",
+                    "description": "Withdrawal",
+                    "amount": 7274.15,
+                    "transaction_id": 78073527
+                }
+            ]
+        }
+    }
+}

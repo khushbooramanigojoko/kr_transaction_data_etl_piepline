@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Judith Warren",
+        "age": 89,
+        "gender": "male",
+        "address": "100 Douglas Coves Suite 814, South Nicholasshire, GU 05971",
+        "phone": "(215)963-9576x044",
+        "email": "kleinaaron@example.net",
+        "account": {
+            "account_number": "139b7525-e39b-46e8-8405-2ce5a3634faf",
+            "balance": 10038.65,
+            "transactions": [
+                {
+                    "date": "2022-12-07",
+                    "description": "Deposit",
+                    "amount": 47775.67,
+                    "transaction_id": 114367184
+                }
+            ]
+        }
+    }
+}

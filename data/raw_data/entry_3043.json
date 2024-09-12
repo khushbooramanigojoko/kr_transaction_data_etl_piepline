@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kenneth Turner",
+        "age": 98,
+        "gender": "male",
+        "address": "78663 Washington Island, South Amanda, PW 37876",
+        "phone": "3672421502",
+        "email": "pjohnson@example.com",
+        "account": {
+            "account_number": "6aae20db-480e-4561-9bb6-b2d8a4422d08",
+            "balance": 17051.22,
+            "transactions": [
+                {
+                    "date": "2024-06-25",
+                    "description": "Interest",
+                    "amount": 9171.8,
+                    "transaction_id": 30991462
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Withdrawal",
+                    "amount": 13990.25,
+                    "transaction_id": 76865605
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Deposit",
+                    "amount": 48736.08,
+                    "transaction_id": 11207350
+                }
+            ]
+        }
+    }
+}

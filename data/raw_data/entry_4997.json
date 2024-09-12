@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mary Bowers",
+        "age": 39,
+        "gender": "female",
+        "address": "8837 Brooke Manors, Floresside, AS 46317",
+        "phone": "661.367.5765x99337",
+        "email": "angela04@example.org",
+        "account": {
+            "account_number": "8b3d7fd4-d3f8-4eba-99be-6e5d2784b970",
+            "balance": 37725.33,
+            "transactions": [
+                {
+                    "date": "2023-11-14",
+                    "description": "Interest",
+                    "amount": 18275.44,
+                    "transaction_id": 63531909
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Interest",
+                    "amount": 8585.35,
+                    "transaction_id": 100521962
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Interest",
+                    "amount": 17648.94,
+                    "transaction_id": 45928639
+                },
+                {
+                    "date": "2023-12-23",
+                    "description": "Withdrawal",
+                    "amount": 26102.36,
+                    "transaction_id": 47780288
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Interest",
+                    "amount": 19526.86,
+                    "transaction_id": 48998700
+                }
+            ]
+        }
+    }
+}

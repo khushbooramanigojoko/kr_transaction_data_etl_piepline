@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Nicholas Lewis",
+        "age": 34,
+        "gender": "male",
+        "address": "8822 Rollins Circles, Angelaland, NH 03750",
+        "phone": "470-600-8516",
+        "email": "farrellmisty@example.com",
+        "account": {
+            "account_number": "dc4f74a7-96c5-4fda-9e02-217be4783632",
+            "balance": 10980.22,
+            "transactions": [
+                {
+                    "date": "2023-02-10",
+                    "description": "Deposit",
+                    "amount": 12851.04,
+                    "transaction_id": 44825883
+                },
+                {
+                    "date": "2022-11-22",
+                    "description": "Deposit",
+                    "amount": 39599.87,
+                    "transaction_id": 28799708
+                }
+            ]
+        }
+    }
+}

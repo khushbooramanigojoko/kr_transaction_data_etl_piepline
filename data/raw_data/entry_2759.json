@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jamie Gonzalez",
+        "age": 35,
+        "gender": "male",
+        "address": "0165 Townsend Station Apt. 475, Romanland, OH 43969",
+        "phone": "+1-833-276-3255",
+        "email": "harrisonconnor@example.com",
+        "account": {
+            "account_number": "fe8e5caf-6da4-48a7-b1df-19780d690242",
+            "balance": 43382.04,
+            "transactions": [
+                {
+                    "date": "2024-02-22",
+                    "description": "Withdrawal",
+                    "amount": 10918.79,
+                    "transaction_id": 7915856
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Deposit",
+                    "amount": 6709.88,
+                    "transaction_id": 12024726
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Deposit",
+                    "amount": 38897.87,
+                    "transaction_id": 18903990
+                }
+            ]
+        }
+    }
+}

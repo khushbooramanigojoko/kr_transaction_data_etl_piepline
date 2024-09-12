@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 70,
+        "gender": "male",
+        "address": "75350 Alexa Shores Suite 213, North Chadstad, DC 52109",
+        "phone": "(858)507-0623x855",
+        "email": "harveycalvin@example.net",
+        "account": {
+            "account_number": "2599651a-67b0-453c-9263-7e49e998c4a8",
+            "balance": 11835.89,
+            "transactions": [
+                {
+                    "date": "2023-02-15",
+                    "description": "Deposit",
+                    "amount": -4660.99,
+                    "transaction_id": 38721756
+                },
+                {
+                    "date": "2024-04-21",
+                    "description": "Interest",
+                    "amount": -690.88,
+                    "transaction_id": 1017750
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Withdrawal",
+                    "amount": 3987.25,
+                    "transaction_id": 35518948
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Withdrawal",
+                    "amount": 1898.7,
+                    "transaction_id": 14742126
+                }
+            ]
+        }
+    }
+}

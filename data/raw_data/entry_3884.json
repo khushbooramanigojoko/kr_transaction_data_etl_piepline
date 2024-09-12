@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kaitlyn Sutton",
+        "age": 75,
+        "gender": "male",
+        "address": "924 Johnson Vista Apt. 697, Palmerburgh, UT 15613",
+        "phone": "765-882-6927",
+        "email": "vrodriguez@example.net",
+        "account": {
+            "account_number": "0a81598e-ec7c-4143-8a6b-0eb6c497f9cb",
+            "balance": 42291.33,
+            "transactions": [
+                {
+                    "date": "2024-08-12",
+                    "description": "Withdrawal",
+                    "amount": 49845.08,
+                    "transaction_id": 91261023
+                },
+                {
+                    "date": "2023-02-08",
+                    "description": "Interest",
+                    "amount": 24639.07,
+                    "transaction_id": 12231295
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Withdrawal",
+                    "amount": 24182.86,
+                    "transaction_id": 45668975
+                },
+                {
+                    "date": "2023-05-16",
+                    "description": "Withdrawal",
+                    "amount": 29039.86,
+                    "transaction_id": 20844259
+                }
+            ]
+        }
+    }
+}

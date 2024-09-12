@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Robert Craig",
+        "age": 66,
+        "gender": "female",
+        "address": "854 Ramirez Ports Apt. 233, Patrickland, KS 06707",
+        "phone": "926.947.4341x51290",
+        "email": "obrienthomas@example.com",
+        "account": {
+            "account_number": "bddff999-c998-4193-b6a5-a927f5fd2a47",
+            "balance": 32596.11,
+            "transactions": [
+                {
+                    "date": "2022-09-15",
+                    "description": "Withdrawal",
+                    "amount": 43388.59,
+                    "transaction_id": 119129994
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Interest",
+                    "amount": 12029.78,
+                    "transaction_id": 66411212
+                },
+                {
+                    "date": "2024-01-27",
+                    "description": "Withdrawal",
+                    "amount": 46968.39,
+                    "transaction_id": 112642435
+                },
+                {
+                    "date": "2023-12-12",
+                    "description": "Withdrawal",
+                    "amount": 6375.33,
+                    "transaction_id": 10460609
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Deposit",
+                    "amount": 44898.41,
+                    "transaction_id": 117974293
+                }
+            ]
+        }
+    }
+}

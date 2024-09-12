@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 70,
+        "gender": "female",
+        "address": "5503 Page Stravenue, North Rebeccaport, MN 46519",
+        "phone": "619-291-0964",
+        "email": "jenniferwiggins@example.com",
+        "account": {
+            "account_number": "757f5f8b-8303-494f-8570-9ed960d1f1bd",
+            "balance": 15400.6,
+            "transactions": [
+                {
+                    "date": "2022-09-03",
+                    "description": "Withdrawal",
+                    "amount": -2927.09,
+                    "transaction_id": 39617488
+                },
+                {
+                    "date": "2023-05-07",
+                    "description": "Deposit",
+                    "amount": -3121.17,
+                    "transaction_id": 79039327
+                },
+                {
+                    "date": "2023-06-02",
+                    "description": "Interest",
+                    "amount": 4386.82,
+                    "transaction_id": 38514387
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Deposit",
+                    "amount": -1750.76,
+                    "transaction_id": 98716802
+                }
+            ]
+        }
+    }
+}

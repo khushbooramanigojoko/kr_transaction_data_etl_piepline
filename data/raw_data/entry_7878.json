@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Cynthia Jones",
+        "age": 82,
+        "gender": "female",
+        "address": "1494 Amanda Plains Suite 309, Lake Justin, AS 60753",
+        "phone": "+1-627-938-9701x43720",
+        "email": "whitneyjessica@example.org",
+        "account": {
+            "account_number": "b5dc8d87-6613-46f1-ae27-bf6481f7cc56",
+            "balance": 22739.3,
+            "transactions": [
+                {
+                    "date": "2024-03-03",
+                    "description": "Withdrawal",
+                    "amount": 13951.77,
+                    "transaction_id": 8816833
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Interest",
+                    "amount": 19904.39,
+                    "transaction_id": 60647058
+                },
+                {
+                    "date": "2023-04-12",
+                    "description": "Deposit",
+                    "amount": 30166.1,
+                    "transaction_id": 95969254
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Withdrawal",
+                    "amount": 37709.83,
+                    "transaction_id": 67427945
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tiffany Montes",
+        "age": 30,
+        "gender": "female",
+        "address": "19773 Kevin Trail, New Nancyport, AR 75267",
+        "phone": "(448)279-8192x3490",
+        "email": "donna71@example.net",
+        "account": {
+            "account_number": "a073d129-d677-49d6-844e-8c7ca889f2f2",
+            "balance": 42834.28,
+            "transactions": [
+                {
+                    "date": "2024-08-22",
+                    "description": "Deposit",
+                    "amount": 18655.21,
+                    "transaction_id": 47561203
+                }
+            ]
+        }
+    }
+}

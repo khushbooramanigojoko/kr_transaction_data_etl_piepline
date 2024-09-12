@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Samantha Fuller",
+        "age": 33,
+        "gender": "male",
+        "address": "3526 Robert Trail, North Andrew, PW 77739",
+        "phone": "9539347629",
+        "email": "shawn24@example.net",
+        "account": {
+            "account_number": "d93cb028-537f-44b9-a669-b65b8a15f22f",
+            "balance": 14395.1,
+            "transactions": [
+                {
+                    "date": "2023-04-26",
+                    "description": "Interest",
+                    "amount": 11649.19,
+                    "transaction_id": 25479678
+                },
+                {
+                    "date": "2024-06-13",
+                    "description": "Withdrawal",
+                    "amount": 30381.51,
+                    "transaction_id": 60245350
+                }
+            ]
+        }
+    }
+}

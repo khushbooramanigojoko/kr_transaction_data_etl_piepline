@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 42,
+        "gender": "male",
+        "address": "750 Fox Corner, Port Alextown, UT 26826",
+        "phone": "+1-218-200-5336x6657",
+        "email": "alex51@example.org",
+        "account": {
+            "account_number": "24f497b0-8b25-4395-85a5-c50785faf941",
+            "balance": 3124.28,
+            "transactions": [
+                {
+                    "date": "2023-05-06",
+                    "description": "Interest",
+                    "amount": 3611.26,
+                    "transaction_id": 91396423
+                },
+                {
+                    "date": "2023-06-04",
+                    "description": "Deposit",
+                    "amount": -789.62,
+                    "transaction_id": 96246699
+                },
+                {
+                    "date": "2023-01-05",
+                    "description": "Interest",
+                    "amount": 2129.41,
+                    "transaction_id": 48964499
+                }
+            ]
+        }
+    }
+}

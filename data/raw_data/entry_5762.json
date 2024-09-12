@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michael Howard MD",
+        "age": 68,
+        "gender": "male",
+        "address": "9415 Ian Way Suite 377, Kylechester, NC 11076",
+        "phone": "(764)986-2194x2733",
+        "email": "martinezmadeline@example.com",
+        "account": {
+            "account_number": "7f89139a-81cc-4161-a2ab-69a811aa553d",
+            "balance": 41747.45,
+            "transactions": [
+                {
+                    "date": "2024-07-10",
+                    "description": "Interest",
+                    "amount": 3686.64,
+                    "transaction_id": 20257958
+                }
+            ]
+        }
+    }
+}

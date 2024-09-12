@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 37,
+        "gender": "female",
+        "address": "205 Fry Land Suite 524, Rileyfurt, FL 24266",
+        "phone": "6037827259",
+        "email": "michaeljones@example.org",
+        "account": {
+            "account_number": "f7ec1b0b-12e8-4b18-ab68-aaea01df1c74",
+            "balance": 17426.24,
+            "transactions": [
+                {
+                    "date": "2023-03-11",
+                    "description": "Interest",
+                    "amount": -570.3,
+                    "transaction_id": 92421654
+                },
+                {
+                    "date": "2024-03-11",
+                    "description": "Withdrawal",
+                    "amount": -1209.01,
+                    "transaction_id": 88425412
+                }
+            ]
+        }
+    }
+}

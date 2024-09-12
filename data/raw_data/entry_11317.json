@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 87,
+        "gender": "female",
+        "address": "948 Cindy Plaza Apt. 796, Newtonberg, RI 43180",
+        "phone": "001-280-601-3862x305",
+        "email": "bbryant@example.net",
+        "account": {
+            "account_number": "0ed7efda-b9e6-4348-8363-8001a6c96284",
+            "balance": 35483.72,
+            "transactions": [
+                {
+                    "date": "2022-09-14",
+                    "description": "Deposit",
+                    "amount": 785.4,
+                    "transaction_id": 58561202
+                }
+            ]
+        }
+    }
+}

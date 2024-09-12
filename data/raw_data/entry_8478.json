@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Matthew Noble",
+        "age": 93,
+        "gender": "female",
+        "address": "720 Jordan Underpass, East Tonyfurt, ID 46780",
+        "phone": "887.431.9957",
+        "email": "elizabeth58@example.net",
+        "account": {
+            "account_number": "4da96ca7-4060-4999-8226-311cdc6eba6b",
+            "balance": 49302.6,
+            "transactions": [
+                {
+                    "date": "2024-02-22",
+                    "description": "Deposit",
+                    "amount": 6638.15,
+                    "transaction_id": 21683266
+                }
+            ]
+        }
+    }
+}

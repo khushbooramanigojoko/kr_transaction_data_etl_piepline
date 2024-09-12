@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mckenzie Silva",
+        "age": 84,
+        "gender": "female",
+        "address": "97016 Shawn Loaf Apt. 891, Butlerhaven, NC 13282",
+        "phone": "588.707.5491x358",
+        "email": "robertsonann@example.net",
+        "account": {
+            "account_number": "efe86f97-2291-49ae-9dcc-94fc82c5d06d",
+            "balance": 16739.73,
+            "transactions": [
+                {
+                    "date": "2023-03-15",
+                    "description": "Withdrawal",
+                    "amount": 45416.18,
+                    "transaction_id": 111478657
+                }
+            ]
+        }
+    }
+}

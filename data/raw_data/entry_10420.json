@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Teresa Anderson",
+        "age": 67,
+        "gender": "female",
+        "address": "9710 Johnson Skyway Suite 489, Jenkinsshire, UT 11501",
+        "phone": "8433640092",
+        "email": "zbell@example.net",
+        "account": {
+            "account_number": "03a84572-d914-4ad3-a8a6-833a6c58ead6",
+            "balance": -19149.79,
+            "transactions": [
+                {
+                    "date": "2024-06-05",
+                    "description": "Deposit",
+                    "amount": -1128.44,
+                    "transaction_id": 40216301
+                },
+                {
+                    "date": "2024-08-21",
+                    "description": "Withdrawal",
+                    "amount": -3495.29,
+                    "transaction_id": 6801759
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Interest",
+                    "amount": 554.02,
+                    "transaction_id": 48571630
+                },
+                {
+                    "date": "2024-04-22",
+                    "description": "Interest",
+                    "amount": -2147.86,
+                    "transaction_id": 15724238
+                }
+            ]
+        }
+    }
+}

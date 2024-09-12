@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jamie Duran",
+        "age": 21,
+        "gender": "female",
+        "address": "58526 Jackson Fords, West Connie, UT 84938",
+        "phone": "3172355388",
+        "email": "gomezscott@example.org",
+        "account": {
+            "account_number": "2e8fe9b4-8924-419b-bf0e-8588ef0843cd",
+            "balance": 45564.27,
+            "transactions": [
+                {
+                    "date": "2023-02-01",
+                    "description": "Withdrawal",
+                    "amount": 19371.56,
+                    "transaction_id": 4833796
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Deposit",
+                    "amount": 1969.72,
+                    "transaction_id": 51610940
+                }
+            ]
+        }
+    }
+}

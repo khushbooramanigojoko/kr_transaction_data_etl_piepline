@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Julia Gonzalez",
+        "age": 72,
+        "gender": "female",
+        "address": "2468 Lewis Stream Suite 073, Ramirezshire, WV 85409",
+        "phone": "(965)339-0066x65343",
+        "email": "swoods@example.com",
+        "account": {
+            "account_number": "d88143f6-1bb0-48e4-a87d-a9eda549df0e",
+            "balance": 47680.84,
+            "transactions": [
+                {
+                    "date": "2023-12-15",
+                    "description": "Interest",
+                    "amount": 1788.85,
+                    "transaction_id": 22616093
+                },
+                {
+                    "date": "2024-08-12",
+                    "description": "Interest",
+                    "amount": 2738.95,
+                    "transaction_id": 7794020
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Breanna Zamora",
+        "age": 18,
+        "gender": "female",
+        "address": "83945 Gray River, Sherrytown, MI 36267",
+        "phone": "(539)263-6646",
+        "email": "kanderson@example.net",
+        "account": {
+            "account_number": "131829ea-dae9-4d41-8222-4d65f8c38a2e",
+            "balance": 7024.65,
+            "transactions": [
+                {
+                    "date": "2023-05-21",
+                    "description": "Interest",
+                    "amount": 20036.41,
+                    "transaction_id": 78371084
+                },
+                {
+                    "date": "2023-09-30",
+                    "description": "Interest",
+                    "amount": 30742.73,
+                    "transaction_id": 101502236
+                }
+            ]
+        }
+    }
+}

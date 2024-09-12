@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 98,
+        "gender": "male",
+        "address": "PSC 9885, Box 1000, APO AP 64907",
+        "phone": "001-893-860-7325x228",
+        "email": "eric86@example.org",
+        "account": {
+            "account_number": "daa263f2-3b7f-46b1-a174-f2ada2a292f6",
+            "balance": 31708.96,
+            "transactions": [
+                {
+                    "date": "2024-01-10",
+                    "description": "Withdrawal",
+                    "amount": 3798.67,
+                    "transaction_id": 116270933
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Deposit",
+                    "amount": -3060.47,
+                    "transaction_id": 17484055
+                }
+            ]
+        }
+    }
+}

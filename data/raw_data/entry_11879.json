@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Benjamin Lozano",
+        "age": 59,
+        "gender": "female",
+        "address": "7777 Briana Meadows Apt. 569, Garrisonside, OH 97056",
+        "phone": "5187396606",
+        "email": "charles75@example.com",
+        "account": {
+            "account_number": "2e259261-2937-40db-afa2-e64b8d4376b9",
+            "balance": -773.62,
+            "transactions": [
+                {
+                    "date": "2024-04-20",
+                    "description": "Withdrawal",
+                    "amount": -1624.75,
+                    "transaction_id": 106252812
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Withdrawal",
+                    "amount": -823.11,
+                    "transaction_id": 11376592
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Withdrawal",
+                    "amount": -4718.39,
+                    "transaction_id": 89107526
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Deposit",
+                    "amount": 460.93,
+                    "transaction_id": 29237562
+                }
+            ]
+        }
+    }
+}

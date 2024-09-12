@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "John Price",
+        "age": 67,
+        "gender": "male",
+        "address": "62463 Jennifer Manor Suite 310, Lake Johnmouth, MH 10000",
+        "phone": "741.415.9284",
+        "email": "randy08@example.org",
+        "account": {
+            "account_number": "099957a4-5bf2-46f9-be91-3410a4a5c125",
+            "balance": 27163.75,
+            "transactions": [
+                {
+                    "date": "2022-10-15",
+                    "description": "Deposit",
+                    "amount": 44265.8,
+                    "transaction_id": 80141180
+                }
+            ]
+        }
+    }
+}

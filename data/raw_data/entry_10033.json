@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jason Richardson",
+        "age": 37,
+        "gender": "female",
+        "address": "98033 Amanda Curve Apt. 229, West Thomasmouth, IN 71190",
+        "phone": "001-403-544-3127",
+        "email": "jason44@example.net",
+        "account": {
+            "account_number": "00917329-77d3-484f-9157-c481c0c0d1ad",
+            "balance": -28505.41,
+            "transactions": [
+                {
+                    "date": "2024-01-09",
+                    "description": "Interest",
+                    "amount": -4967.5,
+                    "transaction_id": 46758288
+                },
+                {
+                    "date": "2024-03-12",
+                    "description": "Interest",
+                    "amount": 2614.16,
+                    "transaction_id": 26397109
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Interest",
+                    "amount": -1016.15,
+                    "transaction_id": 80656805
+                },
+                {
+                    "date": "2023-09-20",
+                    "description": "Deposit",
+                    "amount": -2652.49,
+                    "transaction_id": 40147483
+                }
+            ]
+        }
+    }
+}

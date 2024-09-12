@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mrs. Kimberly Fernandez",
+        "age": 46,
+        "gender": "male",
+        "address": "40565 Ryan Loaf, South Jodi, WV 36257",
+        "phone": "(442)741-5351x06468",
+        "email": "trevorcampbell@example.com",
+        "account": {
+            "account_number": "4ce6db11-863c-4167-b765-2c379e792a50",
+            "balance": -48507.35,
+            "transactions": [
+                {
+                    "date": "2023-05-17",
+                    "description": "Deposit",
+                    "amount": 4981.62,
+                    "transaction_id": 18084287
+                },
+                {
+                    "date": "2023-09-05",
+                    "description": "Interest",
+                    "amount": -2823.15,
+                    "transaction_id": 76939157
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Deposit",
+                    "amount": 4764.92,
+                    "transaction_id": 102381584
+                },
+                {
+                    "date": "2023-07-04",
+                    "description": "Deposit",
+                    "amount": 4351.72,
+                    "transaction_id": 110704162
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Deposit",
+                    "amount": 4799.56,
+                    "transaction_id": 88156286
+                }
+            ]
+        }
+    }
+}

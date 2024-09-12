@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Eric Charles",
+        "age": 53,
+        "gender": "male",
+        "address": "266 Michael Drive, Port Desireestad, MA 86213",
+        "phone": "6115582209",
+        "email": "melissa80@example.com",
+        "account": {
+            "account_number": "40de9ab6-a674-49f4-9d2e-463d8d51776a",
+            "balance": -10249.92,
+            "transactions": [
+                {
+                    "date": "2024-07-11",
+                    "description": "Interest",
+                    "amount": -1671.97,
+                    "transaction_id": 106133572
+                },
+                {
+                    "date": "2023-02-01",
+                    "description": "Interest",
+                    "amount": 1009.1,
+                    "transaction_id": 84301439
+                },
+                {
+                    "date": "2024-06-15",
+                    "description": "Deposit",
+                    "amount": -1274.7,
+                    "transaction_id": 43158907
+                }
+            ]
+        }
+    }
+}

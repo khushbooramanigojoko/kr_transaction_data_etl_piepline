@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 83,
+        "gender": "female",
+        "address": "USNV Martin, FPO AA 32488",
+        "phone": "(666)734-3195x046",
+        "email": "watsondavid@example.net",
+        "account": {
+            "account_number": "1ac77882-e38a-4c8e-b277-60ad0e9931bb",
+            "balance": 26932.55,
+            "transactions": [
+                {
+                    "date": "2024-03-01",
+                    "description": "Deposit",
+                    "amount": -2520.25,
+                    "transaction_id": 27234025
+                },
+                {
+                    "date": "2024-08-08",
+                    "description": "Deposit",
+                    "amount": -2250.92,
+                    "transaction_id": 115840763
+                },
+                {
+                    "date": "2022-11-10",
+                    "description": "Interest",
+                    "amount": 1363.77,
+                    "transaction_id": 119212142
+                },
+                {
+                    "date": "2023-03-04",
+                    "description": "Deposit",
+                    "amount": -4975.48,
+                    "transaction_id": 94038223
+                },
+                {
+                    "date": "2024-02-14",
+                    "description": "Deposit",
+                    "amount": -3978.03,
+                    "transaction_id": 20593287
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brandon Moreno",
+        "age": 43,
+        "gender": "male",
+        "address": "18502 Nicole Land Apt. 334, Zacharyhaven, SC 89362",
+        "phone": "+1-778-983-6191x1457",
+        "email": "stephen03@example.net",
+        "account": {
+            "account_number": "5c21fc25-3e56-4ea1-9930-cc4e527a0a7f",
+            "balance": 25078.52,
+            "transactions": [
+                {
+                    "date": "2024-04-08",
+                    "description": "Withdrawal",
+                    "amount": 22987.5,
+                    "transaction_id": 80404043
+                }
+            ]
+        }
+    }
+}

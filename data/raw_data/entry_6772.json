@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "James Watson",
+        "age": 75,
+        "gender": "female",
+        "address": "8637 Rivera Trail Apt. 384, Rowefort, GA 64409",
+        "phone": "+1-237-848-7121x9172",
+        "email": "jacksonderrick@example.net",
+        "account": {
+            "account_number": "a83836e6-c4a7-4f58-9d90-6b0f7242a37c",
+            "balance": 10182.27,
+            "transactions": [
+                {
+                    "date": "2024-01-14",
+                    "description": "Withdrawal",
+                    "amount": 36651.85,
+                    "transaction_id": 87432129
+                }
+            ]
+        }
+    }
+}

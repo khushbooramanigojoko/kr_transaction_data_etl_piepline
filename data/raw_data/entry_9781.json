@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Danielle Casey",
+        "age": 32,
+        "gender": "female",
+        "address": "Unit 2974 Box 6932, DPO AE 39853",
+        "phone": "001-335-424-9645x0582",
+        "email": "timothy81@example.com",
+        "account": {
+            "account_number": "9d23fb61-e817-49d4-b87c-b94c69bf5144",
+            "balance": -35596.53,
+            "transactions": [
+                {
+                    "date": "2022-10-02",
+                    "description": "Withdrawal",
+                    "amount": 3808.15,
+                    "transaction_id": 36146815
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Withdrawal",
+                    "amount": -1645.18,
+                    "transaction_id": 68714898
+                }
+            ]
+        }
+    }
+}

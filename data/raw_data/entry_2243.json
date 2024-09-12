@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Devin Moore",
+        "age": 68,
+        "gender": "female",
+        "address": "693 Jones Corner Suite 942, West Allisontown, TX 49451",
+        "phone": "961.201.2439",
+        "email": "donnathomas@example.net",
+        "account": {
+            "account_number": "8e10e876-686f-4384-9455-3aac0dc1ca1c",
+            "balance": 7207.84,
+            "transactions": [
+                {
+                    "date": "2024-02-21",
+                    "description": "Withdrawal",
+                    "amount": 12603.78,
+                    "transaction_id": 1822323
+                }
+            ]
+        }
+    }
+}

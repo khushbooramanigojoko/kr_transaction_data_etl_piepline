@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 29,
+        "gender": "male",
+        "address": "65067 Sheila Lake Apt. 568, Port Jacobside, TN 82638",
+        "phone": "5352319920",
+        "email": "swilliams@example.net",
+        "account": {
+            "account_number": "629d00c3-2a5b-4202-ab41-906ef8466ff6",
+            "balance": 19579.0,
+            "transactions": [
+                {
+                    "date": "2024-01-04",
+                    "description": "Interest",
+                    "amount": -3357.19,
+                    "transaction_id": 86417545
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Withdrawal",
+                    "amount": -3137.84,
+                    "transaction_id": 38213668
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Deposit",
+                    "amount": -1954.17,
+                    "transaction_id": 62170317
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Withdrawal",
+                    "amount": -2396.99,
+                    "transaction_id": 36471787
+                },
+                {
+                    "date": "2023-04-11",
+                    "description": "Interest",
+                    "amount": 4673.14,
+                    "transaction_id": 33796602
+                }
+            ]
+        }
+    }
+}

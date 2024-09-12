@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 34,
+        "gender": "female",
+        "address": "93297 Gonzalez Causeway, Juliebury, CA 10825",
+        "phone": "(644)504-2701",
+        "email": "williamsalejandra@example.com",
+        "account": {
+            "account_number": "550008eb-194f-47ff-afdb-b908d75407ad",
+            "balance": 38754.39,
+            "transactions": [
+                {
+                    "date": "2024-01-19",
+                    "description": "Deposit",
+                    "amount": 492.7,
+                    "transaction_id": 26668371
+                },
+                {
+                    "date": "2024-07-02",
+                    "description": "Deposit",
+                    "amount": 4523.46,
+                    "transaction_id": 36706455
+                }
+            ]
+        }
+    }
+}

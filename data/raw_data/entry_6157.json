@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michael Weber",
+        "age": 53,
+        "gender": "female",
+        "address": "9662 Jessica Streets Apt. 170, Port Brianborough, AR 38885",
+        "phone": "+1-287-289-7402",
+        "email": "amber14@example.org",
+        "account": {
+            "account_number": "16a314d2-84b6-4571-9e6a-cf9b22672796",
+            "balance": 10807.09,
+            "transactions": [
+                {
+                    "date": "2022-12-06",
+                    "description": "Interest",
+                    "amount": 32957.39,
+                    "transaction_id": 92252815
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Susan Perry",
+        "age": 86,
+        "gender": "female",
+        "address": "151 Harris Underpass, Davishaven, NJ 14511",
+        "phone": "001-307-662-2649x667",
+        "email": "lisahernandez@example.org",
+        "account": {
+            "account_number": "a393b0d5-c2eb-4fc7-9ead-c01baa061b53",
+            "balance": 36132.75,
+            "transactions": [
+                {
+                    "date": "2023-01-09",
+                    "description": "Interest",
+                    "amount": 6517.37,
+                    "transaction_id": 69824239
+                }
+            ]
+        }
+    }
+}

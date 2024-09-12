@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Shawn Williamson",
+        "age": 73,
+        "gender": "male",
+        "address": "96357 Amy Greens, East Rachel, OR 87349",
+        "phone": "340.627.2233x4320",
+        "email": "rachelchambers@example.org",
+        "account": {
+            "account_number": "4b139eaa-ee45-4afe-94b7-6ab55605e92c",
+            "balance": 18710.67,
+            "transactions": [
+                {
+                    "date": "2023-10-18",
+                    "description": "Deposit",
+                    "amount": 2993.33,
+                    "transaction_id": 48411878
+                },
+                {
+                    "date": "2023-11-05",
+                    "description": "Deposit",
+                    "amount": 21559.18,
+                    "transaction_id": 50876631
+                },
+                {
+                    "date": "2024-04-23",
+                    "description": "Interest",
+                    "amount": 6835.75,
+                    "transaction_id": 63434018
+                },
+                {
+                    "date": "2024-06-02",
+                    "description": "Interest",
+                    "amount": 9298.34,
+                    "transaction_id": 89917016
+                }
+            ]
+        }
+    }
+}

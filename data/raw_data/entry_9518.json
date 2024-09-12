@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 36,
+        "gender": "male",
+        "address": "USCGC Maxwell, FPO AE 04867",
+        "phone": "+1-253-582-1051x3701",
+        "email": "carsoncollin@example.com",
+        "account": {
+            "account_number": "0cd48a4e-e42e-48ec-bf9c-22100448c49a",
+            "balance": 46851.07,
+            "transactions": [
+                {
+                    "date": "2024-04-08",
+                    "description": "Interest",
+                    "amount": -2154.59,
+                    "transaction_id": 72611519
+                }
+            ]
+        }
+    }
+}

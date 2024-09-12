@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sara Day",
+        "age": 56,
+        "gender": "female",
+        "address": "47896 Marcia Village Suite 080, Nobleton, DC 20626",
+        "phone": "001-319-760-3871",
+        "email": "steven11@example.com",
+        "account": {
+            "account_number": "d2784f90-54dd-4a5f-8749-6e85ed125c33",
+            "balance": 23339.89,
+            "transactions": [
+                {
+                    "date": "2023-01-04",
+                    "description": "Deposit",
+                    "amount": 24034.31,
+                    "transaction_id": 24827511
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Withdrawal",
+                    "amount": 46413.23,
+                    "transaction_id": 55704772
+                },
+                {
+                    "date": "2024-02-11",
+                    "description": "Interest",
+                    "amount": 48635.06,
+                    "transaction_id": 67595934
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Withdrawal",
+                    "amount": 13028.29,
+                    "transaction_id": 101583734
+                }
+            ]
+        }
+    }
+}

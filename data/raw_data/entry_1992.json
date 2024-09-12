@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Julie Phillips",
+        "age": 78,
+        "gender": "male",
+        "address": "2986 Andrew Cliff, South Candace, TN 08657",
+        "phone": "+1-935-579-8004",
+        "email": "ipratt@example.org",
+        "account": {
+            "account_number": "96d44a04-5809-4f2a-b7b8-7ff51b06a309",
+            "balance": 9488.29,
+            "transactions": [
+                {
+                    "date": "2023-02-17",
+                    "description": "Interest",
+                    "amount": 37525.6,
+                    "transaction_id": 118795585
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Interest",
+                    "amount": 1706.42,
+                    "transaction_id": 115025371
+                },
+                {
+                    "date": "2024-06-11",
+                    "description": "Deposit",
+                    "amount": 30933.38,
+                    "transaction_id": 95034666
+                }
+            ]
+        }
+    }
+}

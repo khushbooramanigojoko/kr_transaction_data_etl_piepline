@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Steven Villanueva",
+        "age": 51,
+        "gender": "female",
+        "address": "9494 Joseph Flat, Miguelfurt, WV 45144",
+        "phone": "+1-723-675-6199",
+        "email": "brianmcconnell@example.net",
+        "account": {
+            "account_number": "3b25bc25-3312-48d3-a12c-12bce97cea96",
+            "balance": 39312.88,
+            "transactions": [
+                {
+                    "date": "2022-10-20",
+                    "description": "Deposit",
+                    "amount": 26205.86,
+                    "transaction_id": 3111203
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Withdrawal",
+                    "amount": 37833.85,
+                    "transaction_id": 21253174
+                },
+                {
+                    "date": "2022-12-10",
+                    "description": "Deposit",
+                    "amount": 22604.08,
+                    "transaction_id": 12723981
+                }
+            ]
+        }
+    }
+}

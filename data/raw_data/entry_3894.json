@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Christopher Riley",
+        "age": 60,
+        "gender": "male",
+        "address": "2388 Tracy Avenue, Millerland, PA 88193",
+        "phone": "(915)952-9456x9378",
+        "email": "michael38@example.com",
+        "account": {
+            "account_number": "f98bc13c-d393-48a5-a747-5746403be75e",
+            "balance": 27781.25,
+            "transactions": [
+                {
+                    "date": "2024-05-16",
+                    "description": "Interest",
+                    "amount": 13029.9,
+                    "transaction_id": 114265652
+                },
+                {
+                    "date": "2022-12-14",
+                    "description": "Deposit",
+                    "amount": 39981.69,
+                    "transaction_id": 38322320
+                },
+                {
+                    "date": "2023-06-10",
+                    "description": "Withdrawal",
+                    "amount": 30952.67,
+                    "transaction_id": 19963146
+                }
+            ]
+        }
+    }
+}

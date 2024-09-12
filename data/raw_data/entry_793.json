@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Patrick Jordan",
+        "age": 41,
+        "gender": "male",
+        "address": "8106 Yvette Station Apt. 112, Port Coltonmouth, AR 65870",
+        "phone": "(592)860-5536x69542",
+        "email": "sabrinabailey@example.net",
+        "account": {
+            "account_number": "b8c9a0a5-aae9-4c32-ab1a-518dd6f8d7b1",
+            "balance": 3884.25,
+            "transactions": [
+                {
+                    "date": "2023-04-28",
+                    "description": "Deposit",
+                    "amount": 39280.72,
+                    "transaction_id": 19106805
+                },
+                {
+                    "date": "2024-03-23",
+                    "description": "Interest",
+                    "amount": 7080.0,
+                    "transaction_id": 110852508
+                },
+                {
+                    "date": "2024-09-01",
+                    "description": "Deposit",
+                    "amount": 17148.04,
+                    "transaction_id": 40202805
+                }
+            ]
+        }
+    }
+}

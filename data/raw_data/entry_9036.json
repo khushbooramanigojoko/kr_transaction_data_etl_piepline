@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Richard Johnson",
+        "age": 56,
+        "gender": "male",
+        "address": "291 Jacqueline Shores Suite 321, East Francisville, CA 08715",
+        "phone": "(992)254-8686x0444",
+        "email": "kingchristopher@example.com",
+        "account": {
+            "account_number": "5378bf83-55d8-4770-a2cc-a8ac9a33c950",
+            "balance": -45999.68,
+            "transactions": [
+                {
+                    "date": "2023-10-15",
+                    "description": "Withdrawal",
+                    "amount": 1504.87,
+                    "transaction_id": 35176356
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Interest",
+                    "amount": 1314.49,
+                    "transaction_id": 10877077
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Deposit",
+                    "amount": -4977.27,
+                    "transaction_id": 100911161
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Interest",
+                    "amount": -4246.45,
+                    "transaction_id": 52672440
+                }
+            ]
+        }
+    }
+}

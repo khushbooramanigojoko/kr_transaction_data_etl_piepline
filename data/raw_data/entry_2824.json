@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "James Patterson",
+        "age": 92,
+        "gender": "female",
+        "address": "1359 Clark Square Suite 740, West Kennethtown, NV 39422",
+        "phone": "963-683-1417x4824",
+        "email": "newtonmark@example.net",
+        "account": {
+            "account_number": "44783ec9-d3ed-4499-91ba-07172725334a",
+            "balance": 28579.5,
+            "transactions": [
+                {
+                    "date": "2023-05-12",
+                    "description": "Interest",
+                    "amount": 9118.95,
+                    "transaction_id": 57301307
+                }
+            ]
+        }
+    }
+}

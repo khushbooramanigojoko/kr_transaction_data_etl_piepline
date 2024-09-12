@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sarah Maxwell",
+        "age": 69,
+        "gender": "male",
+        "address": "PSC 7609, Box 4824, APO AE 56913",
+        "phone": "001-655-857-5954",
+        "email": "contreraspaula@example.net",
+        "account": {
+            "account_number": "8eef7b1f-2a53-4246-b5c0-0c62d09be9e0",
+            "balance": -21298.94,
+            "transactions": [
+                {
+                    "date": "2024-05-07",
+                    "description": "Deposit",
+                    "amount": -89.75,
+                    "transaction_id": 117290099
+                },
+                {
+                    "date": "2023-08-06",
+                    "description": "Interest",
+                    "amount": 942.39,
+                    "transaction_id": 83589033
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kevin Murphy",
+        "age": 48,
+        "gender": "male",
+        "address": "143 Alexander Ways, Daviston, MT 25815",
+        "phone": "(725)541-1339",
+        "email": "rileylopez@example.com",
+        "account": {
+            "account_number": "53a3598c-cd4a-4508-9970-0009658662ab",
+            "balance": 44802.11,
+            "transactions": [
+                {
+                    "date": "2024-02-21",
+                    "description": "Deposit",
+                    "amount": 14243.44,
+                    "transaction_id": 118801503
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Interest",
+                    "amount": 49804.11,
+                    "transaction_id": 16155230
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Deposit",
+                    "amount": 7662.36,
+                    "transaction_id": 35038644
+                }
+            ]
+        }
+    }
+}

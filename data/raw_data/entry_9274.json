@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 29,
+        "gender": "male",
+        "address": "092 Lucas Plains Suite 809, Port Kimberly, OH 08859",
+        "phone": "(466)805-1067",
+        "email": "johnny48@example.com",
+        "account": {
+            "account_number": "7362edcc-019e-4de0-86e6-4d75cf9fbd85",
+            "balance": 33538.21,
+            "transactions": [
+                {
+                    "date": "2023-07-01",
+                    "description": "Withdrawal",
+                    "amount": 579.77,
+                    "transaction_id": 105203674
+                },
+                {
+                    "date": "2023-08-07",
+                    "description": "Deposit",
+                    "amount": -616.41,
+                    "transaction_id": 103914059
+                },
+                {
+                    "date": "2024-05-05",
+                    "description": "Deposit",
+                    "amount": -4601.57,
+                    "transaction_id": 83151175
+                },
+                {
+                    "date": "2023-11-10",
+                    "description": "Interest",
+                    "amount": -4240.94,
+                    "transaction_id": 27155037
+                }
+            ]
+        }
+    }
+}

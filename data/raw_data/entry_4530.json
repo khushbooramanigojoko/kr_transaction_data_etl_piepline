@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "William Lang",
+        "age": 52,
+        "gender": "female",
+        "address": "1800 Turner Locks, Andrewstad, IN 34048",
+        "phone": "+1-574-626-4516x903",
+        "email": "ffisher@example.org",
+        "account": {
+            "account_number": "85a5cb31-b8c3-4095-8ca2-1d5c7009f54f",
+            "balance": 5630.37,
+            "transactions": [
+                {
+                    "date": "2024-06-11",
+                    "description": "Interest",
+                    "amount": 36283.72,
+                    "transaction_id": 102869546
+                },
+                {
+                    "date": "2023-02-25",
+                    "description": "Withdrawal",
+                    "amount": 45852.98,
+                    "transaction_id": 103862908
+                },
+                {
+                    "date": "2023-02-10",
+                    "description": "Interest",
+                    "amount": 21480.63,
+                    "transaction_id": 64475635
+                }
+            ]
+        }
+    }
+}

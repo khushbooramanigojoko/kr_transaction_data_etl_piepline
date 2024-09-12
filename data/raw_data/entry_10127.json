@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Francisco Knapp",
+        "age": 50,
+        "gender": "female",
+        "address": "5577 Stephanie Mountain, New Williamview, VA 89507",
+        "phone": "347-308-8621",
+        "email": "moorecatherine@example.net",
+        "account": {
+            "account_number": "2df0b010-034d-453c-b9bc-c5b265e3f406",
+            "balance": -49054.94,
+            "transactions": [
+                {
+                    "date": "2024-01-26",
+                    "description": "Deposit",
+                    "amount": -54.63,
+                    "transaction_id": 24967894
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Deposit",
+                    "amount": -2286.69,
+                    "transaction_id": 25378555
+                }
+            ]
+        }
+    }
+}

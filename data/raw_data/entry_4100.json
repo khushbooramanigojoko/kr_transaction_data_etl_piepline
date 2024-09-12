@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Grant",
+        "age": 46,
+        "gender": "female",
+        "address": "28603 Jesse Turnpike, Angelaton, SD 10329",
+        "phone": "001-262-834-9371x07719",
+        "email": "lmcmahon@example.org",
+        "account": {
+            "account_number": "b9b17611-c788-48e8-8af2-9dc77f60190b",
+            "balance": 38508.39,
+            "transactions": [
+                {
+                    "date": "2023-09-05",
+                    "description": "Deposit",
+                    "amount": 28126.62,
+                    "transaction_id": 20869064
+                },
+                {
+                    "date": "2024-01-20",
+                    "description": "Deposit",
+                    "amount": 18030.69,
+                    "transaction_id": 8692950
+                },
+                {
+                    "date": "2024-01-06",
+                    "description": "Deposit",
+                    "amount": 47740.11,
+                    "transaction_id": 31011477
+                },
+                {
+                    "date": "2024-06-14",
+                    "description": "Withdrawal",
+                    "amount": 44147.25,
+                    "transaction_id": 9382140
+                },
+                {
+                    "date": "2022-09-05",
+                    "description": "Withdrawal",
+                    "amount": 39544.32,
+                    "transaction_id": 70793629
+                }
+            ]
+        }
+    }
+}

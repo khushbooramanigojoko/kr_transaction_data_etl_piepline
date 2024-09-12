@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jacob Coleman",
+        "age": 73,
+        "gender": "female",
+        "address": "550 Natalie Inlet Apt. 141, Robertshire, NE 18577",
+        "phone": "+1-337-802-4173",
+        "email": "deborahkeller@example.net",
+        "account": {
+            "account_number": "581cb007-e2d2-439f-aaa9-d67ccb387fa2",
+            "balance": 11818.94,
+            "transactions": [
+                {
+                    "date": "2024-05-23",
+                    "description": "Withdrawal",
+                    "amount": 8900.54,
+                    "transaction_id": 41998684
+                },
+                {
+                    "date": "2024-03-26",
+                    "description": "Interest",
+                    "amount": 42180.05,
+                    "transaction_id": 78275302
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Deposit",
+                    "amount": 14518.58,
+                    "transaction_id": 26176282
+                },
+                {
+                    "date": "2023-03-26",
+                    "description": "Interest",
+                    "amount": 27402.83,
+                    "transaction_id": 54599473
+                }
+            ]
+        }
+    }
+}

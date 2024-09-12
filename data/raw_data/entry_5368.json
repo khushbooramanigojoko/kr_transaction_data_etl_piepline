@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Richard Wilson",
+        "age": 57,
+        "gender": "male",
+        "address": "4806 Randall Lodge, Holmesborough, CO 21649",
+        "phone": "(715)884-6655x573",
+        "email": "eromero@example.org",
+        "account": {
+            "account_number": "02c66ddc-3ab4-4cee-affa-14e391e19dbb",
+            "balance": 39316.9,
+            "transactions": [
+                {
+                    "date": "2024-05-05",
+                    "description": "Withdrawal",
+                    "amount": 39493.6,
+                    "transaction_id": 97777917
+                }
+            ]
+        }
+    }
+}

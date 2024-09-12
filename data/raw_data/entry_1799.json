@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kelsey Carter",
+        "age": 62,
+        "gender": "female",
+        "address": "43219 Christopher Mountains, New Eduardomouth, AK 18638",
+        "phone": "+1-505-736-1314x2959",
+        "email": "marybrown@example.org",
+        "account": {
+            "account_number": "f9a96493-9ccc-4b76-b8e6-2044369aa7d8",
+            "balance": 7699.91,
+            "transactions": [
+                {
+                    "date": "2022-11-21",
+                    "description": "Withdrawal",
+                    "amount": 39862.29,
+                    "transaction_id": 65552573
+                },
+                {
+                    "date": "2024-07-22",
+                    "description": "Withdrawal",
+                    "amount": 14782.19,
+                    "transaction_id": 13554683
+                },
+                {
+                    "date": "2023-03-23",
+                    "description": "Withdrawal",
+                    "amount": 276.87,
+                    "transaction_id": 17841948
+                },
+                {
+                    "date": "2023-02-06",
+                    "description": "Deposit",
+                    "amount": 29833.26,
+                    "transaction_id": 60713069
+                }
+            ]
+        }
+    }
+}

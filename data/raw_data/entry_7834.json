@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Bryan Thompson",
+        "age": 93,
+        "gender": "male",
+        "address": "3174 Brian Haven, Kristaborough, OR 66529",
+        "phone": "683-380-5398",
+        "email": "clarkmichael@example.net",
+        "account": {
+            "account_number": "083d50bc-f322-4bdd-872d-c7689f2f8dd9",
+            "balance": 6445.62,
+            "transactions": [
+                {
+                    "date": "2024-05-15",
+                    "description": "Withdrawal",
+                    "amount": 8254.89,
+                    "transaction_id": 40450432
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Withdrawal",
+                    "amount": 14741.89,
+                    "transaction_id": 44666120
+                },
+                {
+                    "date": "2023-01-24",
+                    "description": "Withdrawal",
+                    "amount": 44454.97,
+                    "transaction_id": 47120132
+                },
+                {
+                    "date": "2023-07-06",
+                    "description": "Deposit",
+                    "amount": 22291.67,
+                    "transaction_id": 23391060
+                }
+            ]
+        }
+    }
+}

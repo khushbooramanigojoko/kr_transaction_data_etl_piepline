@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Willie Mcguire",
+        "age": 46,
+        "gender": "male",
+        "address": "2854 Zuniga Pine, Randyburgh, VT 70037",
+        "phone": "355.717.0844",
+        "email": "barbara77@example.net",
+        "account": {
+            "account_number": "d11f0497-8290-4e8b-86c7-60b45e67bc43",
+            "balance": -24684.6,
+            "transactions": [
+                {
+                    "date": "2024-06-11",
+                    "description": "Withdrawal",
+                    "amount": 2695.91,
+                    "transaction_id": 71244536
+                }
+            ]
+        }
+    }
+}

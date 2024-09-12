@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Frank Thompson",
+        "age": 79,
+        "gender": "female",
+        "address": "2527 Cooper Lodge Suite 177, Shepardburgh, NV 46956",
+        "phone": "7117363492",
+        "email": "cardenasstacey@example.org",
+        "account": {
+            "account_number": "b79e11cf-026a-4cba-9389-cc21d018c207",
+            "balance": 20393.09,
+            "transactions": [
+                {
+                    "date": "2023-12-08",
+                    "description": "Withdrawal",
+                    "amount": 25106.15,
+                    "transaction_id": 1661645
+                },
+                {
+                    "date": "2024-07-14",
+                    "description": "Interest",
+                    "amount": 10213.84,
+                    "transaction_id": 80253525
+                }
+            ]
+        }
+    }
+}

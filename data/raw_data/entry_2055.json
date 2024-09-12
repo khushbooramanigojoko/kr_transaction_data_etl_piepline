@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Shannon Jones",
+        "age": 51,
+        "gender": "female",
+        "address": "45695 Ramirez Groves, East Alyssa, SD 73965",
+        "phone": "+1-277-382-8737x453",
+        "email": "jack22@example.com",
+        "account": {
+            "account_number": "db0a51a9-1a49-4605-ab5d-2b192691ff66",
+            "balance": 36947.33,
+            "transactions": [
+                {
+                    "date": "2023-03-23",
+                    "description": "Withdrawal",
+                    "amount": 24951.39,
+                    "transaction_id": 108517577
+                }
+            ]
+        }
+    }
+}

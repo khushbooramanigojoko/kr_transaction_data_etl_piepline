@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lisa Cunningham DDS",
+        "age": 19,
+        "gender": "male",
+        "address": "932 Emily Bridge, Julietown, VI 12021",
+        "phone": "898.826.7096x726",
+        "email": "fordkristina@example.net",
+        "account": {
+            "account_number": "7d81fb87-f7ba-470e-8448-0a93d0ed5f09",
+            "balance": 31508.01,
+            "transactions": [
+                {
+                    "date": "2023-09-15",
+                    "description": "Deposit",
+                    "amount": 3989.98,
+                    "transaction_id": 64916588
+                }
+            ]
+        }
+    }
+}

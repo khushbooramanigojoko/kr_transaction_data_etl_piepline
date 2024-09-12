@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mark Kelley",
+        "age": 50,
+        "gender": "female",
+        "address": "48030 Lauren Lodge, Crossstad, MH 44599",
+        "phone": "342.666.6303x3512",
+        "email": "haley42@example.net",
+        "account": {
+            "account_number": "21e352be-362f-447d-8b23-8829e6ebd940",
+            "balance": 28225.68,
+            "transactions": [
+                {
+                    "date": "2024-04-27",
+                    "description": "Interest",
+                    "amount": 11812.11,
+                    "transaction_id": 73675074
+                },
+                {
+                    "date": "2023-08-15",
+                    "description": "Withdrawal",
+                    "amount": 23802.92,
+                    "transaction_id": 107918125
+                },
+                {
+                    "date": "2024-03-14",
+                    "description": "Deposit",
+                    "amount": 22060.72,
+                    "transaction_id": 60131495
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": 6682.78,
+                    "transaction_id": 79845626
+                },
+                {
+                    "date": "2023-08-06",
+                    "description": "Withdrawal",
+                    "amount": 16799.35,
+                    "transaction_id": 6497236
+                }
+            ]
+        }
+    }
+}

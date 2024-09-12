@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Daniel Randall",
+        "age": 30,
+        "gender": "male",
+        "address": "063 Duffy Plains Suite 920, New Randyburgh, NH 21544",
+        "phone": "6567614159",
+        "email": "morenoshelley@example.com",
+        "account": {
+            "account_number": "7f8dbd51-3ea6-42ec-a904-f718e6c4ac59",
+            "balance": 5429.49,
+            "transactions": [
+                {
+                    "date": "2023-09-28",
+                    "description": "Deposit",
+                    "amount": 5789.81,
+                    "transaction_id": 59721346
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Deposit",
+                    "amount": 18391.27,
+                    "transaction_id": 50966909
+                },
+                {
+                    "date": "2023-08-04",
+                    "description": "Interest",
+                    "amount": 34422.77,
+                    "transaction_id": 92832687
+                }
+            ]
+        }
+    }
+}

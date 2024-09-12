@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sharon Aguirre",
+        "age": 48,
+        "gender": "female",
+        "address": "389 Philip Center, Lake Phillip, AZ 25073",
+        "phone": "(670)207-3167",
+        "email": "bradley45@example.net",
+        "account": {
+            "account_number": "5ad87e85-5ac0-4096-acad-3fcb769d0d45",
+            "balance": 41060.87,
+            "transactions": [
+                {
+                    "date": "2023-08-30",
+                    "description": "Deposit",
+                    "amount": 1604.03,
+                    "transaction_id": 38640377
+                },
+                {
+                    "date": "2023-09-09",
+                    "description": "Interest",
+                    "amount": 36272.86,
+                    "transaction_id": 18624937
+                },
+                {
+                    "date": "2023-10-25",
+                    "description": "Interest",
+                    "amount": 5582.51,
+                    "transaction_id": 52817116
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Interest",
+                    "amount": 4854.93,
+                    "transaction_id": 15987630
+                },
+                {
+                    "date": "2024-01-19",
+                    "description": "Deposit",
+                    "amount": 38156.43,
+                    "transaction_id": 25275199
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Paul Adams",
+        "age": 92,
+        "gender": "male",
+        "address": "182 Adams Crossing Apt. 719, West Katherine, NJ 44338",
+        "phone": "(511)669-2671",
+        "email": "jensenryan@example.net",
+        "account": {
+            "account_number": "afaa51a0-67df-44c9-8386-ab9c95de4014",
+            "balance": 30913.75,
+            "transactions": [
+                {
+                    "date": "2023-10-07",
+                    "description": "Deposit",
+                    "amount": 3208.17,
+                    "transaction_id": 99175366
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Interest",
+                    "amount": 1074.77,
+                    "transaction_id": 4679104
+                },
+                {
+                    "date": "2023-08-31",
+                    "description": "Withdrawal",
+                    "amount": 1910.67,
+                    "transaction_id": 95140621
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ashley Stone",
+        "age": 34,
+        "gender": "female",
+        "address": "500 Teresa Pike, East Bobby, OR 03567",
+        "phone": "783-797-8444x8281",
+        "email": "steven50@example.com",
+        "account": {
+            "account_number": "263c71fa-9d20-4747-912b-172f75705b9c",
+            "balance": 14965.31,
+            "transactions": [
+                {
+                    "date": "2023-05-14",
+                    "description": "Withdrawal",
+                    "amount": 4927.36,
+                    "transaction_id": 54182567
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Deposit",
+                    "amount": 40606.92,
+                    "transaction_id": 90314467
+                },
+                {
+                    "date": "2023-08-07",
+                    "description": "Deposit",
+                    "amount": 3436.8,
+                    "transaction_id": 26921837
+                }
+            ]
+        }
+    }
+}

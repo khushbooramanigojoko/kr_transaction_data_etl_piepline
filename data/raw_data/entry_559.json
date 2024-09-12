@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Austin Bauer",
+        "age": 49,
+        "gender": "male",
+        "address": "USCGC Davenport, FPO AP 54504",
+        "phone": "6496308448",
+        "email": "markwillis@example.net",
+        "account": {
+            "account_number": "3dff942a-07cd-4f9e-b445-976b0a811c27",
+            "balance": 32571.03,
+            "transactions": [
+                {
+                    "date": "2024-07-15",
+                    "description": "Withdrawal",
+                    "amount": 10799.48,
+                    "transaction_id": 42525223
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Interest",
+                    "amount": 14878.87,
+                    "transaction_id": 102942252
+                },
+                {
+                    "date": "2024-05-06",
+                    "description": "Interest",
+                    "amount": 31975.56,
+                    "transaction_id": 40639500
+                },
+                {
+                    "date": "2022-11-12",
+                    "description": "Deposit",
+                    "amount": 20242.17,
+                    "transaction_id": 115873840
+                }
+            ]
+        }
+    }
+}

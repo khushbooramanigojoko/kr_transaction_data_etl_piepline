@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 48,
+        "gender": "female",
+        "address": "Unit 2481 Box 9454, DPO AP 14203",
+        "phone": "799-253-8816x8580",
+        "email": "tyler90@example.com",
+        "account": {
+            "account_number": "8c8ce172-1214-4539-bbfa-573657e8be27",
+            "balance": 25029.28,
+            "transactions": [
+                {
+                    "date": "2024-07-09",
+                    "description": "Interest",
+                    "amount": 3131.4,
+                    "transaction_id": 27108525
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Deposit",
+                    "amount": 2427.11,
+                    "transaction_id": 30086743
+                },
+                {
+                    "date": "2023-09-18",
+                    "description": "Deposit",
+                    "amount": -2540.62,
+                    "transaction_id": 12835799
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Deposit",
+                    "amount": -1135.54,
+                    "transaction_id": 110158508
+                }
+            ]
+        }
+    }
+}

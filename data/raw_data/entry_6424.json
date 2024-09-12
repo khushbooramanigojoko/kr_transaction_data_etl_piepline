@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "John Carr",
+        "age": 24,
+        "gender": "female",
+        "address": "8504 Destiny Islands Suite 010, Port Shawnmouth, NM 95608",
+        "phone": "001-222-406-9512x47400",
+        "email": "btaylor@example.net",
+        "account": {
+            "account_number": "752287a7-3262-4b2e-a02e-0f4cd6daeaff",
+            "balance": 32822.55,
+            "transactions": [
+                {
+                    "date": "2023-07-03",
+                    "description": "Deposit",
+                    "amount": 24367.6,
+                    "transaction_id": 100533533
+                },
+                {
+                    "date": "2024-02-21",
+                    "description": "Deposit",
+                    "amount": 18127.9,
+                    "transaction_id": 91081453
+                }
+            ]
+        }
+    }
+}

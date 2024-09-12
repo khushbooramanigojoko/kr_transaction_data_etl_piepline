@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Andrew Murray",
+        "age": 54,
+        "gender": "male",
+        "address": "511 Obrien Row Apt. 807, East Adamborough, PW 64386",
+        "phone": "(456)558-1430x52000",
+        "email": "michelle61@example.com",
+        "account": {
+            "account_number": "eb732fa5-698c-4533-aeb0-23ea20581779",
+            "balance": 21701.76,
+            "transactions": [
+                {
+                    "date": "2022-10-19",
+                    "description": "Deposit",
+                    "amount": 25193.57,
+                    "transaction_id": 41411465
+                }
+            ]
+        }
+    }
+}

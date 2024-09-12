@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Rebecca Mclean",
+        "age": 61,
+        "gender": "male",
+        "address": "1075 Adam Pines Suite 724, Glennfort, MH 26324",
+        "phone": "001-963-324-0294x18455",
+        "email": "james41@example.com",
+        "account": {
+            "account_number": "a3aed0e8-e2c7-4c70-8353-3f89371136d9",
+            "balance": 30902.13,
+            "transactions": [
+                {
+                    "date": "2024-01-02",
+                    "description": "Interest",
+                    "amount": 20134.19,
+                    "transaction_id": 14819913
+                },
+                {
+                    "date": "2024-05-05",
+                    "description": "Withdrawal",
+                    "amount": 49305.85,
+                    "transaction_id": 72489620
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Withdrawal",
+                    "amount": 28721.88,
+                    "transaction_id": 6362571
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Interest",
+                    "amount": 10793.49,
+                    "transaction_id": 115724010
+                }
+            ]
+        }
+    }
+}

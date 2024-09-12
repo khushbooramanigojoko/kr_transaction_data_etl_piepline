@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jordan Lynn",
+        "age": 44,
+        "gender": "male",
+        "address": "Unit 4844 Box 1782, DPO AP 89372",
+        "phone": "(415)592-7622",
+        "email": "zachary82@example.net",
+        "account": {
+            "account_number": "7a39dff3-06be-45b4-af80-64de097d1fa1",
+            "balance": 28302.22,
+            "transactions": [
+                {
+                    "date": "2024-07-30",
+                    "description": "Deposit",
+                    "amount": 20991.13,
+                    "transaction_id": 96068251
+                },
+                {
+                    "date": "2024-04-15",
+                    "description": "Interest",
+                    "amount": 8432.26,
+                    "transaction_id": 54026844
+                },
+                {
+                    "date": "2023-09-11",
+                    "description": "Deposit",
+                    "amount": 43152.08,
+                    "transaction_id": 5505309
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Interest",
+                    "amount": 46086.09,
+                    "transaction_id": 67913037
+                },
+                {
+                    "date": "2022-10-18",
+                    "description": "Interest",
+                    "amount": 9229.29,
+                    "transaction_id": 40918366
+                }
+            ]
+        }
+    }
+}

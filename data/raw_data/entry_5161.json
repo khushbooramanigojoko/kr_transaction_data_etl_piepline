@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Craig Owens",
+        "age": 31,
+        "gender": "male",
+        "address": "2505 Gray Keys, Bennettmouth, KS 55993",
+        "phone": "+1-562-597-6961",
+        "email": "clong@example.org",
+        "account": {
+            "account_number": "a11c0572-06c6-4752-98aa-197ab7799700",
+            "balance": 21858.27,
+            "transactions": [
+                {
+                    "date": "2023-05-23",
+                    "description": "Interest",
+                    "amount": 7615.66,
+                    "transaction_id": 22251105
+                },
+                {
+                    "date": "2022-11-30",
+                    "description": "Deposit",
+                    "amount": 40592.47,
+                    "transaction_id": 18964024
+                }
+            ]
+        }
+    }
+}

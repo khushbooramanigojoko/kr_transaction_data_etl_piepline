@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 18,
+        "gender": "female",
+        "address": "3788 Kendra Pass, Lesliefort, OK 94970",
+        "phone": "564.542.5468x54866",
+        "email": "mosesjeffery@example.org",
+        "account": {
+            "account_number": "49d93b3e-e6ae-485c-b4e7-e7f42e816f5a",
+            "balance": 11187.89,
+            "transactions": [
+                {
+                    "date": "2023-05-25",
+                    "description": "Withdrawal",
+                    "amount": 624.07,
+                    "transaction_id": 17334481
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Interest",
+                    "amount": 2376.2,
+                    "transaction_id": 90165259
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Interest",
+                    "amount": -3353.53,
+                    "transaction_id": 44234101
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Deposit",
+                    "amount": -2569.51,
+                    "transaction_id": 52563338
+                }
+            ]
+        }
+    }
+}

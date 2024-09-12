@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Angela Calhoun",
+        "age": 47,
+        "gender": "male",
+        "address": "53770 Henson Estate, Davidland, KS 65377",
+        "phone": "7859481151",
+        "email": "johnanderson@example.com",
+        "account": {
+            "account_number": "f23280df-a9f6-4a9c-944f-d6e1a0c46007",
+            "balance": 39105.19,
+            "transactions": [
+                {
+                    "date": "2024-05-01",
+                    "description": "Interest",
+                    "amount": 34132.48,
+                    "transaction_id": 51614229
+                },
+                {
+                    "date": "2023-07-25",
+                    "description": "Withdrawal",
+                    "amount": 29089.5,
+                    "transaction_id": 12863743
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Spencer Hinton",
+        "age": 91,
+        "gender": "male",
+        "address": "2172 Kevin Centers, Whiteton, MS 42498",
+        "phone": "+1-778-452-6474x21732",
+        "email": "knoxbrian@example.net",
+        "account": {
+            "account_number": "bdbf6d22-aeae-4259-a28e-a449c7f11dc3",
+            "balance": 9574.51,
+            "transactions": [
+                {
+                    "date": "2023-07-29",
+                    "description": "Withdrawal",
+                    "amount": 34605.9,
+                    "transaction_id": 49602206
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Deposit",
+                    "amount": 44144.73,
+                    "transaction_id": 114967366
+                },
+                {
+                    "date": "2022-11-16",
+                    "description": "Withdrawal",
+                    "amount": 3408.66,
+                    "transaction_id": 102668397
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Interest",
+                    "amount": 25943.74,
+                    "transaction_id": 86208062
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Dr. Brian Clark",
+        "age": 54,
+        "gender": "female",
+        "address": "802 Sarah Fords Suite 458, Davisburgh, ND 60489",
+        "phone": "408-480-2522",
+        "email": "kathleenwhite@example.com",
+        "account": {
+            "account_number": "4417dd72-b4f9-4abf-853f-fadcd9505692",
+            "balance": -49987.53,
+            "transactions": [
+                {
+                    "date": "2023-09-04",
+                    "description": "Deposit",
+                    "amount": 1016.72,
+                    "transaction_id": 112639261
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Withdrawal",
+                    "amount": 2439.3,
+                    "transaction_id": 89824788
+                },
+                {
+                    "date": "2023-10-29",
+                    "description": "Interest",
+                    "amount": -877.34,
+                    "transaction_id": 101407975
+                },
+                {
+                    "date": "2023-11-05",
+                    "description": "Deposit",
+                    "amount": -4136.42,
+                    "transaction_id": 23878584
+                },
+                {
+                    "date": "2024-01-27",
+                    "description": "Interest",
+                    "amount": -1940.4,
+                    "transaction_id": 61221969
+                }
+            ]
+        }
+    }
+}

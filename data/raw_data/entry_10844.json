@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 68,
+        "gender": "female",
+        "address": "178 Valdez Summit, East Lisa, GU 69062",
+        "phone": "(524)219-2652x82256",
+        "email": "pamela45@example.com",
+        "account": {
+            "account_number": "b7c02cdd-c10b-41ab-ad9a-930d6f4719c0",
+            "balance": 13881.07,
+            "transactions": [
+                {
+                    "date": "2023-02-05",
+                    "description": "Deposit",
+                    "amount": 4626.57,
+                    "transaction_id": 79242206
+                },
+                {
+                    "date": "2024-07-12",
+                    "description": "Withdrawal",
+                    "amount": 624.04,
+                    "transaction_id": 113202359
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Withdrawal",
+                    "amount": 3882.58,
+                    "transaction_id": 97162544
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Deposit",
+                    "amount": 3523.94,
+                    "transaction_id": 84985213
+                },
+                {
+                    "date": "2024-04-06",
+                    "description": "Interest",
+                    "amount": -3303.23,
+                    "transaction_id": 33152740
+                }
+            ]
+        }
+    }
+}

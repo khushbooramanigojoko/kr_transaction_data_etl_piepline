@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Liu",
+        "age": 88,
+        "gender": "female",
+        "address": "1808 Carl Track, Warrenville, GU 98211",
+        "phone": "568-504-4302x7383",
+        "email": "xwelch@example.org",
+        "account": {
+            "account_number": "e5f613d2-8ece-4f7c-810c-888271b0eca9",
+            "balance": -2815.38,
+            "transactions": [
+                {
+                    "date": "2024-03-19",
+                    "description": "Deposit",
+                    "amount": -3820.89,
+                    "transaction_id": 74409369
+                },
+                {
+                    "date": "2023-11-04",
+                    "description": "Deposit",
+                    "amount": 3605.55,
+                    "transaction_id": 111889119
+                },
+                {
+                    "date": "2023-03-04",
+                    "description": "Deposit",
+                    "amount": 1697.83,
+                    "transaction_id": 59696143
+                },
+                {
+                    "date": "2024-07-09",
+                    "description": "Deposit",
+                    "amount": 1802.62,
+                    "transaction_id": 84785467
+                },
+                {
+                    "date": "2022-09-03",
+                    "description": "Interest",
+                    "amount": -1706.82,
+                    "transaction_id": 19306937
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Monica Mendez",
+        "age": 98,
+        "gender": "female",
+        "address": "525 Williams Skyway, South Jonathanchester, NM 07846",
+        "phone": "938-233-4458x193",
+        "email": "oortiz@example.org",
+        "account": {
+            "account_number": "a96d13e8-c814-4299-a2a9-db0660fbf11b",
+            "balance": 13171.9,
+            "transactions": [
+                {
+                    "date": "2024-02-10",
+                    "description": "Deposit",
+                    "amount": 776.78,
+                    "transaction_id": 112423838
+                }
+            ]
+        }
+    }
+}

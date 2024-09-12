@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tony Evans",
+        "age": 63,
+        "gender": "male",
+        "address": "22717 Davis Harbors, Kingmouth, SD 26312",
+        "phone": "001-932-866-7077x736",
+        "email": "wilcoxwhitney@example.net",
+        "account": {
+            "account_number": "6e67df6c-4aa6-4c95-986b-54f6cf317e39",
+            "balance": 6532.99,
+            "transactions": [
+                {
+                    "date": "2024-03-06",
+                    "description": "Interest",
+                    "amount": 26037.35,
+                    "transaction_id": 45141764
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Interest",
+                    "amount": 4859.79,
+                    "transaction_id": 97583964
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Deposit",
+                    "amount": 39078.13,
+                    "transaction_id": 56681873
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Withdrawal",
+                    "amount": 48675.42,
+                    "transaction_id": 6900541
+                }
+            ]
+        }
+    }
+}

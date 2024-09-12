@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Carlos Williams",
+        "age": 67,
+        "gender": "female",
+        "address": "85676 Shaw Roads, South Andrewstad, VT 51426",
+        "phone": "461-453-4796",
+        "email": "simpsonleslie@example.com",
+        "account": {
+            "account_number": "62446560-a44a-4b64-a5ce-c64375777e75",
+            "balance": -13726.57,
+            "transactions": [
+                {
+                    "date": "2022-09-07",
+                    "description": "Interest",
+                    "amount": 169.35,
+                    "transaction_id": 28563376
+                },
+                {
+                    "date": "2024-07-23",
+                    "description": "Withdrawal",
+                    "amount": 2096.87,
+                    "transaction_id": 89707888
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Interest",
+                    "amount": -2905.02,
+                    "transaction_id": 56363264
+                }
+            ]
+        }
+    }
+}

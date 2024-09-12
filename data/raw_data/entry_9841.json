@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jonathan Watson",
+        "age": 56,
+        "gender": "male",
+        "address": "008 Gary Rest Suite 647, Everettside, AR 29781",
+        "phone": "+1-995-563-1326x19935",
+        "email": "rebeccahughes@example.net",
+        "account": {
+            "account_number": "439ee369-1a88-4d2c-bc76-ae067f031f3b",
+            "balance": -43855.89,
+            "transactions": [
+                {
+                    "date": "2023-07-13",
+                    "description": "Withdrawal",
+                    "amount": 1866.27,
+                    "transaction_id": 33021223
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Deposit",
+                    "amount": -1855.07,
+                    "transaction_id": 67511346
+                },
+                {
+                    "date": "2024-02-19",
+                    "description": "Deposit",
+                    "amount": 457.38,
+                    "transaction_id": 63481866
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Interest",
+                    "amount": 4489.93,
+                    "transaction_id": 16313358
+                }
+            ]
+        }
+    }
+}

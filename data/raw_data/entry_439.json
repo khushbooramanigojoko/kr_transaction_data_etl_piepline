@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Benton",
+        "age": 18,
+        "gender": "female",
+        "address": "6635 Deborah Village Apt. 388, South Christopher, MN 72310",
+        "phone": "646.495.4410x142",
+        "email": "marylove@example.com",
+        "account": {
+            "account_number": "735d9d4c-d654-4555-a3e7-243dc406ddc4",
+            "balance": 42433.44,
+            "transactions": [
+                {
+                    "date": "2023-09-18",
+                    "description": "Withdrawal",
+                    "amount": 18859.92,
+                    "transaction_id": 94295923
+                },
+                {
+                    "date": "2024-06-14",
+                    "description": "Deposit",
+                    "amount": 47138.49,
+                    "transaction_id": 35803040
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Richard Hoffman",
+        "age": 95,
+        "gender": "male",
+        "address": "478 Hunt Common, South James, WA 56994",
+        "phone": "849.344.8706",
+        "email": "brandonkirby@example.net",
+        "account": {
+            "account_number": "fe3a1ea7-57aa-48f8-8bb3-0406d72ca1f4",
+            "balance": 16410.61,
+            "transactions": [
+                {
+                    "date": "2024-02-22",
+                    "description": "Deposit",
+                    "amount": 6999.28,
+                    "transaction_id": 32707782
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Withdrawal",
+                    "amount": 12267.57,
+                    "transaction_id": 62349885
+                }
+            ]
+        }
+    }
+}

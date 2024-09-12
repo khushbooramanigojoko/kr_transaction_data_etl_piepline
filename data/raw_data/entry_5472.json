@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kimberly Martin",
+        "age": 35,
+        "gender": "female",
+        "address": "520 Mason Groves Apt. 594, Lake Francesburgh, VT 34837",
+        "phone": "961.226.5189",
+        "email": "michaelallen@example.org",
+        "account": {
+            "account_number": "901e39ac-ef66-446c-aa90-30db4b6bf420",
+            "balance": 11859.06,
+            "transactions": [
+                {
+                    "date": "2024-06-06",
+                    "description": "Interest",
+                    "amount": 18274.29,
+                    "transaction_id": 72239058
+                },
+                {
+                    "date": "2024-01-18",
+                    "description": "Withdrawal",
+                    "amount": 28392.08,
+                    "transaction_id": 66962526
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Interest",
+                    "amount": 29254.42,
+                    "transaction_id": 14578634
+                },
+                {
+                    "date": "2023-10-02",
+                    "description": "Interest",
+                    "amount": 18514.65,
+                    "transaction_id": 42962917
+                },
+                {
+                    "date": "2024-02-26",
+                    "description": "Withdrawal",
+                    "amount": 45168.66,
+                    "transaction_id": 103073470
+                }
+            ]
+        }
+    }
+}

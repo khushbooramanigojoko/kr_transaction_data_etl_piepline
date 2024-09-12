@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 75,
+        "gender": "male",
+        "address": "USNS Parker, FPO AA 36603",
+        "phone": "+1-410-722-5689x885",
+        "email": "mooredawn@example.net",
+        "account": {
+            "account_number": "f6daaf54-8a06-4f00-b0b6-5fc3bcac7207",
+            "balance": 32350.78,
+            "transactions": [
+                {
+                    "date": "2023-11-13",
+                    "description": "Deposit",
+                    "amount": -1266.43,
+                    "transaction_id": 3463634
+                },
+                {
+                    "date": "2024-01-08",
+                    "description": "Withdrawal",
+                    "amount": -71.4,
+                    "transaction_id": 71984682
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Withdrawal",
+                    "amount": -2588.69,
+                    "transaction_id": 30649264
+                },
+                {
+                    "date": "2023-03-20",
+                    "description": "Withdrawal",
+                    "amount": -4929.36,
+                    "transaction_id": 21271459
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Barbara Knight",
+        "age": 98,
+        "gender": "female",
+        "address": "9289 Rosario Gardens Apt. 879, Jacksonmouth, CO 93050",
+        "phone": "+1-625-401-5434",
+        "email": "martinjohn@example.com",
+        "account": {
+            "account_number": "2444e91f-ef1a-4af1-8af0-820767f4c424",
+            "balance": 46934.69,
+            "transactions": [
+                {
+                    "date": "2024-06-14",
+                    "description": "Withdrawal",
+                    "amount": 27153.19,
+                    "transaction_id": 1629386
+                },
+                {
+                    "date": "2023-12-20",
+                    "description": "Deposit",
+                    "amount": 36159.13,
+                    "transaction_id": 76599675
+                }
+            ]
+        }
+    }
+}

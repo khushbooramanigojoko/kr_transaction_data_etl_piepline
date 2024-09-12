@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Scott Phillips",
+        "age": 28,
+        "gender": "male",
+        "address": "475 Timothy Wells Apt. 260, Millerberg, ND 39296",
+        "phone": "(859)778-7509x4351",
+        "email": "kristy89@example.org",
+        "account": {
+            "account_number": "47b925c2-4c7b-4323-b6a3-6181bf378292",
+            "balance": 27110.26,
+            "transactions": [
+                {
+                    "date": "2023-12-09",
+                    "description": "Withdrawal",
+                    "amount": 16308.72,
+                    "transaction_id": 59658968
+                },
+                {
+                    "date": "2024-02-18",
+                    "description": "Withdrawal",
+                    "amount": 31756.9,
+                    "transaction_id": 119258638
+                },
+                {
+                    "date": "2024-05-28",
+                    "description": "Deposit",
+                    "amount": 30396.88,
+                    "transaction_id": 59212201
+                },
+                {
+                    "date": "2024-02-28",
+                    "description": "Withdrawal",
+                    "amount": 49148.94,
+                    "transaction_id": 12505287
+                }
+            ]
+        }
+    }
+}

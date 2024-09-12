@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Matthew Hawkins",
+        "age": 52,
+        "gender": "male",
+        "address": "398 Jeffery Inlet, Jacksonview, NH 52523",
+        "phone": "690.795.7654x553",
+        "email": "xmyers@example.com",
+        "account": {
+            "account_number": "c49cf57b-1fdf-4254-993b-8aa409d1d173",
+            "balance": 6119.2,
+            "transactions": [
+                {
+                    "date": "2023-03-12",
+                    "description": "Withdrawal",
+                    "amount": 3290.47,
+                    "transaction_id": 1876957
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Withdrawal",
+                    "amount": 40293.42,
+                    "transaction_id": 118666335
+                }
+            ]
+        }
+    }
+}

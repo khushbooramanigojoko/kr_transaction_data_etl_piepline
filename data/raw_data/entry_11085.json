@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amber Hendrix",
+        "age": 71,
+        "gender": "female",
+        "address": "266 Perry Burg, Port Paulview, VT 05889",
+        "phone": "001-268-618-1259x67955",
+        "email": "greenealexander@example.org",
+        "account": {
+            "account_number": "13e9a1c1-c4db-4125-83e5-2e28588e5306",
+            "balance": -28156.57,
+            "transactions": [
+                {
+                    "date": "2022-12-30",
+                    "description": "Withdrawal",
+                    "amount": 3567.6,
+                    "transaction_id": 34914805
+                },
+                {
+                    "date": "2023-12-19",
+                    "description": "Interest",
+                    "amount": 3468.68,
+                    "transaction_id": 15758957
+                }
+            ]
+        }
+    }
+}

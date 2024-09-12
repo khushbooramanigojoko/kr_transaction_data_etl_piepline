@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Christopher Hurley",
+        "age": 81,
+        "gender": "male",
+        "address": "839 Krista Ridges, Phelpsmouth, NJ 58011",
+        "phone": "930.802.1081",
+        "email": "laura83@example.org",
+        "account": {
+            "account_number": "0981cc46-c74b-4b69-b5ab-98c1d95780bd",
+            "balance": 19641.23,
+            "transactions": [
+                {
+                    "date": "2023-12-28",
+                    "description": "Deposit",
+                    "amount": 49991.26,
+                    "transaction_id": 111679710
+                },
+                {
+                    "date": "2023-05-21",
+                    "description": "Interest",
+                    "amount": 47944.22,
+                    "transaction_id": 54642156
+                },
+                {
+                    "date": "2023-02-27",
+                    "description": "Interest",
+                    "amount": 1455.51,
+                    "transaction_id": 61362578
+                },
+                {
+                    "date": "2024-01-18",
+                    "description": "Interest",
+                    "amount": 11911.05,
+                    "transaction_id": 107904268
+                },
+                {
+                    "date": "2022-11-08",
+                    "description": "Deposit",
+                    "amount": 15117.88,
+                    "transaction_id": 42128354
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Marvin Fowler",
+        "age": 71,
+        "gender": "male",
+        "address": "65075 Devon Mount, Jacksonmouth, WY 60966",
+        "phone": "(470)357-7567",
+        "email": "lsmith@example.com",
+        "account": {
+            "account_number": "8113860c-e810-49a9-9397-0a625dba07f8",
+            "balance": 23630.48,
+            "transactions": [
+                {
+                    "date": "2024-07-10",
+                    "description": "Withdrawal",
+                    "amount": 3314.73,
+                    "transaction_id": 44832757
+                },
+                {
+                    "date": "2022-09-28",
+                    "description": "Withdrawal",
+                    "amount": 35314.59,
+                    "transaction_id": 34533915
+                }
+            ]
+        }
+    }
+}

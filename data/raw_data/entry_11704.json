@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 37,
+        "gender": "female",
+        "address": "5190 Savannah Gateway Suite 326, Elliottland, VT 54470",
+        "phone": "001-752-387-5592x593",
+        "email": "jonathandavid@example.net",
+        "account": {
+            "account_number": "772b553b-f39e-463f-b0b4-c121b842c674",
+            "balance": 26275.74,
+            "transactions": [
+                {
+                    "date": "2023-05-30",
+                    "description": "Withdrawal",
+                    "amount": 1499.32,
+                    "transaction_id": 22853247
+                }
+            ]
+        }
+    }
+}

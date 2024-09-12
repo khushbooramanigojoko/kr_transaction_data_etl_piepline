@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Elizabeth Thomas",
+        "age": 23,
+        "gender": "male",
+        "address": "38894 Marshall Landing Suite 777, Smithchester, AS 29491",
+        "phone": "001-608-880-5627x51730",
+        "email": "melissagarcia@example.net",
+        "account": {
+            "account_number": "3e07ecd7-375d-4712-88b9-0eaebc6ba260",
+            "balance": 25848.77,
+            "transactions": [
+                {
+                    "date": "2022-09-29",
+                    "description": "Withdrawal",
+                    "amount": 45646.52,
+                    "transaction_id": 36617496
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Interest",
+                    "amount": 26800.87,
+                    "transaction_id": 99588642
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Interest",
+                    "amount": 30337.74,
+                    "transaction_id": 87805446
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Deposit",
+                    "amount": 33091.61,
+                    "transaction_id": 21286808
+                },
+                {
+                    "date": "2023-06-04",
+                    "description": "Withdrawal",
+                    "amount": 48714.67,
+                    "transaction_id": 78310712
+                }
+            ]
+        }
+    }
+}

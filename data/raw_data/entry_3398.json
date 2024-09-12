@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Denise Rose",
+        "age": 82,
+        "gender": "male",
+        "address": "USNV Mays, FPO AA 47672",
+        "phone": "+1-289-618-3251",
+        "email": "thomasjoyce@example.com",
+        "account": {
+            "account_number": "8af42962-98d0-4540-b336-8407a34530aa",
+            "balance": 10452.25,
+            "transactions": [
+                {
+                    "date": "2023-07-22",
+                    "description": "Withdrawal",
+                    "amount": 13264.35,
+                    "transaction_id": 21661390
+                }
+            ]
+        }
+    }
+}

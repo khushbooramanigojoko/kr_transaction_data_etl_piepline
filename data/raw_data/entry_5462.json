@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Laurie Scott",
+        "age": 43,
+        "gender": "female",
+        "address": "27154 Moran Oval Suite 473, South Melissa, HI 00912",
+        "phone": "564-635-3194x0639",
+        "email": "leslie78@example.org",
+        "account": {
+            "account_number": "6c16a087-8145-42dd-8d65-4fefa3d2449a",
+            "balance": 20269.39,
+            "transactions": [
+                {
+                    "date": "2024-01-05",
+                    "description": "Interest",
+                    "amount": 13914.42,
+                    "transaction_id": 105860943
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Deposit",
+                    "amount": 5558.52,
+                    "transaction_id": 27410912
+                },
+                {
+                    "date": "2023-03-27",
+                    "description": "Withdrawal",
+                    "amount": 19522.41,
+                    "transaction_id": 51407137
+                },
+                {
+                    "date": "2023-09-01",
+                    "description": "Interest",
+                    "amount": 6638.86,
+                    "transaction_id": 100708774
+                }
+            ]
+        }
+    }
+}

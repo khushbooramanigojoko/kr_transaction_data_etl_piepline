@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 26,
+        "gender": "female",
+        "address": "07618 Roberson Garden, Jenniferland, GU 81775",
+        "phone": "(561)891-0592x133",
+        "email": "zedwards@example.com",
+        "account": {
+            "account_number": "995a2d93-4999-4237-a086-19048211b011",
+            "balance": 40997.62,
+            "transactions": [
+                {
+                    "date": "2023-09-10",
+                    "description": "Withdrawal",
+                    "amount": -596.27,
+                    "transaction_id": 6081348
+                },
+                {
+                    "date": "2023-06-06",
+                    "description": "Deposit",
+                    "amount": 2743.68,
+                    "transaction_id": 74435316
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Withdrawal",
+                    "amount": 4559.53,
+                    "transaction_id": 22944432
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Withdrawal",
+                    "amount": -2545.23,
+                    "transaction_id": 111567470
+                }
+            ]
+        }
+    }
+}

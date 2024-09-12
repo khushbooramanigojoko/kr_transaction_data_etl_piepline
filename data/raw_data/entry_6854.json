@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Erika Chen",
+        "age": 71,
+        "gender": "male",
+        "address": "8991 Hernandez Meadows, North Deanna, WA 09776",
+        "phone": "001-362-539-0185x80216",
+        "email": "brewerjonathan@example.org",
+        "account": {
+            "account_number": "b5b473ed-8df8-44f0-91a6-97a82e593532",
+            "balance": 36823.03,
+            "transactions": [
+                {
+                    "date": "2022-10-26",
+                    "description": "Withdrawal",
+                    "amount": 21392.98,
+                    "transaction_id": 64634576
+                },
+                {
+                    "date": "2023-07-24",
+                    "description": "Withdrawal",
+                    "amount": 49799.53,
+                    "transaction_id": 11943449
+                }
+            ]
+        }
+    }
+}

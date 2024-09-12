@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 72,
+        "gender": "male",
+        "address": "495 Jennifer Grove Suite 881, Lake Robert, WY 88015",
+        "phone": "(871)845-9789",
+        "email": "hortoneric@example.com",
+        "account": {
+            "account_number": "0145ddb9-494b-420b-9c7a-3d33ff538911",
+            "balance": 38689.67,
+            "transactions": [
+                {
+                    "date": "2024-07-25",
+                    "description": "Deposit",
+                    "amount": -1680.29,
+                    "transaction_id": 119006754
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Interest",
+                    "amount": -4505.87,
+                    "transaction_id": 91394103
+                },
+                {
+                    "date": "2023-11-07",
+                    "description": "Interest",
+                    "amount": 4094.99,
+                    "transaction_id": 117282164
+                },
+                {
+                    "date": "2022-11-06",
+                    "description": "Withdrawal",
+                    "amount": -1428.46,
+                    "transaction_id": 42132019
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Interest",
+                    "amount": -2781.82,
+                    "transaction_id": 30538081
+                }
+            ]
+        }
+    }
+}

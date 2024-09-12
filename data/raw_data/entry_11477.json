@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 63,
+        "gender": "male",
+        "address": "333 Beth Meadow, North Aliciashire, UT 27888",
+        "phone": "001-883-764-6398x1834",
+        "email": "mwilliamson@example.net",
+        "account": {
+            "account_number": "21004c4b-e865-4b41-ba6e-7ba57546134a",
+            "balance": 14770.04,
+            "transactions": [
+                {
+                    "date": "2023-02-19",
+                    "description": "Interest",
+                    "amount": 2730.77,
+                    "transaction_id": 33051773
+                },
+                {
+                    "date": "2022-11-03",
+                    "description": "Interest",
+                    "amount": 3056.42,
+                    "transaction_id": 93787210
+                },
+                {
+                    "date": "2023-10-25",
+                    "description": "Interest",
+                    "amount": -3151.44,
+                    "transaction_id": 80256933
+                },
+                {
+                    "date": "2023-03-29",
+                    "description": "Withdrawal",
+                    "amount": -4356.18,
+                    "transaction_id": 74272331
+                }
+            ]
+        }
+    }
+}

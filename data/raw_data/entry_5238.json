@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Robert Patterson",
+        "age": 68,
+        "gender": "female",
+        "address": "4335 Keith Union, Simmonsborough, NM 57519",
+        "phone": "+1-416-203-0640x950",
+        "email": "perezheather@example.net",
+        "account": {
+            "account_number": "62333f34-1ac0-45a1-900e-4f403c933b34",
+            "balance": 16242.43,
+            "transactions": [
+                {
+                    "date": "2024-08-05",
+                    "description": "Deposit",
+                    "amount": 2093.87,
+                    "transaction_id": 89757150
+                }
+            ]
+        }
+    }
+}

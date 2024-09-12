@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "John Lambert",
+        "age": 94,
+        "gender": "female",
+        "address": "3201 Kathryn Highway Suite 302, North Randall, NC 03067",
+        "phone": "(539)810-0951",
+        "email": "charles13@example.com",
+        "account": {
+            "account_number": "2da5a099-4638-4eba-a396-f3b346c0c6c9",
+            "balance": -20129.51,
+            "transactions": [
+                {
+                    "date": "2023-11-14",
+                    "description": "Withdrawal",
+                    "amount": -820.02,
+                    "transaction_id": 111922670
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Withdrawal",
+                    "amount": -3992.59,
+                    "transaction_id": 53237547
+                }
+            ]
+        }
+    }
+}

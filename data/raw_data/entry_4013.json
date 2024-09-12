@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sean Moody",
+        "age": 99,
+        "gender": "female",
+        "address": "52184 Robert Drive Suite 682, Jameschester, OR 66469",
+        "phone": "+1-454-880-2362x09185",
+        "email": "phansen@example.org",
+        "account": {
+            "account_number": "c45bba33-5e67-444f-b6ec-0f6870857dbd",
+            "balance": 12638.63,
+            "transactions": [
+                {
+                    "date": "2023-06-20",
+                    "description": "Interest",
+                    "amount": 5174.81,
+                    "transaction_id": 44584679
+                }
+            ]
+        }
+    }
+}

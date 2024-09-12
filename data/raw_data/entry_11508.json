@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Debra Zamora",
+        "age": 62,
+        "gender": "male",
+        "address": "774 Morris Forge, Davidberg, AL 48583",
+        "phone": "402.519.7923x257",
+        "email": "llindsey@example.net",
+        "account": {
+            "account_number": "794e6a79-971a-4d00-b51f-13619cc380d2",
+            "balance": -10812.03,
+            "transactions": [
+                {
+                    "date": "2022-10-02",
+                    "description": "Deposit",
+                    "amount": 544.47,
+                    "transaction_id": 116487391
+                }
+            ]
+        }
+    }
+}

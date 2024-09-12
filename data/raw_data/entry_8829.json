@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Stacy Duncan",
+        "age": 50,
+        "gender": "female",
+        "address": "184 Carey Brooks, New Michaelstad, MN 96871",
+        "phone": "973.587.7635x2566",
+        "email": "rebekahduffy@example.net",
+        "account": {
+            "account_number": "50e9b927-c7e2-4c71-8c26-42ad53837243",
+            "balance": -14334.01,
+            "transactions": [
+                {
+                    "date": "2022-10-20",
+                    "description": "Withdrawal",
+                    "amount": 2104.56,
+                    "transaction_id": 114726128
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Deposit",
+                    "amount": -4842.9,
+                    "transaction_id": 60326292
+                },
+                {
+                    "date": "2022-11-23",
+                    "description": "Withdrawal",
+                    "amount": -1443.64,
+                    "transaction_id": 57606538
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Withdrawal",
+                    "amount": -314.97,
+                    "transaction_id": 50492150
+                },
+                {
+                    "date": "2023-07-23",
+                    "description": "Interest",
+                    "amount": -533.1,
+                    "transaction_id": 89322869
+                }
+            ]
+        }
+    }
+}

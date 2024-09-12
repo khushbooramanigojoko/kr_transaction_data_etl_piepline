@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 30,
+        "gender": "male",
+        "address": "405 Holly Ridges, Lake Shellybury, NY 29420",
+        "phone": "+1-245-313-2107",
+        "email": "johndavis@example.net",
+        "account": {
+            "account_number": "db917924-7e03-464a-b8e5-54b7449f5ca4",
+            "balance": 14029.34,
+            "transactions": [
+                {
+                    "date": "2023-06-17",
+                    "description": "Interest",
+                    "amount": -2441.62,
+                    "transaction_id": 91309573
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jose Ramos",
+        "age": 58,
+        "gender": "male",
+        "address": "403 Valerie Loop, Jamesberg, TX 86791",
+        "phone": "495.903.4098x90823",
+        "email": "lsilva@example.org",
+        "account": {
+            "account_number": "0be9709e-e095-4499-8a1c-102899111abb",
+            "balance": 33531.48,
+            "transactions": [
+                {
+                    "date": "2023-05-11",
+                    "description": "Interest",
+                    "amount": 6175.59,
+                    "transaction_id": 42606300
+                },
+                {
+                    "date": "2023-03-24",
+                    "description": "Withdrawal",
+                    "amount": 16576.84,
+                    "transaction_id": 95274694
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Withdrawal",
+                    "amount": 15943.2,
+                    "transaction_id": 27771083
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nicholas Miller",
+        "age": 80,
+        "gender": "female",
+        "address": "502 Michelle Pass Apt. 623, East Caroline, KS 94410",
+        "phone": "001-882-283-3815x523",
+        "email": "kevindaniels@example.org",
+        "account": {
+            "account_number": "7741e41d-2ccb-4f7d-9df5-8e244a96a044",
+            "balance": 8490.42,
+            "transactions": [
+                {
+                    "date": "2024-03-12",
+                    "description": "Deposit",
+                    "amount": 2460.58,
+                    "transaction_id": 110776599
+                },
+                {
+                    "date": "2022-10-27",
+                    "description": "Interest",
+                    "amount": 8021.91,
+                    "transaction_id": 100439155
+                },
+                {
+                    "date": "2023-02-01",
+                    "description": "Withdrawal",
+                    "amount": 14406.59,
+                    "transaction_id": 32628276
+                },
+                {
+                    "date": "2023-12-01",
+                    "description": "Deposit",
+                    "amount": 49750.19,
+                    "transaction_id": 100935338
+                }
+            ]
+        }
+    }
+}

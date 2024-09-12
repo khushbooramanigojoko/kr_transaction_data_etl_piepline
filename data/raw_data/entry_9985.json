@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 42,
+        "gender": "male",
+        "address": "694 Deborah Village, Patrickmouth, CA 09394",
+        "phone": "937-836-7487x3687",
+        "email": "nicholas82@example.com",
+        "account": {
+            "account_number": "b0dfbca4-30e1-474b-b9f0-c003b415a0af",
+            "balance": 27503.65,
+            "transactions": [
+                {
+                    "date": "2023-06-13",
+                    "description": "Withdrawal",
+                    "amount": 1151.46,
+                    "transaction_id": 12076199
+                },
+                {
+                    "date": "2023-05-17",
+                    "description": "Withdrawal",
+                    "amount": 2040.66,
+                    "transaction_id": 79032308
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Withdrawal",
+                    "amount": 4910.94,
+                    "transaction_id": 90998273
+                }
+            ]
+        }
+    }
+}

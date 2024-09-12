@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Allen",
+        "age": 78,
+        "gender": "male",
+        "address": "4432 Crystal Grove, West Stephanie, VI 41795",
+        "phone": "(504)257-3198x537",
+        "email": "fjackson@example.org",
+        "account": {
+            "account_number": "967f87aa-3f9a-4d5f-9ea3-231b91d6edfc",
+            "balance": 44442.81,
+            "transactions": [
+                {
+                    "date": "2024-03-28",
+                    "description": "Interest",
+                    "amount": 42706.81,
+                    "transaction_id": 78954397
+                },
+                {
+                    "date": "2023-09-28",
+                    "description": "Interest",
+                    "amount": 44140.98,
+                    "transaction_id": 44414253
+                },
+                {
+                    "date": "2023-01-31",
+                    "description": "Interest",
+                    "amount": 10687.14,
+                    "transaction_id": 102333746
+                },
+                {
+                    "date": "2024-04-29",
+                    "description": "Withdrawal",
+                    "amount": 2947.61,
+                    "transaction_id": 46747519
+                }
+            ]
+        }
+    }
+}

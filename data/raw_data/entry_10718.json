@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Diana Kelley",
+        "age": 68,
+        "gender": "female",
+        "address": "42316 Cheryl Corners, Katherinebury, MH 87523",
+        "phone": "+1-280-704-9032x66926",
+        "email": "thomasmichael@example.org",
+        "account": {
+            "account_number": "98ab04e3-55b0-423e-8a01-0f4fc0b7fdcf",
+            "balance": -11977.4,
+            "transactions": [
+                {
+                    "date": "2022-11-09",
+                    "description": "Withdrawal",
+                    "amount": 2099.22,
+                    "transaction_id": 28339285
+                },
+                {
+                    "date": "2022-09-05",
+                    "description": "Interest",
+                    "amount": -2263.62,
+                    "transaction_id": 85214415
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Interest",
+                    "amount": 4380.72,
+                    "transaction_id": 54397649
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Interest",
+                    "amount": -3025.78,
+                    "transaction_id": 91734861
+                }
+            ]
+        }
+    }
+}

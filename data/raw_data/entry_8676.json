@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Andrew Rangel",
+        "age": 38,
+        "gender": "male",
+        "address": "11929 Bishop Flats, West Johnport, MH 93592",
+        "phone": "528-971-9154",
+        "email": "vstafford@example.com",
+        "account": {
+            "account_number": "9f0c79fa-ed3c-408b-86d4-65a7967dba20",
+            "balance": 3354.11,
+            "transactions": [
+                {
+                    "date": "2023-02-14",
+                    "description": "Interest",
+                    "amount": 31127.7,
+                    "transaction_id": 10243992
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Interest",
+                    "amount": 35289.65,
+                    "transaction_id": 68894265
+                },
+                {
+                    "date": "2023-06-26",
+                    "description": "Withdrawal",
+                    "amount": 33245.89,
+                    "transaction_id": 88376403
+                },
+                {
+                    "date": "2022-09-11",
+                    "description": "Deposit",
+                    "amount": 19476.7,
+                    "transaction_id": 96059182
+                },
+                {
+                    "date": "2022-12-21",
+                    "description": "Interest",
+                    "amount": 11600.61,
+                    "transaction_id": 22010377
+                }
+            ]
+        }
+    }
+}

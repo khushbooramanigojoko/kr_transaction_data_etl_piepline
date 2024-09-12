@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Louis Wright",
+        "age": 88,
+        "gender": "male",
+        "address": "9659 Amy Court, Jacktown, VA 63551",
+        "phone": "904.388.4203x57538",
+        "email": "vsaunders@example.org",
+        "account": {
+            "account_number": "6f4f2812-32d3-4181-a5bc-ef9906cf7570",
+            "balance": 31194.34,
+            "transactions": [
+                {
+                    "date": "2024-04-11",
+                    "description": "Deposit",
+                    "amount": 13500.39,
+                    "transaction_id": 71412422
+                },
+                {
+                    "date": "2023-04-18",
+                    "description": "Deposit",
+                    "amount": 13594.95,
+                    "transaction_id": 94031050
+                },
+                {
+                    "date": "2023-01-03",
+                    "description": "Withdrawal",
+                    "amount": 38189.32,
+                    "transaction_id": 76881988
+                }
+            ]
+        }
+    }
+}

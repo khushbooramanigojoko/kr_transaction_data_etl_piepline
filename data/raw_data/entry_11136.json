@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ellen Schultz",
+        "age": 96,
+        "gender": "male",
+        "address": "44442 Kim Centers Suite 604, Oliviafort, FM 59077",
+        "phone": "+1-760-655-0120x853",
+        "email": "melissa64@example.org",
+        "account": {
+            "account_number": "97003dde-3397-4f9a-9374-e767513f2811",
+            "balance": -24032.72,
+            "transactions": [
+                {
+                    "date": "2024-02-06",
+                    "description": "Withdrawal",
+                    "amount": 4577.27,
+                    "transaction_id": 75329975
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Interest",
+                    "amount": -3267.11,
+                    "transaction_id": 110123550
+                },
+                {
+                    "date": "2024-04-21",
+                    "description": "Withdrawal",
+                    "amount": 3332.47,
+                    "transaction_id": 48937806
+                },
+                {
+                    "date": "2022-12-21",
+                    "description": "Interest",
+                    "amount": 1035.8,
+                    "transaction_id": 18385812
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Deposit",
+                    "amount": -4660.67,
+                    "transaction_id": 101280509
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Wayne Foster",
+        "age": 50,
+        "gender": "male",
+        "address": "USNV Ruiz, FPO AP 58990",
+        "phone": "361.651.1931",
+        "email": "barbara70@example.com",
+        "account": {
+            "account_number": "cfe5bff6-ed59-4e75-8a51-ffdfe7149ab0",
+            "balance": 21498.31,
+            "transactions": [
+                {
+                    "date": "2024-02-21",
+                    "description": "Interest",
+                    "amount": 38459.5,
+                    "transaction_id": 88863776
+                },
+                {
+                    "date": "2023-10-20",
+                    "description": "Deposit",
+                    "amount": 41139.64,
+                    "transaction_id": 105778128
+                },
+                {
+                    "date": "2024-06-26",
+                    "description": "Interest",
+                    "amount": 48132.04,
+                    "transaction_id": 51623990
+                }
+            ]
+        }
+    }
+}

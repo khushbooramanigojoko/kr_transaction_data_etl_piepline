@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Nelson",
+        "age": 85,
+        "gender": "female",
+        "address": "78002 Huff Brook Suite 727, Janetchester, IA 90578",
+        "phone": "875.484.9122",
+        "email": "madisongreene@example.com",
+        "account": {
+            "account_number": "0295efd8-cab5-4dd0-a8a5-d4de541c16a6",
+            "balance": -25919.15,
+            "transactions": [
+                {
+                    "date": "2022-12-30",
+                    "description": "Withdrawal",
+                    "amount": 847.52,
+                    "transaction_id": 100217841
+                },
+                {
+                    "date": "2024-01-27",
+                    "description": "Withdrawal",
+                    "amount": 4041.33,
+                    "transaction_id": 99687625
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amy Sosa",
+        "age": 52,
+        "gender": "female",
+        "address": "631 Hannah Fork Apt. 665, Elizabethborough, RI 59478",
+        "phone": "+1-705-921-8382",
+        "email": "usweeney@example.com",
+        "account": {
+            "account_number": "0d642d62-03a7-4bf4-a57d-6e8fc16c25b1",
+            "balance": -29370.82,
+            "transactions": [
+                {
+                    "date": "2023-02-02",
+                    "description": "Interest",
+                    "amount": 4489.62,
+                    "transaction_id": 69133305
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Interest",
+                    "amount": 875.58,
+                    "transaction_id": 1532449
+                },
+                {
+                    "date": "2023-09-20",
+                    "description": "Deposit",
+                    "amount": -3564.94,
+                    "transaction_id": 42373449
+                },
+                {
+                    "date": "2023-10-08",
+                    "description": "Withdrawal",
+                    "amount": 4138.37,
+                    "transaction_id": 112224526
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Martin Benjamin",
+        "age": 38,
+        "gender": "female",
+        "address": "2623 Stephen Crest Apt. 938, Martinezshire, CA 25973",
+        "phone": "445.958.9183x6749",
+        "email": "mooredeanna@example.org",
+        "account": {
+            "account_number": "e4716fa5-fb63-43a9-b272-7a81a814b8de",
+            "balance": 26109.5,
+            "transactions": [
+                {
+                    "date": "2023-04-06",
+                    "description": "Withdrawal",
+                    "amount": 44674.7,
+                    "transaction_id": 11203076
+                },
+                {
+                    "date": "2023-11-11",
+                    "description": "Withdrawal",
+                    "amount": 25743.65,
+                    "transaction_id": 2401941
+                },
+                {
+                    "date": "2024-01-23",
+                    "description": "Deposit",
+                    "amount": 31471.62,
+                    "transaction_id": 102397413
+                }
+            ]
+        }
+    }
+}

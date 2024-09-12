@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Phillip Smith Jr.",
+        "age": 50,
+        "gender": "female",
+        "address": "4934 Howell Motorway Suite 324, Madelinefurt, NM 90580",
+        "phone": "482-576-1745x9907",
+        "email": "masseykatelyn@example.org",
+        "account": {
+            "account_number": "d45a675c-9b4e-448c-8fdd-c73fe92ae91d",
+            "balance": 22782.9,
+            "transactions": [
+                {
+                    "date": "2023-06-10",
+                    "description": "Deposit",
+                    "amount": 28214.88,
+                    "transaction_id": 10714332
+                },
+                {
+                    "date": "2023-12-12",
+                    "description": "Deposit",
+                    "amount": 21029.46,
+                    "transaction_id": 108000184
+                },
+                {
+                    "date": "2023-12-06",
+                    "description": "Withdrawal",
+                    "amount": 8520.19,
+                    "transaction_id": 19463521
+                },
+                {
+                    "date": "2023-03-29",
+                    "description": "Withdrawal",
+                    "amount": 43611.17,
+                    "transaction_id": 109485541
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Deposit",
+                    "amount": 33766.19,
+                    "transaction_id": 106237320
+                }
+            ]
+        }
+    }
+}

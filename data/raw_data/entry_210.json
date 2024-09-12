@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Yvonne Holland",
+        "age": 50,
+        "gender": "female",
+        "address": "90336 Jenkins Ports Apt. 605, Lake Corey, NJ 60389",
+        "phone": "001-745-392-5799x84927",
+        "email": "hughesshawn@example.com",
+        "account": {
+            "account_number": "0cc59df1-d726-43fd-9c46-eb7dfc8f6048",
+            "balance": 29084.65,
+            "transactions": [
+                {
+                    "date": "2024-07-11",
+                    "description": "Interest",
+                    "amount": 21568.81,
+                    "transaction_id": 64754272
+                }
+            ]
+        }
+    }
+}

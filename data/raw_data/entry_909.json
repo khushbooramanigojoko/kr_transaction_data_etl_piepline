@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Terri Parker",
+        "age": 83,
+        "gender": "male",
+        "address": "93359 Tom Shores, Andrewside, UT 53024",
+        "phone": "339.975.5890",
+        "email": "charles64@example.org",
+        "account": {
+            "account_number": "fb4be745-e3b3-462a-9c37-5d1d6c361688",
+            "balance": 46228.52,
+            "transactions": [
+                {
+                    "date": "2023-12-07",
+                    "description": "Deposit",
+                    "amount": 25229.19,
+                    "transaction_id": 38678128
+                },
+                {
+                    "date": "2024-05-24",
+                    "description": "Interest",
+                    "amount": 23363.22,
+                    "transaction_id": 115503796
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Interest",
+                    "amount": 29222.82,
+                    "transaction_id": 106790900
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Interest",
+                    "amount": 7202.92,
+                    "transaction_id": 100577748
+                },
+                {
+                    "date": "2024-06-06",
+                    "description": "Withdrawal",
+                    "amount": 15797.12,
+                    "transaction_id": 40205740
+                }
+            ]
+        }
+    }
+}

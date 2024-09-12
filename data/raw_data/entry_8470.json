@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tracie Flores",
+        "age": 95,
+        "gender": "female",
+        "address": "2183 Erik Haven Apt. 981, Davidtown, ID 15669",
+        "phone": "+1-476-982-0318",
+        "email": "tarawise@example.com",
+        "account": {
+            "account_number": "e08c4e5a-ae03-4683-bed3-59f2a55083a1",
+            "balance": 34987.59,
+            "transactions": [
+                {
+                    "date": "2023-05-24",
+                    "description": "Deposit",
+                    "amount": 18493.16,
+                    "transaction_id": 38689792
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Withdrawal",
+                    "amount": 28117.0,
+                    "transaction_id": 21944322
+                }
+            ]
+        }
+    }
+}

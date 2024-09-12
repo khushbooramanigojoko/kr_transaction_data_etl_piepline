@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Beth Sanchez",
+        "age": 42,
+        "gender": "female",
+        "address": "5199 Kurt Gateway Suite 695, Amandahaven, WV 87029",
+        "phone": "(634)761-7419",
+        "email": "ldiaz@example.org",
+        "account": {
+            "account_number": "751e75b9-506c-4f07-b4a0-ac8e89c8a678",
+            "balance": 8591.73,
+            "transactions": [
+                {
+                    "date": "2024-04-29",
+                    "description": "Interest",
+                    "amount": 34237.21,
+                    "transaction_id": 73588441
+                },
+                {
+                    "date": "2024-02-10",
+                    "description": "Deposit",
+                    "amount": 3045.04,
+                    "transaction_id": 85325417
+                },
+                {
+                    "date": "2024-03-10",
+                    "description": "Interest",
+                    "amount": 22940.19,
+                    "transaction_id": 86600313
+                }
+            ]
+        }
+    }
+}

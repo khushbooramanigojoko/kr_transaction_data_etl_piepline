@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Ayers",
+        "age": 26,
+        "gender": "male",
+        "address": "53550 Smith Knolls Apt. 455, Matthewhaven, GU 95567",
+        "phone": "659-673-8322",
+        "email": "williamcrawford@example.com",
+        "account": {
+            "account_number": "9f47d727-970d-43da-bcbf-af7ad2173afa",
+            "balance": 29403.97,
+            "transactions": [
+                {
+                    "date": "2023-07-31",
+                    "description": "Interest",
+                    "amount": 36916.98,
+                    "transaction_id": 95709392
+                }
+            ]
+        }
+    }
+}

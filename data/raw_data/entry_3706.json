@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joseph Pace",
+        "age": 70,
+        "gender": "female",
+        "address": "104 Betty Corner, Mitchellhaven, MN 54591",
+        "phone": "894-870-2979x8046",
+        "email": "osmith@example.org",
+        "account": {
+            "account_number": "1fa159da-309a-4343-9f27-06390d14a328",
+            "balance": 28226.88,
+            "transactions": [
+                {
+                    "date": "2023-08-25",
+                    "description": "Withdrawal",
+                    "amount": 48408.2,
+                    "transaction_id": 19507041
+                },
+                {
+                    "date": "2023-09-14",
+                    "description": "Deposit",
+                    "amount": 3382.09,
+                    "transaction_id": 104638623
+                }
+            ]
+        }
+    }
+}

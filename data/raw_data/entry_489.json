@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tiffany Mckay",
+        "age": 77,
+        "gender": "female",
+        "address": "0543 Jacqueline Groves, East Brian, NM 33407",
+        "phone": "992-853-3909x63583",
+        "email": "christopherali@example.org",
+        "account": {
+            "account_number": "99697f90-a6f3-4d00-ac7b-abe9c00d8deb",
+            "balance": 39602.1,
+            "transactions": [
+                {
+                    "date": "2024-07-24",
+                    "description": "Interest",
+                    "amount": 35785.55,
+                    "transaction_id": 35647690
+                },
+                {
+                    "date": "2023-09-14",
+                    "description": "Withdrawal",
+                    "amount": 43784.98,
+                    "transaction_id": 116371834
+                },
+                {
+                    "date": "2023-08-17",
+                    "description": "Deposit",
+                    "amount": 18580.99,
+                    "transaction_id": 61534388
+                }
+            ]
+        }
+    }
+}

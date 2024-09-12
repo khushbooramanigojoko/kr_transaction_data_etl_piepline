@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Elizabeth Barnett",
+        "age": 66,
+        "gender": "female",
+        "address": "894 Daniel Mountains Apt. 603, North Allisonshire, CO 59778",
+        "phone": "001-538-474-3654",
+        "email": "iwilliams@example.net",
+        "account": {
+            "account_number": "a10597a5-2a4a-4021-9405-10cddde3de2a",
+            "balance": 5579.52,
+            "transactions": [
+                {
+                    "date": "2023-07-18",
+                    "description": "Withdrawal",
+                    "amount": 33235.32,
+                    "transaction_id": 30934465
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Interest",
+                    "amount": 33879.07,
+                    "transaction_id": 98979586
+                },
+                {
+                    "date": "2023-09-04",
+                    "description": "Withdrawal",
+                    "amount": 2187.41,
+                    "transaction_id": 104588667
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Deposit",
+                    "amount": 28530.2,
+                    "transaction_id": 103550053
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Withdrawal",
+                    "amount": 45347.16,
+                    "transaction_id": 79025444
+                }
+            ]
+        }
+    }
+}

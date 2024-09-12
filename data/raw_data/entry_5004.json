@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Heather Campos",
+        "age": 62,
+        "gender": "female",
+        "address": "989 Alejandro Isle Suite 490, Lynnstad, CO 77367",
+        "phone": "(772)298-5936",
+        "email": "cookjoel@example.net",
+        "account": {
+            "account_number": "f19704e6-17f6-4c59-9c04-c36e77be557f",
+            "balance": 14133.35,
+            "transactions": [
+                {
+                    "date": "2024-05-25",
+                    "description": "Withdrawal",
+                    "amount": 38692.01,
+                    "transaction_id": 22774491
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Deposit",
+                    "amount": 35000.1,
+                    "transaction_id": 27123867
+                }
+            ]
+        }
+    }
+}

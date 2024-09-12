@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 45,
+        "gender": "male",
+        "address": "345 Murphy Isle Suite 507, New Jennifertown, NV 44695",
+        "phone": "748.216.4311x72991",
+        "email": "jasonshepherd@example.com",
+        "account": {
+            "account_number": "a9146143-44b7-48de-92cc-239a921af42a",
+            "balance": 14526.98,
+            "transactions": [
+                {
+                    "date": "2023-04-11",
+                    "description": "Deposit",
+                    "amount": 4097.37,
+                    "transaction_id": 54377292
+                },
+                {
+                    "date": "2024-08-19",
+                    "description": "Deposit",
+                    "amount": -512.96,
+                    "transaction_id": 118520863
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Andrew Richardson",
+        "age": 80,
+        "gender": "female",
+        "address": "668 Jacobs Glens Suite 968, Carlashire, AK 29354",
+        "phone": "201.897.1356x87727",
+        "email": "sarah45@example.org",
+        "account": {
+            "account_number": "58981e47-53fc-40e5-9cd5-dde78042c6b4",
+            "balance": 9919.8,
+            "transactions": [
+                {
+                    "date": "2022-11-28",
+                    "description": "Interest",
+                    "amount": 12062.07,
+                    "transaction_id": 41671218
+                },
+                {
+                    "date": "2024-06-02",
+                    "description": "Withdrawal",
+                    "amount": 20932.37,
+                    "transaction_id": 34507524
+                },
+                {
+                    "date": "2024-04-04",
+                    "description": "Withdrawal",
+                    "amount": 9729.7,
+                    "transaction_id": 36312817
+                },
+                {
+                    "date": "2024-07-14",
+                    "description": "Interest",
+                    "amount": 21660.53,
+                    "transaction_id": 68133319
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Interest",
+                    "amount": 19182.83,
+                    "transaction_id": 71491172
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Cheryl Scott",
+        "age": 59,
+        "gender": "male",
+        "address": "3400 Cantrell Prairie Apt. 775, West Kathyhaven, NV 58844",
+        "phone": "2382600687",
+        "email": "howelldennis@example.com",
+        "account": {
+            "account_number": "de348e60-d848-4efc-af41-63d354374cd2",
+            "balance": 34628.94,
+            "transactions": [
+                {
+                    "date": "2023-07-12",
+                    "description": "Deposit",
+                    "amount": 3084.11,
+                    "transaction_id": 60986505
+                },
+                {
+                    "date": "2024-08-29",
+                    "description": "Deposit",
+                    "amount": 28849.11,
+                    "transaction_id": 92352286
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Deposit",
+                    "amount": 36944.01,
+                    "transaction_id": 89655890
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Withdrawal",
+                    "amount": 11259.89,
+                    "transaction_id": 92865312
+                }
+            ]
+        }
+    }
+}

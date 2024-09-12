@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kimberly Page",
+        "age": 32,
+        "gender": "male",
+        "address": "470 Becky Mount Suite 542, New Robertchester, CT 63752",
+        "phone": "443-294-9471x3158",
+        "email": "hardyrachel@example.org",
+        "account": {
+            "account_number": "e9acae7a-2e72-4bdc-b715-f49a66d1969d",
+            "balance": 6538.53,
+            "transactions": [
+                {
+                    "date": "2023-04-12",
+                    "description": "Withdrawal",
+                    "amount": 13634.35,
+                    "transaction_id": 9641839
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Withdrawal",
+                    "amount": 28044.67,
+                    "transaction_id": 3213067
+                },
+                {
+                    "date": "2022-12-11",
+                    "description": "Deposit",
+                    "amount": 26774.54,
+                    "transaction_id": 85267852
+                }
+            ]
+        }
+    }
+}

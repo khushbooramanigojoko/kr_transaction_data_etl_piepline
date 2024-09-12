@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 92,
+        "gender": "male",
+        "address": "2188 Williamson Squares, Lake Russellmouth, SD 93064",
+        "phone": "596-472-5152x271",
+        "email": "megan37@example.net",
+        "account": {
+            "account_number": "0d0dad38-ab62-4353-829b-579cb32a9d82",
+            "balance": 47672.19,
+            "transactions": [
+                {
+                    "date": "2024-02-12",
+                    "description": "Interest",
+                    "amount": -1240.24,
+                    "transaction_id": 19232733
+                },
+                {
+                    "date": "2022-12-25",
+                    "description": "Withdrawal",
+                    "amount": -1717.65,
+                    "transaction_id": 3359481
+                },
+                {
+                    "date": "2023-07-09",
+                    "description": "Interest",
+                    "amount": -1341.22,
+                    "transaction_id": 35906992
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kathleen Haynes",
+        "age": 73,
+        "gender": "male",
+        "address": "71960 Paul Ridges Suite 274, Vancebury, FL 90453",
+        "phone": "830.229.2884x47137",
+        "email": "sarahjames@example.com",
+        "account": {
+            "account_number": "2033d2b4-0084-468e-ad9b-738c70baa5b4",
+            "balance": -2758.62,
+            "transactions": [
+                {
+                    "date": "2024-01-04",
+                    "description": "Deposit",
+                    "amount": -3038.97,
+                    "transaction_id": 101775465
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Deposit",
+                    "amount": -1169.51,
+                    "transaction_id": 1414655
+                },
+                {
+                    "date": "2022-12-29",
+                    "description": "Interest",
+                    "amount": -655.29,
+                    "transaction_id": 38404550
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Deposit",
+                    "amount": -4476.9,
+                    "transaction_id": 16343739
+                },
+                {
+                    "date": "2023-04-09",
+                    "description": "Interest",
+                    "amount": 4064.32,
+                    "transaction_id": 26867267
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kirk Jones",
+        "age": 90,
+        "gender": "female",
+        "address": "92633 James Glens Suite 496, West Richardtown, TN 74428",
+        "phone": "+1-703-823-8586x81752",
+        "email": "angelajohnson@example.org",
+        "account": {
+            "account_number": "ef16c0b6-51e8-401b-be93-4cbabe8282c7",
+            "balance": 33423.65,
+            "transactions": [
+                {
+                    "date": "2022-09-12",
+                    "description": "Interest",
+                    "amount": 47087.08,
+                    "transaction_id": 101683328
+                },
+                {
+                    "date": "2023-12-26",
+                    "description": "Interest",
+                    "amount": 37566.74,
+                    "transaction_id": 106077181
+                },
+                {
+                    "date": "2024-04-05",
+                    "description": "Deposit",
+                    "amount": 41413.0,
+                    "transaction_id": 73972729
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Withdrawal",
+                    "amount": 31500.74,
+                    "transaction_id": 29925195
+                },
+                {
+                    "date": "2024-03-24",
+                    "description": "Withdrawal",
+                    "amount": 25290.9,
+                    "transaction_id": 108487902
+                }
+            ]
+        }
+    }
+}

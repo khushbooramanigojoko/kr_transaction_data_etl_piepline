@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Melissa Ellison",
+        "age": 76,
+        "gender": "female",
+        "address": "489 Brian Underpass Apt. 595, Reedshire, AR 89893",
+        "phone": "001-249-256-3306x318",
+        "email": "stonelaura@example.com",
+        "account": {
+            "account_number": "9d386705-e695-4bde-b043-e6b14c4bd3f1",
+            "balance": 23141.6,
+            "transactions": [
+                {
+                    "date": "2023-02-18",
+                    "description": "Withdrawal",
+                    "amount": 28062.06,
+                    "transaction_id": 22398387
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Interest",
+                    "amount": 32422.67,
+                    "transaction_id": 64188248
+                },
+                {
+                    "date": "2024-06-01",
+                    "description": "Deposit",
+                    "amount": 29812.14,
+                    "transaction_id": 115737248
+                },
+                {
+                    "date": "2024-03-06",
+                    "description": "Deposit",
+                    "amount": 24729.56,
+                    "transaction_id": 76566447
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Deposit",
+                    "amount": 18341.67,
+                    "transaction_id": 104695819
+                }
+            ]
+        }
+    }
+}

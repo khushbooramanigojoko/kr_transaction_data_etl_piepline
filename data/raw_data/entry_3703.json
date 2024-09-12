@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Elizabeth Curry",
+        "age": 92,
+        "gender": "female",
+        "address": "7461 Misty Garden Apt. 545, Port Tylerhaven, AK 34470",
+        "phone": "(793)662-4750x79588",
+        "email": "amylucas@example.org",
+        "account": {
+            "account_number": "672fba22-0b17-42db-8dc3-46e796d5d754",
+            "balance": 5904.1,
+            "transactions": [
+                {
+                    "date": "2023-01-27",
+                    "description": "Deposit",
+                    "amount": 40914.18,
+                    "transaction_id": 62438496
+                },
+                {
+                    "date": "2024-08-22",
+                    "description": "Deposit",
+                    "amount": 13611.48,
+                    "transaction_id": 31030199
+                },
+                {
+                    "date": "2024-05-28",
+                    "description": "Withdrawal",
+                    "amount": 47469.7,
+                    "transaction_id": 92586472
+                },
+                {
+                    "date": "2024-08-25",
+                    "description": "Interest",
+                    "amount": 40216.72,
+                    "transaction_id": 72863783
+                }
+            ]
+        }
+    }
+}

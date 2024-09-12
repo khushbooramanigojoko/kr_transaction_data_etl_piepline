@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brittany Wright",
+        "age": 32,
+        "gender": "female",
+        "address": "07625 Alvarado Court Apt. 380, Samanthaport, VA 67307",
+        "phone": "(504)255-0656",
+        "email": "peterjackson@example.net",
+        "account": {
+            "account_number": "0cecac97-c514-4f64-9a57-e4436edc8530",
+            "balance": 44140.23,
+            "transactions": [
+                {
+                    "date": "2024-07-27",
+                    "description": "Deposit",
+                    "amount": 8553.91,
+                    "transaction_id": 48197408
+                },
+                {
+                    "date": "2023-07-12",
+                    "description": "Interest",
+                    "amount": 46876.2,
+                    "transaction_id": 42544831
+                }
+            ]
+        }
+    }
+}

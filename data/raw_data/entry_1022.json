@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jeffrey Hall",
+        "age": 22,
+        "gender": "female",
+        "address": "435 William Cliffs Suite 774, Port Molly, KY 27193",
+        "phone": "449.252.4305",
+        "email": "blevinsjames@example.org",
+        "account": {
+            "account_number": "958519bb-d54b-4cb6-8fbf-0bcdf59e776a",
+            "balance": 14542.15,
+            "transactions": [
+                {
+                    "date": "2022-11-29",
+                    "description": "Interest",
+                    "amount": 13800.81,
+                    "transaction_id": 109331924
+                },
+                {
+                    "date": "2023-04-12",
+                    "description": "Deposit",
+                    "amount": 25195.95,
+                    "transaction_id": 12891876
+                }
+            ]
+        }
+    }
+}

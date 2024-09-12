@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michelle Morse",
+        "age": 55,
+        "gender": "male",
+        "address": "2023 Johnson Island, Hernandezborough, AZ 76798",
+        "phone": "001-502-713-1595",
+        "email": "brewerheidi@example.com",
+        "account": {
+            "account_number": "0b41bbac-4893-4697-893a-22fb765f8698",
+            "balance": 41901.35,
+            "transactions": [
+                {
+                    "date": "2023-12-28",
+                    "description": "Withdrawal",
+                    "amount": 48541.55,
+                    "transaction_id": 93380178
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Deposit",
+                    "amount": 42574.46,
+                    "transaction_id": 105313559
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Interest",
+                    "amount": 48683.36,
+                    "transaction_id": 51741239
+                }
+            ]
+        }
+    }
+}

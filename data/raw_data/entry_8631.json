@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mark Gonzalez",
+        "age": 41,
+        "gender": "female",
+        "address": "07763 Nancy Union Suite 085, Pennytown, TX 63740",
+        "phone": "001-219-935-8364x661",
+        "email": "zacharycortez@example.com",
+        "account": {
+            "account_number": "6bc177cb-e3ba-4f03-ae80-fda3e1b594ef",
+            "balance": 29226.06,
+            "transactions": [
+                {
+                    "date": "2024-01-16",
+                    "description": "Interest",
+                    "amount": 44810.84,
+                    "transaction_id": 105331144
+                },
+                {
+                    "date": "2024-07-19",
+                    "description": "Deposit",
+                    "amount": 24503.21,
+                    "transaction_id": 39199496
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Withdrawal",
+                    "amount": 5679.82,
+                    "transaction_id": 108772029
+                }
+            ]
+        }
+    }
+}

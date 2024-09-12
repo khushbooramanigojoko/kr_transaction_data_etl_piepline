@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Shelton",
+        "age": 39,
+        "gender": "male",
+        "address": "9788 James Roads, New Seanhaven, GA 86484",
+        "phone": "001-450-561-9008x8130",
+        "email": "kimberly30@example.org",
+        "account": {
+            "account_number": "acfe237a-929f-4bc3-ae22-6d29170d4f3c",
+            "balance": 21207.91,
+            "transactions": [
+                {
+                    "date": "2023-09-25",
+                    "description": "Deposit",
+                    "amount": 47700.13,
+                    "transaction_id": 46265467
+                },
+                {
+                    "date": "2023-01-22",
+                    "description": "Withdrawal",
+                    "amount": 34380.73,
+                    "transaction_id": 119207982
+                }
+            ]
+        }
+    }
+}

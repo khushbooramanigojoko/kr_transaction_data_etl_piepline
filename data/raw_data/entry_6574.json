@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brandon Gill",
+        "age": 28,
+        "gender": "male",
+        "address": "PSC 7452, Box 3822, APO AA 85347",
+        "phone": "(684)381-2583x13387",
+        "email": "wthompson@example.net",
+        "account": {
+            "account_number": "10cbd1fe-119a-4e02-b9b8-9d18af26fa34",
+            "balance": 19838.19,
+            "transactions": [
+                {
+                    "date": "2023-07-02",
+                    "description": "Withdrawal",
+                    "amount": 13739.9,
+                    "transaction_id": 1698264
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Withdrawal",
+                    "amount": 15857.01,
+                    "transaction_id": 33427240
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Interest",
+                    "amount": 6281.62,
+                    "transaction_id": 33761454
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Deposit",
+                    "amount": 17474.92,
+                    "transaction_id": 68937648
+                }
+            ]
+        }
+    }
+}

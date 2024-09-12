@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Blake Mcdaniel",
+        "age": 66,
+        "gender": "male",
+        "address": "8979 Eric Freeway, Port Valerieton, HI 57402",
+        "phone": "(937)764-6318",
+        "email": "jill95@example.com",
+        "account": {
+            "account_number": "9a793336-599f-415a-9ab1-02bc3073fb58",
+            "balance": 41183.38,
+            "transactions": [
+                {
+                    "date": "2024-03-22",
+                    "description": "Withdrawal",
+                    "amount": 45798.56,
+                    "transaction_id": 95556325
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Withdrawal",
+                    "amount": 7835.23,
+                    "transaction_id": 62059907
+                },
+                {
+                    "date": "2022-09-15",
+                    "description": "Interest",
+                    "amount": 14300.61,
+                    "transaction_id": 6936063
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Deposit",
+                    "amount": 24049.0,
+                    "transaction_id": 32685531
+                }
+            ]
+        }
+    }
+}

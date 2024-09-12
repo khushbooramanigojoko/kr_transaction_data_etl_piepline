@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Cody Dixon",
+        "age": 71,
+        "gender": "male",
+        "address": "81720 Chase Knoll Apt. 611, Jenniferbury, UT 96744",
+        "phone": "(579)316-3129",
+        "email": "louis32@example.com",
+        "account": {
+            "account_number": "e049a745-b869-4a5c-b106-5c076334a754",
+            "balance": 22708.86,
+            "transactions": [
+                {
+                    "date": "2024-08-01",
+                    "description": "Withdrawal",
+                    "amount": 16375.36,
+                    "transaction_id": 59480698
+                }
+            ]
+        }
+    }
+}

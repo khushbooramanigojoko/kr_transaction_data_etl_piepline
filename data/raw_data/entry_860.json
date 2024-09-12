@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sheryl Lopez",
+        "age": 23,
+        "gender": "female",
+        "address": "69764 Adam Mills, West Jennifer, SD 70241",
+        "phone": "636.373.1558x116",
+        "email": "flang@example.org",
+        "account": {
+            "account_number": "775bde1c-1ce7-4bff-b7a2-cd1a70f9988e",
+            "balance": 41119.07,
+            "transactions": [
+                {
+                    "date": "2024-08-16",
+                    "description": "Deposit",
+                    "amount": 40798.55,
+                    "transaction_id": 101795617
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Interest",
+                    "amount": 31643.52,
+                    "transaction_id": 69491895
+                },
+                {
+                    "date": "2024-08-19",
+                    "description": "Deposit",
+                    "amount": 40714.07,
+                    "transaction_id": 69299471
+                },
+                {
+                    "date": "2023-11-16",
+                    "description": "Withdrawal",
+                    "amount": 7674.74,
+                    "transaction_id": 51724006
+                },
+                {
+                    "date": "2023-04-16",
+                    "description": "Interest",
+                    "amount": 37233.65,
+                    "transaction_id": 62854854
+                }
+            ]
+        }
+    }
+}

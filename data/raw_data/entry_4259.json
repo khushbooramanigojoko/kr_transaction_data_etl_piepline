@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jeffery Greene",
+        "age": 21,
+        "gender": "female",
+        "address": "4486 Odonnell Circles Suite 314, Gonzalesview, MI 39629",
+        "phone": "646-946-8580x135",
+        "email": "amywilkins@example.org",
+        "account": {
+            "account_number": "55cf5036-a853-4228-9ecd-eaf8b57088e2",
+            "balance": 2586.57,
+            "transactions": [
+                {
+                    "date": "2022-09-27",
+                    "description": "Deposit",
+                    "amount": 45797.02,
+                    "transaction_id": 72477571
+                }
+            ]
+        }
+    }
+}

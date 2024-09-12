@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Craig Dodson",
+        "age": 32,
+        "gender": "male",
+        "address": "456 Roger Crossroad Suite 962, Lopezchester, ND 02386",
+        "phone": "387.538.1742x4392",
+        "email": "kperez@example.net",
+        "account": {
+            "account_number": "2f9d924e-77df-4da5-aba5-fb775c0bfe5c",
+            "balance": 34464.23,
+            "transactions": [
+                {
+                    "date": "2022-09-17",
+                    "description": "Interest",
+                    "amount": 3806.09,
+                    "transaction_id": 24048378
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Deposit",
+                    "amount": 48935.41,
+                    "transaction_id": 3999928
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Interest",
+                    "amount": 20827.78,
+                    "transaction_id": 110132065
+                },
+                {
+                    "date": "2022-11-22",
+                    "description": "Deposit",
+                    "amount": 41618.97,
+                    "transaction_id": 64279665
+                }
+            ]
+        }
+    }
+}

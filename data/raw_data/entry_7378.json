@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kelly Fry",
+        "age": 81,
+        "gender": "female",
+        "address": "7909 Mcdonald Bridge, New Luis, FM 85516",
+        "phone": "001-699-690-8201x420",
+        "email": "daniel08@example.net",
+        "account": {
+            "account_number": "2fc9f0b0-a435-473a-86d2-343cdb916d3a",
+            "balance": 23669.32,
+            "transactions": [
+                {
+                    "date": "2024-09-01",
+                    "description": "Withdrawal",
+                    "amount": 49541.24,
+                    "transaction_id": 43000535
+                },
+                {
+                    "date": "2023-09-29",
+                    "description": "Interest",
+                    "amount": 21947.47,
+                    "transaction_id": 85937617
+                },
+                {
+                    "date": "2024-01-11",
+                    "description": "Interest",
+                    "amount": 11503.69,
+                    "transaction_id": 60009515
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Interest",
+                    "amount": 6969.29,
+                    "transaction_id": 84181959
+                }
+            ]
+        }
+    }
+}

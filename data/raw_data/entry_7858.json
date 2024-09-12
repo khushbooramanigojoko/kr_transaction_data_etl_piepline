@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Teresa Jordan",
+        "age": 29,
+        "gender": "female",
+        "address": "3550 Clark Hills, South Emilyshire, SD 75204",
+        "phone": "406-901-5694x24547",
+        "email": "jamesdeleon@example.org",
+        "account": {
+            "account_number": "d1d23561-fa88-4eb2-a796-906fff31d4e6",
+            "balance": 35995.51,
+            "transactions": [
+                {
+                    "date": "2023-03-16",
+                    "description": "Interest",
+                    "amount": 42402.45,
+                    "transaction_id": 27882793
+                },
+                {
+                    "date": "2022-10-04",
+                    "description": "Deposit",
+                    "amount": 20124.04,
+                    "transaction_id": 1808354
+                }
+            ]
+        }
+    }
+}

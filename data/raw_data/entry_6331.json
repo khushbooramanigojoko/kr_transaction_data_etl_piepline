@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Courtney Williams",
+        "age": 30,
+        "gender": "female",
+        "address": "857 Benton Canyon Suite 485, West Robertbury, GU 33911",
+        "phone": "001-832-205-8947x212",
+        "email": "bartoneric@example.com",
+        "account": {
+            "account_number": "e2f9e8fc-778e-47be-b190-60b298f22db6",
+            "balance": 13168.14,
+            "transactions": [
+                {
+                    "date": "2024-04-21",
+                    "description": "Withdrawal",
+                    "amount": 21669.28,
+                    "transaction_id": 73386119
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Deposit",
+                    "amount": 27721.63,
+                    "transaction_id": 27687579
+                },
+                {
+                    "date": "2022-12-20",
+                    "description": "Deposit",
+                    "amount": 35594.56,
+                    "transaction_id": 97852468
+                }
+            ]
+        }
+    }
+}

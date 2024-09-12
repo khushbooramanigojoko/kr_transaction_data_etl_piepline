@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Monica Mckinney",
+        "age": 33,
+        "gender": "male",
+        "address": "1271 David Centers Apt. 089, East Rebecca, AL 75270",
+        "phone": "001-279-653-5615",
+        "email": "umorrow@example.com",
+        "account": {
+            "account_number": "7ad5029d-a7fc-49c6-b933-433b3325658e",
+            "balance": 7918.09,
+            "transactions": [
+                {
+                    "date": "2022-12-17",
+                    "description": "Deposit",
+                    "amount": 27815.82,
+                    "transaction_id": 31021268
+                },
+                {
+                    "date": "2024-05-13",
+                    "description": "Withdrawal",
+                    "amount": 5179.03,
+                    "transaction_id": 70016838
+                },
+                {
+                    "date": "2022-10-24",
+                    "description": "Withdrawal",
+                    "amount": 32536.88,
+                    "transaction_id": 69819591
+                }
+            ]
+        }
+    }
+}

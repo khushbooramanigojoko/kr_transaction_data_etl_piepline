@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Rick Hurley",
+        "age": 44,
+        "gender": "female",
+        "address": "05647 Michelle Harbors Suite 094, Lake Micheleshire, AK 24373",
+        "phone": "001-465-424-6751x39786",
+        "email": "mikayla50@example.org",
+        "account": {
+            "account_number": "4260f1c7-4ce6-4e21-b23b-eed435b2254e",
+            "balance": 16600.4,
+            "transactions": [
+                {
+                    "date": "2024-05-09",
+                    "description": "Deposit",
+                    "amount": 2619.97,
+                    "transaction_id": 31481081
+                },
+                {
+                    "date": "2023-07-02",
+                    "description": "Withdrawal",
+                    "amount": 8074.33,
+                    "transaction_id": 92643533
+                }
+            ]
+        }
+    }
+}

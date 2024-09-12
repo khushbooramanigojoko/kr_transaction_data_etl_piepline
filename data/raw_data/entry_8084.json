@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jason Armstrong",
+        "age": 68,
+        "gender": "male",
+        "address": "PSC 8570, Box 2394, APO AA 84367",
+        "phone": "(731)802-0553x0746",
+        "email": "goneill@example.net",
+        "account": {
+            "account_number": "25d34214-1465-42a2-a6be-30d90414d546",
+            "balance": 20096.62,
+            "transactions": [
+                {
+                    "date": "2022-12-02",
+                    "description": "Interest",
+                    "amount": 20157.8,
+                    "transaction_id": 59712334
+                },
+                {
+                    "date": "2023-08-31",
+                    "description": "Deposit",
+                    "amount": 14159.15,
+                    "transaction_id": 62738927
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Withdrawal",
+                    "amount": 8193.93,
+                    "transaction_id": 67675674
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Withdrawal",
+                    "amount": 40476.68,
+                    "transaction_id": 53286037
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Interest",
+                    "amount": 8112.38,
+                    "transaction_id": 110516845
+                }
+            ]
+        }
+    }
+}

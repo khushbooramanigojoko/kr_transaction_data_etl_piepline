@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Monique Eaton",
+        "age": 99,
+        "gender": "male",
+        "address": "18575 Manning Street Suite 758, Moodychester, MP 51233",
+        "phone": "541.971.1007",
+        "email": "emaxwell@example.com",
+        "account": {
+            "account_number": "47382f57-dfbf-4aa0-b4de-6deb877cea81",
+            "balance": -29657.75,
+            "transactions": [
+                {
+                    "date": "2023-09-28",
+                    "description": "Deposit",
+                    "amount": -391.36,
+                    "transaction_id": 104681480
+                }
+            ]
+        }
+    }
+}

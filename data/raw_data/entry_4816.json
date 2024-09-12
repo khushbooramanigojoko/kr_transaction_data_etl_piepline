@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sarah Robinson",
+        "age": 60,
+        "gender": "female",
+        "address": "68266 Wallace Summit, Melissastad, MD 56323",
+        "phone": "001-826-898-2523",
+        "email": "brownjames@example.org",
+        "account": {
+            "account_number": "9c6b2f70-e2db-4507-97f9-222f282b52a4",
+            "balance": 6057.37,
+            "transactions": [
+                {
+                    "date": "2023-03-31",
+                    "description": "Withdrawal",
+                    "amount": 39360.7,
+                    "transaction_id": 104764074
+                },
+                {
+                    "date": "2023-10-10",
+                    "description": "Interest",
+                    "amount": 21932.19,
+                    "transaction_id": 51133934
+                },
+                {
+                    "date": "2023-03-19",
+                    "description": "Deposit",
+                    "amount": 28293.27,
+                    "transaction_id": 39902295
+                }
+            ]
+        }
+    }
+}

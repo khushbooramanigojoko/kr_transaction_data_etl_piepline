@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mr. Cody Ramirez DDS",
+        "age": 65,
+        "gender": "female",
+        "address": "2515 Mary Corner, New Ana, MP 37379",
+        "phone": "(610)675-5003x14619",
+        "email": "rodriguezbenjamin@example.org",
+        "account": {
+            "account_number": "8715cb7b-0eac-4574-a670-2b253dea5c19",
+            "balance": 1575.47,
+            "transactions": [
+                {
+                    "date": "2022-11-08",
+                    "description": "Deposit",
+                    "amount": 20947.61,
+                    "transaction_id": 100688639
+                },
+                {
+                    "date": "2024-05-09",
+                    "description": "Withdrawal",
+                    "amount": 46284.75,
+                    "transaction_id": 117409760
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Anne Ross",
+        "age": 87,
+        "gender": "male",
+        "address": "965 Brown Skyway, New Benjaminside, CT 05305",
+        "phone": "760-613-5107",
+        "email": "lisaweaver@example.net",
+        "account": {
+            "account_number": "be88dea1-deee-4e82-94fd-9850c2aedcb3",
+            "balance": 7846.45,
+            "transactions": [
+                {
+                    "date": "2023-01-02",
+                    "description": "Deposit",
+                    "amount": 46924.97,
+                    "transaction_id": 112476438
+                },
+                {
+                    "date": "2022-11-08",
+                    "description": "Withdrawal",
+                    "amount": 48632.69,
+                    "transaction_id": 65373271
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Deposit",
+                    "amount": 17444.19,
+                    "transaction_id": 67387323
+                }
+            ]
+        }
+    }
+}

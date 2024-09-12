@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Henry Rodriguez",
+        "age": 42,
+        "gender": "male",
+        "address": "24941 Gonzalez Lodge Apt. 540, Tannerport, SD 70104",
+        "phone": "666.795.7610",
+        "email": "evancollier@example.net",
+        "account": {
+            "account_number": "c836b071-b4e1-4a41-b861-43b4ec9c501c",
+            "balance": 41723.56,
+            "transactions": [
+                {
+                    "date": "2023-05-30",
+                    "description": "Interest",
+                    "amount": 47781.01,
+                    "transaction_id": 33751456
+                },
+                {
+                    "date": "2023-11-23",
+                    "description": "Withdrawal",
+                    "amount": 1876.82,
+                    "transaction_id": 53179252
+                },
+                {
+                    "date": "2023-10-11",
+                    "description": "Withdrawal",
+                    "amount": 24460.87,
+                    "transaction_id": 103587493
+                }
+            ]
+        }
+    }
+}

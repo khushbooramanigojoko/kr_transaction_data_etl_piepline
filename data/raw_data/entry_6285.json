@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Dawn Booth",
+        "age": 25,
+        "gender": "male",
+        "address": "567 Ryan Turnpike Apt. 897, South Cynthialand, MO 41437",
+        "phone": "(514)802-5378",
+        "email": "dwilliams@example.com",
+        "account": {
+            "account_number": "2678f1b6-344c-4642-a850-91dbec0a0b9e",
+            "balance": 17205.96,
+            "transactions": [
+                {
+                    "date": "2024-08-11",
+                    "description": "Interest",
+                    "amount": 46859.88,
+                    "transaction_id": 54769528
+                },
+                {
+                    "date": "2023-01-16",
+                    "description": "Interest",
+                    "amount": 32091.98,
+                    "transaction_id": 107486091
+                }
+            ]
+        }
+    }
+}

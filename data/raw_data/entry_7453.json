@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "James White",
+        "age": 43,
+        "gender": "female",
+        "address": "854 Andrew Spurs Suite 014, Diamondshire, TX 06471",
+        "phone": "(579)938-3114",
+        "email": "johnkirby@example.org",
+        "account": {
+            "account_number": "ddbd6d4a-c121-4e79-9243-85b1bfced7ac",
+            "balance": 5592.26,
+            "transactions": [
+                {
+                    "date": "2024-02-26",
+                    "description": "Interest",
+                    "amount": 19587.2,
+                    "transaction_id": 4283210
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Withdrawal",
+                    "amount": 30878.62,
+                    "transaction_id": 67350235
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Deposit",
+                    "amount": 14244.22,
+                    "transaction_id": 14170039
+                }
+            ]
+        }
+    }
+}

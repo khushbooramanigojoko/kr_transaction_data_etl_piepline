@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Desiree Walker DDS",
+        "age": 26,
+        "gender": "male",
+        "address": "422 Tiffany Via, West Emily, AL 90881",
+        "phone": "7592831428",
+        "email": "john88@example.net",
+        "account": {
+            "account_number": "b3bce269-6b04-4a4c-9831-6b227a46eeb8",
+            "balance": 38578.85,
+            "transactions": [
+                {
+                    "date": "2023-12-11",
+                    "description": "Deposit",
+                    "amount": 30012.09,
+                    "transaction_id": 102582348
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Withdrawal",
+                    "amount": 30531.02,
+                    "transaction_id": 79377206
+                }
+            ]
+        }
+    }
+}

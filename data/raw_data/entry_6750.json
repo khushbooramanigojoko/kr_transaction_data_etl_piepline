@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Judith Mercado",
+        "age": 26,
+        "gender": "female",
+        "address": "9764 Marie Dam Suite 163, South Paulhaven, ID 13367",
+        "phone": "423-633-0282x416",
+        "email": "latoyawallace@example.com",
+        "account": {
+            "account_number": "a4db4b68-f1b3-4f23-a5d9-5dd234fd2496",
+            "balance": 47769.33,
+            "transactions": [
+                {
+                    "date": "2023-04-05",
+                    "description": "Deposit",
+                    "amount": 30153.74,
+                    "transaction_id": 112188562
+                },
+                {
+                    "date": "2023-02-13",
+                    "description": "Deposit",
+                    "amount": 49569.36,
+                    "transaction_id": 109942287
+                }
+            ]
+        }
+    }
+}

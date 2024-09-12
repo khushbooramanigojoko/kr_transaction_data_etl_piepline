@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 38,
+        "gender": "female",
+        "address": "9651 Pratt Plains Suite 415, Shannonland, NE 18938",
+        "phone": "001-389-286-6150x605",
+        "email": "qyoung@example.com",
+        "account": {
+            "account_number": "7f703571-0124-4a3b-9ca9-90f5a3fd7320",
+            "balance": 26100.72,
+            "transactions": [
+                {
+                    "date": "2024-04-06",
+                    "description": "Withdrawal",
+                    "amount": 3512.45,
+                    "transaction_id": 90124770
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Withdrawal",
+                    "amount": -1613.93,
+                    "transaction_id": 51747281
+                },
+                {
+                    "date": "2023-06-09",
+                    "description": "Withdrawal",
+                    "amount": -1285.16,
+                    "transaction_id": 101391124
+                },
+                {
+                    "date": "2022-11-20",
+                    "description": "Withdrawal",
+                    "amount": -800.36,
+                    "transaction_id": 49049739
+                }
+            ]
+        }
+    }
+}

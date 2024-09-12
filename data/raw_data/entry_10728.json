@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Todd Gonzalez",
+        "age": 33,
+        "gender": "male",
+        "address": "9109 Antonio Forks Suite 245, Pattonport, OK 33065",
+        "phone": "483-709-2047",
+        "email": "snydermarco@example.org",
+        "account": {
+            "account_number": "56b2f001-efc9-420b-8902-31eb220204a5",
+            "balance": -7990.0,
+            "transactions": [
+                {
+                    "date": "2024-08-24",
+                    "description": "Interest",
+                    "amount": 2020.41,
+                    "transaction_id": 75143727
+                },
+                {
+                    "date": "2023-01-03",
+                    "description": "Interest",
+                    "amount": 758.22,
+                    "transaction_id": 35222805
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Withdrawal",
+                    "amount": -3425.76,
+                    "transaction_id": 73345948
+                },
+                {
+                    "date": "2024-03-23",
+                    "description": "Withdrawal",
+                    "amount": -1239.2,
+                    "transaction_id": 109755425
+                }
+            ]
+        }
+    }
+}

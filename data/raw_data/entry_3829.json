@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kathy Williams",
+        "age": 76,
+        "gender": "male",
+        "address": "63267 Charlotte Union, Taylorshire, MS 45392",
+        "phone": "619-588-5528x892",
+        "email": "troy44@example.org",
+        "account": {
+            "account_number": "5817114e-0e72-41fa-832f-3553c62c5dcb",
+            "balance": 48957.32,
+            "transactions": [
+                {
+                    "date": "2023-01-25",
+                    "description": "Interest",
+                    "amount": 34776.54,
+                    "transaction_id": 98680961
+                },
+                {
+                    "date": "2024-08-27",
+                    "description": "Interest",
+                    "amount": 20526.1,
+                    "transaction_id": 1241335
+                },
+                {
+                    "date": "2023-04-01",
+                    "description": "Deposit",
+                    "amount": 40801.09,
+                    "transaction_id": 92809081
+                },
+                {
+                    "date": "2024-02-23",
+                    "description": "Withdrawal",
+                    "amount": 5017.7,
+                    "transaction_id": 118079929
+                }
+            ]
+        }
+    }
+}

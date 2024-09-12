@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Timothy Jones",
+        "age": 58,
+        "gender": "male",
+        "address": "51266 Gross Run, Bakerville, IA 57819",
+        "phone": "+1-600-612-2605x362",
+        "email": "baileymatthew@example.org",
+        "account": {
+            "account_number": "b538ede9-3abf-444b-b33f-9255b15610b3",
+            "balance": 45288.12,
+            "transactions": [
+                {
+                    "date": "2023-05-05",
+                    "description": "Withdrawal",
+                    "amount": 24791.04,
+                    "transaction_id": 32024826
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Amanda Johnson",
+        "age": 40,
+        "gender": "male",
+        "address": "58116 Figueroa Forge, North Christopherland, KS 01853",
+        "phone": "(781)579-0942x9526",
+        "email": "stricklandaustin@example.net",
+        "account": {
+            "account_number": "12f7bbdc-9d3c-477e-a3fc-e4833fe99c57",
+            "balance": -5302.79,
+            "transactions": [
+                {
+                    "date": "2023-09-30",
+                    "description": "Interest",
+                    "amount": -899.82,
+                    "transaction_id": 22283662
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Interest",
+                    "amount": 4409.81,
+                    "transaction_id": 88487097
+                },
+                {
+                    "date": "2023-01-30",
+                    "description": "Deposit",
+                    "amount": -4869.08,
+                    "transaction_id": 19979413
+                }
+            ]
+        }
+    }
+}

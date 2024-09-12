@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jessica Pennington",
+        "age": 29,
+        "gender": "female",
+        "address": "PSC 5438, Box 8871, APO AE 01737",
+        "phone": "(928)996-1947",
+        "email": "pamela14@example.org",
+        "account": {
+            "account_number": "e7a0fe36-a36e-469a-a06b-2b8074b7a294",
+            "balance": -27073.86,
+            "transactions": [
+                {
+                    "date": "2023-03-23",
+                    "description": "Withdrawal",
+                    "amount": 4568.57,
+                    "transaction_id": 69770309
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Deposit",
+                    "amount": 105.53,
+                    "transaction_id": 58813857
+                },
+                {
+                    "date": "2022-10-03",
+                    "description": "Deposit",
+                    "amount": -3164.73,
+                    "transaction_id": 14335668
+                },
+                {
+                    "date": "2022-11-06",
+                    "description": "Interest",
+                    "amount": 1204.52,
+                    "transaction_id": 61365377
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Withdrawal",
+                    "amount": 2430.8,
+                    "transaction_id": 16977886
+                }
+            ]
+        }
+    }
+}

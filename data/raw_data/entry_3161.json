@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Steven Smith",
+        "age": 65,
+        "gender": "female",
+        "address": "918 Zamora Trace, Ericastad, VA 03056",
+        "phone": "364-819-5583x55829",
+        "email": "william71@example.org",
+        "account": {
+            "account_number": "1bf47644-fc7e-49b4-9951-559d9086d2af",
+            "balance": 24931.85,
+            "transactions": [
+                {
+                    "date": "2023-06-01",
+                    "description": "Withdrawal",
+                    "amount": 33352.01,
+                    "transaction_id": 84022943
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Deposit",
+                    "amount": 38503.98,
+                    "transaction_id": 37521154
+                }
+            ]
+        }
+    }
+}

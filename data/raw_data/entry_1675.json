@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kelly Davis",
+        "age": 92,
+        "gender": "male",
+        "address": "3445 David Forest, Cristinaview, WY 44217",
+        "phone": "460-621-2865x6001",
+        "email": "kellyjackson@example.org",
+        "account": {
+            "account_number": "e230ba87-2045-473e-9818-e1ba6d060d13",
+            "balance": 8310.1,
+            "transactions": [
+                {
+                    "date": "2023-11-29",
+                    "description": "Interest",
+                    "amount": 40616.02,
+                    "transaction_id": 112751500
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Withdrawal",
+                    "amount": 23378.4,
+                    "transaction_id": 5862905
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Withdrawal",
+                    "amount": 34821.23,
+                    "transaction_id": 7768266
+                }
+            ]
+        }
+    }
+}

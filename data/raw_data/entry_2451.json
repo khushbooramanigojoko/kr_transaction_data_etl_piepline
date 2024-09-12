@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Megan Ortiz",
+        "age": 48,
+        "gender": "male",
+        "address": "088 Perez Isle Suite 748, West Jennifer, PR 89389",
+        "phone": "+1-277-280-6317",
+        "email": "christopher16@example.com",
+        "account": {
+            "account_number": "d21cb620-0cdf-41a1-8211-600f8c788e9d",
+            "balance": 12510.47,
+            "transactions": [
+                {
+                    "date": "2023-02-14",
+                    "description": "Interest",
+                    "amount": 17576.81,
+                    "transaction_id": 77335995
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Withdrawal",
+                    "amount": 32112.79,
+                    "transaction_id": 3141964
+                }
+            ]
+        }
+    }
+}

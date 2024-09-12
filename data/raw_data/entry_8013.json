@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Katherine Cruz",
+        "age": 80,
+        "gender": "male",
+        "address": "65491 Cruz Ferry Apt. 230, West Josephchester, KS 34651",
+        "phone": "+1-328-356-2699x38381",
+        "email": "luisdavenport@example.com",
+        "account": {
+            "account_number": "572b9cb7-38d7-423d-b26d-5974ae5ed871",
+            "balance": 6695.62,
+            "transactions": [
+                {
+                    "date": "2023-03-01",
+                    "description": "Withdrawal",
+                    "amount": 7438.06,
+                    "transaction_id": 73640308
+                },
+                {
+                    "date": "2024-02-04",
+                    "description": "Deposit",
+                    "amount": 25959.23,
+                    "transaction_id": 44944212
+                },
+                {
+                    "date": "2024-07-01",
+                    "description": "Withdrawal",
+                    "amount": 34332.54,
+                    "transaction_id": 105670816
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Withdrawal",
+                    "amount": 43588.55,
+                    "transaction_id": 21121663
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Interest",
+                    "amount": 46534.21,
+                    "transaction_id": 112519294
+                }
+            ]
+        }
+    }
+}

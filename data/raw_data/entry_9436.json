@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Larry Mason",
+        "age": 78,
+        "gender": "male",
+        "address": "21058 Jones Track, Danielleshire, MD 27915",
+        "phone": "350-727-3159",
+        "email": "brian04@example.com",
+        "account": {
+            "account_number": "9e1e4532-22ae-4c4c-93e4-3ebdd9df3073",
+            "balance": -6052.85,
+            "transactions": [
+                {
+                    "date": "2024-01-08",
+                    "description": "Withdrawal",
+                    "amount": 3221.64,
+                    "transaction_id": 81401417
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Withdrawal",
+                    "amount": 4097.37,
+                    "transaction_id": 27924809
+                },
+                {
+                    "date": "2023-04-04",
+                    "description": "Deposit",
+                    "amount": 3062.95,
+                    "transaction_id": 111163286
+                },
+                {
+                    "date": "2022-10-26",
+                    "description": "Deposit",
+                    "amount": -1620.76,
+                    "transaction_id": 98867024
+                }
+            ]
+        }
+    }
+}

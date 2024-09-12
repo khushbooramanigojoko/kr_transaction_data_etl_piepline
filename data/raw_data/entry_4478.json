@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Angela Walters",
+        "age": 36,
+        "gender": "female",
+        "address": "91070 Myers Trafficway, Andersonhaven, WA 12439",
+        "phone": "001-937-310-5988x588",
+        "email": "charlesgonzalez@example.com",
+        "account": {
+            "account_number": "d74a8ba2-0355-4af4-859d-7742653449b5",
+            "balance": 13975.97,
+            "transactions": [
+                {
+                    "date": "2024-08-18",
+                    "description": "Interest",
+                    "amount": 43918.06,
+                    "transaction_id": 48335263
+                },
+                {
+                    "date": "2022-11-12",
+                    "description": "Interest",
+                    "amount": 929.16,
+                    "transaction_id": 6666761
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 35,
+        "gender": "female",
+        "address": "44178 Andre Forge Apt. 993, New Brandymouth, NY 40766",
+        "phone": "4348533037",
+        "email": "mauricefischer@example.org",
+        "account": {
+            "account_number": "3e44db72-64f2-4bf5-a1c7-3bdc5468825d",
+            "balance": 23535.93,
+            "transactions": [
+                {
+                    "date": "2023-02-13",
+                    "description": "Interest",
+                    "amount": -2539.53,
+                    "transaction_id": 4781671
+                }
+            ]
+        }
+    }
+}

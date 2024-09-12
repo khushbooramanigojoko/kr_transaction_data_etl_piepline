@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Nathan Singleton",
+        "age": 79,
+        "gender": "male",
+        "address": "989 Valenzuela Hollow Apt. 531, Lorimouth, NY 78736",
+        "phone": "517.730.6379x734",
+        "email": "nicholascooley@example.org",
+        "account": {
+            "account_number": "b58fd6e4-df73-4445-9acd-776851e2e664",
+            "balance": 34826.57,
+            "transactions": [
+                {
+                    "date": "2023-09-29",
+                    "description": "Interest",
+                    "amount": 16539.98,
+                    "transaction_id": 71035429
+                },
+                {
+                    "date": "2024-03-11",
+                    "description": "Deposit",
+                    "amount": 38331.49,
+                    "transaction_id": 35525822
+                },
+                {
+                    "date": "2023-03-02",
+                    "description": "Interest",
+                    "amount": 40246.99,
+                    "transaction_id": 61606623
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Margaret Li",
+        "age": 99,
+        "gender": "male",
+        "address": "83573 Veronica Knolls, West Rachelburgh, CT 47278",
+        "phone": "950.468.7189x9015",
+        "email": "amanda67@example.com",
+        "account": {
+            "account_number": "d656b9b9-ec9f-4a95-9a8f-8abccf0cfd45",
+            "balance": -31204.69,
+            "transactions": [
+                {
+                    "date": "2024-08-25",
+                    "description": "Interest",
+                    "amount": -1920.41,
+                    "transaction_id": 100153059
+                },
+                {
+                    "date": "2024-06-19",
+                    "description": "Deposit",
+                    "amount": -3891.93,
+                    "transaction_id": 114977566
+                },
+                {
+                    "date": "2024-02-13",
+                    "description": "Deposit",
+                    "amount": -3209.31,
+                    "transaction_id": 16725444
+                },
+                {
+                    "date": "2024-06-05",
+                    "description": "Withdrawal",
+                    "amount": 980.95,
+                    "transaction_id": 33233262
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Interest",
+                    "amount": -2601.01,
+                    "transaction_id": 9448989
+                }
+            ]
+        }
+    }
+}

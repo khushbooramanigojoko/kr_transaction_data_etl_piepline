@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Devon Franklin",
+        "age": 20,
+        "gender": "female",
+        "address": "8320 Hernandez Stravenue, Smithmouth, NJ 06613",
+        "phone": "(929)829-6634",
+        "email": "mike97@example.org",
+        "account": {
+            "account_number": "04004c3d-934f-4a2b-85e1-3e399a5bf313",
+            "balance": 36334.84,
+            "transactions": [
+                {
+                    "date": "2023-11-09",
+                    "description": "Withdrawal",
+                    "amount": 36598.63,
+                    "transaction_id": 65842683
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Withdrawal",
+                    "amount": 2319.36,
+                    "transaction_id": 85075246
+                }
+            ]
+        }
+    }
+}

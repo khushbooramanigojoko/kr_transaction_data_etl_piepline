@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alexandra Hawkins",
+        "age": 74,
+        "gender": "female",
+        "address": "085 Miller Freeway Suite 102, Brookemouth, MI 46733",
+        "phone": "870-713-4611",
+        "email": "cardenaspaul@example.com",
+        "account": {
+            "account_number": "0837e66a-63bf-45d1-ba72-8cb2265fa16c",
+            "balance": 4487.43,
+            "transactions": [
+                {
+                    "date": "2023-12-25",
+                    "description": "Withdrawal",
+                    "amount": 34751.88,
+                    "transaction_id": 39349384
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Garrett Harvey",
+        "age": 28,
+        "gender": "male",
+        "address": "00255 Elizabeth Burgs, Mayoville, KS 04035",
+        "phone": "(852)827-0918x831",
+        "email": "qrodriguez@example.net",
+        "account": {
+            "account_number": "42d39729-0443-4665-bb0d-205688346ef4",
+            "balance": 16712.26,
+            "transactions": [
+                {
+                    "date": "2024-03-23",
+                    "description": "Interest",
+                    "amount": 44527.26,
+                    "transaction_id": 60666695
+                },
+                {
+                    "date": "2023-09-20",
+                    "description": "Withdrawal",
+                    "amount": 41982.52,
+                    "transaction_id": 106463336
+                }
+            ]
+        }
+    }
+}

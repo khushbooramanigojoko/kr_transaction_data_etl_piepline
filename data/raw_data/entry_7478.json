@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brittney Davis",
+        "age": 30,
+        "gender": "female",
+        "address": "0985 West Harbors Apt. 993, Kimberlybury, NY 49199",
+        "phone": "001-544-237-9016",
+        "email": "marie90@example.org",
+        "account": {
+            "account_number": "d2414997-8d0e-4c70-8d28-08ce201e1b67",
+            "balance": 41747.17,
+            "transactions": [
+                {
+                    "date": "2024-03-23",
+                    "description": "Deposit",
+                    "amount": 36335.01,
+                    "transaction_id": 85215138
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Withdrawal",
+                    "amount": 48826.38,
+                    "transaction_id": 92955556
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Withdrawal",
+                    "amount": 36507.91,
+                    "transaction_id": 39327205
+                },
+                {
+                    "date": "2024-03-15",
+                    "description": "Withdrawal",
+                    "amount": 10285.45,
+                    "transaction_id": 108741220
+                },
+                {
+                    "date": "2024-02-01",
+                    "description": "Withdrawal",
+                    "amount": 24543.71,
+                    "transaction_id": 44665518
+                }
+            ]
+        }
+    }
+}

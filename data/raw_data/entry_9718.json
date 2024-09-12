@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 37,
+        "gender": "female",
+        "address": "93121 Ashley Trafficway Apt. 904, Floresborough, OR 94329",
+        "phone": "001-608-537-1182x91006",
+        "email": "ncollins@example.org",
+        "account": {
+            "account_number": "e599817e-8b26-4bc6-b203-ff13e62581e7",
+            "balance": 12121.34,
+            "transactions": [
+                {
+                    "date": "2023-02-06",
+                    "description": "Interest",
+                    "amount": -2669.44,
+                    "transaction_id": 2578481
+                },
+                {
+                    "date": "2023-03-18",
+                    "description": "Interest",
+                    "amount": 1233.15,
+                    "transaction_id": 68415333
+                },
+                {
+                    "date": "2023-01-24",
+                    "description": "Deposit",
+                    "amount": 4632.83,
+                    "transaction_id": 15885544
+                },
+                {
+                    "date": "2022-12-09",
+                    "description": "Interest",
+                    "amount": -1733.32,
+                    "transaction_id": 14121712
+                }
+            ]
+        }
+    }
+}

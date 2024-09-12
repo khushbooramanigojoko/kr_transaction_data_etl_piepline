@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jennifer Mcclain",
+        "age": 77,
+        "gender": "male",
+        "address": "343 Mark Ville Suite 244, Escobarshire, GU 69275",
+        "phone": "(575)598-2822",
+        "email": "amanda45@example.org",
+        "account": {
+            "account_number": "6052a2e9-0a73-4e0b-8a9f-3afa41f64a98",
+            "balance": 43321.35,
+            "transactions": [
+                {
+                    "date": "2024-07-23",
+                    "description": "Deposit",
+                    "amount": 18396.26,
+                    "transaction_id": 109958474
+                },
+                {
+                    "date": "2023-08-26",
+                    "description": "Withdrawal",
+                    "amount": 21079.43,
+                    "transaction_id": 95912309
+                },
+                {
+                    "date": "2023-11-01",
+                    "description": "Interest",
+                    "amount": 47435.18,
+                    "transaction_id": 86724595
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Savannah Jensen",
+        "age": 86,
+        "gender": "female",
+        "address": "2042 Christopher Summit, West Michael, TX 50049",
+        "phone": "(513)822-0577",
+        "email": "phines@example.com",
+        "account": {
+            "account_number": "61aeff87-5af0-4837-b9af-81f03892e166",
+            "balance": -41753.11,
+            "transactions": [
+                {
+                    "date": "2023-02-06",
+                    "description": "Withdrawal",
+                    "amount": -834.79,
+                    "transaction_id": 74139132
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Interest",
+                    "amount": -1464.5,
+                    "transaction_id": 17492481
+                },
+                {
+                    "date": "2024-06-27",
+                    "description": "Deposit",
+                    "amount": 2160.41,
+                    "transaction_id": 113329149
+                },
+                {
+                    "date": "2022-12-22",
+                    "description": "Interest",
+                    "amount": 1387.1,
+                    "transaction_id": 99088217
+                }
+            ]
+        }
+    }
+}

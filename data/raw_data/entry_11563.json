@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Joshua Maddox",
+        "age": 63,
+        "gender": "female",
+        "address": "221 Tucker Trafficway Apt. 245, West Jessicashire, HI 38655",
+        "phone": "495.344.1331x8738",
+        "email": "twyatt@example.org",
+        "account": {
+            "account_number": "269d501c-4837-4c27-98c9-95d23e2b806e",
+            "balance": -22767.54,
+            "transactions": [
+                {
+                    "date": "2024-02-21",
+                    "description": "Deposit",
+                    "amount": -660.15,
+                    "transaction_id": 88888392
+                },
+                {
+                    "date": "2024-08-19",
+                    "description": "Deposit",
+                    "amount": -162.53,
+                    "transaction_id": 25703039
+                }
+            ]
+        }
+    }
+}

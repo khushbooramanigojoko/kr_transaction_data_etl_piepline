@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 32,
+        "gender": "female",
+        "address": "Unit 7521 Box 1903, DPO AP 38335",
+        "phone": "+1-785-764-7252",
+        "email": "kimberly73@example.com",
+        "account": {
+            "account_number": "cfa69e48-3cf3-4132-81b3-6667c5aa7842",
+            "balance": 17238.76,
+            "transactions": [
+                {
+                    "date": "2022-09-15",
+                    "description": "Withdrawal",
+                    "amount": -2514.45,
+                    "transaction_id": 59059967
+                },
+                {
+                    "date": "2024-03-05",
+                    "description": "Withdrawal",
+                    "amount": 1102.76,
+                    "transaction_id": 36970978
+                },
+                {
+                    "date": "2023-12-20",
+                    "description": "Withdrawal",
+                    "amount": -684.0,
+                    "transaction_id": 71209164
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Interest",
+                    "amount": 4037.31,
+                    "transaction_id": 94047806
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Interest",
+                    "amount": -1799.59,
+                    "transaction_id": 23937523
+                }
+            ]
+        }
+    }
+}

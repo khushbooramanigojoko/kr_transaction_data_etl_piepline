@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ashley Friedman",
+        "age": 52,
+        "gender": "male",
+        "address": "12444 Heather Plains Apt. 627, Hullland, DE 09446",
+        "phone": "9836610191",
+        "email": "christopherschmidt@example.net",
+        "account": {
+            "account_number": "a29840ac-7887-41b9-ab81-aa3af1182120",
+            "balance": 10556.99,
+            "transactions": [
+                {
+                    "date": "2024-07-14",
+                    "description": "Withdrawal",
+                    "amount": 12298.43,
+                    "transaction_id": 103406607
+                }
+            ]
+        }
+    }
+}

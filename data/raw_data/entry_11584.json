@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nancy Spencer",
+        "age": 69,
+        "gender": "male",
+        "address": "8851 Tony Islands, East Christopherchester, TN 37621",
+        "phone": "265-961-2585",
+        "email": "yjones@example.net",
+        "account": {
+            "account_number": "13375af3-a83d-4987-8208-278ff16bfdeb",
+            "balance": -20337.78,
+            "transactions": [
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": 2807.83,
+                    "transaction_id": 59497013
+                },
+                {
+                    "date": "2023-03-10",
+                    "description": "Withdrawal",
+                    "amount": 1529.48,
+                    "transaction_id": 12498376
+                },
+                {
+                    "date": "2022-09-16",
+                    "description": "Withdrawal",
+                    "amount": 1772.58,
+                    "transaction_id": 42712956
+                },
+                {
+                    "date": "2024-08-02",
+                    "description": "Deposit",
+                    "amount": 3886.44,
+                    "transaction_id": 35309732
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Withdrawal",
+                    "amount": -2650.0,
+                    "transaction_id": 6327776
+                }
+            ]
+        }
+    }
+}

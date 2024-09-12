@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "William Reed",
+        "age": 55,
+        "gender": "male",
+        "address": "460 Stephen Extension, Katherinemouth, IN 54078",
+        "phone": "(367)406-7750x4832",
+        "email": "victoria67@example.net",
+        "account": {
+            "account_number": "0aad619d-72b5-4758-9a42-05710b331172",
+            "balance": 7999.27,
+            "transactions": [
+                {
+                    "date": "2023-06-16",
+                    "description": "Interest",
+                    "amount": 42340.46,
+                    "transaction_id": 65076852
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Interest",
+                    "amount": 5867.37,
+                    "transaction_id": 107020088
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alicia Brown",
+        "age": 29,
+        "gender": "male",
+        "address": "01685 Andrew Wells Apt. 558, Jeffreyport, OR 64955",
+        "phone": "001-410-705-6098",
+        "email": "alexandra68@example.org",
+        "account": {
+            "account_number": "d0cff034-b388-4236-9402-32e9f8b48859",
+            "balance": 2652.65,
+            "transactions": [
+                {
+                    "date": "2024-03-02",
+                    "description": "Deposit",
+                    "amount": 49145.94,
+                    "transaction_id": 25910593
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "male",
+        "address": "551 Mcconnell Vista Apt. 094, West Lisaborough, WA 94387",
+        "phone": "9364832718",
+        "email": "matthewarnold@example.com",
+        "account": {
+            "account_number": "56767cfe-46b6-41cc-894c-ea6a5421f253",
+            "balance": 21368.52,
+            "transactions": [
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": -2303.52,
+                    "transaction_id": 111611002
+                },
+                {
+                    "date": "2023-01-26",
+                    "description": "Deposit",
+                    "amount": 434.2,
+                    "transaction_id": 46418789
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Withdrawal",
+                    "amount": 4513.06,
+                    "transaction_id": 62174319
+                }
+            ]
+        }
+    }
+}

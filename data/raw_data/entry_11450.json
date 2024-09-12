@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 70,
+        "gender": "male",
+        "address": "9809 Lewis Lights, New Melvin, FM 65726",
+        "phone": "001-622-364-7815x03644",
+        "email": "stricklandsusan@example.net",
+        "account": {
+            "account_number": "8d165e33-fcd0-4ce1-9c37-3a4517ddae15",
+            "balance": 16457.77,
+            "transactions": [
+                {
+                    "date": "2024-08-11",
+                    "description": "Interest",
+                    "amount": -1437.72,
+                    "transaction_id": 45664623
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Deposit",
+                    "amount": -4437.25,
+                    "transaction_id": 44957456
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Deposit",
+                    "amount": -1157.98,
+                    "transaction_id": 2636986
+                },
+                {
+                    "date": "2024-03-12",
+                    "description": "Interest",
+                    "amount": 3211.29,
+                    "transaction_id": 19775354
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Tammy Robinson",
+        "age": 53,
+        "gender": "female",
+        "address": "46243 Mullins Unions, Jeffreybury, MP 52143",
+        "phone": "+1-297-412-4309",
+        "email": "amanda13@example.com",
+        "account": {
+            "account_number": "05cd4d38-a376-4ac5-b428-e88e9b967738",
+            "balance": -10162.16,
+            "transactions": [
+                {
+                    "date": "2022-10-15",
+                    "description": "Withdrawal",
+                    "amount": -2284.53,
+                    "transaction_id": 32969349
+                }
+            ]
+        }
+    }
+}

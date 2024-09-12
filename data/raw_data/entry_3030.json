@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Natasha Barnes",
+        "age": 30,
+        "gender": "female",
+        "address": "62605 Crystal Bypass Suite 799, Wendymouth, LA 93201",
+        "phone": "2472534333",
+        "email": "qmorgan@example.com",
+        "account": {
+            "account_number": "dd87d03c-6c81-4d5c-940a-f09553ab7b21",
+            "balance": 39980.2,
+            "transactions": [
+                {
+                    "date": "2022-10-01",
+                    "description": "Withdrawal",
+                    "amount": 10466.35,
+                    "transaction_id": 94948411
+                },
+                {
+                    "date": "2024-04-10",
+                    "description": "Withdrawal",
+                    "amount": 24506.22,
+                    "transaction_id": 38138210
+                },
+                {
+                    "date": "2023-03-02",
+                    "description": "Withdrawal",
+                    "amount": 27057.94,
+                    "transaction_id": 59895570
+                },
+                {
+                    "date": "2023-03-04",
+                    "description": "Interest",
+                    "amount": 22966.15,
+                    "transaction_id": 113312731
+                }
+            ]
+        }
+    }
+}

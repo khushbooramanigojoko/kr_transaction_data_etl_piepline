@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Carolyn Rodriguez",
+        "age": 66,
+        "gender": "female",
+        "address": "04942 Kent Keys Apt. 041, Angelicaton, WV 56389",
+        "phone": "758-978-0108x86013",
+        "email": "turnertimothy@example.com",
+        "account": {
+            "account_number": "2c7681e4-4548-4334-b173-41c577d70300",
+            "balance": 23445.36,
+            "transactions": [
+                {
+                    "date": "2022-11-14",
+                    "description": "Withdrawal",
+                    "amount": 39840.85,
+                    "transaction_id": 57383014
+                },
+                {
+                    "date": "2024-02-24",
+                    "description": "Withdrawal",
+                    "amount": 14042.31,
+                    "transaction_id": 80351312
+                }
+            ]
+        }
+    }
+}

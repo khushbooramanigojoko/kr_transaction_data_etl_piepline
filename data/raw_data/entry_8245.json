@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Eugene Murray",
+        "age": 33,
+        "gender": "male",
+        "address": "0565 Regina Overpass, Wardburgh, NM 62698",
+        "phone": "766.993.0105x65570",
+        "email": "gmitchell@example.org",
+        "account": {
+            "account_number": "209e366f-a06d-4d35-b5f7-60721577b1a3",
+            "balance": 3908.13,
+            "transactions": [
+                {
+                    "date": "2023-11-20",
+                    "description": "Withdrawal",
+                    "amount": 10659.28,
+                    "transaction_id": 45862066
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Withdrawal",
+                    "amount": 7956.0,
+                    "transaction_id": 79398980
+                }
+            ]
+        }
+    }
+}

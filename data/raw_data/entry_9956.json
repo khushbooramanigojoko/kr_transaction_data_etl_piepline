@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dakota Nunez",
+        "age": 43,
+        "gender": "female",
+        "address": "2772 Palmer Hills Apt. 432, Lake Ricardotown, OK 62318",
+        "phone": "7204555359",
+        "email": "awoods@example.org",
+        "account": {
+            "account_number": "f0328abd-9c1b-46ca-92c9-5efc0a8282a8",
+            "balance": -17926.67,
+            "transactions": [
+                {
+                    "date": "2023-11-13",
+                    "description": "Deposit",
+                    "amount": 714.39,
+                    "transaction_id": 68932148
+                }
+            ]
+        }
+    }
+}

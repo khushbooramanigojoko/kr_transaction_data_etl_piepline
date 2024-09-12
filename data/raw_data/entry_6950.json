@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kylie Benitez",
+        "age": 86,
+        "gender": "female",
+        "address": "USS Jones, FPO AP 91775",
+        "phone": "+1-663-912-0839x846",
+        "email": "stephensantonio@example.org",
+        "account": {
+            "account_number": "5485caaf-4f4c-4840-bd16-fb4ebf9b0659",
+            "balance": 37168.41,
+            "transactions": [
+                {
+                    "date": "2023-07-13",
+                    "description": "Interest",
+                    "amount": 21934.98,
+                    "transaction_id": 6999641
+                },
+                {
+                    "date": "2023-08-22",
+                    "description": "Deposit",
+                    "amount": 30972.92,
+                    "transaction_id": 6027996
+                },
+                {
+                    "date": "2023-09-02",
+                    "description": "Interest",
+                    "amount": 37399.78,
+                    "transaction_id": 37418971
+                },
+                {
+                    "date": "2024-02-26",
+                    "description": "Interest",
+                    "amount": 46312.85,
+                    "transaction_id": 104658656
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Withdrawal",
+                    "amount": 42124.8,
+                    "transaction_id": 101991133
+                }
+            ]
+        }
+    }
+}

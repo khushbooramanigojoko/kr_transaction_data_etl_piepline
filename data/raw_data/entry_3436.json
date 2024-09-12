@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Juan Johnson",
+        "age": 28,
+        "gender": "male",
+        "address": "88893 Kim Glens Apt. 708, Lindafurt, AL 71797",
+        "phone": "+1-338-301-9444x355",
+        "email": "igeorge@example.org",
+        "account": {
+            "account_number": "7602f586-9865-44dd-a06b-7482e9526f5d",
+            "balance": 8791.47,
+            "transactions": [
+                {
+                    "date": "2023-03-25",
+                    "description": "Withdrawal",
+                    "amount": 48604.56,
+                    "transaction_id": 112968390
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Deposit",
+                    "amount": 10557.91,
+                    "transaction_id": 110169331
+                }
+            ]
+        }
+    }
+}

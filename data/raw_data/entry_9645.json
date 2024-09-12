@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 78,
+        "gender": "male",
+        "address": "2717 Murray View Suite 169, Josephtown, AK 99934",
+        "phone": "344.881.7173x69116",
+        "email": "ariley@example.org",
+        "account": {
+            "account_number": "c2b692fd-1e43-49fb-91ba-591c8955ade9",
+            "balance": 39181.68,
+            "transactions": [
+                {
+                    "date": "2023-04-08",
+                    "description": "Interest",
+                    "amount": -1887.04,
+                    "transaction_id": 75608800
+                }
+            ]
+        }
+    }
+}

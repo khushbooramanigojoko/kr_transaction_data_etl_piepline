@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Richard Franco",
+        "age": 28,
+        "gender": "female",
+        "address": "713 Harris Junction Apt. 268, Burkefort, OK 16642",
+        "phone": "500.913.5209",
+        "email": "kallen@example.com",
+        "account": {
+            "account_number": "d6603ac8-3426-41ad-b73e-76c83e91f834",
+            "balance": 11459.46,
+            "transactions": [
+                {
+                    "date": "2024-05-03",
+                    "description": "Deposit",
+                    "amount": 1510.94,
+                    "transaction_id": 97290021
+                }
+            ]
+        }
+    }
+}

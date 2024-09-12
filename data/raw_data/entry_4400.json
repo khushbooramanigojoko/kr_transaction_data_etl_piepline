@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joseph Garcia",
+        "age": 19,
+        "gender": "female",
+        "address": "25757 Ponce Well Apt. 547, West Seanborough, CA 78340",
+        "phone": "8133097377",
+        "email": "robert11@example.org",
+        "account": {
+            "account_number": "64253ba4-32c6-4ab0-ab02-beda7add4a59",
+            "balance": 11876.12,
+            "transactions": [
+                {
+                    "date": "2024-06-24",
+                    "description": "Interest",
+                    "amount": 488.83,
+                    "transaction_id": 109893508
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Deposit",
+                    "amount": 44533.59,
+                    "transaction_id": 41555718
+                },
+                {
+                    "date": "2023-01-26",
+                    "description": "Withdrawal",
+                    "amount": 34945.66,
+                    "transaction_id": 73470062
+                },
+                {
+                    "date": "2024-08-30",
+                    "description": "Deposit",
+                    "amount": 4042.5,
+                    "transaction_id": 21916422
+                },
+                {
+                    "date": "2024-02-02",
+                    "description": "Withdrawal",
+                    "amount": 3853.38,
+                    "transaction_id": 8745921
+                }
+            ]
+        }
+    }
+}

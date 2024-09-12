@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Gary Ford",
+        "age": 53,
+        "gender": "male",
+        "address": "8931 Carlos Shoals Suite 466, North Patricia, NE 46741",
+        "phone": "+1-667-743-7635x4788",
+        "email": "melissabailey@example.com",
+        "account": {
+            "account_number": "c2185f26-1123-4f39-8238-3e39acd76cbc",
+            "balance": 27169.19,
+            "transactions": [
+                {
+                    "date": "2023-06-28",
+                    "description": "Deposit",
+                    "amount": 970.33,
+                    "transaction_id": 2285185
+                },
+                {
+                    "date": "2024-07-03",
+                    "description": "Deposit",
+                    "amount": 23213.68,
+                    "transaction_id": 80867573
+                },
+                {
+                    "date": "2024-08-16",
+                    "description": "Withdrawal",
+                    "amount": 7965.42,
+                    "transaction_id": 73218768
+                }
+            ]
+        }
+    }
+}

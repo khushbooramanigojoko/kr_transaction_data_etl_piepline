@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "David Thomas Jr.",
+        "age": 48,
+        "gender": "male",
+        "address": "629 Castillo River Suite 296, Brandonland, AK 28653",
+        "phone": "001-514-358-5166",
+        "email": "xterry@example.com",
+        "account": {
+            "account_number": "ab90c77a-fa5e-4e34-bb48-5835d8c48d4d",
+            "balance": 46998.07,
+            "transactions": [
+                {
+                    "date": "2022-12-05",
+                    "description": "Interest",
+                    "amount": 45607.13,
+                    "transaction_id": 8884052
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Withdrawal",
+                    "amount": 41666.21,
+                    "transaction_id": 15908904
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Deposit",
+                    "amount": 44329.98,
+                    "transaction_id": 49857899
+                }
+            ]
+        }
+    }
+}

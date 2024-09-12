@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jeremy Smith",
+        "age": 57,
+        "gender": "female",
+        "address": "68057 Briggs Corner Apt. 589, New Alicia, AR 33029",
+        "phone": "607-581-7548x79532",
+        "email": "courtney13@example.net",
+        "account": {
+            "account_number": "654f22d4-6d6c-4208-8764-945a5d3c2d92",
+            "balance": 7610.06,
+            "transactions": [
+                {
+                    "date": "2022-10-17",
+                    "description": "Interest",
+                    "amount": 44681.44,
+                    "transaction_id": 7227173
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Deposit",
+                    "amount": 35770.69,
+                    "transaction_id": 95871414
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Deposit",
+                    "amount": 24772.59,
+                    "transaction_id": 94306342
+                }
+            ]
+        }
+    }
+}

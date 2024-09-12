@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brian Ramos",
+        "age": 23,
+        "gender": "male",
+        "address": "385 John Tunnel Apt. 765, New Edward, MA 12271",
+        "phone": "409-783-3282",
+        "email": "paul09@example.org",
+        "account": {
+            "account_number": "d11b6d34-8d67-4c19-b7a9-83e2e9f3d8ef",
+            "balance": 28784.02,
+            "transactions": [
+                {
+                    "date": "2023-01-11",
+                    "description": "Interest",
+                    "amount": 7241.85,
+                    "transaction_id": 27301399
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Interest",
+                    "amount": 46808.56,
+                    "transaction_id": 31417798
+                }
+            ]
+        }
+    }
+}

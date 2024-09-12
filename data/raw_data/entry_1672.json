@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Melinda Padilla",
+        "age": 40,
+        "gender": "male",
+        "address": "03223 Rodriguez Mall Apt. 947, Johnsonhaven, IA 36690",
+        "phone": "3449164620",
+        "email": "ubrewer@example.com",
+        "account": {
+            "account_number": "6b5bf8f3-b808-4f13-8cac-6aa5b65fcb61",
+            "balance": 6110.65,
+            "transactions": [
+                {
+                    "date": "2022-12-19",
+                    "description": "Withdrawal",
+                    "amount": 45248.94,
+                    "transaction_id": 4648232
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Interest",
+                    "amount": 31704.39,
+                    "transaction_id": 100590253
+                }
+            ]
+        }
+    }
+}

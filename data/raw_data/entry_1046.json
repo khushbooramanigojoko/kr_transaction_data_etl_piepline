@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Richard Hensley",
+        "age": 37,
+        "gender": "male",
+        "address": "612 Nicholas Streets, Cruzton, IN 38966",
+        "phone": "798.559.3168",
+        "email": "tannerdoyle@example.org",
+        "account": {
+            "account_number": "c2296e95-9442-4917-aa02-f621efdfd237",
+            "balance": 15409.51,
+            "transactions": [
+                {
+                    "date": "2022-10-24",
+                    "description": "Deposit",
+                    "amount": 9060.02,
+                    "transaction_id": 46493926
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Deposit",
+                    "amount": 40163.01,
+                    "transaction_id": 31926793
+                },
+                {
+                    "date": "2023-11-14",
+                    "description": "Interest",
+                    "amount": 10471.02,
+                    "transaction_id": 39861569
+                },
+                {
+                    "date": "2022-12-26",
+                    "description": "Interest",
+                    "amount": 39845.14,
+                    "transaction_id": 11157890
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Robert Willis",
+        "age": 26,
+        "gender": "female",
+        "address": "611 Robinson Point Apt. 408, Hallborough, MD 82346",
+        "phone": "(296)942-6027",
+        "email": "psolis@example.org",
+        "account": {
+            "account_number": "fc1ac141-bd8d-4d14-9180-c479e890f8aa",
+            "balance": 38594.25,
+            "transactions": [
+                {
+                    "date": "2024-04-12",
+                    "description": "Interest",
+                    "amount": 2732.34,
+                    "transaction_id": 103641673
+                },
+                {
+                    "date": "2024-04-11",
+                    "description": "Interest",
+                    "amount": 22552.34,
+                    "transaction_id": 20155223
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Withdrawal",
+                    "amount": 39107.26,
+                    "transaction_id": 65263461
+                },
+                {
+                    "date": "2023-11-16",
+                    "description": "Interest",
+                    "amount": 6470.82,
+                    "transaction_id": 59640885
+                }
+            ]
+        }
+    }
+}

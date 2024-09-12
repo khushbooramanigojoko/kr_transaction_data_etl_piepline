@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jessica Taylor",
+        "age": 46,
+        "gender": "female",
+        "address": "34611 Kelly Circles Suite 031, North Douglas, WV 38212",
+        "phone": "+1-315-251-8591x967",
+        "email": "gedwards@example.com",
+        "account": {
+            "account_number": "c7525567-20ac-4b6a-8ad2-f30972c92be5",
+            "balance": 26740.39,
+            "transactions": [
+                {
+                    "date": "2022-11-06",
+                    "description": "Withdrawal",
+                    "amount": 42959.48,
+                    "transaction_id": 115098028
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Withdrawal",
+                    "amount": 46203.24,
+                    "transaction_id": 51866236
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Withdrawal",
+                    "amount": 43242.17,
+                    "transaction_id": 75559524
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Dustin Rogers",
+        "age": 88,
+        "gender": "male",
+        "address": "7521 Amy Court Suite 554, Jonesmouth, ME 23942",
+        "phone": "440.496.2571x41011",
+        "email": "cescobar@example.net",
+        "account": {
+            "account_number": "46cc8145-6bc9-4b67-ac93-dbff35f67534",
+            "balance": 14846.26,
+            "transactions": [
+                {
+                    "date": "2023-02-14",
+                    "description": "Withdrawal",
+                    "amount": 3119.06,
+                    "transaction_id": 80078667
+                }
+            ]
+        }
+    }
+}

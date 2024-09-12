@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Daniel Barrera",
+        "age": 39,
+        "gender": "male",
+        "address": "947 Williams Tunnel Apt. 766, Cervantesside, AR 45376",
+        "phone": "(404)599-5176",
+        "email": "heather55@example.org",
+        "account": {
+            "account_number": "c2c9aab6-3957-4f14-8dd2-438740f3614a",
+            "balance": 22358.91,
+            "transactions": [
+                {
+                    "date": "2023-09-19",
+                    "description": "Deposit",
+                    "amount": 34346.96,
+                    "transaction_id": 108101179
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Withdrawal",
+                    "amount": 35236.7,
+                    "transaction_id": 60774755
+                },
+                {
+                    "date": "2023-04-26",
+                    "description": "Interest",
+                    "amount": 6669.79,
+                    "transaction_id": 23637815
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Withdrawal",
+                    "amount": 28293.44,
+                    "transaction_id": 113279078
+                },
+                {
+                    "date": "2024-05-31",
+                    "description": "Deposit",
+                    "amount": 22402.51,
+                    "transaction_id": 26644705
+                }
+            ]
+        }
+    }
+}

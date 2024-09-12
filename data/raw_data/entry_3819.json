@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brian Horton",
+        "age": 41,
+        "gender": "male",
+        "address": "6826 Andrew Oval, West Samantha, RI 25361",
+        "phone": "249-660-6383x6012",
+        "email": "brittanymartin@example.org",
+        "account": {
+            "account_number": "94e595b5-4e66-427f-905c-3bf5275b9522",
+            "balance": 2954.06,
+            "transactions": [
+                {
+                    "date": "2022-09-14",
+                    "description": "Withdrawal",
+                    "amount": 17144.79,
+                    "transaction_id": 106091149
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Withdrawal",
+                    "amount": 45251.29,
+                    "transaction_id": 10467918
+                },
+                {
+                    "date": "2023-07-13",
+                    "description": "Withdrawal",
+                    "amount": 30920.63,
+                    "transaction_id": 86443891
+                },
+                {
+                    "date": "2023-04-05",
+                    "description": "Interest",
+                    "amount": 42192.27,
+                    "transaction_id": 77852992
+                }
+            ]
+        }
+    }
+}

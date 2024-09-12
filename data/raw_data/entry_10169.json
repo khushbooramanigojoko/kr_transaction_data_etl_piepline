@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jessica Hunter",
+        "age": 59,
+        "gender": "male",
+        "address": "PSC 3935, Box 9224, APO AE 83688",
+        "phone": "622.424.1330x0990",
+        "email": "orrvirginia@example.net",
+        "account": {
+            "account_number": "818905a2-ef7a-4aa5-9aba-ef76c116dd32",
+            "balance": -6936.41,
+            "transactions": [
+                {
+                    "date": "2024-08-27",
+                    "description": "Deposit",
+                    "amount": -3295.55,
+                    "transaction_id": 81811326
+                },
+                {
+                    "date": "2024-08-23",
+                    "description": "Deposit",
+                    "amount": 4714.63,
+                    "transaction_id": 100082335
+                },
+                {
+                    "date": "2023-06-30",
+                    "description": "Deposit",
+                    "amount": -163.97,
+                    "transaction_id": 21181968
+                },
+                {
+                    "date": "2023-08-13",
+                    "description": "Deposit",
+                    "amount": -1455.84,
+                    "transaction_id": 9817578
+                },
+                {
+                    "date": "2023-04-28",
+                    "description": "Interest",
+                    "amount": -164.5,
+                    "transaction_id": 71778084
+                }
+            ]
+        }
+    }
+}

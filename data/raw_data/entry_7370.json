@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Christopher Stokes",
+        "age": 54,
+        "gender": "female",
+        "address": "086 Johnston River, North Markmouth, CO 89454",
+        "phone": "(340)700-4463",
+        "email": "usimmons@example.net",
+        "account": {
+            "account_number": "6193159f-56bf-4054-ba1a-6f20d5c5d622",
+            "balance": 15070.58,
+            "transactions": [
+                {
+                    "date": "2022-10-06",
+                    "description": "Deposit",
+                    "amount": 9414.16,
+                    "transaction_id": 69012461
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Interest",
+                    "amount": 7616.61,
+                    "transaction_id": 49786596
+                },
+                {
+                    "date": "2023-01-01",
+                    "description": "Deposit",
+                    "amount": 17610.93,
+                    "transaction_id": 107855915
+                }
+            ]
+        }
+    }
+}

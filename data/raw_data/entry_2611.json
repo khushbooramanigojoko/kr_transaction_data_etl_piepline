@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Steven Bennett",
+        "age": 98,
+        "gender": "female",
+        "address": "4404 Peggy Rapid Apt. 423, Port Williamstad, NJ 88798",
+        "phone": "(689)704-3989",
+        "email": "heather74@example.org",
+        "account": {
+            "account_number": "849acb49-5fce-4ee1-aaa0-b8b69ad8a9fb",
+            "balance": 5711.45,
+            "transactions": [
+                {
+                    "date": "2023-01-10",
+                    "description": "Interest",
+                    "amount": 16766.0,
+                    "transaction_id": 87961515
+                }
+            ]
+        }
+    }
+}

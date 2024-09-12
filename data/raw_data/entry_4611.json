@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tamara Mahoney",
+        "age": 24,
+        "gender": "female",
+        "address": "209 Williams Springs Apt. 715, Robertbury, GU 95087",
+        "phone": "(425)698-8452x09853",
+        "email": "thompsonsteven@example.org",
+        "account": {
+            "account_number": "c6b7a3d8-925e-46fc-a9e2-a9e2794bbe5a",
+            "balance": 9737.0,
+            "transactions": [
+                {
+                    "date": "2024-02-13",
+                    "description": "Interest",
+                    "amount": 12944.69,
+                    "transaction_id": 20472136
+                },
+                {
+                    "date": "2022-09-17",
+                    "description": "Interest",
+                    "amount": 9057.58,
+                    "transaction_id": 22998064
+                }
+            ]
+        }
+    }
+}

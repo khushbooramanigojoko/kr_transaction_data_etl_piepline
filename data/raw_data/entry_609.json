@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Linda Robinson",
+        "age": 82,
+        "gender": "female",
+        "address": "654 Williams Orchard Suite 868, Lake Stanleyland, NJ 97092",
+        "phone": "(836)760-3323x9418",
+        "email": "alyssaflores@example.net",
+        "account": {
+            "account_number": "dfc6e35a-7ad2-4d0f-b2dc-5f10f981c3fc",
+            "balance": 29093.45,
+            "transactions": [
+                {
+                    "date": "2023-05-14",
+                    "description": "Interest",
+                    "amount": 49740.4,
+                    "transaction_id": 108364257
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Deposit",
+                    "amount": 9108.61,
+                    "transaction_id": 10483352
+                },
+                {
+                    "date": "2023-10-22",
+                    "description": "Deposit",
+                    "amount": 5310.4,
+                    "transaction_id": 118505607
+                }
+            ]
+        }
+    }
+}

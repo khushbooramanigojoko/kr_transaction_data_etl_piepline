@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kimberly Wilson",
+        "age": 94,
+        "gender": "female",
+        "address": "092 Samuel Viaduct, North Michael, AK 75147",
+        "phone": "443.514.4509",
+        "email": "mariemullins@example.com",
+        "account": {
+            "account_number": "d9d35f44-f7ca-48b0-8e81-8010f46e140c",
+            "balance": 35265.18,
+            "transactions": [
+                {
+                    "date": "2023-04-24",
+                    "description": "Withdrawal",
+                    "amount": 29520.87,
+                    "transaction_id": 69541257
+                },
+                {
+                    "date": "2023-06-04",
+                    "description": "Deposit",
+                    "amount": 44884.15,
+                    "transaction_id": 36495092
+                }
+            ]
+        }
+    }
+}

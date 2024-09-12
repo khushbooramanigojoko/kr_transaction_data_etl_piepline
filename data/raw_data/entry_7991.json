@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "James Williams",
+        "age": 98,
+        "gender": "male",
+        "address": "55497 Chelsea Drives, Robertsonfurt, MA 21488",
+        "phone": "738.690.5090x01535",
+        "email": "reevesjeffrey@example.net",
+        "account": {
+            "account_number": "19bfda22-1ffd-44b9-96d0-a77e4f728dfa",
+            "balance": 23660.16,
+            "transactions": [
+                {
+                    "date": "2023-10-11",
+                    "description": "Deposit",
+                    "amount": 6554.01,
+                    "transaction_id": 31146209
+                }
+            ]
+        }
+    }
+}

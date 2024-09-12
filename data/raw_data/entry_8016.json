@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joe Jones",
+        "age": 18,
+        "gender": "male",
+        "address": "USNV Wilson, FPO AE 12653",
+        "phone": "+1-468-950-9176x0327",
+        "email": "nancy83@example.com",
+        "account": {
+            "account_number": "db177c47-f584-4792-883a-18d4ef55d1c6",
+            "balance": 26468.91,
+            "transactions": [
+                {
+                    "date": "2024-02-25",
+                    "description": "Withdrawal",
+                    "amount": 45939.61,
+                    "transaction_id": 109144190
+                }
+            ]
+        }
+    }
+}

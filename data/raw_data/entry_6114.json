@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mark Lopez",
+        "age": 86,
+        "gender": "male",
+        "address": "992 Mckinney Passage Suite 093, Evansborough, MP 47651",
+        "phone": "001-664-221-2691x3560",
+        "email": "rivaslisa@example.org",
+        "account": {
+            "account_number": "8f5bcf9e-1863-489a-bda5-2a054b376852",
+            "balance": 40370.82,
+            "transactions": [
+                {
+                    "date": "2023-04-09",
+                    "description": "Withdrawal",
+                    "amount": 27023.51,
+                    "transaction_id": 11085040
+                }
+            ]
+        }
+    }
+}

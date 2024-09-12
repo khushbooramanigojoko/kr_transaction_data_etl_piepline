@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "male",
+        "address": "0715 Curtis Mills, Edwardland, FL 37913",
+        "phone": "+1-891-246-6468",
+        "email": "fvelasquez@example.net",
+        "account": {
+            "account_number": "508fec7b-efa1-4c78-889f-6480d34a03f9",
+            "balance": 17258.56,
+            "transactions": [
+                {
+                    "date": "2023-02-02",
+                    "description": "Withdrawal",
+                    "amount": -4206.46,
+                    "transaction_id": 90145195
+                },
+                {
+                    "date": "2022-12-21",
+                    "description": "Withdrawal",
+                    "amount": 3942.55,
+                    "transaction_id": 75539552
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Withdrawal",
+                    "amount": 4475.11,
+                    "transaction_id": 24210071
+                }
+            ]
+        }
+    }
+}

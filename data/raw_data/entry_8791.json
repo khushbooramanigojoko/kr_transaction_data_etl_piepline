@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sylvia Collier",
+        "age": 75,
+        "gender": "male",
+        "address": "7497 Hutchinson Greens Apt. 037, Trevorfort, NM 83367",
+        "phone": "001-288-846-0198x0399",
+        "email": "knoxmatthew@example.org",
+        "account": {
+            "account_number": "53327a52-4dfc-4634-88f3-99639d2181f4",
+            "balance": -38745.7,
+            "transactions": [
+                {
+                    "date": "2022-12-29",
+                    "description": "Deposit",
+                    "amount": 4137.9,
+                    "transaction_id": 12069474
+                }
+            ]
+        }
+    }
+}

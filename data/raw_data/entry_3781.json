@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amanda Smith",
+        "age": 39,
+        "gender": "male",
+        "address": "Unit 4622 Box 5350, DPO AP 60074",
+        "phone": "750-762-5394",
+        "email": "jennifer11@example.org",
+        "account": {
+            "account_number": "3a79c0c2-51a4-4e47-aee9-582ba5b05cce",
+            "balance": 22279.96,
+            "transactions": [
+                {
+                    "date": "2023-08-18",
+                    "description": "Withdrawal",
+                    "amount": 44675.32,
+                    "transaction_id": 76055856
+                },
+                {
+                    "date": "2022-10-31",
+                    "description": "Deposit",
+                    "amount": 20621.4,
+                    "transaction_id": 93603828
+                }
+            ]
+        }
+    }
+}

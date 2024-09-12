@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Troy Romero",
+        "age": 18,
+        "gender": "female",
+        "address": "29898 Hayes Radial, East Anthony, OK 70296",
+        "phone": "694.503.2116x9016",
+        "email": "hmejia@example.com",
+        "account": {
+            "account_number": "ee2cd82a-733c-4d1c-a81a-6a926f6b3f09",
+            "balance": 25577.94,
+            "transactions": [
+                {
+                    "date": "2023-10-22",
+                    "description": "Interest",
+                    "amount": 45506.09,
+                    "transaction_id": 98763690
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Deposit",
+                    "amount": 13343.99,
+                    "transaction_id": 40480511
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Deposit",
+                    "amount": 46553.35,
+                    "transaction_id": 32655415
+                },
+                {
+                    "date": "2024-03-29",
+                    "description": "Interest",
+                    "amount": 2971.59,
+                    "transaction_id": 3022691
+                }
+            ]
+        }
+    }
+}

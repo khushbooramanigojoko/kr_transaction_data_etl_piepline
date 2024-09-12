@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amanda Lee",
+        "age": 32,
+        "gender": "female",
+        "address": "47589 Tina Locks, Caitlinstad, FL 61042",
+        "phone": "368-765-5281",
+        "email": "owensyolanda@example.org",
+        "account": {
+            "account_number": "95189c05-00e1-436f-a3ad-85c9b19a7f53",
+            "balance": 37140.89,
+            "transactions": [
+                {
+                    "date": "2023-02-28",
+                    "description": "Deposit",
+                    "amount": 39782.28,
+                    "transaction_id": 99060820
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Interest",
+                    "amount": 2229.88,
+                    "transaction_id": 55081970
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Withdrawal",
+                    "amount": 22353.11,
+                    "transaction_id": 29882713
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Deposit",
+                    "amount": 47144.65,
+                    "transaction_id": 86609585
+                }
+            ]
+        }
+    }
+}

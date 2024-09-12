@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Erica Cox",
+        "age": 23,
+        "gender": "male",
+        "address": "59393 Bryant Manors Apt. 531, Carolbury, AK 02043",
+        "phone": "335-716-1623",
+        "email": "jking@example.net",
+        "account": {
+            "account_number": "add0a7b7-dae6-4287-ba26-a660ecabebee",
+            "balance": 20220.2,
+            "transactions": [
+                {
+                    "date": "2022-11-15",
+                    "description": "Withdrawal",
+                    "amount": 7396.92,
+                    "transaction_id": 50767781
+                },
+                {
+                    "date": "2024-01-13",
+                    "description": "Withdrawal",
+                    "amount": 44334.06,
+                    "transaction_id": 112102030
+                },
+                {
+                    "date": "2023-05-16",
+                    "description": "Withdrawal",
+                    "amount": 660.22,
+                    "transaction_id": 24998542
+                },
+                {
+                    "date": "2022-10-03",
+                    "description": "Withdrawal",
+                    "amount": 43336.59,
+                    "transaction_id": 77609358
+                }
+            ]
+        }
+    }
+}

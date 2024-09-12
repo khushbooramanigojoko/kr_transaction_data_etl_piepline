@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Robert Sullivan",
+        "age": 57,
+        "gender": "male",
+        "address": "877 Sawyer Village, Clarkland, IN 88068",
+        "phone": "(356)313-1563",
+        "email": "tasha95@example.com",
+        "account": {
+            "account_number": "ea4158bb-df55-44ee-a8a3-f914bb066e68",
+            "balance": 41072.19,
+            "transactions": [
+                {
+                    "date": "2022-12-23",
+                    "description": "Withdrawal",
+                    "amount": 28803.25,
+                    "transaction_id": 119406499
+                }
+            ]
+        }
+    }
+}

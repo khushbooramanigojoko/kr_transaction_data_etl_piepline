@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Collin Baldwin",
+        "age": 63,
+        "gender": "male",
+        "address": "396 Kara Drive, Mooreburgh, AS 78813",
+        "phone": "(259)473-1140x740",
+        "email": "christianvang@example.org",
+        "account": {
+            "account_number": "ce946486-6e8d-40bb-84b0-b76ec5e6ccfb",
+            "balance": -27996.18,
+            "transactions": [
+                {
+                    "date": "2024-03-03",
+                    "description": "Interest",
+                    "amount": 2771.36,
+                    "transaction_id": 15104733
+                },
+                {
+                    "date": "2023-06-27",
+                    "description": "Withdrawal",
+                    "amount": 3886.69,
+                    "transaction_id": 4020072
+                },
+                {
+                    "date": "2024-03-25",
+                    "description": "Withdrawal",
+                    "amount": 143.37,
+                    "transaction_id": 19205812
+                },
+                {
+                    "date": "2022-12-06",
+                    "description": "Withdrawal",
+                    "amount": -3314.58,
+                    "transaction_id": 95552067
+                }
+            ]
+        }
+    }
+}

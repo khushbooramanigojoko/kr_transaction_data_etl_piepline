@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Erica Smith",
+        "age": 30,
+        "gender": "female",
+        "address": "47590 Ashley Island, Lake Scottborough, DC 06949",
+        "phone": "752.218.4641x7853",
+        "email": "amanda81@example.net",
+        "account": {
+            "account_number": "6483feb7-cf88-4cd1-b948-dafc1cfb1856",
+            "balance": 46692.36,
+            "transactions": [
+                {
+                    "date": "2022-09-13",
+                    "description": "Interest",
+                    "amount": 40339.94,
+                    "transaction_id": 20453468
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Interest",
+                    "amount": 5513.15,
+                    "transaction_id": 9335747
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Deposit",
+                    "amount": 2765.07,
+                    "transaction_id": 52433298
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Deposit",
+                    "amount": 13602.09,
+                    "transaction_id": 90477511
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Interest",
+                    "amount": 3463.16,
+                    "transaction_id": 104092325
+                }
+            ]
+        }
+    }
+}

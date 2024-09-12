@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amanda Anthony",
+        "age": 31,
+        "gender": "female",
+        "address": "02961 John Dale, Catherineshire, PW 03649",
+        "phone": "697.526.0150",
+        "email": "brooksregina@example.org",
+        "account": {
+            "account_number": "3bc3c2e7-250e-4fdf-bb67-a78de315f447",
+            "balance": 23332.95,
+            "transactions": [
+                {
+                    "date": "2023-03-04",
+                    "description": "Withdrawal",
+                    "amount": 20070.85,
+                    "transaction_id": 8340734
+                },
+                {
+                    "date": "2024-07-10",
+                    "description": "Deposit",
+                    "amount": 8438.89,
+                    "transaction_id": 109022093
+                },
+                {
+                    "date": "2024-04-21",
+                    "description": "Interest",
+                    "amount": 7397.95,
+                    "transaction_id": 118854117
+                },
+                {
+                    "date": "2023-12-19",
+                    "description": "Interest",
+                    "amount": 48517.4,
+                    "transaction_id": 118088737
+                }
+            ]
+        }
+    }
+}

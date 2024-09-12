@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Phillip Monroe",
+        "age": 66,
+        "gender": "male",
+        "address": "1416 Flores Locks, Meganstad, NJ 06736",
+        "phone": "(919)780-7663x6710",
+        "email": "steventucker@example.net",
+        "account": {
+            "account_number": "e146fe52-5afe-42b2-90af-64d29f0d1007",
+            "balance": 21039.02,
+            "transactions": [
+                {
+                    "date": "2022-11-10",
+                    "description": "Deposit",
+                    "amount": 21621.51,
+                    "transaction_id": 116087836
+                },
+                {
+                    "date": "2024-03-11",
+                    "description": "Interest",
+                    "amount": 37803.43,
+                    "transaction_id": 32471098
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Interest",
+                    "amount": 37666.21,
+                    "transaction_id": 70348123
+                },
+                {
+                    "date": "2023-11-04",
+                    "description": "Deposit",
+                    "amount": 44068.12,
+                    "transaction_id": 84745060
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Billy Richards",
+        "age": 27,
+        "gender": "female",
+        "address": "19021 Estrada Radial Apt. 482, Woodwardstad, NE 09223",
+        "phone": "+1-282-894-2387",
+        "email": "heather19@example.net",
+        "account": {
+            "account_number": "803137cc-891a-43ad-9273-d9c8c3bf03eb",
+            "balance": 43893.07,
+            "transactions": [
+                {
+                    "date": "2023-02-14",
+                    "description": "Interest",
+                    "amount": 47749.16,
+                    "transaction_id": 50836059
+                },
+                {
+                    "date": "2022-09-07",
+                    "description": "Interest",
+                    "amount": 40653.9,
+                    "transaction_id": 104562245
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Interest",
+                    "amount": 14979.72,
+                    "transaction_id": 63879941
+                },
+                {
+                    "date": "2023-12-09",
+                    "description": "Interest",
+                    "amount": 10237.1,
+                    "transaction_id": 112456734
+                }
+            ]
+        }
+    }
+}

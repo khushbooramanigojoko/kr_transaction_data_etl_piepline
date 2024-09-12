@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Rebecca Scott",
+        "age": 89,
+        "gender": "male",
+        "address": "503 Gonzales Summit, Lake Andrew, AS 66605",
+        "phone": "(839)318-2012",
+        "email": "peterswilliam@example.com",
+        "account": {
+            "account_number": "037d918d-7e09-431a-a3b8-337abca1a296",
+            "balance": 35785.84,
+            "transactions": [
+                {
+                    "date": "2023-09-12",
+                    "description": "Withdrawal",
+                    "amount": 8081.28,
+                    "transaction_id": 69188715
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Withdrawal",
+                    "amount": 16993.45,
+                    "transaction_id": 96085564
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Withdrawal",
+                    "amount": 34485.19,
+                    "transaction_id": 21402626
+                },
+                {
+                    "date": "2023-05-17",
+                    "description": "Withdrawal",
+                    "amount": 11904.93,
+                    "transaction_id": 110898819
+                },
+                {
+                    "date": "2022-09-11",
+                    "description": "Interest",
+                    "amount": 8274.53,
+                    "transaction_id": 82039534
+                }
+            ]
+        }
+    }
+}

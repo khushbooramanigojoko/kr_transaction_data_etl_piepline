@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Justin Smith",
+        "age": 26,
+        "gender": "male",
+        "address": "29136 Barton Green Suite 852, Port Lindahaven, SC 57632",
+        "phone": "001-866-661-7442x823",
+        "email": "joshua41@example.net",
+        "account": {
+            "account_number": "e44c3e74-2d8a-436f-abb0-b5fffce08ada",
+            "balance": 23775.24,
+            "transactions": [
+                {
+                    "date": "2024-04-30",
+                    "description": "Deposit",
+                    "amount": 14278.84,
+                    "transaction_id": 28443390
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Deposit",
+                    "amount": 1055.72,
+                    "transaction_id": 81929495
+                }
+            ]
+        }
+    }
+}

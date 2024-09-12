@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Katherine Gutierrez",
+        "age": 97,
+        "gender": "female",
+        "address": "471 Michael Garden, Daychester, WY 20830",
+        "phone": "(447)456-8072",
+        "email": "sanchezcorey@example.net",
+        "account": {
+            "account_number": "b72232bb-64b8-47f2-96d2-c94b1bebcd67",
+            "balance": 13010.66,
+            "transactions": [
+                {
+                    "date": "2023-04-16",
+                    "description": "Withdrawal",
+                    "amount": 47368.66,
+                    "transaction_id": 44362869
+                }
+            ]
+        }
+    }
+}

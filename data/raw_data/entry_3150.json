@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Autumn Franklin",
+        "age": 24,
+        "gender": "male",
+        "address": "878 Randy Burg Apt. 672, East Jeremyside, MT 47017",
+        "phone": "(819)844-3874x2360",
+        "email": "colemankaren@example.org",
+        "account": {
+            "account_number": "fbc77245-622f-4c34-bc64-29b42896101f",
+            "balance": 33565.68,
+            "transactions": [
+                {
+                    "date": "2023-10-15",
+                    "description": "Withdrawal",
+                    "amount": 43133.02,
+                    "transaction_id": 43516213
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Deposit",
+                    "amount": 20147.76,
+                    "transaction_id": 93764009
+                },
+                {
+                    "date": "2024-02-08",
+                    "description": "Deposit",
+                    "amount": 21574.72,
+                    "transaction_id": 45294771
+                },
+                {
+                    "date": "2023-11-30",
+                    "description": "Withdrawal",
+                    "amount": 21967.57,
+                    "transaction_id": 60149334
+                },
+                {
+                    "date": "2022-09-16",
+                    "description": "Interest",
+                    "amount": 44682.2,
+                    "transaction_id": 44215873
+                }
+            ]
+        }
+    }
+}

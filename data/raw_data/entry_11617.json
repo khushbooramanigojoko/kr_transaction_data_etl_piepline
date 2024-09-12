@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 74,
+        "gender": "female",
+        "address": "79635 Mike Inlet, Shepherdmouth, OH 89111",
+        "phone": "735.397.6779x5385",
+        "email": "elizabethdavis@example.net",
+        "account": {
+            "account_number": "8ff53c84-d204-451e-8fc2-03abadffff84",
+            "balance": 34754.23,
+            "transactions": [
+                {
+                    "date": "2023-04-01",
+                    "description": "Interest",
+                    "amount": 1135.27,
+                    "transaction_id": 52336081
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Interest",
+                    "amount": 3317.76,
+                    "transaction_id": 13577899
+                },
+                {
+                    "date": "2023-07-30",
+                    "description": "Interest",
+                    "amount": 3053.56,
+                    "transaction_id": 2351861
+                }
+            ]
+        }
+    }
+}

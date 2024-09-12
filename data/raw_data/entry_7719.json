@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Haley Miller",
+        "age": 31,
+        "gender": "male",
+        "address": "509 Bailey Isle, Port Cody, KY 67611",
+        "phone": "503-353-0526x5655",
+        "email": "hannah85@example.com",
+        "account": {
+            "account_number": "19a9ea6b-162b-42ba-b50e-388361aaf85f",
+            "balance": 14791.22,
+            "transactions": [
+                {
+                    "date": "2023-12-07",
+                    "description": "Deposit",
+                    "amount": 36566.05,
+                    "transaction_id": 100075255
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Interest",
+                    "amount": 47198.79,
+                    "transaction_id": 87675040
+                },
+                {
+                    "date": "2023-05-02",
+                    "description": "Interest",
+                    "amount": 35340.98,
+                    "transaction_id": 104262690
+                },
+                {
+                    "date": "2023-09-21",
+                    "description": "Withdrawal",
+                    "amount": 46506.73,
+                    "transaction_id": 8999208
+                }
+            ]
+        }
+    }
+}

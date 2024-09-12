@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Cassandra Valentine",
+        "age": 62,
+        "gender": "female",
+        "address": "61346 Gonzalez Cove, Robertsborough, ND 66445",
+        "phone": "001-651-370-1217",
+        "email": "fbranch@example.com",
+        "account": {
+            "account_number": "6667def7-aed5-4dbb-979c-5444e9102ef6",
+            "balance": 16457.41,
+            "transactions": [
+                {
+                    "date": "2022-12-31",
+                    "description": "Withdrawal",
+                    "amount": 34020.37,
+                    "transaction_id": 7177252
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Withdrawal",
+                    "amount": 29770.0,
+                    "transaction_id": 9059922
+                },
+                {
+                    "date": "2023-04-16",
+                    "description": "Withdrawal",
+                    "amount": 2703.18,
+                    "transaction_id": 80112150
+                },
+                {
+                    "date": "2023-07-04",
+                    "description": "Deposit",
+                    "amount": 29361.34,
+                    "transaction_id": 32328279
+                }
+            ]
+        }
+    }
+}

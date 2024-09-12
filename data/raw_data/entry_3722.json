@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Nicole Washington",
+        "age": 64,
+        "gender": "female",
+        "address": "278 Alicia Fork, Nancystad, VA 73602",
+        "phone": "7078778756",
+        "email": "sarahbaker@example.org",
+        "account": {
+            "account_number": "345d2285-4b57-4f05-b1e4-788d5719fc46",
+            "balance": 34361.5,
+            "transactions": [
+                {
+                    "date": "2024-07-26",
+                    "description": "Withdrawal",
+                    "amount": 16621.37,
+                    "transaction_id": 29618942
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Deposit",
+                    "amount": 28882.22,
+                    "transaction_id": 14187897
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Justin Townsend",
+        "age": 90,
+        "gender": "female",
+        "address": "Unit 3128 Box 2973, DPO AA 97630",
+        "phone": "2644820978",
+        "email": "joshua05@example.net",
+        "account": {
+            "account_number": "4a5e7a16-d66c-4e93-ab19-a3d6a260b87d",
+            "balance": 47304.17,
+            "transactions": [
+                {
+                    "date": "2023-09-15",
+                    "description": "Deposit",
+                    "amount": 35124.78,
+                    "transaction_id": 101136185
+                },
+                {
+                    "date": "2024-06-03",
+                    "description": "Deposit",
+                    "amount": 13360.13,
+                    "transaction_id": 82849922
+                }
+            ]
+        }
+    }
+}

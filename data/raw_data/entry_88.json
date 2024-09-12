@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Randall Huang",
+        "age": 89,
+        "gender": "male",
+        "address": "532 Gray Way, Lauriechester, ND 40357",
+        "phone": "638-565-3793x1831",
+        "email": "pstout@example.com",
+        "account": {
+            "account_number": "00cfc078-e818-41d9-8ffc-ad542ca88ad8",
+            "balance": 31128.49,
+            "transactions": [
+                {
+                    "date": "2022-12-07",
+                    "description": "Interest",
+                    "amount": 13141.77,
+                    "transaction_id": 15152467
+                },
+                {
+                    "date": "2022-11-12",
+                    "description": "Interest",
+                    "amount": 4852.05,
+                    "transaction_id": 66096224
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Brittany Green",
+        "age": 72,
+        "gender": "female",
+        "address": "87725 Justin Run, Wilsonfort, MP 79178",
+        "phone": "594.276.0540x500",
+        "email": "atkinserin@example.org",
+        "account": {
+            "account_number": "2b1513aa-4714-4c55-bf87-5ddfaf2e1faf",
+            "balance": 25679.08,
+            "transactions": [
+                {
+                    "date": "2023-03-31",
+                    "description": "Interest",
+                    "amount": 40715.63,
+                    "transaction_id": 69140266
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Withdrawal",
+                    "amount": 39937.47,
+                    "transaction_id": 103251082
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Withdrawal",
+                    "amount": 4813.22,
+                    "transaction_id": 109520953
+                }
+            ]
+        }
+    }
+}

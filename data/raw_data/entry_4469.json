@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jenna Brewer",
+        "age": 29,
+        "gender": "male",
+        "address": "7577 Crosby Heights, South Miranda, IA 93984",
+        "phone": "6145465489",
+        "email": "ginamiddleton@example.com",
+        "account": {
+            "account_number": "fba0e70d-8eec-499f-96b9-e119d2a8a735",
+            "balance": 28053.35,
+            "transactions": [
+                {
+                    "date": "2024-03-08",
+                    "description": "Deposit",
+                    "amount": 7996.34,
+                    "transaction_id": 4072271
+                }
+            ]
+        }
+    }
+}

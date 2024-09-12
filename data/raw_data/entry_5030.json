@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Amber Wilkins",
+        "age": 83,
+        "gender": "male",
+        "address": "2256 Henry Cove, East Brendan, UT 16346",
+        "phone": "373-484-5308",
+        "email": "bradley74@example.net",
+        "account": {
+            "account_number": "e1a1eb52-8abc-4568-9f60-fd207136f716",
+            "balance": 5078.43,
+            "transactions": [
+                {
+                    "date": "2024-01-23",
+                    "description": "Interest",
+                    "amount": 7049.44,
+                    "transaction_id": 8573035
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Deposit",
+                    "amount": 42503.58,
+                    "transaction_id": 35658369
+                }
+            ]
+        }
+    }
+}

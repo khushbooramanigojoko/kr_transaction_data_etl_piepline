@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jessica Campbell",
+        "age": 66,
+        "gender": "male",
+        "address": "66960 David Rapids Apt. 967, Michelleport, NJ 08274",
+        "phone": "001-477-277-0687x04839",
+        "email": "steven36@example.com",
+        "account": {
+            "account_number": "696db004-0fd1-4f9b-bb00-a123c5996886",
+            "balance": 42564.46,
+            "transactions": [
+                {
+                    "date": "2023-06-11",
+                    "description": "Withdrawal",
+                    "amount": 49227.56,
+                    "transaction_id": 10801617
+                },
+                {
+                    "date": "2023-10-21",
+                    "description": "Deposit",
+                    "amount": 2612.17,
+                    "transaction_id": 105102078
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Withdrawal",
+                    "amount": 36062.54,
+                    "transaction_id": 56338122
+                }
+            ]
+        }
+    }
+}

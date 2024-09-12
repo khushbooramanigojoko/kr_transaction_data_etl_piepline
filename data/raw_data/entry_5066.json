@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Samuel Smith",
+        "age": 78,
+        "gender": "female",
+        "address": "348 Danny Plain, Bryanfort, SD 96987",
+        "phone": "8315127787",
+        "email": "erin61@example.com",
+        "account": {
+            "account_number": "d82bd2a9-7c50-4a29-8507-67a3f7a27485",
+            "balance": 35651.57,
+            "transactions": [
+                {
+                    "date": "2023-01-14",
+                    "description": "Withdrawal",
+                    "amount": 40426.42,
+                    "transaction_id": 100007992
+                },
+                {
+                    "date": "2023-11-09",
+                    "description": "Deposit",
+                    "amount": 13447.15,
+                    "transaction_id": 113675555
+                },
+                {
+                    "date": "2022-09-04",
+                    "description": "Interest",
+                    "amount": 37558.4,
+                    "transaction_id": 65620504
+                },
+                {
+                    "date": "2023-11-13",
+                    "description": "Deposit",
+                    "amount": 26388.62,
+                    "transaction_id": 33560058
+                },
+                {
+                    "date": "2022-12-02",
+                    "description": "Deposit",
+                    "amount": 47985.03,
+                    "transaction_id": 72780136
+                }
+            ]
+        }
+    }
+}

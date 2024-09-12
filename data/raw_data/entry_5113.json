@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jessica Bowman",
+        "age": 75,
+        "gender": "female",
+        "address": "02270 Lauren Circles Suite 056, Josephchester, VT 65627",
+        "phone": "214.617.5184",
+        "email": "brendarodriguez@example.com",
+        "account": {
+            "account_number": "fcfef789-825d-400e-b3db-5cc49243638a",
+            "balance": 20461.49,
+            "transactions": [
+                {
+                    "date": "2024-05-01",
+                    "description": "Withdrawal",
+                    "amount": 2339.11,
+                    "transaction_id": 51542319
+                },
+                {
+                    "date": "2022-11-04",
+                    "description": "Withdrawal",
+                    "amount": 42954.57,
+                    "transaction_id": 36377221
+                },
+                {
+                    "date": "2022-11-12",
+                    "description": "Deposit",
+                    "amount": 1839.52,
+                    "transaction_id": 104062513
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Deposit",
+                    "amount": 36035.5,
+                    "transaction_id": 3340763
+                },
+                {
+                    "date": "2023-10-20",
+                    "description": "Interest",
+                    "amount": 6940.67,
+                    "transaction_id": 52920049
+                }
+            ]
+        }
+    }
+}

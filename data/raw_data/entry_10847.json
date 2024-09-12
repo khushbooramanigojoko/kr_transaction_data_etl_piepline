@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Robert Santos",
+        "age": 29,
+        "gender": "male",
+        "address": "6859 Shelton Meadows, Ellenshire, VT 60820",
+        "phone": "001-317-676-4389x4313",
+        "email": "sharonlindsey@example.com",
+        "account": {
+            "account_number": "25ec2795-2f02-4f07-b6ee-567cc0a38db2",
+            "balance": -21877.67,
+            "transactions": [
+                {
+                    "date": "2023-08-08",
+                    "description": "Interest",
+                    "amount": -449.4,
+                    "transaction_id": 8196922
+                },
+                {
+                    "date": "2024-01-21",
+                    "description": "Interest",
+                    "amount": 845.73,
+                    "transaction_id": 109944795
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Deposit",
+                    "amount": 3876.72,
+                    "transaction_id": 114948029
+                }
+            ]
+        }
+    }
+}

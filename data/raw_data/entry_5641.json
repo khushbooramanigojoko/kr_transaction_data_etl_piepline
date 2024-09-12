@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Johnny Griffin",
+        "age": 40,
+        "gender": "male",
+        "address": "2625 Morrow Gateway Suite 830, West Keith, WV 59265",
+        "phone": "960-474-0569",
+        "email": "monique95@example.com",
+        "account": {
+            "account_number": "d2b583d7-c088-4427-8333-141221607557",
+            "balance": 11194.17,
+            "transactions": [
+                {
+                    "date": "2023-05-14",
+                    "description": "Withdrawal",
+                    "amount": 7902.47,
+                    "transaction_id": 65810190
+                },
+                {
+                    "date": "2024-02-11",
+                    "description": "Withdrawal",
+                    "amount": 3748.02,
+                    "transaction_id": 67777343
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Deposit",
+                    "amount": 5356.3,
+                    "transaction_id": 6915438
+                }
+            ]
+        }
+    }
+}

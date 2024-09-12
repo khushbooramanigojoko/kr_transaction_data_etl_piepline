@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kenneth Mccormick",
+        "age": 36,
+        "gender": "male",
+        "address": "453 Nicole Roads Apt. 587, East Robin, TN 25291",
+        "phone": "+1-540-994-9160x293",
+        "email": "qgonzales@example.net",
+        "account": {
+            "account_number": "1df00e07-0521-4c25-b2de-1acdf8bd7abf",
+            "balance": 32060.57,
+            "transactions": [
+                {
+                    "date": "2024-06-19",
+                    "description": "Deposit",
+                    "amount": 24854.37,
+                    "transaction_id": 17963210
+                },
+                {
+                    "date": "2024-08-22",
+                    "description": "Interest",
+                    "amount": 37743.01,
+                    "transaction_id": 36305593
+                },
+                {
+                    "date": "2024-03-31",
+                    "description": "Deposit",
+                    "amount": 2186.04,
+                    "transaction_id": 40799507
+                },
+                {
+                    "date": "2024-01-12",
+                    "description": "Interest",
+                    "amount": 18589.07,
+                    "transaction_id": 64337989
+                },
+                {
+                    "date": "2023-09-28",
+                    "description": "Withdrawal",
+                    "amount": 36589.09,
+                    "transaction_id": 28810663
+                }
+            ]
+        }
+    }
+}

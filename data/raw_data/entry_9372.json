@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Laurie Berry",
+        "age": 58,
+        "gender": "male",
+        "address": "3484 Sharon Islands, Lamborough, SD 52389",
+        "phone": "480.483.2682x4267",
+        "email": "patrick06@example.com",
+        "account": {
+            "account_number": "cffec157-843d-4786-b492-ca45ef8c7b65",
+            "balance": -45032.66,
+            "transactions": [
+                {
+                    "date": "2022-11-21",
+                    "description": "Deposit",
+                    "amount": 714.64,
+                    "transaction_id": 22091475
+                },
+                {
+                    "date": "2023-04-30",
+                    "description": "Interest",
+                    "amount": -164.22,
+                    "transaction_id": 79855271
+                }
+            ]
+        }
+    }
+}

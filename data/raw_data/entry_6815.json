@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nathaniel Hunter",
+        "age": 28,
+        "gender": "female",
+        "address": "Unit 4167 Box 0377, DPO AP 84315",
+        "phone": "554-498-1066x94167",
+        "email": "leachrichard@example.com",
+        "account": {
+            "account_number": "70e3ff1d-d205-4a8d-a67e-91e7e3d4a542",
+            "balance": 32800.45,
+            "transactions": [
+                {
+                    "date": "2024-05-05",
+                    "description": "Withdrawal",
+                    "amount": 16734.28,
+                    "transaction_id": 37480009
+                },
+                {
+                    "date": "2023-04-01",
+                    "description": "Withdrawal",
+                    "amount": 15839.56,
+                    "transaction_id": 4646904
+                },
+                {
+                    "date": "2023-08-13",
+                    "description": "Withdrawal",
+                    "amount": 14984.15,
+                    "transaction_id": 33012571
+                },
+                {
+                    "date": "2023-02-18",
+                    "description": "Interest",
+                    "amount": 20717.26,
+                    "transaction_id": 80189414
+                }
+            ]
+        }
+    }
+}

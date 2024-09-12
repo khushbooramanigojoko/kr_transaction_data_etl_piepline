@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Shelly Harris",
+        "age": 78,
+        "gender": "female",
+        "address": "2047 Greene Plains Suite 425, Troyport, KS 04864",
+        "phone": "+1-737-628-0043x04569",
+        "email": "karen07@example.com",
+        "account": {
+            "account_number": "cb0df29e-4650-4ee4-9f5d-dabd64e0f623",
+            "balance": 43786.4,
+            "transactions": [
+                {
+                    "date": "2024-04-15",
+                    "description": "Interest",
+                    "amount": 12114.99,
+                    "transaction_id": 14623734
+                }
+            ]
+        }
+    }
+}

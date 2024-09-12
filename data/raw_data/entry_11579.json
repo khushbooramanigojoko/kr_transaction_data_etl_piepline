@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "James Garcia",
+        "age": 50,
+        "gender": "male",
+        "address": "78444 Isaac Camp, North Scottbury, WY 55584",
+        "phone": "414.716.9405x63027",
+        "email": "johnsonangel@example.org",
+        "account": {
+            "account_number": "863fc6a4-7692-4478-8fea-2e636e51337b",
+            "balance": -40979.87,
+            "transactions": [
+                {
+                    "date": "2023-08-11",
+                    "description": "Withdrawal",
+                    "amount": -344.57,
+                    "transaction_id": 45096574
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Deposit",
+                    "amount": -4937.13,
+                    "transaction_id": 38969587
+                }
+            ]
+        }
+    }
+}

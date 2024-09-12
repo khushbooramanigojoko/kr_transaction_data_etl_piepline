@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stacy Faulkner MD",
+        "age": 60,
+        "gender": "female",
+        "address": "60699 Shannon Isle, Samuelport, PA 32872",
+        "phone": "726.406.4615x0537",
+        "email": "thorntonshelby@example.org",
+        "account": {
+            "account_number": "6d9dccc0-e0f9-4a06-a2ac-3c20f1990bef",
+            "balance": 34858.27,
+            "transactions": [
+                {
+                    "date": "2024-03-24",
+                    "description": "Interest",
+                    "amount": 11958.1,
+                    "transaction_id": 21263369
+                },
+                {
+                    "date": "2024-06-02",
+                    "description": "Interest",
+                    "amount": 22126.72,
+                    "transaction_id": 62822480
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Interest",
+                    "amount": 8199.83,
+                    "transaction_id": 36245760
+                },
+                {
+                    "date": "2023-12-18",
+                    "description": "Withdrawal",
+                    "amount": 44730.07,
+                    "transaction_id": 54135262
+                }
+            ]
+        }
+    }
+}

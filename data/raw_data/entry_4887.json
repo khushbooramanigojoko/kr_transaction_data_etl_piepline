@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Adriana Summers",
+        "age": 31,
+        "gender": "male",
+        "address": "6800 Megan Isle Apt. 799, Susanstad, ND 09672",
+        "phone": "433.304.9864x048",
+        "email": "wilsonbrian@example.com",
+        "account": {
+            "account_number": "09607729-16f2-45ba-8473-45ea24be55d3",
+            "balance": 16759.83,
+            "transactions": [
+                {
+                    "date": "2023-10-16",
+                    "description": "Deposit",
+                    "amount": 28960.86,
+                    "transaction_id": 82729187
+                },
+                {
+                    "date": "2024-02-16",
+                    "description": "Interest",
+                    "amount": 34635.8,
+                    "transaction_id": 53580475
+                },
+                {
+                    "date": "2023-03-24",
+                    "description": "Interest",
+                    "amount": 43068.0,
+                    "transaction_id": 114644628
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Deposit",
+                    "amount": 42519.02,
+                    "transaction_id": 28934310
+                },
+                {
+                    "date": "2022-12-09",
+                    "description": "Withdrawal",
+                    "amount": 15454.99,
+                    "transaction_id": 73337735
+                }
+            ]
+        }
+    }
+}

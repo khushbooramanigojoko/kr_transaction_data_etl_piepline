@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stephen Guzman",
+        "age": 57,
+        "gender": "female",
+        "address": "6843 John Run Suite 009, South Victoria, NY 16540",
+        "phone": "6554574204",
+        "email": "hopkinsjason@example.net",
+        "account": {
+            "account_number": "c12ed0f4-b784-4fb9-ac8b-07a5b9d9d919",
+            "balance": 46988.57,
+            "transactions": [
+                {
+                    "date": "2023-08-07",
+                    "description": "Deposit",
+                    "amount": 25641.74,
+                    "transaction_id": 56971662
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Withdrawal",
+                    "amount": 6019.77,
+                    "transaction_id": 13555409
+                },
+                {
+                    "date": "2023-10-24",
+                    "description": "Withdrawal",
+                    "amount": 22249.24,
+                    "transaction_id": 74696833
+                },
+                {
+                    "date": "2023-04-24",
+                    "description": "Interest",
+                    "amount": 49854.56,
+                    "transaction_id": 94855428
+                }
+            ]
+        }
+    }
+}

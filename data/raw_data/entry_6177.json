@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Susan Cox MD",
+        "age": 92,
+        "gender": "female",
+        "address": "64346 Norton Summit, New Jane, AR 06579",
+        "phone": "557.702.5110x135",
+        "email": "hahnshirley@example.org",
+        "account": {
+            "account_number": "d99afb5d-54ac-4589-89a4-6f9e365347fc",
+            "balance": 24207.87,
+            "transactions": [
+                {
+                    "date": "2022-09-18",
+                    "description": "Deposit",
+                    "amount": 15537.36,
+                    "transaction_id": 99977649
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 79,
+        "gender": "female",
+        "address": "Unit 4436 Box 2977, DPO AP 47532",
+        "phone": "001-444-239-9554",
+        "email": "tjohnson@example.net",
+        "account": {
+            "account_number": "c87f72a8-7508-493c-9523-d677edcc908c",
+            "balance": 34817.8,
+            "transactions": [
+                {
+                    "date": "2023-12-03",
+                    "description": "Withdrawal",
+                    "amount": -1264.51,
+                    "transaction_id": 109418886
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Interest",
+                    "amount": 2190.05,
+                    "transaction_id": 111204104
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Withdrawal",
+                    "amount": -192.71,
+                    "transaction_id": 19632673
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Deposit",
+                    "amount": -2622.56,
+                    "transaction_id": 29794346
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Davis",
+        "age": 94,
+        "gender": "male",
+        "address": "3519 Jones Island Apt. 291, South Douglas, NE 64742",
+        "phone": "693.640.6772x93996",
+        "email": "laurenmoore@example.net",
+        "account": {
+            "account_number": "316dcb99-7cc6-4578-aed2-1dc1742cd756",
+            "balance": 11612.4,
+            "transactions": [
+                {
+                    "date": "2023-12-12",
+                    "description": "Interest",
+                    "amount": 12513.89,
+                    "transaction_id": 2163136
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Withdrawal",
+                    "amount": 30272.18,
+                    "transaction_id": 36569677
+                },
+                {
+                    "date": "2024-01-26",
+                    "description": "Withdrawal",
+                    "amount": 26125.43,
+                    "transaction_id": 99072638
+                },
+                {
+                    "date": "2024-03-07",
+                    "description": "Withdrawal",
+                    "amount": 41524.44,
+                    "transaction_id": 53045862
+                },
+                {
+                    "date": "2024-08-19",
+                    "description": "Withdrawal",
+                    "amount": 31763.78,
+                    "transaction_id": 105409561
+                }
+            ]
+        }
+    }
+}

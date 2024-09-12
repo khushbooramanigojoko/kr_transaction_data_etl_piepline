@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jesse Carson",
+        "age": 81,
+        "gender": "male",
+        "address": "120 Nichole Expressway Apt. 873, Lake Justinburgh, NY 39613",
+        "phone": "001-511-416-9392x2814",
+        "email": "zachary63@example.com",
+        "account": {
+            "account_number": "ca51d4a1-e371-43a5-bbc1-117354303a1e",
+            "balance": 22270.97,
+            "transactions": [
+                {
+                    "date": "2023-08-18",
+                    "description": "Withdrawal",
+                    "amount": 1238.96,
+                    "transaction_id": 24228097
+                }
+            ]
+        }
+    }
+}

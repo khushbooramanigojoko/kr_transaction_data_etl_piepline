@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Steven Patel",
+        "age": 23,
+        "gender": "male",
+        "address": "0607 Julia Drive Apt. 325, Lake Stephentown, NE 13041",
+        "phone": "001-234-777-0187",
+        "email": "smithwilliam@example.com",
+        "account": {
+            "account_number": "bfd53cb7-4db1-445a-9e9b-948b9326a30f",
+            "balance": 15837.17,
+            "transactions": [
+                {
+                    "date": "2023-04-22",
+                    "description": "Withdrawal",
+                    "amount": 33553.47,
+                    "transaction_id": 43688268
+                },
+                {
+                    "date": "2023-12-10",
+                    "description": "Interest",
+                    "amount": 6550.81,
+                    "transaction_id": 18440931
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Interest",
+                    "amount": 30805.35,
+                    "transaction_id": 35541154
+                }
+            ]
+        }
+    }
+}

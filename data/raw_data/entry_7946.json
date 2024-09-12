@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "David Spencer",
+        "age": 92,
+        "gender": "female",
+        "address": "9559 Michelle Estates Suite 695, Chanton, HI 42482",
+        "phone": "(596)280-7828",
+        "email": "kristasanchez@example.net",
+        "account": {
+            "account_number": "99826dbd-653e-422c-97f6-18f7f5ae6608",
+            "balance": 1727.92,
+            "transactions": [
+                {
+                    "date": "2024-02-18",
+                    "description": "Withdrawal",
+                    "amount": 6748.71,
+                    "transaction_id": 45719771
+                },
+                {
+                    "date": "2023-01-21",
+                    "description": "Withdrawal",
+                    "amount": 15056.29,
+                    "transaction_id": 54974791
+                },
+                {
+                    "date": "2023-11-06",
+                    "description": "Deposit",
+                    "amount": 41064.39,
+                    "transaction_id": 21230797
+                }
+            ]
+        }
+    }
+}

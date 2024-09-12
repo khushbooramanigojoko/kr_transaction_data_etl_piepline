@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jeremy Ortiz",
+        "age": 22,
+        "gender": "female",
+        "address": "115 Jennings Forks, Hillmouth, VT 23906",
+        "phone": "580-204-1894x57915",
+        "email": "rmunoz@example.net",
+        "account": {
+            "account_number": "05bc7a11-3925-49ba-bf3c-c782ef4f50c3",
+            "balance": 15610.73,
+            "transactions": [
+                {
+                    "date": "2023-05-25",
+                    "description": "Withdrawal",
+                    "amount": 19362.43,
+                    "transaction_id": 99009479
+                }
+            ]
+        }
+    }
+}

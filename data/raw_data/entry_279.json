@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Cody Hughes",
+        "age": 51,
+        "gender": "male",
+        "address": "21278 Jimenez Rapid, Lake Elizabethberg, PA 98339",
+        "phone": "+1-697-528-3518x262",
+        "email": "velasquezshannon@example.com",
+        "account": {
+            "account_number": "2841ac41-326a-46e5-8b04-aea582287847",
+            "balance": 46974.83,
+            "transactions": [
+                {
+                    "date": "2023-12-20",
+                    "description": "Withdrawal",
+                    "amount": 21569.63,
+                    "transaction_id": 23688017
+                }
+            ]
+        }
+    }
+}

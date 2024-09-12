@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "William Duncan",
+        "age": 66,
+        "gender": "male",
+        "address": "87790 Hooper Mews, Port Melaniehaven, ME 65038",
+        "phone": "390.273.9468x0196",
+        "email": "markortega@example.org",
+        "account": {
+            "account_number": "d7c3f9f2-a50b-4961-a686-ff90c34f8409",
+            "balance": 17998.38,
+            "transactions": [
+                {
+                    "date": "2023-11-04",
+                    "description": "Deposit",
+                    "amount": 40753.1,
+                    "transaction_id": 104506624
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Withdrawal",
+                    "amount": 22080.45,
+                    "transaction_id": 70326276
+                }
+            ]
+        }
+    }
+}

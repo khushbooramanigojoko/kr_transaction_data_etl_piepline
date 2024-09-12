@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 45,
+        "gender": "female",
+        "address": "064 Spencer Summit Suite 465, West Kenneth, PW 46014",
+        "phone": "(781)363-7883",
+        "email": "ataylor@example.org",
+        "account": {
+            "account_number": "5f44be64-6b07-4fde-ac2f-c33ad2dc1551",
+            "balance": 29319.05,
+            "transactions": [
+                {
+                    "date": "2023-07-15",
+                    "description": "Withdrawal",
+                    "amount": -3713.61,
+                    "transaction_id": 81681320
+                },
+                {
+                    "date": "2024-06-07",
+                    "description": "Interest",
+                    "amount": 1340.12,
+                    "transaction_id": 87007948
+                }
+            ]
+        }
+    }
+}

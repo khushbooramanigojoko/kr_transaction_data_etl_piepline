@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "George Martin",
+        "age": 53,
+        "gender": "female",
+        "address": "010 Alison Freeway, West Shannonport, TX 07515",
+        "phone": "+1-236-640-1002x869",
+        "email": "williamthompson@example.com",
+        "account": {
+            "account_number": "e6cb7fa6-7cd7-4bd0-abf3-a9e1a246440f",
+            "balance": -5905.42,
+            "transactions": [
+                {
+                    "date": "2023-09-20",
+                    "description": "Interest",
+                    "amount": -1179.12,
+                    "transaction_id": 59186923
+                },
+                {
+                    "date": "2024-04-19",
+                    "description": "Deposit",
+                    "amount": 4456.45,
+                    "transaction_id": 116757447
+                }
+            ]
+        }
+    }
+}

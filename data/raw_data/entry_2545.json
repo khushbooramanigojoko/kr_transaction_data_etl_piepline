@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Danny Clayton",
+        "age": 18,
+        "gender": "male",
+        "address": "64280 Lopez Track Apt. 242, Sierratown, NE 07208",
+        "phone": "7109418072",
+        "email": "amber90@example.org",
+        "account": {
+            "account_number": "c71736d2-0f22-4195-b2c6-534b97869b96",
+            "balance": 35360.26,
+            "transactions": [
+                {
+                    "date": "2023-08-13",
+                    "description": "Interest",
+                    "amount": 7592.48,
+                    "transaction_id": 22722612
+                }
+            ]
+        }
+    }
+}

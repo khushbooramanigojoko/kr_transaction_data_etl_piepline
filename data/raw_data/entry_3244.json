@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Frederick Palmer",
+        "age": 46,
+        "gender": "male",
+        "address": "0752 Duane Trail Suite 589, Jenniferhaven, MA 66797",
+        "phone": "001-513-870-9936x8654",
+        "email": "hernandezjason@example.org",
+        "account": {
+            "account_number": "c995db23-b55b-4133-af4e-185a50b24bb7",
+            "balance": 6123.4,
+            "transactions": [
+                {
+                    "date": "2024-07-03",
+                    "description": "Deposit",
+                    "amount": 26663.9,
+                    "transaction_id": 54571365
+                },
+                {
+                    "date": "2024-02-08",
+                    "description": "Interest",
+                    "amount": 49330.11,
+                    "transaction_id": 91164955
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jared Campbell",
+        "age": 85,
+        "gender": "female",
+        "address": "8530 Rose Spurs, Amandaborough, PA 02935",
+        "phone": "+1-941-908-6938x98713",
+        "email": "bishopjames@example.net",
+        "account": {
+            "account_number": "d4d23436-47a4-4541-8dd4-fc832ca8d87d",
+            "balance": -19240.92,
+            "transactions": [
+                {
+                    "date": "2024-05-21",
+                    "description": "Deposit",
+                    "amount": -681.46,
+                    "transaction_id": 91072065
+                }
+            ]
+        }
+    }
+}

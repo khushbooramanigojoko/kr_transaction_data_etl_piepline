@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Julie Harris",
+        "age": 98,
+        "gender": "female",
+        "address": "657 Joseph Camp, Donaldmouth, MN 69218",
+        "phone": "(699)922-3003x38151",
+        "email": "lharrison@example.com",
+        "account": {
+            "account_number": "3a0911ab-7b75-4e49-aa88-7cad675f70e3",
+            "balance": -23001.4,
+            "transactions": [
+                {
+                    "date": "2024-02-27",
+                    "description": "Deposit",
+                    "amount": -565.05,
+                    "transaction_id": 38887756
+                }
+            ]
+        }
+    }
+}

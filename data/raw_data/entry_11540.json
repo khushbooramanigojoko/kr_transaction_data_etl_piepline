@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 52,
+        "gender": "female",
+        "address": "41141 Novak Ways, Ernestburgh, GA 30344",
+        "phone": "425-780-4477x05444",
+        "email": "ryankline@example.org",
+        "account": {
+            "account_number": "d5f7925f-b142-412f-ae76-a8be19e09cde",
+            "balance": 31686.03,
+            "transactions": [
+                {
+                    "date": "2024-01-07",
+                    "description": "Interest",
+                    "amount": 2016.26,
+                    "transaction_id": 43471857
+                },
+                {
+                    "date": "2023-11-21",
+                    "description": "Interest",
+                    "amount": -1467.07,
+                    "transaction_id": 42535951
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Interest",
+                    "amount": 4369.88,
+                    "transaction_id": 104586931
+                },
+                {
+                    "date": "2023-06-24",
+                    "description": "Deposit",
+                    "amount": -1303.39,
+                    "transaction_id": 8286721
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amanda Bird",
+        "age": 56,
+        "gender": "male",
+        "address": "96971 John Courts Suite 588, Carriemouth, AK 76334",
+        "phone": "5615596648",
+        "email": "latoya48@example.com",
+        "account": {
+            "account_number": "d645efe8-5adf-461d-912e-4aeebb64d4de",
+            "balance": 23014.02,
+            "transactions": [
+                {
+                    "date": "2023-07-16",
+                    "description": "Interest",
+                    "amount": 5485.64,
+                    "transaction_id": 111053992
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Withdrawal",
+                    "amount": 11316.75,
+                    "transaction_id": 41270770
+                },
+                {
+                    "date": "2024-05-16",
+                    "description": "Withdrawal",
+                    "amount": 19491.32,
+                    "transaction_id": 94899536
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Interest",
+                    "amount": 963.3,
+                    "transaction_id": 86817256
+                }
+            ]
+        }
+    }
+}

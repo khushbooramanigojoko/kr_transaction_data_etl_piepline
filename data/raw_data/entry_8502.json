@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Megan Bender",
+        "age": 87,
+        "gender": "female",
+        "address": "59310 Smith Lock, Charlesland, GU 59969",
+        "phone": "+1-990-273-5832x059",
+        "email": "tramirez@example.net",
+        "account": {
+            "account_number": "b98652b5-8801-4a1b-b3b4-bd1a2b90b97f",
+            "balance": 1315.97,
+            "transactions": [
+                {
+                    "date": "2023-12-24",
+                    "description": "Withdrawal",
+                    "amount": 39589.62,
+                    "transaction_id": 89558220
+                },
+                {
+                    "date": "2024-05-10",
+                    "description": "Interest",
+                    "amount": 29780.17,
+                    "transaction_id": 87925884
+                },
+                {
+                    "date": "2022-12-13",
+                    "description": "Withdrawal",
+                    "amount": 48591.48,
+                    "transaction_id": 104432483
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Deposit",
+                    "amount": 35059.41,
+                    "transaction_id": 35299391
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Deposit",
+                    "amount": 25627.23,
+                    "transaction_id": 99763482
+                }
+            ]
+        }
+    }
+}

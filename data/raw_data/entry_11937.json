@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alan Sanders",
+        "age": 33,
+        "gender": "female",
+        "address": "97555 Nicholas Street, South Jill, WI 42286",
+        "phone": "(658)395-3953x024",
+        "email": "jack32@example.org",
+        "account": {
+            "account_number": "4cdff020-a13e-4376-923f-277c349585f9",
+            "balance": 11433.03,
+            "transactions": [
+                {
+                    "date": "2024-04-26",
+                    "description": "Interest",
+                    "amount": 47910.72,
+                    "transaction_id": 119415692
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 69,
+        "gender": "female",
+        "address": "2994 Moore Forest, Michaelland, MH 83759",
+        "phone": "(350)894-8297",
+        "email": "tiffany96@example.org",
+        "account": {
+            "account_number": "2dc3013e-f60a-49c9-bf23-3865e947fd5b",
+            "balance": 10496.08,
+            "transactions": [
+                {
+                    "date": "2023-07-07",
+                    "description": "Deposit",
+                    "amount": -468.56,
+                    "transaction_id": 76147122
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Withdrawal",
+                    "amount": 1497.52,
+                    "transaction_id": 11902506
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Withdrawal",
+                    "amount": -4677.3,
+                    "transaction_id": 38741534
+                },
+                {
+                    "date": "2024-02-05",
+                    "description": "Withdrawal",
+                    "amount": 175.76,
+                    "transaction_id": 61197995
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Deposit",
+                    "amount": 124.89,
+                    "transaction_id": 12083631
+                }
+            ]
+        }
+    }
+}

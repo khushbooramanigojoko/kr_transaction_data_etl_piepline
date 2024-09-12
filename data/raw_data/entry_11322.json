@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 48,
+        "gender": "male",
+        "address": "6963 Davis Coves Suite 082, Richchester, WI 17033",
+        "phone": "676-851-0016x6027",
+        "email": "nmiller@example.com",
+        "account": {
+            "account_number": "96aa982d-ce54-4056-a8cc-aa1d98d28f4b",
+            "balance": 17221.81,
+            "transactions": [
+                {
+                    "date": "2022-12-25",
+                    "description": "Interest",
+                    "amount": 3219.96,
+                    "transaction_id": 99991832
+                },
+                {
+                    "date": "2024-05-28",
+                    "description": "Withdrawal",
+                    "amount": 3807.55,
+                    "transaction_id": 106064026
+                },
+                {
+                    "date": "2024-08-14",
+                    "description": "Interest",
+                    "amount": -439.86,
+                    "transaction_id": 102635887
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Withdrawal",
+                    "amount": 1291.91,
+                    "transaction_id": 110791598
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Deposit",
+                    "amount": 961.18,
+                    "transaction_id": 55576802
+                }
+            ]
+        }
+    }
+}

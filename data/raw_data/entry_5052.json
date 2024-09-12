@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Brittany Jones DDS",
+        "age": 21,
+        "gender": "female",
+        "address": "2536 Renee Wells, West Adamstad, NY 74536",
+        "phone": "001-787-494-9824x477",
+        "email": "hinesgloria@example.com",
+        "account": {
+            "account_number": "2d9d8835-5b3f-4278-8ee1-bc8d015c852d",
+            "balance": 2212.41,
+            "transactions": [
+                {
+                    "date": "2022-10-03",
+                    "description": "Deposit",
+                    "amount": 5841.67,
+                    "transaction_id": 79670243
+                },
+                {
+                    "date": "2024-04-28",
+                    "description": "Interest",
+                    "amount": 456.24,
+                    "transaction_id": 49203934
+                }
+            ]
+        }
+    }
+}

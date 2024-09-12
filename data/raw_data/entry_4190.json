@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Rebecca Hammond",
+        "age": 61,
+        "gender": "female",
+        "address": "4647 Jamie River, North Megan, WA 34501",
+        "phone": "(461)589-9576",
+        "email": "andersonnicholas@example.net",
+        "account": {
+            "account_number": "091271a8-91d9-40bd-8581-fc6ba4a99aca",
+            "balance": 46646.27,
+            "transactions": [
+                {
+                    "date": "2023-05-15",
+                    "description": "Withdrawal",
+                    "amount": 18542.15,
+                    "transaction_id": 18615541
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Interest",
+                    "amount": 44782.99,
+                    "transaction_id": 22485307
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Joe Sullivan",
+        "age": 81,
+        "gender": "male",
+        "address": "732 Castillo Wall, South Austinhaven, MP 05956",
+        "phone": "675.432.3989",
+        "email": "lynnsavage@example.net",
+        "account": {
+            "account_number": "19b66db0-0952-446a-8b69-4ea76aa742f0",
+            "balance": 6928.07,
+            "transactions": [
+                {
+                    "date": "2024-02-17",
+                    "description": "Interest",
+                    "amount": 16767.56,
+                    "transaction_id": 115005407
+                },
+                {
+                    "date": "2022-09-04",
+                    "description": "Deposit",
+                    "amount": 1615.83,
+                    "transaction_id": 98082781
+                },
+                {
+                    "date": "2023-03-06",
+                    "description": "Withdrawal",
+                    "amount": 35588.53,
+                    "transaction_id": 34920338
+                },
+                {
+                    "date": "2024-03-26",
+                    "description": "Withdrawal",
+                    "amount": 49097.62,
+                    "transaction_id": 60930950
+                },
+                {
+                    "date": "2024-04-17",
+                    "description": "Interest",
+                    "amount": 20282.45,
+                    "transaction_id": 110316386
+                }
+            ]
+        }
+    }
+}

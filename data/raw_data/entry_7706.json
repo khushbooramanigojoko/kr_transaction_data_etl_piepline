@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Paul Estrada",
+        "age": 54,
+        "gender": "female",
+        "address": "222 Roberts Summit, Hernandezland, GA 23504",
+        "phone": "(780)481-4761x897",
+        "email": "malonecatherine@example.com",
+        "account": {
+            "account_number": "50d4cbe9-bcfd-4abe-b85d-abee1cb1f7e2",
+            "balance": 14744.7,
+            "transactions": [
+                {
+                    "date": "2023-04-07",
+                    "description": "Withdrawal",
+                    "amount": 17192.47,
+                    "transaction_id": 18508159
+                },
+                {
+                    "date": "2024-01-24",
+                    "description": "Withdrawal",
+                    "amount": 38384.55,
+                    "transaction_id": 33629113
+                },
+                {
+                    "date": "2022-10-06",
+                    "description": "Interest",
+                    "amount": 8078.95,
+                    "transaction_id": 48264424
+                },
+                {
+                    "date": "2023-11-02",
+                    "description": "Withdrawal",
+                    "amount": 17500.58,
+                    "transaction_id": 11187454
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Interest",
+                    "amount": 1159.19,
+                    "transaction_id": 108330588
+                }
+            ]
+        }
+    }
+}

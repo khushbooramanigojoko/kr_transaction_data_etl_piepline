@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Gina Roberts",
+        "age": 36,
+        "gender": "female",
+        "address": "83007 Jonathan Junction, West Breannaland, PA 48550",
+        "phone": "001-757-774-9913x062",
+        "email": "ehoward@example.net",
+        "account": {
+            "account_number": "ac7c42d4-b331-4fbb-a649-099bf2189630",
+            "balance": 20076.96,
+            "transactions": [
+                {
+                    "date": "2024-01-29",
+                    "description": "Deposit",
+                    "amount": 36599.86,
+                    "transaction_id": 76923329
+                },
+                {
+                    "date": "2023-12-19",
+                    "description": "Deposit",
+                    "amount": 37137.15,
+                    "transaction_id": 29105913
+                }
+            ]
+        }
+    }
+}

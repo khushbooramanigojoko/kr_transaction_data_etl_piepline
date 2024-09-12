@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jamie Evans",
+        "age": 60,
+        "gender": "female",
+        "address": "031 Wright Mountains Apt. 998, North Travis, WA 86991",
+        "phone": "001-747-669-3155x18416",
+        "email": "jsanchez@example.com",
+        "account": {
+            "account_number": "4195c44c-cce4-4066-acd4-f5b76977aaae",
+            "balance": 36244.71,
+            "transactions": [
+                {
+                    "date": "2023-12-20",
+                    "description": "Withdrawal",
+                    "amount": 42405.66,
+                    "transaction_id": 86597471
+                },
+                {
+                    "date": "2024-03-10",
+                    "description": "Interest",
+                    "amount": 16169.67,
+                    "transaction_id": 22992247
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Withdrawal",
+                    "amount": 44191.67,
+                    "transaction_id": 50820440
+                },
+                {
+                    "date": "2023-06-05",
+                    "description": "Withdrawal",
+                    "amount": 45166.69,
+                    "transaction_id": 12183443
+                }
+            ]
+        }
+    }
+}

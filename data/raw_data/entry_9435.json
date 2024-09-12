@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amy Cooper",
+        "age": 79,
+        "gender": "female",
+        "address": "Unit 9061 Box 9418, DPO AP 94719",
+        "phone": "+1-897-987-3491x7597",
+        "email": "rfields@example.org",
+        "account": {
+            "account_number": "fa127f5e-b1ce-4247-9f19-52d6ba28bf94",
+            "balance": -30260.31,
+            "transactions": [
+                {
+                    "date": "2023-01-22",
+                    "description": "Withdrawal",
+                    "amount": -1499.44,
+                    "transaction_id": 83845631
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Withdrawal",
+                    "amount": -4348.94,
+                    "transaction_id": 114800104
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Deposit",
+                    "amount": 4625.79,
+                    "transaction_id": 80942345
+                },
+                {
+                    "date": "2023-10-12",
+                    "description": "Withdrawal",
+                    "amount": 3889.63,
+                    "transaction_id": 118056027
+                }
+            ]
+        }
+    }
+}

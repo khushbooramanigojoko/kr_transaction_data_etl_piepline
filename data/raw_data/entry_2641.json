@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "David Hernandez",
+        "age": 69,
+        "gender": "female",
+        "address": "42894 Lindsey Highway Apt. 249, New Megan, KY 47911",
+        "phone": "354.539.7141x571",
+        "email": "susanacevedo@example.com",
+        "account": {
+            "account_number": "18e073dc-fecf-4711-8291-9fdf6ea0799b",
+            "balance": 13125.36,
+            "transactions": [
+                {
+                    "date": "2022-11-27",
+                    "description": "Deposit",
+                    "amount": 49903.04,
+                    "transaction_id": 56312970
+                },
+                {
+                    "date": "2023-04-25",
+                    "description": "Withdrawal",
+                    "amount": 14069.78,
+                    "transaction_id": 110756129
+                },
+                {
+                    "date": "2022-09-25",
+                    "description": "Withdrawal",
+                    "amount": 27917.86,
+                    "transaction_id": 81063028
+                }
+            ]
+        }
+    }
+}

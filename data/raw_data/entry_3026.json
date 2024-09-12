@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Travis Conway",
+        "age": 35,
+        "gender": "female",
+        "address": "196 Ortega Fork, North Jillburgh, DC 86701",
+        "phone": "493-809-5268",
+        "email": "alexander92@example.org",
+        "account": {
+            "account_number": "6bc2df7e-fdb1-496a-86ab-6b408e853bf8",
+            "balance": 49944.0,
+            "transactions": [
+                {
+                    "date": "2023-10-21",
+                    "description": "Interest",
+                    "amount": 6059.32,
+                    "transaction_id": 31651808
+                }
+            ]
+        }
+    }
+}

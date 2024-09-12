@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Kristin Harris",
+        "age": 37,
+        "gender": "female",
+        "address": "450 Pope Circle, Lancefort, CO 42600",
+        "phone": "(825)875-2178x843",
+        "email": "matthew59@example.net",
+        "account": {
+            "account_number": "e952f638-8411-4179-ad03-30c7e0a2fc40",
+            "balance": 16299.17,
+            "transactions": [
+                {
+                    "date": "2023-05-04",
+                    "description": "Deposit",
+                    "amount": 39973.39,
+                    "transaction_id": 71942470
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Withdrawal",
+                    "amount": 43962.42,
+                    "transaction_id": 33387741
+                },
+                {
+                    "date": "2024-05-27",
+                    "description": "Deposit",
+                    "amount": 35954.74,
+                    "transaction_id": 56180213
+                },
+                {
+                    "date": "2023-11-05",
+                    "description": "Deposit",
+                    "amount": 42540.99,
+                    "transaction_id": 86136826
+                }
+            ]
+        }
+    }
+}

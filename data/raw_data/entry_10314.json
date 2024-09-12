@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Miss Rachel Smith MD",
+        "age": 99,
+        "gender": "female",
+        "address": "Unit 7066 Box 3979, DPO AE 13357",
+        "phone": "+1-631-280-5283",
+        "email": "oscar74@example.com",
+        "account": {
+            "account_number": "7760ac64-c2dc-4041-9b8f-8e6864dc61bc",
+            "balance": -6534.68,
+            "transactions": [
+                {
+                    "date": "2024-02-13",
+                    "description": "Deposit",
+                    "amount": -2173.79,
+                    "transaction_id": 15071919
+                }
+            ]
+        }
+    }
+}

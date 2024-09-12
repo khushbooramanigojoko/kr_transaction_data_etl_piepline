@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "male",
+        "address": "23914 Hicks Road Suite 135, Lake Brian, SC 79211",
+        "phone": "(825)549-8215",
+        "email": "sanfordcatherine@example.com",
+        "account": {
+            "account_number": "a74fd76d-6c01-48de-8365-a3aad57a99f4",
+            "balance": 16676.67,
+            "transactions": [
+                {
+                    "date": "2024-02-24",
+                    "description": "Deposit",
+                    "amount": -707.64,
+                    "transaction_id": 64563094
+                },
+                {
+                    "date": "2023-09-06",
+                    "description": "Deposit",
+                    "amount": -2056.21,
+                    "transaction_id": 51404898
+                },
+                {
+                    "date": "2023-08-16",
+                    "description": "Deposit",
+                    "amount": 1590.82,
+                    "transaction_id": 16180612
+                }
+            ]
+        }
+    }
+}

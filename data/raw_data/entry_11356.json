@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Valerie Reynolds",
+        "age": 52,
+        "gender": "male",
+        "address": "1706 Casey Wells Apt. 990, Mckinneyburgh, CT 23415",
+        "phone": "276.295.3566",
+        "email": "marshjames@example.com",
+        "account": {
+            "account_number": "cc4e2e8e-a0f7-4284-9f64-e5befa8cb0bb",
+            "balance": -10423.91,
+            "transactions": [
+                {
+                    "date": "2023-08-21",
+                    "description": "Interest",
+                    "amount": -3812.53,
+                    "transaction_id": 101524845
+                },
+                {
+                    "date": "2022-10-17",
+                    "description": "Deposit",
+                    "amount": 548.0,
+                    "transaction_id": 54228924
+                },
+                {
+                    "date": "2023-02-12",
+                    "description": "Withdrawal",
+                    "amount": -1844.09,
+                    "transaction_id": 48410185
+                },
+                {
+                    "date": "2022-12-25",
+                    "description": "Withdrawal",
+                    "amount": 1252.31,
+                    "transaction_id": 80474771
+                },
+                {
+                    "date": "2024-03-30",
+                    "description": "Deposit",
+                    "amount": -2602.67,
+                    "transaction_id": 117553613
+                }
+            ]
+        }
+    }
+}

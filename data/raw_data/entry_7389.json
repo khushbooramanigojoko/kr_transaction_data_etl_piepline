@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Laura Rios",
+        "age": 21,
+        "gender": "female",
+        "address": "73721 Melissa Corners Suite 518, Johnsonshire, PA 10742",
+        "phone": "+1-297-267-6331x157",
+        "email": "courtney47@example.net",
+        "account": {
+            "account_number": "57bcc28f-f769-46b8-afb9-9685db4cc137",
+            "balance": 37174.85,
+            "transactions": [
+                {
+                    "date": "2023-10-12",
+                    "description": "Interest",
+                    "amount": 20584.64,
+                    "transaction_id": 55522267
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Withdrawal",
+                    "amount": 8885.21,
+                    "transaction_id": 82614334
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Deposit",
+                    "amount": 14540.83,
+                    "transaction_id": 47902742
+                },
+                {
+                    "date": "2024-03-14",
+                    "description": "Interest",
+                    "amount": 5813.98,
+                    "transaction_id": 63282682
+                }
+            ]
+        }
+    }
+}

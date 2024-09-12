@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sue Meyer",
+        "age": 74,
+        "gender": "female",
+        "address": "1500 Moore Brook, Amandabury, MT 63088",
+        "phone": "001-608-671-0550",
+        "email": "kcampbell@example.net",
+        "account": {
+            "account_number": "4fa8ce70-e4e0-4b10-8462-1d747aa30504",
+            "balance": -7723.53,
+            "transactions": [
+                {
+                    "date": "2022-09-29",
+                    "description": "Withdrawal",
+                    "amount": -3530.71,
+                    "transaction_id": 62002991
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Withdrawal",
+                    "amount": 1284.06,
+                    "transaction_id": 42326402
+                }
+            ]
+        }
+    }
+}

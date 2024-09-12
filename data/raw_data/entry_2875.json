@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Leslie Lewis",
+        "age": 68,
+        "gender": "female",
+        "address": "55784 Dennis Knolls, Tapiatown, GU 27596",
+        "phone": "+1-366-285-3125x7057",
+        "email": "prichardson@example.com",
+        "account": {
+            "account_number": "18537c30-6aa6-4f43-b297-1b4c666356b5",
+            "balance": 39029.13,
+            "transactions": [
+                {
+                    "date": "2023-09-21",
+                    "description": "Withdrawal",
+                    "amount": 33250.63,
+                    "transaction_id": 32152351
+                },
+                {
+                    "date": "2023-02-10",
+                    "description": "Deposit",
+                    "amount": 21404.2,
+                    "transaction_id": 58549996
+                }
+            ]
+        }
+    }
+}

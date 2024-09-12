@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alexander Fritz",
+        "age": 49,
+        "gender": "male",
+        "address": "7669 Roy Passage, North Williamshire, AS 72899",
+        "phone": "(526)559-5985x29606",
+        "email": "rdickson@example.com",
+        "account": {
+            "account_number": "36da0ad5-5ca5-4091-92bd-724c8a304630",
+            "balance": 3089.92,
+            "transactions": [
+                {
+                    "date": "2023-09-11",
+                    "description": "Withdrawal",
+                    "amount": 22343.55,
+                    "transaction_id": 7464827
+                },
+                {
+                    "date": "2024-07-03",
+                    "description": "Deposit",
+                    "amount": 12497.79,
+                    "transaction_id": 20053367
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Deposit",
+                    "amount": 6189.05,
+                    "transaction_id": 57212818
+                },
+                {
+                    "date": "2022-09-22",
+                    "description": "Withdrawal",
+                    "amount": 43813.42,
+                    "transaction_id": 80979691
+                }
+            ]
+        }
+    }
+}

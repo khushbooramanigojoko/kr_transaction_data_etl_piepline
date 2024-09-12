@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Karina Stewart",
+        "age": 90,
+        "gender": "female",
+        "address": "15105 Hill Divide Apt. 430, Raymondport, HI 74422",
+        "phone": "001-758-216-6419x13336",
+        "email": "spencerdavid@example.com",
+        "account": {
+            "account_number": "501ee2b2-c3dd-47ee-af28-57f59b51fadf",
+            "balance": -31005.16,
+            "transactions": [
+                {
+                    "date": "2022-11-05",
+                    "description": "Withdrawal",
+                    "amount": -362.94,
+                    "transaction_id": 117932186
+                },
+                {
+                    "date": "2023-02-14",
+                    "description": "Interest",
+                    "amount": 2400.59,
+                    "transaction_id": 116706169
+                }
+            ]
+        }
+    }
+}

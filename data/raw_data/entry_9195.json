@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 71,
+        "gender": "female",
+        "address": "7662 Dennis Prairie Suite 033, Brownbury, SC 61547",
+        "phone": "771.358.0829",
+        "email": "jacoblarson@example.org",
+        "account": {
+            "account_number": "776d9017-dde4-4b80-ad9e-992a7561c286",
+            "balance": 26463.32,
+            "transactions": [
+                {
+                    "date": "2023-10-22",
+                    "description": "Deposit",
+                    "amount": 275.02,
+                    "transaction_id": 65772498
+                }
+            ]
+        }
+    }
+}

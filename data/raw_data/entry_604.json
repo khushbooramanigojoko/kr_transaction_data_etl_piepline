@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mercedes Gregory",
+        "age": 36,
+        "gender": "female",
+        "address": "PSC 3279, Box 9215, APO AA 44015",
+        "phone": "246.642.1384x232",
+        "email": "erichuff@example.org",
+        "account": {
+            "account_number": "f1479d75-c3e1-4056-8aff-10dbe91852e4",
+            "balance": 5425.11,
+            "transactions": [
+                {
+                    "date": "2024-01-25",
+                    "description": "Deposit",
+                    "amount": 30069.95,
+                    "transaction_id": 76443216
+                }
+            ]
+        }
+    }
+}

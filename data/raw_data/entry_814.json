@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ms. Katherine Garcia",
+        "age": 33,
+        "gender": "male",
+        "address": "51518 Daniel Turnpike Suite 914, Port Kimberlychester, IL 33988",
+        "phone": "001-915-516-0659x1616",
+        "email": "joseph61@example.org",
+        "account": {
+            "account_number": "ccc5d980-deb6-4218-a5c1-12bac8ea80ae",
+            "balance": 9593.93,
+            "transactions": [
+                {
+                    "date": "2024-03-03",
+                    "description": "Deposit",
+                    "amount": 22185.9,
+                    "transaction_id": 96571195
+                }
+            ]
+        }
+    }
+}

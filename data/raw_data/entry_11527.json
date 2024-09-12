@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Laura Flowers",
+        "age": 38,
+        "gender": "female",
+        "address": "54994 Day Path Suite 690, Peterside, IN 07201",
+        "phone": "001-367-275-0910",
+        "email": "petercombs@example.net",
+        "account": {
+            "account_number": "4ab82a85-5b2e-47bb-87fb-090f86c389c4",
+            "balance": -17294.43,
+            "transactions": [
+                {
+                    "date": "2023-03-12",
+                    "description": "Withdrawal",
+                    "amount": 859.81,
+                    "transaction_id": 108121163
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Interest",
+                    "amount": -3534.47,
+                    "transaction_id": 70799642
+                }
+            ]
+        }
+    }
+}

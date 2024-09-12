@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christina Griffin",
+        "age": 20,
+        "gender": "male",
+        "address": "Unit 5278 Box 6061, DPO AE 02132",
+        "phone": "(542)936-6341x96773",
+        "email": "ctucker@example.net",
+        "account": {
+            "account_number": "592daf59-5e88-4344-8a2f-5bebceaf250b",
+            "balance": 44491.07,
+            "transactions": [
+                {
+                    "date": "2023-01-16",
+                    "description": "Deposit",
+                    "amount": 34583.48,
+                    "transaction_id": 30858466
+                },
+                {
+                    "date": "2023-06-12",
+                    "description": "Deposit",
+                    "amount": 8833.73,
+                    "transaction_id": 112918861
+                }
+            ]
+        }
+    }
+}

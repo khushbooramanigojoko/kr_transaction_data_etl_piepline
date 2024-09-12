@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Thomas Liu",
+        "age": 35,
+        "gender": "male",
+        "address": "223 Wilson Square Apt. 098, Wilkersonshire, TX 52441",
+        "phone": "+1-815-760-1226x462",
+        "email": "ywright@example.com",
+        "account": {
+            "account_number": "f003303b-e229-41ce-86c6-c4ebcc762046",
+            "balance": 23845.27,
+            "transactions": [
+                {
+                    "date": "2023-09-13",
+                    "description": "Deposit",
+                    "amount": 6719.58,
+                    "transaction_id": 113377828
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Deposit",
+                    "amount": 42190.53,
+                    "transaction_id": 33090830
+                }
+            ]
+        }
+    }
+}

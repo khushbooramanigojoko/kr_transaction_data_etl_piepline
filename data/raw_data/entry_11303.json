@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Phillip Chavez",
+        "age": 33,
+        "gender": "female",
+        "address": "0936 Thomas Manor Suite 303, Bishopbury, WI 68851",
+        "phone": "(261)582-9472x413",
+        "email": "lisadominguez@example.net",
+        "account": {
+            "account_number": "f3874f91-eb42-4d55-904e-e4bc41164a6c",
+            "balance": -28776.37,
+            "transactions": [
+                {
+                    "date": "2023-08-30",
+                    "description": "Interest",
+                    "amount": 934.67,
+                    "transaction_id": 72139509
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Interest",
+                    "amount": -4065.2,
+                    "transaction_id": 19752705
+                },
+                {
+                    "date": "2024-05-25",
+                    "description": "Withdrawal",
+                    "amount": 4964.58,
+                    "transaction_id": 81177278
+                },
+                {
+                    "date": "2023-10-24",
+                    "description": "Deposit",
+                    "amount": -2737.59,
+                    "transaction_id": 50733394
+                }
+            ]
+        }
+    }
+}

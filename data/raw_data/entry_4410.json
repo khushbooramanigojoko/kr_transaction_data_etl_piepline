@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kristina Ross",
+        "age": 30,
+        "gender": "male",
+        "address": "486 Timothy Glens, Lauraburgh, FL 43975",
+        "phone": "001-485-626-7688x2430",
+        "email": "martinrobert@example.com",
+        "account": {
+            "account_number": "178d0dd7-9e01-48b7-b0aa-8ea906f7c055",
+            "balance": 37832.3,
+            "transactions": [
+                {
+                    "date": "2023-10-14",
+                    "description": "Withdrawal",
+                    "amount": 12969.77,
+                    "transaction_id": 81481845
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Interest",
+                    "amount": 49001.63,
+                    "transaction_id": 80827116
+                },
+                {
+                    "date": "2023-05-22",
+                    "description": "Withdrawal",
+                    "amount": 45410.93,
+                    "transaction_id": 62632205
+                }
+            ]
+        }
+    }
+}

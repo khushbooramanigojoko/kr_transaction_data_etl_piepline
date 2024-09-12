@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Shawn Rice",
+        "age": 89,
+        "gender": "male",
+        "address": "565 Greene Harbors, South Joseborough, HI 48126",
+        "phone": "+1-408-361-6908",
+        "email": "newmanmichael@example.org",
+        "account": {
+            "account_number": "3637ad86-44d9-4b08-a49b-0b766836db6d",
+            "balance": 48174.42,
+            "transactions": [
+                {
+                    "date": "2023-07-25",
+                    "description": "Withdrawal",
+                    "amount": 10289.65,
+                    "transaction_id": 117734225
+                },
+                {
+                    "date": "2024-01-02",
+                    "description": "Withdrawal",
+                    "amount": 45586.17,
+                    "transaction_id": 24037615
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Interest",
+                    "amount": 23953.8,
+                    "transaction_id": 113141266
+                },
+                {
+                    "date": "2023-11-12",
+                    "description": "Interest",
+                    "amount": 20638.92,
+                    "transaction_id": 56905088
+                }
+            ]
+        }
+    }
+}

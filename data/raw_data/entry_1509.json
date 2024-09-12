@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Gerald Martinez",
+        "age": 50,
+        "gender": "female",
+        "address": "549 Brian Ridges Suite 737, East James, TN 89517",
+        "phone": "001-691-267-5225x84389",
+        "email": "melissajohnson@example.net",
+        "account": {
+            "account_number": "bbb0945e-d4ed-4c05-8c8e-eeaf3153c0c4",
+            "balance": 8601.83,
+            "transactions": [
+                {
+                    "date": "2022-09-16",
+                    "description": "Withdrawal",
+                    "amount": 5162.93,
+                    "transaction_id": 15269475
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Interest",
+                    "amount": 12766.76,
+                    "transaction_id": 104350707
+                },
+                {
+                    "date": "2023-06-21",
+                    "description": "Interest",
+                    "amount": 36870.33,
+                    "transaction_id": 107195515
+                }
+            ]
+        }
+    }
+}

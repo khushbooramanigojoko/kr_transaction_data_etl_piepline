@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Richard Duncan",
+        "age": 62,
+        "gender": "female",
+        "address": "18417 Church Stream, Port Taratown, NM 05242",
+        "phone": "9086505230",
+        "email": "gonzalezlori@example.org",
+        "account": {
+            "account_number": "3a521e3e-339e-4c9f-a414-056ad9a697e6",
+            "balance": -45307.83,
+            "transactions": [
+                {
+                    "date": "2024-03-28",
+                    "description": "Withdrawal",
+                    "amount": -4092.39,
+                    "transaction_id": 76661592
+                },
+                {
+                    "date": "2024-08-25",
+                    "description": "Deposit",
+                    "amount": -105.12,
+                    "transaction_id": 9818665
+                },
+                {
+                    "date": "2024-04-25",
+                    "description": "Interest",
+                    "amount": 1406.64,
+                    "transaction_id": 73151598
+                },
+                {
+                    "date": "2023-03-08",
+                    "description": "Interest",
+                    "amount": -3428.1,
+                    "transaction_id": 49136606
+                }
+            ]
+        }
+    }
+}

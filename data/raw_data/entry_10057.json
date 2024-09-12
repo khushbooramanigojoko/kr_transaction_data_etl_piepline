@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph Rowland",
+        "age": 86,
+        "gender": "female",
+        "address": "1190 Margaret Common, Port Pamelamouth, AK 83939",
+        "phone": "872.883.2696x33227",
+        "email": "josephdavis@example.net",
+        "account": {
+            "account_number": "ad1bf025-661d-4851-934f-4d86888a7112",
+            "balance": -42928.15,
+            "transactions": [
+                {
+                    "date": "2023-03-25",
+                    "description": "Interest",
+                    "amount": -3641.12,
+                    "transaction_id": 16775582
+                },
+                {
+                    "date": "2023-04-27",
+                    "description": "Deposit",
+                    "amount": 3190.55,
+                    "transaction_id": 63640763
+                },
+                {
+                    "date": "2024-01-04",
+                    "description": "Withdrawal",
+                    "amount": 1502.33,
+                    "transaction_id": 117297193
+                },
+                {
+                    "date": "2024-03-10",
+                    "description": "Deposit",
+                    "amount": 3711.54,
+                    "transaction_id": 58039415
+                }
+            ]
+        }
+    }
+}

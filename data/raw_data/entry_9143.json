@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 42,
+        "gender": "female",
+        "address": "Unit 9049 Box 7934, DPO AA 18732",
+        "phone": "(524)430-0985",
+        "email": "julie06@example.net",
+        "account": {
+            "account_number": "ffb0df4a-0847-417c-a4c4-c5d0814dd09f",
+            "balance": 4972.85,
+            "transactions": [
+                {
+                    "date": "2024-05-28",
+                    "description": "Withdrawal",
+                    "amount": -1560.7,
+                    "transaction_id": 70242345
+                },
+                {
+                    "date": "2024-06-11",
+                    "description": "Withdrawal",
+                    "amount": 2072.14,
+                    "transaction_id": 67464058
+                }
+            ]
+        }
+    }
+}

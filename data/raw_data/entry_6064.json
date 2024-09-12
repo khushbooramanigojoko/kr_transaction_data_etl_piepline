@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Evan Bell",
+        "age": 21,
+        "gender": "male",
+        "address": "3156 Megan Crescent, Williamsport, MA 86173",
+        "phone": "001-907-539-4788x1462",
+        "email": "brownjared@example.net",
+        "account": {
+            "account_number": "d2490795-6fe0-4b2c-96b3-a8d34620f093",
+            "balance": 21336.4,
+            "transactions": [
+                {
+                    "date": "2023-11-28",
+                    "description": "Interest",
+                    "amount": 25906.09,
+                    "transaction_id": 62293898
+                },
+                {
+                    "date": "2023-01-24",
+                    "description": "Deposit",
+                    "amount": 8442.4,
+                    "transaction_id": 64342575
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Withdrawal",
+                    "amount": 34871.39,
+                    "transaction_id": 38707603
+                },
+                {
+                    "date": "2024-02-19",
+                    "description": "Withdrawal",
+                    "amount": 11601.2,
+                    "transaction_id": 115981847
+                }
+            ]
+        }
+    }
+}

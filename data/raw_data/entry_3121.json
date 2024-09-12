@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kevin Rocha",
+        "age": 64,
+        "gender": "male",
+        "address": "3192 Griffin Heights Apt. 312, North Laurie, RI 77725",
+        "phone": "001-544-537-9848x18574",
+        "email": "smithmark@example.net",
+        "account": {
+            "account_number": "e73f0345-c8c0-4c7f-90ca-ab4ad39e4bd6",
+            "balance": 33268.04,
+            "transactions": [
+                {
+                    "date": "2022-10-24",
+                    "description": "Withdrawal",
+                    "amount": 36986.63,
+                    "transaction_id": 43172362
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Deposit",
+                    "amount": 29753.44,
+                    "transaction_id": 61221634
+                }
+            ]
+        }
+    }
+}

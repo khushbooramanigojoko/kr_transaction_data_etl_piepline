@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kayla West",
+        "age": 27,
+        "gender": "male",
+        "address": "3207 Barrett Terrace, South Bryanberg, VT 77433",
+        "phone": "238.575.6002",
+        "email": "lydiajohnson@example.net",
+        "account": {
+            "account_number": "11d57364-3919-433e-ba0f-a22af065004a",
+            "balance": 32428.89,
+            "transactions": [
+                {
+                    "date": "2024-04-29",
+                    "description": "Deposit",
+                    "amount": 1663.66,
+                    "transaction_id": 55593637
+                }
+            ]
+        }
+    }
+}

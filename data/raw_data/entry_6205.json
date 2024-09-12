@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Melissa Chen",
+        "age": 93,
+        "gender": "male",
+        "address": "20625 Jennifer Radial, East Ethanport, NJ 03078",
+        "phone": "(333)919-7543",
+        "email": "idelgado@example.org",
+        "account": {
+            "account_number": "f9c3401b-7a0e-4fe3-92d5-61e35301281d",
+            "balance": 11676.36,
+            "transactions": [
+                {
+                    "date": "2024-05-10",
+                    "description": "Interest",
+                    "amount": 13106.07,
+                    "transaction_id": 96103216
+                },
+                {
+                    "date": "2024-01-11",
+                    "description": "Withdrawal",
+                    "amount": 1703.72,
+                    "transaction_id": 39178515
+                },
+                {
+                    "date": "2024-04-04",
+                    "description": "Deposit",
+                    "amount": 2930.67,
+                    "transaction_id": 30509079
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Withdrawal",
+                    "amount": 38779.73,
+                    "transaction_id": 91956191
+                },
+                {
+                    "date": "2022-11-26",
+                    "description": "Withdrawal",
+                    "amount": 32033.54,
+                    "transaction_id": 58438677
+                }
+            ]
+        }
+    }
+}

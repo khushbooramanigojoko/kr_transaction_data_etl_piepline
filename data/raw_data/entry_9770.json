@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mr. Shawn Aguirre",
+        "age": 63,
+        "gender": "male",
+        "address": "886 Ramsey Coves Apt. 849, Whiteshire, TX 77089",
+        "phone": "(411)717-5487",
+        "email": "alexander29@example.com",
+        "account": {
+            "account_number": "490e388c-7898-4afc-a6ea-06562be45219",
+            "balance": -16038.11,
+            "transactions": [
+                {
+                    "date": "2024-08-26",
+                    "description": "Withdrawal",
+                    "amount": -4906.45,
+                    "transaction_id": 97445857
+                },
+                {
+                    "date": "2024-08-22",
+                    "description": "Withdrawal",
+                    "amount": -925.51,
+                    "transaction_id": 38706745
+                }
+            ]
+        }
+    }
+}

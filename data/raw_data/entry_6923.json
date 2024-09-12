@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Heather Rodriguez",
+        "age": 39,
+        "gender": "male",
+        "address": "99553 William Freeway Apt. 178, Sarahfurt, FM 15546",
+        "phone": "(881)469-4306x904",
+        "email": "greennicole@example.org",
+        "account": {
+            "account_number": "9b02195b-b086-419a-a9f7-cc6ef5a9d2b6",
+            "balance": 11817.14,
+            "transactions": [
+                {
+                    "date": "2024-04-15",
+                    "description": "Withdrawal",
+                    "amount": 45538.9,
+                    "transaction_id": 68705371
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 31,
+        "gender": "female",
+        "address": "720 Graham Mountains, Port John, WV 53301",
+        "phone": "2283857665",
+        "email": "brady13@example.org",
+        "account": {
+            "account_number": "16752ebc-fa51-49b7-8fe6-e6ad962cdd06",
+            "balance": 34347.25,
+            "transactions": [
+                {
+                    "date": "2022-09-05",
+                    "description": "Withdrawal",
+                    "amount": -1497.58,
+                    "transaction_id": 1775406
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Deposit",
+                    "amount": -4655.29,
+                    "transaction_id": 83140990
+                },
+                {
+                    "date": "2023-10-09",
+                    "description": "Interest",
+                    "amount": 1635.07,
+                    "transaction_id": 99070274
+                },
+                {
+                    "date": "2024-06-28",
+                    "description": "Deposit",
+                    "amount": 3915.81,
+                    "transaction_id": 82976099
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Withdrawal",
+                    "amount": 1683.11,
+                    "transaction_id": 15201699
+                }
+            ]
+        }
+    }
+}

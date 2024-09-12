@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Austin Case",
+        "age": 23,
+        "gender": "female",
+        "address": "52898 Jones Points Apt. 409, Shannonton, NJ 63667",
+        "phone": "931.207.4205x253",
+        "email": "vanessa69@example.org",
+        "account": {
+            "account_number": "383fb0bd-b5a5-4672-abfc-a9efb4f11747",
+            "balance": 12795.72,
+            "transactions": [
+                {
+                    "date": "2023-03-02",
+                    "description": "Interest",
+                    "amount": 45845.71,
+                    "transaction_id": 24221958
+                },
+                {
+                    "date": "2023-06-07",
+                    "description": "Interest",
+                    "amount": 41245.31,
+                    "transaction_id": 80745973
+                }
+            ]
+        }
+    }
+}

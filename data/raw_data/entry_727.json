@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Vanessa Harris",
+        "age": 38,
+        "gender": "female",
+        "address": "6127 Reed Coves Suite 412, Miguelside, NM 61108",
+        "phone": "+1-242-545-8742x18399",
+        "email": "jennifer19@example.org",
+        "account": {
+            "account_number": "4f857a9d-9f47-44f2-8184-b39d21f52ea7",
+            "balance": 12408.33,
+            "transactions": [
+                {
+                    "date": "2023-10-11",
+                    "description": "Deposit",
+                    "amount": 45451.31,
+                    "transaction_id": 111985678
+                }
+            ]
+        }
+    }
+}

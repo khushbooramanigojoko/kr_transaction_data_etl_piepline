@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Patrick Holmes",
+        "age": 27,
+        "gender": "male",
+        "address": "63211 Vanessa Drive, Port Amyshire, TN 48632",
+        "phone": "966.960.8325x134",
+        "email": "jasontran@example.org",
+        "account": {
+            "account_number": "d0117b74-cb96-4204-af58-4cf0e26be382",
+            "balance": -48392.99,
+            "transactions": [
+                {
+                    "date": "2024-01-30",
+                    "description": "Interest",
+                    "amount": 617.73,
+                    "transaction_id": 100381222
+                },
+                {
+                    "date": "2023-10-03",
+                    "description": "Withdrawal",
+                    "amount": -4866.66,
+                    "transaction_id": 106470757
+                }
+            ]
+        }
+    }
+}

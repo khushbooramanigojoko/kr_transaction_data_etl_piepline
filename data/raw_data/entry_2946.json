@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Monica Bryant",
+        "age": 74,
+        "gender": "female",
+        "address": "08279 Riddle Road, New Anthony, UT 78050",
+        "phone": "832.677.9924",
+        "email": "richard77@example.com",
+        "account": {
+            "account_number": "1eecb802-b798-4fff-bf6c-d6f971473ba8",
+            "balance": 24388.94,
+            "transactions": [
+                {
+                    "date": "2023-01-20",
+                    "description": "Deposit",
+                    "amount": 15671.25,
+                    "transaction_id": 96905198
+                },
+                {
+                    "date": "2023-03-02",
+                    "description": "Deposit",
+                    "amount": 14853.83,
+                    "transaction_id": 14630935
+                },
+                {
+                    "date": "2024-01-11",
+                    "description": "Deposit",
+                    "amount": 41278.6,
+                    "transaction_id": 26208375
+                },
+                {
+                    "date": "2023-05-05",
+                    "description": "Deposit",
+                    "amount": 5793.52,
+                    "transaction_id": 37395919
+                }
+            ]
+        }
+    }
+}

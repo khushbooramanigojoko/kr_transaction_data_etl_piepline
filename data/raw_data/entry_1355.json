@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Shannon Thompson",
+        "age": 64,
+        "gender": "female",
+        "address": "429 Cruz Highway, North Jackie, NM 68811",
+        "phone": "293.805.1932x851",
+        "email": "richardmyers@example.com",
+        "account": {
+            "account_number": "0c600e2c-295c-40c9-bb9a-523759967fe3",
+            "balance": 16009.68,
+            "transactions": [
+                {
+                    "date": "2023-09-29",
+                    "description": "Interest",
+                    "amount": 38761.38,
+                    "transaction_id": 89771026
+                },
+                {
+                    "date": "2024-06-10",
+                    "description": "Withdrawal",
+                    "amount": 40602.63,
+                    "transaction_id": 76252363
+                },
+                {
+                    "date": "2023-08-21",
+                    "description": "Withdrawal",
+                    "amount": 45051.03,
+                    "transaction_id": 10536035
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Deposit",
+                    "amount": 44016.4,
+                    "transaction_id": 91201286
+                }
+            ]
+        }
+    }
+}

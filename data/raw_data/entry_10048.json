@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 85,
+        "gender": "female",
+        "address": "9012 Saunders Lights, Charlesfurt, OR 62508",
+        "phone": "+1-780-416-8040x62240",
+        "email": "maldonadohenry@example.net",
+        "account": {
+            "account_number": "a3114f75-b8f4-4be7-91e6-a7f41da76eb5",
+            "balance": 37132.06,
+            "transactions": [
+                {
+                    "date": "2024-08-05",
+                    "description": "Withdrawal",
+                    "amount": -3513.39,
+                    "transaction_id": 94059551
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Deposit",
+                    "amount": 2626.49,
+                    "transaction_id": 92076638
+                },
+                {
+                    "date": "2024-07-03",
+                    "description": "Withdrawal",
+                    "amount": 2116.77,
+                    "transaction_id": 23010781
+                },
+                {
+                    "date": "2023-07-26",
+                    "description": "Withdrawal",
+                    "amount": 4690.11,
+                    "transaction_id": 76602688
+                }
+            ]
+        }
+    }
+}

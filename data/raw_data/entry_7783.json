@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Shawn Baker",
+        "age": 30,
+        "gender": "female",
+        "address": "569 Nicole Common Suite 873, Port Yolandaville, MN 14308",
+        "phone": "(209)759-3740x4949",
+        "email": "joshuaallen@example.com",
+        "account": {
+            "account_number": "0a608ac7-599a-4722-9820-654a6fc5ac64",
+            "balance": 30119.36,
+            "transactions": [
+                {
+                    "date": "2023-01-19",
+                    "description": "Interest",
+                    "amount": 49289.79,
+                    "transaction_id": 54354745
+                },
+                {
+                    "date": "2023-03-25",
+                    "description": "Withdrawal",
+                    "amount": 44074.21,
+                    "transaction_id": 22265584
+                }
+            ]
+        }
+    }
+}

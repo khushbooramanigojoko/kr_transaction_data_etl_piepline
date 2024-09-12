@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "James Reed",
+        "age": 21,
+        "gender": "male",
+        "address": "79139 Coleman Glen, Clarkebury, NV 67875",
+        "phone": "(969)835-8257x8075",
+        "email": "hendersonjonathan@example.org",
+        "account": {
+            "account_number": "98f0dd15-5aaf-4176-871b-83127b1b0cc7",
+            "balance": 20386.44,
+            "transactions": [
+                {
+                    "date": "2024-08-03",
+                    "description": "Deposit",
+                    "amount": 12647.38,
+                    "transaction_id": 63306892
+                }
+            ]
+        }
+    }
+}

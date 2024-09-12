@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Eric Bryant",
+        "age": 77,
+        "gender": "female",
+        "address": "0093 Stephanie Track Apt. 150, Lake Catherineberg, VT 95249",
+        "phone": "885-943-8570x216",
+        "email": "jonesbrenda@example.org",
+        "account": {
+            "account_number": "86087ecf-6343-4110-9845-e92143d4619a",
+            "balance": -47137.26,
+            "transactions": [
+                {
+                    "date": "2022-12-31",
+                    "description": "Withdrawal",
+                    "amount": -3049.2,
+                    "transaction_id": 29768164
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Interest",
+                    "amount": -1685.7,
+                    "transaction_id": 18566465
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Deposit",
+                    "amount": -4697.3,
+                    "transaction_id": 23379906
+                }
+            ]
+        }
+    }
+}

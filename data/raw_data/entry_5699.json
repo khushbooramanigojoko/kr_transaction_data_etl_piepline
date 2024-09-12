@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jennifer Romero",
+        "age": 64,
+        "gender": "female",
+        "address": "926 Miller Corner Apt. 532, West Jacob, PW 51635",
+        "phone": "747-736-2809x196",
+        "email": "gracelarson@example.com",
+        "account": {
+            "account_number": "d0b089b4-fb96-40c9-a342-ecbac09b36a5",
+            "balance": 26394.47,
+            "transactions": [
+                {
+                    "date": "2022-10-21",
+                    "description": "Interest",
+                    "amount": 6529.92,
+                    "transaction_id": 33494528
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Deposit",
+                    "amount": 25277.25,
+                    "transaction_id": 71333665
+                }
+            ]
+        }
+    }
+}

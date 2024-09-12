@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stacey Smith",
+        "age": 81,
+        "gender": "male",
+        "address": "54514 Jose Prairie, Mcdanielport, CO 88885",
+        "phone": "+1-605-465-6387",
+        "email": "charlesrichardson@example.org",
+        "account": {
+            "account_number": "b8c49507-aae8-483a-a145-247ac62ea354",
+            "balance": -32771.1,
+            "transactions": [
+                {
+                    "date": "2024-05-01",
+                    "description": "Interest",
+                    "amount": 2662.66,
+                    "transaction_id": 119262951
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Withdrawal",
+                    "amount": 1055.75,
+                    "transaction_id": 80807325
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Deposit",
+                    "amount": -1277.8,
+                    "transaction_id": 9839033
+                },
+                {
+                    "date": "2022-12-25",
+                    "description": "Deposit",
+                    "amount": 392.44,
+                    "transaction_id": 14466073
+                }
+            ]
+        }
+    }
+}

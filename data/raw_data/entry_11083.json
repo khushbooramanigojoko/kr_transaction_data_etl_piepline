@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brett White",
+        "age": 28,
+        "gender": "male",
+        "address": "235 Mary Keys Apt. 984, East Emily, WI 71459",
+        "phone": "503-690-3109x0021",
+        "email": "jrivera@example.org",
+        "account": {
+            "account_number": "3a26bec4-06d9-4ef6-a2cd-a433a985a2b6",
+            "balance": -1862.87,
+            "transactions": [
+                {
+                    "date": "2023-05-02",
+                    "description": "Interest",
+                    "amount": 2818.84,
+                    "transaction_id": 107657957
+                }
+            ]
+        }
+    }
+}

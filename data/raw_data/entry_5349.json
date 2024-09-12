@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "John Thomas",
+        "age": 87,
+        "gender": "male",
+        "address": "348 Meyer Drives, Hallbury, TN 08455",
+        "phone": "764.807.4285x693",
+        "email": "kenneth47@example.net",
+        "account": {
+            "account_number": "fd4ba1a6-17e6-4a5e-b4c1-210c570baba9",
+            "balance": 42563.79,
+            "transactions": [
+                {
+                    "date": "2024-06-08",
+                    "description": "Withdrawal",
+                    "amount": 33608.09,
+                    "transaction_id": 13702523
+                },
+                {
+                    "date": "2024-02-18",
+                    "description": "Interest",
+                    "amount": 28801.87,
+                    "transaction_id": 63076426
+                },
+                {
+                    "date": "2022-12-02",
+                    "description": "Withdrawal",
+                    "amount": 26641.73,
+                    "transaction_id": 100043043
+                },
+                {
+                    "date": "2022-09-19",
+                    "description": "Deposit",
+                    "amount": 6710.43,
+                    "transaction_id": 35296828
+                },
+                {
+                    "date": "2023-06-14",
+                    "description": "Withdrawal",
+                    "amount": 22363.39,
+                    "transaction_id": 45121516
+                }
+            ]
+        }
+    }
+}

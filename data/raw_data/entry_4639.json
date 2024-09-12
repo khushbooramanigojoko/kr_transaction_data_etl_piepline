@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "David Ball",
+        "age": 77,
+        "gender": "female",
+        "address": "7361 Wilson Springs, South Christopherchester, IA 42902",
+        "phone": "(629)329-1685x61410",
+        "email": "uwallace@example.com",
+        "account": {
+            "account_number": "a99956ad-caf8-4440-bea9-861e81212fff",
+            "balance": 23311.96,
+            "transactions": [
+                {
+                    "date": "2022-10-12",
+                    "description": "Withdrawal",
+                    "amount": 21802.73,
+                    "transaction_id": 40888458
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Withdrawal",
+                    "amount": 14757.31,
+                    "transaction_id": 98699882
+                },
+                {
+                    "date": "2024-05-30",
+                    "description": "Withdrawal",
+                    "amount": 29642.94,
+                    "transaction_id": 29923075
+                },
+                {
+                    "date": "2023-10-09",
+                    "description": "Interest",
+                    "amount": 34037.6,
+                    "transaction_id": 76212204
+                }
+            ]
+        }
+    }
+}

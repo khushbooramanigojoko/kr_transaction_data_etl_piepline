@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Holly Stokes",
+        "age": 49,
+        "gender": "male",
+        "address": "941 Samuel Rue, South Albertbury, PR 21111",
+        "phone": "581.305.0633x7282",
+        "email": "bryanlisa@example.org",
+        "account": {
+            "account_number": "c17adcef-5896-456b-92a8-cbbf42f62a3b",
+            "balance": 22982.92,
+            "transactions": [
+                {
+                    "date": "2023-09-16",
+                    "description": "Withdrawal",
+                    "amount": 46979.13,
+                    "transaction_id": 47159392
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Interest",
+                    "amount": 26833.2,
+                    "transaction_id": 93205537
+                }
+            ]
+        }
+    }
+}

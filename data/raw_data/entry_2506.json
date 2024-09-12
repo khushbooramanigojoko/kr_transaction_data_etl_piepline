@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kevin Miller",
+        "age": 76,
+        "gender": "male",
+        "address": "0822 Jeffrey Turnpike Suite 614, Lake Kristinaville, AS 97090",
+        "phone": "+1-575-440-0400",
+        "email": "mcclaingary@example.com",
+        "account": {
+            "account_number": "cb55ce9e-4670-41c3-b3a9-33e577b65503",
+            "balance": 46109.72,
+            "transactions": [
+                {
+                    "date": "2024-04-13",
+                    "description": "Interest",
+                    "amount": 7620.5,
+                    "transaction_id": 78173981
+                }
+            ]
+        }
+    }
+}

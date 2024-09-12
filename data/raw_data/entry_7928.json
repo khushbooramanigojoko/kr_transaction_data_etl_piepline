@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Nina Townsend",
+        "age": 55,
+        "gender": "female",
+        "address": "123 Montgomery Mountains, North Michelle, AR 99435",
+        "phone": "986-444-0238",
+        "email": "amandasnyder@example.net",
+        "account": {
+            "account_number": "17030c97-8951-4e46-91dc-41b5b39ca115",
+            "balance": 41108.52,
+            "transactions": [
+                {
+                    "date": "2022-10-09",
+                    "description": "Interest",
+                    "amount": 6644.32,
+                    "transaction_id": 24152496
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Interest",
+                    "amount": 24451.15,
+                    "transaction_id": 13504342
+                },
+                {
+                    "date": "2024-05-18",
+                    "description": "Withdrawal",
+                    "amount": 2396.47,
+                    "transaction_id": 92300801
+                },
+                {
+                    "date": "2022-10-25",
+                    "description": "Withdrawal",
+                    "amount": 45466.11,
+                    "transaction_id": 18241471
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Withdrawal",
+                    "amount": 30305.13,
+                    "transaction_id": 98285679
+                }
+            ]
+        }
+    }
+}

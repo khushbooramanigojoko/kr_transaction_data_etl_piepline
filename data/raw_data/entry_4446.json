@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Autumn Bishop",
+        "age": 32,
+        "gender": "male",
+        "address": "16048 Campbell Islands Apt. 625, Floresland, MP 21627",
+        "phone": "+1-498-777-0441x071",
+        "email": "odunn@example.com",
+        "account": {
+            "account_number": "7922edd6-15c6-4206-8950-f85db7f2bdc4",
+            "balance": 30124.96,
+            "transactions": [
+                {
+                    "date": "2023-09-02",
+                    "description": "Deposit",
+                    "amount": 45628.48,
+                    "transaction_id": 13611167
+                },
+                {
+                    "date": "2024-07-19",
+                    "description": "Interest",
+                    "amount": 30478.42,
+                    "transaction_id": 5329321
+                },
+                {
+                    "date": "2023-12-05",
+                    "description": "Interest",
+                    "amount": 33227.04,
+                    "transaction_id": 22062995
+                }
+            ]
+        }
+    }
+}

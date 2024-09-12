@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kari Patterson",
+        "age": 56,
+        "gender": "female",
+        "address": "930 Adam Pine, Marystad, MI 38404",
+        "phone": "001-781-472-3341x055",
+        "email": "jenniferduncan@example.com",
+        "account": {
+            "account_number": "d76d4e9d-6b57-4a47-a1df-5fb21a5cc468",
+            "balance": 12633.78,
+            "transactions": [
+                {
+                    "date": "2022-12-21",
+                    "description": "Deposit",
+                    "amount": 26096.87,
+                    "transaction_id": 97161490
+                },
+                {
+                    "date": "2024-03-15",
+                    "description": "Withdrawal",
+                    "amount": 7024.62,
+                    "transaction_id": 37744760
+                }
+            ]
+        }
+    }
+}

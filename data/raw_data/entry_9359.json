@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Chelsea Bryant",
+        "age": 54,
+        "gender": "female",
+        "address": "36789 Bond Camp, New Eric, PW 62524",
+        "phone": "467.224.7022",
+        "email": "jvillarreal@example.com",
+        "account": {
+            "account_number": "b57d7207-c37e-4518-9722-8b789ea19cef",
+            "balance": -23394.98,
+            "transactions": [
+                {
+                    "date": "2024-04-22",
+                    "description": "Withdrawal",
+                    "amount": 3783.48,
+                    "transaction_id": 68060564
+                }
+            ]
+        }
+    }
+}

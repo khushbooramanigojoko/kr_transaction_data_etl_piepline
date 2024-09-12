@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amanda Bennett",
+        "age": 32,
+        "gender": "male",
+        "address": "05233 York Unions, Lake Davidland, AR 32841",
+        "phone": "+1-413-883-0891",
+        "email": "ahunter@example.net",
+        "account": {
+            "account_number": "4c01df6c-30eb-4335-b137-189b15147ef0",
+            "balance": 33117.17,
+            "transactions": [
+                {
+                    "date": "2023-11-25",
+                    "description": "Withdrawal",
+                    "amount": 25102.43,
+                    "transaction_id": 50780150
+                }
+            ]
+        }
+    }
+}

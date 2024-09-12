@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Thomas Gallagher",
+        "age": 29,
+        "gender": "male",
+        "address": "Unit 6015 Box 8167, DPO AE 30150",
+        "phone": "001-251-706-7000",
+        "email": "iwoods@example.com",
+        "account": {
+            "account_number": "d9ee5be7-3c98-4c3f-894e-a4daa65c7d76",
+            "balance": -45477.92,
+            "transactions": [
+                {
+                    "date": "2023-10-08",
+                    "description": "Withdrawal",
+                    "amount": 521.9,
+                    "transaction_id": 61050422
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christine Clark",
+        "age": 66,
+        "gender": "male",
+        "address": "18921 Ramirez Parkways Suite 071, Rossport, NY 05131",
+        "phone": "837-736-4648",
+        "email": "kcarter@example.net",
+        "account": {
+            "account_number": "22cc2b5b-4051-420d-971a-673ba788b142",
+            "balance": 31920.32,
+            "transactions": [
+                {
+                    "date": "2023-01-11",
+                    "description": "Withdrawal",
+                    "amount": 40794.11,
+                    "transaction_id": 92435193
+                },
+                {
+                    "date": "2023-08-27",
+                    "description": "Interest",
+                    "amount": 28569.15,
+                    "transaction_id": 21792688
+                }
+            ]
+        }
+    }
+}

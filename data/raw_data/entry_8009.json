@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brian Anderson",
+        "age": 74,
+        "gender": "male",
+        "address": "64172 Kevin Ways, New Scott, PA 29063",
+        "phone": "+1-590-216-2137",
+        "email": "oflores@example.net",
+        "account": {
+            "account_number": "34d9da76-4ede-436a-925c-6a65dae1d608",
+            "balance": 19255.64,
+            "transactions": [
+                {
+                    "date": "2023-05-18",
+                    "description": "Withdrawal",
+                    "amount": 39580.12,
+                    "transaction_id": 32078282
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Deposit",
+                    "amount": 40715.54,
+                    "transaction_id": 45987233
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Withdrawal",
+                    "amount": 21987.85,
+                    "transaction_id": 112437665
+                },
+                {
+                    "date": "2023-07-21",
+                    "description": "Withdrawal",
+                    "amount": 25529.02,
+                    "transaction_id": 58162680
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Larry Palmer",
+        "age": 83,
+        "gender": "male",
+        "address": "813 Torres Camp, Cynthiafort, AK 77061",
+        "phone": "(515)828-2866x951",
+        "email": "vincentcuevas@example.org",
+        "account": {
+            "account_number": "c994f37f-f4b8-4a18-a841-6d5e48beddf9",
+            "balance": 27003.46,
+            "transactions": [
+                {
+                    "date": "2024-03-10",
+                    "description": "Deposit",
+                    "amount": 5385.9,
+                    "transaction_id": 37744418
+                },
+                {
+                    "date": "2023-07-20",
+                    "description": "Withdrawal",
+                    "amount": 11226.13,
+                    "transaction_id": 77410127
+                },
+                {
+                    "date": "2023-09-22",
+                    "description": "Deposit",
+                    "amount": 11213.57,
+                    "transaction_id": 45273584
+                },
+                {
+                    "date": "2024-07-07",
+                    "description": "Withdrawal",
+                    "amount": 46085.52,
+                    "transaction_id": 10788222
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Withdrawal",
+                    "amount": 49766.88,
+                    "transaction_id": 107250692
+                }
+            ]
+        }
+    }
+}

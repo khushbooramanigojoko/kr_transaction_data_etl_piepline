@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 54,
+        "gender": "female",
+        "address": "1815 Andrade Valley Suite 674, Port Michael, TN 48925",
+        "phone": "298.500.0751",
+        "email": "jessica99@example.org",
+        "account": {
+            "account_number": "4339a87f-4431-4ace-9894-8e34c24be636",
+            "balance": 33602.07,
+            "transactions": [
+                {
+                    "date": "2024-05-27",
+                    "description": "Interest",
+                    "amount": -1294.26,
+                    "transaction_id": 78750838
+                }
+            ]
+        }
+    }
+}

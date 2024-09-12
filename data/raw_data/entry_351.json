@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Marcus Bowers",
+        "age": 81,
+        "gender": "male",
+        "address": "5360 Rose Skyway, Jacobsonport, NE 60862",
+        "phone": "787.704.4548x931",
+        "email": "allison06@example.org",
+        "account": {
+            "account_number": "69a153b2-416e-44a4-a68e-1db104c607fd",
+            "balance": 28523.8,
+            "transactions": [
+                {
+                    "date": "2024-05-21",
+                    "description": "Interest",
+                    "amount": 6581.08,
+                    "transaction_id": 46129454
+                }
+            ]
+        }
+    }
+}

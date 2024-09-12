@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stephanie Mason",
+        "age": 62,
+        "gender": "female",
+        "address": "345 Davis River Apt. 684, New Karen, WV 15767",
+        "phone": "7262083454",
+        "email": "taylormcdaniel@example.net",
+        "account": {
+            "account_number": "de566649-78d3-474f-b931-8a4dace0ad40",
+            "balance": -41477.48,
+            "transactions": [
+                {
+                    "date": "2023-12-30",
+                    "description": "Interest",
+                    "amount": -3003.73,
+                    "transaction_id": 43014477
+                }
+            ]
+        }
+    }
+}

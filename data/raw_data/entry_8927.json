@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kevin Mckenzie",
+        "age": 39,
+        "gender": "female",
+        "address": "193 Ferguson Ford, Lake Davidtown, ID 64841",
+        "phone": "407-209-3778x7596",
+        "email": "johnstonjennifer@example.org",
+        "account": {
+            "account_number": "3dc4fa7c-89e4-47d1-86b6-2e68f8bed502",
+            "balance": -46567.65,
+            "transactions": [
+                {
+                    "date": "2024-02-29",
+                    "description": "Interest",
+                    "amount": 644.67,
+                    "transaction_id": 113005581
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Interest",
+                    "amount": -3080.91,
+                    "transaction_id": 5506224
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Interest",
+                    "amount": 2806.78,
+                    "transaction_id": 42331016
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jesse James",
+        "age": 63,
+        "gender": "female",
+        "address": "189 Mills Shoal, Port Patrick, NH 65880",
+        "phone": "571.936.9392",
+        "email": "douglastran@example.net",
+        "account": {
+            "account_number": "edfe17c2-b73e-4481-ac2c-eb9d84c06e0c",
+            "balance": -41626.59,
+            "transactions": [
+                {
+                    "date": "2023-09-15",
+                    "description": "Withdrawal",
+                    "amount": -1907.14,
+                    "transaction_id": 18764166
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Withdrawal",
+                    "amount": -4854.21,
+                    "transaction_id": 104754814
+                },
+                {
+                    "date": "2022-11-06",
+                    "description": "Interest",
+                    "amount": 3893.42,
+                    "transaction_id": 112717800
+                },
+                {
+                    "date": "2022-11-24",
+                    "description": "Withdrawal",
+                    "amount": -3394.85,
+                    "transaction_id": 109684783
+                }
+            ]
+        }
+    }
+}

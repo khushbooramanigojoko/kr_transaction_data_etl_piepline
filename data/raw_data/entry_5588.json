@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Eugene Brown",
+        "age": 23,
+        "gender": "female",
+        "address": "941 James River, South John, NE 33500",
+        "phone": "832-674-2139",
+        "email": "tanyamullen@example.org",
+        "account": {
+            "account_number": "2843fb4c-13b0-4da5-a3e4-bf277231a4ce",
+            "balance": 2479.5,
+            "transactions": [
+                {
+                    "date": "2022-10-04",
+                    "description": "Withdrawal",
+                    "amount": 22309.6,
+                    "transaction_id": 11779016
+                },
+                {
+                    "date": "2023-11-17",
+                    "description": "Interest",
+                    "amount": 12536.3,
+                    "transaction_id": 82791355
+                },
+                {
+                    "date": "2023-11-09",
+                    "description": "Deposit",
+                    "amount": 36755.43,
+                    "transaction_id": 87132212
+                }
+            ]
+        }
+    }
+}

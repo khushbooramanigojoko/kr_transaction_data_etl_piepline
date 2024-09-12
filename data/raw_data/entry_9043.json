@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 62,
+        "gender": "male",
+        "address": "824 Meadows Passage Suite 389, West Melinda, NY 96423",
+        "phone": "001-422-593-8064x681",
+        "email": "thompsonpaul@example.net",
+        "account": {
+            "account_number": "cb4f4ee4-900c-486c-b0c2-b378de569c1c",
+            "balance": 9037.57,
+            "transactions": [
+                {
+                    "date": "2024-02-01",
+                    "description": "Interest",
+                    "amount": 4478.28,
+                    "transaction_id": 94547934
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Deposit",
+                    "amount": 47.29,
+                    "transaction_id": 1407919
+                },
+                {
+                    "date": "2023-01-12",
+                    "description": "Interest",
+                    "amount": 2365.53,
+                    "transaction_id": 70266924
+                }
+            ]
+        }
+    }
+}

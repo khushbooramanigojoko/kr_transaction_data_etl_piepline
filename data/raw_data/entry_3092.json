@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amanda Arnold",
+        "age": 62,
+        "gender": "female",
+        "address": "292 Alec Plains Suite 784, Morganbury, FM 61894",
+        "phone": "567-341-6793x5391",
+        "email": "lopezjulian@example.org",
+        "account": {
+            "account_number": "76ace893-78cc-40ee-a76c-c0bd4da70fba",
+            "balance": 7782.4,
+            "transactions": [
+                {
+                    "date": "2024-01-01",
+                    "description": "Withdrawal",
+                    "amount": 22707.77,
+                    "transaction_id": 97487321
+                }
+            ]
+        }
+    }
+}

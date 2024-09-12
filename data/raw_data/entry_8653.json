@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Ryan Cervantes",
+        "age": 62,
+        "gender": "male",
+        "address": "75219 Cook Locks Apt. 924, Chavezbury, FL 09255",
+        "phone": "001-680-945-0602x1824",
+        "email": "danny70@example.org",
+        "account": {
+            "account_number": "190e84e5-e216-4934-afc9-e19fde470856",
+            "balance": 22577.96,
+            "transactions": [
+                {
+                    "date": "2024-06-10",
+                    "description": "Deposit",
+                    "amount": 20322.27,
+                    "transaction_id": 96739564
+                }
+            ]
+        }
+    }
+}

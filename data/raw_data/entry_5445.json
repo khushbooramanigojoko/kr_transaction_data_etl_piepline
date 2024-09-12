@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Thomas Leach",
+        "age": 99,
+        "gender": "male",
+        "address": "691 Roberta Freeway, East Jilltown, NV 24530",
+        "phone": "001-435-451-7708x1651",
+        "email": "lpetersen@example.org",
+        "account": {
+            "account_number": "f65698e7-27a7-4d58-b481-048318a276da",
+            "balance": 38432.28,
+            "transactions": [
+                {
+                    "date": "2024-01-14",
+                    "description": "Deposit",
+                    "amount": 21893.09,
+                    "transaction_id": 95339617
+                },
+                {
+                    "date": "2023-08-31",
+                    "description": "Interest",
+                    "amount": 14964.79,
+                    "transaction_id": 96587707
+                },
+                {
+                    "date": "2023-05-25",
+                    "description": "Interest",
+                    "amount": 30960.2,
+                    "transaction_id": 116166073
+                },
+                {
+                    "date": "2023-10-28",
+                    "description": "Withdrawal",
+                    "amount": 39172.41,
+                    "transaction_id": 96381946
+                }
+            ]
+        }
+    }
+}

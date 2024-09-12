@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Laura Herrera",
+        "age": 91,
+        "gender": "male",
+        "address": "81932 Barbara Meadows, Alexanderstad, GA 18864",
+        "phone": "852.582.9102x45071",
+        "email": "ianochoa@example.org",
+        "account": {
+            "account_number": "ecbefa20-114e-4379-b577-0c3a1260793b",
+            "balance": -6442.5,
+            "transactions": [
+                {
+                    "date": "2024-08-29",
+                    "description": "Deposit",
+                    "amount": 35.4,
+                    "transaction_id": 17656579
+                }
+            ]
+        }
+    }
+}

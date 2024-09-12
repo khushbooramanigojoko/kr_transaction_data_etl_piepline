@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Sarah Elliott",
+        "age": 31,
+        "gender": "female",
+        "address": "163 Kevin Trail, New Chelseahaven, MP 74879",
+        "phone": "+1-765-943-5100",
+        "email": "orivera@example.com",
+        "account": {
+            "account_number": "13a2b239-7fae-45cb-878a-04b12d22ed09",
+            "balance": 4956.03,
+            "transactions": [
+                {
+                    "date": "2023-07-08",
+                    "description": "Interest",
+                    "amount": 41748.99,
+                    "transaction_id": 57653758
+                },
+                {
+                    "date": "2023-12-23",
+                    "description": "Withdrawal",
+                    "amount": 19596.82,
+                    "transaction_id": 53471598
+                },
+                {
+                    "date": "2022-09-18",
+                    "description": "Deposit",
+                    "amount": 35906.65,
+                    "transaction_id": 57280747
+                },
+                {
+                    "date": "2023-01-17",
+                    "description": "Deposit",
+                    "amount": 25000.3,
+                    "transaction_id": 94835455
+                },
+                {
+                    "date": "2024-07-27",
+                    "description": "Interest",
+                    "amount": 6077.43,
+                    "transaction_id": 97840110
+                }
+            ]
+        }
+    }
+}

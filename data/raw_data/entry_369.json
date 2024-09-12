@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Roger Stewart",
+        "age": 74,
+        "gender": "female",
+        "address": "109 Knapp Plaza, Ramirezmouth, DE 33570",
+        "phone": "765-511-0308x829",
+        "email": "cassidymaxwell@example.com",
+        "account": {
+            "account_number": "d3ae1e39-0f26-4f45-bedf-f8cf4053c83f",
+            "balance": 1426.78,
+            "transactions": [
+                {
+                    "date": "2022-12-14",
+                    "description": "Withdrawal",
+                    "amount": 20595.65,
+                    "transaction_id": 12554711
+                },
+                {
+                    "date": "2024-04-17",
+                    "description": "Withdrawal",
+                    "amount": 15679.59,
+                    "transaction_id": 20723219
+                },
+                {
+                    "date": "2024-06-18",
+                    "description": "Deposit",
+                    "amount": 49027.23,
+                    "transaction_id": 60477715
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Linda Munoz",
+        "age": 23,
+        "gender": "male",
+        "address": "5361 Gray River Suite 655, Victoriachester, OH 30195",
+        "phone": "411-745-7281",
+        "email": "faulknerjames@example.org",
+        "account": {
+            "account_number": "19359d1c-3b78-4f02-a6d0-585aa934b563",
+            "balance": 36039.38,
+            "transactions": [
+                {
+                    "date": "2023-11-22",
+                    "description": "Interest",
+                    "amount": 4378.39,
+                    "transaction_id": 69689764
+                },
+                {
+                    "date": "2023-08-17",
+                    "description": "Withdrawal",
+                    "amount": 11671.8,
+                    "transaction_id": 65576482
+                },
+                {
+                    "date": "2024-08-17",
+                    "description": "Deposit",
+                    "amount": 35105.59,
+                    "transaction_id": 38738097
+                },
+                {
+                    "date": "2024-06-06",
+                    "description": "Withdrawal",
+                    "amount": 1805.07,
+                    "transaction_id": 30353876
+                }
+            ]
+        }
+    }
+}

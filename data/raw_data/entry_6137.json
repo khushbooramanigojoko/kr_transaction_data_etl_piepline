@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kurt Howard",
+        "age": 89,
+        "gender": "female",
+        "address": "136 Watson Lock, Quinnton, LA 56303",
+        "phone": "001-496-841-4848",
+        "email": "pamela91@example.net",
+        "account": {
+            "account_number": "512dadd7-c0b6-4095-995c-a55a86877370",
+            "balance": 6004.65,
+            "transactions": [
+                {
+                    "date": "2024-03-23",
+                    "description": "Deposit",
+                    "amount": 19758.41,
+                    "transaction_id": 23041813
+                },
+                {
+                    "date": "2024-04-15",
+                    "description": "Interest",
+                    "amount": 21437.32,
+                    "transaction_id": 94017806
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Deposit",
+                    "amount": 45284.12,
+                    "transaction_id": 20489704
+                }
+            ]
+        }
+    }
+}

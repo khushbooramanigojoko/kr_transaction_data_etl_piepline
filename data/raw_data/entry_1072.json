@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Stephanie Reed",
+        "age": 40,
+        "gender": "female",
+        "address": "8568 Powell Neck, Melissastad, KS 70721",
+        "phone": "+1-311-594-7776x245",
+        "email": "bryan36@example.com",
+        "account": {
+            "account_number": "e6f7f65a-d9c5-402d-b1a3-8a1332c2e994",
+            "balance": 28339.38,
+            "transactions": [
+                {
+                    "date": "2023-07-23",
+                    "description": "Deposit",
+                    "amount": 46230.36,
+                    "transaction_id": 6734491
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Withdrawal",
+                    "amount": 23116.74,
+                    "transaction_id": 54861435
+                },
+                {
+                    "date": "2023-08-07",
+                    "description": "Withdrawal",
+                    "amount": 32766.78,
+                    "transaction_id": 97524826
+                },
+                {
+                    "date": "2023-07-09",
+                    "description": "Withdrawal",
+                    "amount": 3176.3,
+                    "transaction_id": 39637379
+                }
+            ]
+        }
+    }
+}

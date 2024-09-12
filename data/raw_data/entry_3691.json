@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Krystal Benton",
+        "age": 96,
+        "gender": "male",
+        "address": "40563 Katherine Causeway Apt. 120, South Bobby, OH 10549",
+        "phone": "4057649954",
+        "email": "brownjamie@example.com",
+        "account": {
+            "account_number": "612c0774-ec3c-41c7-bd1b-7cc301cae241",
+            "balance": 6702.88,
+            "transactions": [
+                {
+                    "date": "2023-05-31",
+                    "description": "Interest",
+                    "amount": 22449.1,
+                    "transaction_id": 93959932
+                },
+                {
+                    "date": "2023-09-29",
+                    "description": "Deposit",
+                    "amount": 10916.77,
+                    "transaction_id": 34567051
+                },
+                {
+                    "date": "2024-05-24",
+                    "description": "Interest",
+                    "amount": 13392.86,
+                    "transaction_id": 84403047
+                },
+                {
+                    "date": "2024-04-09",
+                    "description": "Deposit",
+                    "amount": 47918.39,
+                    "transaction_id": 12833255
+                },
+                {
+                    "date": "2023-10-23",
+                    "description": "Deposit",
+                    "amount": 19980.59,
+                    "transaction_id": 114834844
+                }
+            ]
+        }
+    }
+}

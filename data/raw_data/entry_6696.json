@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Christina Nash",
+        "age": 50,
+        "gender": "male",
+        "address": "451 Medina Burg Suite 766, West Joanne, HI 05981",
+        "phone": "+1-491-918-1023x16632",
+        "email": "kellyricardo@example.com",
+        "account": {
+            "account_number": "1c3f26a6-8817-4641-ab40-3b34ea22d99c",
+            "balance": 35743.48,
+            "transactions": [
+                {
+                    "date": "2024-02-05",
+                    "description": "Withdrawal",
+                    "amount": 696.04,
+                    "transaction_id": 96412122
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Deposit",
+                    "amount": 48704.96,
+                    "transaction_id": 88207149
+                }
+            ]
+        }
+    }
+}

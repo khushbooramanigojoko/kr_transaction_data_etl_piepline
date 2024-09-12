@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Keith Silva",
+        "age": 76,
+        "gender": "male",
+        "address": "42238 Richard Rapid Suite 409, South Johnhaven, ME 16417",
+        "phone": "503-326-5402x929",
+        "email": "lopezjohn@example.net",
+        "account": {
+            "account_number": "a1c60a85-2a26-47b4-9e96-069dcd23ab8b",
+            "balance": 3535.33,
+            "transactions": [
+                {
+                    "date": "2023-01-01",
+                    "description": "Interest",
+                    "amount": 14389.49,
+                    "transaction_id": 49813364
+                },
+                {
+                    "date": "2022-12-13",
+                    "description": "Interest",
+                    "amount": 40382.17,
+                    "transaction_id": 13162234
+                },
+                {
+                    "date": "2022-12-28",
+                    "description": "Deposit",
+                    "amount": 36020.81,
+                    "transaction_id": 59449807
+                },
+                {
+                    "date": "2023-07-26",
+                    "description": "Deposit",
+                    "amount": 7955.33,
+                    "transaction_id": 107014203
+                }
+            ]
+        }
+    }
+}

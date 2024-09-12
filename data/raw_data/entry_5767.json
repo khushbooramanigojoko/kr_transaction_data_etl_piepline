@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kimberly Espinoza",
+        "age": 56,
+        "gender": "male",
+        "address": "53631 Tapia Wall, Lake Kevinstad, OR 55472",
+        "phone": "001-596-631-1760",
+        "email": "austin74@example.org",
+        "account": {
+            "account_number": "eb20f357-515b-43a4-b483-a6cfc75a1a41",
+            "balance": 19214.07,
+            "transactions": [
+                {
+                    "date": "2023-03-03",
+                    "description": "Interest",
+                    "amount": 20465.71,
+                    "transaction_id": 60642754
+                },
+                {
+                    "date": "2023-10-20",
+                    "description": "Interest",
+                    "amount": 30040.87,
+                    "transaction_id": 65541552
+                },
+                {
+                    "date": "2022-12-08",
+                    "description": "Interest",
+                    "amount": 5096.45,
+                    "transaction_id": 118721140
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Interest",
+                    "amount": 5283.3,
+                    "transaction_id": 82380090
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Deposit",
+                    "amount": 3338.69,
+                    "transaction_id": 98440433
+                }
+            ]
+        }
+    }
+}

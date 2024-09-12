@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Hannah Ho",
+        "age": 34,
+        "gender": "female",
+        "address": "87974 Alexander Isle, Port Stephenbury, VT 06457",
+        "phone": "001-426-679-1197x2531",
+        "email": "levinejoseph@example.net",
+        "account": {
+            "account_number": "4fe8f453-bbc2-4001-a197-7e074f2e207e",
+            "balance": 8091.37,
+            "transactions": [
+                {
+                    "date": "2023-12-29",
+                    "description": "Interest",
+                    "amount": 9533.08,
+                    "transaction_id": 14602573
+                }
+            ]
+        }
+    }
+}

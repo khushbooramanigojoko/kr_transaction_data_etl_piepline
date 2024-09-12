@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Tina Kim",
+        "age": 43,
+        "gender": "male",
+        "address": "9963 Steve Crossroad Suite 476, East Madisonchester, WY 59868",
+        "phone": "499.495.4131x05138",
+        "email": "kentjenna@example.org",
+        "account": {
+            "account_number": "c15a9e98-0bcf-46fe-9389-f64a7b110dc8",
+            "balance": 28894.12,
+            "transactions": [
+                {
+                    "date": "2024-04-08",
+                    "description": "Interest",
+                    "amount": 40658.68,
+                    "transaction_id": 93394127
+                },
+                {
+                    "date": "2023-09-10",
+                    "description": "Deposit",
+                    "amount": 23262.7,
+                    "transaction_id": 80482203
+                }
+            ]
+        }
+    }
+}

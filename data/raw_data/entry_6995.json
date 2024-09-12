@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lisa Case",
+        "age": 58,
+        "gender": "female",
+        "address": "818 Thomas Inlet Suite 484, Garciaton, FL 03483",
+        "phone": "(267)845-3856x75684",
+        "email": "charles40@example.net",
+        "account": {
+            "account_number": "58bf3f36-be68-45f1-b99e-b7ddb044db8a",
+            "balance": 20407.88,
+            "transactions": [
+                {
+                    "date": "2023-05-22",
+                    "description": "Interest",
+                    "amount": 39755.91,
+                    "transaction_id": 6354259
+                }
+            ]
+        }
+    }
+}

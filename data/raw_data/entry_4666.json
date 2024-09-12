@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Paul Arnold",
+        "age": 40,
+        "gender": "male",
+        "address": "3067 Davis Villages Apt. 444, Kelleychester, MD 26303",
+        "phone": "(677)594-4358x73681",
+        "email": "kimknapp@example.net",
+        "account": {
+            "account_number": "10357fbd-bd6e-4fa7-9b9b-8395ace630f1",
+            "balance": 44598.69,
+            "transactions": [
+                {
+                    "date": "2023-12-13",
+                    "description": "Interest",
+                    "amount": 49981.3,
+                    "transaction_id": 34171214
+                },
+                {
+                    "date": "2024-05-31",
+                    "description": "Withdrawal",
+                    "amount": 40476.41,
+                    "transaction_id": 8025938
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Withdrawal",
+                    "amount": 33543.6,
+                    "transaction_id": 23096436
+                }
+            ]
+        }
+    }
+}

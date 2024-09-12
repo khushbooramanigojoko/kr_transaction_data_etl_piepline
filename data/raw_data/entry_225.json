@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Christopher Jones",
+        "age": 20,
+        "gender": "male",
+        "address": "394 Jennifer Shore, Ericborough, NJ 14043",
+        "phone": "+1-587-493-4706x44359",
+        "email": "margaretmaldonado@example.com",
+        "account": {
+            "account_number": "79396463-c6db-453b-9292-0e431f7a2647",
+            "balance": 43708.54,
+            "transactions": [
+                {
+                    "date": "2022-09-19",
+                    "description": "Withdrawal",
+                    "amount": 19971.51,
+                    "transaction_id": 94307568
+                },
+                {
+                    "date": "2023-06-25",
+                    "description": "Interest",
+                    "amount": 18844.24,
+                    "transaction_id": 17365054
+                },
+                {
+                    "date": "2023-09-01",
+                    "description": "Interest",
+                    "amount": 26282.61,
+                    "transaction_id": 111213118
+                }
+            ]
+        }
+    }
+}

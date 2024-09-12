@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Leslie Graham",
+        "age": 18,
+        "gender": "male",
+        "address": "54510 Brian Drives, Shirleyville, WV 29751",
+        "phone": "+1-671-586-0134x7370",
+        "email": "gibsonabigail@example.com",
+        "account": {
+            "account_number": "3250ca11-35c2-4260-8df4-c753da0a23f7",
+            "balance": -34026.21,
+            "transactions": [
+                {
+                    "date": "2023-04-04",
+                    "description": "Interest",
+                    "amount": -2483.96,
+                    "transaction_id": 112530176
+                }
+            ]
+        }
+    }
+}

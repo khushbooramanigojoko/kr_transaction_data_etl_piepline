@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Bernard Little",
+        "age": 44,
+        "gender": "male",
+        "address": "216 Olivia Tunnel, Port Katrina, IN 49438",
+        "phone": "001-279-529-9426",
+        "email": "dsullivan@example.org",
+        "account": {
+            "account_number": "5acad1fa-96f9-406a-9a9c-755bc5f6ed99",
+            "balance": -23940.29,
+            "transactions": [
+                {
+                    "date": "2024-06-30",
+                    "description": "Deposit",
+                    "amount": -69.03,
+                    "transaction_id": 98845373
+                },
+                {
+                    "date": "2024-01-16",
+                    "description": "Withdrawal",
+                    "amount": 569.18,
+                    "transaction_id": 13803902
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Withdrawal",
+                    "amount": -540.66,
+                    "transaction_id": 3163802
+                },
+                {
+                    "date": "2023-04-04",
+                    "description": "Deposit",
+                    "amount": -1300.78,
+                    "transaction_id": 15454191
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Amanda Williams",
+        "age": 18,
+        "gender": "female",
+        "address": "398 Christina Rapid, Lake Angelabury, WA 37424",
+        "phone": "305-969-4355x3493",
+        "email": "jordanjanet@example.com",
+        "account": {
+            "account_number": "6394e86a-ca9c-4e1c-b1b8-2da3e33b97cf",
+            "balance": 33886.11,
+            "transactions": [
+                {
+                    "date": "2024-06-29",
+                    "description": "Interest",
+                    "amount": 40017.03,
+                    "transaction_id": 100319323
+                }
+            ]
+        }
+    }
+}

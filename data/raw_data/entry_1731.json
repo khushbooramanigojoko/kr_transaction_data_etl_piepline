@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "David Sanders",
+        "age": 62,
+        "gender": "male",
+        "address": "43652 William Village Apt. 036, West Sydney, PA 82576",
+        "phone": "001-349-364-0413x04042",
+        "email": "nichole94@example.com",
+        "account": {
+            "account_number": "2d94ede8-1e28-41a0-b232-ac5244ab7de5",
+            "balance": 5117.7,
+            "transactions": [
+                {
+                    "date": "2023-09-30",
+                    "description": "Interest",
+                    "amount": 9167.73,
+                    "transaction_id": 57957656
+                },
+                {
+                    "date": "2023-11-16",
+                    "description": "Deposit",
+                    "amount": 28513.81,
+                    "transaction_id": 49542735
+                },
+                {
+                    "date": "2024-03-03",
+                    "description": "Deposit",
+                    "amount": 19096.23,
+                    "transaction_id": 62385141
+                },
+                {
+                    "date": "2023-03-19",
+                    "description": "Interest",
+                    "amount": 41027.29,
+                    "transaction_id": 3815566
+                },
+                {
+                    "date": "2023-03-17",
+                    "description": "Withdrawal",
+                    "amount": 2865.36,
+                    "transaction_id": 119684182
+                }
+            ]
+        }
+    }
+}

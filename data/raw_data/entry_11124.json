@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "William Ware",
+        "age": 31,
+        "gender": "male",
+        "address": "196 Samuel Keys, West Terrymouth, MT 97477",
+        "phone": "(939)832-1453x91013",
+        "email": "margaret50@example.com",
+        "account": {
+            "account_number": "6930ad37-62ef-4784-925f-c31a3d0cab5b",
+            "balance": -15497.66,
+            "transactions": [
+                {
+                    "date": "2022-09-15",
+                    "description": "Interest",
+                    "amount": 137.73,
+                    "transaction_id": 45491260
+                },
+                {
+                    "date": "2022-12-16",
+                    "description": "Deposit",
+                    "amount": 2916.43,
+                    "transaction_id": 4406889
+                },
+                {
+                    "date": "2023-12-23",
+                    "description": "Deposit",
+                    "amount": -4437.89,
+                    "transaction_id": 30015975
+                },
+                {
+                    "date": "2023-04-15",
+                    "description": "Withdrawal",
+                    "amount": -2867.42,
+                    "transaction_id": 36346640
+                },
+                {
+                    "date": "2023-12-15",
+                    "description": "Withdrawal",
+                    "amount": 4523.37,
+                    "transaction_id": 9399709
+                }
+            ]
+        }
+    }
+}

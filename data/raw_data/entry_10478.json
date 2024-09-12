@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 48,
+        "gender": "female",
+        "address": "0228 Choi Trail Apt. 537, West Sarahstad, ID 06501",
+        "phone": "+1-940-724-3188x9810",
+        "email": "pearsonjennifer@example.net",
+        "account": {
+            "account_number": "8efea17c-7764-4723-ad23-27028ee9c188",
+            "balance": 14962.8,
+            "transactions": [
+                {
+                    "date": "2024-01-05",
+                    "description": "Deposit",
+                    "amount": -268.61,
+                    "transaction_id": 8014314
+                },
+                {
+                    "date": "2024-04-19",
+                    "description": "Deposit",
+                    "amount": -755.25,
+                    "transaction_id": 46182650
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Deposit",
+                    "amount": -3106.52,
+                    "transaction_id": 60454815
+                },
+                {
+                    "date": "2024-02-12",
+                    "description": "Interest",
+                    "amount": 2790.38,
+                    "transaction_id": 29577093
+                },
+                {
+                    "date": "2023-09-15",
+                    "description": "Interest",
+                    "amount": -3316.01,
+                    "transaction_id": 106266999
+                }
+            ]
+        }
+    }
+}

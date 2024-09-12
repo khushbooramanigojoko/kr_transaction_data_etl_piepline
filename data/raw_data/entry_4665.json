@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Charles Young",
+        "age": 69,
+        "gender": "male",
+        "address": "9111 Peter Locks, Port Catherine, MT 47809",
+        "phone": "(801)633-8522",
+        "email": "andreagonzalez@example.net",
+        "account": {
+            "account_number": "be0c13de-a467-481c-97c9-184eccf56ddd",
+            "balance": 8000.16,
+            "transactions": [
+                {
+                    "date": "2023-04-08",
+                    "description": "Withdrawal",
+                    "amount": 5633.47,
+                    "transaction_id": 42051649
+                },
+                {
+                    "date": "2023-04-07",
+                    "description": "Deposit",
+                    "amount": 45538.4,
+                    "transaction_id": 25629433
+                },
+                {
+                    "date": "2022-10-12",
+                    "description": "Deposit",
+                    "amount": 40549.29,
+                    "transaction_id": 97129001
+                }
+            ]
+        }
+    }
+}

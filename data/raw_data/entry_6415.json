@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kimberly Russell",
+        "age": 20,
+        "gender": "female",
+        "address": "378 Anna Vista, Port Heather, GU 93179",
+        "phone": "943-301-5152x704",
+        "email": "obarnett@example.org",
+        "account": {
+            "account_number": "02f8fc47-e284-4d83-86ad-5ef85b9ef695",
+            "balance": 8517.67,
+            "transactions": [
+                {
+                    "date": "2023-03-27",
+                    "description": "Deposit",
+                    "amount": 32549.91,
+                    "transaction_id": 11711224
+                },
+                {
+                    "date": "2023-11-21",
+                    "description": "Withdrawal",
+                    "amount": 17486.11,
+                    "transaction_id": 19130754
+                }
+            ]
+        }
+    }
+}

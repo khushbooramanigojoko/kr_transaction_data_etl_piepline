@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "William Moore",
+        "age": 98,
+        "gender": "female",
+        "address": "84010 Bobby Village Suite 547, Sarahmouth, IL 34205",
+        "phone": "231-497-5249",
+        "email": "qdavis@example.net",
+        "account": {
+            "account_number": "2d769202-bd2e-466b-a4cc-f59052472d03",
+            "balance": -37446.62,
+            "transactions": [
+                {
+                    "date": "2023-09-24",
+                    "description": "Interest",
+                    "amount": 1458.54,
+                    "transaction_id": 119253374
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Withdrawal",
+                    "amount": -1284.28,
+                    "transaction_id": 77781678
+                },
+                {
+                    "date": "2024-08-20",
+                    "description": "Withdrawal",
+                    "amount": -3018.3,
+                    "transaction_id": 9389293
+                },
+                {
+                    "date": "2023-03-24",
+                    "description": "Interest",
+                    "amount": -4777.04,
+                    "transaction_id": 11877866
+                },
+                {
+                    "date": "2022-12-24",
+                    "description": "Deposit",
+                    "amount": 1309.93,
+                    "transaction_id": 102455844
+                }
+            ]
+        }
+    }
+}

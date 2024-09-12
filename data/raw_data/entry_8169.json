@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Savannah Ford",
+        "age": 66,
+        "gender": "female",
+        "address": "USNS Thomas, FPO AA 66858",
+        "phone": "(836)876-0886x44248",
+        "email": "jason85@example.net",
+        "account": {
+            "account_number": "dc1aa3a6-9e39-4810-9171-516a97186abe",
+            "balance": 22288.88,
+            "transactions": [
+                {
+                    "date": "2023-05-19",
+                    "description": "Deposit",
+                    "amount": 38996.23,
+                    "transaction_id": 12345317
+                },
+                {
+                    "date": "2023-09-25",
+                    "description": "Deposit",
+                    "amount": 28615.29,
+                    "transaction_id": 65318762
+                }
+            ]
+        }
+    }
+}

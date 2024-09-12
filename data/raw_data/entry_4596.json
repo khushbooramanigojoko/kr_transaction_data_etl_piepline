@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Wanda Mendoza",
+        "age": 54,
+        "gender": "female",
+        "address": "57475 Wiley Cliffs Apt. 396, Port Zachary, PA 55210",
+        "phone": "387.787.7315",
+        "email": "dustin26@example.com",
+        "account": {
+            "account_number": "3e25b0bc-d420-4f02-a16b-50505ec1997a",
+            "balance": 26535.84,
+            "transactions": [
+                {
+                    "date": "2024-05-06",
+                    "description": "Deposit",
+                    "amount": 39667.81,
+                    "transaction_id": 100407837
+                }
+            ]
+        }
+    }
+}

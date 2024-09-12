@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Alicia Myers",
+        "age": 58,
+        "gender": "female",
+        "address": "9794 Heidi Mews, East Courtney, NC 15514",
+        "phone": "001-553-488-7144x9827",
+        "email": "michaelmedina@example.net",
+        "account": {
+            "account_number": "463714eb-e1e1-485c-b78a-d85fb2c28b73",
+            "balance": 31516.05,
+            "transactions": [
+                {
+                    "date": "2023-10-02",
+                    "description": "Deposit",
+                    "amount": 49905.0,
+                    "transaction_id": 14730917
+                }
+            ]
+        }
+    }
+}

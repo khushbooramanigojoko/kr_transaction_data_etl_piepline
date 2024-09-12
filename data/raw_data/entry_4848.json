@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jeffery Black",
+        "age": 68,
+        "gender": "female",
+        "address": "6201 Romero Squares Suite 283, New Timothy, NJ 77030",
+        "phone": "(738)462-8533x56639",
+        "email": "robert19@example.org",
+        "account": {
+            "account_number": "cbba03ce-85f8-40ed-ae00-08dc3837fe61",
+            "balance": 30891.53,
+            "transactions": [
+                {
+                    "date": "2023-12-14",
+                    "description": "Interest",
+                    "amount": 8968.39,
+                    "transaction_id": 101931242
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Deposit",
+                    "amount": 42838.53,
+                    "transaction_id": 110124864
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Withdrawal",
+                    "amount": 27226.61,
+                    "transaction_id": 6940406
+                }
+            ]
+        }
+    }
+}

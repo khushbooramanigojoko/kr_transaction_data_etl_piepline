@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tracy Greene",
+        "age": 50,
+        "gender": "female",
+        "address": "8958 Clements Center, Caintown, SC 09644",
+        "phone": "777.908.3844x752",
+        "email": "stephenskayla@example.com",
+        "account": {
+            "account_number": "030cc7bc-11d0-4050-b2b4-61fe5c3ffe60",
+            "balance": 13344.57,
+            "transactions": [
+                {
+                    "date": "2024-07-09",
+                    "description": "Withdrawal",
+                    "amount": 36302.22,
+                    "transaction_id": 32522742
+                },
+                {
+                    "date": "2023-03-11",
+                    "description": "Withdrawal",
+                    "amount": 1601.14,
+                    "transaction_id": 1049901
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Interest",
+                    "amount": 15387.76,
+                    "transaction_id": 52029798
+                },
+                {
+                    "date": "2024-08-12",
+                    "description": "Deposit",
+                    "amount": 33772.23,
+                    "transaction_id": 3708185
+                },
+                {
+                    "date": "2024-03-30",
+                    "description": "Deposit",
+                    "amount": 15914.24,
+                    "transaction_id": 37760022
+                }
+            ]
+        }
+    }
+}

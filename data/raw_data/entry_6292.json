@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kimberly West",
+        "age": 92,
+        "gender": "male",
+        "address": "45005 Hicks Estates, Chambersshire, KY 34210",
+        "phone": "211.392.8659",
+        "email": "xmarshall@example.org",
+        "account": {
+            "account_number": "226d21f3-d8a4-4f16-a43f-28f0948747cd",
+            "balance": 16228.77,
+            "transactions": [
+                {
+                    "date": "2022-12-30",
+                    "description": "Interest",
+                    "amount": 46821.77,
+                    "transaction_id": 20005418
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Interest",
+                    "amount": 35773.51,
+                    "transaction_id": 57601276
+                }
+            ]
+        }
+    }
+}

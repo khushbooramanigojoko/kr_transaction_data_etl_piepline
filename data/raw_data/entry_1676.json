@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Megan Wallace",
+        "age": 53,
+        "gender": "male",
+        "address": "14334 Rice Port, Patriciaport, CT 72704",
+        "phone": "(560)771-8070x6005",
+        "email": "pbrown@example.net",
+        "account": {
+            "account_number": "e99808fe-9084-4022-8ebf-c76ce34aea31",
+            "balance": 17971.9,
+            "transactions": [
+                {
+                    "date": "2024-04-15",
+                    "description": "Interest",
+                    "amount": 7134.24,
+                    "transaction_id": 35785084
+                },
+                {
+                    "date": "2023-10-20",
+                    "description": "Deposit",
+                    "amount": 32704.93,
+                    "transaction_id": 40344831
+                }
+            ]
+        }
+    }
+}

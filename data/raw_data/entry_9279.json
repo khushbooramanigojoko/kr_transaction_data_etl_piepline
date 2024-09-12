@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 40,
+        "gender": "female",
+        "address": "5265 William Garden, South Samuel, MP 08336",
+        "phone": "+1-218-682-5964x1319",
+        "email": "rosejulie@example.net",
+        "account": {
+            "account_number": "d88b9361-ee31-4e38-9c97-5a9aab1c2bf2",
+            "balance": 15175.41,
+            "transactions": [
+                {
+                    "date": "2023-03-31",
+                    "description": "Interest",
+                    "amount": -3056.61,
+                    "transaction_id": 42068038
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Withdrawal",
+                    "amount": 3234.44,
+                    "transaction_id": 16129763
+                },
+                {
+                    "date": "2022-11-12",
+                    "description": "Withdrawal",
+                    "amount": 3091.38,
+                    "transaction_id": 54752458
+                },
+                {
+                    "date": "2022-11-24",
+                    "description": "Interest",
+                    "amount": -4493.06,
+                    "transaction_id": 97268693
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Interest",
+                    "amount": 4481.66,
+                    "transaction_id": 39899291
+                }
+            ]
+        }
+    }
+}

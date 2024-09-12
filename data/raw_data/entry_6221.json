@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "James Mcclure",
+        "age": 37,
+        "gender": "male",
+        "address": "57726 Maria Track, Taraborough, OR 59388",
+        "phone": "(586)915-9733x2620",
+        "email": "wendyjones@example.com",
+        "account": {
+            "account_number": "a463663e-e6de-4c9e-9de0-b92e074aec1c",
+            "balance": 45370.3,
+            "transactions": [
+                {
+                    "date": "2024-05-07",
+                    "description": "Interest",
+                    "amount": 32532.84,
+                    "transaction_id": 106763558
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Deposit",
+                    "amount": 7067.23,
+                    "transaction_id": 109542167
+                }
+            ]
+        }
+    }
+}

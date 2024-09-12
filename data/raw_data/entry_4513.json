@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Matthew Guzman",
+        "age": 93,
+        "gender": "female",
+        "address": "PSC 5494, Box 2872, APO AP 03421",
+        "phone": "538-842-4418x562",
+        "email": "stephenhart@example.net",
+        "account": {
+            "account_number": "25130410-3672-4489-8ad4-632ccf2c4f47",
+            "balance": 8249.95,
+            "transactions": [
+                {
+                    "date": "2024-08-18",
+                    "description": "Deposit",
+                    "amount": 46124.44,
+                    "transaction_id": 113644567
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Withdrawal",
+                    "amount": 34540.88,
+                    "transaction_id": 111477118
+                }
+            ]
+        }
+    }
+}

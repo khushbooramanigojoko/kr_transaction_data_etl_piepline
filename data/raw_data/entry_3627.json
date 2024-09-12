@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Becky Austin",
+        "age": 87,
+        "gender": "female",
+        "address": "7011 Webb Junctions, West Ashley, ID 38155",
+        "phone": "001-520-265-3348x7418",
+        "email": "deansanchez@example.com",
+        "account": {
+            "account_number": "281ed640-0c1b-4f13-8c83-fa8e38947600",
+            "balance": 47519.66,
+            "transactions": [
+                {
+                    "date": "2024-03-23",
+                    "description": "Deposit",
+                    "amount": 20583.78,
+                    "transaction_id": 115326351
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Interest",
+                    "amount": 5285.24,
+                    "transaction_id": 66373271
+                },
+                {
+                    "date": "2023-03-13",
+                    "description": "Deposit",
+                    "amount": 3706.71,
+                    "transaction_id": 92855686
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Deposit",
+                    "amount": 43348.62,
+                    "transaction_id": 42882054
+                },
+                {
+                    "date": "2023-06-09",
+                    "description": "Withdrawal",
+                    "amount": 210.55,
+                    "transaction_id": 15533748
+                }
+            ]
+        }
+    }
+}

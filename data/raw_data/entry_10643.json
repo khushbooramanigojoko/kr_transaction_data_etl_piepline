@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mark Reyes",
+        "age": 37,
+        "gender": "male",
+        "address": "8007 Raymond Loop, North Danaview, CT 06826",
+        "phone": "001-464-330-4596",
+        "email": "hbush@example.org",
+        "account": {
+            "account_number": "be3df612-7243-4421-924a-3da864563dbc",
+            "balance": -23253.57,
+            "transactions": [
+                {
+                    "date": "2024-05-21",
+                    "description": "Withdrawal",
+                    "amount": -2395.3,
+                    "transaction_id": 94132628
+                },
+                {
+                    "date": "2023-12-18",
+                    "description": "Interest",
+                    "amount": -2705.56,
+                    "transaction_id": 108855336
+                },
+                {
+                    "date": "2024-05-17",
+                    "description": "Deposit",
+                    "amount": 2367.24,
+                    "transaction_id": 102152371
+                },
+                {
+                    "date": "2023-10-19",
+                    "description": "Withdrawal",
+                    "amount": -3388.15,
+                    "transaction_id": 70267254
+                },
+                {
+                    "date": "2023-05-14",
+                    "description": "Interest",
+                    "amount": -4430.82,
+                    "transaction_id": 89713253
+                }
+            ]
+        }
+    }
+}

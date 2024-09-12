@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Melissa Fitzgerald",
+        "age": 88,
+        "gender": "female",
+        "address": "392 Brown Ridges, Port Anthonymouth, ME 81788",
+        "phone": "+1-506-824-1494",
+        "email": "andrewlam@example.org",
+        "account": {
+            "account_number": "2ef1fcb9-579f-4ca3-b94b-05ad4fabf724",
+            "balance": -41994.21,
+            "transactions": [
+                {
+                    "date": "2024-06-11",
+                    "description": "Deposit",
+                    "amount": -2384.69,
+                    "transaction_id": 44549395
+                },
+                {
+                    "date": "2023-11-08",
+                    "description": "Deposit",
+                    "amount": 2142.05,
+                    "transaction_id": 48876660
+                }
+            ]
+        }
+    }
+}

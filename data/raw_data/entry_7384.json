@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Christopher Reed",
+        "age": 28,
+        "gender": "male",
+        "address": "279 Tracy Inlet Apt. 426, New Morganmouth, MD 00945",
+        "phone": "(376)451-8950",
+        "email": "andraderebecca@example.org",
+        "account": {
+            "account_number": "189ece9a-6379-4f04-83ab-e49969feeef5",
+            "balance": 20734.32,
+            "transactions": [
+                {
+                    "date": "2024-02-25",
+                    "description": "Withdrawal",
+                    "amount": 18641.94,
+                    "transaction_id": 73234193
+                },
+                {
+                    "date": "2023-10-02",
+                    "description": "Withdrawal",
+                    "amount": 25312.06,
+                    "transaction_id": 54430180
+                },
+                {
+                    "date": "2024-01-10",
+                    "description": "Deposit",
+                    "amount": 8997.33,
+                    "transaction_id": 34280491
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Linda Decker",
+        "age": 52,
+        "gender": "male",
+        "address": "83364 Charles Coves, South Brett, MA 13038",
+        "phone": "(325)915-3569x8234",
+        "email": "fbecker@example.com",
+        "account": {
+            "account_number": "12dc374b-b160-4127-a5aa-bc2f0da4b15f",
+            "balance": 49830.84,
+            "transactions": [
+                {
+                    "date": "2022-09-23",
+                    "description": "Interest",
+                    "amount": 28450.48,
+                    "transaction_id": 29993289
+                },
+                {
+                    "date": "2024-05-28",
+                    "description": "Deposit",
+                    "amount": 26588.93,
+                    "transaction_id": 67372562
+                },
+                {
+                    "date": "2024-03-10",
+                    "description": "Interest",
+                    "amount": 6842.57,
+                    "transaction_id": 81620037
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Deposit",
+                    "amount": 19271.18,
+                    "transaction_id": 18987095
+                }
+            ]
+        }
+    }
+}

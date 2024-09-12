@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Patrick Stokes",
+        "age": 53,
+        "gender": "female",
+        "address": "USCGC Bean, FPO AA 28166",
+        "phone": "+1-489-215-4846x4827",
+        "email": "fmorris@example.net",
+        "account": {
+            "account_number": "5aa547e4-c4d0-415b-92bb-6db287d8794f",
+            "balance": 49281.4,
+            "transactions": [
+                {
+                    "date": "2022-11-01",
+                    "description": "Interest",
+                    "amount": 40418.61,
+                    "transaction_id": 41831820
+                }
+            ]
+        }
+    }
+}

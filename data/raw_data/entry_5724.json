@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jessica Carter",
+        "age": 35,
+        "gender": "male",
+        "address": "PSC 9227, Box 0446, APO AP 29885",
+        "phone": "829-446-8554x7089",
+        "email": "corylong@example.org",
+        "account": {
+            "account_number": "a526f952-0c2d-4a15-9beb-fb34bef92a18",
+            "balance": 48005.79,
+            "transactions": [
+                {
+                    "date": "2022-11-29",
+                    "description": "Withdrawal",
+                    "amount": 25249.99,
+                    "transaction_id": 83084724
+                },
+                {
+                    "date": "2023-01-18",
+                    "description": "Deposit",
+                    "amount": 44181.06,
+                    "transaction_id": 94508336
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Allison Miller",
+        "age": 59,
+        "gender": "male",
+        "address": "7569 Rodriguez Extension Apt. 536, Lake Lisaview, PW 03320",
+        "phone": "662.810.2144",
+        "email": "mark47@example.org",
+        "account": {
+            "account_number": "e564311e-d7f5-418c-9180-4cd87971a472",
+            "balance": 9795.1,
+            "transactions": [
+                {
+                    "date": "2023-10-17",
+                    "description": "Deposit",
+                    "amount": 6100.84,
+                    "transaction_id": 21205959
+                },
+                {
+                    "date": "2023-09-23",
+                    "description": "Withdrawal",
+                    "amount": 28218.72,
+                    "transaction_id": 73041611
+                },
+                {
+                    "date": "2023-11-23",
+                    "description": "Deposit",
+                    "amount": 28809.95,
+                    "transaction_id": 1145787
+                },
+                {
+                    "date": "2022-12-20",
+                    "description": "Interest",
+                    "amount": 38943.77,
+                    "transaction_id": 81742646
+                },
+                {
+                    "date": "2023-07-09",
+                    "description": "Withdrawal",
+                    "amount": 28034.0,
+                    "transaction_id": 60042692
+                }
+            ]
+        }
+    }
+}

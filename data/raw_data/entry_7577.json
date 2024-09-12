@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tanya Brown",
+        "age": 89,
+        "gender": "female",
+        "address": "43950 Melissa Turnpike Suite 214, North Brian, WI 39344",
+        "phone": "586-639-8410x810",
+        "email": "nancy96@example.net",
+        "account": {
+            "account_number": "96eaa572-e253-4647-951b-505febe9a246",
+            "balance": 43900.36,
+            "transactions": [
+                {
+                    "date": "2023-08-26",
+                    "description": "Withdrawal",
+                    "amount": 5547.15,
+                    "transaction_id": 103836287
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Withdrawal",
+                    "amount": 31511.68,
+                    "transaction_id": 119666451
+                },
+                {
+                    "date": "2023-10-29",
+                    "description": "Deposit",
+                    "amount": 13603.57,
+                    "transaction_id": 119911895
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Interest",
+                    "amount": 13048.54,
+                    "transaction_id": 79502883
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Interest",
+                    "amount": 48682.23,
+                    "transaction_id": 47918107
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Karen Smith",
+        "age": 69,
+        "gender": "male",
+        "address": "671 White Tunnel Apt. 175, Andersonborough, VA 91815",
+        "phone": "740.584.5177",
+        "email": "denise67@example.com",
+        "account": {
+            "account_number": "1f9645c0-56ac-4f3a-975f-e609e4c59cbd",
+            "balance": -21701.58,
+            "transactions": [
+                {
+                    "date": "2023-11-09",
+                    "description": "Withdrawal",
+                    "amount": 92.88,
+                    "transaction_id": 87558850
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Interest",
+                    "amount": 101.19,
+                    "transaction_id": 42154067
+                },
+                {
+                    "date": "2023-05-20",
+                    "description": "Deposit",
+                    "amount": -4321.88,
+                    "transaction_id": 7488986
+                }
+            ]
+        }
+    }
+}

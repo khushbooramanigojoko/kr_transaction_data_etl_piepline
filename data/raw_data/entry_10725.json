@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Natalie Hawkins",
+        "age": 95,
+        "gender": "female",
+        "address": "USS Smith, FPO AE 39320",
+        "phone": "790.648.5953",
+        "email": "jayjohnson@example.net",
+        "account": {
+            "account_number": "20a22aa1-6e35-48cc-b6a5-f4a7668a8732",
+            "balance": -34494.61,
+            "transactions": [
+                {
+                    "date": "2023-06-05",
+                    "description": "Withdrawal",
+                    "amount": -4697.45,
+                    "transaction_id": 71218802
+                },
+                {
+                    "date": "2022-11-04",
+                    "description": "Interest",
+                    "amount": -3612.98,
+                    "transaction_id": 45269275
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Withdrawal",
+                    "amount": 197.87,
+                    "transaction_id": 4677672
+                },
+                {
+                    "date": "2022-12-10",
+                    "description": "Withdrawal",
+                    "amount": 2312.31,
+                    "transaction_id": 106778322
+                },
+                {
+                    "date": "2024-02-11",
+                    "description": "Interest",
+                    "amount": 1705.27,
+                    "transaction_id": 49757813
+                }
+            ]
+        }
+    }
+}

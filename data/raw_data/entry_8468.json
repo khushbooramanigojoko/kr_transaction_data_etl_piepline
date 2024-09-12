@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alexandria Chang",
+        "age": 80,
+        "gender": "female",
+        "address": "8238 Jermaine Pike, Pattersontown, GA 35326",
+        "phone": "546.675.3013x6698",
+        "email": "joel57@example.org",
+        "account": {
+            "account_number": "a99dd02a-892b-444f-b192-e0a08cf5099f",
+            "balance": 19762.68,
+            "transactions": [
+                {
+                    "date": "2022-10-19",
+                    "description": "Withdrawal",
+                    "amount": 16803.97,
+                    "transaction_id": 73548503
+                },
+                {
+                    "date": "2024-03-29",
+                    "description": "Withdrawal",
+                    "amount": 8411.68,
+                    "transaction_id": 102608300
+                },
+                {
+                    "date": "2023-03-07",
+                    "description": "Interest",
+                    "amount": 49772.53,
+                    "transaction_id": 80571402
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Interest",
+                    "amount": 8112.91,
+                    "transaction_id": 50842477
+                }
+            ]
+        }
+    }
+}

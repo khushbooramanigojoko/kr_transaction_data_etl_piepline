@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 89,
+        "gender": "female",
+        "address": "82320 Thompson Trail, Saraland, AK 62148",
+        "phone": "4355859801",
+        "email": "josephbrown@example.org",
+        "account": {
+            "account_number": "6f0f75e2-893f-48d3-9d37-4b4bd84210a8",
+            "balance": 26145.44,
+            "transactions": [
+                {
+                    "date": "2024-02-09",
+                    "description": "Interest",
+                    "amount": 3346.5,
+                    "transaction_id": 100441684
+                },
+                {
+                    "date": "2023-03-14",
+                    "description": "Withdrawal",
+                    "amount": -4653.05,
+                    "transaction_id": 84741840
+                },
+                {
+                    "date": "2023-12-05",
+                    "description": "Deposit",
+                    "amount": 3269.34,
+                    "transaction_id": 94295820
+                }
+            ]
+        }
+    }
+}

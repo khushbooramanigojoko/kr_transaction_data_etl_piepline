@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Hector Wright",
+        "age": 48,
+        "gender": "male",
+        "address": "881 Conner Oval, Michaelville, WA 77664",
+        "phone": "+1-985-269-1594x73511",
+        "email": "elizabeth37@example.org",
+        "account": {
+            "account_number": "9a7a6b72-1feb-499d-842b-4084caac62bb",
+            "balance": 15354.17,
+            "transactions": [
+                {
+                    "date": "2022-10-21",
+                    "description": "Withdrawal",
+                    "amount": 42500.47,
+                    "transaction_id": 100959122
+                },
+                {
+                    "date": "2023-05-03",
+                    "description": "Withdrawal",
+                    "amount": 35105.46,
+                    "transaction_id": 30823207
+                }
+            ]
+        }
+    }
+}

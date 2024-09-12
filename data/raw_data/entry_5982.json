@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Mark Petersen",
+        "age": 85,
+        "gender": "female",
+        "address": "61540 West Terrace, Lake Peterton, FM 79294",
+        "phone": "(403)630-7986x75478",
+        "email": "deborahrivas@example.org",
+        "account": {
+            "account_number": "8d7ce497-f1ee-4634-9fca-6ed8d59c95c2",
+            "balance": 14494.86,
+            "transactions": [
+                {
+                    "date": "2023-10-25",
+                    "description": "Interest",
+                    "amount": 33523.31,
+                    "transaction_id": 2719407
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Deposit",
+                    "amount": 6929.69,
+                    "transaction_id": 23285270
+                },
+                {
+                    "date": "2022-12-19",
+                    "description": "Deposit",
+                    "amount": 41769.91,
+                    "transaction_id": 82420560
+                }
+            ]
+        }
+    }
+}

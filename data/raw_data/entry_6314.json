@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michelle Vance",
+        "age": 25,
+        "gender": "male",
+        "address": "810 Mark Streets, North Susanfurt, KS 73480",
+        "phone": "(374)805-2829x47863",
+        "email": "michael69@example.org",
+        "account": {
+            "account_number": "df2c97dd-0831-4aa6-8dc0-cd2067f9abed",
+            "balance": 7061.18,
+            "transactions": [
+                {
+                    "date": "2024-07-11",
+                    "description": "Withdrawal",
+                    "amount": 36860.25,
+                    "transaction_id": 18771015
+                }
+            ]
+        }
+    }
+}

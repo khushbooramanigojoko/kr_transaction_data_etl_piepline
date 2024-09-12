@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 59,
+        "gender": "male",
+        "address": "0511 Michelle Forest, West Jacob, MT 04081",
+        "phone": "001-478-863-6055x864",
+        "email": "samantha84@example.com",
+        "account": {
+            "account_number": "4f3f98f1-b6ba-4ebd-97b0-60c8c2096e04",
+            "balance": 44911.71,
+            "transactions": [
+                {
+                    "date": "2023-05-28",
+                    "description": "Interest",
+                    "amount": 3921.52,
+                    "transaction_id": 63571283
+                }
+            ]
+        }
+    }
+}

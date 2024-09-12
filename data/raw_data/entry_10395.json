@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jeffrey Williams",
+        "age": 54,
+        "gender": "female",
+        "address": "80263 Carson Extension, North Bruce, AR 46790",
+        "phone": "001-630-410-5027x754",
+        "email": "peterstonya@example.net",
+        "account": {
+            "account_number": "3872b9e2-f474-4450-a413-3d69ec018f5c",
+            "balance": -16888.77,
+            "transactions": [
+                {
+                    "date": "2022-09-08",
+                    "description": "Deposit",
+                    "amount": 4546.17,
+                    "transaction_id": 18911135
+                },
+                {
+                    "date": "2024-05-05",
+                    "description": "Interest",
+                    "amount": -2375.93,
+                    "transaction_id": 102313278
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Withdrawal",
+                    "amount": -2650.47,
+                    "transaction_id": 61492522
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Deposit",
+                    "amount": -3397.76,
+                    "transaction_id": 18985724
+                },
+                {
+                    "date": "2022-12-09",
+                    "description": "Deposit",
+                    "amount": 2640.62,
+                    "transaction_id": 87682504
+                }
+            ]
+        }
+    }
+}

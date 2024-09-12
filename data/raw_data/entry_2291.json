@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Betty Thompson",
+        "age": 57,
+        "gender": "male",
+        "address": "8875 Gallagher Islands Apt. 253, North Stephanieburgh, VI 15473",
+        "phone": "+1-655-805-6716x8669",
+        "email": "inelson@example.net",
+        "account": {
+            "account_number": "f38154a0-a630-483e-95e3-dd93ba16e184",
+            "balance": 42348.67,
+            "transactions": [
+                {
+                    "date": "2023-11-07",
+                    "description": "Interest",
+                    "amount": 31946.25,
+                    "transaction_id": 66704970
+                },
+                {
+                    "date": "2022-11-17",
+                    "description": "Deposit",
+                    "amount": 33101.42,
+                    "transaction_id": 53903967
+                },
+                {
+                    "date": "2023-08-21",
+                    "description": "Withdrawal",
+                    "amount": 48747.16,
+                    "transaction_id": 77764410
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Carla Dickerson",
+        "age": 45,
+        "gender": "male",
+        "address": "4384 Bishop Springs, Lake Samantha, MP 32756",
+        "phone": "925-268-8171x49111",
+        "email": "sharihull@example.org",
+        "account": {
+            "account_number": "bedfa5dc-3c0d-4cd0-8b48-d2226d87d3cf",
+            "balance": 45114.69,
+            "transactions": [
+                {
+                    "date": "2024-05-12",
+                    "description": "Interest",
+                    "amount": 21901.03,
+                    "transaction_id": 18138793
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Deposit",
+                    "amount": 45641.84,
+                    "transaction_id": 46814294
+                }
+            ]
+        }
+    }
+}

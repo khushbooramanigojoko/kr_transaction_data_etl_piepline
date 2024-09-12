@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Brandon Bailey",
+        "age": 21,
+        "gender": "female",
+        "address": "091 Jason Fort, North Erika, DE 00870",
+        "phone": "637-275-3495",
+        "email": "christopherhill@example.com",
+        "account": {
+            "account_number": "0a635e4e-2e99-4b14-abd1-0feaf1914056",
+            "balance": 34073.64,
+            "transactions": [
+                {
+                    "date": "2024-03-25",
+                    "description": "Deposit",
+                    "amount": 15863.99,
+                    "transaction_id": 38126780
+                },
+                {
+                    "date": "2024-03-19",
+                    "description": "Withdrawal",
+                    "amount": 47309.47,
+                    "transaction_id": 65176818
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Withdrawal",
+                    "amount": 12307.86,
+                    "transaction_id": 13495133
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Carla Contreras",
+        "age": 34,
+        "gender": "female",
+        "address": "6097 Paula Parks, North Katherine, IA 60867",
+        "phone": "672.349.7012x314",
+        "email": "jasmine17@example.org",
+        "account": {
+            "account_number": "b7eca565-8af5-4af3-8d46-2cc7c9e6c9b4",
+            "balance": 16318.2,
+            "transactions": [
+                {
+                    "date": "2024-04-21",
+                    "description": "Withdrawal",
+                    "amount": 8838.56,
+                    "transaction_id": 50325655
+                },
+                {
+                    "date": "2023-07-15",
+                    "description": "Interest",
+                    "amount": 9817.69,
+                    "transaction_id": 48999891
+                }
+            ]
+        }
+    }
+}

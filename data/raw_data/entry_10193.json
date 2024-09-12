@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 42,
+        "gender": "male",
+        "address": "8050 Fitzgerald Square, Lake Jenny, MD 03662",
+        "phone": "001-755-550-1112x60979",
+        "email": "omckay@example.net",
+        "account": {
+            "account_number": "74fe7a5b-9a66-4621-90e4-e7505f7e01b6",
+            "balance": 18527.87,
+            "transactions": [
+                {
+                    "date": "2024-02-21",
+                    "description": "Withdrawal",
+                    "amount": 2203.72,
+                    "transaction_id": 112058736
+                }
+            ]
+        }
+    }
+}

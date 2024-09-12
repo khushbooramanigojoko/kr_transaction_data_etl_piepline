@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Susan Wallace",
+        "age": 65,
+        "gender": "female",
+        "address": "5858 Johnson Causeway Apt. 470, Riversburgh, DE 96953",
+        "phone": "(481)860-7752x259",
+        "email": "whitecharles@example.org",
+        "account": {
+            "account_number": "af4806e5-21d3-413d-b70e-86cc90376c44",
+            "balance": 20027.61,
+            "transactions": [
+                {
+                    "date": "2023-06-10",
+                    "description": "Interest",
+                    "amount": 38110.87,
+                    "transaction_id": 74673363
+                },
+                {
+                    "date": "2023-12-06",
+                    "description": "Deposit",
+                    "amount": 49491.62,
+                    "transaction_id": 62751546
+                },
+                {
+                    "date": "2024-04-20",
+                    "description": "Deposit",
+                    "amount": 30316.46,
+                    "transaction_id": 45053804
+                },
+                {
+                    "date": "2022-09-07",
+                    "description": "Deposit",
+                    "amount": 38710.13,
+                    "transaction_id": 82161188
+                },
+                {
+                    "date": "2023-02-13",
+                    "description": "Withdrawal",
+                    "amount": 12325.25,
+                    "transaction_id": 54411009
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mr. Stanley Kane",
+        "age": 79,
+        "gender": "male",
+        "address": "101 Krause Highway Apt. 937, South Alexmouth, NY 02893",
+        "phone": "672-681-6367x78450",
+        "email": "amanda97@example.com",
+        "account": {
+            "account_number": "35aeecdc-6881-499e-99b4-e6f489a44b52",
+            "balance": -26946.43,
+            "transactions": [
+                {
+                    "date": "2023-04-10",
+                    "description": "Deposit",
+                    "amount": 3944.65,
+                    "transaction_id": 95801799
+                }
+            ]
+        }
+    }
+}

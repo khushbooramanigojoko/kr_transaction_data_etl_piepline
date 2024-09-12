@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Emily Jones",
+        "age": 44,
+        "gender": "female",
+        "address": "7612 Kelley Cape, Gutierrezside, WY 22268",
+        "phone": "(698)803-0672",
+        "email": "kathryn77@example.com",
+        "account": {
+            "account_number": "ea1b6be4-1aaa-45de-9868-4bf8f94b05db",
+            "balance": -20295.28,
+            "transactions": [
+                {
+                    "date": "2022-10-09",
+                    "description": "Interest",
+                    "amount": -2353.52,
+                    "transaction_id": 113237874
+                },
+                {
+                    "date": "2022-11-16",
+                    "description": "Withdrawal",
+                    "amount": 3014.89,
+                    "transaction_id": 30857833
+                },
+                {
+                    "date": "2023-02-25",
+                    "description": "Withdrawal",
+                    "amount": -1764.77,
+                    "transaction_id": 103161787
+                },
+                {
+                    "date": "2024-05-27",
+                    "description": "Interest",
+                    "amount": -3725.27,
+                    "transaction_id": 33797026
+                }
+            ]
+        }
+    }
+}

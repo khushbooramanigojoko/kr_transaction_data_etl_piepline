@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Alexis Davis",
+        "age": 32,
+        "gender": "female",
+        "address": "183 Morgan Fork Suite 770, Robleshaven, PW 44145",
+        "phone": "428-891-0724",
+        "email": "kowen@example.net",
+        "account": {
+            "account_number": "533fca18-351f-47b3-851d-94f8e648d47a",
+            "balance": 34683.85,
+            "transactions": [
+                {
+                    "date": "2024-08-20",
+                    "description": "Withdrawal",
+                    "amount": 33182.69,
+                    "transaction_id": 20568269
+                },
+                {
+                    "date": "2023-03-24",
+                    "description": "Withdrawal",
+                    "amount": 20698.25,
+                    "transaction_id": 6935841
+                }
+            ]
+        }
+    }
+}

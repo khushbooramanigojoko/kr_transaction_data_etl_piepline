@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Stacey Moore",
+        "age": 86,
+        "gender": "female",
+        "address": "0845 Tamara Walk Apt. 656, Traviston, PR 33656",
+        "phone": "740.214.3250x851",
+        "email": "porterelizabeth@example.org",
+        "account": {
+            "account_number": "57967dab-4e63-4e30-bbf1-580b497754be",
+            "balance": -11113.14,
+            "transactions": [
+                {
+                    "date": "2023-05-18",
+                    "description": "Withdrawal",
+                    "amount": -49.91,
+                    "transaction_id": 38592816
+                }
+            ]
+        }
+    }
+}

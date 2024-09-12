@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Angela Wilson",
+        "age": 84,
+        "gender": "male",
+        "address": "518 Audrey Meadows, Lake Johnchester, MN 08301",
+        "phone": "538.924.4759",
+        "email": "rjackson@example.org",
+        "account": {
+            "account_number": "c34980b7-b281-439f-b29a-8c94b68bfff2",
+            "balance": 3276.19,
+            "transactions": [
+                {
+                    "date": "2024-02-02",
+                    "description": "Withdrawal",
+                    "amount": 40109.19,
+                    "transaction_id": 8116650
+                },
+                {
+                    "date": "2023-12-18",
+                    "description": "Withdrawal",
+                    "amount": 16287.82,
+                    "transaction_id": 50257479
+                }
+            ]
+        }
+    }
+}

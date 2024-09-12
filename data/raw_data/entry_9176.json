@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 97,
+        "gender": "female",
+        "address": "Unit 5788 Box 3852, DPO AP 80263",
+        "phone": "332.484.7918",
+        "email": "tracyperez@example.com",
+        "account": {
+            "account_number": "f665812f-855f-4381-83f0-04c40efbab00",
+            "balance": 49289.62,
+            "transactions": [
+                {
+                    "date": "2024-05-01",
+                    "description": "Deposit",
+                    "amount": -4812.32,
+                    "transaction_id": 116844933
+                },
+                {
+                    "date": "2024-04-04",
+                    "description": "Deposit",
+                    "amount": -882.59,
+                    "transaction_id": 61284962
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Deposit",
+                    "amount": 2546.43,
+                    "transaction_id": 21767995
+                }
+            ]
+        }
+    }
+}

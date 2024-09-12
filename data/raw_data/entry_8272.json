@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Amanda Fry",
+        "age": 62,
+        "gender": "female",
+        "address": "Unit 5396 Box 5793, DPO AP 34929",
+        "phone": "001-505-978-5376x2057",
+        "email": "palexander@example.com",
+        "account": {
+            "account_number": "30a57690-b4ff-4ae1-95e4-6d8288154f09",
+            "balance": 6041.77,
+            "transactions": [
+                {
+                    "date": "2024-06-10",
+                    "description": "Deposit",
+                    "amount": 3772.67,
+                    "transaction_id": 8083163
+                },
+                {
+                    "date": "2024-08-25",
+                    "description": "Interest",
+                    "amount": 23400.91,
+                    "transaction_id": 94679239
+                },
+                {
+                    "date": "2022-12-07",
+                    "description": "Deposit",
+                    "amount": 48256.85,
+                    "transaction_id": 68774285
+                },
+                {
+                    "date": "2022-09-29",
+                    "description": "Deposit",
+                    "amount": 25088.19,
+                    "transaction_id": 98998869
+                }
+            ]
+        }
+    }
+}

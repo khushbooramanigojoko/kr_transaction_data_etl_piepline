@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 61,
+        "gender": "female",
+        "address": "74279 Glover Loaf Suite 870, Lake Debraland, WY 83948",
+        "phone": "001-528-880-2801x16813",
+        "email": "jillgallegos@example.net",
+        "account": {
+            "account_number": "aecffef9-4b0e-4b44-a1ba-adc19493ad56",
+            "balance": 26921.92,
+            "transactions": [
+                {
+                    "date": "2024-04-03",
+                    "description": "Deposit",
+                    "amount": -1012.87,
+                    "transaction_id": 105042374
+                },
+                {
+                    "date": "2023-03-27",
+                    "description": "Interest",
+                    "amount": -2876.86,
+                    "transaction_id": 67156845
+                }
+            ]
+        }
+    }
+}

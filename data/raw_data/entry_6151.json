@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sherri Hayes",
+        "age": 25,
+        "gender": "female",
+        "address": "PSC 4174, Box 6218, APO AP 96785",
+        "phone": "725-658-1262",
+        "email": "leslie59@example.com",
+        "account": {
+            "account_number": "6ffc7733-4365-47f5-a0cf-f9eea23670fe",
+            "balance": 20211.45,
+            "transactions": [
+                {
+                    "date": "2022-11-21",
+                    "description": "Interest",
+                    "amount": 18758.19,
+                    "transaction_id": 101612195
+                },
+                {
+                    "date": "2022-12-05",
+                    "description": "Interest",
+                    "amount": 32040.07,
+                    "transaction_id": 96156021
+                }
+            ]
+        }
+    }
+}

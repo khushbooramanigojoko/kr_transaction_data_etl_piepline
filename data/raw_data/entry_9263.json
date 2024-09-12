@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Juarez",
+        "age": 35,
+        "gender": "female",
+        "address": "43249 Lindsey Passage, North Scottstad, AZ 62385",
+        "phone": "+1-910-547-7236x56550",
+        "email": "samantha07@example.net",
+        "account": {
+            "account_number": "b55d2037-63cf-46a1-8adb-18ccb1e2c23a",
+            "balance": -3104.24,
+            "transactions": [
+                {
+                    "date": "2024-03-26",
+                    "description": "Interest",
+                    "amount": -1242.69,
+                    "transaction_id": 57392507
+                }
+            ]
+        }
+    }
+}

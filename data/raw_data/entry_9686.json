@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 21,
+        "gender": "female",
+        "address": "97652 Emily Lake Apt. 788, East John, AK 67642",
+        "phone": "895.508.3399",
+        "email": "emontgomery@example.com",
+        "account": {
+            "account_number": "9f5eb57f-9013-441a-a485-a7dfe313eb6c",
+            "balance": 18263.4,
+            "transactions": [
+                {
+                    "date": "2022-11-03",
+                    "description": "Withdrawal",
+                    "amount": -2905.19,
+                    "transaction_id": 19556963
+                }
+            ]
+        }
+    }
+}

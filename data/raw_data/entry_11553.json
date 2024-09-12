@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sherry Gibbs",
+        "age": 64,
+        "gender": "male",
+        "address": "482 Jennifer Overpass, Brendanview, CA 91448",
+        "phone": "(919)823-1047x42243",
+        "email": "levictoria@example.com",
+        "account": {
+            "account_number": "3d77a440-85b5-449a-adde-b055c036e2cf",
+            "balance": -25802.0,
+            "transactions": [
+                {
+                    "date": "2023-06-05",
+                    "description": "Interest",
+                    "amount": -3312.65,
+                    "transaction_id": 95633064
+                }
+            ]
+        }
+    }
+}

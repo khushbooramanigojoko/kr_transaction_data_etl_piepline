@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 51,
+        "gender": "male",
+        "address": "60775 Castillo Course Apt. 448, South Christopher, IA 78768",
+        "phone": "001-622-449-3461",
+        "email": "biancadavis@example.org",
+        "account": {
+            "account_number": "cf51ee3b-8f48-4161-851e-c4d9bcfb25b9",
+            "balance": 3964.99,
+            "transactions": [
+                {
+                    "date": "2023-01-12",
+                    "description": "Withdrawal",
+                    "amount": -3163.38,
+                    "transaction_id": 82471651
+                }
+            ]
+        }
+    }
+}

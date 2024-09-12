@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Donald Thomas",
+        "age": 22,
+        "gender": "female",
+        "address": "98817 Chris View, Lake Anthonyton, MO 59267",
+        "phone": "463.435.0102x08851",
+        "email": "anapierce@example.org",
+        "account": {
+            "account_number": "ef3e9d59-010e-4da5-8cfd-505e7abc4fb6",
+            "balance": -23792.92,
+            "transactions": [
+                {
+                    "date": "2023-10-28",
+                    "description": "Interest",
+                    "amount": -4200.58,
+                    "transaction_id": 94342280
+                }
+            ]
+        }
+    }
+}

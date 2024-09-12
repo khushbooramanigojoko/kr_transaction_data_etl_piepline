@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Edward Wolf",
+        "age": 21,
+        "gender": "male",
+        "address": "603 Bryan Manors, Jenniferview, WV 91606",
+        "phone": "+1-501-882-9751x914",
+        "email": "thomasmark@example.org",
+        "account": {
+            "account_number": "168085d2-4b18-437d-842c-692168decf79",
+            "balance": 14552.33,
+            "transactions": [
+                {
+                    "date": "2023-01-25",
+                    "description": "Withdrawal",
+                    "amount": 33588.63,
+                    "transaction_id": 119730269
+                }
+            ]
+        }
+    }
+}

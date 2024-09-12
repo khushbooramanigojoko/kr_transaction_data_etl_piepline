@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mason Gordon",
+        "age": 29,
+        "gender": "male",
+        "address": "39516 Ronald Trace, East Ashleychester, IL 97687",
+        "phone": "+1-972-702-5799x808",
+        "email": "parrishjorge@example.com",
+        "account": {
+            "account_number": "04fb3c9a-0b73-48cd-badd-ce34b74003cb",
+            "balance": 14761.84,
+            "transactions": [
+                {
+                    "date": "2022-10-03",
+                    "description": "Withdrawal",
+                    "amount": 24725.32,
+                    "transaction_id": 58525397
+                }
+            ]
+        }
+    }
+}

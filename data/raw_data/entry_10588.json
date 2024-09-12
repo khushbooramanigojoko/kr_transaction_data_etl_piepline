@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Susan Lewis",
+        "age": 30,
+        "gender": "female",
+        "address": "802 Knox Green, East Matthewburgh, DC 46748",
+        "phone": "994.829.5367x876",
+        "email": "khicks@example.net",
+        "account": {
+            "account_number": "2ddce6ed-9454-49d3-894c-eaaa20aec22d",
+            "balance": -32960.64,
+            "transactions": [
+                {
+                    "date": "2024-01-24",
+                    "description": "Deposit",
+                    "amount": 4909.06,
+                    "transaction_id": 63803777
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Interest",
+                    "amount": -4711.84,
+                    "transaction_id": 42336056
+                }
+            ]
+        }
+    }
+}

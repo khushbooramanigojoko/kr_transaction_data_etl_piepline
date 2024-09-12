@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Carr",
+        "age": 92,
+        "gender": "male",
+        "address": "6295 Christina Cliffs, Murrayberg, AL 45212",
+        "phone": "(616)774-8953",
+        "email": "ljacobs@example.com",
+        "account": {
+            "account_number": "acd7c0c3-f378-4c98-b6b6-be68ca7ee7c8",
+            "balance": 48797.84,
+            "transactions": [
+                {
+                    "date": "2023-04-02",
+                    "description": "Interest",
+                    "amount": 26150.52,
+                    "transaction_id": 111494755
+                },
+                {
+                    "date": "2024-07-26",
+                    "description": "Deposit",
+                    "amount": 911.15,
+                    "transaction_id": 110308588
+                }
+            ]
+        }
+    }
+}

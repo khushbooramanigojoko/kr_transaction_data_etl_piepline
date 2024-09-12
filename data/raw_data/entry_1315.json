@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mark Young",
+        "age": 75,
+        "gender": "female",
+        "address": "9579 Gray Glen, Anthonyberg, FL 58716",
+        "phone": "+1-511-715-4110x6244",
+        "email": "charlesmccoy@example.org",
+        "account": {
+            "account_number": "6d213f88-4502-4add-b4ce-d157fc90b858",
+            "balance": 30024.86,
+            "transactions": [
+                {
+                    "date": "2022-11-22",
+                    "description": "Interest",
+                    "amount": 45365.95,
+                    "transaction_id": 24686989
+                },
+                {
+                    "date": "2024-06-22",
+                    "description": "Interest",
+                    "amount": 1164.5,
+                    "transaction_id": 43443768
+                },
+                {
+                    "date": "2023-08-13",
+                    "description": "Deposit",
+                    "amount": 44133.61,
+                    "transaction_id": 80314218
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Interest",
+                    "amount": 11910.12,
+                    "transaction_id": 80250949
+                },
+                {
+                    "date": "2024-02-05",
+                    "description": "Withdrawal",
+                    "amount": 8585.55,
+                    "transaction_id": 90633178
+                }
+            ]
+        }
+    }
+}

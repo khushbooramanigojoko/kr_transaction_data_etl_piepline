@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Melissa Caldwell",
+        "age": 22,
+        "gender": "female",
+        "address": "84522 Barbara Cliff Apt. 335, Chandlerbury, FM 83810",
+        "phone": "+1-239-583-8040",
+        "email": "baileyjohn@example.com",
+        "account": {
+            "account_number": "72138188-b946-4030-848d-4ffdac283e42",
+            "balance": 29498.95,
+            "transactions": [
+                {
+                    "date": "2024-01-17",
+                    "description": "Interest",
+                    "amount": 5797.26,
+                    "transaction_id": 44082087
+                },
+                {
+                    "date": "2024-08-20",
+                    "description": "Withdrawal",
+                    "amount": 42572.7,
+                    "transaction_id": 69546270
+                }
+            ]
+        }
+    }
+}

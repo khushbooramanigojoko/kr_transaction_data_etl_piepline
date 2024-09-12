@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ryan Santos",
+        "age": 28,
+        "gender": "female",
+        "address": "259 Meyer Court, Gutierrezland, FM 13970",
+        "phone": "+1-287-525-9078x0225",
+        "email": "nelsonnicole@example.com",
+        "account": {
+            "account_number": "ff67aa34-cb41-4ba4-8d3e-96ed6ef080de",
+            "balance": 40861.2,
+            "transactions": [
+                {
+                    "date": "2023-07-24",
+                    "description": "Deposit",
+                    "amount": 9595.85,
+                    "transaction_id": 80419763
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Deposit",
+                    "amount": 48021.88,
+                    "transaction_id": 16643832
+                },
+                {
+                    "date": "2022-11-09",
+                    "description": "Interest",
+                    "amount": 46366.6,
+                    "transaction_id": 85652414
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Withdrawal",
+                    "amount": 13149.83,
+                    "transaction_id": 41828952
+                },
+                {
+                    "date": "2023-04-23",
+                    "description": "Withdrawal",
+                    "amount": 6957.88,
+                    "transaction_id": 60788182
+                }
+            ]
+        }
+    }
+}

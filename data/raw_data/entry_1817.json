@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sara Greene",
+        "age": 23,
+        "gender": "female",
+        "address": "326 Madison Pines Suite 203, Port Heidi, NE 89348",
+        "phone": "(899)268-8369",
+        "email": "johnhebert@example.net",
+        "account": {
+            "account_number": "cd734ac8-7645-45e8-8e75-2816098f8c9a",
+            "balance": 17724.85,
+            "transactions": [
+                {
+                    "date": "2023-10-13",
+                    "description": "Deposit",
+                    "amount": 7587.93,
+                    "transaction_id": 88965681
+                },
+                {
+                    "date": "2022-12-18",
+                    "description": "Deposit",
+                    "amount": 5207.53,
+                    "transaction_id": 76189900
+                },
+                {
+                    "date": "2023-09-08",
+                    "description": "Deposit",
+                    "amount": 35707.03,
+                    "transaction_id": 86503611
+                },
+                {
+                    "date": "2024-01-10",
+                    "description": "Deposit",
+                    "amount": 15759.0,
+                    "transaction_id": 109123900
+                }
+            ]
+        }
+    }
+}

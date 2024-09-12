@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Nina Hall",
+        "age": 78,
+        "gender": "male",
+        "address": "69970 Nicole Plains, Laurastad, ND 86441",
+        "phone": "744.703.0609",
+        "email": "randallclaire@example.com",
+        "account": {
+            "account_number": "392c3578-988f-4c0c-8001-da810eec84a0",
+            "balance": 14007.58,
+            "transactions": [
+                {
+                    "date": "2024-02-19",
+                    "description": "Withdrawal",
+                    "amount": 12200.66,
+                    "transaction_id": 41566893
+                },
+                {
+                    "date": "2023-11-21",
+                    "description": "Deposit",
+                    "amount": 22716.22,
+                    "transaction_id": 7511477
+                },
+                {
+                    "date": "2024-02-10",
+                    "description": "Interest",
+                    "amount": 49579.33,
+                    "transaction_id": 63467945
+                },
+                {
+                    "date": "2023-06-18",
+                    "description": "Deposit",
+                    "amount": 24305.0,
+                    "transaction_id": 75816144
+                }
+            ]
+        }
+    }
+}

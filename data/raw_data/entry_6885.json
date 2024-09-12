@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "William Bartlett",
+        "age": 41,
+        "gender": "male",
+        "address": "1694 Donald Estate, Spencerfurt, PR 55798",
+        "phone": "+1-423-457-8030x0601",
+        "email": "alexrobinson@example.net",
+        "account": {
+            "account_number": "b5882b32-3957-4314-a205-800e8b6c20bb",
+            "balance": 14891.69,
+            "transactions": [
+                {
+                    "date": "2023-01-12",
+                    "description": "Deposit",
+                    "amount": 22726.25,
+                    "transaction_id": 31106051
+                },
+                {
+                    "date": "2023-06-20",
+                    "description": "Withdrawal",
+                    "amount": 39755.06,
+                    "transaction_id": 63768777
+                },
+                {
+                    "date": "2024-07-04",
+                    "description": "Interest",
+                    "amount": 3580.24,
+                    "transaction_id": 37778636
+                },
+                {
+                    "date": "2023-08-25",
+                    "description": "Interest",
+                    "amount": 49455.28,
+                    "transaction_id": 19434956
+                }
+            ]
+        }
+    }
+}

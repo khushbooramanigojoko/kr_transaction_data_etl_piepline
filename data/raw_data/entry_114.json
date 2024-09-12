@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Jennifer Stephens",
+        "age": 70,
+        "gender": "male",
+        "address": "50650 Lee Branch, Port Michaelbury, MO 09235",
+        "phone": "+1-789-768-6906x33632",
+        "email": "deborahscott@example.org",
+        "account": {
+            "account_number": "88214e5c-5b16-4d02-b656-9b4f30fca88b",
+            "balance": 16567.57,
+            "transactions": [
+                {
+                    "date": "2022-09-05",
+                    "description": "Deposit",
+                    "amount": 22088.94,
+                    "transaction_id": 69985838
+                },
+                {
+                    "date": "2022-12-21",
+                    "description": "Deposit",
+                    "amount": 35983.94,
+                    "transaction_id": 115812183
+                },
+                {
+                    "date": "2023-08-22",
+                    "description": "Deposit",
+                    "amount": 1154.29,
+                    "transaction_id": 40066589
+                }
+            ]
+        }
+    }
+}

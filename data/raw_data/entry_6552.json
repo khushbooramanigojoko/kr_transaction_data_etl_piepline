@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Thomas Davila",
+        "age": 35,
+        "gender": "female",
+        "address": "4829 Myers Isle Suite 674, Crystalburgh, TN 31418",
+        "phone": "+1-574-972-0549x8328",
+        "email": "charleslee@example.net",
+        "account": {
+            "account_number": "bb577c54-eae7-4ed7-9579-8f5938147c13",
+            "balance": 16445.23,
+            "transactions": [
+                {
+                    "date": "2024-01-29",
+                    "description": "Deposit",
+                    "amount": 32060.09,
+                    "transaction_id": 80003918
+                },
+                {
+                    "date": "2024-02-07",
+                    "description": "Deposit",
+                    "amount": 16988.0,
+                    "transaction_id": 40853932
+                }
+            ]
+        }
+    }
+}

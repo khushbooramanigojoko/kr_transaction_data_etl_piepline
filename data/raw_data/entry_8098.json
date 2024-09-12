@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "John Parker",
+        "age": 70,
+        "gender": "female",
+        "address": "17547 Alexandra Mount, Riverashire, LA 26098",
+        "phone": "001-211-336-0574",
+        "email": "kathleen40@example.net",
+        "account": {
+            "account_number": "46a816dc-2b9b-47d7-b429-f5f0b88a9013",
+            "balance": 23206.99,
+            "transactions": [
+                {
+                    "date": "2024-06-16",
+                    "description": "Deposit",
+                    "amount": 32709.92,
+                    "transaction_id": 58038562
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Deposit",
+                    "amount": 45295.35,
+                    "transaction_id": 97199047
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Deposit",
+                    "amount": 33748.87,
+                    "transaction_id": 82422421
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Deposit",
+                    "amount": 45524.39,
+                    "transaction_id": 51492940
+                }
+            ]
+        }
+    }
+}

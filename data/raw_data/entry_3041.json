@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Sanders",
+        "age": 52,
+        "gender": "male",
+        "address": "1850 Krystal Street Apt. 441, Haaschester, MN 51067",
+        "phone": "(710)849-5333",
+        "email": "erika92@example.net",
+        "account": {
+            "account_number": "52d98b09-1294-450b-970f-e129aa940dee",
+            "balance": 6687.64,
+            "transactions": [
+                {
+                    "date": "2023-11-26",
+                    "description": "Withdrawal",
+                    "amount": 11632.59,
+                    "transaction_id": 59982759
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Withdrawal",
+                    "amount": 303.9,
+                    "transaction_id": 49698302
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Interest",
+                    "amount": 21172.66,
+                    "transaction_id": 61318937
+                },
+                {
+                    "date": "2024-07-29",
+                    "description": "Withdrawal",
+                    "amount": 29030.53,
+                    "transaction_id": 101135828
+                },
+                {
+                    "date": "2024-02-03",
+                    "description": "Withdrawal",
+                    "amount": 32646.78,
+                    "transaction_id": 115169025
+                }
+            ]
+        }
+    }
+}

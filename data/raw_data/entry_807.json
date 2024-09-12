@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jack Garcia",
+        "age": 62,
+        "gender": "male",
+        "address": "436 Garrett Mills Apt. 732, New Julie, KY 49777",
+        "phone": "493.565.9125x45768",
+        "email": "christopherwalker@example.com",
+        "account": {
+            "account_number": "d21eb786-4cb8-4d3f-88c6-4eefe32a1dc2",
+            "balance": 27028.02,
+            "transactions": [
+                {
+                    "date": "2022-09-18",
+                    "description": "Deposit",
+                    "amount": 10812.67,
+                    "transaction_id": 93094495
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Deposit",
+                    "amount": 13700.03,
+                    "transaction_id": 50591716
+                },
+                {
+                    "date": "2024-05-05",
+                    "description": "Interest",
+                    "amount": 19570.39,
+                    "transaction_id": 45515309
+                },
+                {
+                    "date": "2024-06-13",
+                    "description": "Interest",
+                    "amount": 32949.21,
+                    "transaction_id": 119758780
+                },
+                {
+                    "date": "2023-05-18",
+                    "description": "Withdrawal",
+                    "amount": 9630.6,
+                    "transaction_id": 37336544
+                }
+            ]
+        }
+    }
+}

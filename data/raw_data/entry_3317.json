@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Michael York",
+        "age": 35,
+        "gender": "male",
+        "address": "5776 Stanton Turnpike, East Neilfurt, NC 15468",
+        "phone": "001-466-230-5747x1054",
+        "email": "destiny06@example.com",
+        "account": {
+            "account_number": "69fcc711-19d7-441b-aea7-03e5c17a83af",
+            "balance": 1165.49,
+            "transactions": [
+                {
+                    "date": "2023-11-25",
+                    "description": "Withdrawal",
+                    "amount": 17920.69,
+                    "transaction_id": 20623482
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Withdrawal",
+                    "amount": 39467.65,
+                    "transaction_id": 96615341
+                },
+                {
+                    "date": "2024-02-19",
+                    "description": "Deposit",
+                    "amount": 30745.24,
+                    "transaction_id": 54950915
+                }
+            ]
+        }
+    }
+}

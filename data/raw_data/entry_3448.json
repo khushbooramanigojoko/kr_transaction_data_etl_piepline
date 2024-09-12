@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Suzanne Patterson",
+        "age": 89,
+        "gender": "male",
+        "address": "2274 Reynolds Unions, West Sarahview, IL 16156",
+        "phone": "707.297.3566",
+        "email": "kevinjacobs@example.net",
+        "account": {
+            "account_number": "71b8d3dd-e6a3-4a35-92d3-96e70e348518",
+            "balance": 48081.18,
+            "transactions": [
+                {
+                    "date": "2023-08-13",
+                    "description": "Deposit",
+                    "amount": 31262.06,
+                    "transaction_id": 14997225
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Interest",
+                    "amount": 597.96,
+                    "transaction_id": 20301612
+                },
+                {
+                    "date": "2023-03-11",
+                    "description": "Withdrawal",
+                    "amount": 44064.87,
+                    "transaction_id": 67993730
+                }
+            ]
+        }
+    }
+}

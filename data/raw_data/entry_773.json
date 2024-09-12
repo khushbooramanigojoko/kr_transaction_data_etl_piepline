@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Richard Thomas",
+        "age": 42,
+        "gender": "female",
+        "address": "89917 Vincent Inlet Apt. 141, Port Nicholas, WI 49811",
+        "phone": "(929)779-7006x7919",
+        "email": "angela98@example.net",
+        "account": {
+            "account_number": "f4b4d3e3-971b-4279-8bac-ce0faba374e2",
+            "balance": 34923.54,
+            "transactions": [
+                {
+                    "date": "2024-07-03",
+                    "description": "Interest",
+                    "amount": 7399.93,
+                    "transaction_id": 23079206
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Withdrawal",
+                    "amount": 10873.59,
+                    "transaction_id": 7142951
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Interest",
+                    "amount": 15565.32,
+                    "transaction_id": 42605510
+                },
+                {
+                    "date": "2023-10-27",
+                    "description": "Interest",
+                    "amount": 46911.68,
+                    "transaction_id": 93512558
+                },
+                {
+                    "date": "2023-07-12",
+                    "description": "Withdrawal",
+                    "amount": 26161.3,
+                    "transaction_id": 45925974
+                }
+            ]
+        }
+    }
+}

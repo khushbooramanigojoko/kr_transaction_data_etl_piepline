@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Boone",
+        "age": 86,
+        "gender": "female",
+        "address": "921 Garcia Knolls Apt. 651, Lindsaymouth, SD 27924",
+        "phone": "+1-285-600-6648",
+        "email": "vhenry@example.net",
+        "account": {
+            "account_number": "68d20d2f-439f-426e-afbc-28c93602075e",
+            "balance": 37481.74,
+            "transactions": [
+                {
+                    "date": "2024-03-29",
+                    "description": "Withdrawal",
+                    "amount": 49747.52,
+                    "transaction_id": 9288373
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Deposit",
+                    "amount": 12418.97,
+                    "transaction_id": 36522895
+                },
+                {
+                    "date": "2024-01-02",
+                    "description": "Interest",
+                    "amount": 45110.92,
+                    "transaction_id": 17846315
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Deposit",
+                    "amount": 45523.24,
+                    "transaction_id": 55159803
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Withdrawal",
+                    "amount": 7555.99,
+                    "transaction_id": 11502765
+                }
+            ]
+        }
+    }
+}

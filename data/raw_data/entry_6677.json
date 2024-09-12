@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Rachel Wilkinson",
+        "age": 78,
+        "gender": "female",
+        "address": "42375 Paul Square, Michelleburgh, FM 12910",
+        "phone": "536-365-6397",
+        "email": "kathleenbush@example.com",
+        "account": {
+            "account_number": "28cfcbab-3c39-499f-8fd0-c55a8e9c0bc0",
+            "balance": 1694.17,
+            "transactions": [
+                {
+                    "date": "2022-09-24",
+                    "description": "Deposit",
+                    "amount": 25152.98,
+                    "transaction_id": 6315667
+                },
+                {
+                    "date": "2023-01-02",
+                    "description": "Interest",
+                    "amount": 46162.29,
+                    "transaction_id": 107556212
+                },
+                {
+                    "date": "2024-01-25",
+                    "description": "Deposit",
+                    "amount": 30814.29,
+                    "transaction_id": 57156848
+                },
+                {
+                    "date": "2024-08-06",
+                    "description": "Withdrawal",
+                    "amount": 42596.6,
+                    "transaction_id": 73574712
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Withdrawal",
+                    "amount": 19465.16,
+                    "transaction_id": 7526331
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Lori Mcdaniel",
+        "age": 32,
+        "gender": "female",
+        "address": "1688 Perez Harbors Apt. 003, Tonyhaven, TN 69606",
+        "phone": "001-850-945-4181x4344",
+        "email": "charles48@example.org",
+        "account": {
+            "account_number": "3723f329-4479-45e3-9fa0-a44399baea35",
+            "balance": 26595.61,
+            "transactions": [
+                {
+                    "date": "2023-06-15",
+                    "description": "Deposit",
+                    "amount": 11128.11,
+                    "transaction_id": 69753307
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Deposit",
+                    "amount": 25744.9,
+                    "transaction_id": 57335882
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Interest",
+                    "amount": 24453.49,
+                    "transaction_id": 19844644
+                }
+            ]
+        }
+    }
+}

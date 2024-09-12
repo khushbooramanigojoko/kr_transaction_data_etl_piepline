@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jessica Anderson",
+        "age": 40,
+        "gender": "female",
+        "address": "70855 Johnson Ridges Suite 054, Careyport, TN 20747",
+        "phone": "(467)201-4331x24572",
+        "email": "whitejames@example.net",
+        "account": {
+            "account_number": "2ca2103f-7205-46d1-8a7d-9ddb685eb02c",
+            "balance": -10226.6,
+            "transactions": [
+                {
+                    "date": "2024-03-08",
+                    "description": "Withdrawal",
+                    "amount": 2961.87,
+                    "transaction_id": 14098341
+                },
+                {
+                    "date": "2024-01-22",
+                    "description": "Interest",
+                    "amount": 4163.73,
+                    "transaction_id": 62245241
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Interest",
+                    "amount": -2120.2,
+                    "transaction_id": 55551304
+                },
+                {
+                    "date": "2024-03-24",
+                    "description": "Withdrawal",
+                    "amount": -2801.97,
+                    "transaction_id": 74277727
+                },
+                {
+                    "date": "2023-06-18",
+                    "description": "Deposit",
+                    "amount": 792.44,
+                    "transaction_id": 23641378
+                }
+            ]
+        }
+    }
+}

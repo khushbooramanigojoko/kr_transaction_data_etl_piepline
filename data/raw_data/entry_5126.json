@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jonathon Mcdonald",
+        "age": 39,
+        "gender": "female",
+        "address": "104 Tammy Land Apt. 916, East John, NE 86107",
+        "phone": "(993)584-8799",
+        "email": "shannonprice@example.org",
+        "account": {
+            "account_number": "9956837c-e937-40e9-8bad-f22c90b0ed74",
+            "balance": 33359.68,
+            "transactions": [
+                {
+                    "date": "2024-06-20",
+                    "description": "Withdrawal",
+                    "amount": 43866.24,
+                    "transaction_id": 25286121
+                },
+                {
+                    "date": "2023-03-03",
+                    "description": "Deposit",
+                    "amount": 36586.71,
+                    "transaction_id": 16648482
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Interest",
+                    "amount": 12064.14,
+                    "transaction_id": 109330625
+                },
+                {
+                    "date": "2024-07-07",
+                    "description": "Withdrawal",
+                    "amount": 20362.72,
+                    "transaction_id": 76197536
+                }
+            ]
+        }
+    }
+}

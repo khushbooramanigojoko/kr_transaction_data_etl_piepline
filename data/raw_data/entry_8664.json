@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jonathan Mata",
+        "age": 73,
+        "gender": "male",
+        "address": "09862 Erica Walk, Justinshire, NC 52910",
+        "phone": "001-567-982-9765x067",
+        "email": "urussell@example.com",
+        "account": {
+            "account_number": "979579f1-c6bf-4eca-bf6e-df57fc340e73",
+            "balance": 33078.0,
+            "transactions": [
+                {
+                    "date": "2023-03-31",
+                    "description": "Deposit",
+                    "amount": 27688.98,
+                    "transaction_id": 113498106
+                },
+                {
+                    "date": "2022-10-08",
+                    "description": "Interest",
+                    "amount": 21890.37,
+                    "transaction_id": 53854544
+                },
+                {
+                    "date": "2023-06-29",
+                    "description": "Deposit",
+                    "amount": 16974.52,
+                    "transaction_id": 112517856
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Deposit",
+                    "amount": 15778.08,
+                    "transaction_id": 20129000
+                }
+            ]
+        }
+    }
+}

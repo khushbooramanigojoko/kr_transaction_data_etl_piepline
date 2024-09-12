@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ashley Smith",
+        "age": 59,
+        "gender": "male",
+        "address": "23063 Megan Place Suite 501, Collierview, VT 65630",
+        "phone": "(752)441-1953",
+        "email": "wjones@example.org",
+        "account": {
+            "account_number": "062ec5ea-4d85-459b-96e5-d5b1fbd49b78",
+            "balance": 7426.54,
+            "transactions": [
+                {
+                    "date": "2024-05-28",
+                    "description": "Withdrawal",
+                    "amount": 26015.55,
+                    "transaction_id": 18495088
+                },
+                {
+                    "date": "2024-08-17",
+                    "description": "Interest",
+                    "amount": 13048.1,
+                    "transaction_id": 91598413
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Interest",
+                    "amount": 41418.16,
+                    "transaction_id": 78959013
+                }
+            ]
+        }
+    }
+}

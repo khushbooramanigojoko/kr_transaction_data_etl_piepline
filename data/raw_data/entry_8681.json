@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brenda Velez",
+        "age": 47,
+        "gender": "male",
+        "address": "661 Gary Ranch Apt. 841, Johnmouth, SC 70871",
+        "phone": "494-899-6693x1506",
+        "email": "samuel06@example.org",
+        "account": {
+            "account_number": "42c65e63-bf85-4939-becb-39b57c7678db",
+            "balance": 37251.73,
+            "transactions": [
+                {
+                    "date": "2024-03-26",
+                    "description": "Deposit",
+                    "amount": 1220.35,
+                    "transaction_id": 66709315
+                },
+                {
+                    "date": "2024-02-18",
+                    "description": "Interest",
+                    "amount": 7271.42,
+                    "transaction_id": 3961359
+                },
+                {
+                    "date": "2024-02-06",
+                    "description": "Deposit",
+                    "amount": 48292.3,
+                    "transaction_id": 37983700
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Deposit",
+                    "amount": 2781.07,
+                    "transaction_id": 50987045
+                }
+            ]
+        }
+    }
+}

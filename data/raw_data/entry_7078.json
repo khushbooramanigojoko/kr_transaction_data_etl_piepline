@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Christopher Singh",
+        "age": 72,
+        "gender": "female",
+        "address": "101 Sandra Ridges, Loriport, OH 08470",
+        "phone": "+1-224-434-2213",
+        "email": "amy49@example.com",
+        "account": {
+            "account_number": "b946827e-1631-4fcd-a6bf-c2d3077663a9",
+            "balance": 43869.68,
+            "transactions": [
+                {
+                    "date": "2022-10-18",
+                    "description": "Deposit",
+                    "amount": 33842.57,
+                    "transaction_id": 24127303
+                }
+            ]
+        }
+    }
+}

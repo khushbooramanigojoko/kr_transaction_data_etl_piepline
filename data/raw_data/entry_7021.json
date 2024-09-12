@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Thomas Harris",
+        "age": 37,
+        "gender": "male",
+        "address": "64146 Steven Streets, Thomasborough, VA 09809",
+        "phone": "+1-359-740-6588",
+        "email": "gregory51@example.net",
+        "account": {
+            "account_number": "cd1be3fe-2bdd-48f6-9284-67c0eceff56f",
+            "balance": 42247.94,
+            "transactions": [
+                {
+                    "date": "2024-08-16",
+                    "description": "Withdrawal",
+                    "amount": 48829.18,
+                    "transaction_id": 4893165
+                },
+                {
+                    "date": "2024-04-27",
+                    "description": "Interest",
+                    "amount": 16019.98,
+                    "transaction_id": 114335096
+                }
+            ]
+        }
+    }
+}

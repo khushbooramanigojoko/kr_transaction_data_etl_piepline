@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Marc Aguilar",
+        "age": 82,
+        "gender": "female",
+        "address": "0825 Maldonado Ranch, Sharonshire, UT 68623",
+        "phone": "(355)681-0611",
+        "email": "virginiayoung@example.net",
+        "account": {
+            "account_number": "a51cd5d6-7a10-41aa-bff9-4bccbed155cd",
+            "balance": 14234.05,
+            "transactions": [
+                {
+                    "date": "2023-08-27",
+                    "description": "Deposit",
+                    "amount": 48869.62,
+                    "transaction_id": 16215099
+                },
+                {
+                    "date": "2022-09-24",
+                    "description": "Withdrawal",
+                    "amount": 8345.15,
+                    "transaction_id": 80190185
+                },
+                {
+                    "date": "2023-07-13",
+                    "description": "Interest",
+                    "amount": 18529.88,
+                    "transaction_id": 49804472
+                },
+                {
+                    "date": "2024-01-15",
+                    "description": "Interest",
+                    "amount": 47663.4,
+                    "transaction_id": 53043751
+                }
+            ]
+        }
+    }
+}

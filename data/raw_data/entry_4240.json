@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Valerie Reeves",
+        "age": 70,
+        "gender": "female",
+        "address": "33646 Rachel Rapid Suite 305, South Jordan, GA 11001",
+        "phone": "(429)603-6257",
+        "email": "xhutchinson@example.net",
+        "account": {
+            "account_number": "6cba27e5-b3ff-4f07-a633-146a2fd29fe5",
+            "balance": 20311.7,
+            "transactions": [
+                {
+                    "date": "2023-07-30",
+                    "description": "Deposit",
+                    "amount": 7757.35,
+                    "transaction_id": 59084467
+                },
+                {
+                    "date": "2023-04-11",
+                    "description": "Withdrawal",
+                    "amount": 14810.41,
+                    "transaction_id": 25630709
+                },
+                {
+                    "date": "2024-08-31",
+                    "description": "Deposit",
+                    "amount": 44940.44,
+                    "transaction_id": 64574216
+                }
+            ]
+        }
+    }
+}

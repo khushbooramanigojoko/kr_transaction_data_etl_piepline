@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brandon Daniels",
+        "age": 29,
+        "gender": "male",
+        "address": "321 Jason Rest, Lutzfort, NM 08084",
+        "phone": "3084060807",
+        "email": "laurenkim@example.com",
+        "account": {
+            "account_number": "28dd4e0e-9130-4dde-8d8d-c3fb183175d3",
+            "balance": 24299.97,
+            "transactions": [
+                {
+                    "date": "2023-03-24",
+                    "description": "Withdrawal",
+                    "amount": 48655.25,
+                    "transaction_id": 1466825
+                },
+                {
+                    "date": "2024-05-02",
+                    "description": "Withdrawal",
+                    "amount": 7791.72,
+                    "transaction_id": 6663017
+                },
+                {
+                    "date": "2024-03-29",
+                    "description": "Deposit",
+                    "amount": 42469.36,
+                    "transaction_id": 69399194
+                },
+                {
+                    "date": "2024-03-23",
+                    "description": "Withdrawal",
+                    "amount": 25470.46,
+                    "transaction_id": 91876858
+                },
+                {
+                    "date": "2023-12-27",
+                    "description": "Withdrawal",
+                    "amount": 37252.66,
+                    "transaction_id": 63941343
+                }
+            ]
+        }
+    }
+}

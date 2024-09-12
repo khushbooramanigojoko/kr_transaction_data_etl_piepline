@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Stephen Mccann",
+        "age": 97,
+        "gender": "male",
+        "address": "52238 Bell Brooks, Maldonadoborough, KY 65840",
+        "phone": "509-532-7769x164",
+        "email": "leerichard@example.org",
+        "account": {
+            "account_number": "26beeb24-1179-416a-b419-1cb53ecfd191",
+            "balance": 16971.71,
+            "transactions": [
+                {
+                    "date": "2024-04-17",
+                    "description": "Deposit",
+                    "amount": 27436.09,
+                    "transaction_id": 24007992
+                },
+                {
+                    "date": "2023-06-18",
+                    "description": "Deposit",
+                    "amount": 40713.39,
+                    "transaction_id": 16979264
+                },
+                {
+                    "date": "2023-03-10",
+                    "description": "Withdrawal",
+                    "amount": 7997.05,
+                    "transaction_id": 119816184
+                }
+            ]
+        }
+    }
+}

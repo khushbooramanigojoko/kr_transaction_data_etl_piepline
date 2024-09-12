@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Amy Moore",
+        "age": 93,
+        "gender": "male",
+        "address": "4081 Marshall Burg Suite 778, Brandonchester, OR 64115",
+        "phone": "(655)611-4674x2496",
+        "email": "maxhess@example.net",
+        "account": {
+            "account_number": "f9c07216-fa34-4824-8e73-98876bdb5c47",
+            "balance": 38934.81,
+            "transactions": [
+                {
+                    "date": "2024-08-02",
+                    "description": "Withdrawal",
+                    "amount": 8976.28,
+                    "transaction_id": 32265900
+                },
+                {
+                    "date": "2024-03-15",
+                    "description": "Deposit",
+                    "amount": 25652.39,
+                    "transaction_id": 71094327
+                },
+                {
+                    "date": "2024-02-10",
+                    "description": "Withdrawal",
+                    "amount": 44443.89,
+                    "transaction_id": 110282803
+                }
+            ]
+        }
+    }
+}

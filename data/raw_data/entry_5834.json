@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brandon Maldonado",
+        "age": 41,
+        "gender": "female",
+        "address": "96560 Brandon Springs, Millerton, VI 61356",
+        "phone": "+1-909-260-1894",
+        "email": "rodriguezariel@example.com",
+        "account": {
+            "account_number": "10fb3cf5-09e4-4e5d-95ab-75069b648304",
+            "balance": 15463.01,
+            "transactions": [
+                {
+                    "date": "2024-02-10",
+                    "description": "Deposit",
+                    "amount": 13718.74,
+                    "transaction_id": 20479656
+                }
+            ]
+        }
+    }
+}

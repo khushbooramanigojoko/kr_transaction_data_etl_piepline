@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 18,
+        "gender": "female",
+        "address": "650 Bean Springs, Woodsfurt, DE 17270",
+        "phone": "546-484-9451x71088",
+        "email": "kimberly04@example.net",
+        "account": {
+            "account_number": "3079c810-a228-4882-baaf-75ca3e6376e7",
+            "balance": 1864.27,
+            "transactions": [
+                {
+                    "date": "2023-03-13",
+                    "description": "Withdrawal",
+                    "amount": -4067.47,
+                    "transaction_id": 37539725
+                },
+                {
+                    "date": "2023-03-01",
+                    "description": "Deposit",
+                    "amount": 4548.4,
+                    "transaction_id": 82815272
+                },
+                {
+                    "date": "2022-10-18",
+                    "description": "Withdrawal",
+                    "amount": 1098.65,
+                    "transaction_id": 111342897
+                },
+                {
+                    "date": "2023-08-06",
+                    "description": "Interest",
+                    "amount": -3193.87,
+                    "transaction_id": 43839118
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Withdrawal",
+                    "amount": -70.95,
+                    "transaction_id": 10783299
+                }
+            ]
+        }
+    }
+}

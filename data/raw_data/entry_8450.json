@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Rachel Andrews",
+        "age": 64,
+        "gender": "female",
+        "address": "83044 Lee Vista Suite 905, South Michaelmouth, DC 65073",
+        "phone": "001-897-485-9900x943",
+        "email": "daniel88@example.net",
+        "account": {
+            "account_number": "03cc264d-87cf-45e9-8feb-483e17e004e3",
+            "balance": 34127.42,
+            "transactions": [
+                {
+                    "date": "2024-01-19",
+                    "description": "Interest",
+                    "amount": 14841.61,
+                    "transaction_id": 45925106
+                },
+                {
+                    "date": "2024-02-21",
+                    "description": "Interest",
+                    "amount": 44215.36,
+                    "transaction_id": 90935015
+                },
+                {
+                    "date": "2023-02-07",
+                    "description": "Interest",
+                    "amount": 11669.13,
+                    "transaction_id": 33735923
+                }
+            ]
+        }
+    }
+}

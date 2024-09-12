@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brian Beck",
+        "age": 22,
+        "gender": "male",
+        "address": "4751 Mary Forks, Livingstonmouth, CA 44523",
+        "phone": "(613)501-3260",
+        "email": "elizabeth98@example.org",
+        "account": {
+            "account_number": "16647175-33d3-450a-a116-6623ee0ada9c",
+            "balance": 5657.36,
+            "transactions": [
+                {
+                    "date": "2024-02-13",
+                    "description": "Withdrawal",
+                    "amount": 49140.89,
+                    "transaction_id": 108501855
+                }
+            ]
+        }
+    }
+}

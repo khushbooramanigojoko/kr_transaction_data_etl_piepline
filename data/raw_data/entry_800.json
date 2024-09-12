@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Madison Wagner",
+        "age": 61,
+        "gender": "female",
+        "address": "219 Amber Walk, Danielchester, LA 46535",
+        "phone": "666-693-7797",
+        "email": "lisa42@example.com",
+        "account": {
+            "account_number": "1b36b095-9b35-492a-b883-6314853a8b3d",
+            "balance": 36238.17,
+            "transactions": [
+                {
+                    "date": "2023-06-01",
+                    "description": "Withdrawal",
+                    "amount": 49136.44,
+                    "transaction_id": 69672218
+                },
+                {
+                    "date": "2024-05-19",
+                    "description": "Interest",
+                    "amount": 4779.77,
+                    "transaction_id": 78170896
+                },
+                {
+                    "date": "2023-11-03",
+                    "description": "Interest",
+                    "amount": 28147.56,
+                    "transaction_id": 103980316
+                },
+                {
+                    "date": "2023-12-05",
+                    "description": "Withdrawal",
+                    "amount": 7743.33,
+                    "transaction_id": 35257093
+                }
+            ]
+        }
+    }
+}

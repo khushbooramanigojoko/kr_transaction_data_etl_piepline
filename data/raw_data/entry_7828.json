@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Edward Martin",
+        "age": 52,
+        "gender": "female",
+        "address": "24076 Daniel Forest Suite 859, South Julie, VI 70093",
+        "phone": "001-882-483-6116x68922",
+        "email": "wrivera@example.com",
+        "account": {
+            "account_number": "bd07578d-1a0b-4ab5-b73a-10b2d97420db",
+            "balance": 25229.18,
+            "transactions": [
+                {
+                    "date": "2023-10-29",
+                    "description": "Interest",
+                    "amount": 41141.04,
+                    "transaction_id": 44479992
+                }
+            ]
+        }
+    }
+}

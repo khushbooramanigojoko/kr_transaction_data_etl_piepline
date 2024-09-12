@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Christine Jackson",
+        "age": 31,
+        "gender": "male",
+        "address": "259 Garcia Freeway Suite 610, West Kimberlyland, AS 45815",
+        "phone": "917.647.4231",
+        "email": "vharrison@example.net",
+        "account": {
+            "account_number": "85f423be-5e5f-448b-b438-8b38f634878c",
+            "balance": 18582.32,
+            "transactions": [
+                {
+                    "date": "2022-11-25",
+                    "description": "Interest",
+                    "amount": 37176.76,
+                    "transaction_id": 119333130
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Deposit",
+                    "amount": 10525.52,
+                    "transaction_id": 62366598
+                },
+                {
+                    "date": "2024-09-01",
+                    "description": "Interest",
+                    "amount": 10783.73,
+                    "transaction_id": 64016832
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Deposit",
+                    "amount": 31755.77,
+                    "transaction_id": 86203145
+                }
+            ]
+        }
+    }
+}

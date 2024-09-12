@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jennifer Gonzalez",
+        "age": 45,
+        "gender": "male",
+        "address": "560 Duran Fork Suite 409, Terryton, ND 63773",
+        "phone": "(362)361-0081",
+        "email": "franciscowalker@example.net",
+        "account": {
+            "account_number": "f55e8f1a-cbb7-4bf3-afae-2b0ceb4198d7",
+            "balance": 1246.93,
+            "transactions": [
+                {
+                    "date": "2022-09-26",
+                    "description": "Deposit",
+                    "amount": 27978.82,
+                    "transaction_id": 77512281
+                },
+                {
+                    "date": "2023-09-03",
+                    "description": "Interest",
+                    "amount": 22535.4,
+                    "transaction_id": 41362062
+                }
+            ]
+        }
+    }
+}

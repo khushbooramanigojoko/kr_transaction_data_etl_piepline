@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Maria Munoz",
+        "age": 20,
+        "gender": "female",
+        "address": "98631 Joshua Ranch, Hartview, CT 17171",
+        "phone": "+1-347-700-8338x2761",
+        "email": "william34@example.org",
+        "account": {
+            "account_number": "c2e0631c-e078-411c-84ec-8f09f1d67536",
+            "balance": 43692.6,
+            "transactions": [
+                {
+                    "date": "2023-01-14",
+                    "description": "Interest",
+                    "amount": 5211.28,
+                    "transaction_id": 67005137
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Withdrawal",
+                    "amount": 49584.05,
+                    "transaction_id": 40874297
+                }
+            ]
+        }
+    }
+}

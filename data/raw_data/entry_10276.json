@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Nancy Green",
+        "age": 47,
+        "gender": "male",
+        "address": "Unit 8798 Box 0897, DPO AE 02016",
+        "phone": "6104313402",
+        "email": "hinesjason@example.org",
+        "account": {
+            "account_number": "4d91ed2e-acef-44df-89eb-ddc37c444229",
+            "balance": -5888.73,
+            "transactions": [
+                {
+                    "date": "2023-02-12",
+                    "description": "Interest",
+                    "amount": -4490.48,
+                    "transaction_id": 7021909
+                }
+            ]
+        }
+    }
+}

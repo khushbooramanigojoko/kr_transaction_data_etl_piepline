@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Gary Smith",
+        "age": 76,
+        "gender": "male",
+        "address": "6643 Julie Burgs Apt. 167, Spencerview, MP 98301",
+        "phone": "225-415-8015x107",
+        "email": "juan38@example.org",
+        "account": {
+            "account_number": "93be1408-f113-47a4-be5f-cec3ee827dfb",
+            "balance": 38219.68,
+            "transactions": [
+                {
+                    "date": "2023-12-04",
+                    "description": "Withdrawal",
+                    "amount": 10321.55,
+                    "transaction_id": 27566821
+                },
+                {
+                    "date": "2024-08-18",
+                    "description": "Withdrawal",
+                    "amount": 46587.7,
+                    "transaction_id": 69675772
+                },
+                {
+                    "date": "2024-06-10",
+                    "description": "Deposit",
+                    "amount": 29369.3,
+                    "transaction_id": 54741554
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Deposit",
+                    "amount": 5133.27,
+                    "transaction_id": 45031086
+                },
+                {
+                    "date": "2022-11-01",
+                    "description": "Withdrawal",
+                    "amount": 25236.27,
+                    "transaction_id": 50983414
+                }
+            ]
+        }
+    }
+}

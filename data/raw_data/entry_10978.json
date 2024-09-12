@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Richard Nelson",
+        "age": 79,
+        "gender": "female",
+        "address": "2396 Elijah Knoll Suite 955, South Michelle, SD 56693",
+        "phone": "+1-366-266-3474x6625",
+        "email": "melissaaguilar@example.net",
+        "account": {
+            "account_number": "768f0fc8-2e54-48ad-b1c7-b01a0e1da5db",
+            "balance": -40153.52,
+            "transactions": [
+                {
+                    "date": "2023-08-11",
+                    "description": "Deposit",
+                    "amount": -2822.89,
+                    "transaction_id": 86580367
+                }
+            ]
+        }
+    }
+}

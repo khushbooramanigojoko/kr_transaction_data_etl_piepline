@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 18,
+        "gender": "male",
+        "address": "USS Thompson, FPO AP 72756",
+        "phone": "001-844-477-6537x915",
+        "email": "alvaradoamy@example.org",
+        "account": {
+            "account_number": "1dafa00b-03ca-4256-9084-a8631b69e1c1",
+            "balance": 21890.88,
+            "transactions": [
+                {
+                    "date": "2023-04-05",
+                    "description": "Interest",
+                    "amount": -2214.64,
+                    "transaction_id": 68981508
+                },
+                {
+                    "date": "2023-02-19",
+                    "description": "Interest",
+                    "amount": 601.92,
+                    "transaction_id": 11559511
+                }
+            ]
+        }
+    }
+}

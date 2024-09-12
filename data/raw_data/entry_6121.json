@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Vanessa Chavez",
+        "age": 18,
+        "gender": "female",
+        "address": "530 Jackson Fork, Patelburgh, SC 24350",
+        "phone": "719-656-0427",
+        "email": "yayers@example.org",
+        "account": {
+            "account_number": "3066c4c9-669f-40c4-b441-36573f981905",
+            "balance": 34756.61,
+            "transactions": [
+                {
+                    "date": "2024-06-08",
+                    "description": "Deposit",
+                    "amount": 11261.58,
+                    "transaction_id": 10537159
+                },
+                {
+                    "date": "2023-06-06",
+                    "description": "Interest",
+                    "amount": 46051.91,
+                    "transaction_id": 50636071
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jerry Martin",
+        "age": 25,
+        "gender": "male",
+        "address": "PSC 8652, Box 8398, APO AP 89968",
+        "phone": "715.318.3557x866",
+        "email": "amanda89@example.net",
+        "account": {
+            "account_number": "6444d17c-a7c7-48bd-9ed8-963301f2e622",
+            "balance": 28663.19,
+            "transactions": [
+                {
+                    "date": "2023-07-19",
+                    "description": "Interest",
+                    "amount": 46733.41,
+                    "transaction_id": 27266842
+                },
+                {
+                    "date": "2023-11-22",
+                    "description": "Deposit",
+                    "amount": 24497.8,
+                    "transaction_id": 12206230
+                }
+            ]
+        }
+    }
+}

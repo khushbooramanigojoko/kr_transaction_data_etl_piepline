@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alexis Hanna",
+        "age": 20,
+        "gender": "male",
+        "address": "Unit 1625 Box 7741, DPO AP 95043",
+        "phone": "001-751-531-7939x4586",
+        "email": "gonzalezjacob@example.net",
+        "account": {
+            "account_number": "bacb6886-ee16-47bd-a9cb-fc88ca27ccea",
+            "balance": 32206.09,
+            "transactions": [
+                {
+                    "date": "2022-11-24",
+                    "description": "Interest",
+                    "amount": 36351.5,
+                    "transaction_id": 37856133
+                },
+                {
+                    "date": "2022-10-29",
+                    "description": "Deposit",
+                    "amount": 32053.88,
+                    "transaction_id": 85529302
+                },
+                {
+                    "date": "2024-08-12",
+                    "description": "Deposit",
+                    "amount": 26778.39,
+                    "transaction_id": 53797872
+                },
+                {
+                    "date": "2023-01-16",
+                    "description": "Deposit",
+                    "amount": 47852.24,
+                    "transaction_id": 91384924
+                }
+            ]
+        }
+    }
+}

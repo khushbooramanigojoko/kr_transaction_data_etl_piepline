@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Marie Davis",
+        "age": 39,
+        "gender": "male",
+        "address": "88170 Rose Forks, East Christopher, OR 25188",
+        "phone": "001-729-931-5703x5450",
+        "email": "richardgeorge@example.com",
+        "account": {
+            "account_number": "c1f7913f-03fa-4ba8-b9b6-c80cb7ff04f9",
+            "balance": 28995.09,
+            "transactions": [
+                {
+                    "date": "2024-05-31",
+                    "description": "Deposit",
+                    "amount": 7062.63,
+                    "transaction_id": 79332709
+                }
+            ]
+        }
+    }
+}

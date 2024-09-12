@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Robert Johnson",
+        "age": 93,
+        "gender": "female",
+        "address": "647 Schmidt Villages Apt. 624, Lauraburgh, IA 97402",
+        "phone": "+1-954-368-5429",
+        "email": "robertapatrick@example.com",
+        "account": {
+            "account_number": "dde02ae7-e5e6-46b9-b3b4-ef45f81f717d",
+            "balance": 20170.02,
+            "transactions": [
+                {
+                    "date": "2023-07-31",
+                    "description": "Withdrawal",
+                    "amount": 39377.83,
+                    "transaction_id": 6680615
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Withdrawal",
+                    "amount": 44518.75,
+                    "transaction_id": 103024316
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Interest",
+                    "amount": 14544.98,
+                    "transaction_id": 51065278
+                },
+                {
+                    "date": "2023-05-29",
+                    "description": "Deposit",
+                    "amount": 747.75,
+                    "transaction_id": 77753525
+                }
+            ]
+        }
+    }
+}

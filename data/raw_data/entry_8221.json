@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "William Martinez",
+        "age": 35,
+        "gender": "male",
+        "address": "15953 Shelley Ridges Suite 673, North Rebeccaport, CT 73383",
+        "phone": "(471)654-3348x7414",
+        "email": "jon58@example.com",
+        "account": {
+            "account_number": "91d2541a-9750-4513-b8e5-9a2697fec930",
+            "balance": 40422.85,
+            "transactions": [
+                {
+                    "date": "2024-04-13",
+                    "description": "Interest",
+                    "amount": 7150.06,
+                    "transaction_id": 37868655
+                }
+            ]
+        }
+    }
+}

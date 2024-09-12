@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brandi Mcdaniel",
+        "age": 19,
+        "gender": "male",
+        "address": "718 Barbara Park, Christopherfort, MD 62427",
+        "phone": "(480)450-8062",
+        "email": "robertanderson@example.net",
+        "account": {
+            "account_number": "a9cf9309-d357-4caf-a99a-531b6f8430ec",
+            "balance": 19080.91,
+            "transactions": [
+                {
+                    "date": "2024-08-28",
+                    "description": "Interest",
+                    "amount": 3006.73,
+                    "transaction_id": 1165347
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Withdrawal",
+                    "amount": 43221.61,
+                    "transaction_id": 113391878
+                },
+                {
+                    "date": "2023-04-02",
+                    "description": "Interest",
+                    "amount": 37391.64,
+                    "transaction_id": 118232849
+                },
+                {
+                    "date": "2024-03-01",
+                    "description": "Deposit",
+                    "amount": 8214.68,
+                    "transaction_id": 104712698
+                }
+            ]
+        }
+    }
+}

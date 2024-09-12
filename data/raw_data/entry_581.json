@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Debra Collins",
+        "age": 39,
+        "gender": "male",
+        "address": "USS Ray, FPO AP 29977",
+        "phone": "663.649.8529",
+        "email": "ethan54@example.org",
+        "account": {
+            "account_number": "f60ad439-c9c7-4bfb-97a6-de1146b4d798",
+            "balance": 25217.2,
+            "transactions": [
+                {
+                    "date": "2024-08-30",
+                    "description": "Interest",
+                    "amount": 13261.25,
+                    "transaction_id": 74111130
+                }
+            ]
+        }
+    }
+}

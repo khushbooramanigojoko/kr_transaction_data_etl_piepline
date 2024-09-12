@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Susan Sanders",
+        "age": 26,
+        "gender": "female",
+        "address": "43551 Olsen Drives, Aprilchester, NH 06859",
+        "phone": "+1-646-927-7187x6834",
+        "email": "rodgersmark@example.net",
+        "account": {
+            "account_number": "5cdbe2ff-6ff5-47cb-94f4-b0e658f20002",
+            "balance": 45526.29,
+            "transactions": [
+                {
+                    "date": "2024-04-04",
+                    "description": "Withdrawal",
+                    "amount": 22671.12,
+                    "transaction_id": 107930452
+                },
+                {
+                    "date": "2024-04-24",
+                    "description": "Deposit",
+                    "amount": 48540.39,
+                    "transaction_id": 70023338
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Withdrawal",
+                    "amount": 12637.39,
+                    "transaction_id": 102476010
+                },
+                {
+                    "date": "2023-05-24",
+                    "description": "Interest",
+                    "amount": 22193.27,
+                    "transaction_id": 79797093
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Stefanie Smith",
+        "age": 92,
+        "gender": "male",
+        "address": "82963 David Cliffs Suite 120, Beardfurt, FL 69717",
+        "phone": "932.665.9663x4972",
+        "email": "gmoses@example.org",
+        "account": {
+            "account_number": "093a7111-49b2-4036-bbc8-131e2c54a55e",
+            "balance": 41544.26,
+            "transactions": [
+                {
+                    "date": "2022-11-09",
+                    "description": "Withdrawal",
+                    "amount": 24946.27,
+                    "transaction_id": 87362353
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Deposit",
+                    "amount": 11333.25,
+                    "transaction_id": 58352455
+                },
+                {
+                    "date": "2023-07-24",
+                    "description": "Interest",
+                    "amount": 40113.22,
+                    "transaction_id": 18719976
+                }
+            ]
+        }
+    }
+}

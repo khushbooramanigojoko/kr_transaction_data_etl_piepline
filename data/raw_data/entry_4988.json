@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Helen Lee",
+        "age": 47,
+        "gender": "male",
+        "address": "560 Lutz Lights, South Ashleyfort, MH 74744",
+        "phone": "6247006735",
+        "email": "grantrichard@example.net",
+        "account": {
+            "account_number": "8c9bebe9-aa20-4b85-8452-3b6fc806ab9e",
+            "balance": 28954.21,
+            "transactions": [
+                {
+                    "date": "2023-01-26",
+                    "description": "Deposit",
+                    "amount": 34328.82,
+                    "transaction_id": 70649422
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Interest",
+                    "amount": 23755.48,
+                    "transaction_id": 95410608
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Withdrawal",
+                    "amount": 30463.66,
+                    "transaction_id": 17771555
+                },
+                {
+                    "date": "2023-11-24",
+                    "description": "Withdrawal",
+                    "amount": 28770.8,
+                    "transaction_id": 4689253
+                }
+            ]
+        }
+    }
+}

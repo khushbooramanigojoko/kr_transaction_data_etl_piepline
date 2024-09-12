@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Melissa Lawson",
+        "age": 47,
+        "gender": "male",
+        "address": "3182 Robert Viaduct Suite 225, Hernandezville, UT 54058",
+        "phone": "001-509-552-6984x403",
+        "email": "awilson@example.com",
+        "account": {
+            "account_number": "e2317230-1537-415e-aeed-a55b96adf29b",
+            "balance": 23120.34,
+            "transactions": [
+                {
+                    "date": "2024-07-11",
+                    "description": "Interest",
+                    "amount": 19729.27,
+                    "transaction_id": 56363326
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "William Hayes",
+        "age": 89,
+        "gender": "male",
+        "address": "06512 Howard Avenue, New Bryanport, AZ 17806",
+        "phone": "+1-436-365-0985",
+        "email": "wbradford@example.net",
+        "account": {
+            "account_number": "71bc777f-8efd-456e-9687-761575e612be",
+            "balance": 27665.79,
+            "transactions": [
+                {
+                    "date": "2023-08-23",
+                    "description": "Interest",
+                    "amount": 48325.24,
+                    "transaction_id": 39179583
+                },
+                {
+                    "date": "2024-07-16",
+                    "description": "Withdrawal",
+                    "amount": 18676.65,
+                    "transaction_id": 28275631
+                },
+                {
+                    "date": "2024-07-13",
+                    "description": "Interest",
+                    "amount": 32425.63,
+                    "transaction_id": 18134100
+                }
+            ]
+        }
+    }
+}

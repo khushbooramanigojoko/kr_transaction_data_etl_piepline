@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "George Blankenship",
+        "age": 54,
+        "gender": "male",
+        "address": "USCGC Fisher, FPO AA 90929",
+        "phone": "(453)276-4703x364",
+        "email": "dthornton@example.net",
+        "account": {
+            "account_number": "797b34b2-be5a-4f67-aba5-9a1c007f0c93",
+            "balance": 30228.09,
+            "transactions": [
+                {
+                    "date": "2024-07-21",
+                    "description": "Withdrawal",
+                    "amount": 11495.08,
+                    "transaction_id": 80790148
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Richard Whitney",
+        "age": 46,
+        "gender": "male",
+        "address": "95158 Johnson Station Apt. 716, South Heather, MP 71417",
+        "phone": "001-429-551-6655",
+        "email": "barnesgabrielle@example.net",
+        "account": {
+            "account_number": "a571aaf0-b1ed-47b0-9321-00c515507825",
+            "balance": 39540.83,
+            "transactions": [
+                {
+                    "date": "2023-03-09",
+                    "description": "Deposit",
+                    "amount": 44843.36,
+                    "transaction_id": 24703786
+                },
+                {
+                    "date": "2023-11-14",
+                    "description": "Withdrawal",
+                    "amount": 24389.05,
+                    "transaction_id": 2763842
+                }
+            ]
+        }
+    }
+}

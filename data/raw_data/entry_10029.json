@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Antonio Lewis",
+        "age": 50,
+        "gender": "female",
+        "address": "530 Leon Meadows, North Roberthaven, RI 83512",
+        "phone": "001-932-438-5363x8051",
+        "email": "cmathis@example.com",
+        "account": {
+            "account_number": "4a8bac48-3d4d-4272-98ac-edda9b11fbf5",
+            "balance": -29533.26,
+            "transactions": [
+                {
+                    "date": "2023-05-16",
+                    "description": "Withdrawal",
+                    "amount": 3054.31,
+                    "transaction_id": 58101184
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Deposit",
+                    "amount": 2830.95,
+                    "transaction_id": 104451660
+                },
+                {
+                    "date": "2023-10-01",
+                    "description": "Interest",
+                    "amount": -1731.98,
+                    "transaction_id": 12613157
+                },
+                {
+                    "date": "2022-09-11",
+                    "description": "Withdrawal",
+                    "amount": -1819.8,
+                    "transaction_id": 50543046
+                },
+                {
+                    "date": "2023-12-22",
+                    "description": "Withdrawal",
+                    "amount": 1352.37,
+                    "transaction_id": 23808769
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Brooke Jackson",
+        "age": 49,
+        "gender": "male",
+        "address": "646 Foster Brook Suite 908, East Justin, GA 79817",
+        "phone": "702-530-6963x51205",
+        "email": "irobles@example.net",
+        "account": {
+            "account_number": "71626694-b3bc-4dac-ae9c-54fde776d973",
+            "balance": 12245.86,
+            "transactions": [
+                {
+                    "date": "2023-08-14",
+                    "description": "Deposit",
+                    "amount": 45787.0,
+                    "transaction_id": 25871615
+                },
+                {
+                    "date": "2023-08-14",
+                    "description": "Withdrawal",
+                    "amount": 12663.45,
+                    "transaction_id": 44487419
+                },
+                {
+                    "date": "2022-12-19",
+                    "description": "Deposit",
+                    "amount": 27380.53,
+                    "transaction_id": 21208644
+                }
+            ]
+        }
+    }
+}

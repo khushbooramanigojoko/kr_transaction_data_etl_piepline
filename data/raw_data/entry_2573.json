@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Micheal Allen",
+        "age": 25,
+        "gender": "male",
+        "address": "90631 Daniel Crossroad, Rickychester, CO 16369",
+        "phone": "001-420-394-0484",
+        "email": "vbrewer@example.net",
+        "account": {
+            "account_number": "8da3403f-469a-4de5-b784-59e79a38a1eb",
+            "balance": 1657.2,
+            "transactions": [
+                {
+                    "date": "2024-06-02",
+                    "description": "Deposit",
+                    "amount": 45490.62,
+                    "transaction_id": 44935014
+                },
+                {
+                    "date": "2024-02-03",
+                    "description": "Deposit",
+                    "amount": 7984.45,
+                    "transaction_id": 85833750
+                }
+            ]
+        }
+    }
+}

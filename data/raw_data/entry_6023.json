@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Derrick Ford",
+        "age": 71,
+        "gender": "male",
+        "address": "947 Kristin Trace Apt. 728, Christophermouth, LA 29807",
+        "phone": "001-761-272-2579x298",
+        "email": "jordandeborah@example.net",
+        "account": {
+            "account_number": "fc7e7758-463f-48bc-aaf7-83f769db2f06",
+            "balance": 16136.43,
+            "transactions": [
+                {
+                    "date": "2024-03-06",
+                    "description": "Deposit",
+                    "amount": 3586.05,
+                    "transaction_id": 48869942
+                }
+            ]
+        }
+    }
+}

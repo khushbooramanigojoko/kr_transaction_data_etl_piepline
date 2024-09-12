@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Bill Love",
+        "age": 90,
+        "gender": "female",
+        "address": "14442 Hernandez Avenue, Lake Heather, IN 60088",
+        "phone": "+1-592-271-5240",
+        "email": "christopherthomas@example.org",
+        "account": {
+            "account_number": "8fbfc392-1778-4c14-9203-b2ff7d33a4a8",
+            "balance": 2647.84,
+            "transactions": [
+                {
+                    "date": "2023-06-17",
+                    "description": "Interest",
+                    "amount": 2605.64,
+                    "transaction_id": 48127889
+                },
+                {
+                    "date": "2023-10-09",
+                    "description": "Interest",
+                    "amount": 34934.31,
+                    "transaction_id": 9964684
+                },
+                {
+                    "date": "2023-07-20",
+                    "description": "Deposit",
+                    "amount": 33337.36,
+                    "transaction_id": 100776156
+                },
+                {
+                    "date": "2023-06-22",
+                    "description": "Interest",
+                    "amount": 36395.71,
+                    "transaction_id": 107975350
+                },
+                {
+                    "date": "2023-02-04",
+                    "description": "Withdrawal",
+                    "amount": 43980.89,
+                    "transaction_id": 28939295
+                }
+            ]
+        }
+    }
+}

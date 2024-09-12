@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brittany Taylor",
+        "age": 63,
+        "gender": "male",
+        "address": "61198 Bowers Station, New Christopherview, FM 68878",
+        "phone": "861.799.7368",
+        "email": "johnsonchristine@example.org",
+        "account": {
+            "account_number": "8e6c845b-766d-4c72-9358-fd8a81d39df1",
+            "balance": 8884.68,
+            "transactions": [
+                {
+                    "date": "2024-05-02",
+                    "description": "Interest",
+                    "amount": 8610.77,
+                    "transaction_id": 10350582
+                },
+                {
+                    "date": "2022-09-07",
+                    "description": "Withdrawal",
+                    "amount": 31439.4,
+                    "transaction_id": 116341572
+                },
+                {
+                    "date": "2024-02-14",
+                    "description": "Withdrawal",
+                    "amount": 33492.7,
+                    "transaction_id": 42489187
+                },
+                {
+                    "date": "2024-05-05",
+                    "description": "Withdrawal",
+                    "amount": 8002.21,
+                    "transaction_id": 68449599
+                }
+            ]
+        }
+    }
+}

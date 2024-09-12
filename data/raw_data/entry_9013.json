@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Deborah Medina",
+        "age": 50,
+        "gender": "male",
+        "address": "77827 Henderson Park Suite 100, North Cynthia, MA 62101",
+        "phone": "845-258-1531x231",
+        "email": "deniseflores@example.net",
+        "account": {
+            "account_number": "067c172c-955c-4201-bc09-10e6c96050b2",
+            "balance": -22979.12,
+            "transactions": [
+                {
+                    "date": "2024-06-24",
+                    "description": "Deposit",
+                    "amount": -844.36,
+                    "transaction_id": 39041934
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Withdrawal",
+                    "amount": 3728.93,
+                    "transaction_id": 102194998
+                },
+                {
+                    "date": "2023-06-01",
+                    "description": "Interest",
+                    "amount": 1817.94,
+                    "transaction_id": 112908231
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Withdrawal",
+                    "amount": -834.95,
+                    "transaction_id": 13546630
+                },
+                {
+                    "date": "2023-06-10",
+                    "description": "Deposit",
+                    "amount": -61.07,
+                    "transaction_id": 1291811
+                }
+            ]
+        }
+    }
+}

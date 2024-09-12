@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 24,
+        "gender": "female",
+        "address": "61058 Anthony Prairie, South Colinstad, VT 32428",
+        "phone": "+1-592-447-5100",
+        "email": "chelsea45@example.com",
+        "account": {
+            "account_number": "d9b4b5d7-6ec9-4c51-bfe5-385b8deb0d99",
+            "balance": 34971.91,
+            "transactions": [
+                {
+                    "date": "2024-08-17",
+                    "description": "Interest",
+                    "amount": 3875.68,
+                    "transaction_id": 69738869
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Interest",
+                    "amount": 1776.17,
+                    "transaction_id": 47756608
+                },
+                {
+                    "date": "2023-09-16",
+                    "description": "Deposit",
+                    "amount": 2440.34,
+                    "transaction_id": 84754057
+                },
+                {
+                    "date": "2024-03-27",
+                    "description": "Deposit",
+                    "amount": 1717.52,
+                    "transaction_id": 80443953
+                }
+            ]
+        }
+    }
+}

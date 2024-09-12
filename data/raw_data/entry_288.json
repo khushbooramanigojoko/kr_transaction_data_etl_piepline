@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Robert Cole",
+        "age": 86,
+        "gender": "male",
+        "address": "68897 Mitchell Terrace, West Christophertown, IL 81388",
+        "phone": "453.507.5860",
+        "email": "cunninghamrussell@example.net",
+        "account": {
+            "account_number": "49b079ed-6207-4746-b6b6-4ec721c6a46e",
+            "balance": 5701.23,
+            "transactions": [
+                {
+                    "date": "2023-11-18",
+                    "description": "Withdrawal",
+                    "amount": 25576.76,
+                    "transaction_id": 82407070
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Deposit",
+                    "amount": 2998.12,
+                    "transaction_id": 39518410
+                },
+                {
+                    "date": "2023-02-28",
+                    "description": "Withdrawal",
+                    "amount": 26761.28,
+                    "transaction_id": 24361039
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Withdrawal",
+                    "amount": 7277.31,
+                    "transaction_id": 109945992
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ryan Farley",
+        "age": 26,
+        "gender": "male",
+        "address": "29362 Andrew Drive Apt. 182, New April, DC 08531",
+        "phone": "360.940.0135",
+        "email": "tduncan@example.com",
+        "account": {
+            "account_number": "8fd28541-e9b6-49db-8cb5-40985659a3af",
+            "balance": 34627.88,
+            "transactions": [
+                {
+                    "date": "2023-03-06",
+                    "description": "Deposit",
+                    "amount": 24940.56,
+                    "transaction_id": 16055688
+                },
+                {
+                    "date": "2022-11-22",
+                    "description": "Withdrawal",
+                    "amount": 46396.54,
+                    "transaction_id": 73295363
+                },
+                {
+                    "date": "2024-08-16",
+                    "description": "Withdrawal",
+                    "amount": 40088.84,
+                    "transaction_id": 39214359
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Withdrawal",
+                    "amount": 44203.27,
+                    "transaction_id": 35197303
+                }
+            ]
+        }
+    }
+}

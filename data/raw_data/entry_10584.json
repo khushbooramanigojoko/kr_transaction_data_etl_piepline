@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 78,
+        "gender": "male",
+        "address": "277 Kristopher Meadows Suite 512, Scottshire, IN 10131",
+        "phone": "953.918.6157x12985",
+        "email": "paula63@example.net",
+        "account": {
+            "account_number": "a4e7b8b3-4d2b-4023-bea8-946d83e5bcc2",
+            "balance": 12021.36,
+            "transactions": [
+                {
+                    "date": "2023-07-30",
+                    "description": "Interest",
+                    "amount": -3819.57,
+                    "transaction_id": 12446819
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Withdrawal",
+                    "amount": -3966.76,
+                    "transaction_id": 77739112
+                },
+                {
+                    "date": "2023-04-01",
+                    "description": "Withdrawal",
+                    "amount": -3212.62,
+                    "transaction_id": 31438495
+                },
+                {
+                    "date": "2022-12-23",
+                    "description": "Deposit",
+                    "amount": 271.39,
+                    "transaction_id": 105804381
+                }
+            ]
+        }
+    }
+}

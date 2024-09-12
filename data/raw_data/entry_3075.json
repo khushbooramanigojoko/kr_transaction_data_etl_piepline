@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jessica Leon",
+        "age": 46,
+        "gender": "female",
+        "address": "040 Ashley Lodge Suite 973, New Jamie, KS 18431",
+        "phone": "001-492-234-7758x34527",
+        "email": "lindsay48@example.com",
+        "account": {
+            "account_number": "ef4c9942-18f5-4e6c-bf6d-4a9862a7ca13",
+            "balance": 16270.62,
+            "transactions": [
+                {
+                    "date": "2023-12-14",
+                    "description": "Interest",
+                    "amount": 11966.34,
+                    "transaction_id": 106866293
+                }
+            ]
+        }
+    }
+}

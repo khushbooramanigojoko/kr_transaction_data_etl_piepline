@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Melissa Butler",
+        "age": 68,
+        "gender": "male",
+        "address": "182 Parks Fork, Port Madeline, PA 32952",
+        "phone": "9812138226",
+        "email": "craig38@example.org",
+        "account": {
+            "account_number": "6e161b65-dac0-4dcd-afb1-5f5b7550b827",
+            "balance": 21181.67,
+            "transactions": [
+                {
+                    "date": "2024-02-14",
+                    "description": "Withdrawal",
+                    "amount": 4776.33,
+                    "transaction_id": 119505640
+                },
+                {
+                    "date": "2023-01-27",
+                    "description": "Withdrawal",
+                    "amount": 48167.31,
+                    "transaction_id": 97523371
+                },
+                {
+                    "date": "2022-12-20",
+                    "description": "Interest",
+                    "amount": 23688.51,
+                    "transaction_id": 65896068
+                },
+                {
+                    "date": "2023-02-18",
+                    "description": "Deposit",
+                    "amount": 25107.41,
+                    "transaction_id": 80536968
+                },
+                {
+                    "date": "2023-04-21",
+                    "description": "Withdrawal",
+                    "amount": 40094.35,
+                    "transaction_id": 13789083
+                }
+            ]
+        }
+    }
+}

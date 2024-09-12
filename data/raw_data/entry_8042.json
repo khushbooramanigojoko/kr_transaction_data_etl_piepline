@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Ashley Rogers",
+        "age": 25,
+        "gender": "male",
+        "address": "62525 Weaver Inlet, Kaitlynport, MO 11937",
+        "phone": "8786914392",
+        "email": "davidli@example.org",
+        "account": {
+            "account_number": "ad77da0e-10eb-4477-9785-36ec659a7898",
+            "balance": 48702.11,
+            "transactions": [
+                {
+                    "date": "2024-04-29",
+                    "description": "Withdrawal",
+                    "amount": 39767.45,
+                    "transaction_id": 41358771
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Deposit",
+                    "amount": 8459.93,
+                    "transaction_id": 66566313
+                },
+                {
+                    "date": "2023-03-18",
+                    "description": "Deposit",
+                    "amount": 12903.98,
+                    "transaction_id": 11975171
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Deposit",
+                    "amount": 38047.45,
+                    "transaction_id": 65014419
+                },
+                {
+                    "date": "2022-11-13",
+                    "description": "Interest",
+                    "amount": 37726.71,
+                    "transaction_id": 7557796
+                }
+            ]
+        }
+    }
+}

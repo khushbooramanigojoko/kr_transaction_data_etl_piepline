@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Erin Miller",
+        "age": 73,
+        "gender": "male",
+        "address": "30128 Roman Cove, Jenniferburgh, KS 48057",
+        "phone": "788.981.9861x2630",
+        "email": "cheryljacobs@example.net",
+        "account": {
+            "account_number": "676c49ae-54bc-412f-abdf-121f19c7f1d2",
+            "balance": 6799.15,
+            "transactions": [
+                {
+                    "date": "2023-08-17",
+                    "description": "Interest",
+                    "amount": 15195.27,
+                    "transaction_id": 8978612
+                },
+                {
+                    "date": "2024-07-28",
+                    "description": "Deposit",
+                    "amount": 40296.71,
+                    "transaction_id": 95905763
+                },
+                {
+                    "date": "2022-09-20",
+                    "description": "Interest",
+                    "amount": 28191.98,
+                    "transaction_id": 39402334
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Interest",
+                    "amount": 12972.99,
+                    "transaction_id": 19325392
+                },
+                {
+                    "date": "2023-12-04",
+                    "description": "Deposit",
+                    "amount": 6912.12,
+                    "transaction_id": 46907346
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Dustin Alvarez",
+        "age": 34,
+        "gender": "female",
+        "address": "78837 Tanya Crest Suite 679, North Brett, VI 59634",
+        "phone": "001-609-440-7630",
+        "email": "paulaguilar@example.org",
+        "account": {
+            "account_number": "4fe158d7-0a1b-4dd9-8c53-073526d9d4aa",
+            "balance": 32746.04,
+            "transactions": [
+                {
+                    "date": "2024-06-15",
+                    "description": "Withdrawal",
+                    "amount": 18424.55,
+                    "transaction_id": 31487547
+                },
+                {
+                    "date": "2024-02-20",
+                    "description": "Deposit",
+                    "amount": 27040.83,
+                    "transaction_id": 37869877
+                },
+                {
+                    "date": "2024-02-06",
+                    "description": "Interest",
+                    "amount": 11547.73,
+                    "transaction_id": 19035685
+                }
+            ]
+        }
+    }
+}

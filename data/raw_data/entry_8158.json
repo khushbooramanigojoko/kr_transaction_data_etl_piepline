@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kathleen Rodgers",
+        "age": 55,
+        "gender": "female",
+        "address": "755 Amanda Ranch, Port Adamland, NY 63656",
+        "phone": "769-930-7933x668",
+        "email": "timothyholland@example.net",
+        "account": {
+            "account_number": "7a49c374-6042-414e-81a3-553e757e25a0",
+            "balance": 8031.16,
+            "transactions": [
+                {
+                    "date": "2024-04-06",
+                    "description": "Interest",
+                    "amount": 47314.02,
+                    "transaction_id": 84065277
+                }
+            ]
+        }
+    }
+}

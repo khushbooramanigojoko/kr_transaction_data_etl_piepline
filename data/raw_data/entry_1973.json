@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Laura Powell",
+        "age": 67,
+        "gender": "female",
+        "address": "259 Deanna Lodge Apt. 220, East Tammy, CA 14061",
+        "phone": "663.217.3192x5503",
+        "email": "qstokes@example.net",
+        "account": {
+            "account_number": "3abeea5b-8605-4c73-84ed-f93c87048c6a",
+            "balance": 5008.71,
+            "transactions": [
+                {
+                    "date": "2024-02-06",
+                    "description": "Deposit",
+                    "amount": 19232.0,
+                    "transaction_id": 79708151
+                },
+                {
+                    "date": "2023-12-20",
+                    "description": "Deposit",
+                    "amount": 27055.05,
+                    "transaction_id": 115769894
+                }
+            ]
+        }
+    }
+}

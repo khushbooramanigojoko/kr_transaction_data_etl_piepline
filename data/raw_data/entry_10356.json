@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 95,
+        "gender": "male",
+        "address": "462 Davis Causeway, Fosterbury, MO 90135",
+        "phone": "733-710-8827",
+        "email": "nhernandez@example.com",
+        "account": {
+            "account_number": "571b68ea-3e20-4566-b169-8ebb966cfc94",
+            "balance": 27843.71,
+            "transactions": [
+                {
+                    "date": "2023-02-17",
+                    "description": "Deposit",
+                    "amount": -406.86,
+                    "transaction_id": 18767914
+                },
+                {
+                    "date": "2023-10-30",
+                    "description": "Interest",
+                    "amount": 1823.58,
+                    "transaction_id": 43297324
+                },
+                {
+                    "date": "2023-09-07",
+                    "description": "Withdrawal",
+                    "amount": -3049.12,
+                    "transaction_id": 72109521
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Interest",
+                    "amount": -4627.18,
+                    "transaction_id": 37651241
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Withdrawal",
+                    "amount": 2357.05,
+                    "transaction_id": 117985137
+                }
+            ]
+        }
+    }
+}

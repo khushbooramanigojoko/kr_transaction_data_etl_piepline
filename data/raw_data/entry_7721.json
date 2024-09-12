@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Nicholas Brooks",
+        "age": 88,
+        "gender": "male",
+        "address": "Unit 4491 Box 2741, DPO AP 77617",
+        "phone": "(382)741-4317",
+        "email": "boconnor@example.org",
+        "account": {
+            "account_number": "3b27b15c-a481-4da4-8b1a-f2d54b17d85e",
+            "balance": 35489.85,
+            "transactions": [
+                {
+                    "date": "2023-07-31",
+                    "description": "Interest",
+                    "amount": 29251.33,
+                    "transaction_id": 46670851
+                }
+            ]
+        }
+    }
+}

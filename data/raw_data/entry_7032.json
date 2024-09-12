@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Mrs. Amanda Christensen MD",
+        "age": 53,
+        "gender": "female",
+        "address": "24166 Shaw Glens, South Jillport, KY 82907",
+        "phone": "782-295-6130",
+        "email": "jenkinsjames@example.org",
+        "account": {
+            "account_number": "87d67fcd-0b52-4cc6-b429-71fc10d16a9c",
+            "balance": 14248.83,
+            "transactions": [
+                {
+                    "date": "2023-06-24",
+                    "description": "Withdrawal",
+                    "amount": 18382.27,
+                    "transaction_id": 99673821
+                },
+                {
+                    "date": "2023-04-18",
+                    "description": "Deposit",
+                    "amount": 37937.34,
+                    "transaction_id": 109944783
+                }
+            ]
+        }
+    }
+}

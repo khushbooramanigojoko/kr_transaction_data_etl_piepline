@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jacqueline Thompson",
+        "age": 79,
+        "gender": "male",
+        "address": "1775 Jones Branch Apt. 706, New Jeremyville, VT 56383",
+        "phone": "685.464.5367",
+        "email": "warrensarah@example.net",
+        "account": {
+            "account_number": "554c6295-b761-440f-b6c0-edba59ac5dd3",
+            "balance": 34889.25,
+            "transactions": [
+                {
+                    "date": "2024-04-28",
+                    "description": "Deposit",
+                    "amount": 38906.37,
+                    "transaction_id": 62564050
+                },
+                {
+                    "date": "2024-04-16",
+                    "description": "Deposit",
+                    "amount": 35616.11,
+                    "transaction_id": 6845771
+                },
+                {
+                    "date": "2024-04-21",
+                    "description": "Deposit",
+                    "amount": 5453.45,
+                    "transaction_id": 8694328
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Withdrawal",
+                    "amount": 6399.8,
+                    "transaction_id": 103972446
+                }
+            ]
+        }
+    }
+}

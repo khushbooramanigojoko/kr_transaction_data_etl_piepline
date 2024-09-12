@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "William Becker",
+        "age": 99,
+        "gender": "male",
+        "address": "324 White Squares, West Coreychester, VI 42082",
+        "phone": "001-797-544-0787x3015",
+        "email": "ralph71@example.com",
+        "account": {
+            "account_number": "35568189-9113-465f-8c01-12ee97b8b192",
+            "balance": 33492.67,
+            "transactions": [
+                {
+                    "date": "2024-09-01",
+                    "description": "Interest",
+                    "amount": 25565.29,
+                    "transaction_id": 19499292
+                },
+                {
+                    "date": "2023-11-04",
+                    "description": "Deposit",
+                    "amount": 10686.87,
+                    "transaction_id": 14524026
+                },
+                {
+                    "date": "2024-01-17",
+                    "description": "Interest",
+                    "amount": 30916.37,
+                    "transaction_id": 97568195
+                }
+            ]
+        }
+    }
+}

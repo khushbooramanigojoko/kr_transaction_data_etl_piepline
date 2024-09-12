@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Emily Peterson",
+        "age": 59,
+        "gender": "male",
+        "address": "0207 Foster Run, North Sarahmouth, MN 82807",
+        "phone": "4984371710",
+        "email": "patricia22@example.org",
+        "account": {
+            "account_number": "d5793bff-4576-4ed5-8129-19d3edd28a9c",
+            "balance": -24320.43,
+            "transactions": [
+                {
+                    "date": "2023-12-28",
+                    "description": "Deposit",
+                    "amount": -2372.68,
+                    "transaction_id": 84084769
+                },
+                {
+                    "date": "2022-10-07",
+                    "description": "Deposit",
+                    "amount": 4983.75,
+                    "transaction_id": 112372603
+                },
+                {
+                    "date": "2023-07-17",
+                    "description": "Interest",
+                    "amount": 25.13,
+                    "transaction_id": 25848626
+                }
+            ]
+        }
+    }
+}

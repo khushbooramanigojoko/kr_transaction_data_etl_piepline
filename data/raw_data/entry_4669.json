@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Devin Lopez",
+        "age": 82,
+        "gender": "female",
+        "address": "7911 Robinson Ramp Apt. 052, Lake Amandaside, VA 09515",
+        "phone": "(809)896-8617",
+        "email": "amanda68@example.net",
+        "account": {
+            "account_number": "572cfc0e-698b-4ca1-ba5d-48cc9eb9fa89",
+            "balance": 6064.19,
+            "transactions": [
+                {
+                    "date": "2023-10-18",
+                    "description": "Withdrawal",
+                    "amount": 26306.28,
+                    "transaction_id": 32107745
+                },
+                {
+                    "date": "2023-06-17",
+                    "description": "Interest",
+                    "amount": 48800.23,
+                    "transaction_id": 47205664
+                },
+                {
+                    "date": "2024-07-11",
+                    "description": "Withdrawal",
+                    "amount": 3490.41,
+                    "transaction_id": 117710244
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Withdrawal",
+                    "amount": 18066.02,
+                    "transaction_id": 3915559
+                },
+                {
+                    "date": "2023-04-08",
+                    "description": "Interest",
+                    "amount": 44173.3,
+                    "transaction_id": 84147956
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jessica Elliott",
+        "age": 24,
+        "gender": "female",
+        "address": "4955 Anthony Village Apt. 502, Crystalbury, WV 11585",
+        "phone": "+1-711-643-2905x72563",
+        "email": "douglaspatterson@example.net",
+        "account": {
+            "account_number": "e30df295-f585-4b34-9a3b-aaac89d765f9",
+            "balance": 19829.27,
+            "transactions": [
+                {
+                    "date": "2023-10-18",
+                    "description": "Deposit",
+                    "amount": 27585.41,
+                    "transaction_id": 1412932
+                },
+                {
+                    "date": "2023-02-20",
+                    "description": "Interest",
+                    "amount": 49250.5,
+                    "transaction_id": 50214232
+                }
+            ]
+        }
+    }
+}

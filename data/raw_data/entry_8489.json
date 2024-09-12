@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jason Harmon",
+        "age": 31,
+        "gender": "male",
+        "address": "3561 Eaton Turnpike, West Jefferyhaven, UT 70710",
+        "phone": "(559)258-8740",
+        "email": "iwilliams@example.com",
+        "account": {
+            "account_number": "d7d97136-7e4e-4cb3-8cc1-35efae1f7850",
+            "balance": 41857.02,
+            "transactions": [
+                {
+                    "date": "2023-09-01",
+                    "description": "Withdrawal",
+                    "amount": 13292.23,
+                    "transaction_id": 101092565
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Interest",
+                    "amount": 49662.87,
+                    "transaction_id": 54228576
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Interest",
+                    "amount": 21042.55,
+                    "transaction_id": 58923474
+                },
+                {
+                    "date": "2024-04-10",
+                    "description": "Deposit",
+                    "amount": 34836.37,
+                    "transaction_id": 36450410
+                },
+                {
+                    "date": "2024-07-19",
+                    "description": "Deposit",
+                    "amount": 44270.31,
+                    "transaction_id": 14899457
+                }
+            ]
+        }
+    }
+}

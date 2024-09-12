@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Aaron Fuller",
+        "age": 43,
+        "gender": "male",
+        "address": "69687 Mcdaniel Ridges Suite 652, Jessicaside, IA 47176",
+        "phone": "3618188331",
+        "email": "johnroberts@example.org",
+        "account": {
+            "account_number": "b42a459c-3b9f-401f-b797-1ad5c5f472be",
+            "balance": 37765.21,
+            "transactions": [
+                {
+                    "date": "2023-03-19",
+                    "description": "Withdrawal",
+                    "amount": 30860.32,
+                    "transaction_id": 20878304
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Interest",
+                    "amount": 7875.88,
+                    "transaction_id": 44346164
+                },
+                {
+                    "date": "2024-02-08",
+                    "description": "Deposit",
+                    "amount": 35940.54,
+                    "transaction_id": 91655264
+                }
+            ]
+        }
+    }
+}

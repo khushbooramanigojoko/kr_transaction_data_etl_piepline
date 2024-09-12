@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Patrick Clay",
+        "age": 25,
+        "gender": "male",
+        "address": "4535 Adams Flats Suite 131, South Robertport, WI 65043",
+        "phone": "367.588.5798x66095",
+        "email": "beverly40@example.net",
+        "account": {
+            "account_number": "30b68d81-88ca-45f4-8988-1dc26c74900f",
+            "balance": 28993.23,
+            "transactions": [
+                {
+                    "date": "2022-10-31",
+                    "description": "Interest",
+                    "amount": 21697.65,
+                    "transaction_id": 67004599
+                }
+            ]
+        }
+    }
+}

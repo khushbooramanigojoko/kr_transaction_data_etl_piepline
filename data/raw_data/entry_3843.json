@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Meagan Diaz",
+        "age": 84,
+        "gender": "male",
+        "address": "7691 Peters Way, Matthewside, MS 66911",
+        "phone": "8015708520",
+        "email": "douglas25@example.com",
+        "account": {
+            "account_number": "bd2f507b-6741-4929-bdb3-b5721ea7fe40",
+            "balance": 42031.62,
+            "transactions": [
+                {
+                    "date": "2024-06-06",
+                    "description": "Withdrawal",
+                    "amount": 26296.67,
+                    "transaction_id": 47804423
+                },
+                {
+                    "date": "2023-01-25",
+                    "description": "Interest",
+                    "amount": 23759.29,
+                    "transaction_id": 1048459
+                }
+            ]
+        }
+    }
+}

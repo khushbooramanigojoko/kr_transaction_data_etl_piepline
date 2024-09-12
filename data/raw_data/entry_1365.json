@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brandi Kennedy",
+        "age": 64,
+        "gender": "male",
+        "address": "9716 Angela Mountains Suite 909, Angelicaview, SD 08424",
+        "phone": "290-597-4027x68336",
+        "email": "james50@example.org",
+        "account": {
+            "account_number": "06b6e904-4d7a-49c7-85fb-d166abca14ce",
+            "balance": 9878.78,
+            "transactions": [
+                {
+                    "date": "2024-01-13",
+                    "description": "Deposit",
+                    "amount": 14409.16,
+                    "transaction_id": 108821432
+                },
+                {
+                    "date": "2022-11-28",
+                    "description": "Withdrawal",
+                    "amount": 8705.02,
+                    "transaction_id": 85367251
+                },
+                {
+                    "date": "2024-07-06",
+                    "description": "Deposit",
+                    "amount": 8458.07,
+                    "transaction_id": 69058269
+                },
+                {
+                    "date": "2024-06-20",
+                    "description": "Interest",
+                    "amount": 47168.06,
+                    "transaction_id": 88068054
+                },
+                {
+                    "date": "2023-06-11",
+                    "description": "Deposit",
+                    "amount": 10267.07,
+                    "transaction_id": 57872150
+                }
+            ]
+        }
+    }
+}

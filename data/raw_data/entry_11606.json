@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 66,
+        "gender": "female",
+        "address": "773 Gomez Fords Apt. 472, North Angela, NY 05187",
+        "phone": "001-930-670-8619x042",
+        "email": "williamaustin@example.org",
+        "account": {
+            "account_number": "240a3c54-ac3c-44d1-b27f-f3d6dab73b40",
+            "balance": 5209.68,
+            "transactions": [
+                {
+                    "date": "2022-10-17",
+                    "description": "Withdrawal",
+                    "amount": 2404.79,
+                    "transaction_id": 113313229
+                },
+                {
+                    "date": "2024-07-31",
+                    "description": "Withdrawal",
+                    "amount": 4691.22,
+                    "transaction_id": 14138226
+                }
+            ]
+        }
+    }
+}

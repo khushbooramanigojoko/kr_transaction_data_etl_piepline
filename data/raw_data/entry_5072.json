@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jeffrey Villarreal",
+        "age": 52,
+        "gender": "female",
+        "address": "987 Kelsey Summit, Connerberg, PW 57981",
+        "phone": "(605)588-8717x355",
+        "email": "georgechoi@example.com",
+        "account": {
+            "account_number": "bb291f73-d541-4ba1-9d3d-3a8959d45fa2",
+            "balance": 20562.45,
+            "transactions": [
+                {
+                    "date": "2024-03-24",
+                    "description": "Interest",
+                    "amount": 2183.09,
+                    "transaction_id": 98857718
+                },
+                {
+                    "date": "2022-10-28",
+                    "description": "Deposit",
+                    "amount": 1931.84,
+                    "transaction_id": 106800255
+                }
+            ]
+        }
+    }
+}

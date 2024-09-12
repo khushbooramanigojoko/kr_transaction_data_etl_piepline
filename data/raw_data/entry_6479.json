@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Carlos Kelley",
+        "age": 91,
+        "gender": "female",
+        "address": "36477 Walker Circles, Robinsonbury, NV 07057",
+        "phone": "866-824-1687x96149",
+        "email": "holtgary@example.org",
+        "account": {
+            "account_number": "d43c54b1-6bca-43de-8acf-deffdf3075d2",
+            "balance": 27047.94,
+            "transactions": [
+                {
+                    "date": "2022-11-04",
+                    "description": "Interest",
+                    "amount": 32088.03,
+                    "transaction_id": 67031211
+                }
+            ]
+        }
+    }
+}

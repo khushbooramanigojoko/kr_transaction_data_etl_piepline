@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Michael Orr",
+        "age": 37,
+        "gender": "male",
+        "address": "0942 Stephen Parkways Apt. 124, South Danielle, GA 47448",
+        "phone": "624-239-9475x48154",
+        "email": "david83@example.com",
+        "account": {
+            "account_number": "a88439f8-0006-4075-baa2-1391b899c044",
+            "balance": 34609.7,
+            "transactions": [
+                {
+                    "date": "2023-01-12",
+                    "description": "Deposit",
+                    "amount": 32149.9,
+                    "transaction_id": 73513683
+                },
+                {
+                    "date": "2023-12-16",
+                    "description": "Withdrawal",
+                    "amount": 48711.64,
+                    "transaction_id": 16393291
+                },
+                {
+                    "date": "2023-03-15",
+                    "description": "Withdrawal",
+                    "amount": 28635.89,
+                    "transaction_id": 101035021
+                },
+                {
+                    "date": "2024-06-08",
+                    "description": "Withdrawal",
+                    "amount": 13587.27,
+                    "transaction_id": 63490056
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michelle Smith",
+        "age": 86,
+        "gender": "male",
+        "address": "10587 Kevin Cape Suite 217, Sarahstad, IN 23175",
+        "phone": "471-582-4818x20370",
+        "email": "zkim@example.com",
+        "account": {
+            "account_number": "26b29ae7-33ab-421f-9c68-3cc00a10ca0a",
+            "balance": -3045.27,
+            "transactions": [
+                {
+                    "date": "2024-06-17",
+                    "description": "Interest",
+                    "amount": -1105.93,
+                    "transaction_id": 58582486
+                }
+            ]
+        }
+    }
+}

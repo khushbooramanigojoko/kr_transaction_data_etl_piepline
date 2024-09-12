@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Angela Watkins",
+        "age": 27,
+        "gender": "male",
+        "address": "73056 Robbins Wall Apt. 396, East Jacqueline, TN 12830",
+        "phone": "(452)403-5665x60945",
+        "email": "turnerrebecca@example.net",
+        "account": {
+            "account_number": "a7650ec5-123f-49d5-a1fd-5ff08a9f0259",
+            "balance": 39987.37,
+            "transactions": [
+                {
+                    "date": "2022-11-19",
+                    "description": "Withdrawal",
+                    "amount": 20799.51,
+                    "transaction_id": 69068041
+                }
+            ]
+        }
+    }
+}

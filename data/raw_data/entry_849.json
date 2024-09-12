@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Oconnor",
+        "age": 52,
+        "gender": "female",
+        "address": "25855 Erin Hollow, Port David, PR 29789",
+        "phone": "470-457-9522x87960",
+        "email": "watsonjason@example.com",
+        "account": {
+            "account_number": "516ac839-a1c5-4efd-a3dc-0b8f18576f8c",
+            "balance": 9707.6,
+            "transactions": [
+                {
+                    "date": "2023-07-20",
+                    "description": "Withdrawal",
+                    "amount": 33890.33,
+                    "transaction_id": 42230204
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Withdrawal",
+                    "amount": 32825.66,
+                    "transaction_id": 3836087
+                }
+            ]
+        }
+    }
+}

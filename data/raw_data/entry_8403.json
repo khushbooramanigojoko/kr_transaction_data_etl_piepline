@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Donna Mitchell",
+        "age": 64,
+        "gender": "male",
+        "address": "807 Johnson Summit Suite 472, Lake Stephanie, WY 09021",
+        "phone": "001-835-745-1794x671",
+        "email": "vscott@example.com",
+        "account": {
+            "account_number": "5339d8c2-0c17-416f-a83c-94b073086b6e",
+            "balance": 40705.69,
+            "transactions": [
+                {
+                    "date": "2023-03-18",
+                    "description": "Interest",
+                    "amount": 9769.5,
+                    "transaction_id": 42592877
+                },
+                {
+                    "date": "2024-01-11",
+                    "description": "Interest",
+                    "amount": 26697.54,
+                    "transaction_id": 25575634
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Deposit",
+                    "amount": 10405.61,
+                    "transaction_id": 69301922
+                }
+            ]
+        }
+    }
+}

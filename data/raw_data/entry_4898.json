@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Edward Holt",
+        "age": 83,
+        "gender": "male",
+        "address": "41278 Johnson Pines Suite 452, Dyerchester, IN 68380",
+        "phone": "(820)346-2927",
+        "email": "morrisannette@example.net",
+        "account": {
+            "account_number": "2cd63414-a87b-41a8-a350-4d57a9d2564e",
+            "balance": 30718.92,
+            "transactions": [
+                {
+                    "date": "2023-12-24",
+                    "description": "Interest",
+                    "amount": 46943.42,
+                    "transaction_id": 107665550
+                },
+                {
+                    "date": "2024-03-24",
+                    "description": "Deposit",
+                    "amount": 15218.18,
+                    "transaction_id": 56803126
+                },
+                {
+                    "date": "2024-01-27",
+                    "description": "Deposit",
+                    "amount": 23269.6,
+                    "transaction_id": 77694778
+                },
+                {
+                    "date": "2022-09-04",
+                    "description": "Withdrawal",
+                    "amount": 25070.61,
+                    "transaction_id": 46274181
+                },
+                {
+                    "date": "2023-08-10",
+                    "description": "Withdrawal",
+                    "amount": 12139.81,
+                    "transaction_id": 78982116
+                }
+            ]
+        }
+    }
+}

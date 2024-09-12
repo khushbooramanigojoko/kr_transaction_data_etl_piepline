@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jerry Lucas",
+        "age": 60,
+        "gender": "female",
+        "address": "4533 Alicia Plaza, Lake Shawnshire, PA 07477",
+        "phone": "001-983-825-6621",
+        "email": "ihill@example.com",
+        "account": {
+            "account_number": "78b18e6c-d030-4084-89ee-d4eb4838cc5e",
+            "balance": -3514.36,
+            "transactions": [
+                {
+                    "date": "2023-12-24",
+                    "description": "Interest",
+                    "amount": 2590.7,
+                    "transaction_id": 87889544
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 84,
+        "gender": "female",
+        "address": "07022 Leonard Square Suite 974, Kevinfurt, NJ 04352",
+        "phone": "739.555.3068x9209",
+        "email": "kaylajones@example.net",
+        "account": {
+            "account_number": "cefb5578-7938-409b-a697-d51e487d2b10",
+            "balance": 26663.2,
+            "transactions": [
+                {
+                    "date": "2024-05-12",
+                    "description": "Deposit",
+                    "amount": -4817.39,
+                    "transaction_id": 113087581
+                },
+                {
+                    "date": "2024-05-01",
+                    "description": "Interest",
+                    "amount": -3165.8,
+                    "transaction_id": 106041523
+                },
+                {
+                    "date": "2023-05-29",
+                    "description": "Interest",
+                    "amount": 389.79,
+                    "transaction_id": 55119942
+                },
+                {
+                    "date": "2023-01-16",
+                    "description": "Deposit",
+                    "amount": -4642.34,
+                    "transaction_id": 109047055
+                },
+                {
+                    "date": "2023-08-20",
+                    "description": "Deposit",
+                    "amount": -1882.69,
+                    "transaction_id": 38676943
+                }
+            ]
+        }
+    }
+}

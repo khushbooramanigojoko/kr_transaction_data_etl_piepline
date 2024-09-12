@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Terry Erickson",
+        "age": 85,
+        "gender": "male",
+        "address": "Unit 4497 Box 6674, DPO AP 40972",
+        "phone": "+1-732-519-1703x708",
+        "email": "adamssean@example.com",
+        "account": {
+            "account_number": "13df20d5-bc80-4086-b21b-4d0f920f8e48",
+            "balance": 16362.13,
+            "transactions": [
+                {
+                    "date": "2023-10-26",
+                    "description": "Withdrawal",
+                    "amount": 37156.5,
+                    "transaction_id": 65785738
+                },
+                {
+                    "date": "2022-09-13",
+                    "description": "Deposit",
+                    "amount": 34330.0,
+                    "transaction_id": 105372792
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Carolyn Williamson",
+        "age": 53,
+        "gender": "male",
+        "address": "79869 Lopez Hollow Suite 139, North Crystal, WI 32282",
+        "phone": "698.482.3599",
+        "email": "michaelricky@example.com",
+        "account": {
+            "account_number": "1578a73a-cf8b-41d9-b432-dff05fe7638d",
+            "balance": 42681.29,
+            "transactions": [
+                {
+                    "date": "2023-09-02",
+                    "description": "Withdrawal",
+                    "amount": 6824.54,
+                    "transaction_id": 57253053
+                },
+                {
+                    "date": "2024-04-30",
+                    "description": "Interest",
+                    "amount": 3237.43,
+                    "transaction_id": 40909678
+                },
+                {
+                    "date": "2024-01-16",
+                    "description": "Deposit",
+                    "amount": 48689.3,
+                    "transaction_id": 67175373
+                }
+            ]
+        }
+    }
+}

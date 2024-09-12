@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Collin Berry",
+        "age": 38,
+        "gender": "male",
+        "address": "0405 Martin Port Suite 338, Rodriguezburgh, NH 75539",
+        "phone": "(671)848-2085x4240",
+        "email": "fcalhoun@example.org",
+        "account": {
+            "account_number": "c3c7721c-139b-4549-9c7f-17acf695823f",
+            "balance": -41648.85,
+            "transactions": [
+                {
+                    "date": "2023-10-28",
+                    "description": "Withdrawal",
+                    "amount": 3261.72,
+                    "transaction_id": 39975800
+                },
+                {
+                    "date": "2022-09-05",
+                    "description": "Withdrawal",
+                    "amount": -1079.12,
+                    "transaction_id": 35347271
+                }
+            ]
+        }
+    }
+}

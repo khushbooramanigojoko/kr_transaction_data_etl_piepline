@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mr. Kevin Jones",
+        "age": 98,
+        "gender": "male",
+        "address": "1394 Adam River Apt. 219, Matthewhaven, NH 11677",
+        "phone": "001-288-855-5195x38634",
+        "email": "umiller@example.org",
+        "account": {
+            "account_number": "ed7b1918-9148-446f-b0a9-1c71f487967a",
+            "balance": 25436.94,
+            "transactions": [
+                {
+                    "date": "2022-11-14",
+                    "description": "Interest",
+                    "amount": 34209.54,
+                    "transaction_id": 30669332
+                }
+            ]
+        }
+    }
+}

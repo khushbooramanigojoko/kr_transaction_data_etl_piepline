@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michael Rojas",
+        "age": 32,
+        "gender": "female",
+        "address": "9959 Smith Plains Apt. 931, Tammymouth, KY 92893",
+        "phone": "+1-955-801-3413",
+        "email": "lcontreras@example.com",
+        "account": {
+            "account_number": "bbc4270a-e006-45a0-8917-170fd0e019e5",
+            "balance": 13912.87,
+            "transactions": [
+                {
+                    "date": "2022-12-15",
+                    "description": "Deposit",
+                    "amount": 2499.28,
+                    "transaction_id": 81188008
+                },
+                {
+                    "date": "2023-01-11",
+                    "description": "Interest",
+                    "amount": 4832.97,
+                    "transaction_id": 101512171
+                },
+                {
+                    "date": "2024-04-23",
+                    "description": "Withdrawal",
+                    "amount": 36563.63,
+                    "transaction_id": 113750468
+                },
+                {
+                    "date": "2023-03-16",
+                    "description": "Deposit",
+                    "amount": 9737.48,
+                    "transaction_id": 23550147
+                },
+                {
+                    "date": "2022-12-09",
+                    "description": "Deposit",
+                    "amount": 41016.15,
+                    "transaction_id": 72877839
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Eric Gonzales",
+        "age": 42,
+        "gender": "female",
+        "address": "9214 Randall Grove Suite 162, Johnstonton, VI 04822",
+        "phone": "385.708.7515x7192",
+        "email": "kevinpalmer@example.net",
+        "account": {
+            "account_number": "bb17eb8b-f47a-4ffc-82bc-b1e906c4aa3a",
+            "balance": 7076.01,
+            "transactions": [
+                {
+                    "date": "2023-04-08",
+                    "description": "Withdrawal",
+                    "amount": 10950.18,
+                    "transaction_id": 40649211
+                }
+            ]
+        }
+    }
+}

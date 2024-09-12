@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lisa Barajas",
+        "age": 34,
+        "gender": "female",
+        "address": "4596 Matthew Road, Richtown, NE 18678",
+        "phone": "5809586165",
+        "email": "hectoracosta@example.com",
+        "account": {
+            "account_number": "ff133634-9c5b-4330-9e07-620a5f7f91f3",
+            "balance": 44798.82,
+            "transactions": [
+                {
+                    "date": "2022-12-28",
+                    "description": "Withdrawal",
+                    "amount": 15257.35,
+                    "transaction_id": 57926013
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "David Hartman",
+        "age": 59,
+        "gender": "male",
+        "address": "695 Katherine Meadow, Millerhaven, ME 57331",
+        "phone": "481.327.3539",
+        "email": "nicole76@example.com",
+        "account": {
+            "account_number": "c0d7d31d-ab72-43e9-b1a3-2d658f09c606",
+            "balance": 7877.05,
+            "transactions": [
+                {
+                    "date": "2023-01-10",
+                    "description": "Interest",
+                    "amount": 11392.65,
+                    "transaction_id": 90586759
+                },
+                {
+                    "date": "2024-05-31",
+                    "description": "Deposit",
+                    "amount": 38097.49,
+                    "transaction_id": 85170118
+                },
+                {
+                    "date": "2024-07-30",
+                    "description": "Deposit",
+                    "amount": 8209.27,
+                    "transaction_id": 100902688
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Withdrawal",
+                    "amount": 23683.94,
+                    "transaction_id": 106038670
+                }
+            ]
+        }
+    }
+}

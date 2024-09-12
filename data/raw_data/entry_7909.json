@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Rebecca Bonilla",
+        "age": 24,
+        "gender": "male",
+        "address": "USS Sweeney, FPO AP 56761",
+        "phone": "(637)884-4088",
+        "email": "riveradaniel@example.org",
+        "account": {
+            "account_number": "eb871331-1d25-4c6f-b0c2-73857cb0373c",
+            "balance": 33070.47,
+            "transactions": [
+                {
+                    "date": "2023-11-15",
+                    "description": "Interest",
+                    "amount": 29550.04,
+                    "transaction_id": 16354631
+                }
+            ]
+        }
+    }
+}

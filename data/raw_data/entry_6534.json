@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Pamela Bernard",
+        "age": 63,
+        "gender": "male",
+        "address": "USNS Martinez, FPO AA 26020",
+        "phone": "(504)454-2576",
+        "email": "meghan86@example.org",
+        "account": {
+            "account_number": "035e6b60-6191-4ce8-bf12-6efc6ad8f070",
+            "balance": 16227.3,
+            "transactions": [
+                {
+                    "date": "2024-01-03",
+                    "description": "Interest",
+                    "amount": 45292.3,
+                    "transaction_id": 68795675
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Deposit",
+                    "amount": 9132.75,
+                    "transaction_id": 63573026
+                },
+                {
+                    "date": "2024-08-30",
+                    "description": "Withdrawal",
+                    "amount": 22514.96,
+                    "transaction_id": 64824869
+                },
+                {
+                    "date": "2023-07-10",
+                    "description": "Withdrawal",
+                    "amount": 9980.47,
+                    "transaction_id": 22350253
+                },
+                {
+                    "date": "2024-03-13",
+                    "description": "Deposit",
+                    "amount": 1636.45,
+                    "transaction_id": 1811087
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lydia Vaughn",
+        "age": 97,
+        "gender": "male",
+        "address": "854 Frye Roads, North Stephenton, PR 50161",
+        "phone": "(933)990-7627",
+        "email": "pdelacruz@example.net",
+        "account": {
+            "account_number": "71fb87a5-eaf6-4634-b8c1-51ae993ea5a3",
+            "balance": 42519.17,
+            "transactions": [
+                {
+                    "date": "2023-05-11",
+                    "description": "Interest",
+                    "amount": 48499.51,
+                    "transaction_id": 51054281
+                }
+            ]
+        }
+    }
+}

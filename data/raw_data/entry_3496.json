@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Catherine Mahoney",
+        "age": 94,
+        "gender": "female",
+        "address": "049 Brian Stravenue Suite 240, Michaelshire, IN 66978",
+        "phone": "001-792-344-7596x758",
+        "email": "william30@example.org",
+        "account": {
+            "account_number": "1d74218c-cfa6-4b92-9366-02ca37312d8c",
+            "balance": 44022.66,
+            "transactions": [
+                {
+                    "date": "2023-03-12",
+                    "description": "Interest",
+                    "amount": 16410.53,
+                    "transaction_id": 38029497
+                },
+                {
+                    "date": "2022-09-19",
+                    "description": "Interest",
+                    "amount": 39921.63,
+                    "transaction_id": 57008987
+                },
+                {
+                    "date": "2023-09-24",
+                    "description": "Interest",
+                    "amount": 5040.3,
+                    "transaction_id": 113228876
+                },
+                {
+                    "date": "2024-04-08",
+                    "description": "Withdrawal",
+                    "amount": 16286.89,
+                    "transaction_id": 53308960
+                },
+                {
+                    "date": "2023-12-14",
+                    "description": "Withdrawal",
+                    "amount": 2244.94,
+                    "transaction_id": 77428537
+                }
+            ]
+        }
+    }
+}

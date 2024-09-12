@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jennifer Gutierrez",
+        "age": 98,
+        "gender": "male",
+        "address": "75251 Barton Corners Suite 282, East Edward, NE 77830",
+        "phone": "+1-408-282-0068x1420",
+        "email": "rwilliams@example.com",
+        "account": {
+            "account_number": "8123afcb-1c3a-4240-a560-18f87e50f16a",
+            "balance": 43378.78,
+            "transactions": [
+                {
+                    "date": "2024-08-21",
+                    "description": "Deposit",
+                    "amount": 38411.68,
+                    "transaction_id": 37155593
+                },
+                {
+                    "date": "2023-12-08",
+                    "description": "Deposit",
+                    "amount": 10446.41,
+                    "transaction_id": 119656325
+                }
+            ]
+        }
+    }
+}

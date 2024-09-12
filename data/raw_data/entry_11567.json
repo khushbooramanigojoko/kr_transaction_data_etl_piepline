@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Tracy Warren",
+        "age": 64,
+        "gender": "female",
+        "address": "6037 Kevin Rest, West Jonathan, PA 09600",
+        "phone": "001-949-492-7619",
+        "email": "loretta94@example.org",
+        "account": {
+            "account_number": "65d326e5-ab96-4f77-ab28-cf5b97f49d9b",
+            "balance": -12625.22,
+            "transactions": [
+                {
+                    "date": "2023-05-19",
+                    "description": "Deposit",
+                    "amount": -4455.59,
+                    "transaction_id": 22904510
+                },
+                {
+                    "date": "2024-06-23",
+                    "description": "Interest",
+                    "amount": 811.18,
+                    "transaction_id": 37039965
+                },
+                {
+                    "date": "2023-02-02",
+                    "description": "Interest",
+                    "amount": 45.5,
+                    "transaction_id": 62064227
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Withdrawal",
+                    "amount": -3137.04,
+                    "transaction_id": 16880545
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Withdrawal",
+                    "amount": -4325.92,
+                    "transaction_id": 24186997
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 26,
+        "gender": "male",
+        "address": "918 Christopher Plains Suite 891, Hawkinshaven, ME 71870",
+        "phone": "7978728599",
+        "email": "austin86@example.org",
+        "account": {
+            "account_number": "468582e4-e53c-4dd4-b02e-488369846ab0",
+            "balance": 7568.57,
+            "transactions": [
+                {
+                    "date": "2024-02-24",
+                    "description": "Withdrawal",
+                    "amount": -2163.46,
+                    "transaction_id": 102542737
+                }
+            ]
+        }
+    }
+}

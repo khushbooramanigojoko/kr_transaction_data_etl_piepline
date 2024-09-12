@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michelle Stewart",
+        "age": 36,
+        "gender": "male",
+        "address": "286 Vance Knoll Apt. 462, Sarahtown, CT 63584",
+        "phone": "+1-729-369-4811x7116",
+        "email": "mitchelljohnson@example.org",
+        "account": {
+            "account_number": "ecc4234d-ceb5-4f23-b5e1-a4787e2c4d19",
+            "balance": -8316.09,
+            "transactions": [
+                {
+                    "date": "2023-02-07",
+                    "description": "Withdrawal",
+                    "amount": -2498.04,
+                    "transaction_id": 33641076
+                }
+            ]
+        }
+    }
+}

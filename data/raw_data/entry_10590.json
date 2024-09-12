@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Sophia Ramirez",
+        "age": 38,
+        "gender": "female",
+        "address": "88708 Carter Extension Suite 873, Christinestad, GA 14307",
+        "phone": "001-721-346-5242x8565",
+        "email": "emilymiller@example.com",
+        "account": {
+            "account_number": "0a10f5bc-33cf-44f0-9d41-8fae4d0fd91a",
+            "balance": -35395.22,
+            "transactions": [
+                {
+                    "date": "2024-02-18",
+                    "description": "Interest",
+                    "amount": -3564.89,
+                    "transaction_id": 79901403
+                },
+                {
+                    "date": "2023-11-07",
+                    "description": "Deposit",
+                    "amount": 4146.43,
+                    "transaction_id": 107079396
+                },
+                {
+                    "date": "2023-04-12",
+                    "description": "Withdrawal",
+                    "amount": -2669.16,
+                    "transaction_id": 113205626
+                }
+            ]
+        }
+    }
+}

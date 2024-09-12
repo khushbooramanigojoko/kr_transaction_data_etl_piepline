@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Alicia Ray",
+        "age": 57,
+        "gender": "female",
+        "address": "7383 Young Oval Apt. 612, Karenmouth, SC 26246",
+        "phone": "4007827792",
+        "email": "joe30@example.net",
+        "account": {
+            "account_number": "14873e81-ca72-4a03-8948-68fb2ba62ad0",
+            "balance": 3570.76,
+            "transactions": [
+                {
+                    "date": "2023-05-08",
+                    "description": "Deposit",
+                    "amount": 35408.9,
+                    "transaction_id": 23621715
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Interest",
+                    "amount": 7589.51,
+                    "transaction_id": 117587696
+                },
+                {
+                    "date": "2024-05-07",
+                    "description": "Deposit",
+                    "amount": 29482.88,
+                    "transaction_id": 20377223
+                },
+                {
+                    "date": "2023-02-16",
+                    "description": "Deposit",
+                    "amount": 38981.34,
+                    "transaction_id": 66368221
+                }
+            ]
+        }
+    }
+}

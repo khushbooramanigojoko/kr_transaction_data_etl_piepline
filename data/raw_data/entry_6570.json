@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Elizabeth Clark",
+        "age": 18,
+        "gender": "female",
+        "address": "USS Nolan, FPO AP 27994",
+        "phone": "+1-674-765-6183x4437",
+        "email": "heathermoore@example.net",
+        "account": {
+            "account_number": "1266e878-4e27-4e47-a250-62b95bc589d1",
+            "balance": 8725.93,
+            "transactions": [
+                {
+                    "date": "2023-05-13",
+                    "description": "Interest",
+                    "amount": 45679.21,
+                    "transaction_id": 49593697
+                }
+            ]
+        }
+    }
+}

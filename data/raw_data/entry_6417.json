@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jill Smith",
+        "age": 91,
+        "gender": "male",
+        "address": "32086 Miguel Forks, East Tiffany, GA 88722",
+        "phone": "564-441-1102x5172",
+        "email": "ashleyleon@example.net",
+        "account": {
+            "account_number": "d8bc8a9f-40ef-4622-8f6d-d37336b1a0ae",
+            "balance": 24643.2,
+            "transactions": [
+                {
+                    "date": "2023-09-20",
+                    "description": "Interest",
+                    "amount": 11146.46,
+                    "transaction_id": 85995451
+                },
+                {
+                    "date": "2023-01-03",
+                    "description": "Interest",
+                    "amount": 2977.83,
+                    "transaction_id": 18518090
+                }
+            ]
+        }
+    }
+}

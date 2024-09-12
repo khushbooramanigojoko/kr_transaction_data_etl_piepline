@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Nathan Rogers",
+        "age": 50,
+        "gender": "male",
+        "address": "USNV Reynolds, FPO AA 48277",
+        "phone": "606-374-6976",
+        "email": "duncancarla@example.net",
+        "account": {
+            "account_number": "aa18cdf0-948e-42fe-b2a8-dcf4d3631765",
+            "balance": 21921.85,
+            "transactions": [
+                {
+                    "date": "2024-07-29",
+                    "description": "Withdrawal",
+                    "amount": 32534.85,
+                    "transaction_id": 81495583
+                }
+            ]
+        }
+    }
+}

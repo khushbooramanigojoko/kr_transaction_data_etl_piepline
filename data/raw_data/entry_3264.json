@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Joseph Castro",
+        "age": 81,
+        "gender": "female",
+        "address": "38928 Renee Trail, Christopherstad, NC 70842",
+        "phone": "721.883.6103",
+        "email": "loganterry@example.net",
+        "account": {
+            "account_number": "5b5df679-9b81-4ce2-b0e0-ee48a64304d1",
+            "balance": 29560.63,
+            "transactions": [
+                {
+                    "date": "2024-02-23",
+                    "description": "Deposit",
+                    "amount": 8844.52,
+                    "transaction_id": 50036342
+                }
+            ]
+        }
+    }
+}

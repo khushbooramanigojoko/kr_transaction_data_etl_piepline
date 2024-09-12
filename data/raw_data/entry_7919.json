@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Antonio Conley",
+        "age": 33,
+        "gender": "female",
+        "address": "34564 Jacob Greens Apt. 888, Travisberg, GU 76311",
+        "phone": "001-984-466-7472",
+        "email": "mooreandrew@example.net",
+        "account": {
+            "account_number": "c1458ac6-5ed9-43d6-8ef7-e0b5f3d517eb",
+            "balance": 47978.21,
+            "transactions": [
+                {
+                    "date": "2024-02-23",
+                    "description": "Deposit",
+                    "amount": 12932.37,
+                    "transaction_id": 56211966
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Deposit",
+                    "amount": 18263.6,
+                    "transaction_id": 93826603
+                },
+                {
+                    "date": "2023-09-13",
+                    "description": "Deposit",
+                    "amount": 33979.6,
+                    "transaction_id": 105373765
+                },
+                {
+                    "date": "2023-03-12",
+                    "description": "Withdrawal",
+                    "amount": 41068.91,
+                    "transaction_id": 5181960
+                }
+            ]
+        }
+    }
+}

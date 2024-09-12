@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Ryan Smith",
+        "age": 81,
+        "gender": "male",
+        "address": "0629 Wilson Overpass Apt. 060, North Carlaville, MD 82767",
+        "phone": "001-209-645-1099",
+        "email": "claytontina@example.net",
+        "account": {
+            "account_number": "51a7d048-b125-4dff-9219-8564e7deda93",
+            "balance": 10409.39,
+            "transactions": [
+                {
+                    "date": "2024-01-24",
+                    "description": "Interest",
+                    "amount": 13805.24,
+                    "transaction_id": 113792039
+                },
+                {
+                    "date": "2024-03-12",
+                    "description": "Withdrawal",
+                    "amount": 27876.26,
+                    "transaction_id": 96759004
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Withdrawal",
+                    "amount": 5778.89,
+                    "transaction_id": 37336804
+                },
+                {
+                    "date": "2023-09-07",
+                    "description": "Interest",
+                    "amount": 44463.74,
+                    "transaction_id": 50297661
+                }
+            ]
+        }
+    }
+}

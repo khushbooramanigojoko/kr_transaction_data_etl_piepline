@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Linda Smith",
+        "age": 82,
+        "gender": "male",
+        "address": "662 Nicholas Island, North Mark, PA 82293",
+        "phone": "+1-238-344-2390",
+        "email": "jenniferparsons@example.net",
+        "account": {
+            "account_number": "af984ea3-3865-4c86-8ded-266bf15822b7",
+            "balance": 25514.48,
+            "transactions": [
+                {
+                    "date": "2024-01-22",
+                    "description": "Deposit",
+                    "amount": 9143.07,
+                    "transaction_id": 92919845
+                },
+                {
+                    "date": "2022-10-15",
+                    "description": "Withdrawal",
+                    "amount": 37684.97,
+                    "transaction_id": 64312769
+                }
+            ]
+        }
+    }
+}

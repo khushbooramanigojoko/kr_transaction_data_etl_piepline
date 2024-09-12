@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Krista Cobb",
+        "age": 47,
+        "gender": "male",
+        "address": "939 Julia Radial, Kathyland, WY 47377",
+        "phone": "606.387.6259x48571",
+        "email": "antonio92@example.org",
+        "account": {
+            "account_number": "3f63d1d0-931f-47fe-95e5-59e994985b56",
+            "balance": -21475.22,
+            "transactions": [
+                {
+                    "date": "2024-04-27",
+                    "description": "Withdrawal",
+                    "amount": -1555.07,
+                    "transaction_id": 81394391
+                },
+                {
+                    "date": "2022-09-17",
+                    "description": "Interest",
+                    "amount": 275.33,
+                    "transaction_id": 105546540
+                }
+            ]
+        }
+    }
+}

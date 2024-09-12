@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "John Brown",
+        "age": 85,
+        "gender": "male",
+        "address": "484 Brenda Knolls Apt. 102, Josephton, FM 72994",
+        "phone": "965.844.1340x7257",
+        "email": "michael62@example.com",
+        "account": {
+            "account_number": "69d88285-b676-4228-9749-cdeb27d9bd58",
+            "balance": -24474.82,
+            "transactions": [
+                {
+                    "date": "2024-07-16",
+                    "description": "Interest",
+                    "amount": 66.18,
+                    "transaction_id": 35943357
+                }
+            ]
+        }
+    }
+}

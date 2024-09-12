@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tasha Alexander",
+        "age": 99,
+        "gender": "female",
+        "address": "33385 Anderson Crossroad, New Michelle, DE 48698",
+        "phone": "001-475-736-0854x6854",
+        "email": "fordwilliam@example.com",
+        "account": {
+            "account_number": "df64622e-7d39-46da-8130-029c608650bf",
+            "balance": 29831.39,
+            "transactions": [
+                {
+                    "date": "2023-03-02",
+                    "description": "Withdrawal",
+                    "amount": 21544.99,
+                    "transaction_id": 37449796
+                },
+                {
+                    "date": "2023-02-18",
+                    "description": "Interest",
+                    "amount": 38174.15,
+                    "transaction_id": 56424178
+                },
+                {
+                    "date": "2024-06-04",
+                    "description": "Interest",
+                    "amount": 26269.98,
+                    "transaction_id": 11238237
+                }
+            ]
+        }
+    }
+}

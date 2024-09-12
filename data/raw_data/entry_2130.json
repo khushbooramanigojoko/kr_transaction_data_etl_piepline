@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Alan Frederick",
+        "age": 21,
+        "gender": "male",
+        "address": "9098 Joshua Mount, Port Amyfort, ND 88656",
+        "phone": "001-565-288-0790x3748",
+        "email": "hernandezkyle@example.com",
+        "account": {
+            "account_number": "c4368364-c3d3-4b5a-80ef-302dd98655f2",
+            "balance": 22797.83,
+            "transactions": [
+                {
+                    "date": "2022-12-23",
+                    "description": "Interest",
+                    "amount": 26400.84,
+                    "transaction_id": 60682456
+                },
+                {
+                    "date": "2023-09-30",
+                    "description": "Deposit",
+                    "amount": 48747.08,
+                    "transaction_id": 114942878
+                }
+            ]
+        }
+    }
+}

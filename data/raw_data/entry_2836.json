@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Maria Rodriguez",
+        "age": 73,
+        "gender": "male",
+        "address": "24921 Keller Stravenue Apt. 802, Smithport, NY 83431",
+        "phone": "(305)932-7194",
+        "email": "cynthiatodd@example.org",
+        "account": {
+            "account_number": "8558750d-7183-464e-a8db-3e2c90ad698d",
+            "balance": 38012.6,
+            "transactions": [
+                {
+                    "date": "2022-12-26",
+                    "description": "Deposit",
+                    "amount": 27614.11,
+                    "transaction_id": 36212054
+                },
+                {
+                    "date": "2023-12-18",
+                    "description": "Interest",
+                    "amount": 35136.86,
+                    "transaction_id": 62997348
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Withdrawal",
+                    "amount": 38936.76,
+                    "transaction_id": 88272660
+                },
+                {
+                    "date": "2024-05-14",
+                    "description": "Interest",
+                    "amount": 22182.27,
+                    "transaction_id": 4685231
+                }
+            ]
+        }
+    }
+}

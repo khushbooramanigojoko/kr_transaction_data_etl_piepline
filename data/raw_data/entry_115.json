@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Joseph Cisneros",
+        "age": 64,
+        "gender": "male",
+        "address": "3232 John Highway Suite 592, Morrisside, OR 96232",
+        "phone": "001-213-876-6097x131",
+        "email": "kgarcia@example.org",
+        "account": {
+            "account_number": "a70615c9-484b-4415-bacb-437520cca5fa",
+            "balance": 49917.63,
+            "transactions": [
+                {
+                    "date": "2023-11-26",
+                    "description": "Deposit",
+                    "amount": 9699.35,
+                    "transaction_id": 37834285
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Withdrawal",
+                    "amount": 31782.24,
+                    "transaction_id": 87571156
+                },
+                {
+                    "date": "2022-10-18",
+                    "description": "Withdrawal",
+                    "amount": 43826.32,
+                    "transaction_id": 56897993
+                },
+                {
+                    "date": "2023-06-13",
+                    "description": "Interest",
+                    "amount": 23063.36,
+                    "transaction_id": 7905212
+                }
+            ]
+        }
+    }
+}

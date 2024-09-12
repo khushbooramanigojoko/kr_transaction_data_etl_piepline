@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Abigail Robinson",
+        "age": 52,
+        "gender": "male",
+        "address": "90189 Singh Cliffs, Nicholastown, GU 66269",
+        "phone": "394.477.3460x042",
+        "email": "heather96@example.org",
+        "account": {
+            "account_number": "6919c20a-1906-4032-95a5-3b39a575a4bd",
+            "balance": -3401.3,
+            "transactions": [
+                {
+                    "date": "2023-08-20",
+                    "description": "Withdrawal",
+                    "amount": 4961.09,
+                    "transaction_id": 11159124
+                },
+                {
+                    "date": "2024-03-23",
+                    "description": "Deposit",
+                    "amount": 951.69,
+                    "transaction_id": 4927599
+                },
+                {
+                    "date": "2022-12-30",
+                    "description": "Withdrawal",
+                    "amount": 2330.39,
+                    "transaction_id": 111402597
+                },
+                {
+                    "date": "2023-10-10",
+                    "description": "Deposit",
+                    "amount": -3731.75,
+                    "transaction_id": 2842529
+                },
+                {
+                    "date": "2024-03-31",
+                    "description": "Withdrawal",
+                    "amount": 2223.03,
+                    "transaction_id": 99195782
+                }
+            ]
+        }
+    }
+}

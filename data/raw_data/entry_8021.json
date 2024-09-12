@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Patrick Bates",
+        "age": 67,
+        "gender": "female",
+        "address": "49442 Diane Light, Port Tonyabury, IN 25962",
+        "phone": "9432596586",
+        "email": "stephendonaldson@example.net",
+        "account": {
+            "account_number": "1dae04e5-5eec-4b59-81ae-4763f2938d61",
+            "balance": 41258.51,
+            "transactions": [
+                {
+                    "date": "2023-03-14",
+                    "description": "Deposit",
+                    "amount": 24385.34,
+                    "transaction_id": 2504764
+                },
+                {
+                    "date": "2023-07-16",
+                    "description": "Withdrawal",
+                    "amount": 13470.44,
+                    "transaction_id": 42879375
+                },
+                {
+                    "date": "2024-04-29",
+                    "description": "Interest",
+                    "amount": 15104.82,
+                    "transaction_id": 88882861
+                },
+                {
+                    "date": "2023-05-22",
+                    "description": "Interest",
+                    "amount": 47709.2,
+                    "transaction_id": 2445423
+                },
+                {
+                    "date": "2022-11-25",
+                    "description": "Withdrawal",
+                    "amount": 46453.68,
+                    "transaction_id": 59850791
+                }
+            ]
+        }
+    }
+}

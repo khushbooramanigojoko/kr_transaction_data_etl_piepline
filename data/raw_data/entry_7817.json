@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Anthony Brown",
+        "age": 93,
+        "gender": "male",
+        "address": "452 Howell Port Suite 776, South Larryshire, MO 61620",
+        "phone": "001-315-869-9594x990",
+        "email": "christopherwilson@example.com",
+        "account": {
+            "account_number": "4b78adc1-cdcf-4af9-aaa4-f49a6f1101b1",
+            "balance": 31994.35,
+            "transactions": [
+                {
+                    "date": "2023-02-22",
+                    "description": "Deposit",
+                    "amount": 19168.39,
+                    "transaction_id": 13878879
+                },
+                {
+                    "date": "2024-08-23",
+                    "description": "Withdrawal",
+                    "amount": 16897.58,
+                    "transaction_id": 67244770
+                },
+                {
+                    "date": "2024-03-17",
+                    "description": "Interest",
+                    "amount": 36266.46,
+                    "transaction_id": 29461739
+                },
+                {
+                    "date": "2023-05-09",
+                    "description": "Withdrawal",
+                    "amount": 1638.67,
+                    "transaction_id": 78462597
+                },
+                {
+                    "date": "2023-07-21",
+                    "description": "Deposit",
+                    "amount": 47480.5,
+                    "transaction_id": 90717590
+                }
+            ]
+        }
+    }
+}

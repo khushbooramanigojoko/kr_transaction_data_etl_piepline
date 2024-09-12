@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kara Walker",
+        "age": 85,
+        "gender": "male",
+        "address": "Unit 8101 Box 0439, DPO AE 64231",
+        "phone": "(900)545-0453x85140",
+        "email": "richnicole@example.org",
+        "account": {
+            "account_number": "950d85ff-459b-44a0-ad40-9714aa2641bd",
+            "balance": 30511.39,
+            "transactions": [
+                {
+                    "date": "2023-07-31",
+                    "description": "Withdrawal",
+                    "amount": 5594.08,
+                    "transaction_id": 67912977
+                }
+            ]
+        }
+    }
+}

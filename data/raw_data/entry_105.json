@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "William Whitaker",
+        "age": 88,
+        "gender": "female",
+        "address": "937 Jennifer Glens Suite 846, South Shelbyview, NH 16033",
+        "phone": "+1-225-548-0901",
+        "email": "yhodge@example.org",
+        "account": {
+            "account_number": "7e4a1b34-0046-43cb-a033-1bb6208a73b9",
+            "balance": 19886.09,
+            "transactions": [
+                {
+                    "date": "2022-09-09",
+                    "description": "Interest",
+                    "amount": 33257.2,
+                    "transaction_id": 75715951
+                },
+                {
+                    "date": "2024-04-18",
+                    "description": "Deposit",
+                    "amount": 47077.83,
+                    "transaction_id": 55888599
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 21,
+        "gender": "male",
+        "address": "39265 Jose Turnpike Apt. 987, West Justin, IN 57065",
+        "phone": "+1-423-584-6106x7785",
+        "email": "morrisbrett@example.net",
+        "account": {
+            "account_number": "36ab242c-1608-454c-81a3-ef8cffebffb6",
+            "balance": 9840.37,
+            "transactions": [
+                {
+                    "date": "2023-10-30",
+                    "description": "Interest",
+                    "amount": 4539.98,
+                    "transaction_id": 115819849
+                },
+                {
+                    "date": "2024-01-01",
+                    "description": "Withdrawal",
+                    "amount": -4941.58,
+                    "transaction_id": 108964346
+                }
+            ]
+        }
+    }
+}

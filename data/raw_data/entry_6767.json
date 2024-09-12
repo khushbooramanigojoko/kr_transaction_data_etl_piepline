@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Regina Bell",
+        "age": 77,
+        "gender": "female",
+        "address": "401 Eric Dale, Emilybury, GU 98577",
+        "phone": "001-542-822-4439x64317",
+        "email": "thomas11@example.net",
+        "account": {
+            "account_number": "10b16d0d-45fa-4986-a941-6d43c56cc126",
+            "balance": 25072.14,
+            "transactions": [
+                {
+                    "date": "2023-04-01",
+                    "description": "Deposit",
+                    "amount": 31159.82,
+                    "transaction_id": 28427542
+                },
+                {
+                    "date": "2023-11-15",
+                    "description": "Deposit",
+                    "amount": 37908.79,
+                    "transaction_id": 89237672
+                },
+                {
+                    "date": "2023-01-04",
+                    "description": "Deposit",
+                    "amount": 30050.45,
+                    "transaction_id": 79209780
+                },
+                {
+                    "date": "2023-06-15",
+                    "description": "Deposit",
+                    "amount": 5949.84,
+                    "transaction_id": 42175356
+                }
+            ]
+        }
+    }
+}

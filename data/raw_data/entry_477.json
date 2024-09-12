@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Brandy Anderson",
+        "age": 91,
+        "gender": "female",
+        "address": "69772 Taylor Terrace Suite 862, Lake Lucasmouth, DE 98508",
+        "phone": "(256)361-9332x92319",
+        "email": "munozemily@example.org",
+        "account": {
+            "account_number": "c632cafd-5c03-4e7b-90c2-fa98e67cb852",
+            "balance": 17188.84,
+            "transactions": [
+                {
+                    "date": "2024-05-05",
+                    "description": "Withdrawal",
+                    "amount": 40066.94,
+                    "transaction_id": 116374325
+                },
+                {
+                    "date": "2023-02-17",
+                    "description": "Withdrawal",
+                    "amount": 16339.74,
+                    "transaction_id": 119026908
+                },
+                {
+                    "date": "2024-01-14",
+                    "description": "Withdrawal",
+                    "amount": 7188.76,
+                    "transaction_id": 5723745
+                },
+                {
+                    "date": "2023-05-04",
+                    "description": "Withdrawal",
+                    "amount": 41804.88,
+                    "transaction_id": 80047600
+                },
+                {
+                    "date": "2024-06-10",
+                    "description": "Withdrawal",
+                    "amount": 47376.37,
+                    "transaction_id": 86778441
+                }
+            ]
+        }
+    }
+}

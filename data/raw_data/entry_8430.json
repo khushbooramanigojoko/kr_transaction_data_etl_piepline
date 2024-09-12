@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Danielle Carlson",
+        "age": 29,
+        "gender": "male",
+        "address": "15086 Little Rapid Suite 170, Port Robertbury, NC 87056",
+        "phone": "5133324061",
+        "email": "jean33@example.com",
+        "account": {
+            "account_number": "4cd48999-ce26-4ba1-b6b8-59d910cbe19a",
+            "balance": 23020.24,
+            "transactions": [
+                {
+                    "date": "2023-02-19",
+                    "description": "Withdrawal",
+                    "amount": 27236.99,
+                    "transaction_id": 90469571
+                },
+                {
+                    "date": "2024-07-26",
+                    "description": "Interest",
+                    "amount": 5368.25,
+                    "transaction_id": 9189673
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Interest",
+                    "amount": 28888.26,
+                    "transaction_id": 83740176
+                },
+                {
+                    "date": "2023-12-17",
+                    "description": "Withdrawal",
+                    "amount": 38554.55,
+                    "transaction_id": 39377082
+                }
+            ]
+        }
+    }
+}

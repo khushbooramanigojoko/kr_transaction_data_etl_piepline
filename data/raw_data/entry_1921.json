@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Teresa Thompson",
+        "age": 61,
+        "gender": "male",
+        "address": "93619 William Glen, Williamsmouth, MH 66616",
+        "phone": "4609745273",
+        "email": "joneshunter@example.org",
+        "account": {
+            "account_number": "e34d2c92-04bf-4164-b6c6-6aa384af8261",
+            "balance": 37916.47,
+            "transactions": [
+                {
+                    "date": "2024-01-21",
+                    "description": "Interest",
+                    "amount": 21202.14,
+                    "transaction_id": 12627576
+                },
+                {
+                    "date": "2023-06-20",
+                    "description": "Deposit",
+                    "amount": 7869.77,
+                    "transaction_id": 116991507
+                },
+                {
+                    "date": "2023-10-24",
+                    "description": "Withdrawal",
+                    "amount": 46227.27,
+                    "transaction_id": 53369665
+                },
+                {
+                    "date": "2024-07-23",
+                    "description": "Interest",
+                    "amount": 36059.51,
+                    "transaction_id": 77040159
+                },
+                {
+                    "date": "2022-09-20",
+                    "description": "Withdrawal",
+                    "amount": 49509.79,
+                    "transaction_id": 28552630
+                }
+            ]
+        }
+    }
+}

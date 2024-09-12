@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Donna Rice",
+        "age": 67,
+        "gender": "female",
+        "address": "42323 Jeremy Road Apt. 318, Lake Rachel, NJ 26545",
+        "phone": "001-658-421-1561x12762",
+        "email": "marycastaneda@example.com",
+        "account": {
+            "account_number": "1c141f09-54a7-4a9d-84cc-e7c10f62446d",
+            "balance": 36695.26,
+            "transactions": [
+                {
+                    "date": "2024-03-10",
+                    "description": "Deposit",
+                    "amount": 27535.81,
+                    "transaction_id": 82810042
+                },
+                {
+                    "date": "2024-08-15",
+                    "description": "Deposit",
+                    "amount": 13160.56,
+                    "transaction_id": 110354924
+                },
+                {
+                    "date": "2024-03-10",
+                    "description": "Withdrawal",
+                    "amount": 11994.93,
+                    "transaction_id": 65010259
+                },
+                {
+                    "date": "2024-01-07",
+                    "description": "Withdrawal",
+                    "amount": 41882.56,
+                    "transaction_id": 72934925
+                }
+            ]
+        }
+    }
+}

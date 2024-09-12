@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jeanne Herrera",
+        "age": 42,
+        "gender": "male",
+        "address": "07374 Russell Branch, West Raymond, VT 91428",
+        "phone": "427.721.9321",
+        "email": "umoore@example.net",
+        "account": {
+            "account_number": "0b018d37-f417-4edb-8445-49fc9ed05743",
+            "balance": 6777.81,
+            "transactions": [
+                {
+                    "date": "2023-09-08",
+                    "description": "Interest",
+                    "amount": 159.62,
+                    "transaction_id": 66253113
+                },
+                {
+                    "date": "2023-05-21",
+                    "description": "Withdrawal",
+                    "amount": 27811.73,
+                    "transaction_id": 76359876
+                },
+                {
+                    "date": "2023-01-08",
+                    "description": "Withdrawal",
+                    "amount": 21623.98,
+                    "transaction_id": 118573241
+                },
+                {
+                    "date": "2023-05-12",
+                    "description": "Withdrawal",
+                    "amount": 4485.88,
+                    "transaction_id": 58402199
+                },
+                {
+                    "date": "2022-10-21",
+                    "description": "Deposit",
+                    "amount": 16305.84,
+                    "transaction_id": 52722348
+                }
+            ]
+        }
+    }
+}

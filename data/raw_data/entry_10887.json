@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Robert Estrada",
+        "age": 37,
+        "gender": "female",
+        "address": "834 Burns Viaduct Apt. 898, Sanchezview, MN 34307",
+        "phone": "918-439-3691x3728",
+        "email": "iadams@example.net",
+        "account": {
+            "account_number": "3ffb5625-59bd-47fa-b269-f9ab57ba4099",
+            "balance": -13089.24,
+            "transactions": [
+                {
+                    "date": "2022-09-03",
+                    "description": "Withdrawal",
+                    "amount": 3892.91,
+                    "transaction_id": 53275461
+                },
+                {
+                    "date": "2023-04-30",
+                    "description": "Deposit",
+                    "amount": 2114.48,
+                    "transaction_id": 34141285
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Teresa Nelson",
+        "age": 44,
+        "gender": "male",
+        "address": "0863 Philip Lake Suite 042, Lake Dustin, CA 29541",
+        "phone": "555-836-6469x0841",
+        "email": "lacey00@example.net",
+        "account": {
+            "account_number": "8e8c0238-68e5-42c0-a92e-6ab759ceac32",
+            "balance": 13891.28,
+            "transactions": [
+                {
+                    "date": "2023-08-25",
+                    "description": "Deposit",
+                    "amount": 31851.03,
+                    "transaction_id": 65635874
+                },
+                {
+                    "date": "2024-05-31",
+                    "description": "Interest",
+                    "amount": 25385.96,
+                    "transaction_id": 69865474
+                },
+                {
+                    "date": "2023-05-15",
+                    "description": "Withdrawal",
+                    "amount": 23098.06,
+                    "transaction_id": 3080154
+                },
+                {
+                    "date": "2024-06-09",
+                    "description": "Deposit",
+                    "amount": 25064.38,
+                    "transaction_id": 58088824
+                }
+            ]
+        }
+    }
+}

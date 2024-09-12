@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jesus White",
+        "age": 92,
+        "gender": "male",
+        "address": "7185 Kevin Cape, Dennismouth, MP 29325",
+        "phone": "650.539.8361x956",
+        "email": "jose29@example.org",
+        "account": {
+            "account_number": "1b86d104-bb70-429f-aa37-4d6136e9b88d",
+            "balance": 28436.9,
+            "transactions": [
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": 27982.29,
+                    "transaction_id": 70423420
+                },
+                {
+                    "date": "2023-09-11",
+                    "description": "Withdrawal",
+                    "amount": 7518.71,
+                    "transaction_id": 99216330
+                },
+                {
+                    "date": "2023-02-25",
+                    "description": "Interest",
+                    "amount": 41767.19,
+                    "transaction_id": 13354195
+                },
+                {
+                    "date": "2023-12-21",
+                    "description": "Interest",
+                    "amount": 6789.54,
+                    "transaction_id": 113030023
+                }
+            ]
+        }
+    }
+}

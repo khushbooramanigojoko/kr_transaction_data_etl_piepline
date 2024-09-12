@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Daniel Lopez",
+        "age": 95,
+        "gender": "female",
+        "address": "947 Sarah Junctions, West Melissaton, NC 99730",
+        "phone": "(745)424-6973x7004",
+        "email": "philip09@example.org",
+        "account": {
+            "account_number": "c7a3a6ea-fb08-41dd-9426-4e94dcaaf801",
+            "balance": 22438.92,
+            "transactions": [
+                {
+                    "date": "2022-10-03",
+                    "description": "Interest",
+                    "amount": 1379.71,
+                    "transaction_id": 55055630
+                },
+                {
+                    "date": "2024-03-21",
+                    "description": "Interest",
+                    "amount": 31090.46,
+                    "transaction_id": 8877162
+                },
+                {
+                    "date": "2022-11-02",
+                    "description": "Withdrawal",
+                    "amount": 29975.8,
+                    "transaction_id": 24281489
+                },
+                {
+                    "date": "2024-01-02",
+                    "description": "Deposit",
+                    "amount": 25222.05,
+                    "transaction_id": 117270489
+                },
+                {
+                    "date": "2023-02-09",
+                    "description": "Withdrawal",
+                    "amount": 41135.29,
+                    "transaction_id": 32532147
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Dr. Andrea Williams MD",
+        "age": 38,
+        "gender": "male",
+        "address": "560 Gates Summit Suite 123, East Markland, MS 44701",
+        "phone": "(849)830-1405x6148",
+        "email": "ekrause@example.net",
+        "account": {
+            "account_number": "fd1b4230-3d01-4186-8629-e7538ad6987b",
+            "balance": 6346.69,
+            "transactions": [
+                {
+                    "date": "2024-03-31",
+                    "description": "Interest",
+                    "amount": 39505.93,
+                    "transaction_id": 85410789
+                },
+                {
+                    "date": "2023-04-03",
+                    "description": "Deposit",
+                    "amount": 15499.11,
+                    "transaction_id": 24494686
+                },
+                {
+                    "date": "2023-12-18",
+                    "description": "Withdrawal",
+                    "amount": 43422.7,
+                    "transaction_id": 6724177
+                }
+            ]
+        }
+    }
+}

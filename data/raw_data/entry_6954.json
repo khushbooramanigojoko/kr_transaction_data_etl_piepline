@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "David Leonard",
+        "age": 21,
+        "gender": "male",
+        "address": "275 Owen Summit Apt. 812, Coffeyfurt, NH 88745",
+        "phone": "+1-483-654-3988x0045",
+        "email": "garciajamie@example.com",
+        "account": {
+            "account_number": "1f7c24f0-8e76-40ea-8910-4b9c0ac7d738",
+            "balance": 34242.55,
+            "transactions": [
+                {
+                    "date": "2022-12-07",
+                    "description": "Interest",
+                    "amount": 34259.27,
+                    "transaction_id": 46073454
+                },
+                {
+                    "date": "2024-03-20",
+                    "description": "Withdrawal",
+                    "amount": 21758.04,
+                    "transaction_id": 36474492
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Withdrawal",
+                    "amount": 13557.08,
+                    "transaction_id": 15512699
+                },
+                {
+                    "date": "2022-09-17",
+                    "description": "Interest",
+                    "amount": 30423.06,
+                    "transaction_id": 97411580
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Interest",
+                    "amount": 12763.8,
+                    "transaction_id": 10553128
+                }
+            ]
+        }
+    }
+}

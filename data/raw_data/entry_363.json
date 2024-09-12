@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "James Dunn",
+        "age": 51,
+        "gender": "female",
+        "address": "81912 Wong Alley, Kimton, OR 91185",
+        "phone": "001-504-353-0818",
+        "email": "mgriffin@example.net",
+        "account": {
+            "account_number": "b5f6baaa-50b5-4afa-a611-b0dd892b2cef",
+            "balance": 5718.87,
+            "transactions": [
+                {
+                    "date": "2023-05-03",
+                    "description": "Deposit",
+                    "amount": 49864.04,
+                    "transaction_id": 59101705
+                },
+                {
+                    "date": "2022-11-05",
+                    "description": "Deposit",
+                    "amount": 689.11,
+                    "transaction_id": 114134039
+                },
+                {
+                    "date": "2023-03-31",
+                    "description": "Interest",
+                    "amount": 16214.02,
+                    "transaction_id": 65974473
+                },
+                {
+                    "date": "2023-12-28",
+                    "description": "Interest",
+                    "amount": 7961.63,
+                    "transaction_id": 78668346
+                },
+                {
+                    "date": "2023-02-24",
+                    "description": "Deposit",
+                    "amount": 22362.11,
+                    "transaction_id": 37695386
+                }
+            ]
+        }
+    }
+}

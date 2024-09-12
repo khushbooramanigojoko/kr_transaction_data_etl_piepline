@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Steve King",
+        "age": 91,
+        "gender": "male",
+        "address": "62440 Anthony Dale, New Christian, IL 57785",
+        "phone": "(396)955-1901x9612",
+        "email": "tyler14@example.net",
+        "account": {
+            "account_number": "959435aa-6e41-4ec9-bc45-18fdee6d8cb9",
+            "balance": 41448.15,
+            "transactions": [
+                {
+                    "date": "2024-07-12",
+                    "description": "Interest",
+                    "amount": 43295.98,
+                    "transaction_id": 19361643
+                },
+                {
+                    "date": "2023-08-02",
+                    "description": "Deposit",
+                    "amount": 17213.4,
+                    "transaction_id": 77171037
+                },
+                {
+                    "date": "2023-06-30",
+                    "description": "Deposit",
+                    "amount": 46950.89,
+                    "transaction_id": 77986448
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Deposit",
+                    "amount": 4690.03,
+                    "transaction_id": 116744181
+                }
+            ]
+        }
+    }
+}

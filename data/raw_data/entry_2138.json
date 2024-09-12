@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Jaclyn Hardy",
+        "age": 23,
+        "gender": "male",
+        "address": "USCGC Camacho, FPO AA 33615",
+        "phone": "849-933-5432",
+        "email": "fpeterson@example.org",
+        "account": {
+            "account_number": "857b48bc-8ae3-4795-83d2-01a1c1c39c17",
+            "balance": 30769.13,
+            "transactions": [
+                {
+                    "date": "2024-08-14",
+                    "description": "Withdrawal",
+                    "amount": 41216.39,
+                    "transaction_id": 114834954
+                },
+                {
+                    "date": "2024-06-27",
+                    "description": "Deposit",
+                    "amount": 1747.08,
+                    "transaction_id": 51976866
+                }
+            ]
+        }
+    }
+}

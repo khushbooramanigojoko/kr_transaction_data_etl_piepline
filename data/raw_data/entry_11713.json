@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Jennifer Gonzalez",
+        "age": 58,
+        "gender": "female",
+        "address": "9256 Mcintosh Mount Apt. 193, Patrickland, GA 79788",
+        "phone": "775.393.0531x47795",
+        "email": "kent11@example.net",
+        "account": {
+            "account_number": "9396b6ed-6dfd-4f17-964e-e522234c5f4a",
+            "balance": -26137.86,
+            "transactions": [
+                {
+                    "date": "2024-03-19",
+                    "description": "Interest",
+                    "amount": 111.8,
+                    "transaction_id": 60932491
+                },
+                {
+                    "date": "2023-09-12",
+                    "description": "Deposit",
+                    "amount": 3936.09,
+                    "transaction_id": 13358827
+                },
+                {
+                    "date": "2024-04-03",
+                    "description": "Withdrawal",
+                    "amount": -1687.96,
+                    "transaction_id": 49158151
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Withdrawal",
+                    "amount": 2773.8,
+                    "transaction_id": 21014879
+                },
+                {
+                    "date": "2023-01-01",
+                    "description": "Withdrawal",
+                    "amount": -438.66,
+                    "transaction_id": 27610450
+                }
+            ]
+        }
+    }
+}

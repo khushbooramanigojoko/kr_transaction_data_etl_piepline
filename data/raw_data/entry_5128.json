@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kristina Mcdowell",
+        "age": 90,
+        "gender": "female",
+        "address": "2019 Whitney Lane Apt. 289, Sonyabury, WA 94690",
+        "phone": "001-241-533-7117",
+        "email": "john64@example.org",
+        "account": {
+            "account_number": "bc718d57-1281-4068-84b9-c391b7beba5d",
+            "balance": 17698.45,
+            "transactions": [
+                {
+                    "date": "2024-04-27",
+                    "description": "Withdrawal",
+                    "amount": 33024.62,
+                    "transaction_id": 88092180
+                }
+            ]
+        }
+    }
+}

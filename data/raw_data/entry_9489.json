@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 51,
+        "gender": "male",
+        "address": "101 Snyder Mews Apt. 434, New Jeffreyton, ME 81083",
+        "phone": "643-713-5209",
+        "email": "amarshall@example.net",
+        "account": {
+            "account_number": "6af71dc7-a25d-45e8-a3f6-163add153aca",
+            "balance": 27545.3,
+            "transactions": [
+                {
+                    "date": "2023-08-28",
+                    "description": "Interest",
+                    "amount": 4620.35,
+                    "transaction_id": 6134742
+                },
+                {
+                    "date": "2023-10-26",
+                    "description": "Withdrawal",
+                    "amount": -2208.32,
+                    "transaction_id": 6721747
+                },
+                {
+                    "date": "2023-12-08",
+                    "description": "Interest",
+                    "amount": -2811.39,
+                    "transaction_id": 104042202
+                },
+                {
+                    "date": "2024-03-15",
+                    "description": "Deposit",
+                    "amount": 4751.59,
+                    "transaction_id": 95648863
+                },
+                {
+                    "date": "2024-01-03",
+                    "description": "Withdrawal",
+                    "amount": -4254.67,
+                    "transaction_id": 66233038
+                }
+            ]
+        }
+    }
+}

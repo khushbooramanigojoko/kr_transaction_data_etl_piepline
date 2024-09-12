@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brian Frazier",
+        "age": 77,
+        "gender": "male",
+        "address": "33647 Jennifer Underpass Apt. 086, Lake Robertofort, CT 75475",
+        "phone": "+1-419-311-3080x10516",
+        "email": "richardsonvictoria@example.com",
+        "account": {
+            "account_number": "169af18b-fb91-4680-83a6-e7fa5b034d06",
+            "balance": 46068.34,
+            "transactions": [
+                {
+                    "date": "2023-04-17",
+                    "description": "Withdrawal",
+                    "amount": 40248.84,
+                    "transaction_id": 95129154
+                }
+            ]
+        }
+    }
+}

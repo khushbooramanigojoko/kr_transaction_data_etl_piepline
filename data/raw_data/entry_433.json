@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Michelle Brown",
+        "age": 27,
+        "gender": "male",
+        "address": "4459 Richardson Park, New Carmenstad, FM 12765",
+        "phone": "+1-722-735-4425x061",
+        "email": "drichard@example.org",
+        "account": {
+            "account_number": "cf5fb3ad-8090-431a-8362-1dd71d16c34a",
+            "balance": 47018.43,
+            "transactions": [
+                {
+                    "date": "2022-11-02",
+                    "description": "Interest",
+                    "amount": 37207.46,
+                    "transaction_id": 60691606
+                },
+                {
+                    "date": "2023-12-02",
+                    "description": "Withdrawal",
+                    "amount": 27009.85,
+                    "transaction_id": 19243699
+                },
+                {
+                    "date": "2024-05-09",
+                    "description": "Deposit",
+                    "amount": 16691.56,
+                    "transaction_id": 60719235
+                },
+                {
+                    "date": "2024-05-19",
+                    "description": "Deposit",
+                    "amount": 38701.68,
+                    "transaction_id": 70281419
+                },
+                {
+                    "date": "2024-04-12",
+                    "description": "Interest",
+                    "amount": 10233.3,
+                    "transaction_id": 66760381
+                }
+            ]
+        }
+    }
+}

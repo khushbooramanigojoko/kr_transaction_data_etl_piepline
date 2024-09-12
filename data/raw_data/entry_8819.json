@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 68,
+        "gender": "female",
+        "address": "152 Linda Falls Suite 294, Lake Jenniferville, PW 77201",
+        "phone": "770.671.3732",
+        "email": "longandrew@example.net",
+        "account": {
+            "account_number": "327c7814-965c-4f2f-a23f-9af83e39ef43",
+            "balance": 27456.87,
+            "transactions": [
+                {
+                    "date": "2024-01-15",
+                    "description": "Withdrawal",
+                    "amount": 3845.06,
+                    "transaction_id": 48029270
+                },
+                {
+                    "date": "2022-12-29",
+                    "description": "Deposit",
+                    "amount": -443.29,
+                    "transaction_id": 76310707
+                },
+                {
+                    "date": "2024-01-06",
+                    "description": "Withdrawal",
+                    "amount": 3425.82,
+                    "transaction_id": 60614717
+                },
+                {
+                    "date": "2022-10-22",
+                    "description": "Deposit",
+                    "amount": -4129.24,
+                    "transaction_id": 96704643
+                }
+            ]
+        }
+    }
+}

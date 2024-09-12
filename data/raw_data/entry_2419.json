@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Vanessa Thomas",
+        "age": 23,
+        "gender": "female",
+        "address": "06732 Jasmine Branch, West Sonya, OK 77182",
+        "phone": "(717)684-0258x4662",
+        "email": "elizabethmiller@example.com",
+        "account": {
+            "account_number": "412149b9-fc35-405f-843d-4801256fd11e",
+            "balance": 33591.12,
+            "transactions": [
+                {
+                    "date": "2024-07-16",
+                    "description": "Interest",
+                    "amount": 44185.3,
+                    "transaction_id": 42996307
+                },
+                {
+                    "date": "2023-06-19",
+                    "description": "Deposit",
+                    "amount": 37937.68,
+                    "transaction_id": 25055919
+                },
+                {
+                    "date": "2023-05-22",
+                    "description": "Deposit",
+                    "amount": 22819.8,
+                    "transaction_id": 45385079
+                }
+            ]
+        }
+    }
+}

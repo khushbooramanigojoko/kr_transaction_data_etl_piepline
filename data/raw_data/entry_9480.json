@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ryan Lowery",
+        "age": 18,
+        "gender": "male",
+        "address": "65599 Garza Trace, Leeland, GU 00667",
+        "phone": "6736419085",
+        "email": "howardhamilton@example.net",
+        "account": {
+            "account_number": "9680d6b0-7735-4379-8309-1b968ae8a168",
+            "balance": -13542.08,
+            "transactions": [
+                {
+                    "date": "2023-07-12",
+                    "description": "Withdrawal",
+                    "amount": 2781.8,
+                    "transaction_id": 115417450
+                },
+                {
+                    "date": "2023-07-18",
+                    "description": "Interest",
+                    "amount": 1532.42,
+                    "transaction_id": 37358226
+                },
+                {
+                    "date": "2023-08-12",
+                    "description": "Withdrawal",
+                    "amount": 343.83,
+                    "transaction_id": 25594613
+                }
+            ]
+        }
+    }
+}

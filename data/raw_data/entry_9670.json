@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": null,
+        "age": 19,
+        "gender": "female",
+        "address": "5829 Gary Road Apt. 498, Summerston, OH 31927",
+        "phone": "001-566-901-6972",
+        "email": "pmorton@example.net",
+        "account": {
+            "account_number": "2e4a0470-1461-4900-aed4-f18b0e7cd822",
+            "balance": 40876.1,
+            "transactions": [
+                {
+                    "date": "2023-06-30",
+                    "description": "Interest",
+                    "amount": 4401.18,
+                    "transaction_id": 113436385
+                },
+                {
+                    "date": "2023-02-14",
+                    "description": "Interest",
+                    "amount": -4732.1,
+                    "transaction_id": 95435397
+                },
+                {
+                    "date": "2023-05-13",
+                    "description": "Deposit",
+                    "amount": -4123.8,
+                    "transaction_id": 97586236
+                },
+                {
+                    "date": "2024-05-06",
+                    "description": "Interest",
+                    "amount": 1597.67,
+                    "transaction_id": 78118423
+                }
+            ]
+        }
+    }
+}

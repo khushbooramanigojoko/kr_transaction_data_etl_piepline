@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Hannah Lambert",
+        "age": 31,
+        "gender": "female",
+        "address": "40458 Barron Plaza Apt. 072, Port Kyleberg, MN 25281",
+        "phone": "(376)230-0339x2621",
+        "email": "wkelly@example.org",
+        "account": {
+            "account_number": "18635dba-193d-4ecc-a657-9d66a74119f8",
+            "balance": 46453.12,
+            "transactions": [
+                {
+                    "date": "2024-02-02",
+                    "description": "Interest",
+                    "amount": 34000.96,
+                    "transaction_id": 38482605
+                },
+                {
+                    "date": "2024-06-10",
+                    "description": "Withdrawal",
+                    "amount": 25017.69,
+                    "transaction_id": 2017430
+                },
+                {
+                    "date": "2023-06-09",
+                    "description": "Withdrawal",
+                    "amount": 17509.25,
+                    "transaction_id": 54151233
+                },
+                {
+                    "date": "2023-02-11",
+                    "description": "Withdrawal",
+                    "amount": 47215.93,
+                    "transaction_id": 44675645
+                },
+                {
+                    "date": "2023-02-08",
+                    "description": "Interest",
+                    "amount": 14321.06,
+                    "transaction_id": 79570818
+                }
+            ]
+        }
+    }
+}

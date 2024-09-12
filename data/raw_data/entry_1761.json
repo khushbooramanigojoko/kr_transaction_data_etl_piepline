@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Robert Dickson DDS",
+        "age": 57,
+        "gender": "male",
+        "address": "767 White Parkway, South Kylie, MN 33985",
+        "phone": "585.566.3262x852",
+        "email": "ywatts@example.com",
+        "account": {
+            "account_number": "01585fb7-42ac-4d88-905e-d712629b905f",
+            "balance": 38345.36,
+            "transactions": [
+                {
+                    "date": "2022-12-02",
+                    "description": "Interest",
+                    "amount": 8159.2,
+                    "transaction_id": 97378650
+                },
+                {
+                    "date": "2023-09-24",
+                    "description": "Deposit",
+                    "amount": 4503.59,
+                    "transaction_id": 31558353
+                },
+                {
+                    "date": "2023-10-04",
+                    "description": "Deposit",
+                    "amount": 1859.48,
+                    "transaction_id": 20564864
+                },
+                {
+                    "date": "2023-05-11",
+                    "description": "Interest",
+                    "amount": 6472.11,
+                    "transaction_id": 77184741
+                },
+                {
+                    "date": "2022-10-24",
+                    "description": "Withdrawal",
+                    "amount": 47459.05,
+                    "transaction_id": 118113648
+                }
+            ]
+        }
+    }
+}

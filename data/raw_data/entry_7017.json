@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Peter Martinez",
+        "age": 85,
+        "gender": "female",
+        "address": "57385 Amy Plain Apt. 275, Aaronside, NY 01664",
+        "phone": "+1-241-981-5481x6507",
+        "email": "vanessabrooks@example.org",
+        "account": {
+            "account_number": "33ef497f-74db-47fb-bbd8-a70a2ed9b647",
+            "balance": 16236.24,
+            "transactions": [
+                {
+                    "date": "2024-08-08",
+                    "description": "Withdrawal",
+                    "amount": 16467.24,
+                    "transaction_id": 99119569
+                }
+            ]
+        }
+    }
+}

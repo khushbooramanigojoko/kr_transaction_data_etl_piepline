@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sue Morton",
+        "age": 26,
+        "gender": "female",
+        "address": "787 Jason Shore, Smithport, CT 79312",
+        "phone": "291.506.3687x752",
+        "email": "rileyryan@example.com",
+        "account": {
+            "account_number": "d42e242a-b425-4943-ae32-ce29248c267a",
+            "balance": 19842.81,
+            "transactions": [
+                {
+                    "date": "2024-05-07",
+                    "description": "Interest",
+                    "amount": 31197.22,
+                    "transaction_id": 91164398
+                },
+                {
+                    "date": "2023-12-03",
+                    "description": "Interest",
+                    "amount": 12937.41,
+                    "transaction_id": 99110418
+                }
+            ]
+        }
+    }
+}

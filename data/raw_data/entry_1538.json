@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Sharon Ryan",
+        "age": 29,
+        "gender": "female",
+        "address": "631 Phillips Villages, Smithview, MT 72271",
+        "phone": "968.715.4260x061",
+        "email": "joel19@example.com",
+        "account": {
+            "account_number": "c68f0f70-c23f-43c3-b017-758e58607e86",
+            "balance": 31603.05,
+            "transactions": [
+                {
+                    "date": "2023-05-28",
+                    "description": "Deposit",
+                    "amount": 24245.36,
+                    "transaction_id": 110516369
+                }
+            ]
+        }
+    }
+}

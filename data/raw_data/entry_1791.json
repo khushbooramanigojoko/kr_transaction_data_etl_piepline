@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Patricia Booth",
+        "age": 49,
+        "gender": "female",
+        "address": "773 Allen Squares, West Johnmouth, OK 31432",
+        "phone": "893.698.1872x3194",
+        "email": "kristin77@example.com",
+        "account": {
+            "account_number": "d6a49561-e7bf-4bd9-96c5-eb73703ec6e9",
+            "balance": 17009.27,
+            "transactions": [
+                {
+                    "date": "2022-09-23",
+                    "description": "Interest",
+                    "amount": 28381.51,
+                    "transaction_id": 77748679
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Withdrawal",
+                    "amount": 25788.77,
+                    "transaction_id": 118206245
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Withdrawal",
+                    "amount": 38386.14,
+                    "transaction_id": 75054764
+                },
+                {
+                    "date": "2023-06-25",
+                    "description": "Interest",
+                    "amount": 40632.29,
+                    "transaction_id": 74055792
+                }
+            ]
+        }
+    }
+}

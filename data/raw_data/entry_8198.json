@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Kimberly Garcia",
+        "age": 95,
+        "gender": "male",
+        "address": "97927 Mayer Trail, Smithside, NC 22848",
+        "phone": "001-613-876-8690x5700",
+        "email": "joseph48@example.com",
+        "account": {
+            "account_number": "77e186af-3619-4cc8-954c-33ba729ef259",
+            "balance": 9298.98,
+            "transactions": [
+                {
+                    "date": "2024-05-01",
+                    "description": "Withdrawal",
+                    "amount": 48581.11,
+                    "transaction_id": 100313994
+                },
+                {
+                    "date": "2023-10-05",
+                    "description": "Withdrawal",
+                    "amount": 41626.16,
+                    "transaction_id": 71151577
+                },
+                {
+                    "date": "2023-02-22",
+                    "description": "Deposit",
+                    "amount": 45642.62,
+                    "transaction_id": 17427146
+                }
+            ]
+        }
+    }
+}

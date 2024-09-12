@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Justin Walker",
+        "age": 78,
+        "gender": "male",
+        "address": "073 Garrett Flats, New Meganfurt, WA 52687",
+        "phone": "7269623516",
+        "email": "maryescobar@example.org",
+        "account": {
+            "account_number": "2113431d-d1d0-4ec8-b91f-d2ae43232fef",
+            "balance": 22435.93,
+            "transactions": [
+                {
+                    "date": "2022-10-19",
+                    "description": "Deposit",
+                    "amount": 3553.95,
+                    "transaction_id": 1190354
+                },
+                {
+                    "date": "2023-08-19",
+                    "description": "Deposit",
+                    "amount": 3100.33,
+                    "transaction_id": 116676647
+                },
+                {
+                    "date": "2024-04-06",
+                    "description": "Withdrawal",
+                    "amount": 17152.96,
+                    "transaction_id": 17064933
+                },
+                {
+                    "date": "2022-12-17",
+                    "description": "Withdrawal",
+                    "amount": 38341.29,
+                    "transaction_id": 14282380
+                }
+            ]
+        }
+    }
+}

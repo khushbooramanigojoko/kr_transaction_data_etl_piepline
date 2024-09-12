@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Mr. Jimmy Fisher",
+        "age": 35,
+        "gender": "male",
+        "address": "522 Hunt Park Suite 073, New Lukeside, ND 50934",
+        "phone": "324-599-2745",
+        "email": "johnrosales@example.org",
+        "account": {
+            "account_number": "920ee16b-994e-40e1-9fd2-dcc1989a944d",
+            "balance": 6191.5,
+            "transactions": [
+                {
+                    "date": "2023-12-25",
+                    "description": "Withdrawal",
+                    "amount": 24216.28,
+                    "transaction_id": 110531947
+                },
+                {
+                    "date": "2024-07-20",
+                    "description": "Interest",
+                    "amount": 19092.19,
+                    "transaction_id": 38971272
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Withdrawal",
+                    "amount": 48257.73,
+                    "transaction_id": 70721890
+                },
+                {
+                    "date": "2024-08-20",
+                    "description": "Deposit",
+                    "amount": 17193.27,
+                    "transaction_id": 34431584
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Interest",
+                    "amount": 24926.82,
+                    "transaction_id": 30112647
+                }
+            ]
+        }
+    }
+}

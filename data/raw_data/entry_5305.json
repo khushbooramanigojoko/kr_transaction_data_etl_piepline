@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Phillip Figueroa",
+        "age": 38,
+        "gender": "male",
+        "address": "995 Matthew Drive Suite 195, New Timothy, AS 15344",
+        "phone": "(783)584-1559x51950",
+        "email": "lindsay56@example.org",
+        "account": {
+            "account_number": "eb6afaf3-32d8-4804-83f4-114148f685b1",
+            "balance": 26758.46,
+            "transactions": [
+                {
+                    "date": "2022-12-12",
+                    "description": "Interest",
+                    "amount": 47946.96,
+                    "transaction_id": 9401198
+                },
+                {
+                    "date": "2024-08-23",
+                    "description": "Withdrawal",
+                    "amount": 28756.32,
+                    "transaction_id": 103262998
+                },
+                {
+                    "date": "2023-01-09",
+                    "description": "Interest",
+                    "amount": 15808.73,
+                    "transaction_id": 24651607
+                },
+                {
+                    "date": "2024-06-24",
+                    "description": "Deposit",
+                    "amount": 5660.57,
+                    "transaction_id": 12042200
+                },
+                {
+                    "date": "2024-07-19",
+                    "description": "Interest",
+                    "amount": 22740.98,
+                    "transaction_id": 113289509
+                }
+            ]
+        }
+    }
+}

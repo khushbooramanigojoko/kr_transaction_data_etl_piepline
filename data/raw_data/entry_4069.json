@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Tammy Mcdaniel",
+        "age": 54,
+        "gender": "female",
+        "address": "096 Brittany Tunnel, East Jesus, ID 51315",
+        "phone": "726.530.3316x179",
+        "email": "mmiller@example.org",
+        "account": {
+            "account_number": "9703b53a-7a4e-4500-af48-daaba876f559",
+            "balance": 27955.67,
+            "transactions": [
+                {
+                    "date": "2023-10-23",
+                    "description": "Deposit",
+                    "amount": 35258.16,
+                    "transaction_id": 4287761
+                },
+                {
+                    "date": "2022-09-28",
+                    "description": "Interest",
+                    "amount": 16400.18,
+                    "transaction_id": 116741224
+                },
+                {
+                    "date": "2022-10-16",
+                    "description": "Interest",
+                    "amount": 4602.46,
+                    "transaction_id": 32801613
+                },
+                {
+                    "date": "2023-05-26",
+                    "description": "Withdrawal",
+                    "amount": 40570.92,
+                    "transaction_id": 107661479
+                }
+            ]
+        }
+    }
+}

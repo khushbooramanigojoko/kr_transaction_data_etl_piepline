@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Kenneth Taylor",
+        "age": 52,
+        "gender": "female",
+        "address": "31979 Sanchez Shores Apt. 326, Port Scottstad, KS 43055",
+        "phone": "+1-676-714-2663x26030",
+        "email": "johnrivera@example.net",
+        "account": {
+            "account_number": "0fa692cd-7667-44ab-a504-8cd5fc6d2e16",
+            "balance": 24164.68,
+            "transactions": [
+                {
+                    "date": "2023-12-14",
+                    "description": "Deposit",
+                    "amount": 22203.65,
+                    "transaction_id": 99635858
+                }
+            ]
+        }
+    }
+}

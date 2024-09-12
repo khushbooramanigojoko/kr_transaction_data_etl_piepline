@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Kiara Crane",
+        "age": 95,
+        "gender": "male",
+        "address": "8129 Mike Land, Christinastad, HI 16067",
+        "phone": "+1-859-527-7051x5539",
+        "email": "nataliedouglas@example.org",
+        "account": {
+            "account_number": "eefde53f-671d-4eab-a349-d56703a230ff",
+            "balance": 25933.57,
+            "transactions": [
+                {
+                    "date": "2023-02-23",
+                    "description": "Interest",
+                    "amount": 36709.83,
+                    "transaction_id": 108363830
+                },
+                {
+                    "date": "2023-03-05",
+                    "description": "Withdrawal",
+                    "amount": 26724.28,
+                    "transaction_id": 73649588
+                },
+                {
+                    "date": "2023-07-07",
+                    "description": "Interest",
+                    "amount": 30664.58,
+                    "transaction_id": 42577376
+                },
+                {
+                    "date": "2024-07-08",
+                    "description": "Withdrawal",
+                    "amount": 2510.47,
+                    "transaction_id": 55466903
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Deposit",
+                    "amount": 23975.77,
+                    "transaction_id": 47075857
+                }
+            ]
+        }
+    }
+}

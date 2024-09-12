@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 78,
+        "gender": "female",
+        "address": "237 Michelle Station Suite 572, North Alyssaport, DE 47794",
+        "phone": "+1-201-568-0771",
+        "email": "kristy02@example.org",
+        "account": {
+            "account_number": "72869bf9-a10d-446e-bf0b-c10c09bc4a92",
+            "balance": 25691.39,
+            "transactions": [
+                {
+                    "date": "2023-10-04",
+                    "description": "Withdrawal",
+                    "amount": 1037.58,
+                    "transaction_id": 3028529
+                },
+                {
+                    "date": "2023-08-03",
+                    "description": "Deposit",
+                    "amount": -4556.29,
+                    "transaction_id": 19736240
+                },
+                {
+                    "date": "2024-02-26",
+                    "description": "Deposit",
+                    "amount": -2895.72,
+                    "transaction_id": 111357682
+                },
+                {
+                    "date": "2023-10-22",
+                    "description": "Deposit",
+                    "amount": -1064.14,
+                    "transaction_id": 100619616
+                },
+                {
+                    "date": "2022-10-01",
+                    "description": "Deposit",
+                    "amount": 1372.5,
+                    "transaction_id": 24765171
+                }
+            ]
+        }
+    }
+}

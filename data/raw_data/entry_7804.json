@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "David Moore",
+        "age": 81,
+        "gender": "male",
+        "address": "50754 Vaughn Shoals Apt. 865, South Steven, AZ 11038",
+        "phone": "6064516776",
+        "email": "ogallagher@example.net",
+        "account": {
+            "account_number": "cd893f2a-ba10-48c2-aff2-425db7dd254e",
+            "balance": 39648.0,
+            "transactions": [
+                {
+                    "date": "2022-11-05",
+                    "description": "Deposit",
+                    "amount": 3149.22,
+                    "transaction_id": 103763305
+                }
+            ]
+        }
+    }
+}

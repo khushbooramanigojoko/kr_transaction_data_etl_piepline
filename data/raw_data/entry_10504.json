@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 35,
+        "gender": "male",
+        "address": "53477 Elizabeth Station Apt. 072, Port Peter, NY 42893",
+        "phone": "+1-687-437-1899x10591",
+        "email": "lewismeghan@example.net",
+        "account": {
+            "account_number": "66069ef7-2c99-46d1-b9a5-438320b64f02",
+            "balance": 4260.56,
+            "transactions": [
+                {
+                    "date": "2023-05-21",
+                    "description": "Interest",
+                    "amount": -3574.24,
+                    "transaction_id": 62558212
+                },
+                {
+                    "date": "2023-08-23",
+                    "description": "Interest",
+                    "amount": 2300.81,
+                    "transaction_id": 67763945
+                }
+            ]
+        }
+    }
+}

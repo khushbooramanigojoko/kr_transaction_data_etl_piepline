@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Timothy Scott",
+        "age": 47,
+        "gender": "male",
+        "address": "9573 Rivera Square Suite 788, Carolbury, PR 32193",
+        "phone": "961-832-3060",
+        "email": "beckyharris@example.org",
+        "account": {
+            "account_number": "3a5f0f2f-2f11-4a58-b78f-3ca38174905c",
+            "balance": -38353.35,
+            "transactions": [
+                {
+                    "date": "2023-02-16",
+                    "description": "Deposit",
+                    "amount": -1565.93,
+                    "transaction_id": 104082344
+                }
+            ]
+        }
+    }
+}

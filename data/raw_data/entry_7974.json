@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Raymond Lamb",
+        "age": 61,
+        "gender": "male",
+        "address": "746 Kaitlin Pine, North Sarahmouth, NE 45496",
+        "phone": "+1-812-741-5927x570",
+        "email": "lwright@example.com",
+        "account": {
+            "account_number": "4342a6f0-c58d-4ccd-8493-5f71a9cecb9a",
+            "balance": 39249.87,
+            "transactions": [
+                {
+                    "date": "2023-06-09",
+                    "description": "Deposit",
+                    "amount": 40100.24,
+                    "transaction_id": 35342012
+                },
+                {
+                    "date": "2024-01-31",
+                    "description": "Interest",
+                    "amount": 42126.7,
+                    "transaction_id": 87150294
+                },
+                {
+                    "date": "2024-04-02",
+                    "description": "Deposit",
+                    "amount": 28653.52,
+                    "transaction_id": 76817349
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Withdrawal",
+                    "amount": 29520.29,
+                    "transaction_id": 37190918
+                },
+                {
+                    "date": "2024-06-29",
+                    "description": "Withdrawal",
+                    "amount": 46181.38,
+                    "transaction_id": 69729772
+                }
+            ]
+        }
+    }
+}

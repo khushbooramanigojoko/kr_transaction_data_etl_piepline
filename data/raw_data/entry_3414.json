@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Riley Flores",
+        "age": 95,
+        "gender": "female",
+        "address": "USCGC Wade, FPO AE 49907",
+        "phone": "001-911-761-2144x0876",
+        "email": "parsonspatrick@example.net",
+        "account": {
+            "account_number": "9e9d2ab8-c245-4e16-a966-b244f7521dd1",
+            "balance": 15918.83,
+            "transactions": [
+                {
+                    "date": "2024-04-28",
+                    "description": "Withdrawal",
+                    "amount": 41665.42,
+                    "transaction_id": 91801955
+                },
+                {
+                    "date": "2024-03-01",
+                    "description": "Withdrawal",
+                    "amount": 40869.68,
+                    "transaction_id": 113081906
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": null,
+        "age": 96,
+        "gender": "male",
+        "address": "62519 Miller Fields, Kendramouth, KY 48850",
+        "phone": "+1-732-400-0357x288",
+        "email": "anthonymurray@example.org",
+        "account": {
+            "account_number": "267b960c-ea95-4c02-8f74-306c8b27f06e",
+            "balance": 17961.41,
+            "transactions": [
+                {
+                    "date": "2022-10-02",
+                    "description": "Withdrawal",
+                    "amount": 1500.54,
+                    "transaction_id": 5343250
+                },
+                {
+                    "date": "2024-02-29",
+                    "description": "Withdrawal",
+                    "amount": 4434.04,
+                    "transaction_id": 105271817
+                },
+                {
+                    "date": "2024-07-25",
+                    "description": "Withdrawal",
+                    "amount": -4461.04,
+                    "transaction_id": 20208317
+                },
+                {
+                    "date": "2022-10-23",
+                    "description": "Withdrawal",
+                    "amount": 2016.3,
+                    "transaction_id": 30390532
+                },
+                {
+                    "date": "2022-12-01",
+                    "description": "Deposit",
+                    "amount": -3270.69,
+                    "transaction_id": 103213349
+                }
+            ]
+        }
+    }
+}

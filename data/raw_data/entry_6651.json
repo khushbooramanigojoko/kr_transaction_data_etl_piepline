@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Brooke Ramirez",
+        "age": 96,
+        "gender": "male",
+        "address": "31632 Martinez Pike, Willisborough, IL 21579",
+        "phone": "(822)601-0497",
+        "email": "jerome69@example.com",
+        "account": {
+            "account_number": "0ca200ce-6885-4394-8629-28f49d2c2839",
+            "balance": 31981.79,
+            "transactions": [
+                {
+                    "date": "2024-08-01",
+                    "description": "Deposit",
+                    "amount": 40757.62,
+                    "transaction_id": 69779778
+                }
+            ]
+        }
+    }
+}

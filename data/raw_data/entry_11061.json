@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Leah Smith",
+        "age": 44,
+        "gender": "male",
+        "address": "6552 Dakota Creek, New Meghan, ME 69262",
+        "phone": "843-909-1359x376",
+        "email": "shannon22@example.org",
+        "account": {
+            "account_number": "90a41bf6-53dc-42cf-aec6-1b75279bc345",
+            "balance": -42137.48,
+            "transactions": [
+                {
+                    "date": "2023-11-17",
+                    "description": "Withdrawal",
+                    "amount": 2478.75,
+                    "transaction_id": 14330309
+                },
+                {
+                    "date": "2024-05-06",
+                    "description": "Deposit",
+                    "amount": 4905.13,
+                    "transaction_id": 117561390
+                }
+            ]
+        }
+    }
+}

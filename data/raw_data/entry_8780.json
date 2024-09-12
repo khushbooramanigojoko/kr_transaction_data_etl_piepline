@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 55,
+        "gender": "male",
+        "address": "7630 Rodriguez Trafficway, North Chadview, PR 44056",
+        "phone": "881.966.0116x44569",
+        "email": "uweaver@example.org",
+        "account": {
+            "account_number": "fa24ce3a-d18a-47e4-b25e-26389e1f4200",
+            "balance": 4884.59,
+            "transactions": [
+                {
+                    "date": "2024-06-07",
+                    "description": "Withdrawal",
+                    "amount": -111.9,
+                    "transaction_id": 100717429
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Danny Roberts",
+        "age": 79,
+        "gender": "female",
+        "address": "534 Cameron Orchard, New Brianmouth, OK 57553",
+        "phone": "+1-301-697-1249x1476",
+        "email": "smithbrian@example.com",
+        "account": {
+            "account_number": "181845e4-053b-4b31-92f9-2062fa517415",
+            "balance": 5674.95,
+            "transactions": [
+                {
+                    "date": "2024-06-25",
+                    "description": "Withdrawal",
+                    "amount": 14598.92,
+                    "transaction_id": 37787134
+                },
+                {
+                    "date": "2022-09-08",
+                    "description": "Deposit",
+                    "amount": 4438.15,
+                    "transaction_id": 1619920
+                },
+                {
+                    "date": "2024-08-07",
+                    "description": "Interest",
+                    "amount": 577.25,
+                    "transaction_id": 46892053
+                },
+                {
+                    "date": "2024-07-21",
+                    "description": "Deposit",
+                    "amount": 7441.95,
+                    "transaction_id": 41721490
+                }
+            ]
+        }
+    }
+}

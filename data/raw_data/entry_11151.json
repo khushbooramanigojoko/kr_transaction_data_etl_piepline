@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": null,
+        "age": 28,
+        "gender": "female",
+        "address": "07825 Ricky Flats, East Ryanmouth, MN 27056",
+        "phone": "3817386215",
+        "email": "montesmark@example.org",
+        "account": {
+            "account_number": "0da16853-8eb0-4ea7-a805-38dc85adc351",
+            "balance": 24681.97,
+            "transactions": [
+                {
+                    "date": "2023-07-27",
+                    "description": "Deposit",
+                    "amount": -3189.56,
+                    "transaction_id": 68352534
+                },
+                {
+                    "date": "2024-02-10",
+                    "description": "Interest",
+                    "amount": -3819.13,
+                    "transaction_id": 11745860
+                }
+            ]
+        }
+    }
+}

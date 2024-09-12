@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "George Arroyo",
+        "age": 91,
+        "gender": "male",
+        "address": "838 Chelsea Heights Suite 953, Port Robertchester, IL 22684",
+        "phone": "945-912-0692",
+        "email": "jonesbrenda@example.com",
+        "account": {
+            "account_number": "f3d5b24f-f22a-4ea1-a76b-2a8651a128e3",
+            "balance": 1412.7,
+            "transactions": [
+                {
+                    "date": "2022-11-24",
+                    "description": "Deposit",
+                    "amount": 21057.19,
+                    "transaction_id": 14384060
+                },
+                {
+                    "date": "2024-06-14",
+                    "description": "Withdrawal",
+                    "amount": 48315.57,
+                    "transaction_id": 92802133
+                },
+                {
+                    "date": "2023-11-26",
+                    "description": "Interest",
+                    "amount": 28317.86,
+                    "transaction_id": 99493425
+                },
+                {
+                    "date": "2024-08-01",
+                    "description": "Interest",
+                    "amount": 6327.93,
+                    "transaction_id": 92789234
+                }
+            ]
+        }
+    }
+}

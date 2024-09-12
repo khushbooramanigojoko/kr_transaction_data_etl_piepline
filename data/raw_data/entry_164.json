@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Amy Jordan",
+        "age": 49,
+        "gender": "female",
+        "address": "94403 Shannon Place, New Deannaview, VT 03175",
+        "phone": "224.400.5648x34894",
+        "email": "morriscourtney@example.org",
+        "account": {
+            "account_number": "b720d5b1-b94a-457d-be53-20fde808e687",
+            "balance": 20782.64,
+            "transactions": [
+                {
+                    "date": "2024-08-18",
+                    "description": "Deposit",
+                    "amount": 6815.63,
+                    "transaction_id": 90460359
+                },
+                {
+                    "date": "2024-02-28",
+                    "description": "Withdrawal",
+                    "amount": 47066.24,
+                    "transaction_id": 3192550
+                },
+                {
+                    "date": "2023-12-25",
+                    "description": "Interest",
+                    "amount": 13797.44,
+                    "transaction_id": 68669710
+                }
+            ]
+        }
+    }
+}

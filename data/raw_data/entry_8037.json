@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jesse Conway",
+        "age": 18,
+        "gender": "female",
+        "address": "54072 Joshua Camp Suite 626, Port Michaelhaven, IL 28884",
+        "phone": "(852)792-9090",
+        "email": "michelereilly@example.net",
+        "account": {
+            "account_number": "93b5bfb8-22b7-468b-9739-59389c5cd7c9",
+            "balance": 36782.69,
+            "transactions": [
+                {
+                    "date": "2022-10-05",
+                    "description": "Interest",
+                    "amount": 29898.15,
+                    "transaction_id": 40692605
+                },
+                {
+                    "date": "2023-07-31",
+                    "description": "Interest",
+                    "amount": 9533.55,
+                    "transaction_id": 104949609
+                },
+                {
+                    "date": "2023-11-20",
+                    "description": "Deposit",
+                    "amount": 2331.11,
+                    "transaction_id": 61517746
+                },
+                {
+                    "date": "2024-08-25",
+                    "description": "Withdrawal",
+                    "amount": 42122.96,
+                    "transaction_id": 24918181
+                }
+            ]
+        }
+    }
+}

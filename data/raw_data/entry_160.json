@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Allison Herring",
+        "age": 95,
+        "gender": "female",
+        "address": "20399 Barbara Neck, North Kimberlychester, NM 40328",
+        "phone": "638.740.0426",
+        "email": "cgibbs@example.com",
+        "account": {
+            "account_number": "07eb2595-d55f-4c81-85ea-8cf1230c204a",
+            "balance": 39244.77,
+            "transactions": [
+                {
+                    "date": "2023-11-09",
+                    "description": "Interest",
+                    "amount": 29165.86,
+                    "transaction_id": 67878225
+                }
+            ]
+        }
+    }
+}

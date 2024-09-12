@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Lauren Wallace",
+        "age": 22,
+        "gender": "male",
+        "address": "134 Arthur Parkway Apt. 851, East Mollyburgh, CT 91103",
+        "phone": "001-350-742-8410x04386",
+        "email": "mooreedward@example.com",
+        "account": {
+            "account_number": "a1b23ef0-5a4f-4913-bd07-8f9fa7c8729c",
+            "balance": 19305.87,
+            "transactions": [
+                {
+                    "date": "2022-12-19",
+                    "description": "Deposit",
+                    "amount": 25718.4,
+                    "transaction_id": 27817920
+                }
+            ]
+        }
+    }
+}

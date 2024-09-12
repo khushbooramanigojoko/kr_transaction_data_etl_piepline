@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 63,
+        "gender": "male",
+        "address": "218 Chaney Path, West Mark, MP 19793",
+        "phone": "+1-381-426-7729x252",
+        "email": "kirbycolin@example.org",
+        "account": {
+            "account_number": "91fbafa9-211c-43d0-831b-d278ae78df47",
+            "balance": 28430.95,
+            "transactions": [
+                {
+                    "date": "2023-10-19",
+                    "description": "Withdrawal",
+                    "amount": 2447.0,
+                    "transaction_id": 22673868
+                }
+            ]
+        }
+    }
+}

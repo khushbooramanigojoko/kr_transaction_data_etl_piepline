@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Ashley Miles",
+        "age": 58,
+        "gender": "male",
+        "address": "332 Jennifer Harbor, Tracyshire, WA 13871",
+        "phone": "(896)324-1563x816",
+        "email": "collinhorton@example.net",
+        "account": {
+            "account_number": "931b5480-bb89-400b-b97a-228c5282db12",
+            "balance": -32144.72,
+            "transactions": [
+                {
+                    "date": "2023-08-27",
+                    "description": "Interest",
+                    "amount": -198.52,
+                    "transaction_id": 46961173
+                },
+                {
+                    "date": "2023-02-03",
+                    "description": "Withdrawal",
+                    "amount": 1749.25,
+                    "transaction_id": 9690778
+                }
+            ]
+        }
+    }
+}

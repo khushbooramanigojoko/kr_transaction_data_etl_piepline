@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Andrew Benson",
+        "age": 33,
+        "gender": "male",
+        "address": "3988 Sullivan Stravenue Suite 562, Fredtown, ME 81192",
+        "phone": "294-673-5553",
+        "email": "kelly46@example.net",
+        "account": {
+            "account_number": "52763618-61a1-414c-9ef5-18d0018b0d11",
+            "balance": 30379.98,
+            "transactions": [
+                {
+                    "date": "2024-04-17",
+                    "description": "Withdrawal",
+                    "amount": 6211.86,
+                    "transaction_id": 6474570
+                },
+                {
+                    "date": "2023-03-09",
+                    "description": "Withdrawal",
+                    "amount": 29982.18,
+                    "transaction_id": 113090843
+                },
+                {
+                    "date": "2022-12-29",
+                    "description": "Deposit",
+                    "amount": 20567.12,
+                    "transaction_id": 46050132
+                },
+                {
+                    "date": "2022-12-12",
+                    "description": "Interest",
+                    "amount": 6183.08,
+                    "transaction_id": 49620707
+                }
+            ]
+        }
+    }
+}

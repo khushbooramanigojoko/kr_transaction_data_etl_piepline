@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Marie Hahn",
+        "age": 37,
+        "gender": "male",
+        "address": "371 Harrington Way, Johnsonmouth, OR 39737",
+        "phone": "001-487-358-6599",
+        "email": "heatherturner@example.net",
+        "account": {
+            "account_number": "f5981c4a-ec97-43c8-aa04-86daa281cf8d",
+            "balance": 36262.52,
+            "transactions": [
+                {
+                    "date": "2024-03-13",
+                    "description": "Interest",
+                    "amount": 36012.19,
+                    "transaction_id": 22651599
+                },
+                {
+                    "date": "2024-06-03",
+                    "description": "Deposit",
+                    "amount": 34881.34,
+                    "transaction_id": 100367085
+                },
+                {
+                    "date": "2022-10-05",
+                    "description": "Deposit",
+                    "amount": 33051.64,
+                    "transaction_id": 75411418
+                },
+                {
+                    "date": "2023-04-22",
+                    "description": "Deposit",
+                    "amount": 20885.43,
+                    "transaction_id": 48486652
+                }
+            ]
+        }
+    }
+}

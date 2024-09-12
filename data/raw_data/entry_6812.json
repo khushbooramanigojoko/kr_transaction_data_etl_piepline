@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Billy Shepherd",
+        "age": 73,
+        "gender": "female",
+        "address": "3801 Phelps Vista, South Angela, ID 61448",
+        "phone": "520.398.8731x709",
+        "email": "jameslucas@example.org",
+        "account": {
+            "account_number": "479405a3-a389-4f1c-8066-d4a595501065",
+            "balance": 8818.64,
+            "transactions": [
+                {
+                    "date": "2023-04-17",
+                    "description": "Deposit",
+                    "amount": 34107.36,
+                    "transaction_id": 19299847
+                },
+                {
+                    "date": "2024-06-20",
+                    "description": "Deposit",
+                    "amount": 23840.25,
+                    "transaction_id": 69711954
+                },
+                {
+                    "date": "2024-02-17",
+                    "description": "Withdrawal",
+                    "amount": 16716.8,
+                    "transaction_id": 14718352
+                },
+                {
+                    "date": "2023-11-12",
+                    "description": "Deposit",
+                    "amount": 27781.75,
+                    "transaction_id": 2413856
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Timothy Graham",
+        "age": 96,
+        "gender": "female",
+        "address": "2107 Andrea Radial, Brighthaven, KY 82710",
+        "phone": "001-464-682-3294x7498",
+        "email": "emilyreynolds@example.org",
+        "account": {
+            "account_number": "5b6f006a-fe84-4490-807c-e6e437c2757d",
+            "balance": 8504.95,
+            "transactions": [
+                {
+                    "date": "2024-08-29",
+                    "description": "Interest",
+                    "amount": 30539.91,
+                    "transaction_id": 118514514
+                },
+                {
+                    "date": "2022-11-13",
+                    "description": "Deposit",
+                    "amount": 31298.62,
+                    "transaction_id": 49187287
+                }
+            ]
+        }
+    }
+}

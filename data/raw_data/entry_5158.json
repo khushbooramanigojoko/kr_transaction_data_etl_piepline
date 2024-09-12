@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Amanda Webb",
+        "age": 75,
+        "gender": "male",
+        "address": "07146 Craig Trafficway Apt. 555, Port Teresa, GA 32219",
+        "phone": "554.419.6550x80426",
+        "email": "fishermichael@example.net",
+        "account": {
+            "account_number": "931d60aa-ae66-4a42-af49-1542e36e8ef0",
+            "balance": 49207.83,
+            "transactions": [
+                {
+                    "date": "2023-04-18",
+                    "description": "Interest",
+                    "amount": 19577.74,
+                    "transaction_id": 76053664
+                },
+                {
+                    "date": "2024-07-05",
+                    "description": "Interest",
+                    "amount": 6379.8,
+                    "transaction_id": 109016544
+                },
+                {
+                    "date": "2023-12-24",
+                    "description": "Deposit",
+                    "amount": 4711.16,
+                    "transaction_id": 50881850
+                },
+                {
+                    "date": "2023-07-27",
+                    "description": "Interest",
+                    "amount": 36721.29,
+                    "transaction_id": 67394335
+                },
+                {
+                    "date": "2022-11-16",
+                    "description": "Deposit",
+                    "amount": 22054.46,
+                    "transaction_id": 64843480
+                }
+            ]
+        }
+    }
+}

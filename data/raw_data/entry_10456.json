@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 70,
+        "gender": "female",
+        "address": "81035 Erin Mill Suite 537, South Steven, NY 44611",
+        "phone": "(373)860-8978x623",
+        "email": "cathycline@example.org",
+        "account": {
+            "account_number": "9fb758a1-1a4b-421a-b834-fba6aec09f8f",
+            "balance": 8149.1,
+            "transactions": [
+                {
+                    "date": "2023-08-15",
+                    "description": "Withdrawal",
+                    "amount": -3830.66,
+                    "transaction_id": 43631654
+                },
+                {
+                    "date": "2022-12-15",
+                    "description": "Withdrawal",
+                    "amount": -3761.58,
+                    "transaction_id": 109298030
+                },
+                {
+                    "date": "2023-10-29",
+                    "description": "Withdrawal",
+                    "amount": 1368.26,
+                    "transaction_id": 83157711
+                }
+            ]
+        }
+    }
+}

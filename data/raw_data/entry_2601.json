@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Anna Ramirez",
+        "age": 83,
+        "gender": "female",
+        "address": "694 Michael Run Apt. 414, South Michael, NC 75279",
+        "phone": "(707)779-8186x652",
+        "email": "ryanbrown@example.org",
+        "account": {
+            "account_number": "61e5e285-b61d-4c69-9eae-116c2e0172fe",
+            "balance": 46365.46,
+            "transactions": [
+                {
+                    "date": "2023-05-03",
+                    "description": "Withdrawal",
+                    "amount": 42758.12,
+                    "transaction_id": 55167123
+                },
+                {
+                    "date": "2023-10-07",
+                    "description": "Withdrawal",
+                    "amount": 15154.16,
+                    "transaction_id": 53813919
+                }
+            ]
+        }
+    }
+}

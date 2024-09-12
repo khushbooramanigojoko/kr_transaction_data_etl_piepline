@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 48,
+        "gender": "female",
+        "address": "PSC 6143, Box 2563, APO AE 16623",
+        "phone": "(817)318-0677",
+        "email": "qroberts@example.com",
+        "account": {
+            "account_number": "5b24d86a-9d0e-4b76-aada-21114b5a9f6e",
+            "balance": 30301.84,
+            "transactions": [
+                {
+                    "date": "2024-05-29",
+                    "description": "Interest",
+                    "amount": -4765.64,
+                    "transaction_id": 99840383
+                },
+                {
+                    "date": "2023-07-15",
+                    "description": "Withdrawal",
+                    "amount": -3994.29,
+                    "transaction_id": 74621793
+                },
+                {
+                    "date": "2023-05-28",
+                    "description": "Withdrawal",
+                    "amount": -2115.14,
+                    "transaction_id": 77963013
+                }
+            ]
+        }
+    }
+}

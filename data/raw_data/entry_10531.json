@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Melanie Barrett",
+        "age": 60,
+        "gender": "female",
+        "address": "USCGC Mills, FPO AE 09598",
+        "phone": "(266)435-5221x56086",
+        "email": "jasminemiller@example.net",
+        "account": {
+            "account_number": "9a951edc-6ccc-402b-b537-dc9f2f9485fa",
+            "balance": -7546.55,
+            "transactions": [
+                {
+                    "date": "2023-07-26",
+                    "description": "Withdrawal",
+                    "amount": 504.24,
+                    "transaction_id": 89858297
+                },
+                {
+                    "date": "2023-12-07",
+                    "description": "Interest",
+                    "amount": 813.29,
+                    "transaction_id": 109445138
+                },
+                {
+                    "date": "2023-03-02",
+                    "description": "Deposit",
+                    "amount": -4048.35,
+                    "transaction_id": 85965720
+                }
+            ]
+        }
+    }
+}

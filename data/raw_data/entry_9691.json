@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Michael Barker",
+        "age": 78,
+        "gender": "female",
+        "address": "199 Miller Estates, West Tom, PR 56906",
+        "phone": "001-548-498-2076x869",
+        "email": "uwoods@example.net",
+        "account": {
+            "account_number": "2c71499a-4b6c-4a31-a914-03a8544ec3c9",
+            "balance": -33000.39,
+            "transactions": [
+                {
+                    "date": "2022-12-26",
+                    "description": "Withdrawal",
+                    "amount": -3732.79,
+                    "transaction_id": 72775414
+                },
+                {
+                    "date": "2022-09-12",
+                    "description": "Deposit",
+                    "amount": -1053.41,
+                    "transaction_id": 2540296
+                }
+            ]
+        }
+    }
+}

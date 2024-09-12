@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Charles Ballard",
+        "age": 18,
+        "gender": "female",
+        "address": "19464 Michael Run Suite 928, Jackietown, WA 68849",
+        "phone": "743-215-0104x2902",
+        "email": "hector45@example.net",
+        "account": {
+            "account_number": "a8bbeefa-3376-4c1c-bcd6-47990095fe65",
+            "balance": 25317.91,
+            "transactions": [
+                {
+                    "date": "2023-04-12",
+                    "description": "Deposit",
+                    "amount": 38135.37,
+                    "transaction_id": 108726431
+                },
+                {
+                    "date": "2024-05-13",
+                    "description": "Interest",
+                    "amount": 45282.98,
+                    "transaction_id": 72884728
+                }
+            ]
+        }
+    }
+}

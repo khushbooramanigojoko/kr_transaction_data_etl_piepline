@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Crystal Barnett",
+        "age": 50,
+        "gender": "female",
+        "address": "15096 Kevin Lake, Port Jenniferbury, PA 21657",
+        "phone": "4212635722",
+        "email": "jbaird@example.org",
+        "account": {
+            "account_number": "a2f06461-4c38-41f1-a070-a54f2f3e0b7a",
+            "balance": 1752.76,
+            "transactions": [
+                {
+                    "date": "2023-10-13",
+                    "description": "Withdrawal",
+                    "amount": 24179.46,
+                    "transaction_id": 5923455
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Withdrawal",
+                    "amount": 27230.8,
+                    "transaction_id": 11053478
+                }
+            ]
+        }
+    }
+}

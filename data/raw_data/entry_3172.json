@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Samuel Schaefer",
+        "age": 36,
+        "gender": "female",
+        "address": "084 Caleb Plaza Apt. 272, East Erikberg, KS 82616",
+        "phone": "001-837-538-4107x02743",
+        "email": "martin04@example.org",
+        "account": {
+            "account_number": "281ac669-5706-47e8-8c1b-015818b55611",
+            "balance": 43439.39,
+            "transactions": [
+                {
+                    "date": "2022-10-22",
+                    "description": "Interest",
+                    "amount": 20905.25,
+                    "transaction_id": 62508792
+                },
+                {
+                    "date": "2023-08-01",
+                    "description": "Interest",
+                    "amount": 6945.33,
+                    "transaction_id": 82712105
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Brian Smith",
+        "age": 59,
+        "gender": "female",
+        "address": "054 Lopez Square Suite 413, South Christinatown, MS 19385",
+        "phone": "719-454-0057x85478",
+        "email": "margaret74@example.net",
+        "account": {
+            "account_number": "e3266c42-ef18-4a21-888d-58fd91d5b23b",
+            "balance": -34991.54,
+            "transactions": [
+                {
+                    "date": "2024-08-04",
+                    "description": "Deposit",
+                    "amount": -3990.3,
+                    "transaction_id": 18891962
+                },
+                {
+                    "date": "2023-10-13",
+                    "description": "Withdrawal",
+                    "amount": 2333.16,
+                    "transaction_id": 92945831
+                },
+                {
+                    "date": "2024-07-19",
+                    "description": "Withdrawal",
+                    "amount": -3321.9,
+                    "transaction_id": 91432876
+                },
+                {
+                    "date": "2024-03-08",
+                    "description": "Withdrawal",
+                    "amount": -3929.71,
+                    "transaction_id": 26350226
+                }
+            ]
+        }
+    }
+}

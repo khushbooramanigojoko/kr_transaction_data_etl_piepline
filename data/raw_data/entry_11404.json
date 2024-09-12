@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Andrew Parsons",
+        "age": 45,
+        "gender": "female",
+        "address": "4374 Donald Club Suite 414, Bellport, DC 16343",
+        "phone": "913-513-1940",
+        "email": "nashtravis@example.net",
+        "account": {
+            "account_number": "6baaacfc-3974-4efd-ac79-1460fc3e07ae",
+            "balance": -28147.77,
+            "transactions": [
+                {
+                    "date": "2022-10-25",
+                    "description": "Interest",
+                    "amount": -1486.01,
+                    "transaction_id": 22668311
+                },
+                {
+                    "date": "2023-12-11",
+                    "description": "Interest",
+                    "amount": -776.88,
+                    "transaction_id": 57516909
+                },
+                {
+                    "date": "2024-05-15",
+                    "description": "Interest",
+                    "amount": -1993.37,
+                    "transaction_id": 5317054
+                },
+                {
+                    "date": "2024-02-22",
+                    "description": "Interest",
+                    "amount": -421.14,
+                    "transaction_id": 70380254
+                }
+            ]
+        }
+    }
+}

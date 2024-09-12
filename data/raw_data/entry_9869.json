@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Ellen Wilson",
+        "age": 30,
+        "gender": "female",
+        "address": "9956 Freeman Land Apt. 713, Thomasfurt, IL 42857",
+        "phone": "(612)952-5785x221",
+        "email": "boydmarilyn@example.net",
+        "account": {
+            "account_number": "fd78deba-48f2-44eb-bc25-41f258d55690",
+            "balance": -10190.52,
+            "transactions": [
+                {
+                    "date": "2023-08-06",
+                    "description": "Withdrawal",
+                    "amount": -3427.06,
+                    "transaction_id": 55207955
+                },
+                {
+                    "date": "2024-06-28",
+                    "description": "Deposit",
+                    "amount": -3563.25,
+                    "transaction_id": 73004580
+                },
+                {
+                    "date": "2024-06-11",
+                    "description": "Interest",
+                    "amount": 262.02,
+                    "transaction_id": 98916931
+                }
+            ]
+        }
+    }
+}

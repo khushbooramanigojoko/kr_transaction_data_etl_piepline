@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Sara Kelley",
+        "age": 96,
+        "gender": "male",
+        "address": "1125 Susan Unions Suite 064, Rodriguezbury, MP 16225",
+        "phone": "001-610-675-3722x75594",
+        "email": "rebecca00@example.com",
+        "account": {
+            "account_number": "5972f2d9-fa06-4b65-99b7-70e8fd7127df",
+            "balance": 9325.95,
+            "transactions": [
+                {
+                    "date": "2022-11-07",
+                    "description": "Interest",
+                    "amount": 44599.15,
+                    "transaction_id": 59980904
+                },
+                {
+                    "date": "2023-07-05",
+                    "description": "Deposit",
+                    "amount": 9674.4,
+                    "transaction_id": 96713791
+                }
+            ]
+        }
+    }
+}

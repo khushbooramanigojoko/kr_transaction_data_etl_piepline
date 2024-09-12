@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Kevin Gray",
+        "age": 92,
+        "gender": "female",
+        "address": "65057 Steven Islands, Lake Scottmouth, MH 01471",
+        "phone": "751-275-3707",
+        "email": "cdavis@example.org",
+        "account": {
+            "account_number": "cb0a6797-98ac-45c0-a37f-7ad5aff2e264",
+            "balance": 20332.72,
+            "transactions": [
+                {
+                    "date": "2024-02-09",
+                    "description": "Withdrawal",
+                    "amount": 37863.0,
+                    "transaction_id": 2305428
+                },
+                {
+                    "date": "2023-05-17",
+                    "description": "Deposit",
+                    "amount": 39633.29,
+                    "transaction_id": 111496679
+                }
+            ]
+        }
+    }
+}

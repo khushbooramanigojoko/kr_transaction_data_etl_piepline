@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Dawn Olson",
+        "age": 75,
+        "gender": "male",
+        "address": "USCGC Mcdonald, FPO AA 21897",
+        "phone": "997-761-7147x7427",
+        "email": "dcaldwell@example.com",
+        "account": {
+            "account_number": "f7409722-a3d2-42fb-8bcc-d503adeb6195",
+            "balance": 42650.42,
+            "transactions": [
+                {
+                    "date": "2022-11-14",
+                    "description": "Interest",
+                    "amount": 37461.29,
+                    "transaction_id": 79941720
+                },
+                {
+                    "date": "2023-09-26",
+                    "description": "Interest",
+                    "amount": 32764.12,
+                    "transaction_id": 57586666
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Sean Buchanan",
+        "age": 18,
+        "gender": "female",
+        "address": "0555 Norman Plaza Suite 200, New David, MT 81702",
+        "phone": "366.467.1570x244",
+        "email": "amanda17@example.com",
+        "account": {
+            "account_number": "74ccc8e4-ffbd-4cca-8ebe-686ba0e18eaf",
+            "balance": 35398.11,
+            "transactions": [
+                {
+                    "date": "2023-02-03",
+                    "description": "Withdrawal",
+                    "amount": 45963.22,
+                    "transaction_id": 17030085
+                },
+                {
+                    "date": "2022-09-21",
+                    "description": "Deposit",
+                    "amount": 42843.9,
+                    "transaction_id": 72216631
+                },
+                {
+                    "date": "2024-04-26",
+                    "description": "Deposit",
+                    "amount": 5620.88,
+                    "transaction_id": 55815646
+                },
+                {
+                    "date": "2023-10-17",
+                    "description": "Interest",
+                    "amount": 37978.2,
+                    "transaction_id": 85604653
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Jeanette Bray",
+        "age": 71,
+        "gender": "female",
+        "address": "678 Ellison Bypass, Jaychester, KY 94111",
+        "phone": "3268196077",
+        "email": "marc14@example.org",
+        "account": {
+            "account_number": "ea55e211-07cf-428a-887c-62dfd3bd9eed",
+            "balance": 15836.13,
+            "transactions": [
+                {
+                    "date": "2022-10-22",
+                    "description": "Interest",
+                    "amount": 10743.62,
+                    "transaction_id": 92471548
+                }
+            ]
+        }
+    }
+}

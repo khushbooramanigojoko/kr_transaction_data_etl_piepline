@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Emily Howell",
+        "age": 56,
+        "gender": "male",
+        "address": "335 Meadows Lodge Suite 163, Crystalport, DE 34448",
+        "phone": "(674)856-9532x41701",
+        "email": "meganbush@example.com",
+        "account": {
+            "account_number": "9b70597a-2f04-4f7d-a8e9-49bfabd1f380",
+            "balance": -28205.07,
+            "transactions": [
+                {
+                    "date": "2023-04-12",
+                    "description": "Deposit",
+                    "amount": 703.15,
+                    "transaction_id": 49464259
+                },
+                {
+                    "date": "2023-09-27",
+                    "description": "Interest",
+                    "amount": 1599.12,
+                    "transaction_id": 28895109
+                },
+                {
+                    "date": "2024-05-23",
+                    "description": "Deposit",
+                    "amount": 805.68,
+                    "transaction_id": 47025486
+                },
+                {
+                    "date": "2023-09-01",
+                    "description": "Interest",
+                    "amount": -4931.68,
+                    "transaction_id": 7398445
+                },
+                {
+                    "date": "2023-10-16",
+                    "description": "Withdrawal",
+                    "amount": -1900.37,
+                    "transaction_id": 83507734
+                }
+            ]
+        }
+    }
+}

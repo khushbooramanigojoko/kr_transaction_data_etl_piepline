@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Daniel Brown",
+        "age": 71,
+        "gender": "male",
+        "address": "1602 Judy Mountain, Lake Holly, GA 47279",
+        "phone": "(611)224-0291x33249",
+        "email": "kmendoza@example.net",
+        "account": {
+            "account_number": "2ae80083-dc4b-41a2-a16f-51991b7f9422",
+            "balance": 27519.59,
+            "transactions": [
+                {
+                    "date": "2023-08-18",
+                    "description": "Deposit",
+                    "amount": 10848.77,
+                    "transaction_id": 90493040
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Withdrawal",
+                    "amount": 35018.67,
+                    "transaction_id": 108904342
+                }
+            ]
+        }
+    }
+}

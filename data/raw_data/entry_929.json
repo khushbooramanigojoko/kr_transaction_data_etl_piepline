@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Michaela Mueller",
+        "age": 59,
+        "gender": "female",
+        "address": "9520 Russo Shoal, Monicaview, IL 96442",
+        "phone": "221-631-4300x52042",
+        "email": "fmccall@example.net",
+        "account": {
+            "account_number": "647fe4c4-e0ba-403f-8560-a5c38aec5397",
+            "balance": 2241.13,
+            "transactions": [
+                {
+                    "date": "2023-02-13",
+                    "description": "Deposit",
+                    "amount": 4047.4,
+                    "transaction_id": 99980416
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Rebecca Fields",
+        "age": 61,
+        "gender": "female",
+        "address": "5435 Michelle Brook Suite 550, Dylanborough, MP 31415",
+        "phone": "607-650-7968",
+        "email": "james33@example.net",
+        "account": {
+            "account_number": "fdc80dfc-188c-4543-ab93-0aed68a0801f",
+            "balance": 36293.71,
+            "transactions": [
+                {
+                    "date": "2023-11-19",
+                    "description": "Interest",
+                    "amount": 22449.71,
+                    "transaction_id": 89228323
+                },
+                {
+                    "date": "2024-02-13",
+                    "description": "Interest",
+                    "amount": 40660.78,
+                    "transaction_id": 32600282
+                },
+                {
+                    "date": "2024-01-21",
+                    "description": "Interest",
+                    "amount": 8189.14,
+                    "transaction_id": 92162456
+                },
+                {
+                    "date": "2023-02-15",
+                    "description": "Deposit",
+                    "amount": 44127.6,
+                    "transaction_id": 86115452
+                },
+                {
+                    "date": "2024-01-05",
+                    "description": "Interest",
+                    "amount": 25151.97,
+                    "transaction_id": 118395297
+                }
+            ]
+        }
+    }
+}

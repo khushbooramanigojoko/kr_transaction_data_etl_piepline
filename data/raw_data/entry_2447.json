@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Juan Jones",
+        "age": 81,
+        "gender": "female",
+        "address": "110 Flores Haven, Michaelberg, RI 18354",
+        "phone": "001-841-449-8580x744",
+        "email": "caldwelljohn@example.net",
+        "account": {
+            "account_number": "a7934a29-67db-4702-a899-2a277558120d",
+            "balance": 49281.46,
+            "transactions": [
+                {
+                    "date": "2023-04-18",
+                    "description": "Interest",
+                    "amount": 45662.91,
+                    "transaction_id": 115295246
+                },
+                {
+                    "date": "2023-03-02",
+                    "description": "Interest",
+                    "amount": 48117.4,
+                    "transaction_id": 109846882
+                },
+                {
+                    "date": "2022-11-01",
+                    "description": "Interest",
+                    "amount": 19783.34,
+                    "transaction_id": 112514980
+                },
+                {
+                    "date": "2024-01-18",
+                    "description": "Withdrawal",
+                    "amount": 5050.17,
+                    "transaction_id": 57813753
+                },
+                {
+                    "date": "2023-11-25",
+                    "description": "Withdrawal",
+                    "amount": 48183.6,
+                    "transaction_id": 92695210
+                }
+            ]
+        }
+    }
+}

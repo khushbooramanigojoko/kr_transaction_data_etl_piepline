@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Scott Moore",
+        "age": 69,
+        "gender": "female",
+        "address": "081 Michael Course, Ashleeside, WA 20949",
+        "phone": "522.703.0822",
+        "email": "chelsea76@example.net",
+        "account": {
+            "account_number": "83ca173e-04ec-4312-bcbe-03950297d754",
+            "balance": 47548.34,
+            "transactions": [
+                {
+                    "date": "2023-11-16",
+                    "description": "Withdrawal",
+                    "amount": 20852.02,
+                    "transaction_id": 81458177
+                },
+                {
+                    "date": "2024-08-06",
+                    "description": "Withdrawal",
+                    "amount": 26745.66,
+                    "transaction_id": 104664597
+                }
+            ]
+        }
+    }
+}

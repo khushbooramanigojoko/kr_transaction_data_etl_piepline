@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Robert Stanley",
+        "age": 18,
+        "gender": "male",
+        "address": "68949 Sherry Grove, New Breanna, PW 69030",
+        "phone": "743.757.9673x7293",
+        "email": "alexandertara@example.net",
+        "account": {
+            "account_number": "a571a24d-cdab-4dfc-bc59-64e60d550b19",
+            "balance": 43899.47,
+            "transactions": [
+                {
+                    "date": "2023-07-11",
+                    "description": "Withdrawal",
+                    "amount": 31840.22,
+                    "transaction_id": 54197494
+                },
+                {
+                    "date": "2024-01-11",
+                    "description": "Deposit",
+                    "amount": 33684.1,
+                    "transaction_id": 92702781
+                }
+            ]
+        }
+    }
+}

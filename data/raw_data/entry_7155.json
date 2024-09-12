@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Debra Stewart",
+        "age": 31,
+        "gender": "male",
+        "address": "2634 John Throughway Suite 155, North Denise, DC 26814",
+        "phone": "215-519-2703x13664",
+        "email": "olee@example.com",
+        "account": {
+            "account_number": "a8462a41-557f-4f1c-8e44-f3955559c7a6",
+            "balance": 33358.36,
+            "transactions": [
+                {
+                    "date": "2022-10-15",
+                    "description": "Deposit",
+                    "amount": 705.77,
+                    "transaction_id": 15679711
+                },
+                {
+                    "date": "2022-10-10",
+                    "description": "Interest",
+                    "amount": 32495.12,
+                    "transaction_id": 95183276
+                },
+                {
+                    "date": "2023-11-29",
+                    "description": "Withdrawal",
+                    "amount": 43440.94,
+                    "transaction_id": 33413303
+                }
+            ]
+        }
+    }
+}

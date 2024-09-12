@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Cheryl Taylor",
+        "age": 61,
+        "gender": "female",
+        "address": "251 Virginia Skyway, Millertown, AS 82157",
+        "phone": "+1-625-945-1457x0082",
+        "email": "rachel43@example.org",
+        "account": {
+            "account_number": "e1507309-ee1d-4f59-b2f1-3b8d2d1e6f56",
+            "balance": 14321.61,
+            "transactions": [
+                {
+                    "date": "2023-05-11",
+                    "description": "Withdrawal",
+                    "amount": 41055.77,
+                    "transaction_id": 75393926
+                },
+                {
+                    "date": "2023-05-08",
+                    "description": "Withdrawal",
+                    "amount": 28342.92,
+                    "transaction_id": 34834500
+                },
+                {
+                    "date": "2022-11-15",
+                    "description": "Interest",
+                    "amount": 38901.08,
+                    "transaction_id": 100488824
+                },
+                {
+                    "date": "2023-08-11",
+                    "description": "Withdrawal",
+                    "amount": 40549.72,
+                    "transaction_id": 10760389
+                }
+            ]
+        }
+    }
+}

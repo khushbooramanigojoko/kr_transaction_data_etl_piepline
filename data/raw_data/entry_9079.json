@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Samantha Franco",
+        "age": 76,
+        "gender": "female",
+        "address": "768 Kelsey Wells Apt. 929, Cynthiachester, OR 80038",
+        "phone": "001-249-365-2445x22012",
+        "email": "david54@example.com",
+        "account": {
+            "account_number": "49b2b31d-6085-4fec-b945-8a513af0a367",
+            "balance": -25310.15,
+            "transactions": [
+                {
+                    "date": "2023-12-24",
+                    "description": "Interest",
+                    "amount": 1610.73,
+                    "transaction_id": 35675508
+                },
+                {
+                    "date": "2023-11-04",
+                    "description": "Interest",
+                    "amount": -4655.41,
+                    "transaction_id": 92029286
+                },
+                {
+                    "date": "2024-05-24",
+                    "description": "Interest",
+                    "amount": 808.85,
+                    "transaction_id": 47763357
+                }
+            ]
+        }
+    }
+}

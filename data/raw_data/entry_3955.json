@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Morgan Stewart",
+        "age": 24,
+        "gender": "female",
+        "address": "764 David Well, West Jasonmouth, NY 82380",
+        "phone": "200-405-6960x0014",
+        "email": "philipwhite@example.com",
+        "account": {
+            "account_number": "a31ff469-bfb0-41b5-bcfe-587aa351e524",
+            "balance": 34259.89,
+            "transactions": [
+                {
+                    "date": "2024-05-13",
+                    "description": "Deposit",
+                    "amount": 13923.45,
+                    "transaction_id": 112213814
+                },
+                {
+                    "date": "2023-05-21",
+                    "description": "Interest",
+                    "amount": 28483.26,
+                    "transaction_id": 51005069
+                },
+                {
+                    "date": "2023-07-28",
+                    "description": "Interest",
+                    "amount": 4882.7,
+                    "transaction_id": 7282910
+                },
+                {
+                    "date": "2023-03-21",
+                    "description": "Interest",
+                    "amount": 11595.6,
+                    "transaction_id": 72778393
+                },
+                {
+                    "date": "2024-06-25",
+                    "description": "Interest",
+                    "amount": 32788.41,
+                    "transaction_id": 29158950
+                }
+            ]
+        }
+    }
+}

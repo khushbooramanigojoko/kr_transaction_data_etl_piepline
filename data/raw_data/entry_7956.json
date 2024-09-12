@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lee Wilkinson",
+        "age": 51,
+        "gender": "female",
+        "address": "PSC 6625, Box 7043, APO AA 86599",
+        "phone": "001-588-867-5956",
+        "email": "william53@example.org",
+        "account": {
+            "account_number": "96a44c45-9380-42f0-915f-5c84ee03f357",
+            "balance": 36876.96,
+            "transactions": [
+                {
+                    "date": "2023-03-10",
+                    "description": "Withdrawal",
+                    "amount": 11466.96,
+                    "transaction_id": 38234524
+                },
+                {
+                    "date": "2022-11-16",
+                    "description": "Withdrawal",
+                    "amount": 25696.55,
+                    "transaction_id": 1546046
+                }
+            ]
+        }
+    }
+}

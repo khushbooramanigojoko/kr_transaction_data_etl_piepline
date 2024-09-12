@@ -1,0 +1,28 @@
+{
+    "customer": {
+        "name": "Lindsey Lopez",
+        "age": 37,
+        "gender": "male",
+        "address": "9746 Thomas Junctions Suite 660, North Robertland, AR 31488",
+        "phone": "957-521-7402x045",
+        "email": "williamstonya@example.org",
+        "account": {
+            "account_number": "c867014a-0116-4383-82b0-aa0607c1e2cd",
+            "balance": 45552.07,
+            "transactions": [
+                {
+                    "date": "2023-06-14",
+                    "description": "Deposit",
+                    "amount": 12704.54,
+                    "transaction_id": 74103625
+                },
+                {
+                    "date": "2024-01-20",
+                    "description": "Interest",
+                    "amount": 47787.33,
+                    "transaction_id": 4926409
+                }
+            ]
+        }
+    }
+}

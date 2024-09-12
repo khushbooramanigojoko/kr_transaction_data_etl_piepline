@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Pamela Carr",
+        "age": 50,
+        "gender": "male",
+        "address": "894 Brown Square, Victoriafurt, AK 70863",
+        "phone": "741.402.6070",
+        "email": "kristenwest@example.org",
+        "account": {
+            "account_number": "18ca500f-d1e3-48e2-8eb6-447fa22ade72",
+            "balance": 34817.52,
+            "transactions": [
+                {
+                    "date": "2022-11-29",
+                    "description": "Deposit",
+                    "amount": 48200.49,
+                    "transaction_id": 19002648
+                },
+                {
+                    "date": "2024-08-10",
+                    "description": "Interest",
+                    "amount": 42909.95,
+                    "transaction_id": 50273634
+                },
+                {
+                    "date": "2022-12-25",
+                    "description": "Deposit",
+                    "amount": 25693.18,
+                    "transaction_id": 34141478
+                }
+            ]
+        }
+    }
+}

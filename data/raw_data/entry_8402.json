@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Mrs. Jacqueline Chavez",
+        "age": 68,
+        "gender": "male",
+        "address": "12934 Baxter Causeway, East Emily, IN 98808",
+        "phone": "+1-854-975-8078",
+        "email": "xgonzalez@example.net",
+        "account": {
+            "account_number": "569bfe4d-8d01-4e73-95e1-4a0f4225ea8f",
+            "balance": 1768.26,
+            "transactions": [
+                {
+                    "date": "2022-09-03",
+                    "description": "Deposit",
+                    "amount": 17255.98,
+                    "transaction_id": 103150773
+                }
+            ]
+        }
+    }
+}

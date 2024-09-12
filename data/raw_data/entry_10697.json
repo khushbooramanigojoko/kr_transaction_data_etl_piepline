@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": null,
+        "age": 77,
+        "gender": "male",
+        "address": "2571 Jones Island Suite 960, Port Larry, MP 39510",
+        "phone": "001-641-388-8138x567",
+        "email": "vgarner@example.net",
+        "account": {
+            "account_number": "55a311c5-e326-4d96-a594-41a6a6b8784a",
+            "balance": 14494.72,
+            "transactions": [
+                {
+                    "date": "2022-11-03",
+                    "description": "Interest",
+                    "amount": 1655.64,
+                    "transaction_id": 109809456
+                }
+            ]
+        }
+    }
+}

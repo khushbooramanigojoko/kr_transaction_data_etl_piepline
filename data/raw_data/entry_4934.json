@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": "Tammy Baird",
+        "age": 73,
+        "gender": "female",
+        "address": "8228 Good Inlet, Port Reginaville, ME 71143",
+        "phone": "441.721.8637x9777",
+        "email": "webbelizabeth@example.net",
+        "account": {
+            "account_number": "41581359-4be3-4837-8b81-59d3b965751a",
+            "balance": 8188.13,
+            "transactions": [
+                {
+                    "date": "2023-05-25",
+                    "description": "Deposit",
+                    "amount": 20442.42,
+                    "transaction_id": 26902431
+                },
+                {
+                    "date": "2022-12-31",
+                    "description": "Withdrawal",
+                    "amount": 28500.71,
+                    "transaction_id": 107211782
+                },
+                {
+                    "date": "2022-12-27",
+                    "description": "Withdrawal",
+                    "amount": 5193.69,
+                    "transaction_id": 37792421
+                }
+            ]
+        }
+    }
+}

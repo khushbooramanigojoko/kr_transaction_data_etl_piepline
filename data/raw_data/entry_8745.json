@@ -1,0 +1,34 @@
+{
+    "customer": {
+        "name": null,
+        "age": 99,
+        "gender": "male",
+        "address": "Unit 4109 Box 9185, DPO AE 18571",
+        "phone": "001-393-638-3164x84584",
+        "email": "kennethgriffin@example.org",
+        "account": {
+            "account_number": "85978fcc-8522-4f4f-95e3-6a5d0c9a88df",
+            "balance": 3290.43,
+            "transactions": [
+                {
+                    "date": "2022-12-30",
+                    "description": "Deposit",
+                    "amount": 2857.23,
+                    "transaction_id": 68658383
+                },
+                {
+                    "date": "2022-12-22",
+                    "description": "Withdrawal",
+                    "amount": -4341.18,
+                    "transaction_id": 10575413
+                },
+                {
+                    "date": "2023-05-04",
+                    "description": "Interest",
+                    "amount": 1008.02,
+                    "transaction_id": 60517754
+                }
+            ]
+        }
+    }
+}

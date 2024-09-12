@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Jesse Alvarez",
+        "age": 38,
+        "gender": "female",
+        "address": "9390 Smith Cove Apt. 757, Lisahaven, MS 27497",
+        "phone": "385-589-5794x5520",
+        "email": "andrearamirez@example.com",
+        "account": {
+            "account_number": "997b3cc6-591b-4683-a369-0eb747e49f1c",
+            "balance": 42126.61,
+            "transactions": [
+                {
+                    "date": "2023-01-14",
+                    "description": "Withdrawal",
+                    "amount": 31776.01,
+                    "transaction_id": 76628283
+                },
+                {
+                    "date": "2022-09-09",
+                    "description": "Withdrawal",
+                    "amount": 15818.76,
+                    "transaction_id": 36196421
+                },
+                {
+                    "date": "2024-01-28",
+                    "description": "Withdrawal",
+                    "amount": 14088.8,
+                    "transaction_id": 93248847
+                },
+                {
+                    "date": "2023-12-10",
+                    "description": "Deposit",
+                    "amount": 44880.44,
+                    "transaction_id": 84548549
+                }
+            ]
+        }
+    }
+}

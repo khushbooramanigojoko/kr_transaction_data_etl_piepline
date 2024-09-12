@@ -1,0 +1,22 @@
+{
+    "customer": {
+        "name": "Patricia Olson",
+        "age": 34,
+        "gender": "male",
+        "address": "111 Wiggins Rest Suite 383, East Melissa, NV 40980",
+        "phone": "(600)581-3126x232",
+        "email": "patrickmeyers@example.net",
+        "account": {
+            "account_number": "d596a869-a844-44c0-9629-e8e8c3548564",
+            "balance": -14831.71,
+            "transactions": [
+                {
+                    "date": "2023-02-16",
+                    "description": "Interest",
+                    "amount": -1193.06,
+                    "transaction_id": 55587483
+                }
+            ]
+        }
+    }
+}

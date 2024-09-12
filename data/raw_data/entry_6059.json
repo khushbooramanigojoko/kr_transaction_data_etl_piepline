@@ -1,0 +1,46 @@
+{
+    "customer": {
+        "name": "Gabrielle Carter",
+        "age": 67,
+        "gender": "male",
+        "address": "855 Jermaine Trace, New Cynthiatown, AL 57155",
+        "phone": "824-761-6843x0771",
+        "email": "jcharles@example.net",
+        "account": {
+            "account_number": "bf6bae16-e757-4e3f-9265-b540740da77c",
+            "balance": 12410.8,
+            "transactions": [
+                {
+                    "date": "2023-04-29",
+                    "description": "Deposit",
+                    "amount": 30376.33,
+                    "transaction_id": 65647605
+                },
+                {
+                    "date": "2024-05-22",
+                    "description": "Deposit",
+                    "amount": 1863.53,
+                    "transaction_id": 62260461
+                },
+                {
+                    "date": "2023-04-13",
+                    "description": "Withdrawal",
+                    "amount": 25950.16,
+                    "transaction_id": 57779516
+                },
+                {
+                    "date": "2023-04-15",
+                    "description": "Withdrawal",
+                    "amount": 23759.13,
+                    "transaction_id": 100170658
+                },
+                {
+                    "date": "2022-11-23",
+                    "description": "Deposit",
+                    "amount": 40748.81,
+                    "transaction_id": 46582498
+                }
+            ]
+        }
+    }
+}

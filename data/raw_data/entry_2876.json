@@ -1,0 +1,40 @@
+{
+    "customer": {
+        "name": "Glenn Kramer",
+        "age": 84,
+        "gender": "female",
+        "address": "74156 Harding Path, Josephborough, DC 58594",
+        "phone": "640.540.5858x85875",
+        "email": "ronaldwhite@example.org",
+        "account": {
+            "account_number": "7ca234ee-60f9-48c6-af38-8f639aedfa97",
+            "balance": 9134.31,
+            "transactions": [
+                {
+                    "date": "2024-04-18",
+                    "description": "Deposit",
+                    "amount": 14633.28,
+                    "transaction_id": 91321000
+                },
+                {
+                    "date": "2022-11-21",
+                    "description": "Withdrawal",
+                    "amount": 327.43,
+                    "transaction_id": 103959924
+                },
+                {
+                    "date": "2023-12-23",
+                    "description": "Interest",
+                    "amount": 12055.73,
+                    "transaction_id": 80756789
+                },
+                {
+                    "date": "2024-02-09",
+                    "description": "Interest",
+                    "amount": 42933.19,
+                    "transaction_id": 18257188
+                }
+            ]
+        }
+    }
+}
